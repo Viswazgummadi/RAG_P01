@@ -19,6 +19,15 @@ python scripts/inference_pure.py --model_path models/checkpoints/final --use_lor
 
 
 
+# to compute database for all docs in data2 folder 
+
+ python scripts/rebuild_vector_db.py --input_dir data2 --output_jsonl processed_data/all_documents.jsonl --vector_db_dir vector_db --chunk_size 800 --chunk_overlap 150
+
+
+
+
+
+
 # Process all documents
 python preprocess.py --input_dir data2 --output_file processed_data/all_processed.jsonl
 
@@ -45,5 +54,29 @@ the latest rag is working good
 
 but working only based on vector db it now have only file should update it with all files data :)
 python scripts/test_base_model.py --vector_store_path vector_db
+
+
+
+
+
+# Evaluate fine-tuned model with RAG
+python scripts/compare_models.py \
+    --finetuned_model models/instruct_model/final \
+    --base_model "mistralai/Mistral-7B-Instruct-v0.2" \
+    --use_lora \
+    --compare_with_base \
+    --use_rag \
+    --vector_store_path vector_db \
+    --output_file models/evaluation_comparison.json
+
+
+
+
+# rest with gradio
+python scripts/model_comparison_ui.py \
+    --base_model "mistralai/Mistral-7B-Instruct-v0.2" \
+    --finetuned_model models/instruct_model/final \
+    --use_lora \
+    --vector_store vector_db
 
 

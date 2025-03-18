@@ -68,7 +68,7 @@ def retrieve_context(vector_store, query, k=3):
         clean_context.append(content)
     
 
-    context = "\n\n".join([doc.page_content for doc in retrieved_docs])
+    context = "\n\n".join(clean_context)
     sources = [doc.metadata for doc in retrieved_docs]
     
     print(f"Retrieved Context: {context}")
@@ -123,8 +123,7 @@ def generate_rag_response(model, tokenizer, query, context, max_length=2048, tem
     # Fallback for empty responses
     if len(response) < 20:
         print("WARNING: Empty or very short response, using fallback")
-        response = "no response is there or response is less than 20 units"
-
+        response = extract_key_points(context, query)
 
     return response
 
@@ -154,7 +153,7 @@ def extract_key_points(context, query):
 
 
 
-def run_interactive_rag_console(model, tokenizer, vector_store):
+def run_interactive_rag_console(model, tokenizer, vector_store, k_docs=3):
     """Run an interactive console for RAG-based chatting with the model."""
     print("Interactive RAG console starting. Type 'exit' to quit.")
     print("-----------------------------------------------------")
@@ -168,7 +167,7 @@ def run_interactive_rag_console(model, tokenizer, vector_store):
             break
         
         # Retrieve context
-        context, sources = retrieve_context(vector_store, user_input)
+        context, sources = retrieve_context(vector_store, user_input, k=k_docs)
         print("\nRetrieved Context:", context)
 
 
@@ -195,7 +194,9 @@ if __name__ == "__main__":
     parser.add_argument("--device", type=str, default="auto", help="Device to run inference on")
     parser.add_argument("--use_lora", action="store_true", help="Whether the model is a LoRA model")
     parser.add_argument("--base_model", type=str, default=None, help="Base model name if using LoRA")
-    
+    parser.add_argument("--k_docs", type=int, default=3, help="Number of documents to retrieve")
+
+
     args = parser.parse_args()
     
     # Load the model
@@ -205,4 +206,4 @@ if __name__ == "__main__":
     vector_store = load_vector_store(args.vector_store_path)
     
     # Run the interactive console
-    run_interactive_rag_console(model, tokenizer, vector_store)
+    run_interactive_rag_console(model, tokenizer, vector_store, k_docs=args.k_docs)
