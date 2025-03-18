@@ -24,6 +24,18 @@ python scripts/inference_pure.py --model_path models/checkpoints/final --use_lor
  python scripts/rebuild_vector_db.py --input_dir data2 --output_jsonl processed_data/all_documents.jsonl --vector_db_dir vector_db --chunk_size 800 --chunk_overlap 150
 
 
+# Check how many documents were processed
+wc -l processed_data/all_documents.jsonl
+
+# Examine the first document to ensure it's formatted correctly
+head -n 1 processed_data/all_documents.jsonl | python -m json.tool
+
+# Check that the vector database was created
+ls -la vector_db/
+
+
+
+
 
 
 
