@@ -1,0 +1,519 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "INTERNATIONAL ISO | First edition | Fasteners \u2014 Hot dip galvanized coatings El\u00e9ments de fixation \u2014 Rev\u00e9tements de galvanisation a chaud\nSTANDARD 10684 2004-07-15 Reference number\nsO ISO 10684:2004(E)",
+          "bbox": [
+            569,
+            343,
+            3027,
+            4279
+          ],
+          "block_id": "b1_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_1.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nPDF disclaimer\nThis PDF file may contain embedded typefaces. in accordance with Adobe's licensing policy, this file may be printed or viewed but\nshali not be edited untess the typefaces which are embedded are licensed to and installed on the computer performing the editing. In\ndownloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat\naccepts ne liability in this area.\nAdobe is a trademark of Adobe Systems Incorporated.\nDetails of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation\nparameters were optimized for printing. Every care has been taken fo ensure that the file is suitable for use by ISO member bodies. In\nthe unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.\n\u00a9 ISO 2004\nAil rights reserved. Uniess otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,\nelectronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or\nISO's member body in the country of the requester.\nISO copyright office\nCase postale 56 \u00ab CH-1211 Geneva 20\nTel. +41 22 749 01 11\nFax + 41 22 749 09 47\nE-mail copyright@iso-org\nWeb www.iso.org\nPublished in Switzerland\n| .. . reserved -.",
+          "bbox": [
+            255,
+            281,
+            2839,
+            4361
+          ],
+          "block_id": "b2_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_2.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nContents Page\nIV\n1\n2 Normative references 1\n3 Terms And 2\n4 O\n4.1 Raw material Of parts D\n. 5 Hot dip galvanizing procedures and precautions.\n5.1 Stress\n5.2 and O\n5.3 Baking O\n5.5 Hot dip O\n5.6 Spinning and Quenching 4\n5.7 Special requirements for nuts\n5.8 Post-treatMent 4\n6 Requirements on thread tolerances and additional marking 4\n6.1 4\n6.2 Requirements and precautions in assembling hot dip galvanized threaded fasteners ...............4\n6.3 Special requirements for marking when supplying fasteners in sealed 8\n7 Mechanicai properties of nuts tapped oversize and undersize threaded bolts, screws and\n& Coating requirements O\n8.1 Appearance Of ZINC O\n8.2 Considerations for hot dip galvanized Washers O\n8.3 Zinc Coating thickness O\n8.4 Adhesion of Zinc O\nEs 9\n10 Ordering requirement D\n11\nAnnex A (normative) Special requirements for bolts, screws and nuts with thread sizes M8 and\nAnnex B (normative) Limits of sizes for hot dip galvanized internal and external screw thread MS&...... 13\nAnnex C (informative) Calculation of minimum ultimate tensile loads and proof loads for bolts\nand screws M8 and M10 with threads undersized to tolerance ClaSS Gaz 15\nAnnex D (informative) Surface areas of bolts, screws And Nuts 10\nAnnex E (normative) Adherence of hot-dip galvanized 49)\nAnnex F (informative) Strength of hot dip galvanized bolt or screw and nut 20\n- All rights reserved - : tii",
+          "bbox": [
+            79,
+            297,
+            3025,
+            4377
+          ],
+          "block_id": "b3_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_3.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E) Foreword ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission on all matters of electrotechnica!l standardization. International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2. The main task of technical committees is to prepare International Standards. Draft International Standards International Standard requires approval by at least 75 % of the member bodies casting a vote. Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. ISO 10684 was prepared by Technical Committee ISO/TC 2, Fasteners, Subcommittee SC 1, Mechanical properties of fasteners.\nadopted by the technical committees are circulated to the member bodies for voting. Publication as an",
+          "bbox": [
+            275,
+            295,
+            2843,
+            2051
+          ],
+          "block_id": "b4_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_4.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "INTERNATIONAL STANDARD iSO 10684:2004(E)\nFasteners \u2014 Hot dip galvanized coatings\n1 Scope\nThis Internationa! Standard specifies material, process, dimensional and some performance requirements for\nhot dip spun galvanized coatings applied to coarse threaded steel fasteners from M8 up to and including M64\nand for property classes up to and including 10.9 for bolts, screws and studs and 12 for nuts. It is not\nrecommended to hot dip galvanize threaded fasteners in diameters smaller than M8 and/or with pitches below\n1,25 mm.\nNOTE Attention is drawn to the fact that the proof loads and stresses under proof load of oversize tapped nuts with\nthreads M8 and M10 and the ultimate tensile loads and proof loads of undersize threaded bolts and screws with threads\nM8 and M10 are reduced as compared to the values specified in ISO 898-2 and ISO 898-1 respectively and are specified\nin Annex A.\nIt primarily concerns the spun hot dip galvanizing of threaded steel fasteners, but it may also be applied to\nother threaded steel parts.\nThe specifications given in this International Standard may also be applied to non-threaded steel parts such\nas washers.\n| 2 Normative references\nThe following referenced documents are indispensable for the application of this document. For dated\nreferences, only the edition cited applies. For undated references, the latest edition of the referenced\ndocument (including any amendments) applies.\nISO 898-1, Mechanical properties of fasteners made of carbon steel and alloy stee/ \u2014 Part 1: Bolts, screws\nand studs\nISO 898-2, Mechanical properties of fasteners \u2014 Part 2: Nuts with specified proof load values \u2014 Coarse\nthread\nISO 965-1, /SO general purpose metric screw threads \u2014 Tolerances \u2014 Part 1: Principles and basic data\nISO 965-2, [SO general purpose metric screw threads \u2014 Tolerances \u2014 Part 2: Limits of sizes for general\npurpose external and internal screw threads \u2014 Medium quality\nISO 965-3, /SO general purpose metric screw threads \u2014 Tolerances \u2014 Part 3: Deviations for constructional\nscrew threads\nISO 965-4, {SO general purpose metric screw threads \u2014 Tolerances \u2014 Part 4: Limits of sizes for hot-dip\ngalvanized external screw threads to mate with internal screw threads tapped with tolerance position H or G\nafier galvanizing\n965-5, [SO general purpose metric screw threads \u2014 Tolerances \u2014 Part 5: Limits of sizes for internal\nscrew threads to mate with hot-dip galvanized external screw threads with maximum size of tolerance\nposition h before galvanizing",
+          "bbox": [
+            225,
+            339,
+            3017,
+            4029
+          ],
+          "block_id": "b5_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_5.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "iSO 10684:2004(E)\nISO 1460, Metallic coatings \u2014 Hot dip galvanized coatings on ferrous materials \u2014 Gravimetric determination\nof the mass per unit area\nISO 1461, Hot dip galvanized coatings on fabricated iron and steel articles \u2014 Specifications and test methods\nISO 2064, Metallic and other inorganic coatings \u2014 Definitions and conventions concerning the measurement\nof thickness\nISO 2178, Non-magnetic coatings on magnetic substrates \u2014 Measurement of coating thickness \u2014- Magnetic\nmethod\niSO 8991, Designation system for fasteners\n3 Terms and definitions\nFor the purposes of this document, the terms and definitions given in 1SO 2064 (in particular, the definitions of\nSignificant surface, measuring area, focal thickness, minimum local thickness and average thickness) and the\n\u201ci following apply.\n3.1\nbatch\nquantity of identical parts cleaned, pickled, fluxed and galvanized together at one time in a galvanizing basket\n3,2\nproduction fot\nbatches of parts originating from the same manufacturing lot, processed continuously through cleaning,\npickling, fluxing, dipping in molten zinc and spun in a centrifuge without any change in temperature and\nconcentration of the constituents of the process\n3.3\nbatch average thickness\ncalculated average thickness of a coating as if it was uniformly distributed over the surface of the parts of the\nbatch\n3.4\nbaking\nprocess of heating parts for a definite time at a given temperature in order to minimize the risk of hydrogen\nx. embrittlement\n3.5\nstress relief\nprocess of heating parts for a definite time at a given temperature in order to relieve stress induced by work\nhardening\n3.6\nhot dip galvanizing of fasteners\nprocess whereby steel fasteners are zinc coated by immersion in a bath of molten zinc, resulting in the\nformation of a zinc-iron alloy coating or a zinc-iron alloy coating plus a zinc coating at the surface of the\nfastener\nNOTE This process involves the removal of excess zinc by spinning the parts in a centrifuge or by an equivalent\nmethod.\newe\u00bb O1S0.2004 ~ All rights reserved... .. \u2014",
+          "bbox": [
+            81,
+            269,
+            3200,
+            4369
+          ],
+          "block_id": "b6_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_6.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E) 4 Materials 4.1 Raw material of parts 4.1.1 Chemical composition Materials as included in ISO 898-1 and ISO 898-2 are suitable for hot dip galvanizing except if the total 4.1.2 Surface condition The surface of the fastener, before immersion in the molten zinc, shall be clean and free from ail contaminants 4.2 Zinc The zinc used for this process shall be in accordance with ISO 1461. 5 Hot dip galvanizing procedures and precautions 5.1 Stress relief Fasteners subjected to severe work hardening may require stress relief before acid cleaning and hot dip \u00a7.2 Cleaning and pickling Parts shall be cleaned. During the cleaning process, hydrogen could be absorbed into the steel. The hydrogen NOTE An inhibited acid is an acid to which a suitable inhibitor has been added to reduce corrosive attack on the steel and absorption of hydrogen. 5.3 Baking lf baking is carried out, it shall be carried out prior to surface activation. 5.4 Fluxing Parts shall be surface activated, and dried if necessary. 5.5 Hot dip galvanizing Normal temperature galvanizing is carried out at a bath temperature of 455 \u00b0C to 480 \u00b0C. High temperature\ncontent of phosphorus and silicon is between 0,03 % and 0,13 %, in which case high temperature galvanizing that would adversely effect the galvanizing. galvanizing. may not effuse completely in the galvanizing bath and consequently, may lead to brittle failure. Unless galvanizing is used to produce a smoother and thinner coating and is carried out at a bath temperature of\n(530 \u00b0C to 560 \u00b0C) is recommended. otherwise agreed, parts heat treated or work hardened to a hardness of > 320 HV shal! be cleaned using an 530 \u00b0C to 560 \u00b0C. The finish obtained using the high temperature process is dull. In order to avoid micro-\ninhibited acid, alkaline or mechanical process. immersion time in the inhibited acid depends on the cracks, boits, screws and studs of property class 10.9 in sizes M27 and above, shall not be high temperature\nas-received surface condition and should be of minimum duration. galvanized.\nGalvanizing shall not be carried out at bath temperatures between 480 \u00b0C and 530 \u00b0C.",
+          "bbox": [
+            441,
+            299,
+            3025,
+            4105
+          ],
+          "block_id": "b7_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_7.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E) 5.6 Spinning and quenching Parts shall be spun immediately following removal from the galvanizing bath and quenched in water or air 5.7 Special requirements for nuts Nut threads and other internal threads shall be tapped after hot dip galvanizing. Retapping shall not be 5.8 Post-treatment Most galvanized parts do not require any post treatment. When required by the purchaser, treatments such as 6 Requirements on thread tolerances and additional marking NOTE It is not possible to check the thread tolerance of a hot dip galvanized part by stripping the coating and gauging the thread thereafter, since some steel is dissolved from the part during the galvanizing process. 6.2 Requirements and precautions in assembling hot dip galvanized threaded fasteners 6.2.1 General This clause applies only to parts with thread tolerances in accordance with ISO 965-1 to ISO 965-5 and with marking according to the marking requirements for fasteners as given in ISO 898-1 and ISO 898-2. The marking specified in 6.2.2 and 6.2.3 shall be carried out in addition to the marking according to [SO 898-1 and _ The application of zinc coating by the hot dip process results in the deposition of a heavy coating thickness of There are two different methods provided for, which give the necessary fundamental deviations (clearances) The first method (see 6.2.2) consists of using nuts tapped oversize to tolerance class 6AZ or 6AX after coating, The second method (see 6.2.3) consists of using bolts or screws manufactured with threads undersized to Nuts tapped oversize (marked with Z or X) shall never be mated with bolts or screws with undersized\ncooled depending on size consideration. permitted. chromating or phosphating may be applied to reduce the possibility of wet storage staining (white corrosion) or 6.1 General wx, 180 898-2. zinc (always in excess of 40 um). Hence, it is necessary to manufacture screw threads to special limits in for the zinc layer applied to fasteners by hot dip galvanizing. to mate with bolts or screws manufactured with screw threads to tolerance position g or h before coating. tolerance class 6az before coating, to mate with nuts tapped to tolerance position H or G after coating. threads {marked with U), because such combinations create a high probability of thread stripping.\nto assist subsequent painting. Dimensional limits for ISO metric screw threads M10 to M64 before and after coating are specified in order to accommodate such heavy coatings. Assembling hot dip galvanized nuts tapped to tolerance position H or G after coating with hot dip galvanized\nISO 965-1 to ISO 965-5. All other dimensions and tolerances of fasteners apply before hot dip galvanizing. bolts or screws manufactured with threads to tolerance position g or h before coating results in thread\nDimensional limits for internal and external screw threads M8 with thread tolerances 6AX and 6AZ for internal interference.\nthreads and 6az for external threads are specified in Annex B.",
+          "bbox": [
+            83,
+            297,
+            2849,
+            4127
+          ],
+          "block_id": "b8_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_8.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "7 ISO 10684:2004(E)\n6.2.2 Nuts tapped oversize to tolerance class GAZ or 6AX after coating\nOversize tapping of nuts and internal threads to tolerance class 6AZ or 6AX in accordance with ISO 965-5 is\nrequired after hot dip galvanizing when the mating bolts or screws or external threads are manufactured to\ntolerance position g or h in accordance with ISO 965-1 to ISO 965-3 before hot dip galvanizing.\nNuts tapped oversize shall be marked with the fetter Z immediately after the property class mark in case of\ntolerance class 6AZ or with the letter X in case of tolerance class GAX. See example in Figure 1.\nrl a\ncos\n8Z\nA)\n|\nre\nFigure 1 \u2014 Example of marking of hot dip galvanized nuts tapped oversize\nto tolerance position 6AZ after coating\nIn order to reduce the risk of interference on assembly of threads with hot dip galvanized coatings, the coating\nthickness on the mating bolts or screws or external threads advisably should not exceed one quarter of the\nminimum clearance of the thread combination. These values are given in Table 1 for information.",
+          "bbox": [
+            121,
+            301,
+            3021,
+            2019
+          ],
+          "block_id": "b9_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_9.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Emo \u00a9 5 2 on = = 8 + + + 3 ct c n/o o9 epic ele oo\nco c i G 3 \u20ac&8 z ] nN \u00a9 O|F \u00a9 BIS =| AN]\nESe ele \u00a9 bw & > <= E 3 w af a iL Oo Oo \u00a9 H/F + +I S\n= Ff 4% HI] = = =a \u2014\nx 6 9 Sie SF FIN N NIN @ oS 3 + t+ +/+ + +] 4+ + +/+ + F4 9\nc S| 8 \u2014 a\n54 a \u00a9 Mlo 2 e ~~ >\nE \u00a9 = = \u00a9 KIS FS Bl & TN S GIN S \u00ae\n= 3 \u00a2 = SIN OFM _ = Elo sls\na \u2018a Ea E DIM 3 = + + + + + Fices o nla wo =\n= ow o/o AQ - oD NTO Oo +T/ at o\nEG O H O/H BD CPT N \u00a9 =| a E\nOo ot Cr e oO\n7) So =\n= | Cc\no @ m Ce] =\n& x a, EIN De 2\nBle 523 a ise) wt -\n= mm ofm wow wo mic ee. a\noa - \u00a3 = +r \u00a9 =\nae ASR GIS SSIS ARAN B SIE\n= =\n2] 3\n= c \u00a3 \u00ae\nci x 52 2 2 of] &\nxc a = = Oo 0 & S&S \u201d\n= N Oo Mm\n= \u00a35 ea 2 + \u00a9) all T MO] ec\n=| \u00a33 ~~\n\u00a3\u00a3 26 &\nes @ 25 Ee\nsat = c \u00ae NiO \u00a9 MO] @ &\nEsc Ela - nlw ow =\nREX O29 OOo SYS FTES SE\n\u00a3\ntn a al\n2 \u00a3 o\nOo \u201ca\n3) 5 esis 8\now = | 5 c \u2014_\n4 \u00a9 = So Sig Fis F Bie\nrf rf =o 2\n\u00b0 c\n| \u00a7\n= 2 E me\n~ \u00b0 ES2 ele oo mw wn ofS @ 8\n> = 3/0 & Slo \u00a9 SIS & &\nS8= 2\n= x= c\nN =\n= 3\n25 sle eg wig\n\u201d V2 2813 8 SI5 8 Biss\n= Es 6 Oo mln + + g\n= 26 E\nL 2\n@ \u00a3\n2 - 0 =\n= a = oOo ~ Mm OF\n| >\n= =\n> | 2",
+          "bbox": [
+            81,
+            585,
+            2451,
+            4185
+          ],
+          "block_id": "b10_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_10.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004({E)\n6.2.3. Bolts and screws with threads undersized to tolerance class 6az before coating\nUndersize threading of bolts, screws and external threads to tolerance class 6az in accordance with\nISO 965-4 is required before hot dip galvanizing, when the mating nuts or internal threads have tolerance\nposition G or H in accordance with ISO 965-1 to ISO 965-3 after hot dip galvanizing.\nBolts and screws with undersized threads shall be marked with the letter U immediately after the property\nclass mark. See example in Figure 2.\n1\nnan\nXYZ\n/ | Y\nwy\n8.8U\n?\nKey\n1 manufacturer's identification mark\n2 \u2018property class and additional marking\nFigure 2 \u2014 Example of marking of hot dip galvanized bolts and screws with threads undersized to\ntolerance class 6az before coating\nIn order to reduce the risk of interference on assembly of threads with hot dip galvanized coatings, the coating\nthickness advisably should not exceed one quarter of the minimum clearance of the thread combination.\nThese values are given in Table 2 for information.\nTable 2 \u2014 Fundamental deviations and upper limits of coating thicknesses\nfor assemblies with bolts and screws with undersized threads\nNominal Minimum clearance and maximum\nPitch | thread Fundamental deviation coating thickness for thread combinations\ndiameter (for information)\nExternal Internal\nthread thread aziH az/G\nMaximum Maximum\nP d az H G coating coating\nthickness thickness\nmm mm um um pm um pm um pm\n1,25 8 + 28 81 88\n1,5 10 +32 83 91\n1,75 12 + 34 84 92\n16 (14) ~ 340 +38 340 85 378 95\n20 (18, 22) 350 +42 350 88 392 98\n24 (27) \u2014 360 +48 360 90 408 102\n3,5 30 (33) \u2014 370 + 53 370 93 423 106\n4 36 (39) \u2014 380 +60 380 95 440 110\n4,5 42 (45) \u2014 390 +63 390 98 453 113\n48 (52) \u2014 400 +71 400 100 471 418\n56 (60) - 410 +75 410 103 485 121\n64 \u2014 420 + 80 420 105 500 125\n2 fundamental deviation for az is calculated according to the formula given in ISO 965-4 on the basis of the thread dimensions\nspecified in Annex B.\n.. . .GISO reserved.",
+          "bbox": [
+            243,
+            285,
+            3029,
+            4353
+          ],
+          "block_id": "b11_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_11.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": ".. ISO 10684:2004(E)\n6.3. Special requirements for marking when supplying fasteners in sealed containers\nlf hot dip galvanized bolts or screws and mating nuts are packed together and supplied in the manufacturer's\nsealed container, the additional marking of the bolts, screws or nuts as described in 6.2.2 and 6.2.3 is not\nmandatory. The label on each sealed container shall indicate the additional marking as required in 6.2.2 and\n6.2.3.\nmarking of products or labelling of containers as described in 6.2.2 and 6.2.3 is not mandatory for\nfasteners with a special marking related to a product standard which specifies the thread tolerance for hot dip\ngalvanized bolts, screws, studs or nuts and, therefore, does not allow the manufacturer to choose the thread\ntolerance.\n7 Mechanical properties of nuts tapped oversize and undersize threaded bolts,\nscrews and studs\n. For bolts, screws, studs and nuts > M12, the requirements of ISO 898-1 and ISO 898-2 shail be met after hot\ndip galvanizing. For the sizes M8 and M10, proof loads and stresses under proof loads for nuts and ultimate\ntensile loads and proof loads for bolts, screws and studs are specified in Annex A.\n8 Coating requirements\n8.1 Appearance of zinc coating\nThe hot dip galvanized parts shall be free from uncoated areas, blisters, flux deposits, black spots, dross\ninclusions and other defects that would impair the intended use of the parts. Dull appearance shall not\nconstitute grounds for rejecting parts.\n8.2 Considerations for hot dip galvanized washers\nHot dip galvanized washers tend to bond to each other and suitable acceptance criteria should be agreed\nupon at the time of ordering.\n8.3 Zinc coating thickness\nge, The local coating thickness shall be a minimum of 40 ym and the batch average coating thickness shall be a\nminimum of 50 ym. The measurement of the local coating thickness shall be made on measuring areas as\nshown in Figure 3.\nMeasurement of the local coating thickness shall be conducted by the magnetic method in accordance with\nISO 2178 on every production lot. To calculate the local coating thickness, a minimum of five readings shall be\ntaken and averaged. In case the geometry does not permit five readings, five samples shall be used to\nestablish the readings to be averaged. In case of dispute, the gravimetric method in accordance with\nISO 1460 shall be used. For the calculation of the batch average coating thickness, the surface area of the\nfastener can be evaluated according to Annex D.\n8.4 Adhesion of zinc coating\nThe zine coating shall adhere tenaciously to the surface of the base metal. The method for testing the\nadherence is specified in Annex E.",
+          "bbox": [
+            83,
+            293,
+            2847,
+            3789
+          ],
+          "block_id": "b12_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_12.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nor; a\n{ 1\naq\n\u2014\n=a\nKey\n1 measuring area\nFigure 3 \u2014 Measuring area for local coating thickness measurement on fasteners\nce 9 Lubrication\nTo enhance tightening behaviour of the assembly, the nuts or the bolts or the screws should be lubricated.\n10 Ordering requirements\nWhen ordering fasteners to be coated in accordance with this International Standard, the following information\nshall be supplied to the coater:\na) reference to this International Standard and the coating designation (see Clause 11);\nb) the material of the part, the manufacturing lot number and the condition of the part, e.g. heat treatment,\nhardness or other properties, which may be affected by the coating process;\nc) whether a special coating thickness is required;\nd) additional tests, if required;\ne) additional treatments such as lubrication, chromating, etc., as required.\n11 Designation\nFasteners shall be designated according to the appropriate product standards. The designation of the surface\ncoating shall be added to the product designation according to the specification of ISO 8991 using the symbol\ntZn for the hot dip galvanized coating.\nExample 1 refers to a bolt/nut combination as described in 6.2.2 using nuts tapped oversize.\nExample 2 refers to a bolt/nut combination as described in 6.2.3 using bolts or screws with undersized threads.\nEXAMPLE 1 A hexagon nut in accordance with ISO 4032, size M12, property class 8, hot dip galvanized and tapped\noversize to thread tolerance class 6AZ is designated as follows:\nHexagon nut ISO 4032 - M12 - 8Z - tZn\nNOTE 8Z is substituted by 8X in case of thread tolerance class 6AX.\nie on oe QASO 2004 \u2014Allrights reserved tin tun ite tte we Qi",
+          "bbox": [
+            93,
+            281,
+            3031,
+            4368
+          ],
+          "block_id": "b13_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_13.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 14,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "10684:2004(E) The mating hexagon head bolt in accordance with 1SO 4014 size M12 x 80, property class 8.8, thread tolerance class 6g Hexagon head bolt ISO 4014 - M12 x 80 - 8.8 - tZn Hexagon head bolt ISO 4014 - M12 x 80 -&.8U - tZn Hexagon nut ISO 4032 - M12 - 8 - tZn\nand hot dip galvanized is designated as follows: EXAMPLE 2 A hexagon head bolt in accordance with ISO 4014, size M12 x 80, property class 8.8, thread tolerance The mating hexagon nut in accordance with ISO 4032, size M12, property class 8, hot dip galvanized and tapped to thread\nclass 6az and hot dip galvanized is designated as follows: tolerance class 6H is designated as follows:",
+          "bbox": [
+            275,
+            297,
+            2839,
+            1364
+          ],
+          "block_id": "b14_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_14.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 15,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nAnnex A\n(normative)\nSpecial requirements for bolts, screws and nuts\nwith thread sizes M8 and M10\nA.1 General\nFor M8 and M10 ultimate tensile loads and proof loads lower than those specified in ISO 898-1 and ISO 898-2\nare specified in this annex taking into account the relatively large fundamental deviations according to 6.2.2\nand 6.2.3.\nPeon For nuts tapped oversize, the reduced overlap of thread M8 and M10 significantly reduces the proof load\nhe values as compared with those given in ISO 898-2.\nFor bolts and screws with undersized threads, the stress areas for M8 and M10 are significantly smaller than\nthe stress areas given in ISO 898-1.\nA.2 Minimum proof loads for hexagon nuts tapped oversize to tolerance class 6AZ or\n6AX after coating\nAccording to 6.2.2 nuts may be tapped oversize to tolerance class 6AZ or 6AX in accordance with ISO 965-5\nand Annex B. For thread sizes M8 and M10 tolerance class 6AZ gives the largest fundamental deviation.\nConsequently, for thread sizes M8 and M10 the fundamental deviations for tolerance class GAZ are used to\nestablish the proof loads as given in Table A.1. Stresses under proof load are given in Table A.2.\nAll other mechanical property requirements as given in ISO 898-2 are valid.\nFor test methods, see ISO 898-2.\nTable A.1 \u2014 Proof loads for nuts with threads of tolerance classes 6AZ and 6AX\nfoo Nominal Property class\nPitch of stress area 5 6 8 9g 40\nThread thread of standard\ntest mandre! Marking\n(d) P As 5Z/5X 6Z/6X 8Z/8X 9Z/9X 10Z/10X\nProof load\nmm N\n1,25 36,6 17 300 20 000 25 500 27 600 30 600\n1,5 58,0 28 600 33 000 42 200 45 600 50 400\nTable A.2 \u2014 Stresses under proof load for nuts with threads of tolerance classes 6AZ and 6AX\nProperty class\n5 6 8 9 10\nThread Marking\n(d) 5Z/5X 6Z/6X 8Z/BX 9Z/9X 10Z/10X\nStress under proof load\nN/mm?\n473 546 698 754 835\nom, 493 569 728 786 870",
+          "bbox": [
+            87,
+            301,
+            3017,
+            4171
+          ],
+          "block_id": "b15_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_15.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 16,
+      "blocks": [
+        {
+          "type": "text",
+          "content": ". ISO 10684:2004(E)\nA.3 Minimum ultimate tensile loads and proof loads for bolts and screws with\nthreads undersized to tolerance class 6az before coating\nAccording to 6.2.3 bolts, screws and extemal threads have to be threaded undersize to tolerance class 6az in\naccordance with [SO 965-4 and Annex B. For thread sizes M8 and M10 tolerance class 6az gives large\nfundamental deviations and this reduces the stress area. Consequently, for thread sizes M8 and M710, the\nultimate tensile loads and proof loads are reduced. For principles of calculation, see Annex C. The reduced\nvalues are given in Tables A.3 and A.4.\nAll other mechanical property requirements as given in ISO 898-1 are valid.\nFor test methods, see ISO 898-1.\nTable A.3 \u2014 Minimum ultimate tensile loads for bolts and screws with threads of tolerance class 6az\nStress area 4.6 5.6 8.8 10.9\nTh rea d Asay Marki ng\n@) 4.6U 5.6U 8.8U 10.9U\nmm\nMinimum ultimate tensile load (4... < min)\nN\nTable A.4 \u2014 Proof loads for bolts and screws with threads of tolerance class 6az\n4.6 5.6 8.8 10.9\nStress area\nThread Agaz Marking\n> 4.6U 5.6U 8.8U 10.9U\nmm\n_ Proof load (4,,, x Sp)\nwe [se | 7a\n| sxe | 2100 | 1500",
+          "bbox": [
+            107,
+            305,
+            2841,
+            3186
+          ],
+          "block_id": "b16_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_16.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 17,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nAnnex B\n(normative)\nLimits of sizes for hot dip galvanized internal and external screw thread\nMs\nB.1 General\nFor thread size M8 this annex gives information on screw thread limits for\na) internal screw threads tapped oversize to tolerance class 6AZ and GAX;\non b) external screw threads undersize threaded to tolerance class Gaz.\nB.2 Limits of sizes \u2014 Internal screw thread M8\nThe internat screw thread limits for M8 for tolerance class 6AZ and 6AX are specified in Table B.1.\nTolerance quality: medium\nThread engagement group: normal\nTolerance classes: 6AZ and 6GAX\nTable B.1 \u2014 Internal screw thread limits for tolerance classes 6AZ and 6AX\nDimensions in millimetres\nLength of Tolerance Major . . . b\nThread thread engagement class | diameter 2 Pitch diameter Minor diameter\nD Dy D,\nover up to and\n\u201cae including max. min. max. min.\n[saz | rors | vats | reer | so\n2 Dimensions apply to internal screw threads after galvanizing and tapping oversize.\n5 Dimensions apply to intemal screw threads before galvanizing or after galvanizing and removal of zinc fragments.\n\u00a9 Refers to the imaginary co-axial cylinder through the points where the requirement with regard to straightness of flank ceases.\n@1SO reserved 43",
+          "bbox": [
+            83,
+            297,
+            3017,
+            4391
+          ],
+          "block_id": "b17_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_17.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 18,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E) B.3 Limits of sizes \u2014- External screw thread M8 ce, Table B.2 \u2014 External screw thread limits for tolerance class 6az Dimensions in millimetres Minor\nThe external screw thread limits for M8 for tolerance class 6az are specified in Table B.2. Length of ar diameter .\nTolerance quality: medium Thread thread engagement Major diameter Pitch diameter (for stress Root radius\nThread engagement group: normal calculation)\nTolerance class: 6az d a, dy\nThe actual root contour shall not at any point transgress the basic profile. over up to and\nFor hot-dip galvanized screw threads, the tolerances apply to the parts before galvanizing. After galvanizing, including max. min. max. min. max. min.\nthe actual thread profile shall not in any point transgress the maximum material limits for tolerance position h\nand is intended to mate with internal screw threads of tolerance position H or G only.",
+          "bbox": [
+            103,
+            299,
+            2837,
+            2223
+          ],
+          "block_id": "b18_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_18.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 19,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nAnnex C\n(informative)\nCalculation of minimum ultimate tensile loads and proof loads for bolts\nand screws M8 and M10 with threads undersized to tolerance class 6az\nThe minimum ultimate tensile loads given in Tabie A.3 and the minimum proof loads given in Table A.4 have\nbeen calculated using the minimum tensile strength, R,,, and the stress under proof load, Sp: as specified in\nISO 898-1. These values are multiplied by the stress area, A,,,, derived from the thread diameters for M10 in\naccordance with ISO 965-4 and for M8 in accordance with Annex B and the following formula:\nA _ a do + d3 2\ndy is the maximum pitch diameter of the thread;\nd3 is the maximum minor diameter of the thread.\nwr ISO 2004 All rights reserved wee tine wen hn.",
+          "bbox": [
+            365,
+            283,
+            3195,
+            4359
+          ],
+          "block_id": "b19_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_19.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 20,
+      "blocks": [
+        {
+          "type": "text",
+          "content": ". ISO 10684:2004(E)\nAnnex D\n(informative)\nSurface areas of bolts, screws and nuts\nD.1 General\nThis annex gives guidance for the evaluation of the surface areas of bolts, screws and nuts which are needed\nfor the determination of the batch average thickness according to 8.3.\nNOTE The surface areas given in Tables D.1 and D.2 apply only if agreed upon between the parties concerned.\nD.2 Bolts and screws\nTo obtain the total surface area of a bolt or screw, the following parameter values are necessary\n(see Figure D.1):\n\u2014 the surface area, A,, of a length of 1 mm of the threaded shank of the bolt or screw;\n\u2014 the surface area, A\u00bb, of a length of 1 mm of the unthreaded shank of the bolt or screw;\n\u2014 the surface area, of the head (including surface of the end face).\nThe total surface areas, A, is then calculated as follows:\nA=A, x thread length + 4, x shank length + 4\n16 \u00a9 ISO 2004 \u2014 All rights reserved",
+          "bbox": [
+            121,
+            303,
+            2839,
+            4381
+          ],
+          "block_id": "b20_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_20.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 21,
+      "blocks": [
+        {
+          "type": "text",
+          "content": ". ISO 10684:2004(E)\nee\n~~ ee\n\u2014\u2014\u2014\nttt S77\n4\n@ Total surface area of the head including surface area of the end face, see?.\nb Surface area of the shank of 1 mm length.\n\u00a2 Surface area of the threaded part of 1 mm length.\nd Surface area of the end face is included in the surface area of the head (Ag).\nFigure D.1 \u2014 Surface area\nif the thread is cut, the unthreaded shank will be approximately equal to the basic major diameter (nominal .\ndiameter). If the thread is rolled, the unthreaded shank will be approximately equal to either the pitch diameter\n(reduced shank) or the basic major diameter (full shank).\nTabie D.1 gives values for the surface areas A,, Ao and Az for different shanks and hexagon head.\nTable D.1 \u2014 Surface areas of bolts and screws\nSurface areas in square millimetres\nSurface area\nSurface area per millimetre length of\nThread size head, 4,\nThreaded Unthreaded shank, 4,\nshank, A, Reduced shank Hexagon\n(coarse thread) (coarse thread) head\n38,48 25,15 22,43 541,3\n48,31 31,42 28,17 905,8\n58,14 37,63 33,98 1151\nM14 67,97 43,99 39,45 1 523\nMi6 78,69 50,27 45,67 1 830\nM18 87,63 56,54 50,88 2 385\nNOTE For the time being, values for bolts and screws with sizes > M18 or with fine pitch\nthread are not available and should be calculated as appropriate.",
+          "bbox": [
+            125,
+            289,
+            3145,
+            4013
+          ],
+          "block_id": "b21_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_21.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 22,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nD.3 Nuts\nTable D.2 gives the surface areas of hexagon nut style 1.\nNOTE When evaluating the surface area of a hot dip galvanized nut, the surface area of the thread is not taken into\nconsideration since the nut is tapped after hot dip galvanizing.\nTable D.2 \u2014 Surface areas of hexagon nuts style 1\nSurface areas in square millimetres\n536\n892\n1169\n= M14 1522\nM16 1 877\nM18 2 424\nNOTE For the time being values for nuts with sizes > M18 and nuts of style 2 are not\navailable and should be as appropriate.\n18 _ \u00a9 ISO 2004 rights reserved",
+          "bbox": [
+            89,
+            305,
+            2843,
+            4385
+          ],
+          "block_id": "b22_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_22.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 23,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "_ ISO 10684:2004(E)\nAnnex E\n(normative)\nAdherence of hot-dip galvanized coating\nTo determine the adherence of the zinc coating to the surface of the base metal, use the point of a stout knife.\nCut or prise, with the application of considerable pressure, in a manner tending to remove a portion of the\ncoating.\nThe adherence shall be considered inadequate if the coating flakes off in the form of a layer or skin so as to\nexpose the base meta! in advance of the knife point.\nTesting shall not be done ai edges or comers (points of lowest coating adherence) to determine adherence of\ncoating.\nLikewise, the removal of small particles of the coating by paring or whittling shall not constitute failure and\ntherefore not be grounds for rejection.\nee ~ reserved elfen",
+          "bbox": [
+            103,
+            295,
+            3053,
+            4377
+          ],
+          "block_id": "b23_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_23.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 24,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nAnnex F\n(informative)\nStrength of hot dip galvanized bolt or screw and nut assemblies\nBolts, screws and nuts modified by either undersizing of the bolt or screw thread as required by ISO 965-4 or\noversize tapping of the nut thread in accordance with ISO 965-5, if manufactured to the full range of\ndimensional and mechanical property tolerances, may not achieve the expected assembly strength when\ncombined with the specified mating component.\nThe reduction in assembly strength is due to the reduction in shear strength of the modified threads; refer to\nthe work of Alexander\u2019) on the strength of screw threads.\nThe following proposals indicate methods by which the full assembly strength of a 6g/6H thread tolerance\ncombination may be achieved, when modified thread combinations are used.\na) Bolts and screws manufactured with thread tolerance class 6az in accordance with [SO 965-4\nThe bolts or screws should not be manufactured to the minimum tensile strength, R,,, specified in ISO 898-1.\nCare should be taken with bolts and screws of property class 8.8 not to exceed the maximum hardness of\nproperty class 8.8, because of the risk of hydrogen embrittlement.\nb) Nuts manufactured with thread tolerance class 6AZ in accordance with ISO 965-5\nTo achieve fuil assembly strength with nuts tapped oversize to thread tolerance class 6AZ two options may be\nconsidered:\n1) Fit the bolts and screws with nuts of one property class higher, i.e. bolt or screw of property class 8.8\nwith nut of property class 10, etc.\n2) Fit the bolts and screws with nuts of the same property class but of style 2 nut height instead of\nstyle 1.\n6) Nuts manufactured with thread tolerance class 6AX in accordance with ISO 965-5\n~ For diameters greater than M10 in order to achieve the full assembly strength of nuts tapped oversize to\nthread tolerance class GAX, nuts of an even higher property class than those used with thread tolerance\nclass 6AZ should be used. In some countries, where this thread tolerance class is generally used, the national\nstandards require the use of nuts of two property classes higher.\nan 1) E.M. ALEXANDER, Analysis and design of threaded assemblies, SAE Transactions, Section 3 \u2014 Volume 86.\n20 7 - + + @1S02004-<Allrights reserved",
+          "bbox": [
+            87,
+            303,
+            2841,
+            4381
+          ],
+          "block_id": "b24_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_24.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 25,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10684:2004(E)\nICS 21.060.01; 25.220.40\nPrice based on 20 pages\n,",
+          "bbox": [
+            267,
+            299,
+            2407,
+            4353
+          ],
+          "block_id": "b25_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_25.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 26,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\u2014\u2014 INTERNATIONAL STANDARD ISO 10684:2004\nTSO: TECHNICAL CORRIGENDUM 1\nPublished 2008-07-15\nINTERNATIONAL ORGANIZATION FOR STANDARDIZATION e MEXKOYHAPOQHAA NO CTAHHAPTUSALIUN ORGANISATION INTERNATIONALE DE NORMALISATION\nFasteners \u2014 Hot dip galvanized coatings\nTECHNICAL CORRIGENDUM 1\nEl\u00e9ments de fixation \u2014 Rev\u00e9tements de galvanisation a chaud\nRECTIFICATIF TECHNIQUE 1\nTechnical Corrigendum 1 to ISO 10684:2004 was prepared by Technical Committee ISO/TC 2, Fasteners,\nSubcommittee SC 1, Mechanical properties of fasteners.\nPage 6, Table 1, column 12, bottom row, line 2\nDelete \u201c398\u201d, insert \u201c298\u201d.\n\u00a9\nA revised version of Table 1 appears overleaf.\nai\nR\n=\n3\n=\n=\nx\nS\n=\ng\nO\ng\n=\n2 ee\nICS 21.060.01; 25.220.40 Ref. No. ISO 10684:2004/Cor.1:2008(E)\n=\nS\n\u00a9 1SO 2008 \u2014 All rights reserved\n\u00a7 Published in Switzerland",
+          "bbox": [
+            71,
+            178,
+            3103,
+            4552
+          ],
+          "block_id": "b26_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_26.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 27,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "BNO \u2014\n\u201d\nTable 1 \u2014 Fundamental deviations and upper limits of coating thicknesses for assemblies with nuts tapped oversize\no\nNominal Minimum clearance and maximum coating thickness for thread combinations\nPitch thread Fundamental deviation g >\n(for information) No\ndiameter =)\n=)\nInternal External >\nthread thread AZIh AZIg AXIh \u00a9\nMaximum Maximum Maximum Maximum\nMinimum Minimum Minimum Minimum\nP d AZ AX h g clearance coating clearance coating clearance coating clearance coating\nthickness thickness thickness thickness =\noo\nmm mm yum yum yum yum yum yum yum yum yum yum yum yum Tri\n1,25 8 + 3258 + 2554 \u2014 28 325 81 353 88 255 64 283 71\n1,5 10 + 330 + 310 \u2014 32 330 83 362 91 310 78 342 86\n1,75 12 + 335 + 365 \u2014 34 335 84 369 92 365 91 399 100\n2 16 (14) + 340 + 420 \u2014 38 340 85 378 95 420 105 458 115\n2,5 20 (18,22) | +350 + 530 \u2014 42 350 88 392 98 530 133 572 143\n3 24 (27) + 360 + 640 \u2014 48 360 90 408 102 640 160 688 172\n3,5 30 (33) + 370 + 750 \u2014 53 370 93 423 106 750 188 803 201\n= 4 36 (39) + 380 + 860 \u2014 60 380 95 440 110 860 215 920 230\n= 4,5 42 (45) + 390 + 970 390 98 453 113 970 243 1 033 258\ni=)\n5 48 (52) + 400 + 1080 \u201471 400 100 471 118 1 080 270 1151 288\nS\n3 5,5 56 (60) +410 +1190 \u201475 410 103 485 121 1 190 298 1 265 316\n6 64 + 420 + 1 300 \u2014 80 420 105 500 125 1 300 325 1 380 345\n<\nS\ns 8\nS 8\n|\n< >\nBoo\nCS\ng 8\n>\n& \u00a7\n5 2\nS\nS\n3\nE\n=",
+          "bbox": [
+            71,
+            162,
+            4478,
+            3185
+          ],
+          "block_id": "b27_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_27.png",
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

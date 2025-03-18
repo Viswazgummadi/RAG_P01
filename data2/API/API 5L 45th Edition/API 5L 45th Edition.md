@@ -1,0 +1,499 @@
+# Document Summary
+
+- Pages: 192
+- Images: 5
+- Tables: 441
+
+## Image List
+
+- Image 1 (Page 56): [p56_i1.png](pdf_images/p56_i1.png)
+- Image 2 (Page 101): [p101_i1.png](pdf_images/p101_i1.png)
+  - Text: 1
+A
+=>
+3,
+ws
+: 2
+
+Key
+1 weld reinforcement
+2 rim of resultant cavity
+- Image 3 (Page 106): [p106_i1.png](pdf_images/p106_i1.png)
+  - Text: Dimensions in millimetres (inches)
+sf
+A A
+{|
+2150 (6.0) 3.
+2150 (6.0)
+4
+a
+B 2
+a
+2 21 c ¢
+° _ (|
+{\~
+...
+- Image 4 (Page 186): [p186_i1.png](pdf_images/p186_i1.png)
+  - Text: st
+- Image 5 (Page 187): [p187_i1.png](pdf_images/p187_i1.png)
+  - Text: 27,5
+| (1.083)
+14,0 !
+(0.551) |
+ale Minimum 1
+=
+|
+|
+|
+|
+|
+|g
+| Ky
+|
+|
+|
+|
+
+## Table List
+
+- Table table_1_1 (Page 1): 3x1
+- Table table_1_2 (Page 1): 2x1
+- Table table_2_1 (Page 2): 3x1
+- Table table_2_2 (Page 2): 2x1
+- Table table_3_1 (Page 3): 3x1
+- Table table_3_2 (Page 3): 2x1
+- Table table_4_1 (Page 4): 3x1
+- Table table_4_2 (Page 4): 2x1
+- Table table_5_1 (Page 5): 3x1
+- Table table_5_2 (Page 5): 2x1
+- Table table_6_1 (Page 6): 3x1
+- Table table_6_2 (Page 6): 2x1
+- Table table_7_1 (Page 7): 3x1
+- Table table_7_2 (Page 7): 2x1
+- Table table_8_1 (Page 8): 3x1
+- Table table_8_2 (Page 8): 2x1
+- Table table_9_1 (Page 9): 3x1
+- Table table_9_2 (Page 9): 2x1
+- Table table_10_1 (Page 10): 3x1
+- Table table_10_2 (Page 10): 2x1
+- Table table_11_1 (Page 11): 3x1
+- Table table_11_2 (Page 11): 2x1
+- Table table_12_1 (Page 12): 3x1
+- Table table_12_2 (Page 12): 2x1
+- Table table_13_1 (Page 13): 3x1
+- Table table_13_2 (Page 13): 2x1
+- Table table_14_1 (Page 14): 3x1
+- Table table_14_2 (Page 14): 2x1
+- Table table_15_1 (Page 15): 3x1
+- Table table_15_2 (Page 15): 2x1
+- Table table_16_1 (Page 16): 3x1
+- Table table_16_2 (Page 16): 2x1
+- Table table_17_1 (Page 17): 3x1
+- Table table_17_2 (Page 17): 2x1
+- Table table_18_1 (Page 18): 3x1
+- Table table_18_2 (Page 18): 2x1
+- Table table_19_1 (Page 19): 3x1
+- Table table_19_2 (Page 19): 2x1
+- Table table_20_1 (Page 20): 3x1
+- Table table_20_2 (Page 20): 2x1
+- Table table_21_1 (Page 21): 3x1
+- Table table_21_2 (Page 21): 2x1
+- Table table_22_1 (Page 22): 3x1
+- Table table_22_2 (Page 22): 2x1
+- Table table_23_1 (Page 23): 3x1
+- Table table_23_2 (Page 23): 2x1
+- Table table_24_1 (Page 24): 3x1
+- Table table_24_2 (Page 24): 2x1
+- Table table_25_1 (Page 25): 3x1
+- Table table_25_2 (Page 25): 2x1
+- Table table_26_1 (Page 26): 31x3
+- Table table_26_2 (Page 26): 3x1
+- Table table_26_3 (Page 26): 2x1
+- Table table_27_1 (Page 27): 14x3
+- Table table_27_2 (Page 27): 3x1
+- Table table_27_3 (Page 27): 2x1
+- Table table_28_1 (Page 28): 3x1
+- Table table_28_2 (Page 28): 2x1
+- Table table_29_1 (Page 29): 3x1
+- Table table_29_2 (Page 29): 2x1
+- Table table_30_1 (Page 30): 3x1
+- Table table_30_2 (Page 30): 2x1
+- Table table_31_1 (Page 31): 17x9
+- Table table_31_2 (Page 31): 3x1
+- Table table_31_3 (Page 31): 2x1
+- Table table_32_1 (Page 32): 21x5
+- Table table_32_2 (Page 32): 3x1
+- Table table_32_3 (Page 32): 2x1
+- Table table_33_1 (Page 33): 3x1
+- Table table_33_2 (Page 33): 2x1
+- Table table_34_1 (Page 34): 3x1
+- Table table_34_2 (Page 34): 2x1
+- Table table_35_1 (Page 35): 3x1
+- Table table_35_2 (Page 35): 2x1
+- Table table_36_1 (Page 36): 3x1
+- Table table_36_2 (Page 36): 2x1
+- Table table_37_1 (Page 37): 3x1
+- Table table_37_2 (Page 37): 2x1
+- Table table_38_1 (Page 38): 26x9
+- Table table_38_2 (Page 38): 3x1
+- Table table_38_3 (Page 38): 2x1
+- Table table_39_1 (Page 39): 34x12
+- Table table_39_2 (Page 39): 3x1
+- Table table_39_3 (Page 39): 2x1
+- Table table_40_1 (Page 40): 3x1
+- Table table_40_2 (Page 40): 2x1
+- Table table_41_1 (Page 41): 14x5
+- Table table_41_2 (Page 41): 3x1
+- Table table_41_3 (Page 41): 2x1
+- Table table_42_1 (Page 42): 16x8
+- Table table_42_2 (Page 42): 3x1
+- Table table_42_3 (Page 42): 2x1
+- Table table_43_1 (Page 43): 3x1
+- Table table_43_2 (Page 43): 2x1
+- Table table_44_1 (Page 44): 3x1
+- Table table_44_2 (Page 44): 2x1
+- Table table_45_1 (Page 45): 8x8
+- Table table_45_2 (Page 45): 3x1
+- Table table_45_3 (Page 45): 2x1
+- Table table_46_1 (Page 46): 3x1
+- Table table_46_2 (Page 46): 2x1
+- Table table_47_1 (Page 47): 3x1
+- Table table_47_2 (Page 47): 2x1
+- Table table_48_1 (Page 48): 3x1
+- Table table_48_2 (Page 48): 2x1
+- Table table_49_1 (Page 49): 26x3
+- Table table_49_2 (Page 49): 3x1
+- Table table_49_3 (Page 49): 2x1
+- Table table_50_1 (Page 50): 7x7
+- Table table_50_2 (Page 50): 3x1
+- Table table_50_3 (Page 50): 2x1
+- Table table_51_1 (Page 51): 10x2
+- Table table_51_2 (Page 51): 3x1
+- Table table_51_3 (Page 51): 2x1
+- Table table_52_1 (Page 52): 12x4
+- Table table_52_2 (Page 52): 3x1
+- Table table_52_3 (Page 52): 2x1
+- Table table_53_1 (Page 53): 3x1
+- Table table_53_2 (Page 53): 2x1
+- Table table_54_3 (Page 54): 3x1
+- Table table_54_4 (Page 54): 2x1
+- Table table_55_1 (Page 55): 5x2
+- Table table_55_3 (Page 55): 3x1
+- Table table_55_4 (Page 55): 2x1
+- Table table_56_3 (Page 56): 3x1
+- Table table_56_4 (Page 56): 2x1
+- Table table_57_1 (Page 57): 5x2
+- Table table_57_2 (Page 57): 5x2
+- Table table_57_3 (Page 57): 3x1
+- Table table_57_4 (Page 57): 2x1
+- Table table_58_1 (Page 58): 4x3
+- Table table_58_2 (Page 58): 3x1
+- Table table_58_3 (Page 58): 2x1
+- Table table_59_1 (Page 59): 3x1
+- Table table_59_2 (Page 59): 2x1
+- Table table_60_1 (Page 60): 3x1
+- Table table_60_2 (Page 60): 2x1
+- Table table_61_1 (Page 61): 19x4
+- Table table_61_2 (Page 61): 3x1
+- Table table_61_3 (Page 61): 2x1
+- Table table_62_1 (Page 62): 12x4
+- Table table_62_2 (Page 62): 3x1
+- Table table_62_3 (Page 62): 2x1
+- Table table_63_1 (Page 63): 16x4
+- Table table_63_2 (Page 63): 3x1
+- Table table_63_3 (Page 63): 2x1
+- Table table_64_1 (Page 64): 15x4
+- Table table_64_2 (Page 64): 3x1
+- Table table_64_3 (Page 64): 2x1
+- Table table_65_1 (Page 65): 3x1
+- Table table_65_2 (Page 65): 2x1
+- Table table_66_1 (Page 66): 3x1
+- Table table_67_1 (Page 67): 3x1
+- Table table_67_2 (Page 67): 2x1
+- Table table_68_1 (Page 68): 23x7
+- Table table_68_2 (Page 68): 3x1
+- Table table_68_3 (Page 68): 2x1
+- Table table_69_1 (Page 69): 28x7
+- Table table_69_2 (Page 69): 3x1
+- Table table_69_3 (Page 69): 2x1
+- Table table_70_1 (Page 70): 32x4
+- Table table_70_2 (Page 70): 3x1
+- Table table_70_3 (Page 70): 2x1
+- Table table_71_1 (Page 71): 3x1
+- Table table_71_2 (Page 71): 2x1
+- Table table_72_3 (Page 72): 3x1
+- Table table_73_1 (Page 73): 12x5
+- Table table_73_2 (Page 73): 1x4
+- Table table_73_3 (Page 73): 3x1
+- Table table_73_4 (Page 73): 2x1
+- Table table_74_2 (Page 74): 3x1
+- Table table_75_1 (Page 75): 3x1
+- Table table_75_2 (Page 75): 2x1
+- Table table_76_1 (Page 76): 3x1
+- Table table_76_2 (Page 76): 2x1
+- Table table_77_5 (Page 77): 2x1
+- Table table_77_6 (Page 77): 2x1
+- Table table_78_1 (Page 78): 15x2
+- Table table_78_2 (Page 78): 3x1
+- Table table_79_1 (Page 79): 3x1
+- Table table_79_2 (Page 79): 2x1
+- Table table_80_1 (Page 80): 29x6
+- Table table_80_2 (Page 80): 3x1
+- Table table_80_3 (Page 80): 2x1
+- Table table_81_1 (Page 81): 21x6
+- Table table_81_2 (Page 81): 3x1
+- Table table_81_3 (Page 81): 2x1
+- Table table_82_1 (Page 82): 10x4
+- Table table_82_2 (Page 82): 3x1
+- Table table_82_3 (Page 82): 2x1
+- Table table_83_1 (Page 83): 3x1
+- Table table_83_2 (Page 83): 2x1
+- Table table_84_1 (Page 84): 3x1
+- Table table_84_2 (Page 84): 2x1
+- Table table_85_1 (Page 85): 3x1
+- Table table_85_2 (Page 85): 2x1
+- Table table_86_1 (Page 86): 3x1
+- Table table_86_2 (Page 86): 2x1
+- Table table_87_1 (Page 87): 3x1
+- Table table_87_2 (Page 87): 2x1
+- Table table_88_1 (Page 88): 3x1
+- Table table_88_2 (Page 88): 2x1
+- Table table_89_1 (Page 89): 3x1
+- Table table_89_2 (Page 89): 2x1
+- Table table_90_1 (Page 90): 8x2
+- Table table_90_2 (Page 90): 3x1
+- Table table_90_3 (Page 90): 2x1
+- Table table_91_1 (Page 91): 3x1
+- Table table_91_2 (Page 91): 2x1
+- Table table_92_1 (Page 92): 3x1
+- Table table_92_2 (Page 92): 2x1
+- Table table_93_1 (Page 93): 3x1
+- Table table_93_2 (Page 93): 2x1
+- Table table_94_1 (Page 94): 3x1
+- Table table_94_2 (Page 94): 2x1
+- Table table_95_1 (Page 95): 3x1
+- Table table_95_2 (Page 95): 2x1
+- Table table_96_1 (Page 96): 3x1
+- Table table_96_2 (Page 96): 2x1
+- Table table_97_1 (Page 97): 3x1
+- Table table_97_2 (Page 97): 2x1
+- Table table_98_1 (Page 98): 3x1
+- Table table_98_2 (Page 98): 2x1
+- Table table_99_1 (Page 99): 3x1
+- Table table_99_2 (Page 99): 2x1
+- Table table_100_1 (Page 100): 3x1
+- Table table_100_2 (Page 100): 2x1
+- Table table_101_1 (Page 101): 3x1
+- Table table_101_2 (Page 101): 2x1
+- Table table_102_1 (Page 102): 3x1
+- Table table_102_2 (Page 102): 2x1
+- Table table_103_1 (Page 103): 3x1
+- Table table_103_2 (Page 103): 2x1
+- Table table_104_1 (Page 104): 3x1
+- Table table_104_2 (Page 104): 2x1
+- Table table_105_1 (Page 105): 3x1
+- Table table_105_2 (Page 105): 2x1
+- Table table_106_1 (Page 106): 3x1
+- Table table_106_2 (Page 106): 2x1
+- Table table_107_1 (Page 107): 13x5
+- Table table_107_2 (Page 107): 3x1
+- Table table_107_3 (Page 107): 2x1
+- Table table_108_1 (Page 108): 3x1
+- Table table_108_2 (Page 108): 2x1
+- Table table_109_1 (Page 109): 3x1
+- Table table_109_2 (Page 109): 2x1
+- Table table_110_1 (Page 110): 7x4
+- Table table_110_2 (Page 110): 4x2
+- Table table_110_3 (Page 110): 3x1
+- Table table_110_4 (Page 110): 2x1
+- Table table_111_1 (Page 111): 3x1
+- Table table_111_2 (Page 111): 2x1
+- Table table_112_1 (Page 112): 11x4
+- Table table_112_2 (Page 112): 11x4
+- Table table_112_3 (Page 112): 3x1
+- Table table_112_4 (Page 112): 2x1
+- Table table_113_1 (Page 113): 3x1
+- Table table_113_2 (Page 113): 2x1
+- Table table_114_1 (Page 114): 4x4
+- Table table_114_2 (Page 114): 12x5
+- Table table_114_3 (Page 114): 3x1
+- Table table_114_4 (Page 114): 2x1
+- Table table_115_1 (Page 115): 3x1
+- Table table_115_2 (Page 115): 2x1
+- Table table_116_1 (Page 116): 13x9
+- Table table_116_2 (Page 116): 3x1
+- Table table_116_3 (Page 116): 2x1
+- Table table_117_1 (Page 117): 3x1
+- Table table_117_2 (Page 117): 2x1
+- Table table_118_1 (Page 118): 6x4
+- Table table_118_2 (Page 118): 3x1
+- Table table_118_3 (Page 118): 2x1
+- Table table_119_1 (Page 119): 3x1
+- Table table_119_2 (Page 119): 2x1
+- Table table_120_1 (Page 120): 3x1
+- Table table_120_2 (Page 120): 2x1
+- Table table_121_1 (Page 121): 3x1
+- Table table_121_2 (Page 121): 2x1
+- Table table_122_1 (Page 122): 3x1
+- Table table_122_2 (Page 122): 2x1
+- Table table_123_1 (Page 123): 24x6
+- Table table_123_2 (Page 123): 3x1
+- Table table_123_3 (Page 123): 2x1
+- Table table_124_5 (Page 124): 3x1
+- Table table_125_1 (Page 125): 3x1
+- Table table_125_2 (Page 125): 2x1
+- Table table_126_1 (Page 126): 3x1
+- Table table_126_2 (Page 126): 2x1
+- Table table_127_1 (Page 127): 3x1
+- Table table_127_2 (Page 127): 2x1
+- Table table_128_1 (Page 128): 11x8
+- Table table_128_2 (Page 128): 3x1
+- Table table_128_3 (Page 128): 2x1
+- Table table_129_1 (Page 129): 11x8
+- Table table_129_2 (Page 129): 3x1
+- Table table_129_3 (Page 129): 2x1
+- Table table_130_1 (Page 130): 11x8
+- Table table_130_2 (Page 130): 3x1
+- Table table_130_3 (Page 130): 2x1
+- Table table_131_1 (Page 131): 3x1
+- Table table_131_2 (Page 131): 2x1
+- Table table_132_1 (Page 132): 3x1
+- Table table_132_2 (Page 132): 2x1
+- Table table_133_1 (Page 133): 3x1
+- Table table_133_2 (Page 133): 2x1
+- Table table_134_1 (Page 134): 3x1
+- Table table_134_2 (Page 134): 2x1
+- Table table_135_1 (Page 135): 3x1
+- Table table_135_2 (Page 135): 2x1
+- Table table_136_1 (Page 136): 24x12
+- Table table_136_2 (Page 136): 3x1
+- Table table_136_3 (Page 136): 2x1
+- Table table_137_1 (Page 137): 11x8
+- Table table_137_2 (Page 137): 3x1
+- Table table_137_3 (Page 137): 2x1
+- Table table_138_1 (Page 138): 3x1
+- Table table_138_2 (Page 138): 2x1
+- Table table_139_1 (Page 139): 11x4
+- Table table_139_2 (Page 139): 3x1
+- Table table_139_3 (Page 139): 2x1
+- Table table_140_1 (Page 140): 8x4
+- Table table_140_2 (Page 140): 3x1
+- Table table_140_3 (Page 140): 2x1
+- Table table_141_1 (Page 141): 3x1
+- Table table_141_2 (Page 141): 2x1
+- Table table_142_1 (Page 142): 3x1
+- Table table_142_2 (Page 142): 2x1
+- Table table_143_1 (Page 143): 3x1
+- Table table_143_2 (Page 143): 2x1
+- Table table_144_2 (Page 144): 3x1
+- Table table_144_3 (Page 144): 2x1
+- Table table_145_1 (Page 145): 3x1
+- Table table_145_2 (Page 145): 2x1
+- Table table_146_1 (Page 146): 11x6
+- Table table_146_2 (Page 146): 4x3
+- Table table_146_3 (Page 146): 3x1
+- Table table_146_4 (Page 146): 2x1
+- Table table_147_1 (Page 147): 3x1
+- Table table_147_2 (Page 147): 2x1
+- Table table_148_1 (Page 148): 3x1
+- Table table_148_2 (Page 148): 2x1
+- Table table_149_1 (Page 149): 3x1
+- Table table_149_2 (Page 149): 2x1
+- Table table_150_1 (Page 150): 3x1
+- Table table_150_2 (Page 150): 2x1
+- Table table_151_1 (Page 151): 28x12
+- Table table_151_2 (Page 151): 3x1
+- Table table_151_3 (Page 151): 2x1
+- Table table_152_1 (Page 152): 13x8
+- Table table_152_2 (Page 152): 3x1
+- Table table_152_3 (Page 152): 2x1
+- Table table_153_1 (Page 153): 3x1
+- Table table_153_2 (Page 153): 2x1
+- Table table_154_1 (Page 154): 6x7
+- Table table_154_2 (Page 154): 3x1
+- Table table_154_3 (Page 154): 2x1
+- Table table_155_1 (Page 155): 16x2
+- Table table_155_2 (Page 155): 3x1
+- Table table_155_3 (Page 155): 2x1
+- Table table_156_1 (Page 156): 5x2
+- Table table_156_2 (Page 156): 8x4
+- Table table_156_3 (Page 156): 3x1
+- Table table_156_4 (Page 156): 2x1
+- Table table_157_1 (Page 157): 10x4
+- Table table_157_2 (Page 157): 3x1
+- Table table_157_3 (Page 157): 2x1
+- Table table_158_1 (Page 158): 31x6
+- Table table_158_2 (Page 158): 3x1
+- Table table_158_3 (Page 158): 2x1
+- Table table_159_1 (Page 159): 3x1
+- Table table_159_2 (Page 159): 2x1
+- Table table_160_1 (Page 160): 3x1
+- Table table_160_2 (Page 160): 2x1
+- Table table_161_2 (Page 161): 3x1
+- Table table_161_3 (Page 161): 2x1
+- Table table_162_1 (Page 162): 3x1
+- Table table_162_2 (Page 162): 2x1
+- Table table_163_1 (Page 163): 3x1
+- Table table_163_2 (Page 163): 2x1
+- Table table_164_1 (Page 164): 3x1
+- Table table_164_2 (Page 164): 2x1
+- Table table_165_1 (Page 165): 10x7
+- Table table_165_2 (Page 165): 3x1
+- Table table_165_3 (Page 165): 2x1
+- Table table_166_1 (Page 166): 3x1
+- Table table_166_2 (Page 166): 2x1
+- Table table_167_1 (Page 167): 3x1
+- Table table_167_2 (Page 167): 2x1
+- Table table_168_1 (Page 168): 28x2
+- Table table_168_2 (Page 168): 3x1
+- Table table_168_3 (Page 168): 2x1
+- Table table_169_1 (Page 169): 35x2
+- Table table_169_2 (Page 169): 3x1
+- Table table_169_3 (Page 169): 2x1
+- Table table_170_1 (Page 170): 32x2
+- Table table_170_2 (Page 170): 3x1
+- Table table_170_3 (Page 170): 2x1
+- Table table_171_1 (Page 171): 3x1
+- Table table_171_2 (Page 171): 2x1
+- Table table_172_1 (Page 172): 3x1
+- Table table_172_2 (Page 172): 2x1
+- Table table_173_1 (Page 173): 3x1
+- Table table_173_2 (Page 173): 2x1
+- Table table_174_1 (Page 174): 3x1
+- Table table_174_2 (Page 174): 2x1
+- Table table_175_1 (Page 175): 3x1
+- Table table_175_2 (Page 175): 2x1
+- Table table_176_1 (Page 176): 3x1
+- Table table_176_2 (Page 176): 2x1
+- Table table_177_1 (Page 177): 3x1
+- Table table_177_2 (Page 177): 2x1
+- Table table_178_1 (Page 178): 3x1
+- Table table_178_2 (Page 178): 2x1
+- Table table_179_2 (Page 179): 2x1
+- Table table_180_3 (Page 180): 3x1
+- Table table_180_4 (Page 180): 2x1
+- Table table_181_1 (Page 181): 3x1
+- Table table_181_2 (Page 181): 2x1
+- Table table_182_1 (Page 182): 6x3
+- Table table_182_2 (Page 182): 3x1
+- Table table_182_3 (Page 182): 2x1
+- Table table_183_1 (Page 183): 3x1
+- Table table_183_2 (Page 183): 2x1
+- Table table_184_1 (Page 184): 3x1
+- Table table_184_2 (Page 184): 2x1
+- Table table_185_1 (Page 185): 3x1
+- Table table_185_2 (Page 185): 2x1
+- Table table_186_1 (Page 186): 3x1
+- Table table_186_2 (Page 186): 2x1
+- Table table_187_1 (Page 187): 3x1
+- Table table_187_2 (Page 187): 2x1
+- Table table_188_1 (Page 188): 3x1
+- Table table_188_2 (Page 188): 2x1
+- Table table_189_1 (Page 189): 3x1
+- Table table_189_2 (Page 189): 2x1
+- Table table_190_1 (Page 190): 3x1
+- Table table_190_2 (Page 190): 2x1
+- Table table_191_1 (Page 191): 3x1
+- Table table_191_2 (Page 191): 2x1
+- Table table_192_1 (Page 192): 3x1
+- Table table_192_2 (Page 192): 2x1

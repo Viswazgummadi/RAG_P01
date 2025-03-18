@@ -1,0 +1,1777 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13326 ( Part 1  ) :  1992",
+          "bbox": [
+            323.81,
+            23.66,
+            446.69,
+            35.54
+          ],
+          "block_id": "b1_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( Reaffirmed 1997 )",
+          "bbox": [
+            324.29,
+            41.19,
+            404.81,
+            53.59
+          ],
+          "block_id": "b1_9",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            168.29,
+            164.72,
+            298.97,
+            186.08
+          ],
+          "block_id": "b1_1",
+          "font_size": 18.7,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "EVALUATION OF INTERFACE FRICTION\nBETWEEN GEOSYNTHETICS AND SOIL-\nMETHOD OF TEST",
+          "bbox": [
+            37.25,
+            195.68,
+            443.33,
+            259.99
+          ],
+          "block_id": "b1_2",
+          "font_size": 20.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 1\nMODIFIED\nDIRECT\nSHEAR\nTECHNIQUE",
+          "bbox": [
+            105.41,
+            269.12,
+            350.45,
+            279.43
+          ],
+          "block_id": "b1_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "UDC\n621.13 [ 677.06 ] : 620-178-16",
+          "bbox": [
+            151.97,
+            331.76,
+            314.21,
+            342.07
+          ],
+          "block_id": "b1_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "@  BIS  1992",
+          "bbox": [
+            207.89,
+            616.46,
+            266.21,
+            628.34
+          ],
+          "block_id": "b1_5",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDARDS",
+          "bbox": [
+            92.69,
+            639.44,
+            355.81,
+            653.11
+          ],
+          "block_id": "b1_6",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MANAK\nBHAVAN,\n9 BAHADUR\nSHAH\nZAFAR\nMARG\nNEW DELHI  110002",
+          "bbox": [
+            91.97,
+            655.76,
+            373.25,
+            678.79
+          ],
+          "block_id": "b1_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "February\n1992\nPrice Gronp 2",
+          "bbox": [
+            19.49,
+            692.72,
+            456.29,
+            704.95
+          ],
+          "block_id": "b1_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 480.3680114746094,
+        "height": 744.5999755859375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Geosynthetics\nSectional\nCommittee,\nCED 52",
+          "bbox": [
+            17.86,
+            15.24,
+            225.46,
+            28.04
+          ],
+          "block_id": "b2_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            19.06,
+            97.56,
+            75.46,
+            110.36
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard\nwas adopted\nby the Bureau of Indian\nStandards,\nafter the draft\nfinalized\nby the Geosynthetics\nSectional Committee\nhad been approved\nby the Civil Engineering\nDivision\nCouncil.",
+          "bbox": [
+            18.34,
+            115.8,
+            462.1,
+            148.52
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Coefficient\nof interface\nfriction\nbetween\na given\nsoil ( including aggregate and ballast ) and a\ngeosynthetic\n( geotextile/geogrid/geomembrane/geocomposite\n) used for reinforcement\npurposes\nis  a design\nparameter\nin several\napplications\nlike embankments\non soft foundations,\nroad\nconstruction,\nreinforced\nwalls and\nembankments\nfor\nslope protection.\nThis\ncoefficient\nis a\nfunction\nof the nature of the geosynthetic\nsurface,\nthe\nsoil and the normal stress.\nThe total\nshearing resistance\nmay be a combination\nof sliding and rolling friction\nand\ninterlocking\nof the\ngrains in the geosynthetic.\nThe method of test does not\ndistinguish\nbetween\nthe mechanism.\nFor comparison\npurposes tests shall be performed\nusing the same soil and in the\nsame normal\nstress range. The tests may be conducted\nin dry or wet condition.",
+          "bbox": [
+            18.34,
+            152.52,
+            465.7,
+            245.96
+          ],
+          "block_id": "b2_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In all these applications\nstated above,\nthe geosynthetic\nis required\nto carry load, through\nthe\nfriction\ndeveloped\nbetween the soil and geosynthetic.\nThis method of test is also applicable\nfor\nassessing the friction\nbetween a geomembrance\nand the\nnatural\nor compacted\nsoil in order to\nanalyse the stability of the canal/reservoir\nlinings.",
+          "bbox": [
+            19.06,
+            249.48,
+            464.26,
+            292.76
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "At present there are two types\nof test methods\nfor the\ndetermination\nof interface\nfriction\nbetween soil and geosynthetic\nthat are in use the world over. These are the modified direct shear\ntest and the pull out test. In the former, the soil is allowed\nto slide over the geosynthetic\nand\nthe test is conducted\nin a manner similar to that of conventional\ndirect shear test. In the second\ntype of test, the geosynthetic\nis pulled out after it is embedded\nin soil.",
+          "bbox": [
+            19.3,
+            295.8,
+            463.3,
+            348.92
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This part deals with the modified direct shear test method.",
+          "bbox": [
+            19.3,
+            353.16,
+            286.42,
+            365.96
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the formulation\nof this standard,\nassistance\nhave been derived from the following publications:",
+          "bbox": [
+            19.54,
+            369.96,
+            456.82,
+            382.76
+          ],
+          "block_id": "b2_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "i) \u201cGeotextile\nEngineering\nManual\u201d,\npublished\nby Federal\nHigh Way\nAdministration\n(FHWA)-\n84, Catalog No.PB 86- 149457, March\n1985.\nii) GcTechnical Memorandum\n( Bridges ) BE 3/78 Reinforced\nEarth\nRetaining\nWalls and\nBridge Abutments\nfor Embankments,\u201d\nissued by Department\nof Transport,\nU. K. ( 1978 )",
+          "bbox": [
+            37.78,
+            389.16,
+            466.18,
+            437.24
+          ],
+          "block_id": "b2_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iii) \u201cTest Methods\nand Physical Properties\nof Tensar\nGeogrids\u201d\npublished\nby Netton\nLtd\nBlack Burn, U. K. ( 1986 ).",
+          "bbox": [
+            34.9,
+            439.08,
+            463.78,
+            462.44
+          ],
+          "block_id": "b2_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular\nrequirement\nof this standard\nis complied with,\nthe final value,\nobserved\nor calculated,\nexpressing\nthe\nresult\nof a test\nor analysis,\nshall be\nrounded\noff in accordance\nwith IS 2  :  1960 \u2018Rules for rounding\noff numerical\nvalues\n(  revised ).\u2019\nThe number of significant places retained\nin the rounded\noff value should be the same as that\nof the specified value in this standard.",
+          "bbox": [
+            19.54,
+            465.96,
+            464.98,
+            519.08
+          ],
+          "block_id": "b2_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 485.7200012207031,
+        "height": 685.7760009765625
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13326 ( Part 1 )  :  1992",
+          "bbox": [
+            353.02,
+            23.98,
+            467.39,
+            35.86
+          ],
+          "block_id": "b3_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            175.42,
+            49.98,
+            302.5,
+            70.25
+          ],
+          "block_id": "b3_0",
+          "font_size": 17.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "EVALUATION OF INTERFACE FRICTION\nBETWEEN GEOSYNTHETICS AND SOIL-\nMETHOD OF TEST",
+          "bbox": [
+            46.06,
+            78.88,
+            453.1,
+            143.91
+          ],
+          "block_id": "b3_2",
+          "font_size": 20.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART\n1\nMODIFIED\nDIRECT\nSHEAR\nTECHNIQUE",
+          "bbox": [
+            113.26,
+            153.04,
+            358.54,
+            163.35
+          ],
+          "block_id": "b3_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE\nb)",
+          "bbox": [
+            17.5,
+            178.57,
+            276.54,
+            194.4
+          ],
+          "block_id": "b3_4",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Two mild steel strips 350 x 25 x 5 mm\nwhich can be clamped into the two outer\nsides of the bottom half of the shear box\nby\nsix screws,\nin order\nto\nhold the\ngeosynthetic\ntest fabric\nsecurely\nin the\ndirection\nof shear.",
+          "bbox": [
+            277.18,
+            179.16,
+            466.06,
+            242.37
+          ],
+          "block_id": "b3_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.1  This standard\ncovers the method of deter-\nmination\nof the coefficient\nof interface\nfriction\nbetween\na soil\n( including\naggregate\nand\nballast ) and\na geosynthetic\nbe the modified\ndirect shear technique.",
+          "bbox": [
+            17.02,
+            196.2,
+            233.98,
+            249.57
+          ],
+          "block_id": "b3_5",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE -\nIn case the\n15 DsS of the soil to be tested\nis less\nthan\n60 mm\nsize then\nthe small\nshear box,\ni.e. 60x60~24\nmm conforming\nto IS 11229  :  1985 can\nbe made use of with\nappropriate\nmodification,\nas\nsuggested\nin 4.1 (a) and (b).",
+          "bbox": [
+            257.74,
+            252.69,
+            465.88,
+            295.9
+          ],
+          "block_id": "b3_8",
+          "font_size": 8.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2  REFERENCES",
+          "bbox": [
+            17.02,
+            257.64,
+            89.39,
+            270.45
+          ],
+          "block_id": "b3_6",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1  The following Indian Standards\nare neces-\nsary adjuncts\nto this standard:",
+          "bbox": [
+            16.54,
+            274.92,
+            232.3,
+            298.05
+          ],
+          "block_id": "b3_7",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2 Miscellaneous\nequipment\nas required\nfor\ntrimming geosynthetic\nspecimens\nmay be used.",
+          "bbox": [
+            246.7,
+            303.96,
+            464.62,
+            326.85
+          ],
+          "block_id": "b3_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Title\nStandard\nsand\nof\ntesting\ncement -\nspecification\nShear box for testing\nfor soils\nspecification\nShear box ( large ) for testing\nof soils -\nspecification\nGlossary\nof terms for geosyn-\nthetics:\nPart 1 Terms\nused in\nmaterials\nand properties",
+          "bbox": [
+            91.66,
+            303.99,
+            235.42,
+            419.97
+          ],
+          "block_id": "b3_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS  No.\n651  :  1991",
+          "bbox": [
+            21.82,
+            304.71,
+            69.58,
+            329.73
+          ],
+          "block_id": "b3_9",
+          "font_size": 9.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5  SAMPLING",
+          "bbox": [
+            246.7,
+            337.56,
+            307.79,
+            350.37
+          ],
+          "block_id": "b3_20",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11229  :  1985",
+          "bbox": [
+            17.74,
+            340.2,
+            74.62,
+            353.01
+          ],
+          "block_id": "b3_10",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1  Number of samples and their location\nshall\nbe in accordance\nwith the relevant specification.\nHowever,\nin the absence of any stipulation,\nat\nleast three samples\nfrom\nlocations\nnear\neach\nend and the centre of the lot under\ninvestiga-\ntion, shall be selected.",
+          "bbox": [
+            245.5,
+            357.48,
+            465.58,
+            420.93
+          ],
+          "block_id": "b3_21",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11593  :  1986",
+          "bbox": [
+            17.98,
+            363.72,
+            74.62,
+            376.53
+          ],
+          "block_id": "b3_11",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13321\n( Part 1)  :  1991",
+          "bbox": [
+            16.54,
+            386.76,
+            88.78,
+            409.89
+          ],
+          "block_id": "b3_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 TERMINOLOGY",
+          "bbox": [
+            16.54,
+            428.8,
+            98.99,
+            439.11
+          ],
+          "block_id": "b3_14",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "All samples shall be cut with a sharp\ndevice to\nminimise revelling, tearing,\nor undue\nstrain of\nthe sample; marked to show the machine direc-\ntion; labelled; and stored and handled\nin such\nways as to protect\nthe fabric\nfrom damage or\ndeterioration\nprior to testing.",
+          "bbox": [
+            247.18,
+            429.48,
+            465.34,
+            492.69
+          ],
+          "block_id": "b3_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1  Terms\nand\ndefinitions\nas\ncovered\nin\nIS 13321 ( Part 1 )  :  1991 shall apply.",
+          "bbox": [
+            16.3,
+            444.12,
+            235.66,
+            467.01
+          ],
+          "block_id": "b3_15",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4  APPARATUS",
+          "bbox": [
+            16.3,
+            474.12,
+            83.15,
+            486.93
+          ],
+          "block_id": "b3_16",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1  Apparatus\nto be used for\nthe test\nshall\nconform\nto IS* (  under preparation ).\nHowever\nshear box conforming\nto IS 11593  :  1986 may\nalso be used\nsubject\nto the following\nmodi-\nfications.\na>  The bottom\nhalf of the box should\nhave\nfacility to be made into a solid\nblock by\nplacement\nof\nmild\nsteel\n( chromium\nplated ) spacer 300 x 300 x 75 mm. Once\nthe spacer is placed the top\nof this half\nof the box should be plane.\n--\n*Clause\n2.2 to 2.7 ( except 2.2 (c) of IS 2720 ( Part\n39/Set 1 )  :  1977 ( including\namendment\nNo. 1 ) may\nbe  referred\ntill such time, an Indian\nStandard\non\nthe apparatus\nis prepared.",
+          "bbox": [
+            16.06,
+            490.2,
+            236.2,
+            656.62
+          ],
+          "block_id": "b3_17",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6  PREPARATION\nOF SPECIFICATION\n-",
+          "bbox": [
+            247.18,
+            501.72,
+            449.74,
+            514.53
+          ],
+          "block_id": "b3_23",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1  Geosynthetic\nspecimens\nin the\nrequired\ndirection\nshall be cut large enough to fit loosely\nover the soil containeis\nwith sufficient\nexcess\nfor clamping. Enough specimens shall be cut to\nprovide a new specimen for each test,\nwith a\nparticular\nnormal stress.\nIf the\nspecimens are\nto be tested wet, they\nshall be soaked\nfor 24\nhours.",
+          "bbox": [
+            247.66,
+            521.16,
+            467.26,
+            604.77
+          ],
+          "block_id": "b3_24",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 The soil to be used for the test can be the\nsame as is likely to be used in the field.\nStand-\nard sand conforming\nto IS 651  :  1991 may also\nbe used.",
+          "bbox": [
+            248.62,
+            611.4,
+            465.58,
+            654.69
+          ],
+          "block_id": "b3_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            238.78,
+            674.62,
+            245.98,
+            686.5
+          ],
+          "block_id": "b3_26",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 489.63995361328125,
+        "height": 706.9759521484375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13326 ( Part 1) : 1992",
+          "bbox": [
+            21.55,
+            25.8,
+            137.23,
+            35.88
+          ],
+          "block_id": "b4_0",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.9 After\nthe\ncompletion\nof\nthe\ntest,\nthe\napparatus\nis dismantled,\nthe geosynthetic\nis\nremoved and its condition\nis observed.",
+          "bbox": [
+            254.11,
+            49.53,
+            474.19,
+            82.5
+          ],
+          "block_id": "b4_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 PROCEDURE",
+          "bbox": [
+            22.03,
+            51.0,
+            91.63,
+            61.08
+          ],
+          "block_id": "b4_1",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.1  The spacer is fitted into the bottom\nhalf of\nthe shear box. Then the geosynthetic\ntest speci-\nmen is fixed on its top so that\nthe top face of\nthe material\nis flush with the top\nedge of the\nlower half of the box.\nGeotextile\nneeds\nto be\nfixed on two sides whereas geogrid is fixed only\non\none\nside\nopposite\nto\nthe\ndirection\nof\nshearing.",
+          "bbox": [
+            22.27,
+            66.33,
+            243.79,
+            149.46
+          ],
+          "block_id": "b4_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.10 The test\nis repeated\nfor\nall the\nthree\nnormal stress levels.",
+          "bbox": [
+            254.59,
+            88.89,
+            470.35,
+            112.02
+          ],
+          "block_id": "b4_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8 CALCULATIONS",
+          "bbox": [
+            255.07,
+            120.81,
+            340.51,
+            133.62
+          ],
+          "block_id": "b4_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1 The results\nof test may\nbe recorded\nas\nshown in Annex A.",
+          "bbox": [
+            255.07,
+            139.77,
+            473.47,
+            162.66
+          ],
+          "block_id": "b4_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2 The top\nhalf\nof\nthe\nshear\nbox is then\nassembled and the soil is filled to\nthe required\ndensity and the loading plate\npositioned.",
+          "bbox": [
+            23.23,
+            152.97,
+            241.39,
+            185.94
+          ],
+          "block_id": "b4_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For each test, the ratio of the peak shear stress\nto the corresponding\nnormal stress is calculated.\nThe mean of the three\nratios\nso obtained\nis\nreported\nas the coefficient\nof interface\nfriction\nbetween the fill and the geosynthetic.",
+          "bbox": [
+            254.83,
+            169.29,
+            474.67,
+            222.42
+          ],
+          "block_id": "b4_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3 The shear\nbox is placed in the container\ncarefully.",
+          "bbox": [
+            23.47,
+            191.13,
+            235.87,
+            214.26
+          ],
+          "block_id": "b4_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4 The required\nnormal load is then\napplied.\nThe test is usually conducted\nat normal stresses\nof 50, 100 and 200 KPa.\nThe maximum normal\nstress shall be equal to the maximum\nvertical\npressure in the fill as obtained\nfrom\nthe design\ncalculations.\nFlood the container\nwith water,\nif wet test is desired.",
+          "bbox": [
+            23.47,
+            220.89,
+            241.15,
+            293.94
+          ],
+          "block_id": "b4_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9  REPORT",
+          "bbox": [
+            254.59,
+            231.93,
+            304.52,
+            244.74
+          ],
+          "block_id": "b4_15",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.1  The\nfollowing\nshall be included\nin the\nreport:\na>\nb)\nc>\n4\n4\nf>\nis)",
+          "bbox": [
+            254.83,
+            249.69,
+            472.27,
+            376.04
+          ],
+          "block_id": "b4_16",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Specimen\nidentification;\nSoil description/identification;\nDescription\nof test apparatus;\nApplied normal stress, KPa;\nPeak shear stress, KPa;\nStrain at peak shear stress, o/o;\nPlots of shear stress versus\nshear\nstrain\nat different\nnormal stresses;\nPlots of maximum shear stress vs normal\nstress;\nPlots\nof vertical\ndeformation\nvs shear\nstrain at different\nnormal stresses; and\nCoefficient\nof interface\nfrictions.",
+          "bbox": [
+            284.11,
+            277.05,
+            471.79,
+            444.9
+          ],
+          "block_id": "b4_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.5 The\nupper\nhalf\nof the\nbox is lifted\nup\nslightly to leave a gap of about 1 mm between\nthe two parts of the box.",
+          "bbox": [
+            23.71,
+            299.85,
+            243.79,
+            332.58
+          ],
+          "block_id": "b4_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.6 The shear strain should be applied using a\ndeformation\nrate of 0.20 mm/min.",
+          "bbox": [
+            24.19,
+            338.25,
+            244.75,
+            361.14
+          ],
+          "block_id": "b4_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.7 The shearing is continued\nuntil\nthe shear-\ning load becomes essentially\nconstant\nor until\na displacement\nof 60 mm is reached\nwhichever\nis larger.",
+          "bbox": [
+            23.95,
+            365.85,
+            241.63,
+            409.38
+          ],
+          "block_id": "b4_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "h)",
+          "bbox": [
+            270.19,
+            384.46,
+            283.71,
+            400.28
+          ],
+          "block_id": "b4_17",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "j>",
+          "bbox": [
+            269.23,
+            408.46,
+            281.55,
+            424.28
+          ],
+          "block_id": "b4_18",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.8 During the shearing, the shearing loads and\nvertical\ndeformation\nshall\nbe\nmeasured\nat\nregular intervals\nof shear deformation.",
+          "bbox": [
+            24.43,
+            412.89,
+            243.31,
+            445.86
+          ],
+          "block_id": "b4_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "k)",
+          "bbox": [
+            269.95,
+            432.22,
+            282.75,
+            448.04
+          ],
+          "block_id": "b4_19",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            249.79,
+            678.12,
+            256.99,
+            688.2
+          ],
+          "block_id": "b4_21",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 496.4880065917969,
+        "height": 716.0640258789062
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13326 ( Part 1 )  :  1992",
+          "bbox": [
+            352.78,
+            21.1,
+            468.46,
+            32.98
+          ],
+          "block_id": "b5_0",
+          "font_size": 9.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nA",
+          "bbox": [
+            209.5,
+            48.8,
+            277.11,
+            62.55
+          ],
+          "block_id": "b5_1",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Clause  8.1  )",
+          "bbox": [
+            206.14,
+            67.93,
+            279.9,
+            83.76
+          ],
+          "block_id": "b5_2",
+          "font_size": 11.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PROFORMA FOR RECORDING TEST RESULTS",
+          "bbox": [
+            121.42,
+            90.71,
+            360.22,
+            102.6
+          ],
+          "block_id": "b5_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Project...\n. .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,..... . . . ,. .\nLocation\nof sample . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.26,
+            111.96,
+            463.66,
+            125.73
+          ],
+          "block_id": "b5_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Rate of shear strain . . . . . . . . . . . . . . . . . . . . . . . . . . .  .,....\nSample No . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.5,
+            127.8,
+            463.42,
+            141.81
+          ],
+          "block_id": "b5_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Weight of loading frame . . . . . . . . . . . . . . . . . . . . . . . . . . .\nProving ring  No . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.02,
+            143.88,
+            463.42,
+            157.56
+          ],
+          "block_id": "b5_6",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Normal load applied . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . ...*\nProving ring constant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.26,
+            160.92,
+            463.41,
+            174.45
+          ],
+          "block_id": "b5_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Geosynthetic Specimen Measurements",
+          "bbox": [
+            159.57,
+            185.75,
+            324.69,
+            196.68
+          ],
+          "block_id": "b5_8",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dimensions...\n. . . .., . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . .\nArea . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nColour .., . . . .,...  . .,. .,....... . . . . . . . . . . . . . . . . . . . . . . . . . . .\nThichness ..*.........*.a.........................,......\nGrid aperture .,..,. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nTrade\nMark . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nDirection\nof shear . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nMachine\nor cross machine",
+          "bbox": [
+            23.25,
+            200.04,
+            463.9,
+            264.93
+          ],
+          "block_id": "b5_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Soil Specimen Measurements",
+          "bbox": [
+            178.53,
+            274.07,
+            306.93,
+            285.0
+          ],
+          "block_id": "b5_10",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dimensions\n. . . . .  . . . . . . . . . . . . . . . . ,.. . . . . . . . . . . . . . . . . . . . . .\nArea of specimen . . . . . . . . . . . . . . . . . . . . ..*.............",
+          "bbox": [
+            23.25,
+            289.32,
+            453.09,
+            302.85
+          ],
+          "block_id": "b5_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Initial wet mass of specimen . . . . . . . . . . . . . . . . . . . . . .\nVolume of specimen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.73,
+            304.68,
+            464.61,
+            318.93
+          ],
+          "block_id": "b5_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Water\ncontent..\n,......................................\nFinal wet mass of specimen . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.01,
+            321.96,
+            464.61,
+            335.25
+          ],
+          "block_id": "b5_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Bulk density . . . . . . . . . . . . . . . . . . . . . ..*.....................\nWater content\nat the shear zone . . . . . . . . . . . . . . . .",
+          "bbox": [
+            23.25,
+            337.56,
+            464.61,
+            350.85
+          ],
+          "block_id": "b5_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Recording Shear Stage",
+          "bbox": [
+            192.69,
+            365.51,
+            292.53,
+            376.44
+          ],
+          "block_id": "b5_15",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i) Thickness\nof specimen . . . . . . . . . . . . . . . . . . . . mm\nii) Area of cross-section\nof specimen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . cm*",
+          "bbox": [
+            30.93,
+            380.52,
+            463.89,
+            406.05
+          ],
+          "block_id": "b5_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iii) Rate of shearing  . . . . . . . . . . . . . . . . . . . .  .mm/min\niv) Normal stress\napplied . . . . . . . . . . . . . . . kg/cm\u2019",
+          "bbox": [
+            23.49,
+            409.8,
+            459.57,
+            423.09
+          ],
+          "block_id": "b5_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Date\nShear\nShear\nProving\nShear\nShear\nVertical\nVertical\nand\nDisplace-\nDisplace-\nRing\nForce\nStress\nDial\nDisplace-\nTime\nment Dial\nment\nReading\nReadings\nment\nReading",
+          "bbox": [
+            33.33,
+            432.87,
+            452.37,
+            474.87
+          ],
+          "block_id": "b5_18",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(\u20181\n(8)",
+          "bbox": [
+            38.61,
+            478.23,
+            437.97,
+            490.71
+          ],
+          "block_id": "b5_19",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Plot-shear\nstress  versus  shear displacement\nand find:\na) Maximum shear stress at the peak of curve, and\nb) Correspbnding\nshear displacement.",
+          "bbox": [
+            33.33,
+            493.08,
+            291.09,
+            526.05
+          ],
+          "block_id": "b5_20",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Recording Summary for Results\np-\n-__---\nTest No.\nNormal\nShear\nShear\nInitial\nStress\nStress at\nDisplacement\nWater\nFailure\nat Failure\nContent",
+          "bbox": [
+            14.37,
+            538.79,
+            313.65,
+            592.47
+          ],
+          "block_id": "b5_21",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Final\nWater\nContent",
+          "bbox": [
+            339.33,
+            561.51,
+            372.45,
+            592.71
+          ],
+          "block_id": "b5_24",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Remark",
+          "bbox": [
+            408.21,
+            561.75,
+            440.61,
+            572.55
+          ],
+          "block_id": "b5_26",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(1)\n(2)\n(3)\n(4)\n(5)",
+          "bbox": [
+            37.89,
+            595.83,
+            293.97,
+            607.83
+          ],
+          "block_id": "b5_22",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(6)",
+          "bbox": [
+            350.85,
+            596.07,
+            363.09,
+            606.87
+          ],
+          "block_id": "b5_25",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(7)",
+          "bbox": [
+            419.97,
+            596.31,
+            432.21,
+            607.11
+          ],
+          "block_id": "b5_27",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Plot-shear\nstress  versus  normal stress relationship\nto obtain:\na) Cohesion\nintercept,\nand\nb) Angle of shearing resistance.",
+          "bbox": [
+            34.29,
+            614.04,
+            314.85,
+            653.25
+          ],
+          "block_id": "b5_23",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            242.85,
+            667.8,
+            250.05,
+            680.61
+          ],
+          "block_id": "b5_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 485.73602294921875,
+        "height": 716.0479736328125
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "( Standard Mark\nI\nThe use of the Standard\nMark is governed\nby the provisions\nof the Bureau of  Indian\nStandards Act, 1986  and the Rules and Regulations\nmade thereunder.\nThe Standard\nMark\non products\ncovered by an Indian\nStandard\nconveys the assurance\nthat they have been\nproduced\nto comply with the requirements\nof that standard\nunder a well defined system\nof inspection,\ntesting\nand quality\ncontrol\nwhich is devised\nand supervised\nby BIS and\noperated\nby the producer.\nStandard\nmarked products\nare also continuously\nchecked by\nBIS for conformity\nto that standard\nas a further\nsafeguard.\nDetails of conditions\nunder\nwhich a licence for the\nuse of the Standard\nMark may be granted\nto manufacturers\nor\nproducers\nmay be obtained\nfrom the Bureau of Indian Standards.",
+          "bbox": [
+            7.03,
+            438.94,
+            446.62,
+            546.94
+          ],
+          "block_id": "b6_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 457.1920166015625,
+        "height": 612.4959716796875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standard",
+          "bbox": [
+            22.1,
+            18.07,
+            139.94,
+            29.0
+          ],
+          "block_id": "b7_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a  statutory\ninstitution\nestablished\nunder\nthe\nBureau of Indian Standards Act, 1986  to\npromote\nharmonious\ndevelopment\nof the\nactivities\nof standardization,\nmarking\nand quality\ncertification\nof goods and attending\nto connected\nmatters in the country.",
+          "bbox": [
+            23.06,
+            40.28,
+            467.78,
+            73.25
+          ],
+          "block_id": "b7_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            23.3,
+            85.27,
+            66.98,
+            96.2
+          ],
+          "block_id": "b7_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS  has the copyright\nof all its publications.\nNo part of these publications\nmay\nbe reproduced\nin any form without the prior permission\nin writing of BIS. This does not preclude\nthe free use,\nin  the course of implementing\nthe standard,\nof necessary\ndetails, such as symbols and sizes, type\nor grade designations\nEnquiries\nrelating\nto\ncopyright\nbe addressed\nto\nthe\nDirector\n( Publications\n), BIS.",
+          "bbox": [
+            23.06,
+            108.2,
+            467.06,
+            160.61
+          ],
+          "block_id": "b7_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Revision of Indian Standards",
+          "bbox": [
+            24.5,
+            174.0,
+            151.83,
+            184.31
+          ],
+          "block_id": "b7_4",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standards\nare reviewed periodically\nand revised,\nwhen necessary\nand\namendments,\nif\nany, are issued from time to time. Users of Indian Standards\nshould ascertain\nthat they\nare in\npossession\nof the latest amendments\nor edition.\nComments\non this Indian\nStandard\nmay be\nsent to BIS giving the following\nreference:",
+          "bbox": [
+            24.02,
+            193.88,
+            468.74,
+            237.65
+          ],
+          "block_id": "b7_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dot  . No  CED 52 ( 4908 )",
+          "bbox": [
+            25.22,
+            250.52,
+            148.1,
+            263.33
+          ],
+          "block_id": "b7_6",
+          "font_size": 9.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments\nhoed\nSiuce Publication",
+          "bbox": [
+            169.7,
+            291.12,
+            330.15,
+            301.43
+          ],
+          "block_id": "b7_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of issue\nText Affected",
+          "bbox": [
+            39.86,
+            313.16,
+            465.14,
+            326.21
+          ],
+          "block_id": "b7_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN\nSTANDARDS",
+          "bbox": [
+            160.1,
+            421.16,
+            334.34,
+            433.97
+          ],
+          "block_id": "b7_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Headquarters\n:",
+          "bbox": [
+            25.22,
+            447.32,
+            94.83,
+            460.13
+          ],
+          "block_id": "b7_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Man&\nBhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002\nTelephones\n: 131 01 31, 331 13 75\nTelegrams\n:  Manaksanstha\n( Common to\nall Offices )",
+          "bbox": [
+            24.74,
+            462.2,
+            471.38,
+            500.69
+          ],
+          "block_id": "b7_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices  :",
+          "bbox": [
+            26.18,
+            509.72,
+            107.79,
+            522.53
+          ],
+          "block_id": "b7_12",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telephone",
+          "bbox": [
+            422.18,
+            513.43,
+            466.58,
+            524.36
+          ],
+          "block_id": "b7_15",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Central\n-  Manak Bhavan, 9 Bahadur Shah  Zafar Marg\nNEW DELHI\n110002",
+          "bbox": [
+            25.22,
+            525.56,
+            275.78,
+            550.61
+          ],
+          "block_id": "b7_13",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I\n311 01 31\n331 13 75",
+          "bbox": [
+            418.58,
+            529.51,
+            471.38,
+            554.6
+          ],
+          "block_id": "b7_16",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Eastern  :  l/14 C. 1. T Scheme VII M, V. 1. P. Road, Maniktola\nCALCUTTA\n700054",
+          "bbox": [
+            26.18,
+            553.16,
+            315.62,
+            576.05
+          ],
+          "block_id": "b7_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "37 86 62",
+          "bbox": [
+            429.14,
+            554.6,
+            470.9,
+            567.41
+          ],
+          "block_id": "b7_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern\n: SC0 445-446, Sector 35-C, CHANDIGARH\n160036\n53 38 43",
+          "bbox": [
+            26.18,
+            579.08,
+            470.66,
+            593.33
+          ],
+          "block_id": "b7_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern\n: C I. T. Campus, IV Cross Road, MADRAS 600113\n235 02 I6\nWestern\n:  Manakalaya,\nE9 MIDC, Marol, Andheri\n(  F.ast  )\n6 32 92 95\nROMBAY\n400093\nBranches\n:  AHMADABAD,\nBANGALORE,\nBHOPAL,\nBHUBANESHWAR,\nCOIMBATORE,\nFARlDABAD,\nGHAZIABAD,\nGUWAHATI,\nHYDERABAD,\nJAIPUR,\nKANPUR,\nLUCKNOW,\nPATNA, THIRUVANANTHAPURAM.",
+          "bbox": [
+            25.94,
+            595.88,
+            471.14,
+            667.01
+          ],
+          "block_id": "b7_19",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Printed at Printwell Printers, Aligarh,  India",
+          "bbox": [
+            296.18,
+            697.88,
+            467.12,
+            710.69
+          ],
+          "block_id": "b7_20",
+          "font_size": 8.8,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 489.27203369140625,
+        "height": 748.239990234375
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

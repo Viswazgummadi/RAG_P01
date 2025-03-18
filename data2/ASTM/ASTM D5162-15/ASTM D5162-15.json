@@ -1,0 +1,1373 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            31.43,
+            32.18,
+            85.19,
+            84.02
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: D5162  \u2212 15",
+          "bbox": [
+            88.31,
+            48.6,
+            213.04,
+            59.58
+          ],
+          "block_id": "b1_1",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Practice for\nDiscontinuity (Holiday) Testing of Nonconductive Protective\nCoating on Metallic Substrates 1",
+          "bbox": [
+            88.31,
+            99.44,
+            490.07,
+            144.32
+          ],
+          "block_id": "b1_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation D5162; the number immediately following the designation indicates the year of\noriginal adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A\nsuperscript epsilon ( \u00b4 ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            88.31,
+            158.93,
+            495.41,
+            184.37
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.3  ISO Standard: 4",
+          "bbox": [
+            310.32,
+            203.72,
+            389.9,
+            215.65
+          ],
+          "block_id": "b1_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope",
+          "bbox": [
+            31.43,
+            205.56,
+            68.85,
+            215.54
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ISO 29601  Paints and varnishes. Corrosion protection by\nprotective paint systems. Assessment of porosity in a dry\n\ufb01lm",
+          "bbox": [
+            310.31,
+            217.14,
+            552.32,
+            250.07
+          ],
+          "block_id": "b1_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.1 This practice covers procedures for determining discon-\ntinuities using two types of test equipment:\n1.1.1  Test Method A\u2014 Low Voltage Wet Sponge, and\n1.1.2  Test Method B\u2014 High Voltage Spark Testers.",
+          "bbox": [
+            31.43,
+            222.52,
+            282.91,
+            269.89
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Terminology",
+          "bbox": [
+            300.84,
+            258.95,
+            367.27,
+            268.92
+          ],
+          "block_id": "b1_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1  De\ufb01nitions of Terms Speci\ufb01c to This Standard:\n3.1.1  discontinuity, as used in this standard, n\u2014 a \ufb02aw, void,\ncrack, thin spot, foreign inclusion, or contamination in the\ncoating \ufb01lm that signi\ufb01cantly lowers the dielectric strength of\nthe coating \ufb01lm. A discontinuity may also be identi\ufb01ed as a\nholiday or pinhole.\n3.1.2  holiday, as used in this standard, n\u2014 a term that\nidenti\ufb01es a discontinuity.\n3.1.3  holiday detector, as used in this standard, n\u2014 a device\nthat locates discontinuities in a nonconductive coating \ufb01lm\napplied to an electrically conductive surface.\n3.1.4  pinhole, as used in this standard, n\u2014 a \ufb01lm defect\ncharacterized by small pore like \ufb02aws in the coating which,\nwhen extended entirely through the \ufb01lm, will appear as a\ndiscontinuity. A pinhole in the \ufb01nish coat may not appear as a\ndiscontinuity.",
+          "bbox": [
+            300.84,
+            274.41,
+            552.33,
+            465.59
+          ],
+          "block_id": "b1_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.2 This practice addresses metallic substrates. For concrete\nsurfaces, refer to Practice  D4787 .",
+          "bbox": [
+            31.43,
+            276.87,
+            282.91,
+            298.32
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.3 The values stated in SI units are to be regarded as the\nstandard. The values given in parentheses are for information\nonly.",
+          "bbox": [
+            31.43,
+            305.3,
+            282.88,
+            338.23
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.4  This standard does not purport to address all of the\nsafety concerns, if any, associated with its use. It is the\nresponsibility of the user of this standard to establish appro-\npriate safety and health practices and determine the applica-\nbility of regulatory limitations prior to use.",
+          "bbox": [
+            31.43,
+            344.1,
+            282.91,
+            399.98
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents",
+          "bbox": [
+            31.43,
+            413.43,
+            142.92,
+            423.41
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1  ASTM Standards: 2",
+          "bbox": [
+            40.91,
+            428.54,
+            133.8,
+            440.46
+          ],
+          "block_id": "b1_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "G62  Test Methods for Holiday Detection in Pipeline Coat-\nings\nD4787  Practice for Continuity Veri\ufb01cation of Liquid or\nSheet Linings Applied to Concrete Substrates",
+          "bbox": [
+            40.91,
+            441.96,
+            282.92,
+            486.36
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4. Signi\ufb01cance and Use",
+          "bbox": [
+            300.84,
+            474.47,
+            402.56,
+            484.45
+          ],
+          "block_id": "b1_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.2  NACE Standard Practices: 3",
+          "bbox": [
+            40.91,
+            489.89,
+            171.48,
+            501.81
+          ],
+          "block_id": "b1_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1 A coating is applied to a metallic substrate to prevent\ncorrosion, reduce abrasion or reduce product contamination, or\nall three. The degree of coating continuity required is dictated\nby service conditions. Discontinuities in a coating are fre-\nquently very minute and not readily visible. This practice\nprovides a procedure for electrical detection of minute discon-\ntinuities in nonconductive coating systems.",
+          "bbox": [
+            300.84,
+            490.04,
+            552.31,
+            568.87
+          ],
+          "block_id": "b1_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SP0188\u20132006  Discontinuity (Holiday) Testing of Protective\nCoatings\nSP0274\u20132011  High Voltage Electrical Inspection of Pipeline\nCoatings\nSP0490\u20132007  Holiday Detection of Fusion Bonded Epoxy",
+          "bbox": [
+            40.91,
+            503.3,
+            282.91,
+            559.18
+          ],
+          "block_id": "b1_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2 Electrical testing to determine the presence and number\nof discontinuities in a coating \ufb01lm is performed on a noncon-\nductive coating applied to an electrically conductive surface.\nThe allowable number of discontinuities should be determined\nprior to conducting this test since the acceptable quantity of\ndiscontinuities will vary depending on coating \ufb01lm thickness,\ndesign, and service conditions.",
+          "bbox": [
+            300.84,
+            574.35,
+            552.34,
+            653.18
+          ],
+          "block_id": "b1_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This practice is under the jurisdiction of ASTM Committee  D01  on Paint and\nRelated Coatings, Materials, and Applications and is the direct responsibility of\nSubcommittee  D01.46  on Industrial Protective Coatings.\nCurrent edition approved Dec. 1, 2015. Published December 2015. Originally\napproved in 1991. Last previous edition approved in 2008 as D5162 \u2013 08. DOI:\n10.1520/D5162-15.\n2  For referenced ASTM standards, visit the ASTM website, www.astm.org, or\ncontact ASTM Customer Service at service@astm.org. For  Annual Book of ASTM\nStandards  volume information, refer to the standard\u2019s Document Summary page on\nthe ASTM website.\n3  Available from NACE International (NACE), 1440 South Creek Dr., Houston,\nTX 77084-4906, http://www.nace.org.",
+          "bbox": [
+            31.43,
+            587.23,
+            282.92,
+            696.24
+          ],
+          "block_id": "b1_21",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4  Available from International Organization for Standardization (ISO), ISO\nCentral Secretariat, BIBC II, Chemin de Blandonnet 8, CP 401, 1214 Vernier,\nGeneva, Switzerland, http://www.iso.org.",
+          "bbox": [
+            300.83,
+            668.11,
+            552.28,
+            696.3
+          ],
+          "block_id": "b1_22",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. United States",
+          "bbox": [
+            31.43,
+            737.71,
+            364.72,
+            743.7
+          ],
+          "block_id": "b1_23",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b1_24",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            31.43,
+            32.18,
+            85.19,
+            84.02
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2740478515625
+      },
+      "image_id_map": {
+        "img1_0": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ],
+          "block_id": "img2_13"
+        },
+        {
+          "type": "text",
+          "content": "D5162 \u221215",
+          "bbox": [
+            278.31,
+            36.85,
+            335.36,
+            47.82
+          ],
+          "block_id": "b2_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "TABLE 1 Suggested Voltages for High Voltage Spark Testing",
+          "bbox": [
+            310.7,
+            58.91,
+            542.46,
+            66.89
+          ],
+          "block_id": "b2_9",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.3 The low voltage wet sponge test equipment is generally\nused for determining the existence of discontinuities in coating\n\ufb01lms having a total thickness of 0.5 mm (20 mil) or less. High\nvoltage spark test equipment is generally used for determining\nthe existences of discontinuities in coating \ufb01lms having a total\nthickness of greater than 0.5 mm (20 mil).",
+          "bbox": [
+            31.43,
+            58.99,
+            282.9,
+            126.34
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Total Dry Film Thickness\nSuggested\nInspection, V\nmm\nmil",
+          "bbox": [
+            333.33,
+            72.66,
+            545.17,
+            91.2
+          ],
+          "block_id": "b2_10",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.500\u20130.590\n19.7\u201323.2\n2700\n0.600\u20130.690\n23.6\u201327.2\n3300\n0.700\u20130.790\n27.6\u201331.1\n3900\n0.800\u20130.890\n31.5\u201335.0\n4500\n0.900\u20130.990\n35.4\u201339.0\n5000\n1.000\u20131.090\n39.4\u201342.9\n5500\n1.100\u20131.190\n43.3\u201346.9\n6000\n1.200\u20131.290\n47.2\u201350.8\n6500\n1.300\u20131.390\n51.2\u201354.7\n7000\n1.400\u20131.490\n55.1\u201358.7\n7500\n1.500\u20131.590\n59.1\u201362.6\n8000\n1.600\u20131.690\n63.0\u201366.5\n8500\n1.700\u20131.790\n66.9\u201370.5\n9000\n1.800\u20131.890\n70.9\u201374.4\n10000\n1.900\u20131.990\n74.8\u201378.3\n10800\n2.000\u20132.090\n78.7\u201382.3\n11500\n2.100\u20132.190\n82.7\u201386.2\n12000\n2.200\u20132.290\n86.6\u201390.2\n12500\n2.300\u20132.390\n90.6\u201394.1\n13000\n2.400\u20132.490\n94.5\u201398.0\n13500\n2.500\u20132.590\n98.4\u2013102.0\n14000\n2.600\u20132.690\n102.4\u2013105.9\n14500\n2.700\u20132.790\n106.3\u2013109.8\n15000\n2.800\u20132.890\n110.2\u2013113.8\n15500\n2.900\u20132.990\n114.2\u2013117.7\n16000\n3.000\u20133.090\n118.1\u2013121.7\n16500\n3.100\u20133.190\n122.0\u2013125.6\n17000\n3.200\u20133.290\n126.0\u2013129.5\n17500\n3.300\u20133.390\n129.9\u2013133.5\n18000\n3.400\u20133.490\n133.9\u2013137.4\n18500\n3.500\u20133.590\n137.8\u2013141.3\n19000\n3.600\u20133.690\n141.7\u2013145.3\n19500\n3.700\u20133.790\n145.7\u2013149.2\n20000\n3.800\u20133.890\n149.6\u2013153.1\n21000\n3.900\u20133.990\n153.5\u2013157.1\n21800\n4.000\u20134.190\n157.5\u2013165.0\n22500\n4.200\u20134.290\n165.4\u2013168.9\n23000\n4.300\u20134.390\n169.3\u2013172.8\n24000\n4.400\u20134.490\n173.2\u2013176.8\n25000\n4.500\u20134.590\n177.2\u2013180.7\n25800\n4.600\u20134.690\n181.1\u2013184.6\n26400\n4.700\u20134.790\n185.0\u2013188.6\n26800\n4.800\u20134.890\n189.0\u2013192.5\n27400\n4.900\u20134.990\n192.9\u2013196.5\n28000\n5.000\u20135.290\n196.9\u2013208.3\n28500\n5.300\u20135.500\n208.7\u2013216.5\n29000\n5.600\u20138.000\n220.5\u2013307.1\n30000",
+          "bbox": [
+            319.74,
+            95.76,
+            534.49,
+            496.56
+          ],
+          "block_id": "b2_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.4 Coatings that are applied at a thickness of less than 0.5\nmm (20 mil) may be susceptible to damage if tested with high\nvoltage spark testing equipment. Consult the coating manufac-\nturer for proper test equipment and inspection voltages.",
+          "bbox": [
+            31.43,
+            132.32,
+            282.9,
+            176.73
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.5 To prevent damage to a coating \ufb01lm when using high\nvoltage test instrumentation, total \ufb01lm thickness and dielectric\nstrength in a coating system shall be considered in selecting the\nappropriate voltage for detection of discontinuities. Atmo-\nspheric conditions shall also be considered since the voltage\nrequired for the spark to gap a given distance in air varies with\nthe conductivity of the air at the time the test is conducted.\nSuggested starting voltages are provided in  Table 1 .",
+          "bbox": [
+            31.43,
+            182.71,
+            282.92,
+            273.01
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.6 The coating manufacturer shall be consulted to obtain\nthe following information, which would affect the accuracy of\nthis test to determine discontinuities:\n4.6.1 Establish the length of time required to adequately dry\nor cure the applied coating \ufb01lm prior to testing. Solvents\nretained in an uncured coating \ufb01lm may form an electrically\nconductive path through the \ufb01lm to the substrate.\n4.6.2 Determine whether the coating contains electrically\nconductive \ufb01llers or pigments that may affect the normal\ndielectric properties.",
+          "bbox": [
+            31.43,
+            278.99,
+            282.9,
+            393.24
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.7 This practice is intended for use with new coatings\napplied to metal substrates. Its use on a coating previously\nexposed to an immersion condition has often resulted in\ndamage to the coating and has produced erroneous detection of\ndiscontinuities due to permeation or moisture absorption of the\ncoating. Deposits may also be present on the surface causing\ntelegraphing (current traveling through a moisture path to a\ndiscontinuity, giving an erroneous indication) or current leak-\nage across the surface of the coating due to contamination. The\nuse of a high voltage tester on previously exposed coatings has\nto be carefully considered because of possible spark-through,\nwhich will damage an otherwise sound coating. Although a low\nvoltage tester can be used without damaging the coating, it may\nalso produce erroneous results.",
+          "bbox": [
+            31.43,
+            399.22,
+            282.91,
+            558.37
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  1\u2014Alternative methods for selecting a suitable test voltage are\ngiven in Test Methods  G62  and NACE RP0188, SP0274, and SP0490.",
+          "bbox": [
+            300.84,
+            507.96,
+            552.32,
+            525.92
+          ],
+          "block_id": "b2_12",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1.2 Low  Voltage Wet Sponge Tester\u2014 a sensitivity device\nwith the operating voltage being of little importance other than\nbeing part of the particular electronic circuit design.\n5.1.3 Wet  Sponge Type Instruments\u2014 a number of commer-\ncially available, industry-accepted, instruments are available.\nThe following electronic principle describes two types of\ndevices generally used; others may be available but are not\ndescribed in this practice.\n5.1.3.1 Lightweight , Self-Contained, Portable Devices\u2014\nbased on the electrical principle of an electromagnetic sensitive\nrelay or a solid-state electronic relay circuit that energizes an\naudible or visual indicator when a coating discontinuity is\ndetected. Generally this equipment is capable of being recali-\nbrated in the \ufb01eld by the user.\n5.1.3.2  Lightweight, Self-Contained, Portable Devices\u2014\nalso based on the principle of an electronic relaxation oscillator",
+          "bbox": [
+            300.84,
+            550.52,
+            552.31,
+            732.72
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Test Methods",
+          "bbox": [
+            31.43,
+            571.72,
+            101.74,
+            581.69
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "TEST METHOD A\u2014LOW VOLTAGE WET SPONGE\nTESTING",
+          "bbox": [
+            37.13,
+            591.17,
+            277.22,
+            612.63
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1 Apparatus:\n5.1.1 Low  Voltage Holiday Detector\u2014 an electronic device\npowered by a self-contained battery with voltages ranging from\n5 to 90 V dc, depending on the equipment manufacturer\u2019s\ncircuit design. It is used to locate discontinuities in a noncon-\nductive coating applied to a conductive substrate. Operation\nincludes the use of an open-cell sponge electrode wetted with\na solution for exploring the coating surface, a signal return\nconnection, and an audible or visual indicator, or both, for\nsignaling a point of coating discontinuity.",
+          "bbox": [
+            31.43,
+            618.81,
+            282.9,
+            732.66
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b2_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_13",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2740478515625
+      },
+      "image_id_map": {
+        "img2_13": 2
+      }
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ],
+          "block_id": "img3_7"
+        },
+        {
+          "type": "text",
+          "content": "D5162 \u221215",
+          "bbox": [
+            278.31,
+            36.85,
+            335.36,
+            47.82
+          ],
+          "block_id": "b3_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "circuit that reacts signi\ufb01cantly to the abrupt drop in electrical\nresistance between the high dielectric value of the coating \ufb01lm\nand the conductive substrate at the point of coating \ufb01lm\ndiscontinuity. This results in a rise in oscillator frequency as\nwell as in the audible signal from the device. Generally, this\nequipment is incapable of being recalibrated in the \ufb01eld by the\nuser.",
+          "bbox": [
+            31.43,
+            58.99,
+            282.91,
+            137.81
+          ],
+          "block_id": "b3_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.10 Discontinuities that require repair shall be identi\ufb01ed\nwith a marker that is compatible with the repair coating or one\nthat is easily removed. Marking the defects with making tape is\nacceptable providing the tape adhesive does not affect the\nsubsequent repair.\n5.2.11 To prevent telegraphing take care to ensure that the\nsolution is wiped dry from a previously detected discontinuity\nwhere possible before continuing the test.\n5.2.12 The wetting agent must be completely removed by\nrinsing the holiday area prior to repair.\n5.2.13 Wet sponge holiday detection is not recommended\nbetween coats of a multicoat system. However, when a test is\nconducted between coats of a multicoat system, a wetting agent\nshall not be used and all residue left by the test water must be\ncompletely removed prior to applying additional coats.",
+          "bbox": [
+            300.84,
+            58.99,
+            552.32,
+            231.1
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2 Procedure:\n5.2.1 Sufficient drying or curing of the coating shall be\nallowed prior to conducting a test. The length of time required\nshall be obtained from the coating manufacturer. Solvents\nretained in the coating \ufb01lm could produce erroneous indicators.\n5.2.2 The surface shall be clean, dry, and free of oil, dirt and\nother contaminates. Measure the \ufb01lm thickness of the coating\nwith a nondestructive dry \ufb01lm thickness gage. If the coating\n\ufb01lm exceeds 0.5 mm (20 mil), use the procedures for high\nvoltage spark testing described in Test Method B, High Voltage\nSpark Testing.\n5.2.3 Test the instrument for sensitivity in accordance with\n5.3 .\n5.2.4 Attach the signal return wire from the instrument\nterminal to the metallic substrate and ensure a good electrical\ncontact.\n5.2.5 Attach the exploring sponge lead to the other terminal.\n5.2.6 Wet the sponge with a solution consisting of tap water\nand a low sudsing wetting agent, combined at a ratio of not\nmore than   1 \u2044 2  \ufb02uid oz of wetting agent to 1 gal water. An\nexample of a low sudsing wetting agent is one used in\nphotographic development. The sponge shall be wetted suffi-\nciently to barely avoid dripping of the solution while the\nsponge is moved over the coating. The wetting agent residue\nmust be removed prior to executing repairs to the coating.\n5.2.7 Sodium chloride (salt) shall not be added to the\nwetting solution because of the potential erroneous indications\nof discontinuities. The salt, after drying on the coated surface,\nmay form a continuous path of conductivity across the surface.\nIt will also interfere with intercoat adhesion of additional coats.\n5.2.8 Contact a bare spot on the conductive substrate with\nthe wetted sponge to verify that the instrument is properly\nconnected. This procedure shall be repeated periodically dur-\ning the test.\n5.2.9 For open areas move the sponge over the surface of\nthe coating at a moderate rate, with a maximum rate of 0.3 m/s\n(1 ft/s), using a double pass over each area. For internal pipe\ncoatings a single pass is appropriate as a double pass could lead\nto telegraphing and false positives. Apply sufficient pressure to\nmaintain a wet surface. If a discontinuity is detected, turn the\nsponge on end to determine the exact location of the discon-\ntinuity. Improved accuracy of location can be achieved using a\ncorner of the sponge if practical. It should be noted that the\ndetection of pinholes depends on the migration of the moisture\nin to the holes and therefore the sponge may have to be moved\nover the surface at a slower rate to maximize detection,\nparticularly for small holes in thicker coatings.",
+          "bbox": [
+            31.43,
+            144.59,
+            282.92,
+            694.81
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3 Verifying  Operation of Equipment :\n5.3.1 The instrument shall be tested for sensitivity prior to\ninitial use and periodically thereafter, in accordance with the\nequipment manufacturer\u2019s instructions.\n5.3.2 Test the battery for proper voltage output. Refer to the\nmanufacturer\u2019s instructions.\n5.3.3 Switch the instrument to the \u201con position,\u201d if appli-\ncable.\n5.3.4 Wet the sponge with a wetting solution consisting of\ntap water and a wetting agent (see  5.2.6 ).\n5.3.5 Connect the signal return wire to the instrument\nground output terminal.\n5.3.6 Touch the signal return wire alligator clip to the wetted\nsponge. The instrument signal should signal in accordance with\nthe instrument manufacturer\u2019s instructions.\n5.3.7 If the instrument should fail to signal, it shall be\nconsidered defective.",
+          "bbox": [
+            300.84,
+            237.08,
+            552.32,
+            434.92
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4 Verifying  Instrument Calibration :\n5.4.1 Verify instrument calibration in accordance with the\nmanufacturer\u2019s latest published instructions. If out of\ncalibration, the instrument shall be calibrated in accordance\nwith\nthe\ninstrument\nmanufacturer\u2019s\nlatest\npublished\ninstructions, or returned for calibration. A certi\ufb01cate of\ncalibration, renewed annually, may be required if the quality\nmanagement system that controls the testing dictates.",
+          "bbox": [
+            300.84,
+            440.91,
+            552.3,
+            531.9
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TEST METHOD B\u2014HIGH VOLTAGE SPARK\nTESTING",
+          "bbox": [
+            322.16,
+            541.28,
+            531.0,
+            562.73
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.5 Apparatus:\n5.5.1 High  Voltage Detector (in excess of 500 V)\u2014 an\nelectronic device used to locate discontinuities in a noncon-\nductive protective coating applied to a conductive substrate. It\nconsists of an electrical voltage source, an exploring electrode,\nand a signal return wire connection from the indicator, signal-\ning current \ufb02ow through a coating \ufb01lm discontinuity, to the\nsubstrate. The detector shall be equipped with a visual or\naudible indicator, or both.\n5.5.2 Exploring  Electrode,  shall be of the type capable of\nmaintaining continuous contact with the surface being",
+          "bbox": [
+            300.83,
+            568.92,
+            552.31,
+            694.84
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b3_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_7",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2740478515625
+      },
+      "image_id_map": {
+        "img3_7": 3
+      }
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ],
+          "block_id": "img4_14"
+        },
+        {
+          "type": "text",
+          "content": "D5162 \u221215",
+          "bbox": [
+            278.31,
+            36.85,
+            335.36,
+            47.82
+          ],
+          "block_id": "b4_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "inspected, such as bolts, raised areas, etc. It shall be kept clean\nand free of coating material. It is important that the electrode is\nkept in contact with the coating during the test particularly\nwhen testing the internal coating on a pipe.\n5.5.3 High  Voltage Electrical Detector,  can be identi\ufb01ed as\neither a pulse or direct current type. A pulse type detector\ndischarges a cycling, high voltage pulse with a typical voltage\nrepetition rate of between 20 and 60 Hz when a \ufb02aw is\ndetected, while a direct current type discharges continuous\nvoltage when a \ufb02aw is detected.",
+          "bbox": [
+            31.43,
+            58.99,
+            282.91,
+            176.21
+          ],
+          "block_id": "b4_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Coating Thickness\nUnits\nCoating Thickness\nRange\nM Value",
+          "bbox": [
+            312.32,
+            62.18,
+            515.23,
+            77.65
+          ],
+          "block_id": "b4_4",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "mm\n<1.00 (1000 \u00b5m)\n3294\nmm\n>1.00 (1.000 \u00b5m)\n7843\nmil\n<40.0\n525\nmil\n>40.0\n1250\nExamples:\n1) For a coating of 500 \u00b5m, Tc = 0.5 and M = 3294\nTherefore",
+          "bbox": [
+            310.31,
+            79.22,
+            524.61,
+            149.55
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "V  5  3294  = 0.5  5  3294*0.707  5  2329  V  ~ 2.3  kV !",
+          "bbox": [
+            339.53,
+            156.8,
+            512.94,
+            168.27
+          ],
+          "block_id": "b4_6",
+          "font_size": 8.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2) For a coating of 20 mil, Tc = 20 and M = 525\nTherefore",
+          "bbox": [
+            310.31,
+            175.49,
+            512.7,
+            197.34
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.6 Procedure:\n5.6.1 Sufficient drying or curing of the coating shall be\nallowed prior to conducting a holiday test. The length of time\nrequired shall be obtained from the coating manufacturer.\nSolvents retained in the coating \ufb01lm could produce erroneous\nresults, as well as a \ufb01re hazard.\n5.6.2 The surface shall be clean, dry, and free of oil, dirt and\nother contaminates. Measure thickness of the coating with a\nnondestructive dry \ufb01lm thickness gage. If the coating \ufb01lm is\nless than 0.5 mm (20 mil), consider using procedures for low\nvoltage testing (see Test Method A, Low Voltage Wet Sponge\nTesting). Although the high voltage spark tester is suitable for\ndetermining discontinuities in coating \ufb01lms of less than 0.5\nmm (20 mil), it is recommended that the coating manufacturer\nbe consulted before using this test. Certain coatings may be\ndamaged if tested with this equipment.\n5.6.3 Verify test instrument operation in accordance with\n5.7 .\n5.6.4 Adjust the test instrument to the proper voltage for the\ncoating thickness being tested. In selecting the inspection\nvoltage, it is important to provide sufficient voltage to break the\nair gap that exists at the holiday. The air gap will vary\ndepending on the total applied \ufb01lm thickness. The voltage\nrequired to break a given air gap may also vary due to\natmospheric conditions such as relative humidity and air\npressure. Ensure that the voltage is high enough to break the air\ngap equivalent to the highest coating \ufb01lm thickness by sepa-\nrating the exploring electrode from the bare metal substrate\nusing a nonconductive spacer equal to the maximum coating\nthickness. A sheet of plastic \ufb01lm may be used for this purpose.\nThe voltage is set high enough to conduct the holiday test only\nif the spark will jump the gap formed by the spacer. A hole may\nbe deliberately made in the plastic sheet to simulate a defect in\na coating. Excessive voltage may cause a holiday to form in the\ncoating \ufb01lm. The maximum voltage for the applied coating\nshall be obtained from the coating manufacturer.  Table 1\ncontains suggested voltages that can be used as guides. An\nalternative to  Table 1 , the test voltage is represented by the\nexpression:",
+          "bbox": [
+            31.43,
+            183.88,
+            282.92,
+            645.37
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "V  5  525  = 20  5  525*4.472  5  2347  V  ~ 2.3  kV !",
+          "bbox": [
+            344.83,
+            204.59,
+            507.64,
+            216.06
+          ],
+          "block_id": "b4_8",
+          "font_size": 8.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3) For a coating of 1500 \u00b5m, Tc = 1.5 and M =7843\nTherefore",
+          "bbox": [
+            310.31,
+            223.28,
+            526.28,
+            245.13
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "V  5  7843  = 1.5  5  7843*1.224\n5  9599  V  ~ 9.6  kV !",
+          "bbox": [
+            335.38,
+            252.37,
+            517.09,
+            263.85
+          ],
+          "block_id": "b4_10",
+          "font_size": 8.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4) For a coating of 60 mil, Tc = 60 and M = 1250\nTherefore",
+          "bbox": [
+            310.31,
+            271.17,
+            517.69,
+            293.12
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "V  5  1250  = 60  5  1250*7.745  5  9681  V  ~ 9.7  kV !",
+          "bbox": [
+            340.59,
+            300.36,
+            511.88,
+            311.83
+          ],
+          "block_id": "b4_12",
+          "font_size": 8.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.6.5 Adjust the test instrument for alarm sensitivity if this\nfeature is available. The alarm sensitivity sets the threshold\ncurrent at which the audible alarm sounds. If the high voltage\ncan charge the coating, a small amount of current will \ufb02ow\nwhile this charge is established. If the coating contains a\npigment that allows a low-level leakage current to \ufb02ow from\nthe probe while testing the current can be set so that the alarm\ndoes not sound until this current is exceeded, that is, when a\n\ufb02aw is detected. Increasing the current threshold setting makes\nthe instrument less sensitive to this low level current \ufb02ow,\ndecreasing the current threshold setting makes the instrument\nmore sensitive to current \ufb02ow.\n5.6.6 Attach signal return wire from the instrument terminal\nto the metal substrate and ensure a good electrical contact. In\nthe case of the pulsed type detector, direct contact to the metal\nsubstrate is the preferred option, it is not essential. Due to the\npulsing of the voltage, a capacitance connection through the\ncoating is sufficient for \ufb02aw detection. A conductive rubber mat\nover the coating or a trailing bare-wire on a pipe coating for\nexample, makes a capacitive connection to the metal substrate\nallowing current \ufb02ow when a \ufb02aw is detected.\n5.6.7 Make contact with the exploring electrode on the\nconductive substrate to verify that the instrument is properly\ngrounded. This test shall be conducted periodically during the\ntest. The spacer test described in  5.6.4  shall also be repeated if\nsigni\ufb01cant atmospheric changes take place during testing.\n5.6.8 Move the exploring electrode over the surface of the\ndry coating at a rate of approximately 0.3 m/s (1 ft/s) using a\nsingle pass. Moisture on the coating surface may cause\nerroneous indications. If moisture exists, remove or allow to\ndry before conducting test.\n5.6.9 Discontinuities that require repair shall be identi\ufb01ed\nwith a coating-safe marker that is compatible with the repair\ncoating or one that is easily removed. Marking the defects with\nmasking tape is acceptable providing the tape adhesive does\nnot affect the subsequent repair.",
+          "bbox": [
+            300.84,
+            319.16,
+            552.32,
+            732.73
+          ],
+          "block_id": "b4_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "V  5  M  = Tc\n(1)",
+          "bbox": [
+            134.67,
+            652.81,
+            282.2,
+            664.23
+          ],
+          "block_id": "b4_2",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where:\nV\n= test voltage, measured in volts (V),\nTc\n= coating thickness, measured in either mm or mil, and\nM\n= a constant dependant on the thickness range and the\nunits of thickness as follows:",
+          "bbox": [
+            31.43,
+            671.31,
+            282.88,
+            727.68
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b4_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_14",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2740478515625
+      },
+      "image_id_map": {
+        "img4_14": 4
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ],
+          "block_id": "img5_13"
+        },
+        {
+          "type": "text",
+          "content": "D5162 \u221215",
+          "bbox": [
+            278.31,
+            36.85,
+            335.36,
+            47.82
+          ],
+          "block_id": "b5_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.7 Verifying  Operation of Equipment:\n5.7.1 Test the voltage source for proper voltage output.\nRefer to the manufacturer\u2019s instructions.\n5.7.2 Connect the exploring electrode and signal; return\nwire to the terminals of the detector.\n5.7.3 Switch the instrument to the \u201con\u201d position.\n5.7.4 Touch the exploring electrode to the signal return wire\nalligator clip. The instrument signal should actuate in accor-\ndance with the instrument manufacturer\u2019 operating instruc-\ntions.\n5.7.5 If the instrument fails to signal, it shall be considered\ndefective.",
+          "bbox": [
+            31.43,
+            58.89,
+            282.92,
+            199.35
+          ],
+          "block_id": "b5_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "exploring electrode voltage may be reduced by the slight\ncurrent \ufb02ow of the coating.\n5.8.3 If required, compare measured voltage with the se-\nlected test voltage. Depending on the type of tester, adjust the\nselected voltage by up to  6 5 %. Adjustment beyond this value\nindicates that the instrument may be defective.",
+          "bbox": [
+            300.84,
+            58.99,
+            552.3,
+            126.34
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6. Testing of Repaired Area",
+          "bbox": [
+            300.84,
+            134.73,
+            421.77,
+            144.7
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1 Repaired areas should be tested in the same manner as\nused for the original system test unless otherwise agreed by the\ninterested parties. The following aspects must be considered:",
+          "bbox": [
+            300.84,
+            150.29,
+            552.31,
+            183.22
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 Sufficient drying or curing of the repair coating shall be\nallowed prior to retesting. The length of time required shall be\nobtained from the coating manufacturer.",
+          "bbox": [
+            300.84,
+            188.71,
+            552.3,
+            221.63
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.8 Verifying  Instrument Calibration:\n5.8.1 Verify instrument calibration in accordance with the\nmanufacturer\u2019s latest published instructions. If out of\ncalibration, the instrument shall be calibrated in accordance\nwith\nthe\ninstrument\nmanufacturer\u2019s\nlatest\npublished\ninstructions, or returned for calibration. A certi\ufb01cate of\ncalibration, renewed annually, may be required if the calibra-\ntion program or the quality management system that controls\nthe testing dictates.\n5.8.2 Perform \ufb01eld checking of the test voltage with the\nelectrode placed against the surface of the coating since the",
+          "bbox": [
+            31.43,
+            205.63,
+            282.9,
+            332.25
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3 Conduct the test following the procedures as previously\noutlined in this practice for the test instrument selected.",
+          "bbox": [
+            300.84,
+            227.12,
+            552.3,
+            248.58
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4 Retest only those areas that have been repaired, unless\notherwise speci\ufb01ed.",
+          "bbox": [
+            300.84,
+            254.06,
+            552.3,
+            275.52
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Keywords",
+          "bbox": [
+            300.84,
+            283.8,
+            356.54,
+            293.78
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1 discontinuity; high voltage; holiday; holiday detectors;\nlow voltage; new coatings; new linings; spark testers ; wet\nsponge type instruments",
+          "bbox": [
+            300.84,
+            299.37,
+            552.3,
+            332.3
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned\nin this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk\nof infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            88.31,
+            347.17,
+            495.68,
+            371.12
+          ],
+          "block_id": "b5_10",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the\nresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should\nmake your views known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            88.31,
+            384.59,
+            495.66,
+            425.5
+          ],
+          "block_id": "b5_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,\nUnited States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above\naddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website\n(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222\nRosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/",
+          "bbox": [
+            88.31,
+            438.97,
+            495.67,
+            479.88
+          ],
+          "block_id": "b5_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b5_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img5_13",
+          "bbox": [
+            248.37,
+            29.4,
+            277.17,
+            54.6
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2740478515625
+      },
+      "image_id_map": {
+        "img5_13": 5
+      }
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "ar be\nINTERNATIONAL",
+      "position": {
+        "x0": 31.43,
+        "y0": 32.18,
+        "x1": 85.19,
+        "y1": 84.02,
+        "width": 53.76,
+        "height": 51.84
+      },
+      "size": {
+        "width": 224,
+        "height": 216
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 2,
+      "path": "pdf_images/p2_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 248.37,
+        "y0": 29.4,
+        "x1": 277.17,
+        "y1": 54.6,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 3,
+      "page": 3,
+      "path": "pdf_images/p3_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 248.37,
+        "y0": 29.4,
+        "x1": 277.17,
+        "y1": 54.6,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 4,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 248.37,
+        "y0": 29.4,
+        "x1": 277.17,
+        "y1": 54.6,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 5,
+      "page": 5,
+      "path": "pdf_images/p5_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 248.37,
+        "y0": 29.4,
+        "x1": 277.17,
+        "y1": 54.6,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    }
+  ]
+}

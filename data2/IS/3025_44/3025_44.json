@@ -1,0 +1,2200 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 44) : 1993\n(Reaffirmed 1999)\nEdition 2.1\n(2000-10)",
+          "bbox": [
+            384.52,
+            55.29,
+            524.36,
+            108.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            133.36,
+            123.0,
+            459.76,
+            270.0
+          ],
+          "block_id": "img1_6"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            281.96,
+            368.3,
+            299.96
+          ],
+          "block_id": "b1_1",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST\n(PHYSICAL AND CHEMICAL) FOR WATER\nAND WASTEWATER",
+          "bbox": [
+            85.96,
+            313.82,
+            514.53,
+            377.66
+          ],
+          "block_id": "b1_2",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 44\nBIOCHEMICAL OXYGEN DEMAND (BOD)\n( First Revision )",
+          "bbox": [
+            160.48,
+            387.81,
+            434.63,
+            425.96
+          ],
+          "block_id": "b1_3",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            219.28,
+            440.89,
+            375.87,
+            450.85
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC 628.1/.3 : 543.3 : 66.094.3",
+          "bbox": [
+            226.24,
+            481.93,
+            368.84,
+            491.89
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2002",
+          "bbox": [
+            271.12,
+            673.93,
+            323.91,
+            683.89
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            704.61,
+            452.46,
+            746.38
+          ],
+          "block_id": "b1_8",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 2",
+          "bbox": [
+            447.88,
+            778.41,
+            523.24,
+            788.37
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_6",
+          "bbox": [
+            133.36,
+            123.0,
+            459.76,
+            270.0
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_6": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Environmental Protection Sectional Committee, CHD 012",
+          "bbox": [
+            70.72,
+            64.09,
+            338.53,
+            74.05
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.65,
+            132.23,
+            150.61
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the\ndraft finalized by the Environmental Protection Sectional Committee had been approved by the\nChemical Division Council.",
+          "bbox": [
+            70.72,
+            161.65,
+            524.31,
+            193.57
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Biochemical Oxygen Demand (BOD) is the most important parameter to determine the degree of\npollution in lakes and streams at any time and their self purification capacities, assess the\nbiodegradable organic load of the wastewaters for design of wastewater management system and\nthereafter to evaluate the efficiency of the same. As per definition BOD of a sample is defined as\nthe amount of oxygen required by the micro-organisms to oxidise the organic matter by aerobic\nmicrobial decomposition to stable inorganic forms at some standard time and temperature. As per\nrecommendations of the Royal Commission of Great Britain standard conditions are laid down as\n20\u00b0C and 5 days. The standard temperature of 20\u00b0C is based on the average aquatic temperature\nof Great Britain and 5 days incubation period with an assumption that most of the carbonacious\norganic demand is satisfied during this period. The BOD test is being carried out with these\nstandard conditions for nearly 3 decades throughout the world and our country is no exception.",
+          "bbox": [
+            70.72,
+            198.61,
+            524.35,
+            318.61
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "However, it is felt that 20\u00b0C is not a universal average temperature and particularly for a tropical\ncountry like India where the temperatures of surface water in rivers, lakes, etc, vary from 20 to\n35\u00b0C in different seasons and in different parts of the country. The average aquatic temperature in\nour country is around 27\u00b0C. Hence, to be more realistic to the Indian aquatic environment the\ntechnical committee responsible for formulation of this standard felt necessary to establish a\nhigher temperature and thereby lower incubation period which would yield BOD values\ncomparable to the standard conditions of 20\u00b0C and 5 days.",
+          "bbox": [
+            70.72,
+            323.64,
+            524.43,
+            399.6
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Biochemical oxygen demand (BOD) test uses standard laboratory procedures to determine the\nrelative oxygen requirements of waters, wastewaters, effluents, etc. There are a number of\nvariations to the oxygen demand test prescribed in this standard. These include using shorter or\nlonger incubation periods, higher temperatures, etc.",
+          "bbox": [
+            70.72,
+            404.64,
+            524.35,
+            447.6
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the preparation of this standard, considerable assistance has been derived from Standard\nMethods for Examination of Water and Wastewater published by American Public Health\nAssociation, Washington, USA, 16th edition. This standard supersedes Clause  12  of IS 2488\n(Part 1) : 1966 Methods of sampling and test for industrial effluents, Part 1 and Clause  53  of\nIS 3025 : 1964 Methods of sampling and test (physical and chemical) for water used in industry.",
+          "bbox": [
+            70.72,
+            452.64,
+            524.38,
+            506.52
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (October 2000). Side bar indicates modification of\nthe text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            511.56,
+            524.29,
+            532.56
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In reporting the results of a test or analysis made in accordance with this standard, if the final\nvalue, observed or calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960\n\u2018Rules for rounding off numerical values (  revised  )\u2019.",
+          "bbox": [
+            70.72,
+            537.6,
+            524.32,
+            569.61
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 44) : 1993",
+          "bbox": [
+            384.52,
+            55.29,
+            524.27,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            83.0,
+            368.3,
+            101.0
+          ],
+          "block_id": "b3_2",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST\n(PHYSICAL AND CHEMICAL) FOR WATER\nAND WASTEWATER",
+          "bbox": [
+            85.96,
+            114.74,
+            514.53,
+            178.7
+          ],
+          "block_id": "b3_3",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 44\nBIOCHEMICAL OXYGEN DEMAND (BOD)\n( First Revision )",
+          "bbox": [
+            160.48,
+            188.85,
+            434.63,
+            227.0
+          ],
+          "block_id": "b3_4",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            70.72,
+            239.85,
+            117.28,
+            249.81
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5 SAMPLING AND PRESERVATION",
+          "bbox": [
+            304.6,
+            239.85,
+            492.25,
+            249.81
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard prescribes oxygen depletion\nmethod based on bio-assay procedure for\nmeasurement of biochemical oxygen demand.",
+          "bbox": [
+            70.72,
+            259.45,
+            290.52,
+            291.37
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sampling and sample preservation shall be\ndone as prescribed in IS 3025 (Part 1) : 1986.",
+          "bbox": [
+            304.6,
+            259.45,
+            524.27,
+            280.33
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 APPARATUS",
+          "bbox": [
+            304.6,
+            290.37,
+            381.44,
+            300.33
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            70.72,
+            300.33,
+            155.98,
+            310.29
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1 Incubation Bottles",
+          "bbox": [
+            304.6,
+            309.93,
+            418.45,
+            319.89
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following Indian Standards are necessary\nadjuncts to this standard:",
+          "bbox": [
+            70.72,
+            319.93,
+            290.39,
+            340.93
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "300 ml capacity narrow neck special BOD\nbottles with planed mouth with ground glass\nstoppers. New bottles should be cleaned with\n5 N hydrochloric acid or sulphuric acid followed\nby rinsing with distilled water. In normal use,\nbottles once used for Winklers procedure should\nonly be rinsed with tap water followed by\ndistilled water.",
+          "bbox": [
+            304.6,
+            329.41,
+            524.34,
+            416.41
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle",
+          "bbox": [
+            97.12,
+            350.02,
+            232.58,
+            359.98
+          ],
+          "block_id": "b3_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3025\n(Part 1) : 1986\nMethods of sampling and test\n(physical and chemical) for\nwater and wastewater: Part 1\nSampling (  first revision  )",
+          "bbox": [
+            70.72,
+            367.93,
+            290.77,
+            410.98
+          ],
+          "block_id": "b3_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3025\n(Part 38) : 1989\nMethods of sampling and test\n(physical and chemical) for\nwater\nand\nwastewater:\nPart 38 Dissolved oxygen",
+          "bbox": [
+            70.72,
+            418.93,
+            290.77,
+            461.89
+          ],
+          "block_id": "b3_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "During incubation (if incubator is used) to\nensure proper sealing, time to time, add water\nto the flared mouth of the bottle.",
+          "bbox": [
+            304.6,
+            425.41,
+            524.26,
+            457.45
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 Water Bath or Air Incubator",
+          "bbox": [
+            304.6,
+            467.37,
+            468.9,
+            477.33
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7022\n(Part 1) : 1973\nGlossary of terms relating to\nwater, sewage and industrial\neffluents, Part 1",
+          "bbox": [
+            70.72,
+            469.93,
+            290.69,
+            501.85
+          ],
+          "block_id": "b3_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Air incubation with thermostatically controlled\n27\u00b0C \u00b1 1\u00b0C. Avoid light to prevent possibility of\nphotosynthetic production of oxygen.",
+          "bbox": [
+            304.6,
+            486.97,
+            524.31,
+            518.89
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7022\n(Part 2) : 1979\nGlossary of terms relating to\nwater; sewage and industrial\neffluents, Part 2",
+          "bbox": [
+            70.72,
+            509.89,
+            290.69,
+            541.93
+          ],
+          "block_id": "b3_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Thermostatically controlled at 27\u00b0C \u00b1 1\u00b0C\nwater bath with continuous stirring may be preferred.",
+          "bbox": [
+            316.96,
+            528.19,
+            524.25,
+            545.11
+          ],
+          "block_id": "b3_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 TERMINOLOGY",
+          "bbox": [
+            70.72,
+            554.85,
+            164.32,
+            564.81
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7 REAGENTS",
+          "bbox": [
+            304.6,
+            554.85,
+            374.62,
+            564.81
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1 Phosphate Buffer Solution",
+          "bbox": [
+            304.6,
+            574.41,
+            460.01,
+            584.37
+          ],
+          "block_id": "b3_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of this standard, definitions\ngiven in IS 7022 (Part 1) : 1973 and IS 7022\n(Part 2) : 1979 shall apply.",
+          "bbox": [
+            70.72,
+            574.45,
+            290.53,
+            606.37
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 8.5 g potassium dihydrogen phosphate\n(KH 2  PO 4 ),\n21.75 g\npotassium\nhydrogen\nphosphate (K 2 HPO 4 ), 33.4 g disodium hydrogen\nphosphate\n(Na 2 HPO 4 .7H 2 O)\nand\n1.7 g\nammonium chloride (NH 4 Cl) in about 500 ml\ndistilled water and dilute to 1 litre.  p H of the\nsolution should be around 7.2 without any\nfurther adjustment.",
+          "bbox": [
+            304.6,
+            593.89,
+            524.35,
+            680.89
+          ],
+          "block_id": "b3_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4 PRINCIPLE",
+          "bbox": [
+            70.72,
+            615.45,
+            142.49,
+            625.41
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The biochemical oxygen demand (BOD) test is\nbased on mainly bio-assay procedure which\nmeasures the dissolved oxygen consumed by\nmicro-organisms\nwhile\nassimilating\nand\noxidizing the organic matter under aerobic\nconditions.",
+          "bbox": [
+            70.72,
+            634.93,
+            290.48,
+            699.85
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2 Magnesium Sulphate Solution",
+          "bbox": [
+            304.6,
+            689.85,
+            477.97,
+            699.81
+          ],
+          "block_id": "b3_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The standard test condition includes incubating\nthe sample in an air tight bottle, in dark at a\nspecified temperature for specific time.",
+          "bbox": [
+            70.72,
+            708.97,
+            290.45,
+            740.89
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve\n22.5\ng\nmagnesium\nsulphate\n(MgSO 4 .7H 2 O) in distilled water and dilute to\n1 litre.",
+          "bbox": [
+            304.6,
+            709.45,
+            524.25,
+            741.37
+          ],
+          "block_id": "b3_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 44) : 1993",
+          "bbox": [
+            70.72,
+            55.29,
+            210.48,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.3 Calcium Chloride Solution",
+          "bbox": [
+            70.72,
+            83.85,
+            226.38,
+            93.81
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8 PROCEDURE",
+          "bbox": [
+            304.6,
+            83.85,
+            384.99,
+            93.81
+          ],
+          "block_id": "b4_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1 Preparation of Dilution Water",
+          "bbox": [
+            304.6,
+            101.37,
+            478.24,
+            111.33
+          ],
+          "block_id": "b4_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 27.5 g calcium chloride in distilled\nwater and dilute to 1 litre.",
+          "bbox": [
+            70.72,
+            101.41,
+            290.4,
+            122.41
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Aerate the required volume of distilled water in\na container by bubbling compressed air for 8 to\n12 hours to attain dissolved oxygen saturation.\nLet it stabilize for 4 h at room temperature\n(around 27\u00b0C).",
+          "bbox": [
+            304.6,
+            116.89,
+            524.42,
+            170.88
+          ],
+          "block_id": "b4_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4 Ferric Chloride Solution",
+          "bbox": [
+            70.72,
+            131.37,
+            215.79,
+            141.33
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 0.25 g hydrated ferric chloride (FeCl 3 .\n6H 2 O) in distilled water and dilute to 1 litre.",
+          "bbox": [
+            70.72,
+            148.93,
+            290.45,
+            171.91
+          ],
+          "block_id": "b4_5",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "At the time of use, add 1 ml each of phosphate\nbuffer, magnesium sulphate, calcium chloride\nand ferric chloride for each litre of dilution\nwater.",
+          "bbox": [
+            304.6,
+            175.92,
+            524.34,
+            218.88
+          ],
+          "block_id": "b4_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.5 Acid and Alkali Solution",
+          "bbox": [
+            70.72,
+            178.89,
+            214.68,
+            188.85
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 N sodium hydroxide and 1 N sulphuric acid\nfor neutralization of samples.",
+          "bbox": [
+            70.72,
+            196.45,
+            290.37,
+            217.33
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Any of the above solutions showing any sign of\nbiological growth may be discarded.",
+          "bbox": [
+            83.08,
+            223.75,
+            290.41,
+            240.67
+          ],
+          "block_id": "b4_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Add 2 to 5 ml of treated sewage per litre of\ndilution water or use commercially available\nmicrobial seed mixture, as per manufacturer\u2019s\ndirection, for seeding purposes.",
+          "bbox": [
+            304.6,
+            223.92,
+            524.36,
+            266.88
+          ],
+          "block_id": "b4_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.6 Glucose-Glutamic Acid Solution",
+          "bbox": [
+            70.72,
+            249.33,
+            253.45,
+            259.29
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dry reagent grade glucose and reagent grade\nglutamic acid at 103\u00b0C for 1 hour. Add 150 mg\nof glucose and 150 mg of glutamic acid to\ndistilled water and dilute to 1 litre. Prepare\nfresh immediately before use.",
+          "bbox": [
+            70.72,
+            266.89,
+            290.48,
+            320.89
+          ],
+          "block_id": "b4_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Seeding is not required for domestic sewage or\nsurface water samples.",
+          "bbox": [
+            316.96,
+            272.23,
+            524.29,
+            289.15
+          ],
+          "block_id": "b4_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2 Dilution of Sample and Incubation",
+          "bbox": [
+            304.6,
+            295.89,
+            501.63,
+            305.85
+          ],
+          "block_id": "b4_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.2.1  Neutralization\nNeutralize the sample to  p H around 7.0 using\nalkali or acid of such strength that the quantity\nof reagent does not dilute the sample by more\nthan 0.5 percent.",
+          "bbox": [
+            304.6,
+            313.41,
+            524.3,
+            371.41
+          ],
+          "block_id": "b4_30",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.7 Other Reagents for Dissolved Oxygen\nMeasurement",
+          "bbox": [
+            70.72,
+            329.85,
+            285.0,
+            351.33
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.7.1  Manganous Sulphate Solution",
+          "bbox": [
+            70.72,
+            360.93,
+            236.47,
+            371.02
+          ],
+          "block_id": "b4_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve manganese sulphate (480 g of MnSO 4 .\n4H 2 O or 400 g of MnSO 4 . 2H 2 O or 364 g of\nMnSO 4 .H 2 O) in freshly boiled and cooled\nwater, filter and make up to 1 000 ml. The\nsolution should not give blue colour by addition\nof acidified potassium iodide solution and\nstarch.",
+          "bbox": [
+            70.72,
+            377.89,
+            290.45,
+            453.85
+          ],
+          "block_id": "b4_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9 PROCEDURE",
+          "bbox": [
+            304.6,
+            380.37,
+            384.99,
+            390.33
+          ],
+          "block_id": "b4_31",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9.1 Sample Volume and Dilution\nTechniques",
+          "bbox": [
+            304.6,
+            397.89,
+            473.92,
+            419.37
+          ],
+          "block_id": "b4_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "On the basis of chemical oxygen demand\n(COD), determine expected BOD. Use the\nfollowing\nformula\nfor\ncalculating\nsample\nvolume:",
+          "bbox": [
+            304.6,
+            424.93,
+            524.28,
+            467.89
+          ],
+          "block_id": "b4_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.7.2  Alkaline Iodide Solution",
+          "bbox": [
+            70.72,
+            462.93,
+            208.73,
+            473.02
+          ],
+          "block_id": "b4_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Sample volume in ml,\nper litre dilution =",
+          "bbox": [
+            304.6,
+            474.96,
+            415.42,
+            495.85
+          ],
+          "block_id": "b4_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 500 g of sodium hydroxide (or 700 g\nof potassium hydroxide) and 135 g of sodium\niodide (or 150 g of potassium iodide) in\nfreshly boiled and cooled water and dilute to\n1 litre.",
+          "bbox": [
+            70.72,
+            479.89,
+            290.46,
+            533.89
+          ],
+          "block_id": "b4_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "X\nexpected BOD\n---------------------------------------\n1 000\n\u00d7",
+          "bbox": [
+            416.56,
+            480.22,
+            517.86,
+            502.33
+          ],
+          "block_id": "b4_40",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For keeping 2 dilutions take  X  = 2.5 and 4.0\nFor single dilution take  X  = 3.0 or 3.5.",
+          "bbox": [
+            304.6,
+            511.93,
+            507.06,
+            533.02
+          ],
+          "block_id": "b4_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Round off to nearest convenient volume\nfraction.",
+          "bbox": [
+            304.6,
+            537.96,
+            524.26,
+            558.85
+          ],
+          "block_id": "b4_36",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.7.3  Sulphuric Acid, Concentrated",
+          "bbox": [
+            70.72,
+            542.85,
+            232.76,
+            552.94
+          ],
+          "block_id": "b4_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.7.4  Starch Indicator",
+          "bbox": [
+            70.72,
+            561.93,
+            172.67,
+            572.02
+          ],
+          "block_id": "b4_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In case of high BOD samples, prepare primary\ndilutions with distilled water and then make\nthe final dilution.",
+          "bbox": [
+            304.6,
+            563.88,
+            524.36,
+            595.92
+          ],
+          "block_id": "b4_37",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 2 g of starch and 0.2 g of salicylic\nacid as preservative, in 100 ml of hot distilled\nwater.",
+          "bbox": [
+            70.72,
+            578.89,
+            290.42,
+            610.93
+          ],
+          "block_id": "b4_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.2  Take requisite quantity of sample in one\nlitre volumetric flask. Dilute to the mark with\nthe dilution water by siphoning from the\ncontainer ( 8.1 ). Mix well. Rinse three BOD\nbottles with the diluted sample and fill up these\nbottles with the diluted sample. Stopper the\nbottles immediately after removing the air\nbubbles.",
+          "bbox": [
+            304.6,
+            601.89,
+            524.3,
+            688.92
+          ],
+          "block_id": "b4_38",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.7.5  Sodium Thiosulphate Stock Solution",
+          "bbox": [
+            70.72,
+            619.89,
+            265.69,
+            629.98
+          ],
+          "block_id": "b4_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve\napproximately\n25 g\nof\nsodium\nthiosulphate (Na 2 S 2 O 3 .5H 2 O) in boiled distilled\nwater and make up to 1 000 ml. Add 1 g of\nsodium hydroxide to preserve it.",
+          "bbox": [
+            70.72,
+            636.97,
+            290.44,
+            679.93
+          ],
+          "block_id": "b4_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.1.6  Standard Sodium Thiosulphate Solution",
+          "bbox": [
+            70.72,
+            688.89,
+            284.85,
+            698.98
+          ],
+          "block_id": "b4_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Samples of natural surface water bodies like\nriver, lake and marine, generally do not\nrequire seeding and dilution due to naturally\navailable microbiological population and low\nBOD values. For such samples which are likely",
+          "bbox": [
+            304.6,
+            693.96,
+            524.35,
+            747.84
+          ],
+          "block_id": "b4_39",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 250 ml of stock solution ( 7.7.5 ) in\nboiled distilled water and make up to 1 litre\nand standardize sodium thiosulphate against\nknown standard before use.",
+          "bbox": [
+            70.72,
+            705.93,
+            290.51,
+            748.93
+          ],
+          "block_id": "b4_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 44) : 1993",
+          "bbox": [
+            384.52,
+            55.29,
+            524.27,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "to\nhave\nBOD\nless\nthan\n5\nmg/l,\nBOD\ndetermination may be carried out as such (100\npercent) without any dilution.",
+          "bbox": [
+            70.72,
+            83.89,
+            290.41,
+            115.93
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 2  = DO of sample after incubation in mg/l,",
+          "bbox": [
+            316.96,
+            86.89,
+            522.3,
+            99.39
+          ],
+          "block_id": "b5_27",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B 1  = DO of seed control before incubation in\nmg/l,",
+          "bbox": [
+            316.96,
+            102.97,
+            525.18,
+            123.85
+          ],
+          "block_id": "b5_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.3 Determination of Initial Dissolved\nOxygen (DO)",
+          "bbox": [
+            70.72,
+            120.93,
+            268.48,
+            142.29
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "B 2  = DO of seed control after incubation in\nmg/l,",
+          "bbox": [
+            316.96,
+            129.97,
+            525.22,
+            150.85
+          ],
+          "block_id": "b5_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Determine initial DO for one bottle and keep\ntwo bottles for incubation at 27\u00b0C \u00b1 1\u00b0C for\n3 days. Prepare six blanks by siphoning out\ndilution\nwater\ndirectly\ninto\nthe\nbottles.\nDetermine initial DO in two bottles and\nincubate remaining four bottles at 27\u00b0C \u00b1 1\u00b0C\nfor 3 days.",
+          "bbox": [
+            70.72,
+            147.97,
+            290.46,
+            223.93
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f\n= ratio of seed in diluted sample to seed\nin control; [volume (ml) of seed in\ndiluted sample/volume of seed in seed\ncontrol],",
+          "bbox": [
+            316.96,
+            156.97,
+            525.25,
+            199.93
+          ],
+          "block_id": "b5_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P\n= sample volume (in ml) diluted to 1 litre\nwith dilution water.",
+          "bbox": [
+            316.96,
+            205.93,
+            525.29,
+            226.93
+          ],
+          "block_id": "b5_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 DO shall be determined as per IS 3025\n(Part 38) : 1989.\n9.4 Determination of Final DO",
+          "bbox": [
+            70.72,
+            228.19,
+            290.39,
+            259.89
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014  f  may be used only when seed correction is to\nbe applied.",
+          "bbox": [
+            316.96,
+            235.27,
+            524.33,
+            252.19
+          ],
+          "block_id": "b5_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11 GLUCOSE GLUTAMIC ACID CHECK",
+          "bbox": [
+            304.6,
+            262.89,
+            510.62,
+            272.85
+          ],
+          "block_id": "b5_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "After 3 days incubation at 27\u00b0C \u00b1 1\u00b0C,\ndetermine final DO in incubated bottles.",
+          "bbox": [
+            70.72,
+            265.45,
+            290.45,
+            286.33
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BOD being a bioassay test, is greatly influenced\nby factors like toxicants, poor seeding, etc. For\nperiodical checking of these factors, use a\nmixture of 150 mg glucose and 150 mg glutamic\nacid per litre as a standard check solution.\nDetermine the 3 days 27\u00b0C BOD of 2 percent\ndilution of the glucose-glutamic acid standard\ncheck solution as in  9 . If the BOD value of the\ncheck is outside the range of 200 \u00b1 37 mg/l,\nreject any BOD determinations made with the\nseed and dilute water and seek the cause of the\nproblem.",
+          "bbox": [
+            304.6,
+            282.37,
+            524.4,
+            413.41
+          ],
+          "block_id": "b5_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 DO shall be determined as per IS 3025\n(Part 38) : 1989.",
+          "bbox": [
+            83.08,
+            290.71,
+            290.39,
+            307.63
+          ],
+          "block_id": "b5_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10 CALCULATION",
+          "bbox": [
+            70.72,
+            314.37,
+            166.86,
+            324.33
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10.1 When Sample is Undiluted",
+          "bbox": [
+            70.72,
+            329.85,
+            230.97,
+            339.81
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BOD, mg/l = DO before incubation \u2013\nDO after incubation.",
+          "bbox": [
+            93.76,
+            345.37,
+            260.58,
+            366.37
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10.2 When Dilution Water is not Seeded:",
+          "bbox": [
+            70.72,
+            371.37,
+            277.47,
+            381.33
+          ],
+          "block_id": "b5_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 1\nD 2\n\u2013",
+          "bbox": [
+            159.16,
+            387.19,
+            194.28,
+            402.79
+          ],
+          "block_id": "b5_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P\n---------------------\n1 000\n\u00d7\n=",
+          "bbox": [
+            147.88,
+            396.38,
+            229.98,
+            415.06
+          ],
+          "block_id": "b5_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BOD, mg/l",
+          "bbox": [
+            93.76,
+            398.65,
+            144.99,
+            408.61
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10.3 When Dilution Water is Seeded:",
+          "bbox": [
+            70.72,
+            422.01,
+            257.41,
+            431.97
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "12 EXPRESSION OF RESULTS",
+          "bbox": [
+            304.6,
+            424.41,
+            464.59,
+            434.37
+          ],
+          "block_id": "b5_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 1\nD 2  \u2013\nB 1\nB 2\n\u2013\n(\n)  f\n\u2013",
+          "bbox": [
+            153.16,
+            437.83,
+            254.64,
+            453.87
+          ],
+          "block_id": "b5_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BOD is expressed as mg/l, 3 days at 27\u00b0C as\ngiven in  10  and round off the values as follows:",
+          "bbox": [
+            304.6,
+            443.89,
+            524.26,
+            464.88
+          ],
+          "block_id": "b5_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "P\n------------------------------------------------------------\n1 000\n\u00d7\n=",
+          "bbox": [
+            141.88,
+            447.02,
+            290.34,
+            465.7
+          ],
+          "block_id": "b5_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BOD, mg/l",
+          "bbox": [
+            91.72,
+            449.29,
+            143.1,
+            459.25
+          ],
+          "block_id": "b5_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "i) 0 to 10 up to first decimal",
+          "bbox": [
+            319.36,
+            470.88,
+            446.94,
+            480.84
+          ],
+          "block_id": "b5_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            70.72,
+            472.57,
+            99.1,
+            482.53
+          ],
+          "block_id": "b5_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ii) Above 10 \u2014 whole number.\nD 1  = Initial DO of sample in mg/l,",
+          "bbox": [
+            83.08,
+            486.97,
+            455.56,
+            500.07
+          ],
+          "block_id": "b5_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b6_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.28,
+            524.37,
+            116.33
+          ],
+          "block_id": "b6_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b6_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.81,
+            524.33,
+            182.81
+          ],
+          "block_id": "b6_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b6_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.29,
+            524.42,
+            259.37
+          ],
+          "block_id": "b6_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. CHD 012 (9498).",
+          "bbox": [
+            70.72,
+            267.29,
+            377.19,
+            276.29
+          ],
+          "block_id": "b6_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b6_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b6_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nOctober 2000",
+          "bbox": [
+            70.72,
+            331.37,
+            276.83,
+            340.37
+          ],
+          "block_id": "b6_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b6_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.41,
+            131.08,
+            543.41
+          ],
+          "block_id": "b6_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.33,
+            524.32,
+            570.41
+          ],
+          "block_id": "b6_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.33,
+            524.38,
+            587.33
+          ],
+          "block_id": "b6_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            477.88,
+            593.53,
+            481.32,
+            614.6
+          ],
+          "block_id": "b6_20",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.37,
+            524.28,
+            614.33
+          ],
+          "block_id": "b6_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            620.53,
+            438.58,
+            641.6
+          ],
+          "block_id": "b6_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.37,
+            524.29,
+            641.33
+          ],
+          "block_id": "b6_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            484.6,
+            648.49,
+            488.04,
+            669.56
+          ],
+          "block_id": "b6_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.37,
+            524.17,
+            668.33
+          ],
+          "block_id": "b6_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            675.49,
+            438.58,
+            696.56
+          ],
+          "block_id": "b6_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.37,
+            524.29,
+            695.33
+          ],
+          "block_id": "b6_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            701.53,
+            438.58,
+            722.6
+          ],
+          "block_id": "b6_24",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.37,
+            524.29,
+            722.33
+          ],
+          "block_id": "b6_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.37,
+            521.28,
+            772.37
+          ],
+          "block_id": "b6_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "(ASG AAAS)\ndll Yt Ad\u00e9aldltes sileefald rfl!\n(sHlidel del ela ) oo) Aha\nAAG! 3114 Sddlfdles aad ;\nAdd G4 cl d4{stal\nSAUNA sihdy",
+      "position": {
+        "x0": 133.36,
+        "y0": 123.0,
+        "x1": 459.76,
+        "y1": 270.0,
+        "width": 326.4,
+        "height": 147.0
+      },
+      "size": {
+        "width": 2720,
+        "height": 1225
+      },
+      "format": "png"
+    }
+  ]
+}

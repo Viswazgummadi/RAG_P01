@@ -1,0 +1,572 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            42.55,
+            44.54,
+            72.55,
+            74.35
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: D 4792 \u2013 00",
+          "bbox": [
+            78.47,
+            47.76,
+            207.79,
+            62.87
+          ],
+          "block_id": "b1_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Test Method for\nPotential Expansion of Aggregates from Hydration\nReactions 1",
+          "bbox": [
+            99.43,
+            94.52,
+            438.06,
+            142.62
+          ],
+          "block_id": "b1_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation D 4792; the number immediately following the designation indicates the year of\noriginal adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A\nsuperscript epsilon ( e ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            99.43,
+            153.65,
+            506.6,
+            181.59
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope\n1.1 This test method covers the determination of potential\nvolume expansion of dense graded compacted aggregates that\ncontain components susceptible to hydration and consequent\nvolume increase, such as the free calcium and magnesium\noxides that occur in some industrial by-products.\n1.2 The values stated in SI units are to be regarded as the\nstandard. The inch-pound units in parentheses are for informa-\ntion purposes only.\n1.3  This standard does not purport to address all of the\nsafety concerns, if any, associated with its use. It is the\nresponsibility of the user of this standard to establish appro-\npriate safety and health practices and determine the applica-\nbility of regulatory limitations prior to use.",
+          "bbox": [
+            42.55,
+            199.72,
+            294.05,
+            365.0
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4. Signi\ufb01cance and Use\n4.1 This test method provides a procedure for determining\nthe compliance of steel slags and other materials with speci\ufb01-\ncations, such as Speci\ufb01cation D 2940, that limit permissible\nexpansion of base and subbase aggregates containing compo-\nnents subject to hydration.\n4.2 This test method can also be used to evaluate the\neffectiveness of aging or other treatments for reducing the\nexpansive potential of such materials.\n4.3 Test results have not been correlated with \ufb01eld perfor-\nmance, and values obtained do not necessarily indicate expan-\nsion that may occur in service conditions.",
+          "bbox": [
+            311.96,
+            199.72,
+            563.44,
+            342.16
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Apparatus\n5.1  Molds, Spacer Disks, Expansion Measuring Apparatus,\nStainless Steel Weights, and Dial Gages\nconforming to the\nrequirements of Test Method D 1883.\n5.2  Mixing Bowl, Straight-Edge, Scale, Filter Paper,\nDishes , etc. as required in Test Methods D 698 and D 1883.\n5.3  Water Storage Facility \u2014A water bath controlled at 70 6\n3\u00b0C (158  6  5\u00b0F) or suitable tanks or buckets for submersion of\nthe test specimens in an oven controlled so as to maintain that\nwater temperature.",
+          "bbox": [
+            311.96,
+            348.39,
+            563.44,
+            467.88
+          ],
+          "block_id": "b1_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents\n2.1  ASTM Standards:\nC 702 Practice for Reducing Samples of Aggregate to\nTesting Size 2",
+          "bbox": [
+            42.55,
+            371.34,
+            294.01,
+            421.98
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 75 Practice for Sampling Aggregates 2,3",
+          "bbox": [
+            52.53,
+            419.58,
+            223.43,
+            433.45
+          ],
+          "block_id": "b1_6",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 698 Test Methods for Laboratory Compaction Character-\nistics of Soils Using Standard Effort (600 kN-m/m 3 (12,400\nft-lbf/ft 3 )) 4",
+          "bbox": [
+            52.53,
+            431.62,
+            294.02,
+            467.88
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 1883 Test Method for CBR (California Bearing Ratio) of\nLaboratory-Compacted Soils 4",
+          "bbox": [
+            52.53,
+            466.04,
+            294.0,
+            490.83
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6. Sampling\n6.1 To determine compliance with speci\ufb01cations, take \ufb01eld\nsamples in accordance with Practice D 75 or the requirements\nof the project speci\ufb01cations.\n6.2 Take samples for research or general evaluation pur-\nposes in a manner appropriate for the materials and purposes\ninvolved.\n6.3 Keep samples at \ufb01eld moisture content until the time of\nthe test by sealing in water-tight containers or plastic bags.",
+          "bbox": [
+            311.96,
+            474.11,
+            563.44,
+            582.13
+          ],
+          "block_id": "b1_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 2940 Speci\ufb01cation for Graded Aggregate Material for\nBases or Subbases for Highways or Airports 3",
+          "bbox": [
+            52.53,
+            488.99,
+            294.02,
+            513.78
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Summary of Test Method\n3.1 This test method consists of measuring the volume\nexpansion of compacted specimens following the general\nprocedures of Test Method D 1883. Compaction is based on\nmaximum density determination using Test Methods D 698. To\naccelerate the hydration reaction, specimens are stored in water\nat 70  6  3\u00b0C (158  6  5\u00b0F) for a minimum of 7 days.",
+          "bbox": [
+            42.55,
+            520.01,
+            294.05,
+            605.08
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Preparation of Sample\n7.1 Reduce the \ufb01eld sample to testing size in accordance\nwith Practice C 702, obtaining two 18-kg (40-lb) portions.\n7.2 Pass the samples through the 19.0-mm ( 3 \u2044 4 -in.) and\n4.75-mm (No. 4) sieves. If 10 % or more is retained on the\n19.0-mm ( 3 \u2044 4 -in.) sieve proceed to 7.2.1 for oversize correction.\n7.2.1 Pass the material through a 75-mm (3-in.) sieve.\nDiscard the material retained on the 75-mm (3-in.) sieve. The\nmaterial passing the 75-mm (3-in.) sieve and retained on the",
+          "bbox": [
+            311.95,
+            588.36,
+            563.46,
+            696.37
+          ],
+          "block_id": "b1_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This test method is under the jurisdiction of ASTM Committee D04 on Road\nand Paving Materials and is the direct responsibility of Subcommittee D04.51 on\nAggregate Tests.\nCurrent edition approved Dec. 10, 2000. Published April 2001. Originally\npublished as D 4792-88. Last previous edition D 4792-99.\n2  Annual Book of ASTM Standards,  Vol 04.02.\n3  Annual Book of ASTM Standards , Vol 04.03.\n4  Annual Book of ASTM Standards , Vol 04.08.",
+          "bbox": [
+            42.55,
+            624.58,
+            294.0,
+            700.41
+          ],
+          "block_id": "b1_15",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, United States.",
+          "bbox": [
+            42.55,
+            731.82,
+            301.6,
+            740.05
+          ],
+          "block_id": "b1_17",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b1_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            42.55,
+            44.54,
+            72.55,
+            74.35
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ],
+          "block_id": "img2_17"
+        },
+        {
+          "type": "text",
+          "content": "D 4792",
+          "bbox": [
+            295.27,
+            44.02,
+            330.65,
+            59.13
+          ],
+          "block_id": "b2_18",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "19-mm ( 3 \u2044 4 -in.) sieve shall be replaced with an equal amount of\nmaterial passing a 19-mm ( 3 \u2044 4 -in.) sieve and retained on a\n4.75-mm (No. 4) sieve. The material for replacement shall be\ntaken from an unused portion of the sample.\n7.3 Reseal one of the sample portions to maintain the \ufb01eld\nmoisture and retain for expansion test specimens. Test the other\nportion for maximum density and optimum moisture.",
+          "bbox": [
+            42.55,
+            65.96,
+            294.06,
+            148.12
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "difference between the daily dial gage reading and the base\nreading by the initial specimen height (116.43 mm (4.584 in.))\nand multiplying by 100.\n10.2  Rate of Expansion \u2014Plot the percent expansion (y-\naxis) versus the time in days (x-axis).",
+          "bbox": [
+            311.96,
+            65.96,
+            563.44,
+            126.36
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  3\u2014Seven days is usually adequate to evaluate probable expan-\nsive behavior, with a pronounced decrease in the rate prior to this time. If\nthe expansion rate has not dropped by seven days, the test may be\ncontinued to obtain additional data.",
+          "bbox": [
+            311.96,
+            132.28,
+            563.44,
+            173.53
+          ],
+          "block_id": "b2_7",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8. Moisture-Density Relationship\n8.1 Determine the moisture-density relationship in accor-\ndance with Test Method D 698, Moisture Preparation Method,\nexcept that the mold speci\ufb01ed in Test Method D 1883 shall be\nused.\n8.2 Use Method B or C depending upon the gradation of the\nsample, with oversize corrections as recommended in 7.2.1.",
+          "bbox": [
+            42.55,
+            154.36,
+            294.03,
+            239.42
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11. Report",
+          "bbox": [
+            311.96,
+            181.17,
+            358.79,
+            194.99
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11.1 The report shall include the following:\n11.1.1 Identi\ufb01cation of the sample by source and date,\n11.1.2 Moisture content and percentages of material re-\ntained on the 19.0 mm ( 3 \u2044 4 -in.) and 4.75-mm (No. 4) sieves as\nreceived,\n11.1.3 Optimum moisture content, maximum density, the\nmethod used (B or C) and oversize correction made from Test\nMethods D 698,\n11.1.4 Expansion data for each specimen and the average\nfor three specimens from 10.1,\n11.1.5 The plot of the rate-of-expansion for each specimen\nand the average of three from 10.2, and\n11.1.6 A continuous or daily record of the temperature of\nthe water bath.",
+          "bbox": [
+            311.96,
+            196.74,
+            563.43,
+            366.96
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9. Expansion Test\n9.1 Prepare three expansion test specimens from the sample\nset aside for this purpose, following the procedure in Test\nMethod D 1883 for specimens to be soaked.\n9.2 After placing the adjustable stem and perforated plate on\nthe compacted specimens in the molds, add weights to produce\na surcharge of 4.54 kg (10 lb), and submerge the molds and\nweights in water at 70  6  3\u00b0C (158  6  5\u00b0F). Allow free access\nof water to the top and bottom of the specimens, and maintain\nthe temperature at 70  6  3\u00b0C (158  6  5\u00b0F) for the testing period.",
+          "bbox": [
+            42.55,
+            245.65,
+            294.05,
+            365.14
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  1\u2014The molds should be well coated with a rust preventative,\nsuch as 10W motor oil, whether they are constructed of corrosion-resistant\nmetal or not.\nN OTE  2\u2014Excessive (more than 2.5 cm) evaporation of the bath water\nmay necessitate the use of a cover over the water bath. This will reduce\nrequired water addition and variations in bath temperature.",
+          "bbox": [
+            42.55,
+            369.87,
+            294.04,
+            431.07
+          ],
+          "block_id": "b2_3",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12. Precision and Bias",
+          "bbox": [
+            311.96,
+            376.18,
+            409.62,
+            390.0
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "12.1 This data was obtained in a study of variability using\nfour and six laboratories and thus should be regarded as\npreliminary.\n12.1.1  Expansion of less than 0.5 % \u2014The average multi-\nlaboratory coefficient of variation, when testing one specimen,\nhas been found to be 25 %, therefore the difference in results\nreported by different laboratories on samples of the same\nmaterial should not differ by more than 71 % of their average,\nnineteen times in twenty.\n12.1.2  Expansion of more than 0.5 % \u2014The average multi-\nlaboratory coefficient of variation, when testing one specimen,\nhas been found to be 18 %, therefore the difference in results\nreported by different laboratories on samples of the same\nmaterial should not differ by more than 51 % of their average,\nnineteen times in twenty.",
+          "bbox": [
+            311.96,
+            391.85,
+            563.43,
+            568.38
+          ],
+          "block_id": "b2_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.3 After the specimens have been immersed in the hot\nwater for 30 minutes to allow for thermal expansion of the test\napparatus, take the initial dial gage measurements. These are\nthe base readings from which the expansion will be deter-\nmined.\n9.4 Add heated water daily to keep the test specimens fully\nsubmerged. Make daily dial gage readings of specimen heights\nfor a period of seven days, allowing at least 2 h to elapse\nbetween the addition of water and the measurement.\n9.5 Measure and record the temperature of the water on a\ncontinuous or daily basis.",
+          "bbox": [
+            42.55,
+            433.15,
+            294.04,
+            561.21
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10. Calculation\n10.1  Percent Expansion (Volumetric) \u2014Calculate the per-\ncent expansion at each day\u2019s measurement by dividing the",
+          "bbox": [
+            42.55,
+            567.44,
+            294.01,
+            606.61
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13. Keywords",
+          "bbox": [
+            311.96,
+            577.59,
+            372.65,
+            591.41
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13.1 aggregates; expansion; hydration reaction",
+          "bbox": [
+            321.43,
+            593.26,
+            512.91,
+            606.57
+          ],
+          "block_id": "b2_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The American Society for Testing and Materials takes no position respecting the validity of any patent rights asserted in connection\nwith any item mentioned in this standard. Users of this standard are expressly advised that determination of the validity of any such\npatent rights, and the risk of infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            98.98,
+            618.99,
+            508.39,
+            645.55
+          ],
+          "block_id": "b2_14",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM Headquarters. Your comments will receive careful consideration at a meeting of the responsible\ntechnical committee, which you may attend. If you feel that your comments have not received a fair hearing you should make your\nviews known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            98.98,
+            656.41,
+            508.34,
+            699.94
+          ],
+          "block_id": "b2_15",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.\nIndividual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above address or at\n610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website (www.astm.org).",
+          "bbox": [
+            98.98,
+            710.8,
+            508.36,
+            737.36
+          ],
+          "block_id": "b2_16",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b2_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_17",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

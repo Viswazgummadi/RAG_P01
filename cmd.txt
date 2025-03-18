@@ -1,0 +1,5 @@
+srun --partition=gpu --gres=gpu:1 --nodelist=node1 --pty bash -i
+
+
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate rag_env

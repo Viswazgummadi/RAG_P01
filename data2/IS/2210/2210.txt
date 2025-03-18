@@ -1,0 +1,2676 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>I!3:2210-1988<<HEADING_END>>
+<<HEADING level=3>>( Reaffirmed 1998 )<<HEADING_END>>
+<<HEADING level=1>>Indian St&mhrd<<HEADING_END>>
+<<HEADING level=1>>CRITERIA FOR
+DESIGN OF REINFORCED CONCRETE SHELL
+STRUCTURES AND FOLDED PLATES<<HEADING_END>>
+<<HEADING level=1>>(  First Revision )<<HEADING_END>>
+<<PARAGRAPH>>First Reprint JANUARY 1992<<PARAGRAPH_END>>
+<<PARAGRAPH>>-UDC 624’012’45 - 04  :  624’07’4/‘42<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF
+INDIAN
+STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>MANAK
+BHAVAN,
+9 BAHADUR
+SHAH ZAFAR
+MARG
+NEW DELHI
+110 002<<PARAGRAPH_END>>
+<<HEADING level=3>>Gr 7
+November 1989<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=1>>.I
+IS  :2210 - 1988
+Indian Standard
+CRITERIA FOR
+DESIGN OF REINFORCED CONCRETE SHELL
+STRUCTURES AND FOLDED PLATES
+(  First Revision )<<HEADING_END>>
+<<HEADING level=3>>0.  FOREWORD<<HEADING_END>>
+<<PARAGRAPH>>more resistant to buckling
+than cylindrical
+sheTls
+and in general, require less thickness.
+This saving
+in materials is, however, often offset by the datively
+expensive shuttering
+required
+for
+casting
+them.
+Among
+the doubly-curved
+shells,  ’  the hyperbolic
+paraboloid
+and the
+conoid
+have,
+however,
+the
+advantage
+of less expensive shuttering because their
+ruled surfaces can be formed
+by straight
+plank
+shuttering.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.1  This Indian
+Standard
+( First
+Revision)
+was
+adopted by the Bureau of Indian Standards
+on I5
+November
+1988, after the draft finalized by
+the
+Criteria for Design of Special Structures
+Sectional
+Committee had been approved by the Civil Engineer-
+ing Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.2 Shells and folded plates belong to the class of
+stressed-skin
+structures
+which,
+because
+of
+their
+geometry
+and small flexural rigidity of the skin,
+tend to carry loads primarily by direct stresses acting
+in their plane.
+Wherever shell is referred to in this
+standar$
+it refers to thin shell.
+On account
+of
+multiphclty of the types of reinforced
+concrete
+shell
+and folded plate structures
+used in present
+day
+building practice for a variety of applications demand-
+ing roofing of
+large column-free
+area, it is not
+practicable
+to lay down a rigid code of practice to
+cover all situations.
+Therefore,
+this standard
+lays
+down certain
+general
+recommendations
+for
+the
+guidance of the designers.
+.*<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.5 Folded plates are often competitive
+with shells
+for covering large column-free
+areas.
+They usually
+consume
+relatively
+more
+materials
+compared
+to
+shell
+but this disadvantage
+is often offset by the
+simpler framework required for their construction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.6 This standard was first published. in 1962.
+The
+present revision is based on the developments
+in the
+design of shell and folded plate structures subsequent-
+ly and to include more rigorous methods
+of analysis
+which have become
+available
+to
+enforce
+more
+rational criteria of design.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.3 Cylindrical shells have been in use in building
+construction for the past six decades. Well developed
+theories
+exist
+for
+their
+analysis.
+Labour-saving
+short cuts, such as, charts and tables
+for
+their
+design, are also available.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.7 For the purpose of deciding whether a particular
+requirement of this standard
+is complied
+with, the
+final value, observed
+or calculated,
+expressing
+the
+result of a test or analysis, shall be rounded
+off in
+accordance
+with
+IS  :  2-1960*.
+The
+number
+of
+significant places retained in the rounded
+off value
+should  be  the same as that of the specified value in
+this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.4 Although shells of double curvature,
+with the
+exception of domes, have been introduced on a large
+scale comparatively recently into building construc-
+tion, these are likely to be used more and more in
+future.
+Being non-developable
+surfaces, they
+are<<PARAGRAPH_END>>
+<<HEADING level=3>>*Rules for rounding off numerical
+values  (revised ).<<HEADING_END>>
+<<HEADING level=3>>2.2 Barrel Shells -
+Cylindrical
+shells
+which
+are
+symmetrical about the crown (see Fig. 1 ).<<HEADING_END>>
+<<HEADING level=3>>1. SCOPE<<HEADING_END>>
+<<PARAGRAPH>>1.1  This standard
+lays down recommendations
+for
+the classification, dimensional proportioning,
+analysis
+and design of cast  in situ,
+reinforced
+concrete
+thin
+shells and folded plates.
+This standard
+does not
+deal with construction
+practices relating
+to these
+structures
+which have
+been
+separately
+dealt
+in
+IS  :  2204-1962*.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.3  Butterfly Shells -  Butterfly
+shells
+are
+those
+which consist of two parts of a cylindrical
+shell
+joined together at their lower edges (see Fig. 2).<<HEADING_END>>
+<<HEADING level=3>>2.4  Chord Width -  The chord width is the horizon-
+tal projection of the arc of the cylindrical shell.<<HEADING_END>>
+<<PARAGRAPH>>2. TERMINOLOGY<<PARAGRAPH_END>>
+<<HEADING level=3>>2.5  Continuous Cylindrical Shells -
+Cylindrical shells
+which
+are
+longitudinally
+continuous
+over
+the
+traverses (see Fig. 3 ).<<HEADING_END>>
+<<PARAGRAPH>>2.0 For the purpose of this standard,
+the following
+definitions shall apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE -
+Doubly-curved
+shells continuous
+in one or both
+directions
+may be termed as continuous
+shells.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.1 Asymmetrical
+Cylindrical
+Shells -  Cylindrical
+shells which are asymmetrical about the crown.<<HEADING_END>>
+<<HEADING level=3>>2.6 Cylindrical Shells -
+Shells in which either the
+directrix or generatrix is a straight line.<<HEADING_END>>
+<<PARAGRAPH>>*Code of practice for construction
+of reinforced
+concrete
+shell roof.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<PARAGRAPH>>FIG. 1 SINGLE
+BARREL SHELL<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG.
+2  B ~ITERFLY
+SHELL<<HEADING_END>>
+<<PARAGRAPH>>FIG. 3 MULTIPLE
+BARREL SHELL<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS : 2210- 1988<<HEADING_END>>
+<<PARAGRAPH>>of the tangent
+to the curve at that point.
+The parabola,
+value ofn is 1, -2 and -3 for cycloid, catenary
+and para-
+bola, respectively.
+For an ellipse:<<PARAGRAPH_END>>
+<<HEADING level=3>>2.7 Edge Member -
+A member
+provided
+at
+the
+edge of a shell.<<HEADING_END>>
+<<HEADING level=3>>R-
+.  a2P
+(a’  sin*+ + b* c&d )*I*
+where
+a  and b are the semi-major
+and semi-minor
+axes,
+respectively,
+and d is the slope of the tangent at the point.<<HEADING_END>>
+<<PARAGRAPH>>NOTE -
+Edge members increase the rigidity
+of the shell
+edge and h&p in accommodating
+the reinforcement.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.8  End Frames or
+Traverses -
+End
+frames
+or
+traverses
+are structures
+provided
+to support
+and
+preserve the geometry of the shell.<<HEADING_END>>
+<<HEADING level=3>>2.16 Rise -
+The vertical distance between the apex
+of the curve representing the centre line of the shell
+and the lower most springing.<<HEADING_END>>
+<<PARAGRAPH>>NOTE -
+They may be solid diaphragms,
+arch ribs,
+portal
+frames
+or
+bowstring
+girders.
+Where
+a clear
+soffit
+is
+required,
+specially
+for the use of movable
+formwork,
+the
+end frames may consist of upstand ribs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.17 Ruled
+Surfaces -
+Surfaces
+which
+can
+be
+generated entirely by straight
+lines.
+The surface is
+said to be ‘singly ruled’ if at every point, a single
+straight line only can be ruled and ‘doubly ruled’ if
+at every point, two straiglt
+lines can be ruled.
+Cylindrical
+shells, conical
+shells and conoids
+are
+examples of singly ruled surfaces;
+hyperbolic
+para-
+bol jids and hyperboloids of revolution
+of one sheet
+are examples of doubly ruled surface ( see Fig. 6 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.9 Folded Plates -
+Folded plates consist of a series
+of thin plates, usually rectangul
+c, joined
+monolithi-
+cally along their common
+e 2 ges and supported
+on
+diaphragms.
+They are also known as hipped plates.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE -  Shapes of Folded Plates and Their Applications -
+A few of the commonly
+used
+shapes
+of folded
+plates are
+shown
+in Fig.
+4.
+The simplest
+is V-shaped
+unit (Fig.
+4A) but this may not provide
+enough
+area of concrete
+at
+the top and bottom to resist the compressive
+forces due
+to bending and to accommodate
+the reinforcement.
+The
+trough-shaPed
+or the trapezoidal
+unit (Fig. 4B and 4E)
+eliminates  _  these
+disadvantages.
+Asy&meirical
+section;
+of the ‘2’ shape (Fig. 4C)
+provided
+with window
+glazing
+between
+two adjacent
+units serve as north-light
+roofs for
+factory
+buildings.
+The
+shape
+shown
+in
+Fig.
+4D
+is
+obtained
+by replacing
+the
+curved
+cross-se&x
+of
+a
+cylindrical
+shell by a series
+of straight
+plates.
+This has
+the
+advantage
+of
+greater
+structural
+depth
+compared
+to
+other
+shapes.
+Buttetiy
+type of folded
+plates shown
+in
+Fig. 4F are also employed
+to cover factory
+roofs as there
+are provisions
+for window
+glazing.
+Tapering
+plates
+are
+also used as roofs mainly
+for aesthetic
+reasons.
+I-lipped
+plate structures of the pyramidal
+types are used for tent-
+shaped roofs, cooling towers, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.18 Semi-Central Angle -
+Half the angle subtend-
+ed by the arc of a symmetrical circular
+shell at the
+centre.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.19 Shells - Thin shells are those in which the
+radius to thickness ratio should not be more than 20.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.20 Shells of Revolation -
+Shells which are obtain-
+ed when a plane curve is rotated
+about
+the axis of
+symmetry.
+Examples are segmental
+domes, cones,
+parab Jloids of revolution,
+hyperboloids
+OI revolu-
+tion, etc ( see Fig. 7 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.21 Shells
+of
+Translation -
+Shells
+which
+are
+obtained when the plane of the generatrix
+and the
+directrix are at right angles.
+Examples are cylindri-
+cal shells, elliptic paraboloids, hyperbolic paraboloids,
+etc ( see Fig. 8  ) ,<<PARAGRAPH_END>>
+<<HEADING level=3>>2.10 Gauss Curvature -  The product
+of the
+two
+principal curvatures,  ~/RI
+and l/R1 at any point on
+the surface of the shell.<<HEADING_END>>
+<<PARAGRAPH>>2.11 Generatrix, Directrix - A curve which moves
+parallel to itself over a stationary
+curve generates a
+surface.
+The moving curve is called the generatrix
+and the stationary curve the directrix.
+One of them
+may be a straight line.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.22 span -
+The span of a cylindrical
+shell is the
+distance between the centre
+lines of two adjacent
+end frames of traverses (see Fig. 1 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>3. NOTATIONS<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE -  The common curves used for cylindrical
+shells
+are, arc of a circle,
+semi-ellipse,
+parabola,
+catenary
+and
+cycloid.<<HEADING_END>>
+<<PARAGRAPH>>3.1 For the purpose of this standard,
+unless other-
+wise defined in the text, the following
+notations
+shall have the meaning indicated against each:<<PARAGRAPH_END>>
+<<HEADING level=3>>2.12 Junction Member -  The common
+edge mem-
+ber at the junction of two adjacent shells.<<HEADING_END>>
+<<PARAGRAPH>>semi-major axis of an elliptical shell;
+chord width;
+semi-minor axis of an elliptical shell;
+flexural rigidity;
+thickness of shell;
+Modulus of elasticity
+of concrete (long
+term );
+Modulus of elasticity of steel;
+stress function which gives the in-plane
+stress in doubly-curved
+shells
+when
+bending is also considered;
+characteristic strength of concrete;
+critical buckling stress;
+rise of shell;<<PARAGRAPH_END>>
+<<HEADING level=3>>a
+=
+B
+ZZ<<HEADING_END>>
+<<PARAGRAPH>>2.13 Multiple
+Cylindrical
+Shells - A
+series
+of
+parallel
+cylindrical
+shells w.lich
+are transversely
+continuous.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+s<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.14 North-Light Shells - Cylindrical shells with two
+springings at different levels and having provisions
+for north-light glazing (see Fig. 5).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ec
+=<<PARAGRAPH_END>>
+<<HEADING level=3>>Es
+=<<HEADING_END>>
+<<HEADING level=3>>F
+=<<HEADING_END>>
+<<HEADING level=3>>2.15 Radius -  Radius at any point of the. shell- in
+one of the two principal directions.<<HEADING_END>>
+<<HEADING level=1>>f
+=
+r’ol =
+h  =<<HEADING_END>>
+<<PARAGRAPH>>NOTE -  If cylindrical
+shell of a circular arc is used, the
+radius of the arc is the radius of the shell.
+In other
+cases,
+the radius
+R  at  any point is related to the radius &, at thd
+crown by  R = R, cos n#,  where 4 is the angle of inclination<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>4. CLASSIFICATION
+OF SHELLS<<PARAGRAPH_END>>
+<<PARAGRAPH>>permissible
+compressive
+stress
+from
+buckling consideration;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f  cc
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1  General -
+Shells may be broadly
+classified as
+‘singly-curved’ and ‘doubly-curved’.
+This is based
+on Gauss curvature.
+The gauss curvature of singly-
+curved shells is zero because one of their principal
+curvatures is zero.
+They are, therefore,
+developable.
+Doubly-curved
+shells are non-developable
+and are
+classified as synclastic or anticlastic
+according
+as
+their Gauss curvature is positive or negative.<<PARAGRAPH_END>>
+<<PARAGRAPH>>total depth of shell, measured
+from the
+crown of the shell to the bottom
+of the
+edge member;<<PARAGRAPH_END>>
+<<PARAGRAPH>>H
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>span;
+bending
+moment
+in the shell
+in
+the
+x-direction;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mx
+=<<PARAGRAPH_END>>
+<<HEADING level=3>>My
+=  bending
+moment
+in the shell
+in
+the
+y-direction;
+iuxy =<<HEADING_END>>
+<<PARAGRAPH>>4.1.1 The
+governing
+equations
+of
+membrane
+theory of singly curved shells are parabolic.
+It is
+-elliptic for synclastic shells
+and
+hyperbolic
+for
+anticlastic
+shells.
+If z = f (x, y)
+is the equation
+to the surface of a shell, the surface will be synclas-
+tic, developable or anticlastic according as s2-rf 4
+0 where t, s and t are as defined in 3.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>twisting moment in the shell;<<PARAGRAPH_END>>
+<<HEADING level=3>>2x2  I  k
+NJW  J<<HEADING_END>>
+<<PARAGRAPH>>= real membrane stresses in the shell;<<PARAGRAPH_END>>
+<<PARAGRAPH>>NXP, NVP
+and
+N XYP 1
+P
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1.2 There are other special types
+of
+doubly
+curved shells, such as, funicular
+shells, which are
+synclastic and anticlastic
+in parts and corrugated
+shells which are alternately synclastic and anticlastic.
+The
+gauss curvature
+for such shells is
+positive
+where they are synclastic and negative where they
+are anticlastic.<<PARAGRAPH_END>>
+<<PARAGRAPH>>= projected membrane forces;<<PARAGRAPH_END>>
+<<PARAGRAPH>>permissible buckling load per unit area
+of the surface of doubly-curved
+shells;
+&  .
+n
+=. --
+6x ’<<PARAGRAPH_END>>
+<<PARAGRAPH>>SZ
+4
+=Sy;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2 The detailed classification of shell structures
+is
+given in Appendix A.<<PARAGRAPH_END>>
+<<HEADING level=3>>S"Z
+r
+=  62;<<HEADING_END>>
+<<PARAGRAPH>>5. MATERIALS<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1 Con&&e -
+Controlled
+concrete
+shall
+be used
+for
+all shell. and folded
+plate
+structures.
+The
+concrete is of minimum
+grade M20.
+The quality
+of materials used in concrete,
+the methods
+of pro-
+portioning and mixing the concrete
+shall be done
+in accordance
+with
+the relevant
+provisions
+of
+IS  :  456-1978*.<<PARAGRAPH_END>>
+<<HEADING level=3>>S'Z
+s
+=6x.6yi<<HEADING_END>>
+<<PARAGRAPH>>t
+8’z .
+=w
+R
+= radius;
+&
+= radius at crown;
+R,  and  Rx =  principal radii of curvature
+at any
+point on the surface of shell;
+s
+= shear stress;
+Tx =  normal stress in the x-direction;
+TV =  normal stress in the y-direction;
+Wx, WV  and  Wx =  real forces on unit area of
+the shell in the x, y and z-
+direction;<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE-High
+cement
+content
+mixes
+are
+generally
+undesirable
+as
+they shrink
+excessively
+giving
+rise
+to
+cracks.<<HEADING_END>>
+<<PARAGRAPH>>5.2 Steel -
+The steel for the reinforcement
+shall be:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) mild steel and medium tensile steel bars and
+hard-drawn steel wire conforming
+to IS  :  432
+(Part I)-1982 and IS  :  432 (Part 2)-1982t;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) hard-drawn
+steel. wire
+fabric
+for concrete
+Ti$forcement
+conforming
+to IS  :  1566-19821;<<PARAGRAPH_END>>
+<<PARAGRAPH>>IV
+=
+de&&on
+in the direction of z-axis;
+X, YandZ
+= fictitious forces on unit projected
+area of the shell in the X, y and z-
+directions;
+X, y and z = axes of co-ordinates;
+Q,
+= stress function
+used in the
+membrane
+analysis of doubly-curved
+shell;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) high strength deformed
+bars conforming
+to
+IS  :  1786-1985s.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2.1 Welding may be used in .reinforccment
+in
+accordance with IS  :  456-1978*.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+= angle of inclination
+of tangent
+to the
+curve at any point;<<PARAGRAPH_END>>
+<<PARAGRAPH>>*Code
+of practice
+for plain
+and
+reinforced
+concrete
+( third  revision ).
+tSpecification
+for mild steel and medium tensile steel bars
+and hard-drawn
+steel wire
+for concrete
+reinforcement:
+Part 1 Mild steel and medium tensile
+steel bars (third
+r  cvisfon  ) .
+Part 2 Hard-drawn
+steel wire  (third revision).
+SSpecification
+for
+hard-drawn
+steel
+wire
+fabric
+for
+concrete reinforcement
+(second  revision ).
+#Specification
+for high strength deformed
+steel bars
+and
+wires for concrete reinforcement
+(  rhfrdrevlsfon).<<PARAGRAPH_END>>
+<<PARAGRAPH>>+c
+= semi-central
+angle
+of a
+symmetrical
+circular cylindrical shell;
+P and K = Aas
+Jakobsen’s
+varameters
+for<<PARAGRAPH_END>>
+<<PARAGRAPH>>cylindrical shells;
+_<<PARAGRAPH_END>>
+<<PARAGRAPH>>Poisson’s ratio; and<<PARAGRAPH_END>>
+<<HEADING level=3>>V
+=<<HEADING_END>>
+<<PARAGRAPH>>V’
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>Non + Diaphragms
+4F
+u e
+‘IG-
+4
+FOLDED PLAY
+noi  SbOWO,<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>6A
+CONbID<<HEADING_END>>
+<<HEADING level=3>>68
+HYPERBOLIC PARABOLOID<<HEADING_END>>
+<<HEADING level=3>>6C
+HYPERBOLOID OF REVOLUTION OF ONE SHEET
+FIG.  6 RULED  SURFACES<<HEADING_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>Is : 2210 - 1988<<HEADING_END>>
+<<PARAGRAPH>>7A
+SEGMENTAL DOME<<PARAGRAPH_END>>
+<<PARAGRAPH>>78
+PARABOLOID OF REVOLUTION<<PARAGRAPH_END>>
+<<HEADING level=3>>Fro.  7 !fhLU OF  REVOLUTION<<HEADING_END>>
+<<PARAGRAPH>>8A
+ELLIPTIC PARABOLOID<<PARAGRAPH_END>>
+<<PARAGRAPH>>88
+HYPERBOLIC PARABOLOID<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG.  8  SHELLS OF TRANSLATION<<HEADING_END>>
+<<HEADING level=3>>7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS : 2210 - 1988<<HEADING_END>>
+<<PARAGRAPH>>transverse
+bending moment.
+For
+doubly-curved
+shells, this distance will depend
+upon the geometry
+of the shell and the boundary conditions
+as the ex-
+tent of bending penetration
+is governed
+by these
+factors.<<PARAGRAPH_END>>
+<<HEADING level=3>>6. LOADS<<HEADING_END>>
+<<HEADING level=3>>6.1 Unless  otherwise
+specified, shells and
+folded
+plates shall be designed to resist the following
+load
+combinations:<<HEADING_END>>
+<<PARAGRAPH>>a) Dead load,
+b) Dead load + appropriate
+live load or snow
+load,
+c) Dead load + appropriate
+live
+load -I- wind
+load, and
+d) Dead load + appropriate
+live load + seismic
+load.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1.3  Thickness of Folded
+Plates -  The thickness
+of folded plates shall not normally
+be less than
+75 mm.<<HEADING_END>>
+<<PARAGRAPH>>7.2 Other Dimensions<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.1  CyIindrical Shells<<HEADING_END>>
+<<HEADING level=3>>7.2.1.1  The span should
+preferably
+be
+less
+than 30 m.
+Shells longer than 30 m will involve
+special design considerations,
+such as the application
+of prestressing techniques.<<HEADING_END>>
+<<PARAGRAPH>>6.2 Dead loads shall be calculated on the basis of
+the unit weights taken in accordance
+with IS  :  875
+(Part I)-1987*.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3 Live loads, wind loads and snow loads shall be
+taken as specified in IS  :  875 (Parts 2 to 4)-1987*.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.1.2 The width of the edge member
+shall
+generally
+be limited to’ three times the thickness of
+the shell.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4 Seismic loads shall be taken in accordance
+with
+IS  :  1893-1984t.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.1.3 The radius of shell structures
+shall be
+selected keeping
+acoustic
+requirements
+in
+view.
+Coincidence
+of the centre of curvature
+with
+the
+working level should be avoided
+unless
+suitable
+acoustic correction is made.
+It is, however,
+impor-
+tant to note that even where coincidence of centre of
+curvature with the working level is avoided, acoustic
+treatment may be necessary iu certain cases.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.5 Where concentrated
+loads occur,
+special consi-
+derations should be given in analysis and design.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.  SELECTION OF DIMENSIONS<<HEADING_END>>
+<<HEADING level=3>>7.1 Thickness<<HEADING_END>>
+<<PARAGRAPH>>7.2.1.4 A single cylindrical shell whose span is
+larger than three times the chord width shall have a
+total depth, H, between
+l/6 and l/l2 of its span
+(the former value being applicable to smaller spans).
+The rise in the case of a shell without edge members
+shall not be less than l/l0 of its span.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1.1  Thickness
+of Shells -
+Thickness
+of
+shells
+shall not normally
+be less than 50 mm if singly-
+curved and 40 mm if doubly-curved.
+This require-
+ment does not, however, apply to small precast con-
+crete shell units in which the thickness may be less
+than that specified above but it shall in no case be
+less than 25 mm (see IS  :  6332-19842).<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.1.5 For a shell with chord width larger than
+three times the span, the rise of the shell shall not
+be less than l/8 of its chord width.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1.1.1 The reinforcement shall have a minimum
+clear cover of 15 mm or its nominal
+size whichever
+is greater.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.1.6 The chord width of shells shall
+pre-
+ferably be restricted to six times the span as other-
+wise arch action is likely to predominate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1.2 Shells are usually thickened
+for some dis-
+tance from their junction
+with edge members and
+traverses.
+The thickening
+is usually of the order
+of 30 percent of the shell thickness.
+It is, however,
+important to note that undue thickening
+is undesir-
+able.
+In the case ‘of singly-curved
+shells, the dis-
+tance over which the thickening
+at the junction
+of
+the shell and traverse
+is made should
+be between
+0’38  4R.d  and 0’76  1/rd,  where  R  and  d  are the
+radius and the thickness, respectively.
+The thicken-
+ing of shell at straight edges shall depend on the<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.1.7 The semi-central
+angle shall preferably
+be between 30 and 40”.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE -
+Keeping the semi-central
+angle between these
+limits is advisable for the following reasons:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) If the angle is below 40°, the effect of wind
+load
+on the shell produces only suction; and
+b) With slopes steeper
+than 40”.
+backforms
+may
+become necessary.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Within these limits the semi-central
+angle shall
+be as high as possible consistent with the functional
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>*Code
+of practice
+for design
+loads
+(other
+than
+earth-
+quake) for building and structures:
+Part 1 Dead loads  (second revision ).
+Part 2 Imposed loads (second  revision ).
+Part 3 Wind loads  (second revision ).
+Part 4 Snow loads (secotlri  revision ).
+tCriteria
+for earthquake
+resistant
+design
+of structures
+(fourth revision  ) .
+*Code of  practice
+for construction
+of floors and roofs
+using Precast doubly-curved
+shell units (first  revislon ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.2  Folded Plates -
+For folded plates of type
+shown in Fig. 4D, the selection of depth may be
+based on the rules applicable
+to cylindrical
+shells.
+With other shapes, such as, the ‘V’ or the trough,
+the depth may be taken as about l/l5 of the span
+for preliminary designs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS : 2210 - 1988<<HEADING_END>>
+<<PARAGRAPH>>handled by FSM since these shells can be discretized
+into long strip elements.
+Shells of revolution
+can
+also be efficiently analyzed
+by this method, after
+discretization of such shells into finite ring elements.
+Since FSM can be used even when the loads are not
+uniform, it may be advisable to use the method even
+for simple shells that are amenable
+to analysis by
+common classical methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.2.1  The angle of inclination of the plates to
+horizontal shall be limited to about 40 for  in-situ
+construction
+in order to facilitate placing of concrete
+without the use of the backforms.<<HEADING_END>>
+<<PARAGRAPH>>8. ANALYSIS<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.0  General -  Shells may be analyzed
+either
+by
+linear elastic analysis based on theory of elasticity or
+yield line theory.
+Methods
+based on yield
+line
+theory for shells are still the subject of research
+and
+experimentation
+and, therefore,
+for the present,
+it
+is recommended that they may be used along with
+model tests to check the load carrying capacity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The common
+classical methods
+of analysis
+of
+shells are mentioned
+in the following clauses for
+use for the analysis of common types of shells that
+are without any of the complexities.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1 Cylindrical Shells<<HEADING_END>>
+<<PARAGRAPH>>The finite element method has become a practi-
+cal and popular method of analysis for all types of
+structures.
+Many common and important
+features
+of shell and folded plate structures
+that cannot
+be
+considered by classical methods can now be analyzed
+satisfactorily
+by the finite element
+method.
+For
+example  :<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.1  Analytical Methodr -  The analytical methods
+consist of two parts, membrane
+analysis and edge
+disturbance analysis.<<HEADING_END>>
+<<PARAGRAPH>>8.1.1.1  Membrane analysis -
+In the membrane
+analysis, the shell is regarded as a perfectly
+flexible
+membrane which is infinite in extent and is assumed
+to carry loads by means of forces in its plane only.
+This analysis gives the two normal
+stress resultants
+Nx and NY in the longitudinal
+and the transverse
+directions and the shear stress resultant Nxv.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Complex support or boundary conditions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Openings
+large enough
+to
+disturb
+global
+stress distribution;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+4
+e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Irregular surface geometry;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Highly variable or localized loads;<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.1.2  Edge disturbance
+analysis -
+Shells,
+in
+practice,
+are always limited by finite
+boundaries
+where the boundary
+conditions
+demanded
+by the
+membrane theory are not obtained
+with the result
+that a pure membrane
+state would seldom exist.
+Edge disturbances
+emanate
+from the
+boundaries,
+altering the membrane
+state and causing bending
+stresses in the shell.
+These are accounted
+for bye,
+carrying out the edge disturbance
+analysis.
+Usually
+edge disturbance analysis is confined
+to disturbance
+emanating
+from straight
+edge as any disturbance
+emanating from curved edges is damped
+quite fast.
+Even in the case of disturbance from straight edges,
+the bending stresses would get damped out more
+rapidly in shells having chord width larger than the
+span and would seldom travel beyond
+the crown,
+with the result that the effect of the further edge
+may be ignored without appreciable error.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tapering folded plates or boxes or silo and
+bunker bottoms;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+d
+h)
+3
+W<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branching shells;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Large deformations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Heavy and eccentric stiffners;
+Thermoelastic strains;<<PARAGRAPH_END>>
+<<PARAGRAPH>>or
+any
+inelastic<<PARAGRAPH_END>>
+<<PARAGRAPH>>Elastoplastic,
+viscoelastic
+behaviour;<<PARAGRAPH_END>>
+<<PARAGRAPH>>ml
+d<<PARAGRAPH_END>>
+<<PARAGRAPH>>Material non-homogeneity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Irregular surface geometry;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sudden changes in curvature;<<PARAGRAPH_END>>
+<<PARAGRAPH>>PI
+9)
+r)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shells under dynamic wind action; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>Possible effect of settlement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The superposition of the membrane and the edge
+disturbance stresses gives the final stress pattern
+in
+the shell.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When one or more of these complexities occur in
+shell structures, it is advisable to use finite element
+method, at least for a final acceptance of the design.
+Even normal
+shell structures
+of spans larger than
+30 m should be analyzed
+by finite element method
+if it is expected
+that there would be serious and
+significant structural
+participation
+in the shell be-
+haviour by the supporting units, such as, edge and
+intermediate
+beams, stiffners, and or intermediate
+traverses ( specially flexible traverses ) cable supports,
+columns, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.1.3  Tables for the analysis of circular
+cylin-
+drical shells -
+Simplifications
+in the
+analysis
+-of
+shells are possible by systematizing
+the calculations  4
+making use of tables compiled
+for this
+purpose
+(see Appendix B ).<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.2  Applicability of the Methods of Analysis<<HEADING_END>>
+<<PARAGRAPH>>For many shells, finite strip method
+( FSM)
+( a
+particular form of finite element method ) of analysis
+is easier to apply and also more economical
+to use
+than the finite
+element
+method.
+All
+types
+of
+prismatic folded plates and cylindrical shells can be<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.2.1  Cylindrical
+shells with k ratio less than<<HEADING_END>>
+<<PARAGRAPH>>rr shall be analyzed
+using any
+of
+the
+accepted
+analytical methods (see Appendix B ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS  :  2210 - 1988<<HEADING_END>>
+<<HEADING level=3>>In  such shells, if P exceeds 10 and  K  exceeds  0’15,
+the effect at any point on the shell of the dis-
+turbances
+emanating
+from the farther edge may be
+ignored, where<<HEADING_END>>
+<<PARAGRAPH>>NATE - Based on the same consideration
+of ignoring
+p’.  q’  and P  q  being very small,  it is sometimes suggested
+that the shells may be treated as shallow
+if the surface
+is  such that the values ofp and  q  do not exceed
+l/8 at
+any point on it.
+However, in normal cases, for practical
+purposes, higher values ofp
+and  q  up to half may be
+considered
+as shallow provided the span to rise ratio does
+not exceed 5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-8
+12 -’ R"
+w’  R’
+L-  d’
+and K = - L” P’
+For shells with  P  less than 7 and
+K  less than 0’12,
+the effect of the disturbances
+from both the edges
+shall be considered.
+Shells with P values between 7
+and 10 and K between 0’12 and 0’15 are relatively
+infrequent.
+However, should such cases arise, the
+effects of both the edges shall be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.3  Boundary
+Conditions
+for
+Doubly-Curved
+Shells -
+In general,
+in the membrane
+analysis of
+synclastic
+shells, only one boundary
+condition
+is
+admissible on each boundary.
+For an anticlastic
+shell, the boundary conditions
+have to be specified
+in a special manner
+as the characteristic
+lines of
+such surfaces play a significant role in the membrane
+theory.
+The type of boundary
+conditions
+that can
+be specified depend on whether or not the boundaries
+of the shell are characteristic lines.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.2.2 Cylindrical shells with  L/R  greater than
+or equal to n may be treated
+as beams of curved
+cross section spanning between the traverses and the
+analysis carried out using an approximate
+method
+known
+as the beam
+method
+(see
+Appendix B)
+which consists of the following two parts:
+a) The
+beam
+calculation
+which
+gives
+the
+longitudinal stress resultant N, and the shear
+stress resultant NXY, and
+b) The arch calculation which gives the transverse
+stress resultant NY and the transverse
+moment
+MY.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Further,
+a membrane
+state of stress
+can
+be
+maintained in a shell only if the boundaries
+are such
+that the reactions exerted by the boundary
+members
+on the shells correspond to stresses in the shell at
+the boundaries given by the membrane
+theory.
+It
+is seldom possible to provide
+boundary
+conditions
+which would lead to a pure membrane state of stress
+in the shell.
+In most practical
+cases, a resort
+to
+bending theory becomes necessary.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.3  Continuous Cylindrical Shells<<HEADING_END>>
+<<PARAGRAPH>>8.2.3.1 Only deep doubly-curved
+shells behave
+like membranes and it is only for such shells that
+a membrane analysis is generally adequate for design
+(see  also  8.0).
+Bending analysis is necessary
+for
+all singly-curved
+shells and shallow doubly-curved
+shells.
+The governing equation for bending analysis
+of shallow shells are given in AppendixC.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.3.1 Analytical methods -
+In the analytical
+methods, the problem of continuous
+shells is solved
+in two stages.
+In the first, the shell is assumed
+to
+be  ‘simply
+supported
+over
+one
+span
+and
+all the stress resultants worked out.
+In the second
+stage, correcg;ns
+for continuity are worked out and
+are superimposed on the values corresponding
+to the
+simply supported span.
+Long cylindrical shells can
+be analyzed by approximating
+the cylindrical profile
+by a folded plate shape and applying
+well known
+analysis methods for continuous
+folded plates (see
+Appendix B).<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.4  Bending Theory  of  Doubly-Curved Shells -
+The governing
+equations
+for bending analysis
+of
+shallow
+doubly-curved
+shells
+are
+Appendix C.
+given
+in<<HEADING_END>>
+<<PARAGRAPH>>8.2.5  Bending ?heory  of
+Shells
+of
+Revolution,
+Symmetrically
+Loaded -
+In
+synclastic
+shells
+of
+revolution, such as, domes which are symmetrically
+loaded, a more or less membrane
+state of stress
+exists.
+The bending stresses are confined to a very
+narrow strip close to edge members and get rapidly
+damped out.
+The bending stresses in domes can be
+calculated with sufficient accuracy
+by approximate
+methods like Geckler’s approximation.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.3.2  Beam method -
+Solution of continuous<<HEADING_END>>
+<<PARAGRAPH>>shell with -$ 2 ?r is simpler by the beam method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The bending moment factors are obtained by solving
+the corresponding
+continuous
+beam.
+Thereafter,
+analysis can be continued as in 8.1.2.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2 Donhly-Curved SheIIs<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.2.6  Funicular Shells -
+The shapes of these shells
+are so choosen
+that, under uniformly
+distributed
+vertical loads, in a membrane
+state of stress, they
+develop only pure compression
+unaccompanied
+by
+shear stresses.
+Thus theoretically
+no reinforcement
+will be necessary except in the edge members.
+Small
+precast funicular
+shells without any reinforcement
+except in edge beams are suitable for roofs and
+floors of residential,
+industrial,
+and
+institutional
+buildings (see IS  :  6332’1984* ). For roofs of larger
+size,  in situ  construction
+may be resorted to; in such
+shells, provision of reinforcement is necessary to take
+care of the effects of shrinkage,
+temperature
+and
+bending.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.1  Membrane
+Analysis -
+In
+the
+membrane
+analysis, it is assumed that the shell carry loads by
+in-plane
+stress resultants
+and usually
+only
+deep
+doubly-curved
+shells behave like membranes.
+The
+governing equations for membrane analysis of doubly-
+curved are usually solved by using stress functions
+( see Appendix C ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.2 Shallow  Shells -
+Shells may be considered
+shallow if the rise to span ratio is less than or equal
+to l/5 and  p2  and  q’  may be ignored in all the ex-
+pressions.
+The shorter side shall be considered
+as
+the span for this purpose
+for shells of rectangular
+g*ound plan.
+A shell with a circular ground plan
+may beconsidered
+shallow if the rise does not exceed
+l/5 of the diameter.<<PARAGRAPH_END>>
+<<HEADING level=3>>*Code of  practice  for construction
+of  floors and roofs
+using precast doubly-curved shell units (fist
+revision ).<<HEADING_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS : 2210 - 1988<<HEADING_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.4 Folded Plates -  The structural action of folded
+plates may be thought of as consisting of two parts.
+the ‘slab action’ and the ‘plate action’.
+By the slab
+action, the loads are transmitted to the joints by the
+transverse bending of the slabs. The slabs, because of
+their large depth and relatively small thickness, offer
+considerable resistance to bending in their own planes
+and are flexible out of their planes.
+The loads are,
+therefore,
+carried
+to the end diaphragms
+by the
+longitudinal bending of the slabs in their own planes.
+This is known as ‘plate action’.
+The analysis of
+folded slabs is carried out in two stages.<<PARAGRAPH_END>>
+<<PARAGRAPH>>instability caused by the combined
+effect of
+bending and torsion in the shell as a whole.
+This
+occurs
+particularly
+in asymmetrical
+shells.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3 Buckling in Cylindrical Shells<<HEADING_END>>
+<<HEADING level=3>>9.3.1  The permissible buckling stress  fat  in cylind-
+rical shells shall be calculated as follows:<<HEADING_END>>
+<<HEADING level=3>>f  ac =
+0’25  .fck<<HEADING_END>>
+<<PARAGRAPH>>83.1  Transverse Slabs
+Action
+Analysis -  The
+transverse
+section of the slab, of unit length, is
+analyzed
+as a continuous
+beam on rigid supports.
+The joint
+loads obtained
+from this analysis
+are
+replaced by their components
+in the planes of the
+slabs and these are known as plate loads.<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>characteristic
+strength
+of concrete
+at 28
+days; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>fck
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>fcr
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>critical
+buckling
+stress
+determined
+in
+accordance with ( a ), ( b ) and ( c ) below:<<PARAGRAPH_END>>
+<<HEADING level=2>>a><<HEADING_END>>
+<<PARAGRAPH>>8.3.2  In Plane Plate Action Analysis -
+Under
+the
+action of ‘plate loads’ obtained above, each slab is
+assumed to bend independently
+between the dia-
+phragms, and the longitudinal
+stresses at the edges
+are
+calculated.
+Continuity
+demands
+that
+the
+longitudinal
+stresses at the common
+edges of the
+adjacent slabs be equal.
+The corrected
+stresses are
+obtained by introducing edge shear forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shells with P < 7 and K < O’I2 -  In such shells,
+buckling
+is caused by excessive
+longitudinal
+compression near the crown of the shell and the
+critical buckling stress  fcr  shall be calculated
+as
+follows:<<PARAGRAPH_END>>
+<<HEADING level=3>>fcr = 0.20%<<HEADING_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shells with P > IO and  K
+>
+0’15 -
+In such
+shells, the transverse stresses tend to be critical
+from the point of view of buckling
+and  the
+critical buckling stress  fcr  shall be determined as
+follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.4  Expansion Joints -
+The expansion
+joint
+shall
+conform to provisions laid down in IS  :  456-1978*.
+In the case of folded plates, it is recommended
+that
+the joint may be located in the ridge slab.
+In the
+cases of large spans where it is not feasible to pro-
+vide expansion joints, effects of shrinkage
+shall be
+taken care of in the design.<<PARAGRAPH_END>>
+<<HEADING level=3>>1) For shells with  L <  2’3qdF<<HEADING_END>>
+<<PARAGRAPH>>fcr = EC [ 3’4 (+
+)’ + 0’025 ( +)
+]<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.5  Openings in Shells -
+Openings
+in shells shall
+preferably
+be avoided
+in zones of critical
+stresses.
+Small openings of size not exceeding five times the
+thickness in shells may be treated
+in the same way
+as in the case of reinforced concrete structures.
+For
+larger openings, detailed analysis should be carried
+out to arrive at stresses due to the openings.<<PARAGRAPH_END>>
+<<HEADING level=3>>2) For shells with  L >  2’31/dy<<HEADING_END>>
+<<PARAGRAPH>>.-
+--<<PARAGRAPH_END>>
+<<HEADING level=1>>0’89 +  J  $<<HEADING_END>>
+<<HEADING level=3>>fcr
+zz
+EC<<HEADING_END>>
+<<PARAGRAPH>>l-
+1’18
+d$
+J
+where<<PARAGRAPH_END>>
+<<HEADING level=3>>9.  ELASTIC STABILITY<<HEADING_END>>
+<<PARAGRAPH>>EC =  modulus of elasticity of concrete, which<<PARAGRAPH_END>>
+<<HEADING level=3>>9.1  Permissible Stresses<<HEADING_END>>
+<<HEADING level=3>>may be taken as = 2
+x  3fck;<<HEADING_END>>
+<<HEADING level=3>>9.1.1  Permissible stresses in steel reinforcement,
+and concrete
+for shells and
+folded
+plates
+shall
+be in accordance
+with the
+provisions
+given
+in
+1s  : 456-1978*.<<HEADING_END>>
+<<HEADING level=3>>E, =  modulus of elasticity of steel;
+d =  thickness of the shell; and<<HEADING_END>>
+<<HEADING level=3>>R =  radius of curvature.<<HEADING_END>>
+<<HEADING level=3>>9.2 Causes  of Instability -
+Instability in a cylindri-
+cal shell may be caused by:<<HEADING_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shells with P values between 7
+and 10 and
+K between 0’ 12 and 0’ 15 are relatively
+infre-
+quent.
+For such shells,
+formulae
+given
+in
+(a) or (b) shall apply depending
+upon whether
+longitudinal
+or transverse
+stresses are critical
+from Considerations of elastic stability.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) local buckling
+in zones submitted
+to com-
+pressive stresses;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) flattening
+of shells, known as the
+‘Brazier
+Effect’, which occurs particularly
+in
+shells
+without edge members; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>The value of modulus
+of elasticity of concrete
+to be used in the above formulae for calculating
+the
+buckling
+stresses should be the value for long term
+modulus including the effect of creep also.<<PARAGRAPH_END>>
+<<HEADING level=3>>*Code  of practice
+for plain
+and
+reinforced
+concrete
+(third  revision ).<<HEADING_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>IS : 2210 - 1988<<HEADING_END>>
+<<HEADING level=3>>9.4 Buckling
+in
+Doubly-Carved
+Shells -
+For
+spherical shells, the permissible
+buckling
+load per
+unit area of surface,
+P,,,,, from considerations
+of
+elastic stability, is given by:<<HEADING_END>>
+<<PARAGRAPH>>infinitely rigid rib that can prevent
+the shell from
+rotating and the lower value to a flexible rib. Where
+solid diaphragm
+traverses
+are
+used,
+adequate
+reinforcement to distribute shrinkage
+cracking shall
+be provided throughout the area of the traverses.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.3.1 In the design of tied arches,
+it may be
+necessary to determine the elastic extension of the tie
+member due to tension
+and the consequent effect
+on the horizontal thrust on the arch.<<PARAGRAPH_END>>
+<<HEADING level=3>>where
+EC d  and  R  are as defined in 3.1.<<HEADING_END>>
+<<PARAGRAPH>>For other types of doubly-curved
+shells,
+the
+permissible
+buckling
+load per unit area of surface,
+Pperm shall be calculated from the formula:<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.3.2 The bottom member of a bowstring
+girder,
+or the tie in the case of a tied arch, is usually
+subjected to heavy tension. Welding or the provision
+of threaded
+sleeve couplings
+(see
+25.252
+of
+IS  :  456-1978* ) or laps may be used for joints in the
+reinforcement
+rods.
+Where lapping
+is done,
+the
+length of the overlap
+shall be as specified in the
+relevant clause of IS  :  456-1978* and the composite
+tension shall be restricted to 0’1 fck, where&k is the
+characteristics cube strength of concrete at 28 days.
+Where the composite tension
+exceeds 0’1  fck,
+the
+entire length of the lap shall be bound by a helical
+binder of 6 mm’ diameter
+at a pitch not exceeding
+75 mm. The joints
+in the bars shall always be
+staggered.
+Prestressing
+the tension
+member
+offers
+a simple and satisfactory solution. The detailing
+of
+inclined or vertical members of trusses or bowstring
+girders and suspenders of tied arches should be done
+with great care.
+The reinforcements
+in the tie of
+tied-arches shall be securely anchored at their ends.<<PARAGRAPH_END>>
+<<HEADING level=3>>P
+Ecda
+wm= “‘R,R,<<HEADING_END>>
+<<HEADING level=3>>where
+R,  and  R,  are principal radii of curvature
+at
+any
+point,
+and EC and
+d  are as defined
+in 3.1.<<HEADING_END>>
+<<HEADING level=3>>9.5 Bwkhg
+in Folded Plates -  The folded plate
+may be replaced by the corresponding
+cylindrical
+shell where possible and the appropriate
+formula
+used to check for elastic stability.<<HEADING_END>>
+<<HEADING level=3>>10. DESIGN OF TRAVERSES<<HEADING_END>>
+<<PARAGRAPH>>10.1 Types of Traverses -  Traverses
+may be solid
+diaphragms,
+arches,
+portal
+frames,
+trusses
+or
+bowstring girders. For shells with large chord widths,
+it is advantageous
+to have trusses in the form of
+arches, trusses or bowsting girder.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.4 The traverses
+may be hinged to the columns,
+except where the traverses and columns are designed
+as one unit, such as in a portal frame. Provision
+shall be made in the design of columns
+to allow for
+the expansion
+or contraction
+of traverses
+due to
+temperature changes.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.1.1  Traverses
+may be placed below or above
+the shells. Where a clear soffit is required,
+specially
+to facilitate the use of movable formwork,
+they may
+be in the form of upstand ribs.<<HEADING_END>>
+<<HEADING level=3>>11. DESIGN
+OF EDGE BEAMS<<HEADING_END>>
+<<PARAGRAPH>>10.1.2  The simplest diaphragms for folded plates
+are rectangular
+beams with depth equal
+to
+the
+height of the plate. The diaphragms are subject to
+the action of the plate loads on one-half of the span
+of the folded plate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.1  Edge beams stiffen the shell edges and
+act
+together
+with the shell in carrying the load of the
+supporting system. They can either be vertical
+or
+horizontal.
+Vertical beams are usually employed
+in
+long cylindrical shells wherein the cylindrical
+action
+is predominant.
+Horizontal beams are employed
+in
+short cylindrical shells where transverse
+arch action
+is predominant.
+It is preferable to completely
+isolate
+the structural
+system of the shell structure
+without
+adding any other structure to it.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.2 Load on Traverses -
+Traverses shall be design-
+ed to carry,
+in addition
+to
+their
+own
+weight,
+reactions
+transferred
+from the shell in the form of
+shear forces, and the loads directly acting on them.
+For preliminary trial designs, however, the total load
+on half the span of the structure may be considered
+as a uniformly
+distributed
+vertical
+load
+on the
+diaphragm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In most of the shell forms, edge beams form part
+of the shell structure itself. An analysis of the shell
+structure
+is carried
+out along with the edge beam.
+Analysis and design of edge beams should ensure
+compatibility
+of boundary
+conditions
+at the shell
+edge.
+Analysis
+should
+take
+into
+account
+the
+eccentricities,
+if any, between the central line of the
+shell and the edge beam. Analysis should also take
+into account
+the type of edge beam, interior
+or
+exterior,
+as well as supporting
+arrangement of the
+edge beam.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.3 Design -
+The shear forces transferred
+on to
+the end frames from the shell shall be resolved into
+vertical and horizontal components and the analysis
+made by the usual methods. Owing to the monoli-
+thic connection
+between the traverse and the shell,
+the latter participates in the bending action
+of the
+traverse.
+The effective width of a cylindrical shell
+that acts aL1lg with the traverse may he assumed
+as G’X! *./m to 0’76 1/a,
+on either side in the case
+of intermediate traverses and on one side in the case
+of end ones; the higher value being applicable
+to au<<PARAGRAPH_END>>
+<<HEADING level=3>>‘Code
+of practice
+for
+plain
+and
+reinforced
+concrete
+(  third revision ).<<HEADING_END>>
+<<PARAGRAPH>>12<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>IS:2210-1988<<HEADING_END>>
+<<HEADING level=3>>11.1.1  Thickness -
+A width of two to three times
+the thickness
+of the shell subject to a minimum of
+15 cm is usually necessary for the edge beams.<<HEADING_END>>
+<<HEADING level=3>>12.2 Folded Plates<<HEADING_END>>
+<<HEADING level=3>>12.2.1  Transverse
+Reinforcement
+-
+Transverse
+reinforcement
+shall follow the cross section of the
+folded plate and shall be designed to resist the trans-
+verse moment.<<HEADING_END>>
+<<PARAGRAPH>>11.1.2  Reinforcements -
+Edge beams carry
+most
+of the longitudinal
+tensile forces due to  NX  in the
+shell and hence main reinforcements
+have to be
+provided
+for carrying
+these forces,
+It may
+be
+necessary
+to provide many layers of reinforcement
+in the edge beam. Design of reinforcements
+should
+ensure that the stresses in the farthermost layer does
+not exceed the permissible
+stresses.
+Edge
+beams
+should also be designed for carrying its self-weight,
+live load on the part of the shell, wind load and
+horizontal forces due to earthquakes.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2.2  Longitudinal Reinforcement -
+Longitudinal
+reinforcement,
+in general. may be provided to take
+up the longitudinal
+tensile stresses, in individual
+slabs.<<HEADING_END>>
+<<HEADING level=3>>12.2.3  Diagonal
+reinforcement
+may be provided
+for shear.<<HEADING_END>>
+<<HEADING level=3>>12.  DESIGN OF REINFORCEMENT<<HEADING_END>>
+<<PARAGRAPH>>12.2.4 The section of the plate at its junction
+with
+the traverse shall be checked for shear stress caused
+by edge shear forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1 Shells -  The ideal arrangement
+would be to
+lay the reinforcement
+in the shell to follow
+the
+isostatics, that is, directions of the principal
+stresses.
+However,
+for
+practical
+purposes,
+one
+of the
+following methods may be used:<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.2.5  Reinforcement
+bars
+shall
+preferably
+be
+placed, as closely as possible,
+so that the steel is
+well
+distributed
+in the body of the plate. Nominal
+reinforcement
+consisting
+of minimum
+8 mm dia-
+meter bars may be provided in the compression zones
+at about 200 mm centre-to-centre.<<PARAGRAPH_END>>
+<<PARAGRAPH>>One is the diagonal grid at 45” to the &is c+f the
+shell, and the other the rectangular grid in which
+the reinforcing bars run parallel to the edges of
+the shell. The rectangular
+grid needs additional
+reinforcement at 45’ near the supports to take up
+the tension due to shear.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3 General -  The minimum
+reinforcement
+shall
+conform to the requirements of IS  :  456-1978*.<<HEADING_END>>
+<<PARAGRAPH>>12.1.1 In the design of the rectangular
+grid for
+cylindrical shells, the reinforcement
+shall usually be
+divided into the following three groups:<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3.1  Diameters
+of Reinforcement
+Bars -  The
+following diameters of bars may be provided
+in the
+body of the shell. Larger diameters may be provided
+in the thickened portions, transverse and beams:<<HEADING_END>>
+<<PARAGRAPH>>a) Longitudinal
+reinforcement
+to take up
+the
+longitudinal
+stress Nx or  Ny
+as the case may
+be,<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Minimum diameter  :  8 mm, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Maximum diameter  : 4  of shell thickness or
+16 mm whichever is
+smaller.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Shear reinforcement to take up the principal
+tension caused by shear Nxy, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Transverse reinforcement
+to resist NY and My.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.3.2  Spacing of Reinforcement -
+The maximum
+spacing of reinforcement in any direction in the body
+of the shell shall be limited to five times the thick-
+ness of the shell and the area of unreinforced
+panel
+shall in no case exceed
+15 times the square of
+thickness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1.2 Longitudinal
+reinforcement
+shall be pro-
+vided at the junction of the shell and the traverse to
+resist the longitudinal
+moment
+M,  .  Where MX is
+ignored in the analysis, nominal
+reinforcement
+shall
+be provided.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1.3 To ensure monolithic
+connection between
+the shell and the edge members, the shell reinforce-
+ment shall be adequately
+anchored
+into the edge
+members and traverses
+or  vice versa  by providing
+suitable
+bond bars from the
+edge
+members
+and
+traverses to lap with the shell reinforcement.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE -
+These limitations
+do not apply to edge mem-
+bers which are governed
+by IS  :  456-1978+.<<HEADING_END>>
+<<HEADING level=3>>*Code
+of practice
+for plain
+and reinforced
+concrete
+(  r/rid
+revision ).<<HEADING_END>>
+<<HEADING level=3>>13<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>APPENDIX
+A
+(  Clause  4.2 )<<HEADING_END>>
+<<HEADING level=3>>DETAILED CLASSIFICATION OF STRESSED SKIN SURFACES<<HEADING_END>>
+<<PARAGRAPH>>Stressed Skin Surfaces<<PARAGRAPH_END>>
+<<HEADING level=1>>?
+I<<HEADING_END>>
+<<PARAGRAPH>>Polded+Pla*es<<PARAGRAPH_END>>
+<<HEADING level=1>>1
+Doubly-Curved
+Non-developable<<HEADING_END>>
+<<PARAGRAPH>>b
+Singly-Curved
+Developable<<PARAGRAPH_END>>
+<<PARAGRAPH>>I<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+I<<PARAGRAPH_END>>
+<<PARAGRAPH>>!<<PARAGRAPH_END>>
+<<PARAGRAPH>>I<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other Special Types<<PARAGRAPH_END>>
+<<HEADING level=3>>Gauss  CuAature
+Zero
+Membrane
+Equation
+Parabolic<<HEADING_END>>
+<<PARAGRAPH>>Anticiastic
+Gauss Curvature
+Negative
+Membrane
+Equation
+Hyperbolic<<PARAGRAPH_END>>
+<<PARAGRAPH>>SyncLtic
+Gauss Curvature Positive
+Membrane
+Equation
+Elliptic<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+I
+I
+I<<PARAGRAPH_END>>
+<<HEADING level=1>>i
++
+J
+j.
+Alternately
+Partly Syn-
+Miscellane-<<HEADING_END>>
+<<PARAGRAPH>>I<<PARAGRAPH_END>>
+<<PARAGRAPH>>i
+Synclastic. &
+clastt;;d
+ous Types<<PARAGRAPH_END>>
+<<HEADING level=1>>i
+1
+i
+YFs %‘ls  Rskd
+Revo-
+Trans-
+faces
+lution
+lation
+4
+&
+I<<HEADING_END>>
+<<PARAGRAPH>>Antic/astrc
+Antielastic<<PARAGRAPH_END>>
+<<HEADING level=3>>i
+5
+i
+J,
+Sl&lS
+Shells
+of
+of
+Revo-
+Trans-
+lution
+lation
+, +
+4<<HEADING_END>>
+<<PARAGRAPH>>Sh&s<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ruled<<PARAGRAPH_END>>
+<<PARAGRAPH>>Surfaces
+I
+I
+.I<<PARAGRAPH_END>>
+<<PARAGRAPH>>Re%u-
+Transla-
+tion
+tion
+4
++<<PARAGRAPH_END>>
+<<PARAGRAPH>>f-gf$@
+Hywr-
+bolic
+$ev$ition
+Esbo-<<PARAGRAPH_END>>
+<<HEADING level=1>>F”;iaTu-
+Shells<<HEADING_END>>
+<<PARAGRAPH>>Elliptic
+$‘6’so-<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cal?
+C&i;drical
+Conical
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>Circular
+Domes,
+Parabo-
+loids, Ellip-
+soids of
+Revolution,
+etc<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hyperbo-
+loids of Re-  I
+volution of
+One Sheet,
+Hyperbolic
+Paraboloids,
+Conoids<<PARAGRAPH_END>>
+<<PARAGRAPH>>Examples
+Including
+North-
+rSW?sdrical<<PARAGRAPH_END>>
+<<PARAGRAPH>>Circular
+Yoyd;bo-<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sheet<<PARAGRAPH_END>>
+<<PARAGRAPH>>light 8~
+;;;;;;“Y<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>IS : 2210 - 1988<<HEADING_END>>
+<<HEADING level=3>>APPENDIX
+B<<HEADING_END>>
+<<HEADING level=3>>( Clauses 8.1.1.3, 8.1.2.1, 8.1.2.2  and 8.1.3.1 )<<HEADING_END>>
+<<HEADING level=3>>TABLES AND THE METHODS OF- ANALYSIS OF CIRCULAR CYLINDRICAL SHELLS
+AND FOLDED PLATES<<HEADING_END>>
+<<HEADING level=3>>B-2. BEAM METHOD<<HEADING_END>>
+<<HEADING level=3>>TABLES
+FOR
+THE
+ANALYSIS
+OF
+CIRCULAR CYLINDRICAL SHELLS<<HEADING_END>>
+<<HEADING level=3>>El.<<HEADING_END>>
+<<PARAGRAPH>>El.1
+Tables
+given
+in the
+ASCE
+Manual
+of
+Engineering
+Practice
+No.
+31 entitled
+‘Design
+of
+Cylindrical
+Concrete Shell Roofs’ are based on a
+rigorous analytical method and are accurate
+enough
+for design of shells of all proportions.
+However, as
+values corresponding
+only to two ratios of  R/d  are
+given, interpolation
+involved for ratios does not give
+accurate
+results. A subsequent
+publication
+by the
+Portland
+Cement
+Association,
+Chicago,
+entitled
+‘Coefficients for
+Design
+of Cylindrical
+Concrete
+Shell Roofs’, gives the coefficients
+for 4 values of
+R/d  making interpolation
+easier.
+_<<PARAGRAPH_END>>
+<<PARAGRAPH>>B-2.1 This method,.due to Lundgren, consists of two
+parts. In the first, known as the ‘beam calculation’,
+the shell is treated as a beam of curved cross section
+spanning between the traverses and the longitudinal
+stress  Tx  and the shear stress S are determined.
+In
+the second, known as the ‘arch calculation’, a unit
+length of the shell is treated as an arch subject to the
+action
+of applied
+loads and specific shear which is<<PARAGRAPH_END>>
+<<PARAGRAPH>>defined as the rate of change of shear or F.
+This<<PARAGRAPH_END>>
+<<PARAGRAPH>>calculation
+yields the transverse
+stress  T  ‘and the
+transverse
+moment
+My.  For a detailed
+treatment,
+referenoe may be made to ‘Cylindrical Shells’ Vol I,
+by H. Lundgren published by the Danish Technical
+Press, the Institution
+of Danish Civil
+Engineers,
+Copenhagen,
+1949.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B-l.2 Tables given in ‘Circular
+Cylindrical Shells’
+by Rudiger and Urban ( Published by E.G. Teubner
+Verlagsgesellachaft, Leipzig, 1955 ) are based on the
+Donnel-Barman-Jenkins
+Method.
+These are parfi-<<PARAGRAPH_END>>
+<<PARAGRAPH>>cularly accurate for shells with*
+<a.<<PARAGRAPH_END>>
+<<HEADING level=3>>APPENDIX
+C<<HEADING_END>>
+<<HEADING level=3>>(  Clauses  8.2.1, 8.2.3.1  and 8.2.4 )<<HEADING_END>>
+<<HEADING level=3>>GOVERNING EQUATIONS FOR ANALYSIS OF DOUBLY-CURVED SHELLS<<HEADING_END>>
+<<HEADING level=3>>C-l. MEMBRANE ANALYSIS
+Equilibrium Equations<<HEADING_END>>
+<<PARAGRAPH>>The three equations
+of equilibrium can now be
+written
+using the projected
+stress resultants
+and
+fictitious forces as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>C-l.1 Real and
+Projected
+Forces
+ml
+Stress
+Resultant -  For membrane
+analysis
+of doubly-
+curved shells, it is usual to deal with projected
+stress
+resultants Nxp, NY,, and NxYp instead of real stress
+resultants Nx, NY and Nxy. The real and projected
+stress resultants are related as follows:<<PARAGRAPH_END>>
+<<HEADING level=2>>_
++  a&,
+aNx,
+ax
+ay+x
+-0<<HEADING_END>>
+<<HEADING level=2>>aNyp+aNxyp+y  ,=o
+a,
+a,<<HEADING_END>>
+<<PARAGRAPH>>Nx =Nx,&$<<PARAGRAPH_END>>
+<<HEADING level=3>>and r Nxp+2s  Nxvp-i-tNyp = px i- qY  -Z<<HEADING_END>>
+<<HEADING level=2>>NY  =NYP  J<<HEADING_END>>
+<<HEADING level=3>>l+qa
+I+pz<<HEADING_END>>
+<<PARAGRAPH>>Analysis Using Stress Function
+Analysis of the
+equations
+of
+equilibrium
+is
+simplified by using a stress function + which reduces
+the three equations to one.
+The stress function @ is
+related to the projected stress resultants as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>and NW =NWp<<PARAGRAPH_END>>
+<<PARAGRAPH>>Similarly, the real forces  WX, WY  and  WZ cm  shell
+per unit area on its surface with x, y and z-directions
+are replaced by the fictitious forces x, y and z and
+the relationships between them are as follows:<<PARAGRAPH_END>>
+<<HEADING level=3>>aw
+NYP
+=3
+- I  YBY<<HEADING_END>>
+<<HEADING level=3>>x = Wx dl+p*+qa<<HEADING_END>>
+<<HEADING level=3>>wy  2/l +p+qs
+Y  =<<HEADING_END>>
+<<PARAGRAPH>>- a20
+and Nxvp = -  ax.ay<<PARAGRAPH_END>>
+<<HEADING level=3>>and 2 = w, 41  +p’+q2<<HEADING_END>>
+<<HEADING level=3>>(4)<<HEADING_END>>
+<<PARAGRAPH>>15<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>IS : 2210 - 1988<<HEADING_END>>
+<<PARAGRAPH>>On introducing
+the stress function,
+the
+third
+where
+equilibrium equation reduce to the following:
+F =  stress function which gives in-plane stresses,<<PARAGRAPH_END>>
+<<PARAGRAPH>>r[$]--2s[g]+t[g]
+=
+when bending is also considered;<<PARAGRAPH_END>>
+<<PARAGRAPH>>w = deflection along z-axis;<<PARAGRAPH_END>>
+<<HEADING level=3>>pX+qY--z+rJxdx+tJ
+~dy
+(5)
+D =  flexural rigidity =  EcdJ/12  (1 -Y*);<<HEADING_END>>
+<<PARAGRAPH>>2 = vertical load per unit area of shell surface,
+assumed positive in the positive direction of
+Z-axis;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The homogeneous part of the partial differential
+equation given above will be of the elliptic, parabola
+or hyperbolic type depending upon whether sa-rt=
+0 which is also the test for classifying shells as
+synclastic, developable or anticlastic.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y = Poisson ratio; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>r,s,t =  curvature as defined in 3.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>C-2. BENDItiG
+ANALYSIS
+The equations
+given above are based on the
+co-ordinate system in Fig. 9.
+C-2.1 Bending
+analysis
+is necessary for shallow
+doubly-curved
+shells.
+For sha]]ow
+shells
+under
+Bending Stress Resultants
+vertical
+loading,
+this would involve the solution,
+of two partial simultaneous equations given below:
+From the values of  F  and w satisfying equations<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) for shells of variable curvature:
+(6) or (7), the stress resultants may be obtained from
+the following relations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>~&F+($t$-2sa’+=-
+-l
+axay
+aY aY
+w=o,
+TX +<<PARAGRAPH_END>>
+<<PARAGRAPH>>and<<PARAGRAPH_END>>
+<<PARAGRAPH>>DVaw _ _&&.-2s
+ax ax
+e
+?;
+ay)F-_z=(J
+a2 +a
+a
+Ty
+-e,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) For shells of constant curvature, that is, for
+shells for which  r, s  and  t  are constant, above
+equations simplify to:<<PARAGRAPH_END>>
+<<HEADING level=1>>Et
+V4F +[t
+$$
+-
+2sazy+$$  1
+= 0
+c
+!
+(7)
+“ax”  a2w
+1
+3
+-z=
+0
+Mxy =  -0(1-v)
+s<<HEADING_END>>
+<<HEADING level=3>>FIG. 9
+SIGN CONVENTION FOR STRESSFB
+AND MOMENTS IN A SHELL ELEMENT<<HEADING_END>>
+<<PARAGRAPH>>16<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>Bmrma  of IBdiu St8mdard8<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory
+institution
+established
+under
+the
+Bureau of Indian Stan&r& Act,  1986 to
+promote
+harmonious
+development
+of the activities
+of standardization,
+marking
+and quality
+certification
+of goods and attending
+to connected
+matters
+in the country.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BIS  has the copyright
+of all its publications.
+No part of these publications
+may be reproduced
+in any form without the prior permission
+in writing of BIS. This does not preclude
+the free use,
+in the course of implementing
+the standard,
+of necessary details, such as symbols and sizes, type
+or
+grade
+designations.
+Enquiries
+relating
+to
+copyright
+be addressed
+to
+the
+Director
+( Publications
+), BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Revbiom of Idian Standards<<HEADING_END>>
+<<PARAGRAPH>>Indian Standards
+are reviewed periodically
+and revised,
+when necessary
+and amendments,
+if
+any, are issued from time to time. Users of Indian Standards
+should
+ascertain
+that they
+are in
+possession
+of the latest amendments
+or edition.
+Comments.
+on this Indian
+Standard
+may be
+sent to BIS giving the following
+reference:<<PARAGRAPH_END>>
+<<HEADING level=3>>Dot : No.  BDC  38 (3329)<<HEADING_END>>
+<<HEADING level=3>>Amendments Ismed Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Amtnd No.
+Date of Issue
+: Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002
+Telephones
+:  331 01 31, 331 13 75
+Telegrams
+:  Manaksanstha.
+( Common to
+all Offices )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices,:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+:  Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI
+110002
+I 311 01 31
+331 13 75
+Eastern
+:  l/14 C. I. T. Scheme VII M, V. I. P. Road,.Maniktola
+CALCUTTA
+700054
+37 86 62<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+: SC0 445-446, Sector 35-C, CHANDIGARH
+160036
+53 38 43<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+: C. I. T. Campus, IV Cross Road, MADRAS 600113
+235 02 16
+Western
+:  Manakalaya,
+E9 MIDC, Marol, Andheri ( East )
+BOMBAY 400093
+6 32 92 95<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+:  AHMGDABAD,
+BANGALORE,
+BHOPAL,
+BHUBANESHWAR,
+COIMBATORE,
+PARIDABAD.
+GHAZIABAD,
+GUWAHATI,
+HYDERABAD,
+JAIPUR,
+KANPUR,
+PATNA, SRlNAGAR.
+THIRUVANANTHAPURAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Printed at Dee Kay Printers. New Delhi. India<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 18
+<<SECTION_END>>
+<<DOCUMENT_END>>

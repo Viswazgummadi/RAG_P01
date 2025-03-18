@@ -1,0 +1,3212 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994\n(Reaffirmed 1999)\nEdition 2.1\n(2000-10)",
+          "bbox": [
+            384.52,
+            55.29,
+            524.35,
+            108.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            86.8,
+            120.36,
+            506.32,
+            261.6
+          ],
+          "block_id": "img1_6"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            281.96,
+            368.3,
+            299.96
+          ],
+          "block_id": "b1_1",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST\n(PHYSICAL AND CHEMICAL) FOR WATER\nAND WASTEWATER",
+          "bbox": [
+            85.96,
+            313.82,
+            514.53,
+            377.66
+          ],
+          "block_id": "b1_2",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 48\nMERCURY\n( First Revision )",
+          "bbox": [
+            228.52,
+            387.81,
+            366.42,
+            426.44
+          ],
+          "block_id": "b1_3",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            219.28,
+            441.37,
+            375.87,
+            451.33
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC 628.1.032 : 628.3 : 543.3 [546.49]",
+          "bbox": [
+            208.96,
+            482.41,
+            386.06,
+            492.37
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2002",
+          "bbox": [
+            271.12,
+            673.93,
+            323.91,
+            683.89
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            704.61,
+            452.46,
+            745.3
+          ],
+          "block_id": "b1_8",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 3",
+          "bbox": [
+            451.24,
+            778.41,
+            523.55,
+            788.37
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_6",
+          "bbox": [
+            86.8,
+            120.36,
+            506.32,
+            261.6
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_6": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Environmental Protection Sectional Committee, CHD 012",
+          "bbox": [
+            70.72,
+            64.09,
+            338.53,
+            74.05
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.65,
+            132.23,
+            150.61
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (Part 48) (First Revision) was adopted by the Bureau of Indian Standards,\nafter the draft finalized by the Environmental Protection Sectional Committee had been approved\nby the Chemical Division Council.",
+          "bbox": [
+            70.72,
+            161.65,
+            524.4,
+            193.57
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Organic and inorganic mercury salts are very toxic and their presence in the environment,\nespecially in water, should be monitored. Therefore, it is desirable to ascertain the limit of\nmercury present in water and wastewater. In the preparation of this standard, considerable\nassistance has been derived from Standard Methods for Examination of Water and Wastewater,\n16th Edition, 1985.",
+          "bbox": [
+            70.72,
+            198.61,
+            524.4,
+            252.61
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The technical committee responsible for formulation of IS 2488 and IS 3025 : 1964 decided to\nrevise all the parts covered under them and publish as separate parts.",
+          "bbox": [
+            70.72,
+            257.65,
+            524.21,
+            278.53
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard supersedes  13  of IS 2488 (Part 2) : 1968 Methods of sampling and test for industrial\neffluents Part 2.",
+          "bbox": [
+            70.72,
+            283.53,
+            524.29,
+            304.57
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The composition of the technical committee responsible for the formulation of this Indian Standard\nis given in Annex A.",
+          "bbox": [
+            70.72,
+            309.61,
+            524.32,
+            330.6
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (October 2000). Side bar indicates modification of\nthe text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            335.64,
+            524.29,
+            356.52
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In reporting the result of a test or analysis made in accordance with this standard, if the final\nvalue, observed or calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960\n\u2018Rules for rounding off numerical values (  revised  )\u2019.",
+          "bbox": [
+            70.72,
+            361.56,
+            524.22,
+            393.7
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.3,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            83.0,
+            368.3,
+            101.0
+          ],
+          "block_id": "b3_2",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST\n(PHYSICAL AND CHEMICAL) FOR WATER\nAND WASTEWATER",
+          "bbox": [
+            85.96,
+            114.74,
+            514.53,
+            178.7
+          ],
+          "block_id": "b3_3",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 48\nMERCURY\n( First Revision )",
+          "bbox": [
+            228.52,
+            188.85,
+            366.42,
+            227.48
+          ],
+          "block_id": "b3_4",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            70.72,
+            247.41,
+            117.28,
+            257.37
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5 COLD VAPOUR ATOMIC ABSORPTION\nSPECTROMETRY",
+          "bbox": [
+            304.6,
+            247.41,
+            523.45,
+            268.89
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard prescribes two methods for the\ndetermination\nof mercury\nin water and\nwastewater.",
+          "bbox": [
+            70.72,
+            264.97,
+            290.4,
+            296.89
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1 Principle",
+          "bbox": [
+            304.6,
+            278.37,
+            370.21,
+            288.33
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The flameless atomic absorption procedure is a\nphysical method based on the absorption of\nradiation at 253.7 nm by mercury vapour. The\nmercury is reduced to the elemental state and\naerated from solution in a closed system. The\nmercury\nvapour\npasses\nthrough\na\ncell\npositioned in the light path of mercury hallow\ncathode\nlamp\nof\nan\natomic\nabsorption\nspectrophotometer. Absorbance (peak height) is\nmeasured\nas\na\nfunction\nof\nmercury\nconcentration and recorded.",
+          "bbox": [
+            304.6,
+            297.97,
+            524.38,
+            417.85
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Cold vapour atomic absorption spectro-\nphotometric method, and",
+          "bbox": [
+            83.08,
+            302.89,
+            290.39,
+            323.89
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Calorimetric dithizone method.",
+          "bbox": [
+            83.08,
+            328.93,
+            238.96,
+            338.89
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            70.72,
+            349.89,
+            155.98,
+            359.85
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following Indian Standards are necessary\nadjuncts to this standard:",
+          "bbox": [
+            70.72,
+            367.45,
+            290.39,
+            388.33
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle",
+          "bbox": [
+            94.24,
+            396.46,
+            229.58,
+            406.42
+          ],
+          "block_id": "b3_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7022 (Part 1) :\n1973\nGlossary of terms relating to\nwater, sewage and industrial\neffluents, Part 1",
+          "bbox": [
+            70.72,
+            415.44,
+            290.45,
+            447.36
+          ],
+          "block_id": "b3_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The\ncold\nvapour\natomic\nabsorption\nspectrophotometric method is suitable for all\ntypes of samples such as natural waters,\npotable\nwaters,\ndomestic\nand\nindustrial\nwastewaters. Lower detection limit of 0.2  \u00b5 g/l\nmay be achieved.",
+          "bbox": [
+            304.6,
+            426.97,
+            524.38,
+            491.89
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7022 (Part 2) :\n1979\nGlossary of terms relating to\nwater, sewage and industrial\neffluents, Part 2",
+          "bbox": [
+            70.72,
+            453.48,
+            290.45,
+            485.4
+          ],
+          "block_id": "b3_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 TERMINOLOGY",
+          "bbox": [
+            70.72,
+            499.41,
+            164.32,
+            509.37
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2 Apparatus",
+          "bbox": [
+            304.6,
+            500.85,
+            376.18,
+            510.81
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of this standard, definitions\ngiven in IS 7022 (Part 1) : 1973 and IS 7022\n(Part 2) : 1979 shall apply.",
+          "bbox": [
+            70.72,
+            516.97,
+            290.53,
+            548.89
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.1  Atomic Absorption Spectrometer  (  AAS  )\nand Associated Equipment",
+          "bbox": [
+            304.6,
+            520.41,
+            524.28,
+            541.54
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Instrument settings recommended by the\nmanufacturer shall be followed. Instruments\ndesigned specifically for the measurement of\nmercury using the cold vapour technique may\nbe substituted for the AAS.",
+          "bbox": [
+            304.6,
+            550.45,
+            524.3,
+            604.45
+          ],
+          "block_id": "b3_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4 SAMPLE PRESERVATION",
+          "bbox": [
+            70.72,
+            561.93,
+            217.87,
+            571.89
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The sampling bottles should be cleaned\nthoroughly with dilute nitric acid (6 N) prior to\nfinal rinsing with water. The water samples\nshould be collected and stored preferably in\npolypropylene or chemically resistant glass\ncontainers. For preservation, the sample should\nbe acidified with concentrated nitric acid (2 ml\nof AR grade nitric acid in one litre of the sample\njust to bring down the  p H below 2). For\ndissolved mercury, filter the sample in the field\nand acidify the filtrate with nitric acid to a  p H\nof 2 or lower.",
+          "bbox": [
+            70.72,
+            579.48,
+            290.55,
+            710.4
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.2   Mercury Vapour Generation Assembly",
+          "bbox": [
+            304.6,
+            613.41,
+            504.74,
+            623.5
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Consists of an absorption cell, peristaltic pump,\nflow meter, aeration tubing and a drying tube\ncontaining magnesium perchlorate.",
+          "bbox": [
+            304.6,
+            632.41,
+            524.23,
+            664.44
+          ],
+          "block_id": "b3_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.3   Mercury Hollow Cathode Lamp",
+          "bbox": [
+            304.6,
+            673.41,
+            474.67,
+            683.5
+          ],
+          "block_id": "b3_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2.4   Recorder  /  Printer  /  Display Meter",
+          "bbox": [
+            304.6,
+            692.37,
+            484.71,
+            702.46
+          ],
+          "block_id": "b3_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Any multi-range variable recorder that is\ncompatible with the UV detection system is\nsuitable.",
+          "bbox": [
+            304.6,
+            711.48,
+            524.28,
+            743.4
+          ],
+          "block_id": "b3_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Avoid excess nitric acid. Add 5 ml of 0.1 N\niodine solution to avoid losses of volatile organo mercury\ncomponents during handling and digestion of samples.",
+          "bbox": [
+            83.08,
+            716.71,
+            290.45,
+            742.63
+          ],
+          "block_id": "b3_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.52,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3 Reagents",
+          "bbox": [
+            70.72,
+            83.85,
+            135.82,
+            93.81
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "containing 10 ml of concentrated nitric acid per\nlitre. Prepare standards daily.",
+          "bbox": [
+            304.6,
+            83.89,
+            524.3,
+            104.89
+          ],
+          "block_id": "b4_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.1   Sulphuric Acid  \u2014 Concentrated.",
+          "bbox": [
+            70.72,
+            100.41,
+            246.93,
+            110.5
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Use mercury free distilled water for the\npreparation of reagents and standards.\n5.4 Procedure",
+          "bbox": [
+            304.6,
+            109.15,
+            524.31,
+            140.85
+          ],
+          "block_id": "b4_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.2   Nitric Acid  \u2014 Concentrated.",
+          "bbox": [
+            70.72,
+            116.37,
+            227.93,
+            126.46
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.3   Stannous Chloride Solution\nDissolve 25 g of stannous chloride (SnCl 2 ) in\nwater containing 50 ml of concentrated\nhydrochloric acid and dilute to 250 ml. If a\nsuspension forms, stir reagent continuously\nduring use.",
+          "bbox": [
+            70.72,
+            132.33,
+            290.43,
+            201.37
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.1   Instrument Operation\nFollow the procedure of the manufacturer\u2019s\noperating manual. Connect the mercury vapour\ngenerating assembly as shown in Fig. 1.",
+          "bbox": [
+            304.6,
+            146.37,
+            524.29,
+            193.33
+          ],
+          "block_id": "b4_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.2   Standardization\nTransfer 100 ml of each of the 1.0, 2.0 and 5.0\n\u00b5 g/l standard mercury solution and a blank of\n100 ml water to 300 ml BOD bottles. Add 5 ml\nof concentrated sulphuric acid and 2.5 ml of\nconcentrated nitric acid to each bottle. Add\n15 ml of potassium permanganate solution to\neach bottle and let stand for at least 15\nminutes. Add 8 ml of potassium persulphate\n(K 2 S 2 O 8 ) solution to each bottle and heat for 2\nhours in a water bath at 95\u00b0C. Cool and add 6\nml of sodium chloride-hydroxylamine sulphate\nsolution to reduce the excess permanganate.\nAfter decolourization add 5 ml of stannous\nchloride\nsolution\nand\nattach\nthe\nbottle\nimmediately to the aeration apparatus forming\na closed system. As mercury is volatilised and\ncarried into the absorption cell, absorbance will\nincrease to a maximum within a few seconds.\nAs soon as recorder returns approximately to\nthe base line, remove stopper holding the\naeration frit from the reaction bottle and\nreplace with a bottle containing distilled water.\nFlush the system for a few seconds and run the",
+          "bbox": [
+            304.6,
+            199.41,
+            524.4,
+            466.45
+          ],
+          "block_id": "b4_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.4  Sodium\nChloride\n\u2014\nHydroxylamine\nsulphate solution.",
+          "bbox": [
+            70.72,
+            207.33,
+            290.27,
+            228.37
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 12 g of sodium chloride and 12 g of\nhydroxylaminesulphate (NH 2 OH) 2 .H 2 SO 4  in\ndistilled water and dilute to 100 ml.",
+          "bbox": [
+            70.72,
+            233.41,
+            290.41,
+            265.33
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.5   Potassium Permanganate Solution\nDissolve 5 g of potassium permanganate in\ndistilled water and dilute to 100 ml.",
+          "bbox": [
+            70.72,
+            271.41,
+            290.43,
+            307.33
+          ],
+          "block_id": "b4_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.6   Potassium Persulphate Solution\nDissolve 5 g of potassium persulphate in\ndistilled water and dilute to 100 ml.",
+          "bbox": [
+            70.72,
+            313.41,
+            290.41,
+            349.33
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.7   Stock Mercury Solution\nDissolve 1.354 g of mercuric chloride in about\n700 ml of distilled water. Add 10 ml of\nconcentrated nitric acid and make up to 1 000\nml (1 ml = 1 mg Hg).",
+          "bbox": [
+            70.72,
+            355.41,
+            290.57,
+            413.41
+          ],
+          "block_id": "b4_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.8   Standard Mercury Solution\nPrepare a series of standard mercury solutions\ncontaining 0 to 5  \u00b5 g/l by appropriate dilution of\nstock mercury solution ( 5.3.7 ) with water",
+          "bbox": [
+            70.72,
+            419.37,
+            290.55,
+            466.45
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            153.52,
+            494.4,
+            440.56,
+            698.16
+          ],
+          "block_id": "img4_17"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 1\nS CHEMATIC  A RRANGEMENT   OF  E QUIPMENT   FOR  M EASUREMENT   OF  M ERCURY   BY\nC OLD  V APOUR  A TOMIC  A BSORPTION  T ECHNIQUE",
+          "bbox": [
+            97.84,
+            716.89,
+            497.14,
+            737.89
+          ],
+          "block_id": "b4_16",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_17",
+          "bbox": [
+            153.52,
+            494.4,
+            440.56,
+            698.16
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img4_17": 2
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.3,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.2   Stock Mercury Solution",
+          "bbox": [
+            304.6,
+            83.84,
+            438.22,
+            93.93
+          ],
+          "block_id": "b5_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "next standard in the same manner. Construct a\nstandard\ncalibration\ncurve\nby\nplotting\nabsorbance (peak height) versus mercury\nconcentration in  \u00b5 g.",
+          "bbox": [
+            70.72,
+            83.89,
+            290.44,
+            126.94
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 135.4 mg of mercuric chloride (HgCl 2 )\nin about 700 ml of distilled water, add 1.5 ml\nconcentrated nitric acid and make up to 1 000\nml with distilled water (1.0 ml = 100  \u00b5 g Hg).",
+          "bbox": [
+            304.6,
+            102.36,
+            524.34,
+            145.42
+          ],
+          "block_id": "b5_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.3   Analysis of Sample\nTransfer 100 ml of sample or portion diluted to\n100 ml containing not more than 5.0  \u00b5 g/l\nmercury to a 300 ml BOD bottle. Treat as\nin  5.4.2  samples containing high (sea waters,\nbrines and effluents high in chloride) chlorides\nrequire as much as an additional 25 ml\npotassium permanganate solution. During this\nstep, chloride is converted into free chlorine\nwhich is absorbed at 253.7 nm. Hence remove\nall free chlorine before the mercury is reduced\nand swept into the cell by using an excess (25\nml) of hydroxylamine sulphate solution.",
+          "bbox": [
+            70.72,
+            131.85,
+            290.5,
+            277.92
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.3   Standard Mercury Solution",
+          "bbox": [
+            304.6,
+            153.93,
+            457.4,
+            164.02
+          ],
+          "block_id": "b5_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dilute 10.0 ml of stock solution to 1 000 ml with\ndistilled water. Prepare freshly before use\n(1.00 ml = 1.00  \u00b5 g Hg).",
+          "bbox": [
+            304.6,
+            172.45,
+            524.27,
+            204.46
+          ],
+          "block_id": "b5_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.4   Potassium Permanganate Solution",
+          "bbox": [
+            304.6,
+            212.85,
+            490.06,
+            222.94
+          ],
+          "block_id": "b5_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 5 g of potassium permanganate in\n100 ml of distilled water.",
+          "bbox": [
+            304.6,
+            231.37,
+            524.32,
+            252.37
+          ],
+          "block_id": "b5_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.5   Potassium Persulphate Solution",
+          "bbox": [
+            304.6,
+            260.85,
+            477.82,
+            270.94
+          ],
+          "block_id": "b5_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 5 g of potassium persulphate (K 2 S 2 O 8 )\nin 100 ml distilled water.",
+          "bbox": [
+            304.6,
+            279.37,
+            524.28,
+            300.37
+          ],
+          "block_id": "b5_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5 Calculation",
+          "bbox": [
+            70.72,
+            284.85,
+            148.23,
+            294.81
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Determine peak height of sample from recorder\nchart and read mercury value from standard\ncurve.",
+          "bbox": [
+            70.72,
+            300.36,
+            290.44,
+            332.4
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.6   Hydroxylamine Hydrochloride Solution",
+          "bbox": [
+            304.6,
+            308.85,
+            511.47,
+            318.94
+          ],
+          "block_id": "b5_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 50 g of hydroxylamine hydrochloride\n(NH 2 OH.HCl) in 100 ml water.",
+          "bbox": [
+            304.6,
+            327.37,
+            524.33,
+            350.47
+          ],
+          "block_id": "b5_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 COLORIMETRIC DITHIZONE METHOD",
+          "bbox": [
+            70.72,
+            341.36,
+            288.32,
+            351.32
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.7   Dithizone Solution",
+          "bbox": [
+            304.6,
+            356.85,
+            416.17,
+            366.94
+          ],
+          "block_id": "b5_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1 Principle",
+          "bbox": [
+            70.72,
+            358.88,
+            136.33,
+            368.84
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mercury ions react with dithizone solution in\nchloroform to form an orange colour which is\nmeasured\nat\n490\nnm\nusing\na\nspectrophotometer. The colorimetric dithizone\nmethod is suitable for estimating higher levels\nof mercury in potable waters (more than 2  \u00b5 g/l)\nand has a minimum detection limit of 2  \u00b5 g/l.",
+          "bbox": [
+            70.72,
+            374.4,
+            290.53,
+            450.46
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dithizone is often contaminated with the\noxidation product diphenyl thiocarbodizone or\nwith metals. To purify dithizone dissolve\n100 mg of dithizone in 50 ml of chloroform in a\nbeaker and filter under slight vacuum using\nWhatman No. 42 or equivalent filter paper.\nWash beaker and filter paper with 5 ml\nportions of chloroform. Transfer the filtrate to\n500 ml separatory funnel. Add 100 ml of 1\npercent ammonium hydroxide and shake\nmoderately for\n1\nminute only. Transfer\nchloroform layer to 250 ml separatory funnel\nretaining orange-red aqueous layer in a 500 ml\nfunnel. Repeat extraction process keeping each\ntime chloroform layers separately in 250 ml\nseparatory funnels and using 1 percent a\nminimum hydroxide. After three extractions,\ntransfer aqueous layer to 500 ml funnel.\nDiscard chloroform layer.",
+          "bbox": [
+            304.6,
+            374.89,
+            524.38,
+            582.84
+          ],
+          "block_id": "b5_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 Interference",
+          "bbox": [
+            70.72,
+            457.4,
+            153.03,
+            467.36
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Copper, gold, palladium, divalent platinum and\nsilver react with dithizone in acid solution.\nCopper in the dithizone extract remains in the\norganic phase while the mercury dissolves in\nthe aqueous phase. The other contaminants\nusually\nare\nnot\npresent.\nThe\nmercury\ndithizonate being photosensitive should be\nmeasured quickly.",
+          "bbox": [
+            70.72,
+            472.92,
+            290.48,
+            559.92
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3 Apparatus",
+          "bbox": [
+            70.72,
+            566.84,
+            142.3,
+            576.8
+          ],
+          "block_id": "b5_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.1   Spectrophotometer\nFor use at 492 nm, providing a light path of\n1 cm or longer.",
+          "bbox": [
+            70.72,
+            582.44,
+            290.39,
+            618.36
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Combine all the extracts in a 500 ml separatory\nfunnel. Add 1 : 1 hydrochloric acid in 2 ml\nportions, mixing each time till dithizone\nprecipitates\ncompletely.\nAdd\n25\nml\nof\nchloroform, shake well and orange-red colour\nappears with three 25 ml portions chloroform.\nDilute the combined extract to 1 000 ml with\nchloroform; 1 000 ml = 100  \u00b5 g dithizone. Dilute\n60 ml of this solution with chloroform to 1 000\nml, (1 ml = 6  \u00b5 g dithizone).",
+          "bbox": [
+            304.6,
+            590.88,
+            524.34,
+            699.94
+          ],
+          "block_id": "b5_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2   Separating Funnels\n250 and 1 000 ml with PTFE stopcocks.",
+          "bbox": [
+            70.72,
+            623.36,
+            253.12,
+            648.36
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.3   Glassware\nClean\nall\nglassware\nwith\npotassium\ndichromate-sulphuric acid cleaning solution.",
+          "bbox": [
+            70.72,
+            653.36,
+            290.41,
+            689.4
+          ],
+          "block_id": "b5_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4 Reagents",
+          "bbox": [
+            70.72,
+            696.44,
+            135.83,
+            706.4
+          ],
+          "block_id": "b5_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.8   Sulphuric Acid  \u2014 0.25 N.",
+          "bbox": [
+            304.6,
+            708.44,
+            448.86,
+            718.54
+          ],
+          "block_id": "b5_30",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.1   Mercury Free Distilled Water\nUse redistilled or deionised distilled water for\npreparing all reagents and dilutions.",
+          "bbox": [
+            70.72,
+            711.92,
+            290.44,
+            747.84
+          ],
+          "block_id": "b5_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dilute 25 ml of 1 N sulphuric acid to 100 ml\nwith distilled water.",
+          "bbox": [
+            304.6,
+            726.48,
+            524.32,
+            747.36
+          ],
+          "block_id": "b5_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.52,
+            67.29
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.9   Potassium Bromide Solution\nDissolve 40 g of potassium bromide in 100 ml\ndistilled water.",
+          "bbox": [
+            70.72,
+            83.85,
+            290.46,
+            119.89
+          ],
+          "block_id": "b6_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "in the last dithizone extract is an intense blue\nas that of the original dithizone solution. Wash\naccumulated dithizone extracts in the 250 ml\nseparating funnel by shaking with 50 ml of 0.25\nN sulphuric acid. Transfer washed dithizonate\nextract to another 250 ml separating funnel.\nAdd 50 ml of 0.25 N sulphuric acid and 10 ml of\npotassium\nbromide\nsolution\nand\nshake\nvigorously to transfer mercury dithizonate from\norganic layer to aqueous layer. Discard\ndithizone layer. Wash aqueous layer with a\nsmall volume of chloroform and discard the\nchloroform. Transfer 20 ml of phosphate\ncarbonate buffer solution to each separating\nfunnel and 10 ml standard dithizone solution.\nShake vigorously and after separation, transfer\nthe mercury dithizone chloroform layer to\nbeakers. Dry contents with anhydrous sodium\nsulphate.\nTransfer\nmercury\ndithizonate\nsolution to a cuvette and record absorbance at\n492 nm. Plot absorbance versus mercury\nconcentration in  \u00b5 g.",
+          "bbox": [
+            304.6,
+            83.89,
+            524.35,
+            324.94
+          ],
+          "block_id": "b6_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.10   Chloroform\n6.4.11  Phosphate-Carbonate Buffer Solution  \u2014\nDissolve 150 g of Na 2 HPO 4 .12H 2 O and 38 g of\nanhydrous potassium carbonate (K 2 CO 3 ) in\n1 litre of distilled water. Extract with 10 ml\nportions of dithizone until the last portion\nremains blue. Wash with chloroform to remove\nexcess dithizone.",
+          "bbox": [
+            70.72,
+            124.89,
+            290.46,
+            215.89
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.12   Sodium Sulphate  \u2014 Anhydrous.",
+          "bbox": [
+            70.72,
+            220.89,
+            251.53,
+            230.98
+          ],
+          "block_id": "b6_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.5 Procedure",
+          "bbox": [
+            70.72,
+            235.89,
+            142.44,
+            245.85
+          ],
+          "block_id": "b6_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.5.1   Preparation of Calibration Curve\nPipette 0 (blank), 2.0, 4.0, 6.0, 8.0 and 10.0 ml\nof mercury standard solutions into separate\nbeakers. To each beaker, add 500 ml of distilled\nwater or that volume chosen for sample, 1 ml of\npotassium permanganate solution and 10 ml of\nconcentrated sulphuric acid solution. Stir and\nboil\nif\nnecessary,\nadd\nmore\npotassium\npermanganate until a pink colour persists.\nAfter boiling has ceased continuously add 5 ml\nof potassium persulphate (K 2 S 2 O 8 ) solution\nand let cool for 30 minutes. Add a few drops of\nhydroxylamine\nhydrochloride\n(NH 2 OH.HCl)\nsolution to discharge the pink colour. Cool and\ntransfer each solution to individual 1 litre\nseparating funnels. Add 25 ml of dithizone\nsolution.\nShake\nthe\nseparating\nfunnel\nvigorously and transfer each organic layer to\n250\nml\nseparating\nfunnel.\nRepeat\nthis\nextraction with 10 ml chloroform solution\natleast three times making sure that the colour",
+          "bbox": [
+            70.72,
+            251.37,
+            290.48,
+            485.41
+          ],
+          "block_id": "b6_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.5.2   Analysis of Samples",
+          "bbox": [
+            304.6,
+            331.88,
+            422.65,
+            341.98
+          ],
+          "block_id": "b6_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Use 500 ml of sample and prepare an\nabsorbance blank consisting of all reagents.\nWhen necessary, filter sample through glass\nwool into the separating funnel after oxidation\nstep. Complete procedure as described in  6.5.1 .",
+          "bbox": [
+            304.6,
+            347.88,
+            524.33,
+            401.88
+          ],
+          "block_id": "b6_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.6 Calculation",
+          "bbox": [
+            304.6,
+            408.92,
+            382.09,
+            418.88
+          ],
+          "block_id": "b6_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.6.1  Read mercury from calibration curve.",
+          "bbox": [
+            304.6,
+            425.36,
+            503.15,
+            435.36
+          ],
+          "block_id": "b6_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.6.2  After\nobtaining\nthe\nabove\nvalue,\ndepending upon the volume chosen for analysis,\ncalculate for 1 000 ml and report result in\n\u00b5 g/l Hg.",
+          "bbox": [
+            304.6,
+            442.4,
+            524.37,
+            485.49
+          ],
+          "block_id": "b6_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.3,
+            67.29
+          ],
+          "block_id": "b7_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n(  Foreword  )\nCOMMITTEE COMPOSITION",
+          "bbox": [
+            220.6,
+            83.61,
+            374.46,
+            123.81
+          ],
+          "block_id": "b7_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Environmental Protection Sectional Committee, CHD 012",
+          "bbox": [
+            163.72,
+            129.97,
+            431.35,
+            139.93
+          ],
+          "block_id": "b7_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Chairman\nRepresenting",
+          "bbox": [
+            127.48,
+            147.19,
+            401.86,
+            155.11
+          ],
+          "block_id": "b7_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  D. K. B ISWAS\nCentral Pollution Control Board, Delhi",
+          "bbox": [
+            70.72,
+            162.19,
+            412.69,
+            170.11
+          ],
+          "block_id": "b7_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            127.48,
+            177.19,
+            160.76,
+            185.11
+          ],
+          "block_id": "b7_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  K. R. R ANGANATHAN  (  Alternate to\nProf D. K. Biswas )",
+          "bbox": [
+            83.08,
+            192.19,
+            221.68,
+            209.11
+          ],
+          "block_id": "b7_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A DVISER  (PHE)\nA DDL  A DVISER  (PHE) (  Alternate  )\nMinistry of Rural Development",
+          "bbox": [
+            70.72,
+            213.19,
+            384.5,
+            230.11
+          ],
+          "block_id": "b7_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B. C. A GARWALA\nS HRI  S. B ALAGURUNATHAN  (  Alternate  I )\nS HRI  A. K. G UPTA  (  Alternate  II )",
+          "bbox": [
+            70.72,
+            234.19,
+            232.48,
+            260.11
+          ],
+          "block_id": "b7_9",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Bharat Heavy Electricals Ltd, Hyderabad",
+          "bbox": [
+            269.2,
+            234.19,
+            423.47,
+            242.11
+          ],
+          "block_id": "b7_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  A. L. A GGARWAL",
+          "bbox": [
+            70.72,
+            264.19,
+            143.83,
+            272.11
+          ],
+          "block_id": "b7_11",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "National environmental Engineering Research Institute (CSIR),\nNagpur",
+          "bbox": [
+            269.2,
+            264.19,
+            524.22,
+            281.11
+          ],
+          "block_id": "b7_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  T. C HAKRABARTI  (  Alternate  )",
+          "bbox": [
+            83.08,
+            282.19,
+            202.6,
+            290.11
+          ],
+          "block_id": "b7_12",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  A. A LAM\nIndian Council of Agricultural Research, New Delhi",
+          "bbox": [
+            70.72,
+            294.19,
+            460.46,
+            302.11
+          ],
+          "block_id": "b7_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. C. A HLUWALIA\nS HRI  A. D. A GNIHOTRI  (  Alternate  )\nNational Council for Cement & Building Materials, New Delhi",
+          "bbox": [
+            70.72,
+            306.19,
+            500.1,
+            323.11
+          ],
+          "block_id": "b7_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. K. B ANERJEE\nS HRI  P. K. M AIR  (  Alternate  )\nShriram Institute for Industrial Research, Delhi",
+          "bbox": [
+            70.72,
+            327.19,
+            447.92,
+            344.11
+          ],
+          "block_id": "b7_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  B. B ASU\nD R  S. M UKHERJEE  (  Alternate  )\nNational Thermal Power Corporation Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            348.19,
+            466.4,
+            365.11
+          ],
+          "block_id": "b7_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  V. S. B HATNAGAR\nD R  M. S. N. S RINIVAS  (  Alternate  )\nCentral Scientific Instruments Organization (CSIR), Chandigarh",
+          "bbox": [
+            70.72,
+            369.19,
+            509.53,
+            386.11
+          ],
+          "block_id": "b7_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. C HAKRAVORTI",
+          "bbox": [
+            70.72,
+            390.19,
+            151.07,
+            398.11
+          ],
+          "block_id": "b7_19",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Directorate General Factory Advice Service & Labour Institutes,\nBombay",
+          "bbox": [
+            269.2,
+            390.19,
+            524.16,
+            407.11
+          ],
+          "block_id": "b7_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  M. H. F ULEKAR  (  Alternate  )",
+          "bbox": [
+            83.08,
+            408.19,
+            198.88,
+            416.11
+          ],
+          "block_id": "b7_20",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. D AS\nS HRI  M. K. P RABHUDESAI  (  Alternate  )\nIndian Petrochemicals Corporation Ltd, Vadodara",
+          "bbox": [
+            70.72,
+            420.19,
+            454.4,
+            437.11
+          ],
+          "block_id": "b7_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  V. S. G UPTA\nS HRI  D. N. P. S INGH  (  Alternate  )\nNational Test House, Calcutta",
+          "bbox": [
+            70.72,
+            441.19,
+            381.8,
+            458.11
+          ],
+          "block_id": "b7_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  H ARISH  C HANDRA\nIndustrial Toxicology Research Centre (CSIR), Lucknow",
+          "bbox": [
+            70.72,
+            462.19,
+            476.71,
+            470.11
+          ],
+          "block_id": "b7_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  B. K. J AIN\nD R  (M S ) B. S WAMINATHAN  (  Alternate  )\nThe Fertilizer Association of India, New Delhi",
+          "bbox": [
+            70.72,
+            474.19,
+            439.31,
+            491.11
+          ],
+          "block_id": "b7_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. K. G UREJA\nD R  A. K. W AGLE  (  Alternate  )\nThermax Ltd, Pune",
+          "bbox": [
+            70.72,
+            495.19,
+            341.54,
+            512.11
+          ],
+          "block_id": "b7_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. L AHIRI\nS HRI  B. B. D AVE  (  Alternate  )\nHindustan Lever Ltd, Bombay",
+          "bbox": [
+            70.72,
+            516.19,
+            382.06,
+            533.11
+          ],
+          "block_id": "b7_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  W. M ADHAVAKRISHNA\nS HRI  S. R AJAMANI  (  Alternate  )\nCentral Leather Research Institute (CSIR), Madras",
+          "bbox": [
+            70.72,
+            537.19,
+            460.07,
+            554.11
+          ],
+          "block_id": "b7_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. K. M AIRA\nS HRI  A. S AHA  (  Alternate  )\nFlakt India Ltd, Calcutta",
+          "bbox": [
+            70.72,
+            558.19,
+            362.8,
+            575.11
+          ],
+          "block_id": "b7_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. K. M ALHOTRA\nS HRI  S. K. J AIN  (  Alternate  )\nIndian Oil Corporation Ltd (R & D Centre), Faridabad",
+          "bbox": [
+            70.72,
+            579.19,
+            469.95,
+            596.11
+          ],
+          "block_id": "b7_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. N. K ALE\nS HRI  V. S. M AHAJAN  (  Alternate  )\nMunicipal Corporation of Greater Bombay",
+          "bbox": [
+            70.72,
+            600.19,
+            425.51,
+            617.11
+          ],
+          "block_id": "b7_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. K. M ATHUR\nBhabha Atomic Research Centre (IGCAR), Kalpakkam (TN)",
+          "bbox": [
+            70.72,
+            621.19,
+            491.45,
+            629.11
+          ],
+          "block_id": "b7_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. M. M ODAK\nP ROF  H. V EERAMANI  (  Alternate  )\nIndian Institute of Technology, Bombay",
+          "bbox": [
+            70.72,
+            633.19,
+            415.88,
+            650.11
+          ],
+          "block_id": "b7_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. P. N YATI\nS HRI  L. P ANEERSELVAM  (  Alternate  )\nNational Productivity Council, New Delhi",
+          "bbox": [
+            70.72,
+            654.19,
+            423.49,
+            671.11
+          ],
+          "block_id": "b7_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  B. P ADMANABHAMURTHY\nJawaharlal Nehru University, New Delhi",
+          "bbox": [
+            70.72,
+            675.19,
+            422.29,
+            683.11
+          ],
+          "block_id": "b7_35",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  T. S. P ATEL\nS HRI  C. V. R AIYANI  (  Alternate  )\nNational Institute of Occupational Health (ICMR), Ahmadabad",
+          "bbox": [
+            70.72,
+            687.19,
+            503.05,
+            704.11
+          ],
+          "block_id": "b7_36",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  V. V. R AO\nD R  M. A TCHAYYA  (  Alternate  )\nDharmsi Morarji Chemical Co Ltd, Bombay",
+          "bbox": [
+            70.72,
+            708.19,
+            430.53,
+            725.11
+          ],
+          "block_id": "b7_37",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(  Continued on page  6 )",
+          "bbox": [
+            439.12,
+            734.23,
+            524.32,
+            742.15
+          ],
+          "block_id": "b7_38",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 48) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.52,
+            67.29
+          ],
+          "block_id": "b8_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Continued from page  5 )",
+          "bbox": [
+            70.72,
+            84.19,
+            164.32,
+            92.11
+          ],
+          "block_id": "b8_2",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members\nRepresenting",
+          "bbox": [
+            127.48,
+            96.19,
+            401.86,
+            104.11
+          ],
+          "block_id": "b8_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. S. R AMANATHAN\nPesticides Association of India, New Delhi\nS HRI  D. N. V. R AO\nS HRI  R. J. B UCH  (  Alternate  )\nTata Chemicals Ltd, Bombay",
+          "bbox": [
+            70.72,
+            108.55,
+            424.92,
+            134.71
+          ],
+          "block_id": "b8_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  S. R OUTH\nD R  J. C. N IJHAWAN  (  Alternate  )\nNational Test House, Calcutta",
+          "bbox": [
+            70.72,
+            136.15,
+            381.8,
+            153.07
+          ],
+          "block_id": "b8_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. R. S AMADDAR\nS HRI  P. K. S EN  (  Alternate  )\nCentral Mechanical Engg Research Institute (CSIR), Durgapur",
+          "bbox": [
+            70.72,
+            154.39,
+            502.64,
+            171.31
+          ],
+          "block_id": "b8_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. C. S HARMA\nS HRI  R. N. G UPTA  (  Alternate  )\nIndia Meteorological Department, New Delhi",
+          "bbox": [
+            70.72,
+            172.75,
+            435.98,
+            189.67
+          ],
+          "block_id": "b8_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. P. S INGH\nS HRI  N. C. T IWARI  (  Alternate  )\nDirectorate General of Technical Development, New Delhi",
+          "bbox": [
+            70.72,
+            190.99,
+            484.36,
+            207.91
+          ],
+          "block_id": "b8_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. S UBBA  R AO\nD R  T. C HANDINI  (  Alternate  )\nMinistry of Environment & Forests",
+          "bbox": [
+            70.72,
+            209.35,
+            399.72,
+            226.27
+          ],
+          "block_id": "b8_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. M. S UNDARAM\nS HRI  C. K RISHNA  R AO  (  Alternate  )\nNational Malaria Eradication Programme (DGHS), Delhi",
+          "bbox": [
+            70.72,
+            227.59,
+            480.86,
+            244.51
+          ],
+          "block_id": "b8_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S URENDER  K UMAR\nS HRI  R. P ARTHASARTHY  (  Alternate  )\nIndian Chemical Manufacturers Association, New Delhi",
+          "bbox": [
+            70.72,
+            245.95,
+            476.19,
+            262.87
+          ],
+          "block_id": "b8_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPERINTENDING  E NGINEER\nE XECUTIVE  E NGINEER  (  Alternate  )\nPanchayat Raj Department, Government of Andhra Pradesh,\nHyderabad\nS HRI  J. M. T ULI\nS HRI  S. N. C HAKRABARTI  (  Alternate  )\nEngineers India Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            264.19,
+            524.27,
+            299.47
+          ],
+          "block_id": "b8_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  R. K. S INGH ,\nDirector (Chem)\nDirector General, BIS (  Ex-officio Member  )",
+          "bbox": [
+            70.72,
+            300.79,
+            428.56,
+            317.71
+          ],
+          "block_id": "b8_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Member Secretary\nS HRI  T. R ANGASAMY\nJoint Director (Chem), BIS",
+          "bbox": [
+            247.72,
+            322.15,
+            347.16,
+            348.07
+          ],
+          "block_id": "b8_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Water Environment Subcommittee, CHD 012 : 01",
+          "bbox": [
+            182.8,
+            359.17,
+            412.26,
+            369.13
+          ],
+          "block_id": "b8_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Convener",
+          "bbox": [
+            127.48,
+            373.75,
+            161.72,
+            381.67
+          ],
+          "block_id": "b8_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  Y. P. K AKAR\nMinistry of Environment & Forests",
+          "bbox": [
+            70.72,
+            385.99,
+            399.72,
+            393.91
+          ],
+          "block_id": "b8_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            127.48,
+            398.35,
+            160.76,
+            406.27
+          ],
+          "block_id": "b8_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B. C. A GARWALA\nS HRI  A. K. G UPTA  (  Alternate  )\nBharat Heavy Electricals Ltd, Hyderabad",
+          "bbox": [
+            70.72,
+            410.59,
+            423.47,
+            427.51
+          ],
+          "block_id": "b8_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. B ASU\nS HRI  A. K. J INDAL  (  Alternate  )\nThermax Ltd, Pune",
+          "bbox": [
+            70.72,
+            428.95,
+            341.54,
+            445.87
+          ],
+          "block_id": "b8_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. S. D HINGRA\nS HRI  V. G. K. N AIR  (  Alternate  )\nShriram Institute for Industrial Research, Delhi",
+          "bbox": [
+            70.72,
+            447.19,
+            447.92,
+            464.11
+          ],
+          "block_id": "b8_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  E. K. J AYANARAYANAN\nS HRI  K. K. M ITTU  (  Alternate  )\nMohan Meakin Ltd, Mohan Nagar",
+          "bbox": [
+            70.72,
+            465.55,
+            396.19,
+            482.47
+          ],
+          "block_id": "b8_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. I SLAM\nCentral Pulp and Paper Research Institute, Saharanpur\nS HRI  F. L AL  K ANSAL\nS HRI  S. S. S ANGHA  (  Alternate  )\nPunjab Pollution Control Board, Patiala",
+          "bbox": [
+            70.72,
+            483.79,
+            477.31,
+            510.07
+          ],
+          "block_id": "b8_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  D. D. K UMTA\nD R  K. C. P ATHAK  (  Alternate  )\nTata Chemicals Ltd, Bombay",
+          "bbox": [
+            70.72,
+            511.39,
+            377.03,
+            528.31
+          ],
+          "block_id": "b8_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  K. J. N ATH\nP ROF  A. K. A DHYA  (  Alternate  )\nAll India Institute of Hygiene & Public Health, Calcutta",
+          "bbox": [
+            70.72,
+            529.75,
+            476.72,
+            546.67
+          ],
+          "block_id": "b8_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  R. N ATH\nD R  S. R ATAN  (  Alternate  )\nBanaras Hindu University, Varanasi",
+          "bbox": [
+            70.72,
+            547.99,
+            405.98,
+            564.91
+          ],
+          "block_id": "b8_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  S. R. P ANDE",
+          "bbox": [
+            70.72,
+            566.35,
+            128.23,
+            574.27
+          ],
+          "block_id": "b8_27",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "National environment Engineering Research Institute (CSIR),\nNagpur",
+          "bbox": [
+            269.2,
+            566.35,
+            524.25,
+            583.27
+          ],
+          "block_id": "b8_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  M. V. N ANOTI  (  Alternate  )",
+          "bbox": [
+            83.08,
+            584.35,
+            192.52,
+            592.27
+          ],
+          "block_id": "b8_28",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. M. P HIRKE",
+          "bbox": [
+            70.72,
+            593.59,
+            133.03,
+            601.51
+          ],
+          "block_id": "b8_30",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "National environment Engineering Research Institute (CSIR),\nNagpur",
+          "bbox": [
+            269.2,
+            593.59,
+            524.25,
+            610.51
+          ],
+          "block_id": "b8_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  S. R. J OSHI  (  Alternate  )",
+          "bbox": [
+            83.08,
+            611.59,
+            183.28,
+            619.51
+          ],
+          "block_id": "b8_31",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. P RAKASH\nS HRI  S. S. R AMRAKHYANI  (  Alternate  )\nDelhi Water Supply & Sewage Disposal Undertaking, New Delhi",
+          "bbox": [
+            70.72,
+            620.95,
+            508.85,
+            637.87
+          ],
+          "block_id": "b8_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. V. R AO\nS HRI  D. K. K AUSHIK  (  Alternate  )\nCentral Water Commission, New Delhi",
+          "bbox": [
+            70.72,
+            639.19,
+            413.65,
+            656.11
+          ],
+          "block_id": "b8_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R EPRESENTATIVE\nMinistry of Rural Development\nR EPRESENTATIVE\nU. P. Jal Nigam, Lucknow\nD R  B. S ENGUPTA\nD R  R. C. T RIVEDI  (  Alternate  )\nCentral Pollution Control Board, Delhi",
+          "bbox": [
+            70.72,
+            657.55,
+            412.69,
+            693.07
+          ],
+          "block_id": "b8_35",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPERINTENDING  E NGINEER",
+          "bbox": [
+            70.72,
+            694.39,
+            173.95,
+            702.31
+          ],
+          "block_id": "b8_36",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Panchayat Raj Department, Government of Andhra Pradesh,\nHyderabad",
+          "bbox": [
+            269.2,
+            694.39,
+            524.27,
+            711.31
+          ],
+          "block_id": "b8_38",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "E XECUTIVE  E NGINEER  (  Alternate  )",
+          "bbox": [
+            83.08,
+            712.39,
+            209.8,
+            720.31
+          ],
+          "block_id": "b8_37",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. R. T AMTA\nS HRI  K. R AJAGOPALAN  (  Alternate  )\nCentral Ground Water Board, New Delhi",
+          "bbox": [
+            70.72,
+            721.75,
+            421.08,
+            738.67
+          ],
+          "block_id": "b8_39",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. N. V ISWANATHAN\nIndustrial Toxicology Research Centre (CSIR), Lucknow",
+          "bbox": [
+            70.72,
+            739.99,
+            476.71,
+            747.91
+          ],
+          "block_id": "b8_40",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b9_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.28,
+            524.37,
+            116.33
+          ],
+          "block_id": "b9_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b9_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.81,
+            524.33,
+            182.81
+          ],
+          "block_id": "b9_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b9_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.29,
+            524.42,
+            259.37
+          ],
+          "block_id": "b9_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. CHD 012 (0171).",
+          "bbox": [
+            70.72,
+            267.29,
+            377.19,
+            276.29
+          ],
+          "block_id": "b9_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b9_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nOctober 2000",
+          "bbox": [
+            70.72,
+            331.37,
+            276.83,
+            340.37
+          ],
+          "block_id": "b9_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b9_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.41,
+            131.08,
+            543.41
+          ],
+          "block_id": "b9_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.33,
+            524.32,
+            570.41
+          ],
+          "block_id": "b9_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.33,
+            524.38,
+            587.33
+          ],
+          "block_id": "b9_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            477.88,
+            593.57,
+            481.32,
+            614.64
+          ],
+          "block_id": "b9_20",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.37,
+            524.28,
+            614.33
+          ],
+          "block_id": "b9_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            620.57,
+            438.58,
+            641.64
+          ],
+          "block_id": "b9_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.37,
+            524.29,
+            641.33
+          ],
+          "block_id": "b9_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            484.6,
+            648.53,
+            488.04,
+            669.6
+          ],
+          "block_id": "b9_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.37,
+            524.17,
+            668.33
+          ],
+          "block_id": "b9_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            675.53,
+            438.58,
+            696.6
+          ],
+          "block_id": "b9_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.37,
+            524.29,
+            695.33
+          ],
+          "block_id": "b9_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            701.57,
+            438.58,
+            722.64
+          ],
+          "block_id": "b9_24",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.37,
+            524.29,
+            722.33
+          ],
+          "block_id": "b9_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.37,
+            521.28,
+            772.37
+          ],
+          "block_id": "b9_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "(AGG AAS ON)\ndll Ts dll\nall dieal of dla\ntas 4\nBd Hdfales Aol of Art 4 (alll Gol silat\nSMAANA silos |",
+      "position": {
+        "x0": 86.8,
+        "y0": 120.36,
+        "x1": 506.32,
+        "y1": 261.6,
+        "width": 419.52,
+        "height": 141.24
+      },
+      "size": {
+        "width": 3496,
+        "height": 1177
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "iw\u201d BOD BOLITE WEBCNBA VB2OKBINVC WEDIN .\n\n2vNbFE 20rn.i0Hn C2KNBBEB COMLVIMINe Vv .\n\n| BNBBrEb |\naS \u2018oa VV DELECLOS\n\nan \u2014 a\nES. | CVLHODE [VNb INS,\nso a ies KECOKDEL | HOrrOM ae\n\nDEZICCYML | ; |\nDIK bNNb",
+      "position": {
+        "x0": 153.52,
+        "y0": 494.4,
+        "x1": 440.56,
+        "y1": 698.16,
+        "width": 287.04,
+        "height": 203.76
+      },
+      "size": {
+        "width": 2392,
+        "height": 1698
+      },
+      "format": "png"
+    }
+  ]
+}

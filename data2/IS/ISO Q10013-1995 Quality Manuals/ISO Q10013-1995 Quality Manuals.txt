@@ -1,0 +1,988 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<IMAGE_1>>
+[Image 1 contains text: ASa@Cc @10013 1 0759506 oooLs2a 364 7
+ANSI/ISO/ASQC Q10013-1995
+AMERICAN NATIONAL STANDARD
+Guidelines for Developing Quality Manuals
+AMERICAN SOCIETY FOR QUALITY CONTROL
+611 EAST WISCONSIN AVENUE
+MILWAUKEE, WISCONSIN 53202]
+<<PARAGRAPH>>~~<<PARAGRAPH_END>>
+<<HEADING level=3>>ASQC  Q L O O L 3   95
+0759506  0001928  3b4<<HEADING_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC QI  001  3-1 995<<HEADING_END>>
+<<HEADING level=1>>AMERICAN NATIONAL STANDARD<<HEADING_END>>
+<<HEADING level=1>>Guidelines  for  Developing Quality Manuals<<HEADING_END>>
+<<HEADING level=1>>AMERICAN SOCIETY  FOR  QUALITY CONTROL
+61  1  EAST  WISCONSIN AVENUE
+MILWAUKEE, WISCONSIN  53202<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<IMAGE_2>>
+[Image 2 contains text: AS@C @10013 95 MM 075950b 0001529 eTO
+ANSI/ASO/ASQC Q10013-1995
+Guidelines for Developing Quality Manuals
+Prepared by
+American Society for Quality Control Standards Committee
+for
+American National Standards Committee Z-1 on Quality Assurance
+An American National Standard Approved on November 15, 1995
+American National Standards: An American National Standard implies a consensus of those substantially concerned with
+its scope and provisions. An American National Standard is intended as a guide to aid the manufacturer, the consumer,
+and the general public. The existence of an American National Standard does not in any respect preclude anyone, whether
+he or she has approved the standard or not, from manufacturing, purchasing, or using products, processes, or procedures
+not conforming to the standard. American National Standards are subject to periodic review and users are cautioned to
+obtain the latest edition.
+Caution Notice: This American National Standard may be revised or withdrawn at any time. The procedures of the
+American National Standards Institute require that action be taken to reaffirm, revise, or withdraw this standard no later
+than five years from the date of publication. Purchasers of American National Standards may receive current information
+on all standards by calling or writing the American National Standards Institute.]
+<<PARAGRAPH>>~<<PARAGRAPH_END>>
+<<HEADING level=3>>ASQC  Q10013  95  W  0759506  0001929  2TQ<<HEADING_END>>
+<<HEADING level=3>>ANSVISO/ASQC  Q10013-1995<<HEADING_END>>
+<<HEADING level=1>>AMERICAN NATIONAL STANDARD<<HEADING_END>>
+<<HEADING level=1>>Guidelines  for  Developing Quality Manuals<<HEADING_END>>
+<<HEADING level=1>>Prepared by
+American Society for Quality Control Standards Committee
+for
+American National Standards Committee  Z-  I  on Quality Assurance<<HEADING_END>>
+<<HEADING level=1>>An American National Standard Approved on November  15,  1995<<HEADING_END>>
+<<PARAGRAPH>>American National Standards:  An American National Standard implies a consensus  of  those substantially concerned with
+its scope and provisions.  An  American National Standard  is  intended as a guide to aid the manufacturer, the consumer,
+and the general public. The existence of an American National Standard does not in any respect preclude anyone, whether
+he or she has approved the standard or not, from manufacturing, purchasing, or using products, processes, or procedures
+not conforining to the standard. American National Standards are subject to periodic review and users are cautioned to
+obtain the latest edition.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Caution  Notice:  This  American National Standard may be revised or withdrawn at any time. The procedures of the
+American National Standards Institute require that action  be  taken to r e a ,  revise,  or  withdraw this standard no later
+than five years from the date  of  publication. Purchasers  of  American National Standards may receive current information
+on all standards by calling or writing the American National Standards Institute.<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ASQC  QI10013  95
+0759506  0001930  T12  H<<HEADING_END>>
+<<PARAGRAPH>>01995  by  ASQC
+All rights reserved.  No  part  of  this  book  may  be  reproduced  in  any  form  or by any means, electronic, mechanical, photo-
+copying, recording, or otherwise, without the prior written permission of the publisher.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASQC  Mission:  To  faciiitate continuous improvement and increase customer satisfaction by identifyjng, communicating,
+and promoting the  use  of  quality  principles, concepts, and technologies; and thereby be recognized throughout the world
+as  the  leading authority on, and champion for, quality.<<PARAGRAPH_END>>
+<<HEADING level=3>>10 9  8  7  6 5   4  3  2<<HEADING_END>>
+<<HEADING level=3>>Printed  in the United  States  of  America
+@)  Printed  on acid-free paper<<HEADING_END>>
+<<HEADING level=3>>Published by:
+ASQC
+611  East  WisconSin  Avenue
+Miìwaukee,  Wiionsin  53202<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ASQC  Q10013  95  m  0759506  0001931  959  m<<HEADING_END>>
+<<HEADING level=3>>ANSVISO/ASQC  410013-1995<<HEADING_END>>
+<<HEADING level=1>>Contents<<HEADING_END>>
+<<HEADING level=3>>Page<<HEADING_END>>
+<<PARAGRAPH>>1
+scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative reference  .............................................................
+1<<HEADING_END>>
+<<HEADING level=3>>3
+Definitions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1<<HEADING_END>>
+<<HEADING level=3>>4
+Documentation of quality systems  ....................................................
+1<<HEADING_END>>
+<<HEADING level=3>>5
+Process  of  preparing a quality manual  .................................................
+2<<HEADING_END>>
+<<HEADING level=3>>6
+Process of quality manual approval. issue. and control  ......................................
+3<<HEADING_END>>
+<<HEADING level=3>>7
+What  to  include in a quality manual  ..................................................
+4<<HEADING_END>>
+<<HEADING level=3>>Annexes
+A
+Typical quality system document hierarchy  .............................................
+6<<HEADING_END>>
+<<HEADING level=3>>B
+Exampie of  a  possible format for  a  section of a quality manual  ...............................
+7<<HEADING_END>>
+<<HEADING level=3>>C
+Example of a section  of  a quality manual  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8<<HEADING_END>>
+<<HEADING level=3>>D
+Bibliography  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10<<HEADING_END>>
+<<HEADING level=3>>...
+111<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<IMAGE_3>>
+[Image 3 contains text: AS@c 810013 9S MM 0759506 000193e 695
+Foreword
+(This foreword is not part of American National Standard ANSI/ISO/ASQC Q10013-1995, Guidelines for Developing
+Quality Manuals.)
+ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies ISO mem-
+ber bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each
+member body interested in a subject for which a technical committee has been established has the right to be represented
+on that committee. International organizations, governmental and nongovernmental, in liaison with ISO, also take part in
+the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of elec-
+trotechnical standardization.
+Draft International Standards adopted by the technical committees are circulated to the member bodies for voting. Publi-
+cation as an International Standard requires approval by at least 75% of the member bodies casting a vote.
+International Standard ISO 10013 was prepared by Technical Committee ISO/TC 176, Quality management and quality
+assurance, Subcommittee SC 3, Supporting technologies.
+The United States Technical Advisory Group (TAG) to ISO/TC 176 is active in all activities of this committee. It seeks to en-
+sure that all standards written by ISO/TC 176 are consistent with U.S. interests. This is done by representative membership
+on the U.S. TAG, by circulating drafts of proposed standards widely in the United States for comment, and by ensuring that
+these comments are considered by the appropriate ISO/TC 176 working group. By these means, most new or revised Inter-
+national Standards can be adopted readily as American National Standards. Although there are editorial changes to incorpo-
+rate American language usage and spelling, the American National Standards are equivalent to the corresponding ISO Stan-
+dards. To demonstrate this equivalence, the numerical designation of the American National Standards is the same numerical
+designation as the corresponding International Standard with a prefix such a Q, in this case Q10013.
+Annexes A, B, C, and D of this American National Standard are for information only.
+Comments concerning this standard are welcome and will be considered in future standards development and revision.
+They should be sent to the Standards Administrator, American Society for Quality Control, 611 East Wisconsin Avenue,
+P.O. Box 3005, Milwaukee, WI 53201-3005.
+Vv]
+<<PARAGRAPH>>~<<PARAGRAPH_END>>
+<<HEADING level=3>>ASQC  Q10013  95
+0757506 0001932  895<<HEADING_END>>
+<<HEADING level=1>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>(This  foreword is not part of American National Standard ANSI/ISO/ASQC Q10013-1995,  Guidelines for Developing
+Quality Manuals.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0  (the International Organization for Standardization) is a worldwide federation of national standards bodies (IS0 mem-
+ber bodies). The work of preparing International Standards is normally carried out through  IS0  technical committees. Each
+member body interested in a subject for which a technical committee has been established has the right to be represented
+on that committee. International organizations, governmental and nongovernmental, in liaison with ISO, also take part in
+the work.  IS0  collaborates closely with the International Electrotechnical Commission (IEC) on all matters of elec-
+trotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Draft  International Standards adopted by the technical committees  are  circulated to the member bodies for voting. Publi-
+cation as an International Standard requires approval by at least 75% of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standard IS0 10013 was prepared by Technical Committee ISORC 176,  Quality management and quality
+assurance,  Subcommittee SC 3,  Supporting technologies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The United States Technical Advisory Group (TAG) to ISORC 176 is active in  all  activities of  this  committee. It  seeks  to en-
+sure that all standards written by ISORC 176  are  consistent with U.S. interests.  This  is done by representative membership
+on the U.S. TAG, by circulating  drafts  of proposed standards widely in the United States for comment, and by ensuring that
+these comments are considered by the appropriate ISORC 176 working group.  By  these means, most new or revised Inter-
+national Standards can  be  adopted readily  as  American National Standards. Although there  are  editorial changes to incorpo-
+rate American language usage and spelling, the American National Standards are equivalent to the corresponding  IS0  Stan-
+dards. To demonstrate  this  equivalence, the numerical designation of the American National Standards is the same numerical
+designation  as  the corresponding International Standard with a prefix such a  Q,  in this case Q10013.<<PARAGRAPH_END>>
+<<HEADING level=3>>Annexes A,  B,  C, and  D  of  this  American National Standard  are  for information only.<<HEADING_END>>
+<<PARAGRAPH>>Comments concerning  this  standard are welcome and will be considered in future standards development and revision.
+They should be sent to the Standards Administrator, American Society for Quality Control,  61  1 East Wisconsin Avenue,
+P.O.  Box 3005, Milwaukee,  WI  53201-3005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>V<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>~<<PARAGRAPH_END>>
+<<HEADING level=3>>ASQC  Q10013  75
+0759506  0003933  721<<HEADING_END>>
+<<HEADING level=1>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>The  IS0  9000  family  of  International Standards includes requirements for quality systems which can be used to achieve
+common interpretation, development, implementation, and application of quality management and quality assurance.<<PARAGRAPH_END>>
+<<HEADING level=3>>The IS0  9000  family  of  Internationai Standards requires the development and implementation  of  documented quaiity  sys-
+tems, including the preparation  of  quality manuals.<<HEADING_END>>
+<<PARAGRAPH>>ANSMSOJASQC A8402-1994,  Quality Management and Quality Assurance-Vocabulary,
+defines a quality manual  as  a
+document stating the quality policy and describing the quality system of  an  organization.  This  may relate to an organiza-
+tion’s  total  activities or to  a  selected part  of  those activities; for example, specified requirements depending upon the nature
+of  products  or  services, processes, contractual requirements, governing regulations, or the organization itself.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is important that the requirements and content  of  the quality system and quality manual address the quality standard they
+are intended to satisfy.  This  American National Standard provides guidelines  for  developing such quality manuals.<<PARAGRAPH_END>>
+<<PARAGRAPH>>vii<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>ASQC  QI10013  95
+0759506  0003934  bb8<<HEADING_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC Q 1  O0  13- 1995<<HEADING_END>>
+<<HEADING level=2>>Guidelines  for  Developing  Quality  Manuals<<HEADING_END>>
+<<HEADING level=3>>1  SCOPE<<HEADING_END>>
+<<HEADING level=3>>4.1  Documented  quality  system  procedures<<HEADING_END>>
+<<PARAGRAPH>>This  American National Standard provides guidelines for
+the development, preparation, and control of quality man-
+uals tailored to the specific needs of the user. The resultant
+quality manuals will reflect documented quality system
+procedures required by the  IS0  9000 family of interna-
+tional Standards. Detailed work instructions, quality plans,
+brochures and other quaiity systems related documents are
+not covered by  this  American National Standard.  (See  an-
+nex A, level  C.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Documented quality system procedures should form the
+basic documentation used for the overall planning and ad-
+ministration  of  activities which impact  on  quality.  in  ac-
+cordance with the  IS0  9000  family, these documented
+procedures should cover all the applicable elements of the
+quality system standard. They should describe (to the de-
+gree  of  detail required for adequate control of the activities
+concerned) the responsibilities, authorities, and interrela-
+tionships of the personnel who manage, perform, verify, or
+review work afíecting quality, how the different activities
+are to  be  performed, the documentation to be used, and the
+controls to  be  applied.  (See  annex A.)<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE  1  This  American National Standard may be used
+to develop quality manuals relating to quality system stan-
+dards other than the  IS0  9000 family.<<HEADING_END>>
+<<HEADING level=3>>4.1.1  proceduralscope<<HEADING_END>>
+<<HEADING level=3>>2 NORMATIVEREFERENCE<<HEADING_END>>
+<<PARAGRAPH>>Each documented procedure should cover a logically sep
+arable part of the quality system, such  as  a complete qual-
+ity system element or part thereof, or a sequence of inter-
+related activities connected with more than one quality
+system element. The quantity  of  documented procedures,
+the volume of each, and the nature of their format and pre-
+sentation are to be determined by the user of  this  American
+National  Standar4  each usually reflects the complexity of
+the facility, organization, and nature of business. Docu-
+mented quality system procedures should not,  as  a rule,
+enter into purely technical details of the type normally
+documented in detailed work instructions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following standard contains provisions which,
+through reference in  this  text, constitute provisions of this
+American National Standard. At the time of publication,
+the edition indicated was valid. All standards are subject
+to revision, and parties to agreements based on  this  Amer-
+ican National Standard  are  encouraged to investigate the
+possibility of applying the most recent edition of the stan-
+dard indicated below. The American National Standards
+Institute and members of IEC and IS0 maintain registers
+of currently valid American National Standards and Inter-
+national Standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>ANSVISOIASQC A8402- 1994,  Quality  Management and
+Quality  Assuranc+Vocabulary.<<HEADING_END>>
+<<HEADING level=3>>4.1.2  Consistent  approach<<HEADING_END>>
+<<PARAGRAPH>>By arranging each documented procedure in the same
+structure and format, the users will become familiar with
+the consistent approach applied to each requirement and
+so  improve the likelihood of systematic compliance with
+the standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>3  DEFINITIONS<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of  this  American National Standard, the
+definitions given in ANSVISOASQC A8402-1994 apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>4 DOCUMENTATION  OF  QUALITY SYSTEMS<<HEADING_END>>
+<<HEADING level=3>>4.2 Quaiitymanuais<<HEADING_END>>
+<<PARAGRAPH>>Annex A describes a typical quality system documentation
+hierarchy. The order  of  development of  this  hierarchy  in  an
+individual organization  is  dependent on that organization's
+circumstances, but usually  starts  with development of the
+organization's quality policy and objectives.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A quality  manual  should consist of,  or  refer to, the docu-
+mented quality system pnxedures intended  for  the overaU
+planning and administration of activities which impact on
+quality within an organization. A quality manual should<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ASQC  QLOOL3  95  m  O759506  8003935  5 T 4   m<<HEADING_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC  410013-1995<<HEADING_END>>
+<<PARAGRAPH>>cover  ail  the applicable elements of the quality system  stan-
+dard required for an organization. It should describe,  in  ade-
+quate detail, the same control aspects mentioned  in  subclause
+4.1.  In  some situations, the related documented quality sys-
+tem procedures and  some  sections of the quality  manual  may
+be identical. However, some degree of tailoring is usuaUy  re-
+quired  to  ensure that only approfiate documented  proce-
+dures (or sections them0 are selected for the specific pur-
+poses  of the quality  manual  being developed. The contents of
+quaiity manuals  are  addressed  in  detail  in  clause  7.  Docu-
+mented procedures relateú  to  the quality system, not dealt
+with  in  the selected quality system  standad  but necessary for
+the adeqm control of the activities, should  be  added  to  the
+quality  manual  or  be  referenced  as  necessary.  (See  annex  B.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>One of the methods of assuring that the subject matter is
+adequately addressed and located would be to key the sec-
+tions of the quality manual to the quality elements of the
+governing quality system standard. Other approaches,
+such as structuring the manual to reflect the nature of the
+organization, are equally acceptable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE  3  For system clarity and assessment purposes,  the
+intentional omission of any quality system element from
+the quality manual compared to  the  governing quality sys-
+tem standard should  be  explained.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.3 Derivation  of  a quaüty manual<<HEADING_END>>
+<<HEADING level=3>>A  quality manual may:<<HEADING_END>>
+<<PARAGRAPH>>NOTE  2 Inclusion of proprietary information is at the
+discretion of the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) be a direct compilation of documented quality system<<PARAGRAPH_END>>
+<<PARAGRAPH>>procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)  be  a grouping or section of the documented quality sys-<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.1  Purposes  of  quaüty manuals<<HEADING_END>>
+<<PARAGRAPH>>tem procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Quality manuals may be developed and  used  by an organi-
+zation for purposes including, but not limited to, the fol-<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) be a series of documented procedures for specific facil-<<PARAGRAPH_END>>
+<<PARAGRAPH>>ities or applications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>lowing:<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) be more than one document or level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) communicating the organization’s quality policy, pro-<<PARAGRAPH_END>>
+<<PARAGRAPH>>cedures, and requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) have a common core with tailored appendices;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) describing and implementing an effective quality<<PARAGRAPH_END>>
+<<HEADING level=3>>f)  stand alone or otherwise;<<HEADING_END>>
+<<PARAGRAPH>>system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) have other numerous possible derivations based upon
+organizational need.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) providing improved control of practices and facilitating<<PARAGRAPH_END>>
+<<PARAGRAPH>>assurance activities;<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.4 Special applications  of  quality  manuals<<HEADING_END>>
+<<PARAGRAPH>>d) providing the documented bases for auditing the qual-
+ity system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The simple term “quality manual”  is  used  when the same
+manual is employed for both quality management and
+quality assurance purposes.  This  usage is the most com-
+mon application  of  a quality manual. However, in situa-
+tions where an organization believes that a distinction of
+content or usage is needed, it is essential that manuals de-
+scribing the same quality system are not in conflict.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) providing continuity of the quality system and its re-
+quirements during changing circumstances;<<PARAGRAPH_END>>
+<<HEADING level=3>>f)  training personnel in the quality system requirements
+and methods of compliance;<<HEADING_END>>
+<<HEADING level=3>>g)  presenting the quality system for external purposes, such
+as  demonstrating compliance with  ANSI/ISO/ASQC
+49001,49002, or  49003;<<HEADING_END>>
+<<PARAGRAPH>>Any quality manual should identify the management func-
+tions, address or reference the documented quality system
+and procedures, and briefly cover  all  the applicable re-
+quirements of the quality system standard selected by the
+organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) demonstrating compliance of the quality system with
+quality requirements in contractual situations.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.2  Structure  and  format<<HEADING_END>>
+<<HEADING level=3>>5  PROCESS  OF  P R E P m G   A  QUALITY  MANUAL<<HEADING_END>>
+<<PARAGRAPH>>Although there is no required structure  or  format for a
+quality manual, it should convey accurately, completely,
+and concisely the quality policy, objectives, and governing
+documented procedures of the organization (see clause  6).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1  Responsibility  for  preparation<<HEADING_END>>
+<<PARAGRAPH>>Once the management decision has been made to docu-
+ment a quality system in a quality manual,  the  actual<<PARAGRAPH_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=2>>A S Q C   Q10013  95  =  0759506  0003936  430  =<<HEADING_END>>
+<<PARAGRAPH>>~
+~
+-<<PARAGRAPH_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC  Q10013-1995<<HEADING_END>>
+<<HEADING level=3>>6 PROCESS  OF  QUALITY MANUAL APPROVAL,
+ISSUE,  AND  CONTROL<<HEADING_END>>
+<<PARAGRAPH>>process should begin with assignment of the coordination
+task to a management-delegated competent body, which
+may  be  an  individual  or  a group  of  individuals from one  or
+more functional organizations.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1  Final  review  and  approval<<HEADING_END>>
+<<PARAGRAPH>>Prior  to issuing  the  manual, the document should  be  sub-
+jected to review by responsible individuals to ensure clar-
+ity, accuracy, suitability, and proper structure. The in-
+tended users should  also  have the opportunity to assess and
+comment  on  the usability of the document. Release  of  the
+new quality manual should be approved by the manage-
+ment responsible for its implementation. Each copy should
+bear evidence of this release authorization. Electronic  or
+other methods of release  of  the manual are acceptable, if
+evidence of approval is retained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The actual writing activity should be performed and con-
+trolled from within the delegated competent body  or
+from within various individual functional units, as appro-
+priate. The use of existing documents and references can
+significantly shorten the quality manual development
+time, as weil as being an aid to identifying those areas
+where quality system inadequacies need to  be  addressed
+and corrected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The competent body may initiate the following actions as
+applicable:<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Distribution of the manual<<HEADING_END>>
+<<PARAGRAPH>>a) establish and list existing applicable quality system
+policies, objectives, and documented procedures, or de-
+velop plans for such;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The method of distribution of the authorized manual,
+whether  in  total or by sections, should provide assurance
+that all users have appropriate access. Proper distribution
+and control can be aided, for example, by serialization of
+copies for recipients. Management should ensure that indi-
+viduals are familiar with those contents  of  the manual ap-
+propriate to each user within the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) decide which quality system elements apply according
+to the quality system standard selected;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) obtain data about the existing quality system and
+practices by various means, such as questionnaires
+and interviews;<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Incorporation  of  changes<<HEADING_END>>
+<<PARAGRAPH>>d) request and obtain additional source documentation<<PARAGRAPH_END>>
+<<PARAGRAPH>>or references from operational units;<<PARAGRAPH_END>>
+<<PARAGRAPH>>A  method of providing  for  the initiation, development, re-
+view, control, and incorporation of changes to  the  manual
+should be provided. This task should  be  assigned to an ap-
+propriate document control function. The same review and
+approval process used in developing the basic manual
+should apply when processing changes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) determine the structure and format for the intended<<PARAGRAPH_END>>
+<<PARAGRAPH>>manual;<<PARAGRAPH_END>>
+<<PARAGRAPH>>I)  classi@ existing documents in accordance with the in-<<PARAGRAPH_END>>
+<<PARAGRAPH>>tended structure and format;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)  use any other method suitable within the organization
+to complete the quality manual  draft.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 h u e   and  change control<<HEADING_END>>
+<<PARAGRAPH>>Document issue and change control are essential to ensure
+that the content of the manual is properly authorized. The
+authorized content should be readily identifiable.  Various
+methods may  be  considered for facilitating the physical
+process of  making  changes.  To  ensure that each manual is
+kept up to date, a method is needed to assure that  all
+changes are received by each manual holder and incorpo-
+rated into each manual.  A  table of contents, a separate re-
+vision-status page,  or  other suitable means may  be  used to
+assure the users that they have the authorized manual.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Use  of  references<<HEADING_END>>
+<<PARAGRAPH>>Wherever appropriate, and to avoid unnecessary document
+volume, reference to existing recognized standards or doc-
+uments available to the quality manual user should be in-
+corporated.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3  Accuracy and completeness<<HEADING_END>>
+<<HEADING level=3>>The delegated competent body should be responsible  for
+assuring the accuracy and completeness  of  the quality
+manual  draft,  as well  as  for  the continuity and contents of
+the document.<<HEADING_END>>
+<<HEADING level=3>>6.5 Uncontroiìed copies<<HEADING_END>>
+<<PARAGRAPH>>For the purposes  of  proposals, customer off-site usage,
+and other distribution of the quality manual where change<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>A S Q C   Q3OOL3  95  m  075950b  0003937  377  m<<HEADING_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC  Ql  001  3-  1995<<HEADING_END>>
+<<HEADING level=3>>control is not intended,  all  such distributed manuals should
+be  clearly identified  as  uncontrolled copies.<<HEADING_END>>
+<<PARAGRAPH>>The minimum information about the organization should
+be its name, site, location, and means  of  communication.
+Additional information about the organization, such  as  its
+line of business, a brief description of its background,  his-
+tory, or size, may also  be  included.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE  4  Failure to provide assurance  of  this  process
+may cause unintended usage of obsolete documents.<<PARAGRAPH_END>>
+<<HEADING level=3>>7  WHAT  TO  INCLUDE IN  A  QUALITY  MANUAL<<HEADING_END>>
+<<PARAGRAPH>>The information about the quality manual itself should
+include:<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1  General<<HEADING_END>>
+<<PARAGRAPH>>a) the current issue or effectivity identification, date of
+issue, or effectivity and identification of amended
+contents;<<PARAGRAPH_END>>
+<<HEADING level=3>>A  quality manual should normally contain the following:<<HEADING_END>>
+<<PARAGRAPH>>title, scope, and field of application;<<PARAGRAPH_END>>
+<<PARAGRAPH>>table of contents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) a brief description of how the quality manual is revised
+-
+-
+and maintained, who reviews its contents and how  of-
+ten, who is authorized to change the quality manual,
+and who is authorized to approve it; this information
+may also be given under the system element concerned;
+a method for determining the history  of  any change in
+procedure may be included, if appropriate;<<PARAGRAPH_END>>
+<<PARAGRAPH>>introductory pages about the organization concerned
+and the manual itself;<<PARAGRAPH_END>>
+<<PARAGRAPH>>the quality policy and objectives of the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a description of the organizational structure, responsi-
+bilities, and authorities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a brief description of the documented procedures used
+to  identify the status and to control the distribution of
+the quality manual, whether or not it contains conñden-
+tial information, whether it is used only for the organi-
+zation’s internal purposes, or whether it can be made
+available externally;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a description  of  the elements of the quality system and
+any references to documented quaiity system  procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a definitions section, if appropriate;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a guide to the quality manual,  if  appropriate;<<PARAGRAPH_END>>
+<<PARAGRAPH>>an appendix for supportive data, if appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>evidence of approval by those responsible for autho-
+rization of the contents of the quality manual.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE  5  The order of the contents of the quality manual
+may  be  changed in accordance with user needs.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2  Title,  scope,  and field  of  application<<HEADING_END>>
+<<HEADING level=3>>7.5  Quaiity  policy  and objectives<<HEADING_END>>
+<<PARAGRAPH>>The title and scope of the quality manual should clearly
+define the organization to which the manual applies.  This
+section of the quality manual should also define the appli-
+cation of the quality system elements. To ensure clarity
+and avoid confusion,  the  use of disclaimers (e.g., what is
+not covered by a quality manuals and situations where it
+should  be  applied) may also  be  appropriate. Some or all of
+this information may also be located on the title page.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This  section of a quality manual should state the organiza-
+tion’s quality policy and objectives.  This  is where the or-
+ganization’s commitment to quality is presented and
+where the organization’s objectives for quality  are  out-
+lined.  This  section should  also  describe how the quality
+policy is made known to, and understood by, all employees
+and how it is implemented and maintained at all levels.
+Specific quality policy statements may also be included
+under  the  system element concerned.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3  Table  of  contents<<HEADING_END>>
+<<HEADING level=3>>NOTE  6  Subsequent sections or system elements of the
+manual may also be used to reflect implementation  link-
+age to the quaüty policy and objectives.<<HEADING_END>>
+<<PARAGRAPH>>The table of contents of a quality manual should show the
+titles of the sections within it and how they can be found.
+The numbering or coding system of sections, subsections,
+pages, figures, exhibits, diagrams, tables, etc., should be
+clear and logical.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6  Description  of  the organization, responsibilities,
+and authorities<<HEADING_END>>
+<<HEADING level=3>>7.4  Introductory  pages<<HEADING_END>>
+<<PARAGRAPH>>This section of a quality manual should provide a de-
+scription of the high-level structure of  the  organization.
+An organization chart indicating responsibility, author-
+ity, and interrelationship structure may be included.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The introductory pages of a quality manual should provide
+general information about the organization concerned and
+the quality manual itself.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>~
+~<<PARAGRAPH_END>>
+<<HEADING level=3>>ASQC  Q L O O L 3   95
+0759506  000B938  203<<HEADING_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC Ql 001  3-  1995<<HEADING_END>>
+<<PARAGRAPH>>Subsections within this section or in a referenced system
+elements procedure should provide details of the respon-
+sibilities, authorities, and hierarchy of all functions which
+manage, perform, and verify work affecting quality.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The resultant quality manual will then reflect the organiza-
+tion’s unique methods and means of satisfying the require-
+ments stated in the selected quality standard and its quality
+system elements. The methods and means by which the or-
+ganization makes a commitment to meet requirements
+should  be  clear to the users of the manual.  (See  annex C.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.7  Elements  of  the quality  system<<HEADING_END>>
+<<HEADING level=3>>7.8  Definitions<<HEADING_END>>
+<<PARAGRAPH>>The remainder of the quality manual should describe  all  the
+applicable elements of the quality system. The description
+should  be  divided into logical sections revealing a weli-co-
+ordinated quality system.  This  may  be  done by inclusion of,
+or reference to, documented quality system procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If a definitions clause is considered necessary in a man-
+ual, it is usually located immediately after the “Scope
+and field of application.” Aithough it is recommended,
+when practical, to use standard definitions and terms
+which are referenced in recognized quality terminology
+documents or in general dictionary usage, this section of
+a quality manual should contain the definitions of terms
+and concepts that are uniquely used within that quality
+manual. Special attention should be given to words that
+have a different meaning to different people or a specific
+meaning to specific sectors of businesses. The definitions
+should provide for a complete, uniform, and unambigu-
+ous understanding of the contents of the quality manual.
+The use of references to existing concepts, terminology,
+definitions, and standards (e.g., ANSI/ISO/ASQC
+A8402- 1994) is highly recommended.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A quality system and a quality manual  are  unique to each
+organization;  as  such,  this  American National Standard is
+not intended to define a unique structure, format, content,
+or method of presentation for the description of quality
+system elements which can be applied to all (or even
+some) products, including services.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Requirements for elements of quality systems are provided
+by the IS0  9ûûû  family of International Standards or the
+applicable standard used by the organization. It is recom-
+mended that, whenever applicable, the description  of  the
+elements of the quality system  be  in a sequence similar to
+that in the selected standard. Other sequencing or cross-ref-
+erencing,  as  appropriate  to  the organization, is acceptable.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.9  Guide  to  the  quality manual<<HEADING_END>>
+<<PARAGRAPH>>After selecting the appropriate standard, each organization
+determines the quality system elements which  are  applica-
+ble and, based upon the requirements of those elements in
+the standard, defines how the organization intends to ap-
+ply, accomplish, and control each  of  the selected elements.
+In  determining the most suitable approach for the organi-
+zation, consideration should  be  given  to  such aspects  as:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Consideration may  be  given to the inclusion of an index or
+a section giving a cross-reference between a subject and
+key words to the section or page numbers, or another such
+quick guide to “what and where in the quality manual.” A
+guide may also provide a description of the organization  of
+the quality manual and a short abstract of each of its sec-
+tions. Readers who  are  interested only in parts of the qual-
+ity manual should be able to identi@, with the aid of  this
+section, which parts of the quality manual may contain the
+information which they are seeking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>-the nature of the business, workforce, and resources;<<PARAGRAPH_END>>
+<<PARAGRAPH>>-the
+emphasis placed  on  the  quality system documenta-<<PARAGRAPH_END>>
+<<PARAGRAPH>>tion and quality assurance;<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10 AppendVr  for  supportive information<<HEADING_END>>
+<<PARAGRAPH>>-the distinctions made between policies, procedures, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>work instructions; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>An appendix containing data supportive to the manual
+may be included.<<PARAGRAPH_END>>
+<<PARAGRAPH>>-the
+medium selected for the manual.<<PARAGRAPH_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ASQC  QLOOL3  95  =  075950b  0003939  L4T<<HEADING_END>>
+<<IMAGE_4>>
+[Image 4 contains text: AS@C @120013 95 M@ 0759506 0001939 147
+ANSIASO/ASQC Q10013-1995
+ANNEX A (INFORMATIVE)
+
+Typical quality system document hierarchy
+Document contents
+Describes the quality system in
+
+ali accordance with the stated quality
+Qu “ policy and objectives and the
+manu applicable standard
+(Level A)
+; Describes the activities of
+Documented quality individual functional units
+system procedures needed to implement the quality
+
+system elements
+
+(Level B)
+
+Other quality documents : .
+(work instructions, forms, reports, etc.) Consists of detailed
+
+work documents
+
+(Level C)
+
+NOTE7 Any document level in this hierarchy may be separate, used with references, or combined.
+6]
+<<HEADING level=3>>ANSI/ISO/ASQC  Q  1001  3-  1995<<HEADING_END>>
+<<HEADING level=3>>ANNEXA  (INFORMATIVE)<<HEADING_END>>
+<<HEADING level=3>>Typid  quality  system document hierarchy<<HEADING_END>>
+<<HEADING level=3>>Document contents<<HEADING_END>>
+<<PARAGRAPH>>Describes the quality system in
+accordance with the stated quality
+policy and objectives and the
+applicable standard<<PARAGRAPH_END>>
+<<PARAGRAPH>>Describes the activities of
+individual functional units
+needed to implement  the  quality
+system elements<<PARAGRAPH_END>>
+<<HEADING level=3>>Other quality documents
+(work instructions,  forms,  reports, etc.)
+Consists  of  detailed
+work documents<<HEADING_END>>
+<<HEADING level=3>>(Level  C)<<HEADING_END>>
+<<HEADING level=3>>NOTE  7  Any  document level  in  this  hierarchy may be separate,  used  with references,  or  combined.<<HEADING_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ANSI/ISO/ASQC  Ql  O01  3-1995<<HEADING_END>>
+<<HEADING level=3>>ANNEX  B  (INFORMATIVE)<<HEADING_END>>
+<<HEADING level=3>>Example  of  a  possible  format  for  a  section  of  a  quaiity  manual<<HEADING_END>>
+<<HEADING level=1>>Organization
+TitldSubject
+Number
+I<<HEADING_END>>
+<<HEADING level=3>>Unit issuing
+Approved  by
+Date
+Revision
+Page<<HEADING_END>>
+<<HEADING level=3>>POLICY  OR  POLICY REFERENCE<<HEADING_END>>
+<<PARAGRAPH>>Give governing requirement.<<PARAGRAPH_END>>
+<<HEADING level=3>>PURPOSE AND SCOPE<<HEADING_END>>
+<<PARAGRAPH>>List why, what for, area covered, and exclusions.<<PARAGRAPH_END>>
+<<HEADING level=3>>RESPONSIBILITY<<HEADING_END>>
+<<PARAGRAPH>>Give organizational unit responsible for implementing the document and achieving the purpose.<<PARAGRAPH_END>>
+<<HEADING level=3>>ACTIONS  AND  METHODS TO ACHIEVE SYSTEM ELEMENT REQUIREMENT<<HEADING_END>>
+<<HEADING level=3>>List, step by step, what needs to be done. Use references, if appropriate. Keep in logical sequence. Mention any
+exceptions  or  specific  areas  of  attention. Consider  the  use of flowcharts.<<HEADING_END>>
+<<HEADING level=1>>Identify which referenced documents or  forms  are  associated with using the document, or what data have to be
+I
+recorded. Use examples, if appropriate.<<HEADING_END>>
+<<HEADING level=3>>~~~
+~~
+DOCUMENTATION  AND  REFERENCES<<HEADING_END>>
+<<HEADING level=3>>RECORDS<<HEADING_END>>
+<<HEADING level=3>>Identify which records  are  generated as  a  result of using the document, where these  are  retained, and for how long.<<HEADING_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>1  This  format may also be used for a documented quality system procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>2  The structure and order of the items listed above should be determined by organizational needs.<<HEADING_END>>
+<<HEADING level=3>>3  The  approval and revision status should be identifiable.<<HEADING_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=1>>ASQC  QL0013  95
+0759506  OOOl%4l  8T8  I<<HEADING_END>>
+<<HEADING level=3>>ANSI/ISO/ASQC  Q  100  13-  1995<<HEADING_END>>
+<<HEADING level=3>>A”EXC(INF0RMAï”E)<<HEADING_END>>
+<<HEADING level=3>>Example  of  a  section of  a  quality  manual<<HEADING_END>>
+<<PARAGRAPH>>NOTE  8  This is  an example only; the actual structure should  be  detennined by actual user needs.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17  Intenial  quality  audits<<HEADING_END>>
+<<PARAGRAPH>>The supplier shall establish and maintain documented pro-
+cedures for planning and implementing internal quality audits
+to verify whether quality activities and related results comply
+with planned arrangements and to determine the effectiveness
+of the quality system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Internal quality audits shall be scheduled on the basis  of  the
+status and importance of the activity to be audited and shall  be
+carried out by personnel independent  of  those having direct re-
+sponsibility for the activity being audited.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The results  of  the audits shall be recorded (see  4.16)  and
+brought to the attention of the personnel having responsibility
+in the  area  audited. The management personnel responsible for
+the area shall take timely corrective action  on  deficiencies
+found during the audit.<<PARAGRAPH_END>>
+<<HEADING level=3>>Follow-up audit activities shall verify and record the imple-
+mentation and effectiveness of the corrective action taken (see
+4.16).<<HEADING_END>>
+<<HEADING level=3>>NOTES<<HEADING_END>>
+<<HEADING level=3>>1  The results of the internal quality audits form an integrai
+part  of  the input to management review activities. (see  4.1.3).<<HEADING_END>>
+<<HEADING level=3>>2  Guidance on quality system audits is given in
+ANSI/iSO/ASQC  10011.<<HEADING_END>>
+<<HEADING level=3>>[ANSI/ISO/ASQC  49001  -1  9941<<HEADING_END>>
+<<HEADING level=3>>8<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ASQC  QLOOL3  95  =  0759506  0001942  734<<HEADING_END>>
+<<IMAGE_5>>
+[Image 5 contains text: AS@C Q10013 95 MM 0759506 oo01942 734 my
+ANSI/SO/ASQC Q10013-1995
+4.17 Internal Quality Audits QA 567-8
+Issued by dept. Approved by Date Revision Page
+Q 1.C. You 1994-01-01 1
+4.17.1 Policy
+Quality audits shall be carried out periodically in order to verify whether quality activities and related results comply with
+<a planned arrangements and to determine the effectiveness of the quality system.
+; 4.17.2 Scope
+These procedures cover audits of the quality system, audits of products, and audits of production processes.
+4.17.3 Responsibility
+The manager of the Quality Department is responsible for the contents of this documented procedure and for ensuring that it is
+followed.
+4.17.4 Action and methods
+4.17.4.1 Characteristics of the audits
+The quality system audits are based on the quality system requirements contained in this quality manual. The functions subject to
+quality system audits are those responsible for activities of significance to the quality of our products.
+The product quality audits are based on the requirements applicable to the finished products. Product quality audits are applied to
+products manufactured in series.
+The process quality audits are based on the requirements applicable to the results of processes. Process quality audits are applied
+to the wave soldering and plastic molding processes.
+4.17.4.2, Scope and planning of the audits
+ee The scope of the audits is determined with regard to the importance of the activities in question and the knowledge of any existing
+or likely problems. The audit frequency is, at least: for quality system audits—once a year; for product quality audits—twice a year;
+for process quality audits—once a year. Audit plans are made up and documented once a year. Checklists are prepared as an aid.
+— 4.17.43 Audit personnel
+{ The audits are carried out by selected personnel belonging to the Quality Department.
+4.17.4.4 Reporting of results
+NN A report is made up in conjunction with each audit, containing particulars of the object of the audit, the requirements applied as
+{ basis and any identified nonconformities with requirements. The audit report is distributed to the manager(s) concerned. Quality
+system audit observations are reported in forms of the type shown in Appendix 9.
+4.17.4.5 Decisions and actions
+NN The manager of the function concerned is responsible for ensuring that decisions and actions with regard to any notified observa-
+tions are taken as soon as possible.
+4.17.4.6 Follow-up
+NN The implementation of actions associated with an audit report is followed up by the Quality Department by means of continuous
+monitoring, planned reporting back on actions or direct follow-up in conjunction with the audit being performed the next time, as
+required. The result of the follow-up is documented in the audit report form.
+4.17.4.7 Management review of audit results
+NN { Results of audits and observations made during follow-up are presented at management reviews by the manager of the Quality
+Department. See Section 4.1 of this quality manual.
+4.17.5 References
+This section of the quality manual is based on the quality system procedure QA 123-4 “Internal quality audits.”
+4.17.6 Records
+{ One copy of the audit report, including the notes made during follow-up, is filed by the Quality Department for at least 5 years in
+accordance with procedures for quality records; see Section 4.16 of this quality manual.
+| 9]
+<<HEADING level=3>>ANSI/ISO/ASQC  Q  100  13-  1995<<HEADING_END>>
+<<HEADING level=2>>I
+WFI
+I
+4.17  Internal  Quality  Audits
+1
+QA567-8
+I
+I  :sued
+by dept.
+Approved by
+Date
+Revision
+I.  c.  You
+1994-01-01<<HEADING_END>>
+<<HEADING level=3>>4.17.1  Policy<<HEADING_END>>
+<<PARAGRAPH>>Quality audits shall  be  carried out periodically in order to verify whether quality activities and related results comply with
+planned arrangements and to determine the effectiveness of the quality system.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17.2  Scope<<HEADING_END>>
+<<PARAGRAPH>>These procedures cover audits of the quality system, audits of products, and audits of production processes.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17.3  Responsibility<<HEADING_END>>
+<<HEADING level=3>>The manager  of  the Quality Department is responsible for the contents of this documented procedure and for ensuring that it is
+followed.<<HEADING_END>>
+<<HEADING level=3>>4.17.4  Action and methods<<HEADING_END>>
+<<HEADING level=3>>4.17.4.1  Characteristics  of  the audits<<HEADING_END>>
+<<PARAGRAPH>>The quality system audits are based  on  the quality system requirements contained in this quality manual. The functions subject to
+quality system audits  are  those responsible for activities of significance to the quality of our products.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The product quality audits are based on the requirements applicable to the finished products. Product quality audits  are  applied to
+products manufactured in series.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The process quality audits are based on the requirements applicable to the results of processes. Process quality audits are applied
+to the wave soldering and plastic molding processes.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17.4.2  Scope and planning of the audits<<HEADING_END>>
+<<HEADING level=1>>Y<<HEADING_END>>
+<<PARAGRAPH>>The scope of the audits is determined with regard to the importance of the activities in question and the knowledge of any existing
+or likely problems, The audit frequency is, at least: for quality system audits-once a year; for product quality audits-twice
+a  year;
+for process quality audits-once  a  year. Audit plans are made up and documented once a year. Checklists are prepared as an aid.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17.43  Audit personnel<<HEADING_END>>
+<<HEADING level=1>>\{<<HEADING_END>>
+<<PARAGRAPH>>The audits are carried out by selected personnel belonging to the Quality Department.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17.4.4  Reporting of results<<HEADING_END>>
+<<PARAGRAPH>>A report is made up in conjunction with each audit, containing particulars of the object of the audit, the requirements applied as
+basis and any identified nonconformities with requirements.  The  audit report is distributed to the manager(s) concerned. Quality
+system audit observations are reported in forms of the type shown in Appendix  9.<<PARAGRAPH_END>>
+<<HEADING level=1>>\{<<HEADING_END>>
+<<HEADING level=3>>4.17.4.5  Decisions and actions<<HEADING_END>>
+<<HEADING level=3>>The manager of the function Concerned is responsible for ensuring that decisions and actions with regard  to  any notified observa-
+tions are taken as  soon  as possible.<<HEADING_END>>
+<<HEADING level=1>>\{  h<<HEADING_END>>
+<<HEADING level=3>>4.17.4.6  FOIIOW-UP<<HEADING_END>>
+<<PARAGRAPH>>The implementation of actions associated with an audit report is followed up by the Quality Department by means of continuous
+monitoring, planned reporting back on actions or direct follow-up in conjunction with  the  audit being performed the next time, as
+required. The result of the follow-up is documented in the audit report form.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.17.4.7  Management review  of  audit results<<HEADING_END>>
+<<PARAGRAPH>>Results of audits and observations made during follow-up are presented at management reviews by the manager of the Quality
+Department. See Section  4.1  of  this  quality manual.<<PARAGRAPH_END>>
+<<HEADING level=1>>\{<<HEADING_END>>
+<<HEADING level=3>>4.17.5  References<<HEADING_END>>
+<<HEADING level=3>>This section of the quality manual is based on the quality system procedure QA  123-4  “Internal quality audits.”<<HEADING_END>>
+<<HEADING level=3>>4.17.6  Records<<HEADING_END>>
+<<PARAGRAPH>>One copy of the audit report, including the notes made during follow-up, is filed by the Quality Department for at least  5  years in
+accordance with procedures for quality records; see Section  4.16  of this quality manual.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ASQC  PL0013  95
+O759506  0003943  b70<<HEADING_END>>
+<<HEADING level=3>>ANSMSOIASQC Ql  001  3-1995<<HEADING_END>>
+<<HEADING level=3>>ANNEX  D  (INFORMATIVE)<<HEADING_END>>
+<<HEADING level=3>>BIBLIOGRAPHY<<HEADING_END>>
+<<HEADING level=3>>[  11  ANSMSOIASQC Q9OOO-1-1994,  Quality Management and Quality Assurance StanùardMuidelines  for  Selection<<HEADING_END>>
+<<HEADING level=3>>and  Use.<<HEADING_END>>
+<<HEADING level=3>>[2] ANSMSOIASQC Q9001- 1994,  Quality S y s t e d o d d   for  Quality Assurance in Design, Development, Produc-<<HEADING_END>>
+<<HEADING level=3>>tion, Installation, and Servicing.<<HEADING_END>>
+<<HEADING level=3>>vicing.
+[3] ANSMSOIASQC Q9002-1994,  Quality SystemoModel  for  Quality Assurance in Production, Installation, and Ser-<<HEADING_END>>
+<<HEADING level=3>>[4] ANSIASOIASQC 49003-1994,  Quality Systems-blodel  for  Quality Assurance in Final Inspection and Test.<<HEADING_END>>
+<<HEADING level=3>>[5] ANSMSOIASQC A9004-  1-  1994,  Quality Management and Quality System ElementAuidelines.<<HEADING_END>>
+<<HEADING level=3>>10<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>ASQC  Q L O O L 3   95  =  075950b  0003944  507  M<<HEADING_END>>
+<<IMAGE_6>>
+[Image 6 contains text: AS@c 810013 95 MB O75950b 0001944 SO? mm
+
+Pama @ Asoc
+’ AWB, Nott © 4st wisconsin avenue
+rT {Tf} P.O. BOX 3005
+
+MILWAUKEE, WISCONSIN 53201-3005
+h ‘ERED (414) 272-8575 FAX (414) 272-1734
+RNB 200-248-1946
+Sa :
+T205
+Printed in the United States of America]
+<<HEADING level=3>>ASQC
+6
+1 1   EAST WISCONSIN AVENUE
+P.O.
+BOX  3005
+MI  LWAU  KEE,  WISCONSIN  5320 1-3005
+(414) 272-8575  FAX  (414)
+272-1734
+800-248-1946<<HEADING_END>>
+<<HEADING level=3>>T205
+Printed  in  the United States  of  America<<HEADING_END>>
+<<HEADING level=3>>COPYRIGHT American Society for Quality
+Licensed by Information Handling Services
+COPYRIGHT American Society for Quality
+Licensed by Information Handling Services<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 17
+Total Images: 6
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 2512x3363
+[IMAGE_2] Page: 2, Size: 2520x3356
+[IMAGE_3] Page: 5, Size: 2496x3341
+[IMAGE_4] Page: 12, Size: 2512x3348
+[IMAGE_5] Page: 15, Size: 2528x3363
+[IMAGE_6] Page: 17, Size: 2520x3351
+<<SECTION_END>>
+<<DOCUMENT_END>>

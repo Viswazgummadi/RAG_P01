@@ -1,0 +1,1128 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>ISO
+10005<<HEADING_END>>
+<<PARAGRAPH>>First edition
+1995-09-15<<PARAGRAPH_END>>
+<<HEADING level=1>>Quality management — Guidelines for
+quality plans<<HEADING_END>>
+<<PARAGRAPH>>Management de la qualité — Lignes directrices pour les plans qualité<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: ——
+1so
+SRS —]
+<<PARAGRAPH>>Reference number
+ISO 10005:1995(E)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>1
+Scope ..............................................................................................   1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative reference .......................................................................   1<<HEADING_END>>
+<<HEADING level=3>>3
+Definitions
+.................................................................................   1<<HEADING_END>>
+<<HEADING level=3>>4
+Preparation, review, acceptance and revision of the quality plan
+2<<HEADING_END>>
+<<HEADING level=3>>4.1
+Preparation
+..............................................................................   2<<HEADING_END>>
+<<HEADING level=3>>4.2
+Review and acceptance
+.........................................................   3<<HEADING_END>>
+<<HEADING level=3>>4.3
+Revision
+..................................................................................   3<<HEADING_END>>
+<<HEADING level=3>>5
+Contents of the quality plan
+......................................................   3<<HEADING_END>>
+<<HEADING level=3>>5.1
+Management responsibilities
+.................................................   4<<HEADING_END>>
+<<HEADING level=3>>5.2
+Quality plan and quality system
+.............................................   4<<HEADING_END>>
+<<HEADING level=3>>5.3
+Contract review
+......................................................................   4<<HEADING_END>>
+<<HEADING level=3>>5.4
+Design control
+........................................................................   4<<HEADING_END>>
+<<HEADING level=3>>5.5
+Document and data control
+....................................................   4<<HEADING_END>>
+<<HEADING level=3>>5.6
+Purchasing
+..............................................................................   4<<HEADING_END>>
+<<HEADING level=3>>5.7
+Control of customer-supplied product
+....................................   4<<HEADING_END>>
+<<HEADING level=3>>5.8
+Product identification and traceability
+.....................................   5<<HEADING_END>>
+<<HEADING level=3>>5.9
+Process control
+.......................................................................   5<<HEADING_END>>
+<<HEADING level=3>>5.10
+Inspection and testing
+..........................................................   5<<HEADING_END>>
+<<HEADING level=3>>5.11
+Control of inspection, measuring and test equipment
+.........   5<<HEADING_END>>
+<<HEADING level=3>>5.12
+Inspection and test status
+....................................................   5<<HEADING_END>>
+<<HEADING level=3>>5.13
+Control of nonconforming product
+.......................................   6<<HEADING_END>>
+<<HEADING level=3>>5.14
+Corrective and preventive action
+..........................................   6<<HEADING_END>>
+<<HEADING level=3>>5.15
+Handling, storage, packaging, preservation and delivery
+.....   6<<HEADING_END>>
+<<HEADING level=3>>5.16
+Control of quality records
+.....................................................   6<<HEADING_END>>
+<<HEADING level=3>>5.17
+Quality audits
+........................................................................   6<<HEADING_END>>
+<<PARAGRAPH>>  ISO
+1995
+All rights reserved. Unless otherwise specified, no part of this publication may be reproduced
+or utilized in any form or by any means, electronic or mechanical, including photocopying and
+microfilm, without permission in writing from the publisher.
+International Organization for Standardization
+Case Postale 56 • CH-1211 Genève 20 • Switzerland
+Printed in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=3>>5.18
+Training
+.................................................................................   6<<HEADING_END>>
+<<HEADING level=3>>5.19
+Servicing
+...............................................................................   6<<HEADING_END>>
+<<HEADING level=3>>5.20
+Statistical techniques
+............................................................   7<<HEADING_END>>
+<<HEADING level=3>>Annexes<<HEADING_END>>
+<<HEADING level=3>>A
+Simplified examples of formats for the presentation of quality
+plans
+.........................................................................................
+8<<HEADING_END>>
+<<HEADING level=3>>B
+Bibliography
+............................................................................   15<<HEADING_END>>
+<<PARAGRAPH>>iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide
+federation of national standards bodies (ISO member bodies). The work
+of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for
+which a technical committee has been established has the right to be
+represented on that committee. International organizations, governmental
+and non-governmental, in liaison with ISO, also take part in the work. ISO
+collaborates closely with the International Electrotechnical Commission
+(IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Draft International Standards adopted by the technical committees are
+circulated to the member bodies for voting. Publication as an International
+Standard requires approval by at least 75 % of the member bodies casting
+a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standard ISO 10005 was prepared by Technical Committee
+ISO/TC 176, Quality management and quality assurance, Subcommittee
+SC 2, Quality systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annexes A and B of this International Standard are for information only.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>This International Standard was prepared to address the need for a
+mechanism to relate generic requirements on quality system elements to
+the specific requirements of a particular product, project or contract.
+Its provisions should be considered advisory and not requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A quality plan may be used within an organization to ensure that specific
+requirements for quality are being appropriately planned and addressed for
+identified products during production. A quality plan may be used to indi-
+cate the specific application of a quality system to a given development
+project, whether for a marketable product or for an in-house facility.
+A quality plan may also be used by the supplier in a contractual situation
+to demonstrate to the customer how the specific requirements for quality
+of a particular contract will be met. In many cases, it may be beneficial to
+obtain customer input to the development of the quality plan.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality plan should be compatible with other plans that may be pre-
+pared.<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<PARAGRAPH>>vi<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD   ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=1>>Quality management — Guidelines for quality plans<<HEADING_END>>
+<<PARAGRAPH>>for compliance with requirements. A quality plan may
+also be used where a documented quality system
+does not exist, in which case procedures may need
+to be developed to support the quality plan.<<PARAGRAPH_END>>
+<<HEADING level=3>>1 Scope<<HEADING_END>>
+<<HEADING level=3>>1.1
+This International Standard provides guidelines
+to assist suppliers in the preparation, review, accept-
+ance and revision of quality plans.<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1
+Annex B contains a bibliography of International
+Standards which provide information that may prove helpful
+to those involved in the preparation and review of quality
+plans.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is intended for use in two situations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+as guidance to a supplier organization in meeting
+the requirements of ISO 9001, ISO 9002 or
+ISO 9003 relative to the preparation of a quality
+plan; or<<PARAGRAPH_END>>
+<<HEADING level=3>>2 Normative reference<<HEADING_END>>
+<<PARAGRAPH>>b)
+as guidance to a supplier organization in preparing
+a quality plan when the supplier does not have
+such a quality system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following standard contains provisions which,
+through reference in this text, constitute provisions
+of this International Standard. At the time of publi-
+cation, the edition indicated was valid. All standards
+are subject to revision, and parties to agreements
+based on this International Standard are encouraged
+to investigate the possibility of applying the most re-
+cent edition of the standard indicated below. Mem-
+bers of IEC and ISO maintain registers of currently
+valid International Standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In both situations, the quality plan is supplemental to
+the supplier's generic quality system documentation
+and should not duplicate the generic documentation.
+For convenience in situations of type b), this Inter-
+national Standard includes features that are covered
+in the generic requirements of ISO 9001, ISO 9002
+and ISO 9003.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 8402:1994, Quality management and quality as-
+surance — Vocabulary.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Quality plans provide a mechanism to tie specific re-
+quirements of the product, project or contract to ex-
+isting generic quality system procedures. They do not
+require the development of a comprehensive set of
+procedures or instructions over and above those al-
+ready existing, although some additional documented
+procedures may be necessary.<<PARAGRAPH_END>>
+<<HEADING level=3>>3 Definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this International Standard, the
+definitions given in ISO 8402, together with the fol-
+lowing definitions, apply. Terms which are repeated
+here for clarity but have been defined in other Inter-
+national Standards are identified by the placement of
+the number of the standard after the term being de-
+fined.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2
+This International Standard is applicable where
+a quality plan is to be used for a particular product,
+project or contract. A quality plan may be applicable
+to any product of the generic product categories
+(hardware, software, processed materials and ser-
+vices) or industry/economic sectors.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+contract:  Agreed requirements between a sup-
+plier and customer transmitted by any means.<<HEADING_END>>
+<<PARAGRAPH>>A quality plan may be used to monitor and assess
+adherence to the requirements for quality, but these
+guidelines are not intended to be used as a checklist<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ ISO 9001 ]<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<PARAGRAPH>>3.2
+project:  Unique process consisting of a set of
+coordinated and controlled activities with start and
+finish dates, undertaken to achieve an objective con-
+forming to specific requirements, including the con-
+straints of time, cost and resources.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.7
+quality plan:  Document setting out the specific
+quality practices, resources and sequence of activities
+relevant to a particular product, project or contract.<<HEADING_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+A quality plan usually makes reference to the parts of
+the quality manual applicable to the specific case.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+An individual project may form part of a larger project
+structure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+Depending on the scope of the plan, a qualifier may be
+used, for example, “quality assurance plan”, “quality man-
+agement plan”.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+In some types of projects, the objectives are refined and
+the project characteristics defined progressively as the pro-
+ject proceeds.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ ISO 8402 ]<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+quality system:  Organizational structure, pro-
+cedures, processes and resources needed to imple-
+ment quality management.<<HEADING_END>>
+<<PARAGRAPH>>4
+The outcome of a project may be one or several units
+of a product.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3
+type test:  Test or series of tests directed
+towards approval of a design conducted to determine
+that it is capable of meeting the requirements of the
+product specification.<<HEADING_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+The quality system should be as comprehensive as
+needed to meet the quality objectives.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4
+witness testing:  Testing of a product in the
+presence of the customer's representative or a third
+party.<<HEADING_END>>
+<<PARAGRAPH>>14
+The quality system of an organization is designed pri-
+marily to satisfy the internal managerial needs of the or-
+ganization. It is broader than the requirements of a particular
+customer who evaluates only the relevant part of the quality
+system.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+procedure:  Specified way to perform an activity.<<HEADING_END>>
+<<PARAGRAPH>>15
+For contractual or mandatory quality assessment pur-
+poses, demonstration of the implementation of identified
+quality system elements may be required.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+In many cases, procedures are documented (e.g. quality
+system procedures).<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ ISO 8402 ]<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+When a procedure is to be documented, the term
+“written procedure” or “documented procedure” is fre-
+quently used.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Preparation, review, acceptance
+and revision of the quality plan<<HEADING_END>>
+<<PARAGRAPH>>7
+A written or documented procedure usually contains the
+purpose and scope of an activity; what shall be done and
+by whom; when, where and how it shall be done; what
+materials, equipment and documents shall be used; and
+how it shall be controlled and recorded.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1 Preparation<<HEADING_END>>
+<<PARAGRAPH>>When preparing a quality plan, quality activities appli-
+cable to the situation should be defined and docu-
+mented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ ISO 8402 ]<<PARAGRAPH_END>>
+<<PARAGRAPH>>Much of the generic documentation needed may be
+contained in the supplier's quality manual and docu-
+mented procedures. This documentation may need to
+be selected, adapted and/or supplemented. The qual-
+ity plan shows how the supplier's generic docu-
+mented procedures are related to and applied to any
+necessary additional procedures peculiar to the prod-
+uct, project or contract in order to attain specified
+quality objectives.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.6
+product:  Result of activities or processes.<<HEADING_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+A product may include service, hardware, processed
+materials, software, or a combination thereof.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+A product can be tangible (e.g. assemblies or processed
+materials) or intangible (e.g. knowledge or concepts), or a
+combination thereof.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality plan should indicate, either directly or by
+reference to appropriate documented procedures or
+other documents, how the required activities are to
+be carried out.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+A product can be either intended (e.g. offering to cus-
+tomers) or unintended (e.g. polluant or unwanted effects).<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ ISO 8402 ]<<PARAGRAPH_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<PARAGRAPH>>The format and level of detail in the plan should be
+consistent with any agreed customer requirement,
+the supplier's method of operation and the complexity
+of the activities to be performed. The plan should be
+as brief as possible, consistent with meeting the pro-
+visions of this International Standard. (Simplified
+examples of alternative presentations of quality plans
+are contained in annex A.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>stages, the supplier should submit the quality plan for
+each stage to the customer prior to the start of that
+stage.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Procedures referenced in the plan should be made
+available to the customer, where agreed in the con-
+tract.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3 Revision<<HEADING_END>>
+<<PARAGRAPH>>A quality plan may be a stand-alone document when
+a supplier does not have a documented quality sys-
+tem. A quality plan may also be included as part of
+another document or documents (e.g. product or pro-
+ject plan), depending on such things as customer re-
+quirements or the business practices of a specific
+supplier. It may be necessary to develop a quality plan
+that consists of a number of parts, each of which re-
+presents a plan for a distinct stage, such as for de-
+sign, purchasing, production, or inspection and test,
+or for particular activities such as the dependability
+plan.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier should revise the plan, when appropriate,
+to reflect changes that have been made to the prod-
+uct, project or contract, changes to the manner in
+which the product is produced or the service is pro-
+vided, or changes in quality assurance practices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Changes to the quality plan should be reviewed for
+impact and adequacy by the same authorized group
+which conducted the review of the original quality
+plan.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Subject to the specific requirements of a contract,
+proposed changes to the plan should be submitted to
+the customer for review and acceptance before they
+are implemented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 16
+When drafting a textural quality plan, the fol-
+lowing conventions may be used:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— “shall” to express a provision that is binding between
+two or more parties;<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Contents of the quality plan<<HEADING_END>>
+<<PARAGRAPH>>— “will” to express a declaration of purpose or intent by
+one party;<<PARAGRAPH_END>>
+<<HEADING level=3>>a)  Structure<<HEADING_END>>
+<<PARAGRAPH>>— “should” to express a recommendation among other
+possibilities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The contents of the quality plan should be based on
+this International Standard and the supplier's docu-
+mented quality system. It is not essential that the
+quality plan follow the structure and numbering of any
+ISO 9000 standards and the alignment of the para-
+graphs in this International Standard is only intended
+to ease use and understanding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— “may” to indicate a course of action permissible within
+the limits of the quality plan.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2
+Review and acceptance<<HEADING_END>>
+<<PARAGRAPH>>The quality plan should be reviewed for adequacy and
+formally approved by an authorized group that in-
+cludes representatives from all affected functions
+within the supplier's organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The elements described in the following subclauses
+should be addressed, where relevant to the require-
+ments of the product, project or contract.<<PARAGRAPH_END>>
+<<HEADING level=3>>b)
+Scope of the quality plan<<HEADING_END>>
+<<PARAGRAPH>>In contractual situations, a quality plan may be sub-
+mitted to the customer by the supplier for review and
+acceptance, either as part of the precontract award-
+bidding process or after the contract has been
+awarded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The scope of the quality plan should be defined and
+should include, but not be limited to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the product or project to which it is to be ap-
+plied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the plan is submitted as part of the bidding process
+and a contract is subsequently awarded, the plan
+should be reviewed and, where appropriate, revised
+to reflect any changes in requirements that may have
+occurred as a result of precontract negotiations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the scope of the contract to which it is to be
+applied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the product, project and or contract quality
+objectives (these quality objectives should be
+expressed in measurable terms wherever
+possible);<<PARAGRAPH_END>>
+<<PARAGRAPH>>When a quality plan is required by a contract, it should
+normally be submitted prior to the start of the re-
+quired activities. Where the contract is conducted in<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<PARAGRAPH>>— specific exclusions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the arrangements for the review, verification and
+validation of design output conformity to design
+input requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the conditions of its validity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+where applicable, the extent to which the cus-
+tomer is to be involved in design activities, such
+as participation in design reviews and design
+verification.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1 Management responsibilities<<HEADING_END>>
+<<PARAGRAPH>>The plan should identify individuals within the sup-
+plier's organization who are responsible for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should reference applicable codes, stan-
+dards, specifications and regulatory requirements, as
+appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+ensuring that the activities required by the speci-
+fied quality system or contract are planned, im-
+plemented and controlled and their progress
+monitored;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5
+Document and data control<<HEADING_END>>
+<<PARAGRAPH>>b)
+communicating requirements peculiar to the
+specific product, project or contract to all affected
+departments, subcontractors and customers, and
+resolving problems that arise at the interfaces
+between such groups;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan shoud indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the documents and data applicable to the product,
+project or contract;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+how such documents and data will be identified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+reviewing the results of any audits conducted;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+how, and from whom, access to such documents
+and data can be obtained;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+authorizing requests for exemption from quality
+system elements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+how, and by whom, such documents and data are
+reviewed and approved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+controlling corrective actions (see 5.14).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6 Purchasing<<HEADING_END>>
+<<HEADING level=3>>5.2
+Quality plan and quality system<<HEADING_END>>
+<<PARAGRAPH>>The plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Much of the necessary quality plan documentation
+will normally exist as part of the quality system docu-
+mentation. The quality plan need only refer to this
+documentation and show how it is to be applied to
+the specific situation in question. Where an element
+of such documentation does not already exist but is
+required, the quality plan should identify it and also
+identify when, how and by whom it will be prepared
+and approved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+any important products that are to be purchased,
+from whom, and the relevant quality assurance
+requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the methods to be used to evaluate, select and
+control subcontractors;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+requirements for, and reference to, subcontractor
+quality plans, where appropriate;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Contract review<<HEADING_END>>
+<<PARAGRAPH>>d)
+the methods to be used to satisfy regulatory re-
+quirements which apply to purchased products.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate when, how and by whom the
+requirements specified for the product, project or
+contract are to be reviewed.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.7
+Control of customer-supplied product<<HEADING_END>>
+<<PARAGRAPH>>The plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should also indicate how the results of this
+review are to be recorded and how conflicts or ambi-
+guities in requirements are to be resolved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+how products provided by the customer (such as
+material, tooling, test equipment, software, data
+or services) are identified and controlled;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Design control<<HEADING_END>>
+<<PARAGRAPH>>b)
+the methods to be used to verify that customer-
+supplied products meet specified requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+when, how and by whom the design process is
+to be carried out, controlled and documented;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the methods to be used to deal with noncon-
+forming products.<<PARAGRAPH_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<PARAGRAPH>>c)
+where each inspection and test point is located in
+the process sequence;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.8
+Product identification and traceability<<HEADING_END>>
+<<PARAGRAPH>>Where traceability is a requirement, the plan should
+define its scope and extent, including how affected
+products are to be identified. Identification methods
+should also be considered when traceability is not re-
+quired.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+what characteristics are to be inspected and
+tested at each point, the procedures and accept-
+ance criteria to be used, and any special tools,
+techniques or personnel qualifications required;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+where the customer has established points for
+witness or verification of selected characteristics
+of a product or its production and installation pro-
+cesses;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+how contractual and regulatory traceability re-
+quirements are identified and incorporated into
+working documents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+where inspections or tests are required to be
+witnessed or performed by regulatory authorities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+what records relating to such traceability require-
+ments are to be generated and how they are to
+be controlled and distributed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+where, when and how the supplier intends, or is
+required by the customer or regulatory authorities,
+to use third parties to perform:<<PARAGRAPH_END>>
+<<HEADING level=3>>5.9 Process control<<HEADING_END>>
+<<PARAGRAPH>>1) type tests;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate how the production, instal-
+lation and servicing processes will be controlled to
+ensure that specified requirements are met.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+witness testing (including on-site acceptance);<<PARAGRAPH_END>>
+<<PARAGRAPH>>3) product verification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where appropriate, the plan should include or refer-
+ence but should not be limited to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>4) product validation;<<PARAGRAPH_END>>
+<<PARAGRAPH>>5)
+material, product, process or personnel certi-
+fication.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+relevant documented procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the process steps;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.11
+Control of inspection, measuring
+and test equipment<<HEADING_END>>
+<<PARAGRAPH>>c)
+methods to be used to monitor and control pro-
+cesses and product characteristics;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate the control system to be
+used for inspection, measuring and test equipment
+specifically intended for use for the product, project
+or contract, including:<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+acceptability criteria for workmanship;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+use of qualified processes, associated equipment
+and personnel;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+tools, techniques and methods to be used to
+achieve specified requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+identification of such equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+method of calibration;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where installation is a requirement, the plan should
+indicate how the product will be installed and which
+characteristics have to be verified at that time.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+method of indicating and recording calibration
+status;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+what records of usage of such equipment are to
+be maintained so that the validity of previous re-
+sults can be determined when such equipment is
+found to be out of calibration.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10
+Inspection and testing<<HEADING_END>>
+<<PARAGRAPH>>The plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+any relevant inspection and test plan (the items
+below may all be part of an inspection and test
+plan);<<PARAGRAPH_END>>
+<<HEADING level=3>>5.12
+Inspection and test status<<HEADING_END>>
+<<PARAGRAPH>>The plan should indicate any specific requirements
+and methods for the identification of the inspection
+and test status of products, documents and data.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+how the supplier will verify subcontractor product
+conformance to specified requirements;<<PARAGRAPH_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<PARAGRAPH>>b)
+what the legal or regulatory requirements are and
+how they are to be satistied;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.13
+Control of nonconforming product<<HEADING_END>>
+<<PARAGRAPH>>The plan should indicate how nonconforming products
+are identified and controlled to prevent misuse until
+proper disposal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+what form the records will take (such as hard
+copy or electronic media);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+how legibility, storage, retrievability, disposition
+and confidentiality requirements will be defined
+and satisfied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Quality plans may need to define specific limitations,
+such as the degree or type of rework allowed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should address how and under what cir-
+cumstances the supplier would request a concession
+for a product which does not meet specified require-
+ments. In doing so, the plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+what methods will be used to ensure that records
+are available when required;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+what records are to be supplied to the customer,
+when and by what means;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+who would have the responsibility to request such
+concessions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+in what language the records will be provided.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+how such a request would be made;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.17 Quality audits<<HEADING_END>>
+<<PARAGRAPH>>c)
+what information is to be provided and in what
+form;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate the nature and extent of
+quality audits to be undertaken and how the results
+are to be used to correct and prevent recurrence of
+nonconformities which affect the product, project or
+contract.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+who has been identified as having the responsi-
+bility and authoritiy to accept or reject such con-
+cessions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Such audits may include:<<PARAGRAPH_END>>
+<<HEADING level=3>>5.14
+Corrective and preventive action<<HEADING_END>>
+<<PARAGRAPH>>a)
+internal audits by the supplier;<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality plan shoud indicate the preventive and
+corrective actions and follow-up activities that are
+specific to the product, project or contract in order to
+avoid the appearance or repetition of nonconformities.
+Those responsible for initiation and approval of cor-
+rective and preventive action should be identified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+customer audits of the supplier;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+supplier/customer audits of subcontractors;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+third-party or regulatory authority audits of the
+supplier and subcontractors, including those car-
+ried out for quality system certification/regis-
+tration purposes.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.15
+Handling, storage, packaging,
+preservation and delivery<<HEADING_END>>
+<<HEADING level=3>>5.18 Training<<HEADING_END>>
+<<PARAGRAPH>>The plan should indicate:<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should address any specific training required
+for personnel carrying out a process that is a subject
+of the plan, and how such training is to be ac-
+complished and recorded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+how the specified requirements for handling,
+storage, packaging and delivery are to be met;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+how the product will be delivered to the specified
+site in a manner that will ensure that its required
+characteristics are not degraded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This should include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+training of new personnel;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16
+Control of quality records<<HEADING_END>>
+<<PARAGRAPH>>b)
+training of existing personnel in new or revised
+operating methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The plan should indicate how records specific to the
+product, project or contract are to be controlled, in-
+cluding:<<PARAGRAPH_END>>
+<<HEADING level=3>>5.19 Servicing<<HEADING_END>>
+<<PARAGRAPH>>a)
+what records are to be kept, for how long, where
+and by whom;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where servicing is a specified requirement, the plan
+should indicate how the supplier intends to assure<<PARAGRAPH_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<PARAGRAPH>>conformance to applicable servicing requirements,
+such as:<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+training of customer personnel;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+availability of initial and on-going technical support
+during the agreed time period.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+regulatory and legislative requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+industry codes and practices;<<PARAGRAPH_END>>
+<<HEADING level=3>>5.20 Statistical techniques<<HEADING_END>>
+<<PARAGRAPH>>c)
+service level agreements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where specific statistical techniques are required,
+they should be indicated in the plan.<<PARAGRAPH_END>>
+<<HEADING level=3>>7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(informative)<<HEADING_END>>
+<<HEADING level=2>>Simplified examples of formats for the presentation of quality plans<<HEADING_END>>
+<<PARAGRAPH>>This annex provides examples of some of the ways
+in which quality plans may be presented. (See figures
+A.1 to A.4 and table A.1.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Presentation of quality plans can be in any form
+deemed suitable for meeting the agreed require-
+ments. Even though the examples shown are in the
+form of flow diagrams, other forms better suited to a
+specific situation may be used. A textual presentation
+rather than a diagrammatic one may be more appro-
+priate in certain circumstances. Similarly, a diagram-
+matic form may be supplemented with text.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The examples shown should not be taken as being
+complete as regards the quality plan content defined
+in clause 5 of this International Standard. Actual
+quality plans may be more complex. It would normally
+be expected that all of the elements would be cov-
+ered, unless under some exceptional circumstance
+they do not apply to the case under review.<<PARAGRAPH_END>>
+<<HEADING level=3>>8<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<PARAGRAPH>>NOTE — The service quality plan should also contain written descriptions and/or references to procedures or
+other documents for activities not shown on the flowchart, such as:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— document control,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— product traceability,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— third-party involvement,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— nonconformance,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— quality audits,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— quality records,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— management responsibilities.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.1 — Example of a format for a quality plan for services<<HEADING_END>>
+<<HEADING level=3>>9<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<HEADING level=3>>10<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=3>>Figure A.2 — Example of a format for a quality plan for manufactured product<<HEADING_END>>
+<<HEADING level=3>>11<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<HEADING level=3>>Procedure
+number<<HEADING_END>>
+<<PARAGRAPH>>IT - 6<<PARAGRAPH_END>>
+<<HEADING level=3>>Inspection<<HEADING_END>>
+<<HEADING level=3>>Parameters<<HEADING_END>>
+<<PARAGRAPH>>Storage<<PARAGRAPH_END>>
+<<PARAGRAPH>>Length<<PARAGRAPH_END>>
+<<HEADING level=3>>Verification,
+instruction<<HEADING_END>>
+<<PARAGRAPH>>VI - 29<<PARAGRAPH_END>>
+<<HEADING level=3>>Responsible
+function<<HEADING_END>>
+<<PARAGRAPH>>Workstation<<PARAGRAPH_END>>
+<<PARAGRAPH>>D<<PARAGRAPH_END>>
+<<PARAGRAPH>>A<<PARAGRAPH_END>>
+<<PARAGRAPH>>B<<PARAGRAPH_END>>
+<<PARAGRAPH>>C<<PARAGRAPH_END>>
+<<HEADING level=3>>Process control<<HEADING_END>>
+<<PARAGRAPH>>Inspection and testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>Control chart
+Ref. No. 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Check sheet
+Ref. No. 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Check sheet
+Ref. No. 2<<PARAGRAPH_END>>
+<<HEADING level=3>>Control
+method<<HEADING_END>>
+<<HEADING level=3>>Instruction
+for process
+control
+number<<HEADING_END>>
+<<PARAGRAPH>>IPC - 22<<PARAGRAPH_END>>
+<<PARAGRAPH>>Measure length<<PARAGRAPH_END>>
+<<HEADING level=3>>Quality
+characteristic
+to be
+controlled
+(process
+condition to be
+checked)<<HEADING_END>>
+<<PARAGRAPH>>Temperature,
+pressure<<PARAGRAPH_END>>
+<<PARAGRAPH>>Temperature<<PARAGRAPH_END>>
+<<PARAGRAPH>>Length<<PARAGRAPH_END>>
+<<PARAGRAPH>>Yield<<PARAGRAPH_END>>
+<<HEADING level=3>>Work
+instruction
+number<<HEADING_END>>
+<<PARAGRAPH>>WI - 123<<PARAGRAPH_END>>
+<<PARAGRAPH>>WI - 321<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manufacturing<<PARAGRAPH_END>>
+<<PARAGRAPH>>Preheating<<PARAGRAPH_END>>
+<<HEADING level=3>>Process
+stage<<HEADING_END>>
+<<PARAGRAPH>>Forming<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cutting<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+Symbols are as follows:<<PARAGRAPH_END>>
+<<HEADING level=3>>Process
+flow
+chart  1)<<HEADING_END>>
+<<PARAGRAPH>>Part A<<PARAGRAPH_END>>
+<<HEADING level=3>>Part<<HEADING_END>>
+<<HEADING level=3>>Figure A.3 — Example of a format of a quality plan for a processed material<<HEADING_END>>
+<<HEADING level=3>>12<<HEADING_END>>
+<<TABLE_1>>
+| Part                                         | Process    | Process    | Work          | Quality           | Process control   |               |             |               | Inspection   |           |
+|                                              | flow       | stage      | instruction   | characteristic    |                   |               |             |               |              |           |
+|                                              | chart 1)   |            | number        | to be             |                   |               |             |               |              |           |
+|                                              |            |            |               | controlled        |                   |               |             |               |              |           |
+|                                              |            |            |               | (process          |                   |               |             |               |              |           |
+|                                              |            |            |               | condition to be   |                   |               |             |               |              |           |
+|                                              |            |            |               | checked)          |                   |               |             |               |              |           |
+|:---------------------------------------------|:-----------|:-----------|:--------------|:------------------|:------------------|:--------------|:------------|:--------------|:-------------|:----------|
+|                                              |            |            |               |                   | Instruction       | Control       | Responsible | Verification, | Parameters   | Procedure |
+|                                              |            |            |               |                   | for process       | method        | function    | instruction   |              | number    |
+|                                              |            |            |               |                   | control           |               |             |               |              |           |
+|                                              |            |            |               |                   | number            |               |             |               |              |           |
+| Part A                                       |            | Preheating | WI - 123      | Temperature       | IPC - 22          | Check sheet   | Workstation | VI - 29       | Length       | IT - 6    |
+|                                              |            | Forming    | WI - 321      | Temperature,      |                   | Ref. No. 1    | A           |               |              |           |
+|                                              |            | Cutting    |               | pressure          |                   | Check sheet   | B           |               |              |           |
+|                                              |            |            |               | Length            |                   | Ref. No.2     | C           |               |              |           |
+|                                              |            |            |               | Measure length    |                   | Control chart | D           |               |              |           |
+|                                              |            |            |               | Yield             |                   | Ref. No.1     |             |               |              |           |
+| 1) Symbols are as follows:                   |            |            |               |                   |                   |               |             |               |              |           |
+| Manufacturing Inspection and testing Storage |            |            |               |                   |                   |               |             |               |              |           |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=3>>Figure A.4 — Simplified example of a software life cycle<<HEADING_END>>
+<<HEADING level=3>>13<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<HEADING level=3>>Table A.1 — Software quality plan — Activity reference  (see figure A.4)<<HEADING_END>>
+<<HEADING level=3>>Ref.
+Activity description
+Procedure
+Comment
+Assigned to
+Approval
+authority<<HEADING_END>>
+<<PARAGRAPH>>1
+Contract review
+QM 5.2
+Contract M & P 1091
+AMM<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Review plans
+PMM 5.4
+GT<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Requirements review
+QM 5.3
+Produce Doc. RS001
+SME<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Design
+PMM 5.6
+Produce Doc. DS001
+UT<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Design review
+QM 5.6
+Use expert review
+SME<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Software implementation
+SDM 5.6
+Use C+ +<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Code review
+QM 5.7
+Use Fagan inspection<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+Unit tests
+SDM 5.7<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+System integration
+SDM 5.7<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+System test
+QM 5.7
+Use customer data<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+Clear nonconformances
+QM 5.7<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+User acceptance tests
+QM 5.8
+Client witnessing only<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+Technical transfer
+PMM 5.9<<PARAGRAPH_END>>
+<<HEADING level=3>>14<<HEADING_END>>
+<<TABLE_1>>
+| Ref.   | Activity description    | Procedure   | Comment                | Assigned to   | Approval    |
+|        |                         |             |                        |               | authority   |
+|:-------|:------------------------|:------------|:-----------------------|:--------------|:------------|
+| 1      | Contract review         | QM5.2       | Contract M&P 1091      | AMM           |             |
+| 2      | Review plans            | PMM5.4      | Produce Doc. RS001     | GT            |             |
+| 3      | Requirements review     | QM5.3       | Produce Doc. DS001     | SME           |             |
+| 4      | Design                  | PMM5.6      | Use expert review      | UT            |             |
+| 5      | Design review           | QM5.6       | Use C+ +               | SME           |             |
+| 6      | Software implementation | SDM5.6      | Use Fagan inspection   |               |             |
+| 7      | Code review             | QM5.7       | Use customer data      |               |             |
+| 8      | Unit tests              | SDM5.7      | Client witnessing only |               |             |
+| 9      | System integration      | SDM5.7      |                        |               |             |
+| 10     | System test             | QM5.7       |                        |               |             |
+| 11     | Clear nonconformances   | QM5.7       |                        |               |             |
+| 12     | User acceptance tests   | QM5.8       |                        |               |             |
+| 13     | Technical transfer      | PMM5.9      |                        |               |             |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<HEADING level=3>>  ISO
+ISO 10005:1995(E)<<HEADING_END>>
+<<HEADING level=2>>Annex B
+(informative)<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[ 1 ]  ISO 9000-1:1994, Quality management and
+quality assurance standards — Part 1: Guide-
+lines for selection and use.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 9 ]  ISO 9004-2:1991, Quality management and
+quality system elements — Part 2: Guidelines
+for services.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 2 ]  ISO 9000-2:1993, Quality management and
+quality assurance standards — Part 2: Generic
+guidelines for the application of ISO 9001, ISO
+9002 and ISO 9003.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 10 ]  ISO 9004-3:1993, Quality management and
+quality system elements — Part 3: Guidelines
+for processed materials.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 11 ]  ISO 10007:1995,
+Quality
+management
+—
+Guidelines for configuration management.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 3 ]  ISO 9000-3:1991, Quality management and
+quality assurance standards — Part 3: Guide-
+lines for the application of ISO 9001 to the de-
+velopment,
+supply
+and maintenance
+of
+software.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 12 ]  ISO 10011-1:1990, Guidelines for auditing qual-
+ity systems — Part 1: Auditing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 13 ]  ISO 10011-2:1991, Guidelines for auditing qual-
+ity systems — Part 2: Qualification criteria for
+quality systems auditors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 4 ]  ISO 9000-4:1993, Quality management and
+quality assurance standards — Part 4: Guide to
+dependability programme management.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 14 ]  ISO 10011-3:1991, Guidelines for auditing qual-
+ity systems — Part 3: Management of audit
+programmes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 5 ]  ISO 9001:1994, Quality systems — Model for
+quality assurance in design, development, pro-
+duction, installation and servicing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 15 ]  ISO 10012-1:1992, Quality assurance require-
+ments for measuring equipment — Part 1:
+Metrological confirmation system for measuring
+equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 6 ]  ISO 9002:1994, Quality systems — Model for
+quality assurance in production, installation and
+servicing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 16 ]  ISO 10013:1995,
+Guidelines
+for
+developing
+quality manuals.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 7 ]  ISO 9003:1994, Quality systems — Model for
+quality assurance in final inspection and test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 17 ]  IEC 300-2:— 1) , Dependability programme man-
+agement — Part 2: Dependability programme
+elements and tasks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[ 8 ]  ISO 9004-1:1994, Quality management and
+quality system elements — Part 1: Guidelines.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)  To be published.<<PARAGRAPH_END>>
+<<HEADING level=3>>15<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=3>>ISO 10005:1995(E)
+ ISO<<HEADING_END>>
+<<HEADING level=3>>ICS 03.120.10<<HEADING_END>>
+<<HEADING level=3>>Descriptors:   quality management,  quality assurance,  quality assurance systems,  components,  general conditions.<<HEADING_END>>
+<<PARAGRAPH>>Price based on 15 pages<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 22
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 315x293
+
+Total Tables: 2
+
+Table Reference List:
+[TABLE_1] Page: 18, Size: 4x11
+[TABLE_1] Page: 20, Size: 2x6
+<<SECTION_END>>
+<<DOCUMENT_END>>

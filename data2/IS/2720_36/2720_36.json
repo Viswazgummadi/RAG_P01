@@ -1,0 +1,3672 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "( Reaffirmed 1997 )",
+          "bbox": [
+            365.0,
+            52.66,
+            442.53,
+            65.03
+          ],
+          "block_id": "b1_0",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 541.0,
+        "height": 783.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS  :  2720 (  Part 36 ) - 1987\nIndian Standard",
+          "bbox": [
+            203.59,
+            35.31,
+            507.03,
+            75.81
+          ],
+          "block_id": "b2_0",
+          "font_size": 18.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF TEST FOR SOILS",
+          "bbox": [
+            120.55,
+            82.28,
+            424.81,
+            102.68
+          ],
+          "block_id": "b2_1",
+          "font_size": 17.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 36\nLABORATORY\nDETERMINATION\nOF PERMEABILITY\nOF",
+          "bbox": [
+            100.63,
+            110.84,
+            442.39,
+            121.16
+          ],
+          "block_id": "b2_2",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "GRANULAR\nOF SOIL ( CONSTANT",
+          "bbox": [
+            160.15,
+            124.52,
+            329.59,
+            134.84
+          ],
+          "block_id": "b2_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "HEAD )",
+          "bbox": [
+            342.31,
+            124.76,
+            379.99,
+            135.08
+          ],
+          "block_id": "b2_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  First Revision )",
+          "bbox": [
+            205.99,
+            142.77,
+            340.75,
+            164.13
+          ],
+          "block_id": "b2_4",
+          "font_size": 13.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0.\nFOREWORD",
+          "bbox": [
+            208.15,
+            189.45,
+            291.94,
+            200.95
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "fulfilled,\nthat\nis, when\nthe flow is steady\nant1 Iaminar\nand\nthe soil\nis saturated\nand\nthe rate\nof flow\nis\nproportional\nto the\nhydraulic\ngradient.\nPart\n17 of\nthis\nstandard\ncovers\nthe\ngeneral\nmethod\nbut\nthis\npart\ncovers\nthe disturbed\ngranular\nmaterials\ncont-\naining\nless\nthan\n10 percent\nsoil passing\nthrough\n75\nmicron\nIS\nsieve\nwhich\nare\nused\nin embankments,\nearth\ndams\nbase\ncourses,\netc and\nthus\nhas different\ntest apparatus.\nThis\nstandard\nwas first published\nin\n1975. Based on the\nexperience\ngained\nin conducting\nthis test\nin the\npast\n13 years,\nthe\nprocedures\nhave\nbeen\nupdated\nand\nfigures\nhave\nbeen\nmodified.\nThe\nopportunity\nhas also\nbeen\ntaken\nto make\nreferences\nof latest\nIndian\nStandards\nwhich\nhave\nbeen\npublish-\ned or revised\nin this period.",
+          "bbox": [
+            275.59,
+            211.22,
+            505.81,
+            363.15
+          ],
+          "block_id": "b2_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.1\nThis\nIndian\nStandard\n( Part\n36 ) ( First\nlievi-\nsion  ) \\vas\nadopted\nby\nthe\nBureau\nof\nIndian\nStandards\non\n29\nOctober\n1987,\nafter\nthe\ndraft\nfinalized\nby\nthe\nSoil\nEngineering\nSectional\nCommittee\nhad\nbeen\napproved\nby\nthe\nCivil\nEngineering\nDivision\nCouncil.",
+          "bbox": [
+            33.67,
+            211.46,
+            259.57,
+            272.19
+          ],
+          "block_id": "b2_7",
+          "font_size": 8.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.2\nWith\na view\nto establish\nuniform\nprocedures\nfor\ndetermination\nof different\ncharacteristics\nof\nsoils\nand\nalso for facilitating\ncomparative\nstudies\nof the\nresults,\nan Indian\nStandard\non\nmethods\nof test for\nsoils ( IS  : 2i20 )  is  being\npublished\nin various\nparts.\n\u2018I\u2019his part\ndescribes\nthe method\nfor\ndetermination\nof coefficient\nof permeability\nof granular\nsoils by a\nconstant\nhead\nmethod\nand\nunder\nconditions\nof\nlaminar\nflow\nof water.\nThe\nknowledge\nof\nthis\nproperty\nis essential\nin\na\nsolution\nof\nproblems\ninvolving\nde-watering,\nyield of water\nbearing\nstrata,\nseepage\nthrough\nearth\ndams,\netc.\nA reliable\ndeter-\nmination\nof permeability\ncan\nbe made\nonly\nwhen\nthe\nconditions\nfor\nthe validity\nof Darcy\nLaw\nare",
+          "bbox": [
+            32.47,
+            279.38,
+            263.41,
+            421.47
+          ],
+          "block_id": "b2_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.3\nIn\nreporting\nthe\nresult\nof a\ntest\nor\nanalysis\nmade\nin\naccordance\nwith\nthis\nstandard,\nif the final\nvalue,\nobserved\nor calculated,\nis to be rounded\noff,\nit shall\nbe done\nin accordance\nwith\nIS  :  2-l!J60*.",
+          "bbox": [
+            275.59,
+            366.26,
+            504.37,
+            407.66
+          ],
+          "block_id": "b2_10",
+          "font_size": 8.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "*Rules\nfor rounding\noff numerical\nvalues\n(  t-c&cd).",
+          "bbox": [
+            291.67,
+            416.23,
+            474.91,
+            425.52
+          ],
+          "block_id": "b2_11",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table\n1. The\npermeameter\nshall\nbe fitted\nwith:",
+          "bbox": [
+            276.31,
+            448.82,
+            482.77,
+            459.39
+          ],
+          "block_id": "b2_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. SCOPE",
+          "bbox": [
+            33.67,
+            451.4,
+            81.51,
+            461.48
+          ],
+          "block_id": "b2_12",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A porous\ndisc\nor suitable\nreinforced\nscreen\nat the\nbottom\nwith\na\npermeability\ngreater\nthan\nthat\nof the\nsoil\nspecimen,\nbut\nwith\nopenings\nsufficiently\nsmall\n( not larger\nthan\n10 percent\nof finer\nsize of the soil to be test-\ned ) to prevent\nthe movement\nof particles;",
+          "bbox": [
+            311.35,
+            468.26,
+            503.41,
+            529.47
+          ],
+          "block_id": "b2_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.1 l\u2019his  standard\n( Part\n:;6 ) describes\nthe method\nfor determining\ncoefficient\nof permeability\nof gran-\nular\nFoils by\na constant\nhead\nmethod\nand\nunder\nconditions\nof laminar\nflow\nof water.\nThis\nmethod",
+          "bbox": [
+            32.95,
+            469.7,
+            258.37,
+            510.75
+          ],
+          "block_id": "b2_13",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "is\nsuitable\nfor\ndisturbed\ngranular\nsoil\ncontaining\nless than\n10 percent\nsoil passing\n75-micron\nIS Sieve,\nthe\ntype\nof\nmaterial\nused\nfor\nconstruction\nof\nembankments\na-d\nbase courses\nunder\npavements",
+          "bbox": [
+            33.19,
+            510.26,
+            263.41,
+            551.07
+          ],
+          "block_id": "b2_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manometer\noutlets\nfor measuring\nthe loss of\nhead,\n11. over\na length,\nL,  equivalent\nto at\nleast\nthe diameter\nof the cylinder;\nand",
+          "bbox": [
+            310.63,
+            541.22,
+            506.53,
+            571.95
+          ],
+          "block_id": "b2_20",
+          "font_size": 9.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.1.1  PIerequisite\nfor\nlaminar\nflow\nof\nwater\nthrough\ngranular\nsoils\nis that,\nwater\nshall\nflow\nbelow\ncriiical\nvelocity\nso that\nthere\nis no movement\nor clisrurbance\nof\nsoil\nparticles;\nmoreover,\nwater\nshall\nflow\nthrough\nsaturated\nsoil\nvoids\nwithout\nhavinq\nbubbles\nin them,\nand\nthere\nshall\nbe\nno\nchange\nin soil volume\nnor any\nchange\nin hydraulic\ngradient\nduring\nthe performance\nof the test.",
+          "bbox": [
+            33.19,
+            559.46,
+            262.93,
+            640.83
+          ],
+          "block_id": "b2_15",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A porous\ndisc or suitable\nreinforced\nscreen\nwith\nspring\nattached\nto the* top, or any other\ndevice\nfor applying\na light\nspring\npressure\nof 2 to 4 kg total\nload\nwhen\nthe\ntop plate\nis\nattached\nin\nplace.\nThis\nwill\nhold\nthe\nplacement\ndensity\nand\nvolume\nof soil with-\nout significant\nchange\nduring\nthe saturation\nof the specimen\nand the permeability\ntesting\nto satisfy\nthe requirement\nthat\nthere\nshould\nbe no soil volume\nchange\nduring\na tcbt.",
+          "bbox": [
+            311.59,
+            583.22,
+            505.09,
+            684.51
+          ],
+          "block_id": "b2_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.  EQUIPMENT",
+          "bbox": [
+            33.67,
+            653.06,
+            108.39,
+            663.63
+          ],
+          "block_id": "b2_16",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1  Permeameter\n-\nAs\nshown\nin\nFig.\n1,\nthe\npermeameter\nshall\nhave\nspecimen\ncylinders\nwith\nminimum\ndiameters\napproximately\n8 or\n12 times\nthe\nmaximum\nparticle\nsize\nin\naccordance\nwith",
+          "bbox": [
+            33.43,
+            672.02,
+            262.21,
+            713.31
+          ],
+          "block_id": "b2_17",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTK -- Perforated\nmetal\ndisc may\nalso\nhe used for the\ntest.",
+          "bbox": [
+            289.03,
+            693.91,
+            508.21,
+            712.08
+          ],
+          "block_id": "b2_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            270.31,
+            718.1,
+            276.37,
+            728.67
+          ],
+          "block_id": "b2_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 554.0880126953125,
+        "height": 779.4320068359375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            24.64,
+            606.72,
+            49.36
+          ],
+          "block_id": "img3_0"
+        },
+        {
+          "type": "text",
+          "content": "IS  :  2720 ( Part 36 ) - 1987",
+          "bbox": [
+            50.64,
+            43.67,
+            174.11,
+            55.54
+          ],
+          "block_id": "b3_31",
+          "font_size": 8.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            49.36,
+            606.72,
+            74.08
+          ],
+          "block_id": "img3_1"
+        },
+        {
+          "type": "text",
+          "content": "fitted with  suitable\ncontrol\nvalves to prevent forrna-\ntion\nof air  bubbles\nin the soil\nvoids.\nThe size of\nthe constant\nhead filter tank shall\nbe large enough\nto meet the demand\ndepending\nupon\nthe permeabi-\nlity of the specimen.",
+          "bbox": [
+            295.2,
+            67.84,
+            527.34,
+            118.24
+          ],
+          "block_id": "b3_47",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            74.08,
+            606.72,
+            98.8
+          ],
+          "block_id": "img3_2"
+        },
+        {
+          "type": "text",
+          "content": "TABLE\n1  CYLINDER\nDIAMETER",
+          "bbox": [
+            95.28,
+            75.67,
+            231.76,
+            83.92
+          ],
+          "block_id": "b3_32",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( ClUUJf?S 2.1 and 4.1 )",
+          "bbox": [
+            131.04,
+            86.32,
+            208.96,
+            94.48
+          ],
+          "block_id": "b3_33",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            98.8,
+            606.72,
+            123.52
+          ],
+          "block_id": "img3_3"
+        },
+        {
+          "type": "text",
+          "content": "MAXIIUM\nh\u2019IINIML3f CYLIPTDEIL\nI,IAMETEll  ( ITlIll )\npARTICIIE SIZE\n_--\n- -___._-A_-----.-_--\n7\nBETWEEN\nIS\nNot More than 35 per-\nMore than 35 per-",
+          "bbox": [
+            50.4,
+            98.87,
+            285.44,
+            126.27
+          ],
+          "block_id": "b3_34",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE -\nThere\nare several\nmethods\nof reducing\nair\ncon-\ntent of water,\nsuch as (a) by boiling,\n(b) by\nspraying\nwater\ninto a partial\nvacuum,\n(c) to USC water\nhaving\nhigher\ntem-\nperature,\nat\nleast\n5\u00b0C\nmore than\nthat\nof the soil specimen\nunder\ntest, and (d) by running\nwater\nbefore\nuse\nthrough\na\nporous\nfine\ngrained\nmaterial\nso that the air is rntrapped\nin\nthe interstices\nof the material.\nOut of all these\nlllethods\nof\ndeairing\nwater:\nthe last methodof\npassing\ntap water\nthrough\nfilter is less expensive\nand\nmore\nsuitable,\nspecially\nwheu\nlarge\nquantities\nof deaired\nwater\nare required\nto be used.\nIt will be essential\nthat\nthe\nfilter\nmaterial\nshould\nbe of\nfiner\ngrade\nthan\nthat\nof the soil to be tested\notherwise\nair\nmay come out of the solution\nin water\nwhile passing\nthrough\nthe soil mass.\nHut still if preferred,\nthe deaired\nwater\npre-\npared\nby\nboiling\nor spraying\nthrough\npartial\nvacuum\nmay\nbe used.\n1",
+          "bbox": [
+            153.6,
+            122.43,
+            528.54,
+            373.78
+          ],
+          "block_id": "b3_48",
+          "font_size": 100.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            123.52,
+            606.72,
+            148.24
+          ],
+          "block_id": "img3_4"
+        },
+        {
+          "type": "text",
+          "content": "SIEVE\nOPENINGS\ncent\nof\nTotal\nSoil\ncent\nof Total\nSoil\n(mm)\nRetained\non\nSieve\nRetained\non Sieve\nOpening\nOpening\n~._--*-_~~\nr__--h_--~\n2.00 mm\n1090 mm\n2\u201900 mm\n10\u201900 mm",
+          "bbox": [
+            51.12,
+            125.31,
+            283.74,
+            167.0
+          ],
+          "block_id": "b3_35",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            148.24,
+            606.72,
+            172.96
+          ],
+          "block_id": "img3_5"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            172.96,
+            606.72,
+            197.68
+          ],
+          "block_id": "img3_6"
+        },
+        {
+          "type": "text",
+          "content": "(1)\n(2)\n(3)\n(4)\n(5)",
+          "bbox": [
+            79.68,
+            173.31,
+            270.3,
+            182.84
+          ],
+          "block_id": "b3_36",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.00 and\n10\u201900\n00\n-\n120\n-",
+          "bbox": [
+            54.48,
+            185.55,
+            266.46,
+            194.84
+          ],
+          "block_id": "b3_37",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IO.00 and 20.00\n-\n160\n-\n230",
+          "bbox": [
+            51.36,
+            196.59,
+            271.98,
+            206.36
+          ],
+          "block_id": "b3_38",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            197.68,
+            606.72,
+            222.4
+          ],
+          "block_id": "img3_7"
+        },
+        {
+          "type": "text",
+          "content": "NOTE -\nThe diameter\nto length\nratio\nmay\nbe about\n1 :  2.",
+          "bbox": [
+            70.56,
+            208.55,
+            285.18,
+            220.42
+          ],
+          "block_id": "b3_39",
+          "font_size": 7.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            222.4,
+            606.72,
+            247.12
+          ],
+          "block_id": "img3_8"
+        },
+        {
+          "type": "text",
+          "content": "2.2 Constant-Head\nFilter\nTank\n-\nThis shall be\nas  shown\nin Fig.\nI,\nto supply\nwater\nand shall\nbe",
+          "bbox": [
+            50.88,
+            233.2,
+            282.78,
+            253.36
+          ],
+          "block_id": "b3_40",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            247.12,
+            606.72,
+            271.84
+          ],
+          "block_id": "img3_9"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            271.84,
+            606.72,
+            296.56
+          ],
+          "block_id": "img3_10"
+        },
+        {
+          "type": "text",
+          "content": "25",
+          "bbox": [
+            116.88,
+            280.48,
+            127.02,
+            290.32
+          ],
+          "block_id": "b3_45",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a\n9",
+          "bbox": [
+            77.76,
+            283.81,
+            102.29,
+            319.06
+          ],
+          "block_id": "b3_41",
+          "font_size": 29.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            296.56,
+            606.72,
+            321.28
+          ],
+          "block_id": "img3_11"
+        },
+        {
+          "type": "text",
+          "content": "b",
+          "bbox": [
+            103.68,
+            305.64,
+            109.45,
+            315.2
+          ],
+          "block_id": "b3_44",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            321.28,
+            606.72,
+            346.0
+          ],
+          "block_id": "img3_12"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            346.0,
+            606.72,
+            370.72
+          ],
+          "block_id": "img3_13"
+        },
+        {
+          "type": "text",
+          "content": "t\nOVER-\nFLOW",
+          "bbox": [
+            150.72,
+            356.39,
+            177.42,
+            387.76
+          ],
+          "block_id": "b3_46",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            370.72,
+            606.72,
+            395.44
+          ],
+          "block_id": "img3_14"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            395.44,
+            606.72,
+            420.16
+          ],
+          "block_id": "img3_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            420.16,
+            606.72,
+            444.88
+          ],
+          "block_id": "img3_16"
+        },
+        {
+          "type": "text",
+          "content": "-f",
+          "bbox": [
+            77.76,
+            435.35,
+            85.44,
+            447.22
+          ],
+          "block_id": "b3_42",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            444.88,
+            606.72,
+            469.6
+          ],
+          "block_id": "img3_17"
+        },
+        {
+          "type": "text",
+          "content": "L\n0  a\nw\nI\nA_\nB'",
+          "bbox": [
+            78.48,
+            448.1,
+            106.72,
+            517.3
+          ],
+          "block_id": "b3_43",
+          "font_size": 18.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            469.6,
+            606.72,
+            494.32
+          ],
+          "block_id": "img3_18"
+        },
+        {
+          "type": "text",
+          "content": "-  I III\nsot  L\nSPECIMEN\nIII",
+          "bbox": [
+            174.24,
+            491.51,
+            332.93,
+            527.44
+          ],
+          "block_id": "b3_49",
+          "font_size": 17.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            494.32,
+            606.72,
+            519.04
+          ],
+          "block_id": "img3_19"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            519.04,
+            606.72,
+            543.76
+          ],
+          "block_id": "img3_20"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            543.76,
+            606.72,
+            568.48
+          ],
+          "block_id": "img3_21"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            568.48,
+            606.72,
+            593.2
+          ],
+          "block_id": "img3_22"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            593.2,
+            606.72,
+            617.92
+          ],
+          "block_id": "img3_23"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            617.92,
+            606.72,
+            642.64
+          ],
+          "block_id": "img3_24"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            642.64,
+            606.72,
+            667.36
+          ],
+          "block_id": "img3_25"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            667.36,
+            606.72,
+            692.08
+          ],
+          "block_id": "img3_26"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            692.08,
+            606.72,
+            716.8
+          ],
+          "block_id": "img3_27"
+        },
+        {
+          "type": "text",
+          "content": "Constant-head\nfilter tank\n( NTC\nj\nFilter\ntank valve\nInlet\nvalve\nTop plate\nPorous\ndisc or screen\nScreened\nmanometer\ngroove\nSpring\nManometer\nvalve",
+          "bbox": [
+            119.28,
+            698.19,
+            245.58,
+            764.6
+          ],
+          "block_id": "b3_50",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manometer\ntubes\nMetal\nor transparent\nacrylic\nplastic\ncylinder\nhlanometer\noutlet\nScreen\nTap water\nvalve\nOutlet\nvalve\nGravel\nfilter",
+          "bbox": [
+            307.2,
+            698.67,
+            464.22,
+            756.92
+          ],
+          "block_id": "b3_52",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9)\n10)\n11)\n12)\n13)\n14)\n15)",
+          "bbox": [
+            292.08,
+            699.87,
+            304.14,
+            758.36
+          ],
+          "block_id": "b3_51",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            716.8,
+            606.72,
+            741.52
+          ],
+          "block_id": "img3_28"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            741.52,
+            606.72,
+            766.24
+          ],
+          "block_id": "img3_29"
+        },
+        {
+          "type": "text",
+          "content": "FIG.\n1\nCONSTANT HEAD PBRMEAMETER",
+          "bbox": [
+            204.72,
+            765.67,
+            381.92,
+            773.78
+          ],
+          "block_id": "b3_53",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            766.24,
+            606.72,
+            790.96
+          ],
+          "block_id": "img3_30"
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            275.76,
+            777.72,
+            282.59,
+            786.96
+          ],
+          "block_id": "b3_54",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_0",
+          "bbox": [
+            0.0,
+            24.64,
+            606.72,
+            49.36
+          ]
+        },
+        {
+          "block_id": "img3_1",
+          "bbox": [
+            0.0,
+            49.36,
+            606.72,
+            74.08
+          ]
+        },
+        {
+          "block_id": "img3_2",
+          "bbox": [
+            0.0,
+            74.08,
+            606.72,
+            98.8
+          ]
+        },
+        {
+          "block_id": "img3_3",
+          "bbox": [
+            0.0,
+            98.8,
+            606.72,
+            123.52
+          ]
+        },
+        {
+          "block_id": "img3_4",
+          "bbox": [
+            0.0,
+            123.52,
+            606.72,
+            148.24
+          ]
+        },
+        {
+          "block_id": "img3_5",
+          "bbox": [
+            0.0,
+            148.24,
+            606.72,
+            172.96
+          ]
+        },
+        {
+          "block_id": "img3_6",
+          "bbox": [
+            0.0,
+            172.96,
+            606.72,
+            197.68
+          ]
+        },
+        {
+          "block_id": "img3_7",
+          "bbox": [
+            0.0,
+            197.68,
+            606.72,
+            222.4
+          ]
+        },
+        {
+          "block_id": "img3_8",
+          "bbox": [
+            0.0,
+            222.4,
+            606.72,
+            247.12
+          ]
+        },
+        {
+          "block_id": "img3_9",
+          "bbox": [
+            0.0,
+            247.12,
+            606.72,
+            271.84
+          ]
+        },
+        {
+          "block_id": "img3_10",
+          "bbox": [
+            0.0,
+            271.84,
+            606.72,
+            296.56
+          ]
+        },
+        {
+          "block_id": "img3_11",
+          "bbox": [
+            0.0,
+            296.56,
+            606.72,
+            321.28
+          ]
+        },
+        {
+          "block_id": "img3_12",
+          "bbox": [
+            0.0,
+            321.28,
+            606.72,
+            346.0
+          ]
+        },
+        {
+          "block_id": "img3_13",
+          "bbox": [
+            0.0,
+            346.0,
+            606.72,
+            370.72
+          ]
+        },
+        {
+          "block_id": "img3_14",
+          "bbox": [
+            0.0,
+            370.72,
+            606.72,
+            395.44
+          ]
+        },
+        {
+          "block_id": "img3_15",
+          "bbox": [
+            0.0,
+            395.44,
+            606.72,
+            420.16
+          ]
+        },
+        {
+          "block_id": "img3_16",
+          "bbox": [
+            0.0,
+            420.16,
+            606.72,
+            444.88
+          ]
+        },
+        {
+          "block_id": "img3_17",
+          "bbox": [
+            0.0,
+            444.88,
+            606.72,
+            469.6
+          ]
+        },
+        {
+          "block_id": "img3_18",
+          "bbox": [
+            0.0,
+            469.6,
+            606.72,
+            494.32
+          ]
+        },
+        {
+          "block_id": "img3_19",
+          "bbox": [
+            0.0,
+            494.32,
+            606.72,
+            519.04
+          ]
+        },
+        {
+          "block_id": "img3_20",
+          "bbox": [
+            0.0,
+            519.04,
+            606.72,
+            543.76
+          ]
+        },
+        {
+          "block_id": "img3_21",
+          "bbox": [
+            0.0,
+            543.76,
+            606.72,
+            568.48
+          ]
+        },
+        {
+          "block_id": "img3_22",
+          "bbox": [
+            0.0,
+            568.48,
+            606.72,
+            593.2
+          ]
+        },
+        {
+          "block_id": "img3_23",
+          "bbox": [
+            0.0,
+            593.2,
+            606.72,
+            617.92
+          ]
+        },
+        {
+          "block_id": "img3_24",
+          "bbox": [
+            0.0,
+            617.92,
+            606.72,
+            642.64
+          ]
+        },
+        {
+          "block_id": "img3_25",
+          "bbox": [
+            0.0,
+            642.64,
+            606.72,
+            667.36
+          ]
+        },
+        {
+          "block_id": "img3_26",
+          "bbox": [
+            0.0,
+            667.36,
+            606.72,
+            692.08
+          ]
+        },
+        {
+          "block_id": "img3_27",
+          "bbox": [
+            0.0,
+            692.08,
+            606.72,
+            716.8
+          ]
+        },
+        {
+          "block_id": "img3_28",
+          "bbox": [
+            0.0,
+            716.8,
+            606.72,
+            741.52
+          ]
+        },
+        {
+          "block_id": "img3_29",
+          "bbox": [
+            0.0,
+            741.52,
+            606.72,
+            766.24
+          ]
+        },
+        {
+          "block_id": "img3_30",
+          "bbox": [
+            0.0,
+            766.24,
+            606.72,
+            790.96
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 609.0,
+        "height": 793.8400268554688
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 2720 ( Part 36 ) - 1987",
+          "bbox": [
+            406.8,
+            41.24,
+            531.47,
+            50.48
+          ],
+          "block_id": "b4_0",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.3 Large\nFunnels -\nThese\nshall\nbe fitted\nwith\nspecial\ncyliudrical\nspout,\n25 mm\nin\ndiameter\nfor\n10\u201900 mm\nmaximum\nsize\nparticles,\nand 13 mm in\ndiameter\nfor 2.00 mm maximum\nsize particles.\nThe\nlength\nof the spout should\nbe greater\nthan the full\nlength\nof\nthe permeability\nchamber\nat least\nby\n160 mm.",
+          "bbox": [
+            56.16,
+            63.62,
+            286.8,
+            136.11
+          ],
+          "block_id": "b4_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "passing\n75-micron\nIS Sieve and equal\nto an amount\nsufficient\nto satisfy\nthe\nrequirements\nprescribed\nin 3.2\nand 3.3 shail\nbe selected\nby the method\nof\nquartering.",
+          "bbox": [
+            300.48,
+            63.62,
+            532.32,
+            105.39
+          ],
+          "block_id": "b4_12",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.2 A sieve analysis\n[ in accordance\nwith IS  :  2720\n( Part 4 )-1986\u2019\n] shall be made on a representative\nsample\nof the conlplete\nsoil prior to the permeability\ntest.\nAll particles\nlarger\nthan 20 mm\nIS Sieve shall\nbe separated\nout by sieving.\nThis oversize material\nshall\nnot\nbe\nused\nfor\nthe\npermeability\ntest\nbut\nthe\npercentage\nof\nthe\noversize\nmaterial\nshall be recorded.\nThe grading\nanalysis\ndata thus\nobtained\nshall\nalso be utilized\nfor determining\nthe\nrequired\ngrading\nfor sand\nor gravel\nfilter\nto\nbe\nused at the bottom\nand top of the compacted\nsam-\nple in the permearneter.\nFrom\nthe grading\ncurve,\nthe\nparticle\nsizes\ncorresponding\nto 85 percent\nand\n15 percent\npoints\nshall\nbe\nnoted\nand\nthe\nfilter\ndesigned\naccordingly.",
+          "bbox": [
+            298.8,
+            109.27,
+            529.92,
+            262.59
+          ],
+          "block_id": "b4_13",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.4  Specimen\nCompaction\nEquipment\n-\nCOHI-\npaction\nequipment\nas deemed\ndesirable\nmay\nbe\nused.\nThe following\narc suggested:",
+          "bbox": [
+            56.64,
+            140.66,
+            290.27,
+            172.59
+          ],
+          "block_id": "b4_2",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a) A vibrating\ntamper\nfitted\nwith a tamping\nfoot 50 mm in diameter;\n-",
+          "bbox": [
+            77.04,
+            176.66,
+            278.4,
+            198.42
+          ],
+          "block_id": "b4_3",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) A sliding\ntamper\nwith\na\ntamping\nfoot\n50 mm in\ndiameter\nand a rod\nfor\nsliding\nweights\nof 100 g ( for\nsands ) to 1 kg ( for\nsoils with\na large\ngravel\ncontent\n), having\nan adjustable\nheight\nof drop to 100 mm for\nsands\nand\n200 mm\nfor\nsoils\nwith\nlarge\ngravel\ncontents.",
+          "bbox": [
+            76.8,
+            203.3,
+            285.84,
+            275.55
+          ],
+          "block_id": "b4_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOW -- In\norder\nto establish\nrepresentative\nvalues\nof\ncoefficient\nof permeabilities\nfor the range\nwhich  may exist in\nthe soil\nat\nsite\nbeing\ninvestigated,\nsamples\nof the\nfiner,\naverage\nand coarser\nsoils should\nbe obtained\nfor  testing.",
+          "bbox": [
+            308.88,
+            267.71,
+            530.46,
+            301.48
+          ],
+          "block_id": "b4_14",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.5  Vacuum\nPump\nor Water\nFaucet Aspirator\n-\nfor evacuating\nand for saturating\nsoil specimen\nunder\nfull vacuum\n( see Fig. 2 ).",
+          "bbox": [
+            55.2,
+            280.58,
+            278.4,
+            312.51
+          ],
+          "block_id": "b4_5",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.3\nFrom\nthe  material,\nfrom\nwhich the oversize\nhas\nbeen removed\n( see 3.2 ), select\nby the method\nof\nquartering\na sample\nfor testing\nequal\nto an amount\napproximately\ntwice\nthat required\nfor filling\nthe\npermeameter\nchamber.",
+          "bbox": [
+            297.84,
+            307.94,
+            529.44,
+            360.99
+          ],
+          "block_id": "b4_15",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.6  Balance\n-\nIt\nshall\nbe of 2 kg capacity\nand\nsensitive\nto 1 g.",
+          "bbox": [
+            54.96,
+            317.11,
+            282.0,
+            339.39
+          ],
+          "block_id": "b4_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.7  Scoop -\nwith a capacity\nof 100 g of soil.",
+          "bbox": [
+            54.96,
+            343.22,
+            262.08,
+            354.75
+          ],
+          "block_id": "b4_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.8  Miscellaneous\nApparatus\n-\nThermometers,\nclock with\nsweep second\nhand,\n250 ml graduated\ncylinder\nand mixing\npan.",
+          "bbox": [
+            54.24,
+            358.82,
+            274.32,
+            390.75
+          ],
+          "block_id": "b4_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.  PREPARATION\nOF SPECIMEN",
+          "bbox": [
+            297.36,
+            365.54,
+            463.55,
+            377.07
+          ],
+          "block_id": "b4_16",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1 The  size  of permeameter\nto be used\nshall be as\nprescribed\nin Table\n1.",
+          "bbox": [
+            297.12,
+            381.38,
+            528.0,
+            403.47
+          ],
+          "block_id": "b4_17",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.  SAMPLE",
+          "bbox": [
+            54.0,
+            393.14,
+            106.43,
+            404.67
+          ],
+          "block_id": "b4_9",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1 A  representative\nsample\nof air-dried\ngranular\nsoil containing\nIess than\n10 percent\nof the material",
+          "bbox": [
+            53.76,
+            409.22,
+            276.96,
+            430.83
+          ],
+          "block_id": "b4_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "*Methods\nof test\nfor\nsoils:\nPart\n4 Grain\nsize analysis\n(  second revision ).",
+          "bbox": [
+            296.88,
+            412.19,
+            522.54,
+            429.64
+          ],
+          "block_id": "b4_18",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "INLET\nVALVE\n7\n7",
+          "bbox": [
+            129.36,
+            444.68,
+            211.74,
+            465.88
+          ],
+          "block_id": "b4_11",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "FIG. 2\nDEVICE FOR EVAUUATING AND SATURATING SPECIMEN",
+          "bbox": [
+            158.4,
+            690.74,
+            434.99,
+            702.27
+          ],
+          "block_id": "b4_19",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            288.48,
+            712.52,
+            295.31,
+            721.76
+          ],
+          "block_id": "b4_20",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 602.0,
+        "height": 784.0799560546875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            24.28,
+            602.88,
+            49.0
+          ],
+          "block_id": "img5_0"
+        },
+        {
+          "type": "text",
+          "content": "IS  :  2720 ( Part 36 ) - 1987",
+          "bbox": [
+            46.56,
+            36.59,
+            170.99,
+            48.46
+          ],
+          "block_id": "b5_30",
+          "font_size": 8.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            49.0,
+            602.88,
+            73.72
+          ],
+          "block_id": "img5_1"
+        },
+        {
+          "type": "text",
+          "content": "4.2  Make the\nfollowing\ninitial\nmeasurements\nand\nrecord\non the data sheet ( Appendix\nA ), the inside\ndiameter,\nD,  of the\npermeameter;\nthe\nlength,\nL,\nbetween\nthe manometer\noutlets;\nand the depth, 171,\nnleasured\nat four symmetrically\nspaced\npoints from\nthe upper\nsurface\nof the top plate of the permeabi-\nlity cylinder\nto the top of the upper\nporous\nstone or\nscreen temporarily\nplaced\non the lower\nporous plate\nor screen.\nThis automatically\ndeducts\nthe thickness\nof the upper\nporous plate or screen from the height\nmeasurements\nused to determine\nthe volume\nof soil\nplaced\nin the\npermeability\ncylinder.\nA duplicate\ntop plate containing\nfour large\nsymmetrically\nspac-\ned openings\nthrough\nwhich the necessary\nmeasure-\nments can be made,\nshall be employed\nto determine\nthe\naverage\nvalue\nfor HI.\nCalculate\nthe\ncross-\nsectional\narea  A  of the specimen.",
+          "bbox": [
+            44.64,
+            60.54,
+            278.16,
+            233.59
+          ],
+          "block_id": "b5_31",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.5 Compact\nsuccessive\nlayers of soil to the desired\nrelative\ndensity\nby\nappropriate\nprocedure,\nas\nfollows,\nto a height\nof about\n20-mm\nabove\nthe\nupper\nmanometer\noutlet.",
+          "bbox": [
+            288.96,
+            61.5,
+            519.36,
+            103.27
+          ],
+          "block_id": "b5_37",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            73.72,
+            602.88,
+            98.44
+          ],
+          "block_id": "img5_2"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            98.44,
+            602.88,
+            123.16
+          ],
+          "block_id": "img5_3"
+        },
+        {
+          "type": "text",
+          "content": "4.5.1\nMinimum\nDensity\n( <era\nPercent\nRelatiu\nDensity ) -\nContinue\nplacing\nlayers of soil in succes-\nsion by one\nof the\nprocedures\ndescribed\nin\n4.4.1\nuntil\nthe device\nis filled to the proper\nlevel.",
+          "bbox": [
+            287.76,
+            107.58,
+            516.0,
+            149.83
+          ],
+          "block_id": "b5_38",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            123.16,
+            602.88,
+            147.88
+          ],
+          "block_id": "img5_4"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            147.88,
+            602.88,
+            172.6
+          ],
+          "block_id": "img5_5"
+        },
+        {
+          "type": "text",
+          "content": "4.5.2\nMaximum\nDensity )\nDtinsity\n( 100\nPercent\nKelatiile",
+          "bbox": [
+            287.52,
+            154.38,
+            514.87,
+            175.72
+          ],
+          "block_id": "b5_39",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            172.6,
+            602.88,
+            197.32
+          ],
+          "block_id": "img5_6"
+        },
+        {
+          "type": "text",
+          "content": "4.5.2.1\nCompaction by vibrating tamper -\nCow  JLict\neach layer\nof soil thoroughly\nwith\nthe\nvibrating\ntamper,\ndistributing\nthe\nlight tamping\naction\nuni-\nformly\nover the\nsurface\nof the layer\nin a regular\npattern.\nThe pressure\nof contact\nand\nthe length\nof time of the vibrating\naction\nat each\nspot should\nnot cause soil to escape\nfrom beneath\nthe\nedges of\nthe tamping\nfoot, thus tending\nto loosen the layer.\nMake  a  sufficient\nnumber\nof coverages\nto produce\nmaximum\ndensity,\nas evidenced\nby\npractically\nno\nvisible motion\nof surface\nparticles\nadjacent\nto the\nedges 01\u2018 the tamping\nfoot.",
+          "bbox": [
+            287.52,
+            182.92,
+            518.4,
+            303.43
+          ],
+          "block_id": "b5_40",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            197.32,
+            602.88,
+            222.04
+          ],
+          "block_id": "img5_7"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            222.04,
+            602.88,
+            246.76
+          ],
+          "block_id": "img5_8"
+        },
+        {
+          "type": "text",
+          "content": "4.3 .4 small\nportion\nof the\nsample\nselected\nas\nprescribed\nin\n3.2 and 3.3\nshall be taken\nfor water\ncontent\ndeterminations.\nRecord\nthe weight\nof the\nremaining\nair-dried\nsample\n( see 3.3 ), 11/l, for unit\nrveight\ndeterminations.",
+          "bbox": [
+            44.4,
+            240.78,
+            275.52,
+            292.63
+          ],
+          "block_id": "b5_32",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            246.76,
+            602.88,
+            271.48
+          ],
+          "block_id": "img5_9"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            271.48,
+            602.88,
+            296.2
+          ],
+          "block_id": "img5_10"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            296.2,
+            602.88,
+            320.92
+          ],
+          "block_id": "img5_11"
+        },
+        {
+          "type": "text",
+          "content": "4.4 Place\nthe prepared\nsoil by one of the following\nprocedures\nin uniform\nthin layers\napproximately\n15\nLO 20 mm.",
+          "bbox": [
+            44.16,
+            301.02,
+            276.48,
+            332.71
+          ],
+          "block_id": "b5_33",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.5.2.2\nComfioctio?l\nb,v sliding\nweight\ntamker\n--.\nCompact\neach iayer of soil thoroughly\nby tamping\nblows uniformly\ndistributed\nover the surface\nof the\nlayer.\nAdjust\nthe height\nof drop and give suflicient\ncoverages\nto produce\nmaximum\ndensity,\ndepending\non the coarseness\nand gravel\ncontent\nof the soil.",
+          "bbox": [
+            287.28,
+            308.46,
+            516.78,
+            370.63
+          ],
+          "block_id": "b5_41",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            320.92,
+            602.88,
+            345.64
+          ],
+          "block_id": "img5_12"
+        },
+        {
+          "type": "text",
+          "content": "NOTE -\nIn cue  of  granular soils  there\nis every\nlikelihood\nthat\nwater\nwould\nseparate\nthrough\nbetween\nthe specimen\nand the wall\nof the\ncylinder.\nIn\norder\nto\nprevent\nthis,\nspecial\nprecautions\nare\nsuggested\nto be observed.\nFor fine\nsands,\na\nwater-pump\ngrease\nshould\nbe applied\nto\nthe\ncylinder\nwall to prevent\nflow of water\nbetween\nthe specimen\nand the wall.\nFor coarse\nsand,\na 7-mm\nthickness\nof sponge\nrubber\ncemented\nto the\ncylinder\nwall\nis found\nto\nbe\nsatisfactory.",
+          "bbox": [
+            53.76,
+            342.15,
+            274.86,
+            416.48
+          ],
+          "block_id": "b5_34",
+          "font_size": 7.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            345.64,
+            602.88,
+            370.36
+          ],
+          "block_id": "img5_13"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            370.36,
+            602.88,
+            395.08
+          ],
+          "block_id": "img5_14"
+        },
+        {
+          "type": "text",
+          "content": "4.5.2.3\nCompaction\nby other\nmethods -\nCompac-\ntion\nmay\nbe\naccomplished\nby\nother\napproved\nmethods,\nsuch as deposition\nunder\nwater,\nby vibra-\ntory packer\nequipment\nwhere care is taken to obtain\na uniform\nspecimen\nwithout\nsegregation\nof particle\nsizes.",
+          "bbox": [
+            286.32,
+            375.9,
+            512.4,
+            438.55
+          ],
+          "block_id": "b5_42",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            395.08,
+            602.88,
+            419.8
+          ],
+          "block_id": "img5_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            419.8,
+            602.88,
+            444.52
+          ],
+          "block_id": "img5_16"
+        },
+        {
+          "type": "text",
+          "content": "4.4.1  For soils having\na maximum\nsize of 10 mm\nor less,\nplace\nthe\nappropriate\nsize of funnel,\nas\nprescribed\nin\n2.3, in the\npermeability\ndevice with\nthe spout in contact\nwith the lower\nporous\nplate or\nscreen\nor\npreviously\nformed\nlayer,\nand\nfill the\nfunnel\nwith sufficient\nsoil to  form\na layer,\ntaking\nsoil\nfrom different\naleas\nof the sample\nin the pan\nLift\nthe funnel\nby 15 rnnl or approximately\nthe uncon-\nsolidated\nlayer tllickness\nto be formed,\nand spread\nthe soil\nwith a slow\nspiral\nmotion,\nworking\nfrom\nthe perimeter\nof the device towards\nthe centre,\nso\nthat a uniform\nlayer is formed.\nRemix\nthe\nsoil in\nthe pan for each successive\nlayer to reduce\nsegrega-\ntion caused\nby taking\nsoil from the pan.",
+          "bbox": [
+            41.76,
+            423.42,
+            273.84,
+            566.23
+          ],
+          "block_id": "b5_35",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.5.3\nRelative\nDensity Intermediate\nBetween zero\nand\n100 Percent -\nBy  trial in a separate\ncontainer\nof the\nsame diameter\nas the permeability\ncylinder,\nadjust\nthe\ncompaction\nto obtain\nreproducible\nvalues of\nrelative\ndensity.\nCompact\nthe\nsoil in the pcrmea-\nbility\ncylinder\nby these procedures\nin thin layers to\na height\nof about\n20 mm above\nthe upper\nmano-\nmeter\noutlet.",
+          "bbox": [
+            286.32,
+            442.62,
+            517.92,
+            525.19
+          ],
+          "block_id": "b5_43",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            444.52,
+            602.88,
+            469.24
+          ],
+          "block_id": "img5_17"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            469.24,
+            602.88,
+            493.96
+          ],
+          "block_id": "img5_18"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            493.96,
+            602.88,
+            518.68
+          ],
+          "block_id": "img5_19"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            518.68,
+            602.88,
+            543.4
+          ],
+          "block_id": "img5_20"
+        },
+        {
+          "type": "text",
+          "content": "NWE -\nIn order\nto cover\nsystematically\nand\nrepl-c\u2019st\u2019nt,r-\ntively,\nthe\nrelative\ndensity\nconditions\nth.rt may govern\nIn\nnatural\ndeposit,\nor in compacted\nembankments,\na sr.rics\nof\npermeability\ntests\nshould\nbe made\nto cover\nthe range\nof\nfield relative\ndensities.",
+          "bbox": [
+            297.12,
+            528.78,
+            518.46,
+            572.48
+          ],
+          "block_id": "b5_44",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            543.4,
+            602.88,
+            568.12
+          ],
+          "block_id": "img5_21"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            568.12,
+            602.88,
+            592.84
+          ],
+          "block_id": "img5_22"
+        },
+        {
+          "type": "text",
+          "content": "4.4.2 For soils with a maximum\nsize greater\nthan\n10.00 mm,\nspread\nthe soil from\na scoop.\nUniform\nspreading\ncan\nbe obtained\nby sliding\na scoopful\nof\nsoil in a nearly\nhorizontal\nposition\ndown along the\ninside surface\nof the device to the bottom\nor to the\nformed\nlayer,\nthen tilting\nthe scoop and drawing\nit\ntowards\nthe\ncentre\nwith\na single slow\nmotion,\nthis\nallows the soil to run\nsmoothly\nfrom the scoop in a\nwindrow\nwithout\nsegregation.\nTurn\nthe permeability\ncylinder\nsufficiently\nfor the\nnext\nscoopful,\nthus\nprogressing\naround\nthe\ninside\nperimeter\nto form a\nuniform\ncompacted\nlayer\nof a thickness\nequal\nto\nthe maximum\nparticle\nsize.",
+          "bbox": [
+            41.04,
+            570.78,
+            273.36,
+            703.75
+          ],
+          "block_id": "b5_36",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.6\nPreparation\nof  Specimen\nfor Permeability\nTest",
+          "bbox": [
+            286.32,
+            575.82,
+            505.31,
+            597.48
+          ],
+          "block_id": "b5_45",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            592.84,
+            602.88,
+            617.56
+          ],
+          "block_id": "img5_23"
+        },
+        {
+          "type": "text",
+          "content": "4.6.1  Level the upper surface\nof the soil by piaciiig\nthe  upper  porous plate\nor screen in position\nand by\nrotating\nit gently\nclockwise\nand\nanti-clockwise.",
+          "bbox": [
+            285.36,
+            602.7,
+            515.28,
+            634.15
+          ],
+          "block_id": "b5_46",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            617.56,
+            602.88,
+            642.28
+          ],
+          "block_id": "img5_24"
+        },
+        {
+          "type": "text",
+          "content": "4.6.2\nMeasure\nand\nrecord\nthe\nfinal\nheight\nof\nspecimen,\nI?,-&,\nby measuring\nthe depth,\nHz,  flom\nthe\nUpJXr\nSurface\nof\nthe\nperforated\ntop\nplate\nemployed\nto measure\nHI to the top\nof the upper\nporous plate or screen\nat four symmetrically\nspaced\npoints\naf(er compressing\nthe spring\nlightly\nto seat",
+          "bbox": [
+            284.88,
+            640.38,
+            516.96,
+            702.31
+          ],
+          "block_id": "b5_47",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            642.28,
+            602.88,
+            667.0
+          ],
+          "block_id": "img5_25"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            667.0,
+            602.88,
+            691.72
+          ],
+          "block_id": "img5_26"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            691.72,
+            602.88,
+            716.44
+          ],
+          "block_id": "img5_27"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            716.44,
+            602.88,
+            741.16
+          ],
+          "block_id": "img5_28"
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            279.6,
+            718.38,
+            286.08,
+            729.91
+          ],
+          "block_id": "b5_48",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            741.16,
+            602.88,
+            765.88
+          ],
+          "block_id": "img5_29"
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img5_0",
+          "bbox": [
+            0.0,
+            24.28,
+            602.88,
+            49.0
+          ]
+        },
+        {
+          "block_id": "img5_1",
+          "bbox": [
+            0.0,
+            49.0,
+            602.88,
+            73.72
+          ]
+        },
+        {
+          "block_id": "img5_2",
+          "bbox": [
+            0.0,
+            73.72,
+            602.88,
+            98.44
+          ]
+        },
+        {
+          "block_id": "img5_3",
+          "bbox": [
+            0.0,
+            98.44,
+            602.88,
+            123.16
+          ]
+        },
+        {
+          "block_id": "img5_4",
+          "bbox": [
+            0.0,
+            123.16,
+            602.88,
+            147.88
+          ]
+        },
+        {
+          "block_id": "img5_5",
+          "bbox": [
+            0.0,
+            147.88,
+            602.88,
+            172.6
+          ]
+        },
+        {
+          "block_id": "img5_6",
+          "bbox": [
+            0.0,
+            172.6,
+            602.88,
+            197.32
+          ]
+        },
+        {
+          "block_id": "img5_7",
+          "bbox": [
+            0.0,
+            197.32,
+            602.88,
+            222.04
+          ]
+        },
+        {
+          "block_id": "img5_8",
+          "bbox": [
+            0.0,
+            222.04,
+            602.88,
+            246.76
+          ]
+        },
+        {
+          "block_id": "img5_9",
+          "bbox": [
+            0.0,
+            246.76,
+            602.88,
+            271.48
+          ]
+        },
+        {
+          "block_id": "img5_10",
+          "bbox": [
+            0.0,
+            271.48,
+            602.88,
+            296.2
+          ]
+        },
+        {
+          "block_id": "img5_11",
+          "bbox": [
+            0.0,
+            296.2,
+            602.88,
+            320.92
+          ]
+        },
+        {
+          "block_id": "img5_12",
+          "bbox": [
+            0.0,
+            320.92,
+            602.88,
+            345.64
+          ]
+        },
+        {
+          "block_id": "img5_13",
+          "bbox": [
+            0.0,
+            345.64,
+            602.88,
+            370.36
+          ]
+        },
+        {
+          "block_id": "img5_14",
+          "bbox": [
+            0.0,
+            370.36,
+            602.88,
+            395.08
+          ]
+        },
+        {
+          "block_id": "img5_15",
+          "bbox": [
+            0.0,
+            395.08,
+            602.88,
+            419.8
+          ]
+        },
+        {
+          "block_id": "img5_16",
+          "bbox": [
+            0.0,
+            419.8,
+            602.88,
+            444.52
+          ]
+        },
+        {
+          "block_id": "img5_17",
+          "bbox": [
+            0.0,
+            444.52,
+            602.88,
+            469.24
+          ]
+        },
+        {
+          "block_id": "img5_18",
+          "bbox": [
+            0.0,
+            469.24,
+            602.88,
+            493.96
+          ]
+        },
+        {
+          "block_id": "img5_19",
+          "bbox": [
+            0.0,
+            493.96,
+            602.88,
+            518.68
+          ]
+        },
+        {
+          "block_id": "img5_20",
+          "bbox": [
+            0.0,
+            518.68,
+            602.88,
+            543.4
+          ]
+        },
+        {
+          "block_id": "img5_21",
+          "bbox": [
+            0.0,
+            543.4,
+            602.88,
+            568.12
+          ]
+        },
+        {
+          "block_id": "img5_22",
+          "bbox": [
+            0.0,
+            568.12,
+            602.88,
+            592.84
+          ]
+        },
+        {
+          "block_id": "img5_23",
+          "bbox": [
+            0.0,
+            592.84,
+            602.88,
+            617.56
+          ]
+        },
+        {
+          "block_id": "img5_24",
+          "bbox": [
+            0.0,
+            617.56,
+            602.88,
+            642.28
+          ]
+        },
+        {
+          "block_id": "img5_25",
+          "bbox": [
+            0.0,
+            642.28,
+            602.88,
+            667.0
+          ]
+        },
+        {
+          "block_id": "img5_26",
+          "bbox": [
+            0.0,
+            667.0,
+            602.88,
+            691.72
+          ]
+        },
+        {
+          "block_id": "img5_27",
+          "bbox": [
+            0.0,
+            691.72,
+            602.88,
+            716.44
+          ]
+        },
+        {
+          "block_id": "img5_28",
+          "bbox": [
+            0.0,
+            716.44,
+            602.88,
+            741.16
+          ]
+        },
+        {
+          "block_id": "img5_29",
+          "bbox": [
+            0.0,
+            741.16,
+            602.88,
+            765.88
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 604.0,
+        "height": 785.7999877929688
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            0.12,
+            604.8,
+            24.84
+          ],
+          "block_id": "img6_0"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            24.84,
+            604.8,
+            49.56
+          ],
+          "block_id": "img6_1"
+        },
+        {
+          "type": "text",
+          "content": "IS : 2720 ( Part 36 ) - 1987",
+          "bbox": [
+            397.68,
+            39.24,
+            526.38,
+            49.32
+          ],
+          "block_id": "b6_31",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            49.56,
+            604.8,
+            74.28
+          ],
+          "block_id": "img6_2"
+        },
+        {
+          "type": "text",
+          "content": "the porous plate or screen during\nthe meesurements;\nthe final weight of air-dried\nsoil used in the test ( W,\n-\nW2 ) by weighing\nthe remainder\nof soil W2 left\nin the pan.\nCompute\nand\nrecord\nthe unit weights,\nvoid ratio, and relative\ndensity\nof the test specimen.",
+          "bbox": [
+            44.88,
+            62.28,
+            276.54,
+            112.44
+          ],
+          "block_id": "b6_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "of flow Q, and water temperature\nT.",
+          "bbox": [
+            289.2,
+            63.0,
+            452.46,
+            72.84
+          ],
+          "block_id": "b6_38",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            74.28,
+            604.8,
+            99.0
+          ],
+          "block_id": "img6_3"
+        },
+        {
+          "type": "text",
+          "content": "5.2 Repeat\nthe\ntest runs at\nheads,\nincreasing\nby 5\nmm\nin order\nto establish\naccurately\nthe\nregion of\nlaminar\nflow\nwith\nvelocity\nu ( where u = Q/At ),\ndirectly\nproportional\nto hydraulic\ngradient\ni (  where\ni = h/L ).\nWhen\ndepartures\nfrom\nthe linear\nrela-\ntion\nbecome\napparent,\nindicating\nthe initiation\nof\nturbulent\nflow conditions,\n10 mm intervals,\nof head\nmay be used to carry\nthe test run\nsufficiently\nalong\nin the region\nof turbulent\nflow to define this region\nif it is significant\nfor field conditions.",
+          "bbox": [
+            288.96,
+            79.32,
+            521.1,
+            180.12
+          ],
+          "block_id": "b6_39",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            99.0,
+            604.8,
+            123.72
+          ],
+          "block_id": "img6_4"
+        },
+        {
+          "type": "text",
+          "content": "4.6.3\nWith its gasket in place,\npress down the top\nplate against\nthe spring and attach\nit securely\nto the\ntop of the permearneter\ncylinder,\nmaking\nan airtight\nseal.\nThis\nsatisfies\nthe\ncondition\nof\nno\nvolume\nchange\nduring tesling for holding\nthe initial density.",
+          "bbox": [
+            44.4,
+            119.16,
+            276.54,
+            169.32
+          ],
+          "block_id": "b6_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            123.72,
+            604.8,
+            148.44
+          ],
+          "block_id": "img6_5"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            148.44,
+            604.8,
+            173.16
+          ],
+          "block_id": "img6_6"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            173.16,
+            604.8,
+            197.88
+          ],
+          "block_id": "img6_7"
+        },
+        {
+          "type": "text",
+          "content": "4.6.4\nConnect\nthe inlet tube\nof the\ntop plate\nof\nthe\npermeameter\nto a vacuum\npump\nor\nsuitable\naspirator\ncapable\nof evacuating\nthe air content\nfrom\nthe specimen\nand the outlet\ntube in the base\nplate\nto the water container\nas shown\nin Fig. 2.\nClose\nthe manometer\noutlets\n[ see 2.1 ( b ) 1 and the outlet\nvaly,e at the base plate of the permeameter.\nUsing\na v.lcuum\npump\nor\naspirator,\nevacuate\nthe speci-\nmen\nunder\n500 mmHg,\nminimum\nfor 15 minutes\nto remove\nair\nadhering\nto  soil particles\nand\nfrom\nthe voids.\nFollow\nthe evacuation\nby a slow satura-\ntion of the specimen\nfrom the bottom upward\nunder\nfull vacuum\nin order to force any remaining\nair in\nthe specimen.\nContinued\nsaturation\nof the specimen\ncan\nbe maintained\nmore adequately\nby\nthe use of\ndeaired\nwater,\nor\nwater maintained\nat an in-flow\ntemperature\nsufficiently\nhigh to cause a decreasing\ntemperature\ngradient\nin the specimen\nduring\nthe\ntest.\nNative\nwater or water of low mineral\ncontent\n( see Note ) should be\nused for the\ntest, but in any\ncase\nthe\nfluid should\nbe\ndescribed\non the\nreport\nform ( Appendix\nA ).\nThis satisfies\nthe conditions\nof laminar\nflow through\nsaturated\nsoil voids.\nNOTE -  Native water is water occurring in the rock or\nsoil  in.situ.\nIt  should be used if possible,\nbut it ( as well as\ndeaired\nwater ) may\nneed\na refinement\nnot\nordinarily\nfeasible\nfor large\nscale\nproduction\ntesting\nin which case\navailable\nwater may be used and so stated in the report.",
+          "bbox": [
+            43.68,
+            176.76,
+            277.26,
+            452.5
+          ],
+          "block_id": "b6_34",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE -\nMuch\nlower\nvalues of hydraulic\ngradient\nh/l.\nare required\nthan generally\nrecognized,\nin order to\nensure\nlaminar\nflow conditions.\nThe following\nvalues are sugges-\nted:\nloose\ncompactness\nratings\nh/L\nfrom 0+2 to @3; and\ndense compactness\nratings  h/L  from\n0.3\nto 0.5;\nthe lower\nvalues of  h/L  apply to coarser soils and the higher values\nto\nfiner soils.",
+          "bbox": [
+            298.8,
+            186.33,
+            520.38,
+            243.7
+          ],
+          "block_id": "b6_40",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            197.88,
+            604.8,
+            222.6
+          ],
+          "block_id": "img6_8"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            222.6,
+            604.8,
+            247.32
+          ],
+          "block_id": "img6_9"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            247.32,
+            604.8,
+            272.04
+          ],
+          "block_id": "img6_10"
+        },
+        {
+          "type": "text",
+          "content": "5.3 At the completion\nof the permeability\ntest, drain\nthe specimen\nand\ninspect it to establish\nwhether\nit\nwas essentially\nhomogenous\nand isotropic  in  character.\nAny light and dark\nalternating\nhorizontal\nstreaks 01\nlayers are evidence\nof segregation\nof fines.",
+          "bbox": [
+            287.04,
+            250.92,
+            519.42,
+            301.08
+          ],
+          "block_id": "b6_41",
+          "font_size": 8.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            272.04,
+            604.8,
+            296.76
+          ],
+          "block_id": "img6_11"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            296.76,
+            604.8,
+            321.48
+          ],
+          "block_id": "img6_12"
+        },
+        {
+          "type": "text",
+          "content": "6. RECORD\nOF\nOBSERVATION",
+          "bbox": [
+            287.28,
+            308.04,
+            429.9,
+            317.88
+          ],
+          "block_id": "b6_42",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            321.48,
+            604.8,
+            346.2
+          ],
+          "block_id": "img6_13"
+        },
+        {
+          "type": "text",
+          "content": "6.1 The inside diameter\nD  of the permeamcter,\nthe\nlength L\nbetween\nmanometer\noutlets and depth  IfI\n(  Fig.\n1  )  are measured\nand recorded\nin Appendix\nA.\nFor the given soil, water\ncontent\nis determined\nand\nrecorded.\nThe\nweight\nW8,\nof air dried\nsoil\nused\nin\npreparing\nsoil\nspecimen\nis also recorded.\nThe final height\nof specimen\nafter\ncompression\nby\nspring,\nHI -\nHz, is measured\nand recorded.\nDry\nunit weight\nand\nvoid\nratio\nare\ncalculated.\nThe\ntemperature\nof water,\nT is measured\nand recorded,",
+          "bbox": [
+            287.28,
+            324.05,
+            517.98,
+            425.16
+          ],
+          "block_id": "b6_43",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            346.2,
+            604.8,
+            370.92
+          ],
+          "block_id": "img6_14"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            370.92,
+            604.8,
+            395.64
+          ],
+          "block_id": "img6_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            395.64,
+            604.8,
+            420.36
+          ],
+          "block_id": "img6_16"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            420.36,
+            604.8,
+            445.08
+          ],
+          "block_id": "img6_17"
+        },
+        {
+          "type": "text",
+          "content": "6.2 During\nthe\ntest,\nobservations\nare\nmade\nof\nmanometer\nreadings\nhl  and  h2,  quantity\nof flow Q\ncollected\nin a graduated\njar in the\ntime t and\nare\nrecorded\nin columns\n( 2 ) to ( 5 ) respectively.\nHead\nh ( = hl -\nh2 )  is calculated\nto column\n( 6  )  and\ngradient\ni  ( =  h/L )  is calculated\nand recorded\nin\ncolumn\n( 7 ). Finally,\npermeability\nk,\nis calculated\nand recorded\nin column\n( 8 ). Remarks,\nif any, are\nentered\nin column\n( 9 ).",
+          "bbox": [
+            287.04,
+            431.88,
+            518.7,
+            522.6
+          ],
+          "block_id": "b6_44",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            445.08,
+            604.8,
+            469.8
+          ],
+          "block_id": "img6_18"
+        },
+        {
+          "type": "text",
+          "content": "4.6.5\nAfter the\nspecimen\nhas been\nsaturated\nand\nthe permeameter\nis full of water, close\nthe bottom\nval?ze on the outlet tube  ( .~ee  Fig. 2 ) and disconnect\nthe\nvacuum.\nCare\nsh~~ultl be\ntaken\nto ensure\nthat\nthe permeability\nflow system\nand the\nmano-\nmeter\nsystem\nare\nfree\nof\nair\nand\nare\nworking\nsatisfactorily.\nFill the\ninlet tube with\nwater\nfrom\nthe\nconstant-head\ntank\nby\nslightly\nopening\nthe\nfilter tank valve.\nThen\nconnect\nthe inlet\ntube to the\ntop of the permeameter,\nopen the inlet valve slightly\nand open\nthe manometer\noutlet cocks\nslightly,\nto\nallow\nwater\nto\nflow,\nthus\nfreeing\nthem\nof\nair.\nConnect\nthe water\nmanometer\ntubes\nto the mano-\nmeter outlets\nand fill with water to remove\nthe air.\nClose the\ninlet valve and\nopen the\noutlet valve to\nallow the\nwater in the\nmanometer\ntubes\nto reach\ntheir stable\nwater\nlevel under\nzero head.",
+          "bbox": [
+            42.48,
+            455.16,
+            273.9,
+            627.0
+          ],
+          "block_id": "b6_35",
+          "font_size": 8.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            469.8,
+            604.8,
+            494.52
+          ],
+          "block_id": "img6_19"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            494.52,
+            604.8,
+            519.24
+          ],
+          "block_id": "img6_20"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            519.24,
+            604.8,
+            543.96
+          ],
+          "block_id": "img6_21"
+        },
+        {
+          "type": "text",
+          "content": "7. CALCULATIONS",
+          "bbox": [
+            287.04,
+            528.12,
+            366.06,
+            537.96
+          ],
+          "block_id": "b6_45",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            543.96,
+            604.8,
+            568.68
+          ],
+          "block_id": "img6_22"
+        },
+        {
+          "type": "text",
+          "content": "7.1 Permeability\nk T  at temperature\nT  is calculated\nby:",
+          "bbox": [
+            287.04,
+            545.09,
+            510.54,
+            565.56
+          ],
+          "block_id": "b6_46",
+          "font_size": 8.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            568.68,
+            604.8,
+            593.4
+          ],
+          "block_id": "img6_23"
+        },
+        {
+          "type": "text",
+          "content": "&\nkT = __ Ait",
+          "bbox": [
+            335.28,
+            570.53,
+            381.6,
+            589.99
+          ],
+          "block_id": "b6_47",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            593.4,
+            604.8,
+            618.12
+          ],
+          "block_id": "img6_24"
+        },
+        {
+          "type": "text",
+          "content": "and permeability\nat 27\u00b0C by using the expression",
+          "bbox": [
+            287.04,
+            593.4,
+            502.14,
+            603.24
+          ],
+          "block_id": "b6_48",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": ",&\n= k,\n$f--\n2\nwhere",
+          "bbox": [
+            306.96,
+            611.4,
+            391.5,
+            641.64
+          ],
+          "block_id": "b6_49",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            618.12,
+            604.8,
+            642.84
+          ],
+          "block_id": "img6_25"
+        },
+        {
+          "type": "text",
+          "content": "5. PROCEDURE",
+          "bbox": [
+            42.72,
+            633.24,
+            107.1,
+            643.08
+          ],
+          "block_id": "b6_36",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            642.84,
+            604.8,
+            667.56
+          ],
+          "block_id": "img6_26"
+        },
+        {
+          "type": "text",
+          "content": "FT\n=\nCoefficient\nof viscosity\nat T\u2019C,\nand",
+          "bbox": [
+            322.8,
+            647.88,
+            505.26,
+            658.68
+          ],
+          "block_id": "b6_50",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1\nOpen the inlet valve from the filter tank slightly\nfor the first run, delay\nmeasurements\nof quantity\nof\nflow and head until a stable head condition\nwithout\nappreciable\ndrift in water manometer\nlevel is attain-\ned.\nMeasure\nand record\nthe time t, head h ( the\ndifference\nin level\nin the manometers\n), quantity\nof",
+          "bbox": [
+            42.48,
+            649.8,
+            274.14,
+            710.04
+          ],
+          "block_id": "b6_37",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "~(2, = Coefficient\nof viscosity\nat 27\u00b0C.",
+          "bbox": [
+            322.08,
+            660.84,
+            488.94,
+            670.68
+          ],
+          "block_id": "b6_51",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            667.56,
+            604.8,
+            692.28
+          ],
+          "block_id": "img6_27"
+        },
+        {
+          "type": "text",
+          "content": "Void\nratio c is calculated\nas",
+          "bbox": [
+            287.28,
+            674.28,
+            413.34,
+            684.12
+          ],
+          "block_id": "b6_52",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e --= Gs-\n_\n1\nY",
+          "bbox": [
+            332.64,
+            691.32,
+            410.94,
+            710.23
+          ],
+          "block_id": "b6_53",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            692.28,
+            604.8,
+            717.0
+          ],
+          "block_id": "img6_28"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            717.0,
+            604.8,
+            741.72
+          ],
+          "block_id": "img6_29"
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            280.56,
+            718.92,
+            286.62,
+            728.76
+          ],
+          "block_id": "b6_54",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            741.72,
+            604.8,
+            766.44
+          ],
+          "block_id": "img6_30"
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img6_0",
+          "bbox": [
+            0.0,
+            0.12,
+            604.8,
+            24.84
+          ]
+        },
+        {
+          "block_id": "img6_1",
+          "bbox": [
+            0.0,
+            24.84,
+            604.8,
+            49.56
+          ]
+        },
+        {
+          "block_id": "img6_2",
+          "bbox": [
+            0.0,
+            49.56,
+            604.8,
+            74.28
+          ]
+        },
+        {
+          "block_id": "img6_3",
+          "bbox": [
+            0.0,
+            74.28,
+            604.8,
+            99.0
+          ]
+        },
+        {
+          "block_id": "img6_4",
+          "bbox": [
+            0.0,
+            99.0,
+            604.8,
+            123.72
+          ]
+        },
+        {
+          "block_id": "img6_5",
+          "bbox": [
+            0.0,
+            123.72,
+            604.8,
+            148.44
+          ]
+        },
+        {
+          "block_id": "img6_6",
+          "bbox": [
+            0.0,
+            148.44,
+            604.8,
+            173.16
+          ]
+        },
+        {
+          "block_id": "img6_7",
+          "bbox": [
+            0.0,
+            173.16,
+            604.8,
+            197.88
+          ]
+        },
+        {
+          "block_id": "img6_8",
+          "bbox": [
+            0.0,
+            197.88,
+            604.8,
+            222.6
+          ]
+        },
+        {
+          "block_id": "img6_9",
+          "bbox": [
+            0.0,
+            222.6,
+            604.8,
+            247.32
+          ]
+        },
+        {
+          "block_id": "img6_10",
+          "bbox": [
+            0.0,
+            247.32,
+            604.8,
+            272.04
+          ]
+        },
+        {
+          "block_id": "img6_11",
+          "bbox": [
+            0.0,
+            272.04,
+            604.8,
+            296.76
+          ]
+        },
+        {
+          "block_id": "img6_12",
+          "bbox": [
+            0.0,
+            296.76,
+            604.8,
+            321.48
+          ]
+        },
+        {
+          "block_id": "img6_13",
+          "bbox": [
+            0.0,
+            321.48,
+            604.8,
+            346.2
+          ]
+        },
+        {
+          "block_id": "img6_14",
+          "bbox": [
+            0.0,
+            346.2,
+            604.8,
+            370.92
+          ]
+        },
+        {
+          "block_id": "img6_15",
+          "bbox": [
+            0.0,
+            370.92,
+            604.8,
+            395.64
+          ]
+        },
+        {
+          "block_id": "img6_16",
+          "bbox": [
+            0.0,
+            395.64,
+            604.8,
+            420.36
+          ]
+        },
+        {
+          "block_id": "img6_17",
+          "bbox": [
+            0.0,
+            420.36,
+            604.8,
+            445.08
+          ]
+        },
+        {
+          "block_id": "img6_18",
+          "bbox": [
+            0.0,
+            445.08,
+            604.8,
+            469.8
+          ]
+        },
+        {
+          "block_id": "img6_19",
+          "bbox": [
+            0.0,
+            469.8,
+            604.8,
+            494.52
+          ]
+        },
+        {
+          "block_id": "img6_20",
+          "bbox": [
+            0.0,
+            494.52,
+            604.8,
+            519.24
+          ]
+        },
+        {
+          "block_id": "img6_21",
+          "bbox": [
+            0.0,
+            519.24,
+            604.8,
+            543.96
+          ]
+        },
+        {
+          "block_id": "img6_22",
+          "bbox": [
+            0.0,
+            543.96,
+            604.8,
+            568.68
+          ]
+        },
+        {
+          "block_id": "img6_23",
+          "bbox": [
+            0.0,
+            568.68,
+            604.8,
+            593.4
+          ]
+        },
+        {
+          "block_id": "img6_24",
+          "bbox": [
+            0.0,
+            593.4,
+            604.8,
+            618.12
+          ]
+        },
+        {
+          "block_id": "img6_25",
+          "bbox": [
+            0.0,
+            618.12,
+            604.8,
+            642.84
+          ]
+        },
+        {
+          "block_id": "img6_26",
+          "bbox": [
+            0.0,
+            642.84,
+            604.8,
+            667.56
+          ]
+        },
+        {
+          "block_id": "img6_27",
+          "bbox": [
+            0.0,
+            667.56,
+            604.8,
+            692.28
+          ]
+        },
+        {
+          "block_id": "img6_28",
+          "bbox": [
+            0.0,
+            692.28,
+            604.8,
+            717.0
+          ]
+        },
+        {
+          "block_id": "img6_29",
+          "bbox": [
+            0.0,
+            717.0,
+            604.8,
+            741.72
+          ]
+        },
+        {
+          "block_id": "img6_30",
+          "bbox": [
+            0.0,
+            741.72,
+            604.8,
+            766.44
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 606.0,
+        "height": 784.2000122070312
+      },
+      "image_id_map": {
+        "img6_0": 1
+      }
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS  :  2720 ( Part 36 ) - 1987",
+          "bbox": [
+            39.36,
+            37.59,
+            163.92,
+            49.46
+          ],
+          "block_id": "b7_0",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "in which yw is the density\nof water and is taken as\n8. PRESENTATION\nOF RESULTS\n1 g/cma, y is dry\nunit weight\nof specimen\nand\nG\nis the specific gravity.\n8.1 The\nvalues\nof permeability,\ncalculated\nat\n\u2018f\nand 27\u00b0C\nare reported\nas numbers\nwith\nunits\nof\n7.2 A data sheet with observation\ndata, calculation\ncm/set.\nAlso reported\nare the dry density\nand void\nand result is presented\nin Appendix\nA.\nratio of the sample.",
+          "bbox": [
+            39.36,
+            60.34,
+            512.64,
+            119.63
+          ],
+          "block_id": "b7_1",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "APPENDIX\nA\n( Clauses\n4.2, 4.6.4, 6.1 and 7.2 )",
+          "bbox": [
+            191.76,
+            158.97,
+            358.48,
+            187.28
+          ],
+          "block_id": "b7_2",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Project\nTest\nNo.",
+          "bbox": [
+            44.4,
+            191.62,
+            357.6,
+            204.11
+          ],
+          "block_id": "b7_3",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sample\nNO._\nDate\n~-\n___._~.\nSoil identification\nTested\nby",
+          "bbox": [
+            44.64,
+            205.06,
+            371.52,
+            230.03
+          ],
+          "block_id": "b7_4",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Diameter\nof specimen,\nD\nSpacing\nbetween\nmanometer\noutlets:?\n=\ncm\n~___\nLength\nof specimen\n( H1 -\nHz ) =\n-\nz\n_______\n-.\n-cm\nArea of specimen,\nA = x  Da\n=",
+          "bbox": [
+            44.4,
+            231.7,
+            422.4,
+            276.59
+          ],
+          "block_id": "b7_5",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "cm2",
+          "bbox": [
+            242.4,
+            270.58,
+            259.2,
+            282.11
+          ],
+          "block_id": "b7_7",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "cm3\nWater content,\nW =\nDry weight\nof soil specimen,\nbB=\ng",
+          "bbox": [
+            44.16,
+            286.42,
+            315.12,
+            320.27
+          ],
+          "block_id": "b7_8",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Volume\nof specimen,\nv --- Z ( HI -\nHz ) =",
+          "bbox": [
+            44.4,
+            287.38,
+            241.92,
+            298.91
+          ],
+          "block_id": "b7_6",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dry unit weight\nY = mYG\n-\ng/cm3",
+          "bbox": [
+            44.16,
+            326.98,
+            252.72,
+            339.47
+          ],
+          "block_id": "b7_9",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Specific\ngravity,\nGs =\nVoid ratio, t =\nG,  yw\nr-\n-1\n= _.___._",
+          "bbox": [
+            44.64,
+            344.41,
+            405.6,
+            364.88
+          ],
+          "block_id": "b7_10",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Temperature\nof water T =\n\u201cC",
+          "bbox": [
+            44.64,
+            367.3,
+            224.4,
+            379.79
+          ],
+          "block_id": "b7_11",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SL  No.\nMANOMETER\nQUANTITY\nTIME,  t\nHEAD\ni =  h/L\nICT\nREMARKS\nREADINGS\nOF FLOW,\nSECONDS\nh = hl -\nh2\nQ\nr-_h_-y\n=-2x\nh\nhz\nQ\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)",
+          "bbox": [
+            39.6,
+            391.83,
+            511.55,
+            454.91
+          ],
+          "block_id": "b7_12",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "cm\ncm\ncm3\ncm",
+          "bbox": [
+            84.96,
+            457.3,
+            316.32,
+            469.07
+          ],
+          "block_id": "b7_13",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "cmjsec",
+          "bbox": [
+            303.12,
+            690.1,
+            328.8,
+            701.63
+          ],
+          "block_id": "b7_14",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            284.64,
+            720.52,
+            291.47,
+            729.76
+          ],
+          "block_id": "b7_15",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 587.6400146484375,
+        "height": 790.1600341796875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 515.0,
+        "height": 779.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 6,
+      "path": "pdf_images/p6_i1.png",
+      "text": "",
+      "position": {
+        "x0": 0.0,
+        "y0": 0.12,
+        "x1": 604.8,
+        "y1": 24.84,
+        "width": 604.8,
+        "height": 24.72
+      },
+      "size": {
+        "width": 2520,
+        "height": 103
+      },
+      "format": "png"
+    }
+  ]
+}

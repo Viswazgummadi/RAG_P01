@@ -1,0 +1,2675 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998\nEdition 3.1\n(2003-03)",
+          "bbox": [
+            442.24,
+            52.86,
+            524.35,
+            94.99
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            172.24,
+            109.68,
+            420.88,
+            192.24
+          ],
+          "block_id": "img1_9"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            213.27,
+            368.31,
+            234.89
+          ],
+          "block_id": "b1_4",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "CONCRETE PIPES \u2014 METHODS OF TEST",
+          "bbox": [
+            89.32,
+            244.43,
+            505.86,
+            268.35
+          ],
+          "block_id": "b1_5",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( Second Revision )",
+          "bbox": [
+            219.28,
+            277.23,
+            375.96,
+            298.85
+          ],
+          "block_id": "b1_6",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            219.28,
+            311.7,
+            375.8,
+            323.66
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ICS 23.040.90, 91.100.30",
+          "bbox": [
+            240.16,
+            352.74,
+            354.87,
+            364.7
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2003",
+          "bbox": [
+            271.12,
+            671.81,
+            323.91,
+            683.78
+          ],
+          "block_id": "b1_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            703.26,
+            452.45,
+            746.23
+          ],
+          "block_id": "b1_1",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 4",
+          "bbox": [
+            451.24,
+            776.39,
+            523.53,
+            788.35
+          ],
+          "block_id": "b1_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_9",
+          "bbox": [
+            172.24,
+            109.68,
+            420.88,
+            192.24
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_9": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cement Matrix Products Sectional Committee, CED 53",
+          "bbox": [
+            70.72,
+            61.98,
+            325.9,
+            73.94
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            138.53,
+            132.23,
+            150.5
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (Second Revision) was adopted by the Bureau of Indian Standards, after the\ndraft finalized by the Cement Matrix Products Sectional Committee had been approved by the\nCivil Engineering Division Council.",
+          "bbox": [
+            70.72,
+            159.53,
+            524.29,
+            193.46
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Apart from the requirements regarding the design, materials, processes of manufacture,\ndimensions, shape, workmanship and finish, etc, acceptability of pipes is determined by the results\nof various tests to evaluate the properties stipulated in the relevant Indian Standard\nspecifications. This standard lays down the procedures for conducting tests relating to load\nbearing, absorption, hydrostatic, permeability and straightness of concrete pipes, both reinforced\nconcrete and prestressed concrete of pressure and non-pressure types.",
+          "bbox": [
+            70.72,
+            200.45,
+            524.42,
+            267.49
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In addition to the tests specified in this standard, inspection of the process of manufacture, the\nquality of the finished pipe and other tests for the quality control of materials during manufacture\nshall be carried out as per requirements of relevant Indian Standards.",
+          "bbox": [
+            70.72,
+            274.49,
+            524.37,
+            308.41
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard was first published in 1966 and subsequently revised in 1985. This revision\nincorporates modifications mainly in respect of hydrostatic test and permeability test which was\nfound necessary in the light of experience gained during the use of this standard.",
+          "bbox": [
+            70.72,
+            315.53,
+            524.36,
+            349.45
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The composition of the technical committee responsible for the formulation of this standard is\ngiven in Annex A.",
+          "bbox": [
+            70.72,
+            356.45,
+            524.24,
+            379.45
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 3.1 incorporates Amendment No. 1 (March 2003). Side bar indicates modification of\nthe text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            386.45,
+            524.28,
+            409.45
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In reporting the result of a test or analysis made in accordance with this standard, if the final\nvalue, observed or calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960\n\u2018Rules for rounding off numerical values (  revised  )\u2019.",
+          "bbox": [
+            70.72,
+            416.45,
+            524.25,
+            450.68
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            442.24,
+            52.86,
+            524.35,
+            67.27
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard\nCONCRETE PIPES \u2014 METHODS OF TEST\n( Second Revision )",
+          "bbox": [
+            89.32,
+            79.35,
+            505.86,
+            154.97
+          ],
+          "block_id": "b3_2",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            70.72,
+            162.83,
+            117.28,
+            174.79
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2 Three-Edge Bearing Method",
+          "bbox": [
+            304.6,
+            162.83,
+            468.42,
+            174.79
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard covers methods for carrying out\nthe following tests on concrete pipes, both\nreinforced concrete and prestressed concrete\nand of pressure and non-pressure types to\nevaluate the properties stipulated in the\nrelevant Indian Standards:\na) Three-edge bearing test,\nb) Absorption test,\nc) Hydrostatic test,\nd) Permeability test, and\ne) Straightness test.",
+          "bbox": [
+            70.72,
+            177.77,
+            290.47,
+            307.82
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.1   Apparatus",
+          "bbox": [
+            304.6,
+            181.25,
+            378.61,
+            193.4
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2.1.1   Testing machine",
+          "bbox": [
+            304.6,
+            199.25,
+            414.52,
+            211.4
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Any mechanical or hand-powered device may\nbe used in which the head that applies the load\nmoves at such a speed as to increase the load at\na uniform rate of approximately 20 percent of\nthe expected crushing load per linear metre per\nminute. The loading device shall be calibrated\nwithin an accuracy of \u00b12 percent. The testing\nmachine used for the load tests should produce\na uniform deflection throughout the full length\nof the pipe and shall be so substantial and rigid\nthroughout, that the distribution of the test\nload along the length of the barrel of the pipe\nwill not be appreciably affected by the\ndeformation or yielding of any part of the\nmachine during the application of the load.",
+          "bbox": [
+            304.6,
+            217.25,
+            524.38,
+            383.29
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 INSPECTION",
+          "bbox": [
+            70.72,
+            311.39,
+            150.08,
+            323.35
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The quality of all materials, process of\nmanufacture and the finished pipes shall be\nsubject to inspection and approval by the\npurchaser. If the pipe is tested for three-edge\nbearing or absorption, inspection of the\nreinforcement shall be made on the pipe\nsections used for those tests.",
+          "bbox": [
+            70.72,
+            326.33,
+            290.44,
+            404.29
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.1.2   Lower bearing block",
+          "bbox": [
+            304.6,
+            389.33,
+            431.35,
+            401.48
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The lower bearing block (  see  Fig. 1 ) shall\nconsist of two hardwood or hard rubber strips\nfastened to a wooden or steel beam or direct to\na concrete base, which shall provide sufficient\nrigidity to permit application of maximum load\nwithout appreciable deflection. Wooden or\nrubber strips shall be straight, have a\ncross-section of not less than 50 mm in width\nand not less than 25 mm nor more than 40 mm\nin height and shall have the top inside corners\nrounded to a radius of approximately 15 mm.\nThe interior vertical sides of the strips shall be\nparallel and spaced apart a distance of not\nmore than 1/12th of the specimen diameter but\nin no case less than 25 mm. The bearing faces\nof the bottom strips shall not vary from a\nstraight line vertically or horizontally by more\nthan 1 mm in 375 mm of the length under load.",
+          "bbox": [
+            304.6,
+            407.33,
+            524.4,
+            606.24
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 GENERAL PRECAUTIONS",
+          "bbox": [
+            70.72,
+            408.35,
+            218.97,
+            420.31
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1  The test specimens shall not have been\nexposed to a temperature below 4\u00b0C for 24\nhours immediately preceding the test and shall\nbe free from all visible moisture. The specimens\nshall be inspected and any specimen with\nvisible flaws shall be discarded.",
+          "bbox": [
+            70.72,
+            423.29,
+            290.56,
+            490.33
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.2  If any test specimen fails because of\nmechanical reasons, such as failure of testing\nequipment or improper specimen preparation,\nit shall be discarded and another specimen\ntaken.",
+          "bbox": [
+            70.72,
+            493.37,
+            290.49,
+            549.25
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4 SELECTION OF TEST SPECIMENS",
+          "bbox": [
+            70.72,
+            553.43,
+            263.79,
+            565.39
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In addition to the requirements specified in this\nstandard, the number of test specimens and the\nmethod of their selection shall be in accordance\nwith the specification for the type of pipe being\ntested.",
+          "bbox": [
+            70.72,
+            568.37,
+            290.61,
+            624.25
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "About 6 mm thick hard rubber or felt should be\nplaced/fixed at the lower face of the upper\nwooden block which shall come in contact with\nthe surface of the pipe.",
+          "bbox": [
+            304.6,
+            612.28,
+            524.31,
+            657.24
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 THREE-EDGE BEARING TEST",
+          "bbox": [
+            70.72,
+            628.43,
+            240.26,
+            640.39
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1 General",
+          "bbox": [
+            70.72,
+            643.43,
+            129.31,
+            655.39
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Three-edge bearing test shall be performed by\nthe method given in  5.2 . The pipe shall be\nsurface dry when tested. The test specimen\nshall be tested in a machine so designed that a\ncrushing force may be exerted in a true vertical\nplane through one diameter and extending the\nfull length of the barrel of the pipe but\nexcluding the sockets, if any.",
+          "bbox": [
+            70.72,
+            658.85,
+            290.53,
+            747.73
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.1.3   Upper bearing block",
+          "bbox": [
+            304.6,
+            663.28,
+            431.58,
+            675.43
+          ],
+          "block_id": "b3_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The upper bearing shall be a rigid hardwood\nblock or a block with hard rubber facing at least\n150 mm \u00d7 150 mm in cross-section. The wood\nblock shall be free of knots and shall be straight\nand true from end to end. It shall be\nfastened\nto a steel or wood faced steel beam",
+          "bbox": [
+            304.6,
+            681.28,
+            524.4,
+            748.32
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            70.72,
+            52.86,
+            152.83,
+            67.27
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            116.08,
+            93.84,
+            478.96,
+            493.44
+          ],
+          "block_id": "img4_8"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 1\nT HREE -E DGE  B EARING  M ETHOD",
+          "bbox": [
+            206.32,
+            489.77,
+            388.64,
+            501.74
+          ],
+          "block_id": "b4_7",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "of such dimensions that deflections under\nmaximum load will not be appreciable. The\nbearing face of the upper bearing block shall\nnot deviate from a straight line by more than\n1 mm in 375 mm of length under load.\n5.2.1.4  The equipment shall be so designed that\nthe load will be distributed about the center of\nthe overall length of the pipe (  see  Fig. 1 ). The\nload may be applied either at a single point or\nat multiple points dependent on the length of\nthe pipe being tested and the rigidity of the test\nframe.",
+          "bbox": [
+            70.72,
+            503.33,
+            290.53,
+            633.85
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "the pipe tests firmly and with the most uniform\npossible bearing on each strip for the full length\nof the pipes less the socket portion, if any.",
+          "bbox": [
+            304.6,
+            503.33,
+            524.34,
+            536.3
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If mutually agreed upon by the manufacturer\nand the purchaser prior to the test, a fillet of\nplaster of Paris not exceeding 25 mm in\nthickness may be cast on the surface of the\nupper and lower bearing before the pipe is\nplaced. The width of the fillet cap, top or bottom,\nshall be not more than 25 mm per 300 mm\ndiameter, but in no case less than 25 mm.",
+          "bbox": [
+            304.6,
+            541.37,
+            524.39,
+            626.77
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.2.2  Each end of the pipe at a point mid-way\nbetween the lower bearing strips shall be\nmarked and then diametrically opposite points\nthereof shall be established. The top bearing\nblock shall be so placed that it contacts the two\nends of the pipe at these marks. After placing\nthe specimen in the machine on the bottom\nstrips, the top bearing shall be symmetrically\naligned in the testing machine. Load shall be\napplied at the rate indicated in  5.2.1.1  until\neither the formation of a 0.25 mm wide crack",
+          "bbox": [
+            304.6,
+            631.85,
+            524.34,
+            748.81
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Multiple points of load applicable to the top\nbearing will permit use of lighter beams without\nappreciable deflection.\n5.2.1.5   Crack measuring gauge\nThe crack measuring gauge shall be made from\n0.25 mm thick strip and shall be of a shape as\nshown in Fig. 2.\n5.2.2   Procedure\n5.2.2.1  The specimen shall be placed on the two\nbottom bearing strips in such a manner that",
+          "bbox": [
+            70.72,
+            636.07,
+            290.47,
+            749.3
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_8",
+          "bbox": [
+            116.08,
+            93.84,
+            478.96,
+            493.44
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img4_8": 2
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            442.24,
+            52.86,
+            524.35,
+            67.27
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6 ABSORPTION TEST",
+          "bbox": [
+            304.6,
+            81.83,
+            419.19,
+            93.79
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            105.28,
+            95.64,
+            256.96,
+            381.36
+          ],
+          "block_id": "img5_21"
+        },
+        {
+          "type": "text",
+          "content": "6.1 Test Specimen",
+          "bbox": [
+            304.6,
+            97.91,
+            397.35,
+            109.87
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Each specimen selected at random shall have a\nsquare area of 100 cm 2  \u00b1 10 percent of the length\nof the pipe as measured on surface of the pipe,\nand a thickness equal to the full depth of the pipe\nthickness and shall be free from visible cracks.",
+          "bbox": [
+            304.6,
+            113.82,
+            524.38,
+            169.82
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 Procedure",
+          "bbox": [
+            304.6,
+            173.39,
+            376.32,
+            185.35
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2.1   Drying Specimens",
+          "bbox": [
+            304.6,
+            189.29,
+            413.44,
+            201.44
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Specimens shall be dried in a mechanical\nconvection oven at a temperature of 105\u00b0C to\n115\u00b0C until two successive weighings at\nintervals of not less than 8 h show an\nincrement of loss not greater than 0.1 percent\nof the mass of the specimen. The drying time\nshall be not less than 36 h. The dry mass of the\nspecimen shall be the mass after the final\ndrying determined at ambient temperature.",
+          "bbox": [
+            304.6,
+            204.77,
+            524.35,
+            304.81
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.2  After drying and weighing as specified\nin  6.2.1 , the specimens shall be immersed in\nclean water at room temperature for the\nspecified period. The specimens shall then be\nremoved from the water and allowed to drain\nfor not more than one minute. The superficial\nwater shall then be removed by absorbent cloth\nor\npaper\nand\nthe\nspecimens\nweighed\nimmediately.",
+          "bbox": [
+            304.6,
+            308.33,
+            524.36,
+            408.25
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "F IG . 2\nG AUGE  L EAF   FOR  M EASURING  C RACKS",
+          "bbox": [
+            74.92,
+            389.81,
+            286.19,
+            401.78
+          ],
+          "block_id": "b5_20",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "or ultimate strength load, as may be specified,\nhas been reached. If both the 0.25 mm crack\nand ultimate load are required, the specified\nrate of loading need not be maintained after the\nload at 0.25 mm crack has been determined.\n5.2.2.3  The\n0.25 mm\ncrack\nload\nis\nthe\nmaximum load applied to the pipe before a\ncrack having a width of 0.25 mm measured at\nclose intervals, occurs throughout a length of\n300 mm or more. The crack shall be considered\n0.25 mm in width when the point of the\nmeasuring\ngauge\ndescribed\nin\n5.2.1.5\npenetrates\n1.5 mm\nat\nclose\nintervals\nthroughout the specified distance of 300 mm.\nThe ultimate load will be reached when the\npipe will sustain no greater load.\n5.2.3   Calculation\nThe crushing strength in Newton per linear\nmetre of pipe shall be calculated by dividing the\ntotal load on the specimen by the nominal\nlaying length. Effective length of the pipe shall\nbe taken as the nominal laying length of the\nspecimen. In case of spigot and socket ended\npipes, the effective length shall be equal to the\noverall length minus the depth of socket (  see\nFig. 3 ) and in case of collar and flush jointed\npipes, the effective length shall be equal to the\noverall length.",
+          "bbox": [
+            70.72,
+            403.73,
+            290.49,
+            708.25
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.3  The least count/accuracy of the weighing\nbalance shall be 0.1 g which the test specimen\nshall be weighed.",
+          "bbox": [
+            304.6,
+            411.77,
+            524.3,
+            445.81
+          ],
+          "block_id": "b5_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2.4   Calculation and Report",
+          "bbox": [
+            304.6,
+            449.33,
+            438.06,
+            461.48
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The increase in mass of the specimen over its\ndry mass shall be taken as the absorption of the\nspecimen\nand\nshall\nbe\nexpressed\nas\na\npercentage of the dry mass. The results shall be\nreported separately for each specimen.",
+          "bbox": [
+            304.6,
+            464.81,
+            524.37,
+            520.81
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 HYDROSTATIC TEST",
+          "bbox": [
+            304.6,
+            525.83,
+            426.4,
+            537.79
+          ],
+          "block_id": "b5_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1 Test Specimen",
+          "bbox": [
+            304.6,
+            541.91,
+            397.35,
+            553.87
+          ],
+          "block_id": "b5_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The specimens for determination of leakage\nunder internal hydrostatic pressure shall be\nsound and full-size pipe. If the pipes are tested\nafter storing in adverse weather condition\npresoaking shall be permitted. For presoaking\npipes shall be submerged in water or sprayed\nwith water for a period not less than 6 hours\nprior to testing and excess water removed.",
+          "bbox": [
+            304.6,
+            557.81,
+            524.31,
+            646.81
+          ],
+          "block_id": "b5_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2 Procedure",
+          "bbox": [
+            304.6,
+            650.38,
+            376.32,
+            662.35
+          ],
+          "block_id": "b5_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.2.1  The pipe shall be supported in such a way\nso that the longitudinal axis is approximately\nhorizontal and the exterior surface excepting\nthe supports can be examined readily.",
+          "bbox": [
+            304.6,
+            666.29,
+            524.33,
+            711.25
+          ],
+          "block_id": "b5_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 In most machines the total load will include\nthe dead weight of the top bearing plus the load applied\nby the loading apparatus.",
+          "bbox": [
+            83.08,
+            710.47,
+            290.45,
+            737.98
+          ],
+          "block_id": "b5_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.2  The equipment for making the test\nshall\nbe such that the specimen under\ntest\ncan\nbe\nfilled\nwith water to",
+          "bbox": [
+            304.6,
+            714.77,
+            524.35,
+            748.81
+          ],
+          "block_id": "b5_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img5_21",
+          "bbox": [
+            105.28,
+            95.64,
+            256.96,
+            381.36
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img5_21": 3
+      }
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            70.72,
+            52.86,
+            152.83,
+            67.27
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            126.16,
+            96.36,
+            468.88,
+            163.92
+          ],
+          "block_id": "img6_21"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 3\nI LLUSTRATING  E FFECTIVE  L ENGTH  \u2018E\u2019  OF  P IPES",
+          "bbox": [
+            171.88,
+            172.73,
+            423.11,
+            184.7
+          ],
+          "block_id": "b6_20",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "the exclusion of air and subjected to the\nrequired\nhydrostatic\npressure.\nApply\nhydrostatic\npressure\nto\nthe\nwhole\npipe\nincluding the portion of socket and rebated\njoints, that is, subjected to pressure in the \u2018as\nlaid\u2019 condition.",
+          "bbox": [
+            70.72,
+            192.77,
+            290.51,
+            259.7
+          ],
+          "block_id": "b6_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "simultaneously, immediately after curing is\ncompleted (  see  Fig. 4 ). In case this is done\nlater, the pipe shall be kept wet for 48 hours\nprior to test. For plain/flush ended precast\npipes, it shall be carried out about 300 mm\naway from both ends.",
+          "bbox": [
+            304.6,
+            192.77,
+            524.39,
+            259.69
+          ],
+          "block_id": "b6_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.3  The specimen shall be filled with water\nand the air expelled. Pressure shall be applied\nat a gradual rate until the specified test\npressure is reached, or beads of water on the\npipe surface is seen, whichever occurs first.",
+          "bbox": [
+            70.72,
+            262.73,
+            290.45,
+            318.74
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1.1   Procedure\nThe dry surface of the pipe shall be scrapped by\nwire brush and loose particles, if any, removed.\nSealant shall then be applied to the lower\nportion of the cup and cup shall be pressed on\nthe pipe. After hardening of sealant, water\nshall be filled in the cup with wash bottle. The\nglass tube with rubber cork shall then be fixed\nin the cup as shown in Fig. 4. Water in the tube\nshall then be filled using wash bottle and air\nshall be allowed to escape during filling.\nPrecaution shall be taken, so that water does\nnot leak either from cup ends or from the\nrubber stopper.",
+          "bbox": [
+            304.6,
+            262.73,
+            524.34,
+            421.68
+          ],
+          "block_id": "b6_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.4  Pressure shall be maintained for 1 min +\n30 s for each 10 mm of wall thickness (for\nprecast concrete pipes wall thickness shall be\nfull barrel wall thickness, whereas it shall be\ncore thickness, in case of prestressed concrete\npipe) or for twice that entire period if the\napplication\nof\npressure\nresulted\nin\nthe\nformation of beads of water on the pipe surface.",
+          "bbox": [
+            70.72,
+            321.77,
+            290.49,
+            410.77
+          ],
+          "block_id": "b6_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.5  At the end of the holding period, the\npressure shall be released immediately if the\ntest pressure has been maintained. If the beads\nof the water have not grown or run the pressure\nshall be increased slowly until the test pressure\nis reached or the beads of water grow or run\n(whichever occurs first).",
+          "bbox": [
+            70.72,
+            413.81,
+            290.58,
+            491.77
+          ],
+          "block_id": "b6_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1.2   Initial Absorption\nWater shall be filled up to zero mark and\nreading shall be taken at every half hour\ninterval up to two hours. The drop in water\nlevel in the stand pipe at the end of two hours\nin the initial absorption.",
+          "bbox": [
+            304.6,
+            424.72,
+            524.37,
+            495.72
+          ],
+          "block_id": "b6_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.6  If the test pressure has been reached\nwithout the beads of water growing or running,\nthe test pressure shall be maintained constant\nfor 1 min + 30 s for each 10 mm of wall\nthickness (for precast concrete pipes wall\nthickness shall be full barrel wall thickness,\nwhereas it shall be core thickness, in case of\nprestressed concrete pipe). At the end of the\nholding period the pressure shall be released\nimmediately.",
+          "bbox": [
+            70.72,
+            494.81,
+            290.53,
+            605.77
+          ],
+          "block_id": "b6_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1.3   Final Permeability\nFill the water in the stand pipe again up to zero\nmark and take the reading at one hour interval\nup to 4 h. The absorption in the fourth hour,\nthat is, difference between fourth and third\nhour readings is the final permeability. The\naverage of tests conducted at three places for\nprestressed concrete pipe and two places for\nprecast concrete pipe shall be expressed in cm 3",
+          "bbox": [
+            304.6,
+            498.76,
+            524.39,
+            602.76
+          ],
+          "block_id": "b6_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "as final permeability.",
+          "bbox": [
+            304.6,
+            601.74,
+            403.23,
+            613.7
+          ],
+          "block_id": "b6_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "After releasing the pressure, the test pipe shall\nbe drained completely.",
+          "bbox": [
+            70.72,
+            608.81,
+            290.42,
+            631.69
+          ],
+          "block_id": "b6_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Criteria\nfor\nacceptance\nis\nthe\nfinal\npermeability.",
+          "bbox": [
+            304.6,
+            616.73,
+            524.37,
+            639.74
+          ],
+          "block_id": "b6_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8 PERMEABILITY TEST",
+          "bbox": [
+            70.72,
+            636.82,
+            197.45,
+            648.79
+          ],
+          "block_id": "b6_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9 STRAIGHTNESS TEST",
+          "bbox": [
+            304.6,
+            648.83,
+            432.25,
+            660.79
+          ],
+          "block_id": "b6_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1 Prestressed Concrete Pipes and\nPrecast Concrete Pipes",
+          "bbox": [
+            70.72,
+            652.3,
+            255.95,
+            675.79
+          ],
+          "block_id": "b6_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9.1 Procedure",
+          "bbox": [
+            304.6,
+            664.31,
+            376.32,
+            676.27
+          ],
+          "block_id": "b6_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This test shall be done on outside surface of the\npipe. No additional treatment of any type shall\nbe done on the pipe before permeability test is\ncarried out. For Prestressed Concrete Pipe, the\ntest shall be conducted at 3 places on coating\nand for Precast Concrete Pipe at 2 places",
+          "bbox": [
+            70.72,
+            679.25,
+            290.51,
+            746.29
+          ],
+          "block_id": "b6_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.1.1  A rigid straight edge, made into a gauge\nof the form and dimension shown in Fig. 5 shall\nbe placed in the bore of the pipe with edge  X  in\ncontact with the pipe internal surface and/or\nthe line parallel to the pipe axis. Hold the plane\nof the gauge in a radial plane.",
+          "bbox": [
+            304.6,
+            679.73,
+            524.32,
+            746.77
+          ],
+          "block_id": "b6_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img6_21",
+          "bbox": [
+            126.16,
+            96.36,
+            468.88,
+            163.92
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img6_21": 4
+      }
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            442.24,
+            52.86,
+            524.35,
+            67.27
+          ],
+          "block_id": "b7_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9.1.2  If both ends of the gauge, when so placed\nare in contact with the internal surface of the\npipe, the deviation from straightness is\nexcessive. If this condition occurs at any one of\nfour\ndifferent\npositions\nof\nthe\ngauge,\napproximately equally spaced around the pipe\ncircumference the pipe does not comply with\nthe particular requirement.",
+          "bbox": [
+            70.72,
+            81.77,
+            290.51,
+            170.78
+          ],
+          "block_id": "b7_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "internal surface of the pipe at both ends, the\ngauge shall be reversed so that edge  Y , placed\nas in  9.1.1 , is adjusted to the internal surface of\nthe pipe. If the two studs in edge  Y  cannot be\nmade to touch the surface of the pipe\nsimultaneously,\nthe\ndeviation\nfrom\nthe\nstraightness is excessive.",
+          "bbox": [
+            304.6,
+            81.77,
+            524.34,
+            159.73
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If this condition occur at any four position of\nthe gauge the pipe does not conform with this\nparticular requirements.",
+          "bbox": [
+            304.6,
+            162.77,
+            524.27,
+            196.81
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.1.3  If both ends of the gauge, when used as\ndescribed in  9.1.1 , are not in contact with the",
+          "bbox": [
+            70.72,
+            173.81,
+            290.5,
+            196.87
+          ],
+          "block_id": "b7_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            101.2,
+            210.72,
+            494.8,
+            518.64
+          ],
+          "block_id": "img7_8"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 4\nM ETHOD   FOR  P ERMEABILITY  T ESTING   OF  C ONCRETE  P IPES",
+          "bbox": [
+            147.28,
+            532.73,
+            448.79,
+            544.7
+          ],
+          "block_id": "b7_6",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            122.32,
+            570.24,
+            471.76,
+            684.0
+          ],
+          "block_id": "img7_9"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 5\nS TRAIGHTNESS  T EST",
+          "bbox": [
+            232.6,
+            694.74,
+            362.44,
+            706.7
+          ],
+          "block_id": "b7_7",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img7_8",
+          "bbox": [
+            101.2,
+            210.72,
+            494.8,
+            518.64
+          ]
+        },
+        {
+          "block_id": "img7_9",
+          "bbox": [
+            122.32,
+            570.24,
+            471.76,
+            684.0
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      }
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            70.72,
+            52.86,
+            152.83,
+            67.27
+          ],
+          "block_id": "b8_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nA",
+          "bbox": [
+            263.56,
+            81.18,
+            331.47,
+            95.59
+          ],
+          "block_id": "b8_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Foreword  )",
+          "bbox": [
+            269.44,
+            99.78,
+            325.56,
+            111.93
+          ],
+          "block_id": "b8_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "COMMITEE COMPOSITION",
+          "bbox": [
+            224.2,
+            120.83,
+            370.86,
+            132.79
+          ],
+          "block_id": "b8_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Cement Matrix Products Sectional Committee, CED 53",
+          "bbox": [
+            169.96,
+            141.77,
+            425.13,
+            153.74
+          ],
+          "block_id": "b8_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Chairman\nRepresenting",
+          "bbox": [
+            99.04,
+            161.55,
+            350.97,
+            171.06
+          ],
+          "block_id": "b8_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. A. R EDDI\nGammon India Ltd, Mumbai",
+          "bbox": [
+            70.72,
+            173.47,
+            361.33,
+            182.98
+          ],
+          "block_id": "b8_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            99.04,
+            186.63,
+            132.2,
+            196.14
+          ],
+          "block_id": "b8_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. H. G ANGWAL\nS HRI  V. P ATTABHI  (  Alternate  )\nHyderabad Industries Ltd, Sanatnagar",
+          "bbox": [
+            70.72,
+            198.55,
+            399.64,
+            217.14
+          ],
+          "block_id": "b8_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  C. R AJKUMAR\nS HRI  H. K. J ULKA  (  Alternate  )\nNational Council for Cement and Building Materials, New Delhi",
+          "bbox": [
+            70.72,
+            217.51,
+            493.25,
+            236.1
+          ],
+          "block_id": "b8_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. S UBRAMANIAM\nS HRI  K. P. A BRAHAM  (  Alternate  )\nCentral Public Works Department, New Delhi",
+          "bbox": [
+            70.72,
+            236.59,
+            425.68,
+            255.18
+          ],
+          "block_id": "b8_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. S. R OY\nD R  A. S. G OYAL  (  Alternate  )\nEngineer-in-Chief\u2019s Branch, Army Headquarters, New Delhi",
+          "bbox": [
+            70.72,
+            255.55,
+            478.47,
+            274.14
+          ],
+          "block_id": "b8_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "J OINT  D IRECTOR  S TANDARDS  (B&S)-CB-II\nA SSTT  D ESIGN  E NGINEER  (CS-1) (  Alternate  )\nResearch, Design and Standards Organization, Lucknow",
+          "bbox": [
+            70.72,
+            274.51,
+            464.61,
+            293.1
+          ],
+          "block_id": "b8_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  D. K. K ANUNGO\nS HRI  T. C HOUDHURY  (  Alternate  )\nNational Test House, Calcutta",
+          "bbox": [
+            70.72,
+            293.59,
+            367.52,
+            312.18
+          ],
+          "block_id": "b8_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  C. H. S UBRAMANIAN\nS HRI  A. D UTTA  (  Alternate  )\nSmall Scale Industries, New Delhi",
+          "bbox": [
+            70.72,
+            312.55,
+            382.35,
+            331.14
+          ],
+          "block_id": "b8_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  I RSAD  M ASOOD\nS HRI  S. P. T EHRI  (  Alternate  )\nCentral Building Research Institute, Roorkee",
+          "bbox": [
+            70.72,
+            331.51,
+            422.92,
+            350.1
+          ],
+          "block_id": "b8_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  O. P. A GARWAL\nS HRI  J. L. D HINGRA  (  Alternate  )\nMunicipal Corporation of Delhi, Delhi",
+          "bbox": [
+            70.72,
+            350.59,
+            394.94,
+            369.18
+          ],
+          "block_id": "b8_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. S. K ALANI\nS HRI  N. K ISHAN  R EDDY  (  Alternate  )\nAll India Small Scale, A.C. Pressure Pipes Manufacturers Association,\nHyderabad\nS HRI  P. D. K ELKAR\nS HRI  P. R. C. N AIR  (  Alternate  )\nIndian Hume Pipe Co Ltd, Mumbai",
+          "bbox": [
+            70.72,
+            369.55,
+            524.23,
+            407.1
+          ],
+          "block_id": "b8_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G.S. S HIRALKAR\nS HRI  A. V. G OGTE  (  Alternate  )\nSpun Pipes Manufacturers Association of Maharashtra (SSI), Pune",
+          "bbox": [
+            70.72,
+            407.59,
+            503.25,
+            426.18
+          ],
+          "block_id": "b8_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. K. C HADHA\nS HRI  J. R. S IL  (  Alternate  )\nHindustan Prefab Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            426.55,
+            380.19,
+            445.14
+          ],
+          "block_id": "b8_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. H ARIRAMASAMY\nTamil Nadu Water Supply and Drainage Board, Chennai\nD R  V. S. P ARAMESWARAN\nS HRI  A. K. M ANI  (  Alternate  )\nStructural Engineering Research Centre, Chennai",
+          "bbox": [
+            70.72,
+            445.51,
+            465.98,
+            474.18
+          ],
+          "block_id": "b8_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C HIEF  E NGINEER\nD Y  C HIEF  E NGINEER  (  Alternate  )\nMunicipal Corporation of Greater Mumbai, Mumbai",
+          "bbox": [
+            70.72,
+            474.55,
+            447.63,
+            493.14
+          ],
+          "block_id": "b8_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. P. R ASTOGI\nFederation of UP Pipe Manufacturers, Lucknow\nS HRI  G. R. B HARITKAR\nC OL  (R ETD ) D. V. P ADSALGIKAR  (  Alternate  )\nB.G. Shirke Construction Technology Pvt Ltd, Pune",
+          "bbox": [
+            70.72,
+            493.51,
+            446.38,
+            522.18
+          ],
+          "block_id": "b8_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  B. V. B. P AL\nS HRI  M. G. D ANDWATE  (  Alternate  )\nThe Associated Cement Companies Ltd, Thane",
+          "bbox": [
+            70.72,
+            522.55,
+            428.49,
+            541.14
+          ],
+          "block_id": "b8_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. A. A ZEEZ\nS HRI  P. D. G AIKAWAD  (  Alternate  )\nRural Electrification Corporation Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            541.51,
+            436.57,
+            560.1
+          ],
+          "block_id": "b8_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. S RIVASTAVA\nEternit Everest Ltd, Mumbai\nS HRI  V INOD  K UMAR ,\nDirector (Civ Engg)\nDirector General, BIS (  Ex-officio Member  )",
+          "bbox": [
+            70.72,
+            560.59,
+            414.4,
+            589.06
+          ],
+          "block_id": "b8_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Member-Secretary",
+          "bbox": [
+            225.28,
+            589.59,
+            292.12,
+            599.1
+          ],
+          "block_id": "b8_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  J. K. P RASAD\nAdditional Director (Civ Engg), BIS",
+          "bbox": [
+            192.76,
+            603.55,
+            324.54,
+            622.06
+          ],
+          "block_id": "b8_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(  Continued on page  7 )",
+          "bbox": [
+            437.8,
+            735.55,
+            522.88,
+            745.14
+          ],
+          "block_id": "b8_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      }
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3597 : 1998",
+          "bbox": [
+            442.24,
+            52.86,
+            524.35,
+            67.27
+          ],
+          "block_id": "b9_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Continued from page  6 )",
+          "bbox": [
+            70.72,
+            82.51,
+            164.32,
+            92.1
+          ],
+          "block_id": "b9_2",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Concrete Pipes Subcommittee, CED 53 : 2",
+          "bbox": [
+            200.8,
+            96.78,
+            394.26,
+            108.74
+          ],
+          "block_id": "b9_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Convener\nS HRI  N. G. J OSHI\nA-5, Adinath Antophill, Mumbai 400037",
+          "bbox": [
+            223.12,
+            115.59,
+            371.88,
+            146.98
+          ],
+          "block_id": "b9_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members\nRepresenting",
+          "bbox": [
+            99.04,
+            150.63,
+            350.98,
+            160.14
+          ],
+          "block_id": "b9_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. D. K ELKAR\nIndian Hume Pipe Co Ltd, Mumbai\nS HRI  B. S ANKARASUBARAMONIA  A YYAR\nThe Kerala Premo Pipe Factory Ltd, Quilon\nS HRI  G. S. S HIRALKAR\nS HRI  M UKUND  N AMDEO  P ORE  (  Alternate  )\nSpun Pipes Manufacturers Association of Maharashtra (SSI), Pune",
+          "bbox": [
+            70.72,
+            162.55,
+            503.25,
+            201.06
+          ],
+          "block_id": "b9_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R.A. D UBEY . SO (U TILITY )\nM AJ  S. A HLAWAT . SO2 U TILITY  (  Alternate  )\nEngineer-in-Chief\u2019s Branch, Army Headquarters, New Delhi",
+          "bbox": [
+            70.72,
+            201.55,
+            478.47,
+            220.14
+          ],
+          "block_id": "b9_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S UDDHODAN  R OY\nS HRI  A. K. C HADHA  (  Alternate  )\nHindustan Prefab Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            220.51,
+            380.19,
+            239.1
+          ],
+          "block_id": "b9_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. V. T ALATI\nS HRI  A. A. T ALATI  (  Alternate  )\nSpunpipe and Construction Co (Baroda) Pvt Ltd, Vadodara",
+          "bbox": [
+            70.72,
+            239.59,
+            473.28,
+            258.18
+          ],
+          "block_id": "b9_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. N AGARAJAN\nTamil Nadu Water Supply and Drainage Board, Chennai\nD R  B. V ENKTESWARLU\nS HRI  J. S HANMUGASUNDARAM  (  Alternate  )\nStructural Engineering Research Centre (CSIR), Chennai",
+          "bbox": [
+            70.72,
+            258.55,
+            468.44,
+            287.1
+          ],
+          "block_id": "b9_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPTD  S URVEYOR   OF  W ORKS  (NZ)\nS URVEYOR   OF  W ORKS  (NZ) (  Alternate  )\nCentral Public Works Department, New Delhi",
+          "bbox": [
+            70.72,
+            287.59,
+            425.68,
+            306.18
+          ],
+          "block_id": "b9_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C HIEF  E NGINEER  (S EWERAGE  P ROJECT ) (R&D)\nS HRI  G. G. P ATHAK  (  Alternate  )\nMunicipal Corporation of Greater Mumbai, Mumbai",
+          "bbox": [
+            70.72,
+            306.55,
+            447.63,
+            325.14
+          ],
+          "block_id": "b9_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "M ANAGING  D IRECTOR\nS HRI  H. S. M ANIK  (  Alternate  )\nConcrete Pipe Manufacturers Association of India, New Delhi",
+          "bbox": [
+            70.72,
+            325.51,
+            482.78,
+            344.1
+          ],
+          "block_id": "b9_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  C. R AJKUMAR\nS HRI  H. K. J ULKA  (  Alternate  )\nNational Council for Cement and Building Materials, New Delhi",
+          "bbox": [
+            70.72,
+            344.59,
+            493.25,
+            363.18
+          ],
+          "block_id": "b9_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. N. B ASU\nS HRI  T. N. U BOVEJA  (  Alternate  )\nDirectorate General of Supplies and Disposals, New Delhi",
+          "bbox": [
+            70.72,
+            363.55,
+            469.09,
+            382.14
+          ],
+          "block_id": "b9_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. W. D ESHPANDE\nS HRI  B. V. K ALE  (  Alternate  )\nNational Environmental Engineering Research Institute, Nagpur",
+          "bbox": [
+            70.72,
+            382.51,
+            497.08,
+            401.1
+          ],
+          "block_id": "b9_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. S. R AMRAKHYANI\nS HRI  S. P RAKASH  (  Alternate  )\nMunicipal Corporation of Delhi, Delhi",
+          "bbox": [
+            70.72,
+            401.59,
+            394.94,
+            420.18
+          ],
+          "block_id": "b9_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. S. G UPTA\nS HRI  V IDUR  B HASKAR  (  Alternate  )\nHaryana Cement Concrete Pipes and Poles Manufacturers Association,\nFaridabad\nS HRI  D. N. G ARG\nModi Steels, Modinagar\nS HRI  B. K. A GARWAL\nS HRI  S. P. R ASTOGI  (  Alternate  )\nFederation of UP Pipe Manufacturers, Lucknow",
+          "bbox": [
+            70.72,
+            420.55,
+            524.24,
+            468.18
+          ],
+          "block_id": "b9_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B ASU\nS HRI  S. D. K ANGA  (  Alternate  )\nTata Consulting Engineers, Mumbai",
+          "bbox": [
+            70.72,
+            468.55,
+            390.38,
+            487.14
+          ],
+          "block_id": "b9_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  U. C. J AIN\nS HRI  P. K. S HARMA  (  Alternate  )\nEngineers India Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            487.51,
+            373.35,
+            506.1
+          ],
+          "block_id": "b9_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  Y. N. C HATURVEDI\nS HRI  V. K. G UPTA  (  Alternate  )\nUP Jal Nigam, Lucknow",
+          "bbox": [
+            70.72,
+            506.59,
+            345.56,
+            525.18
+          ],
+          "block_id": "b9_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "J OINT  D IRECTOR , S TANDARDS  (B&S)-CB-I\n(J OINT  D IRECTOR , S TANDARDS  (B&S)-CB-II\n(  Alternate  )",
+          "bbox": [
+            70.72,
+            525.55,
+            243.2,
+            553.14
+          ],
+          "block_id": "b9_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Research, Design and Standards Organization, Lucknow",
+          "bbox": [
+            255.04,
+            525.55,
+            464.61,
+            535.06
+          ],
+          "block_id": "b9_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            294.76,
+            762.18,
+            300.3,
+            774.14
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      }
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            68.05,
+            201.44,
+            78.86
+          ],
+          "block_id": "b10_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            85.38,
+            524.37,
+            116.23
+          ],
+          "block_id": "b10_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            124.46,
+            118.24,
+            135.26
+          ],
+          "block_id": "b10_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            141.9,
+            524.39,
+            182.71
+          ],
+          "block_id": "b10_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            191.06,
+            201.26,
+            201.87
+          ],
+          "block_id": "b10_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            208.38,
+            524.41,
+            259.27
+          ],
+          "block_id": "b10_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. CED 53 (5003).",
+          "bbox": [
+            70.72,
+            265.38,
+            371.38,
+            276.19
+          ],
+          "block_id": "b10_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            295.46,
+            387.09,
+            306.27
+          ],
+          "block_id": "b10_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            312.5,
+            282.29,
+            323.31
+          ],
+          "block_id": "b10_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nMarch 2003",
+          "bbox": [
+            70.72,
+            329.46,
+            271.33,
+            340.27
+          ],
+          "block_id": "b10_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            514.19,
+            391.76,
+            526.15
+          ],
+          "block_id": "b10_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            532.5,
+            131.08,
+            543.31
+          ],
+          "block_id": "b10_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            549.42,
+            524.33,
+            570.31
+          ],
+          "block_id": "b10_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            576.42,
+            524.38,
+            587.23
+          ],
+          "block_id": "b10_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            593.46,
+            524.27,
+            614.23
+          ],
+          "block_id": "b10_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            620.46,
+            524.27,
+            641.23
+          ],
+          "block_id": "b10_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            647.46,
+            524.16,
+            668.23
+          ],
+          "block_id": "b10_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            674.46,
+            524.28,
+            695.23
+          ],
+          "block_id": "b10_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            701.46,
+            524.27,
+            722.23
+          ],
+          "block_id": "b10_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            728.46,
+            521.27,
+            772.27
+          ],
+          "block_id": "b10_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      }
+    }
+  ],
+  "tables": [],
+  "images": []
+}

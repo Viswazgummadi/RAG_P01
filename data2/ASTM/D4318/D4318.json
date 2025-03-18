@@ -1,0 +1,3020 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            32.07,
+            40.05,
+            62.07,
+            69.86
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: D 4318 \u2013 00",
+          "bbox": [
+            68.0,
+            43.27,
+            197.92,
+            58.38
+          ],
+          "block_id": "b1_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Test Methods for\nLiquid Limit, Plastic Limit, and Plasticity Index of Soils 1",
+          "bbox": [
+            88.95,
+            90.03,
+            462.68,
+            123.16
+          ],
+          "block_id": "b1_2",
+          "font_size": 13.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation D 4318; the number immediately following the designation indicates the year of\noriginal adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A\nsuperscript epsilon ( e ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            88.95,
+            134.19,
+            496.4,
+            162.13
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "the several consistency states of plastic soils.\n1.6 The composition and concentration of soluble salts in a\nsoil affect the values of the liquid and plastic limits as well as\nthe water content values of soils (see Method D 2216). Special\nconsideration should therefore be given to soils from a marine\nenvironment or other sources where high soluble salt concen-\ntrations may be present. The degree to which the salts present\nin these soils are diluted or concentrated must be given careful\nconsideration.\n1.7 The methods described herein are performed only on\nthat portion of a soil that passes the 425-\u00b5m (No. 40) sieve.\nTherefore, the relative contribution of this portion of the soil to\nthe properties of the sample as a whole must be considered\nwhen using these tests to evaluate properties of a soil.\n1.8 The values stated in acceptable metric units are to be\nregarded as the standard, except as noted below. The values\ngiven in parentheses are for information only.\n1.8.1 The standard units for the resilience tester covered in\nAnnex A1 are inch-pound, not metric. The metric values given\nare for information only.\n1.9  This standard does not purport to address all of the\nsafety concerns, if any, associated with its use. It is the\nresponsibility of the user of this standard to establish appro-\npriate safety and health practices and determine the applica-\nbility of regulatory limitations prior to use.",
+          "bbox": [
+            301.48,
+            174.22,
+            552.97,
+            462.81
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope *\n1.1 These test methods cover the determination of the liquid\nlimit, plastic limit, and the plasticity index of soils as de\ufb01ned\nin Section 3 on Terminology.\n1.2 Two methods for preparing test specimens are provided\nas follows:  Wet preparation method,  as described in 10.1.  Dry\npreparation method,  as described in 10.2. The method to be\nused shall be speci\ufb01ed by the requesting authority. If no\nmethod is speci\ufb01ed, use the wet preparation method.\n1.2.1 The liquid and plastic limits of many soils that have\nbeen allowed to dry before testing may be considerably\ndifferent from values obtained on non-dried samples. If the\nliquid and plastic limits of soils are used to correlate or\nestimate the engineering behavior of soils in their natural moist\nstate, samples should not be permitted to dry before testing\nunless data on dried samples are speci\ufb01cally desired.\n1.3 Two methods for determining the liquid limit are pro-\nvided as follows:  Method A,  Multipoint test as described in\nSections 11 and 12.  Method B,  One-point test as described in\nSections 13 and 14. The method to be used shall be speci\ufb01ed\nby the requesting authority. If no method is speci\ufb01ed, use\nMethod A.\n1.3.1 The multipoint liquid limit method is generally more\nprecise than the one-point method. It is recommended that the\nmultipoint method be used in cases where test results may be\nsubject to dispute, or where greater precision is required.\n1.3.2 Because the one-point method requires the operator to\njudge when the test specimen is approximately at its liquid\nlimit, it is particularly not recommended for use by inexperi-\nenced operators.\n1.3.3 The correlation on which the calculations of the\none-point method are based may not be valid for certain soils,\nsuch as organic soils or soils from a marine environment. It is\nstrongly recommended that the liquid limit of these soils be\ndetermined by the multipoint method.\n1.4 The plastic limit test is performed on material prepared\nfor the liquid limit test.\n1.5 The liquid limit and plastic limit of soils (along with the\nshrinkage limit) are often collectively referred to as the\nAtterberg limits. These limits distinguished the boundaries of",
+          "bbox": [
+            32.07,
+            174.31,
+            283.62,
+            638.04
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents\n2.1  ASTM Standards:\nC 702 Practice for Reducing Field Samples of Aggregate to\nTesting Size 2",
+          "bbox": [
+            301.48,
+            469.16,
+            552.92,
+            519.8
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 75 Practice for Sampling Aggregates 3",
+          "bbox": [
+            311.46,
+            517.92,
+            476.74,
+            531.27
+          ],
+          "block_id": "b1_7",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 420 Guide to Site Characterization for Engineering, De-\nsign, and Construction Purposes 4",
+          "bbox": [
+            311.46,
+            529.44,
+            552.94,
+            554.22
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 653 Terminology Relating to Soil, Rock, and Contained\nFluids 4",
+          "bbox": [
+            311.46,
+            552.39,
+            552.91,
+            577.17
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 1241 Speci\ufb01cation for Materials for Soil-Aggregate Sub-\nbase, Base, and Surface Courses 4",
+          "bbox": [
+            311.46,
+            575.34,
+            552.94,
+            600.12
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 2216 Test Method for Laboratory Determination of Water\n(Moisture) Content of Soil and Rock by Mass 4",
+          "bbox": [
+            311.46,
+            598.28,
+            552.95,
+            623.07
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 2487 Practice for Classi\ufb01cation of Soils for Engineering\nPurposes (Uni\ufb01ed Soil Classi\ufb01cation System) 4",
+          "bbox": [
+            311.46,
+            621.23,
+            552.94,
+            646.02
+          ],
+          "block_id": "b1_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This standard is under the jurisdiction of ASTM Committee D18 on Soil and\nRock and is the direct responsibility of Subcommittee D18.03 on Texture, Plasticity\nand Density Characteristics of Soils.\nCurrent edition approved June 10, 2000. Published September 2000. Originally\npublished as D 4318 \u2013 83. Last previous edition D 4318 \u2013 98.",
+          "bbox": [
+            32.08,
+            653.11,
+            283.55,
+            702.0
+          ],
+          "block_id": "b1_13",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2  Annual Book of ASTM Standards,  Vol 04.02.\n3  Annual Book of ASTM Standards,  Vol 04.03.\n4  Annual Book of ASTM Standards,  Vol 04.08.",
+          "bbox": [
+            310.96,
+            671.68,
+            452.69,
+            701.85
+          ],
+          "block_id": "b1_14",
+          "font_size": 6.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "*A Summary of Changes section appears at the end of this standard.",
+          "bbox": [
+            172.49,
+            726.68,
+            412.58,
+            737.73
+          ],
+          "block_id": "b1_16",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, United States.",
+          "bbox": [
+            32.07,
+            740.8,
+            291.12,
+            749.03
+          ],
+          "block_id": "b1_17",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b1_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            32.07,
+            40.05,
+            62.07,
+            69.86
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img2_14"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b2_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 3282 Practice for Classi\ufb01cation of Soils and Soil-\nAggregate Mixtures for Highway Construction Purposes 4",
+          "bbox": [
+            42.05,
+            61.47,
+            283.46,
+            86.26
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "determined by performing trials in which a portion of the\nspecimen is spread in a brass cup, divided in two by a grooving\ntool, and then allowed to \ufb02ow together from the shocks caused\nby repeatedly dropping the cup in a standard mechanical\ndevice. The multipoint liquid limit, Method A, requires three or\nmore trials over a range of water contents to be performed and\nthe data from the trials plotted or calculated to make a\nrelationship from which the liquid limit is determined. The\none-point liquid limit, Method B, uses the data from two trials\nat one water content multiplied by a correction factor to\ndetermine the liquid limit.\n4.2 The plastic limit is determined by alternately pressing\ntogether and rolling into a 3.2-mm ( 1 \u2044 8 -in.) diameter thread a\nsmall portion of plastic soil until its water content is reduced to\na point at which the thread crumbles and can no longer be\npressed together and re-rolled. The water content of the soil at\nthis point is reported as the plastic limit.\n4.3 The plasticity index is calculated as the difference\nbetween the liquid limit and the plastic limit.",
+          "bbox": [
+            301.48,
+            61.47,
+            553.0,
+            281.32
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 3740 Practice for Minimum Requirements for Agencies\nEngaged in the Testing and/or Inspection of Soil and Rock\nas Used in Engineering Design and Construction 4",
+          "bbox": [
+            42.05,
+            84.42,
+            283.55,
+            120.68
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 4753 Speci\ufb01cation for Evaluating, Selecting, and Speci-\nfying Balances and Scales for Use in Soil, Rock, and\nRelated Construction Materials Testing   4",
+          "bbox": [
+            42.05,
+            118.84,
+            283.56,
+            155.1
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 6026 Practice for Using Signi\ufb01cant Digits in Geotechni-\ncal Data 5",
+          "bbox": [
+            42.05,
+            153.27,
+            283.56,
+            178.05
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "E 11 Speci\ufb01cation for Wire-Cloth Sieves for Testing Pur-\nposes 6",
+          "bbox": [
+            42.05,
+            176.22,
+            283.56,
+            201.0
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "E 177 Practice for Use of the Terms Precision and Bias in\nASTM Test Methods 6",
+          "bbox": [
+            42.05,
+            199.17,
+            283.58,
+            223.95
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "E 691 Practice for Conducting an Interlaboratory Study to\nDetermine the Precision of a Test Method 6",
+          "bbox": [
+            42.05,
+            222.12,
+            283.53,
+            246.9
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Terminology\n3.1  De\ufb01nitions:\n3.1.1 The de\ufb01nitions of terms in this standard are in\naccordance with Terminology D 653.\n3.2  Description of Terms Speci\ufb01c to This Standard:\n3.2.1  Atterberg Limits \u2014Originally, six \u201climits of consis-\ntency\u201d of \ufb01ne-grained soils were de\ufb01ned by Albert Atterberg:\nthe upper limit of viscous \ufb02ow, the liquid limit, the sticky limit,\nthe cohesion limit, the plastic limit, and the shrinkage limit. In\ncurrent engineering usage, the term usually refers only to the\nliquid limit, plastic limit, and in some references, the shrinkage\nlimit.\n3.2.2  consistency \u2014the relative ease with which a soil can be\ndeformed.\n3.2.3  liquid limit (LL, w L )\u2014the water content, in percent, of\na soil at the arbitrarily de\ufb01ned boundary between the semi-\nliquid and plastic states.\n3.2.3.1  Discussion \u2014The undrained shear strength of soil at\nthe liquid limit is considered to be approximately 2 kPa (0.28\npsi).\n3.2.4  plastic limit (PL, w p )\u2014the water content, in percent,\nof a soil at the boundary between the plastic and semi-solid\nstates.\n3.2.5  plastic soil \u2014a soil which has a range of water content\nover which it exhibits plasticity and which will retain its shape\non drying.\n3.2.6  plasticity index (PI) \u2014the range of water content over\nwhich a soil behaves plastically. Numerically, it is the differ-\nence between the liquid limit and the plastic limit.\n3.2.7  liquidity index \u2014the ratio, expressed as a percentage of\n(1) the water content of a soil minus its plastic limit, to (2) its\nplasticity index.\n3.2.8  activity number (A) \u2014the ratio of (1) the plasticity\nindex of a soil to (2) the percent by mass of particles having an\nequivalent diameter smaller than 2 \u00b5m.",
+          "bbox": [
+            32.07,
+            251.65,
+            283.59,
+            658.0
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Signi\ufb01cance and Use\n5.1 These test methods are used as an integral part of several\nengineering classi\ufb01cation systems to characterize the \ufb01ne-\ngrained fractions of soils (see Practices D 2487 and D 3282)\nand to specify the \ufb01ne-grained fraction of construction mate-\nrials (see Speci\ufb01cation D 1241). The liquid limit, plastic limit,\nand plasticity index of soils are also used extensively, either\nindividually or together, with other soil properties to correlate\nwith engineering behavior such as compressibility, hydraulic\nconductivity (permeability), compactibility, shrink-swell, and\nshear strength.\n5.2 The liquid and plastic limits of a soil and its water\ncontent can be used to express its relative consistency or\nliquidity index. In addition, the plasticity index and the\npercentage \ufb01ner than 2-\u00b5m particle size can be used to\ndetermine its activity number.\n5.3 These methods are sometimes used to evaluate the\nweathering characteristics of clay-shale materials. When sub-\njected to repeated wetting and drying cycles, the liquid limits\nof these materials tend to increase. The amount of increase is\nconsidered to be a measure of a shale\u2019s susceptibility to\nweathering.\n5.4 The liquid limit of a soil containing substantial amounts\nof organic matter decreases dramatically when the soil is\noven-dried before testing. Comparison of the liquid limit of a\nsample before and after oven-drying can therefore be used as a\nqualitative measure of organic matter content of a soil (see\nPractice D 2487).",
+          "bbox": [
+            301.48,
+            283.59,
+            552.97,
+            609.62
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  1\u2014The quality of the result produced by this standard is\ndependent on the competence of the personnel performing it and the\nsuitability of the equipment and facilities used. Agencies that meet the\ncriteria of Practice D 3740, generally, are considered capable of competent\nand objective testing/sampling/inspection/etc. Users of this standard are\ncautioned that compliance with Practice D 3740 does not in itself assure\nreliable results. Reliable results depend on many factors; Practice D 3740\nprovides a means of evaluating some of those factors.",
+          "bbox": [
+            301.48,
+            614.35,
+            552.97,
+            695.51
+          ],
+          "block_id": "b2_11",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4. Summary of Test Method\n4.1 The specimen is processed to remove any material\nretained on a 425-\u00b5m (No. 40) sieve. The liquid limit is",
+          "bbox": [
+            32.07,
+            662.75,
+            283.52,
+            701.91
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6. Apparatus\n6.1  Liquid Limit Device \u2014A mechanical device consisting\nof a brass cup suspended from a carriage designed to control its",
+          "bbox": [
+            301.48,
+            699.49,
+            552.94,
+            738.65
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5  Annual Book of ASTM Standards,  Vol 04.09.\n6  Annual Book of ASTM Standards,  Vol 14.02.",
+          "bbox": [
+            41.55,
+            716.76,
+            183.29,
+            737.95
+          ],
+          "block_id": "b2_13",
+          "font_size": 6.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b2_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_14",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img3_7"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b3_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "drop onto a hard rubber base. Fig. 1 shows the essential\nfeatures and critical dimensions of the device. The device may\nbe operated by either a hand crank or electric motor.\n6.1.1  Base \u2014A hard rubber base having a Type D Durometer\nhardness of 80 to 90, and resilience rebound of at least 77 %\nbut no more than 90 %. Conduct resilience tests on the \ufb01nished\nbase with the feet attached. Details for measuring the resilience\nof the base are given in Annex A1.\n6.1.2  Rubber Feet,  supporting the base, designed to provide\nisolation of the base from the work surface, and having a Type\nA Durometer hardness no greater than 60 as measured on the\n\ufb01nished feet attached to the base.\n6.1.3  Cup,  brass, with a mass, including cup hanger, of 185\nto 215 g.\n6.1.4  Cam \u2014Designed to raise the cup smoothly and con-\ntinuously to its maximum height, over a distance of at least\n180\u00b0 of cam rotation, without developing an upward or\ndownward velocity of the cup when the cam follower leaves\nthe cam. (The preferred cam motion is a uniformly accelerated\nlift curve.)",
+          "bbox": [
+            32.07,
+            61.47,
+            283.59,
+            292.8
+          ],
+          "block_id": "b3_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "mm (0.394 in.), and designed such that the cup and cup hanger\nassembly is only attached to the carriage by means of a\nremovable pin. See Fig. 2 for de\ufb01nition and determination of\nthe height-of-drop of the cup.\n6.1.6  Motor Drive (Optional) \u2014As an alternative to the\nhand crank shown in Fig. 1, the device may be equipped with\na motor to turn the cam. Such a motor must turn the cam at\n2  6  0.1 revolutions per second and must be isolated from the\nrest of the device by rubber mounts or in some other way that\nprevents vibration from the motor being transmitted to the rest\nof the apparatus. It must be equipped with an ON-OFF switch\nand a means of conveniently positioning the cam for height-\nof-drop adjustments. The results obtained using a motor-driven\ndevice must not differ from those obtained using a manually\noperated device.\n6.2  Flat Grooving Tool \u2014A tool made of plastic or\nnoncorroding-metal having the dimensions shown in Fig. 3.\nThe design of the tool may vary as long as the essential\ndimensions are maintained. The tool may, but need not,\nincorporate the gage for adjusting the height-of-drop of the\nliquid limit device.",
+          "bbox": [
+            301.48,
+            61.47,
+            553.0,
+            315.09
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  2\u2014The cam and follower design in Fig. 1 is for uniformly\naccelerated (parabolic) motion after contact and assures that the cup has\nno velocity at drop off. Other cam designs also provide this feature and\nmay be used. However, if the cam-follower lift pattern is not known, zero\nvelocity at drop off can be assured by carefully \ufb01ling or machining the\ncam and follower so that the cup height remains constant over the last 20\nto 45\u00b0 of cam rotation.",
+          "bbox": [
+            32.08,
+            297.53,
+            283.57,
+            368.71
+          ],
+          "block_id": "b3_1",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  3\u2014Prior to the adoption of this test method, a curved grooving\ntool was speci\ufb01ed as part of the apparatus for performing the liquid limit\ntest. The curved tool is not considered to be as accurate as the \ufb02at tool\ndescribed in 6.2 since it does not control the depth of the soil in the liquid\nlimit cup. However, there are some data which indicate that typically the\nliquid limit is slightly increased when the \ufb02at tool is used instead of the\ncurved tool.",
+          "bbox": [
+            301.48,
+            322.1,
+            552.97,
+            395.07
+          ],
+          "block_id": "b3_4",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1.5  Carriage,  constructed in a way that allows convenient\nbut secure adjustment of the height-of-drop of the cup to 10",
+          "bbox": [
+            32.07,
+            370.79,
+            283.57,
+            395.57
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            33.54,
+            407.53,
+            551.46,
+            725.53
+          ],
+          "block_id": "img3_5"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 1 Hand-Operated Liquid Limit Device",
+          "bbox": [
+            212.7,
+            727.22,
+            372.35,
+            738.21
+          ],
+          "block_id": "b3_6",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b3_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_5",
+          "bbox": [
+            33.54,
+            407.53,
+            551.46,
+            725.53
+          ]
+        },
+        {
+          "block_id": "img3_7",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img3_5": 1
+      }
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img4_6"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b4_7",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            144.55,
+            65.24,
+            440.47,
+            211.63
+          ],
+          "block_id": "img4_2"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 2 Calibration for Height-of-Drop",
+          "bbox": [
+            222.91,
+            213.32,
+            362.14,
+            224.31
+          ],
+          "block_id": "b4_3",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            103.86,
+            239.82,
+            481.14,
+            585.42
+          ],
+          "block_id": "img4_4"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 3 Grooving Tool (Optional Height-of-Drop Gage Attached)",
+          "bbox": [
+            173.48,
+            587.11,
+            411.6,
+            598.1
+          ],
+          "block_id": "b4_5",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3  Gage \u2014A metal gage block for adjusting the height-of-\ndrop of the cup, having the dimensions shown in Fig. 4. The\ndesign of the tool may vary provided the gage will rest securely\non the base without being susceptible to rocking, and the edge\nwhich contacts the cup during adjustment is straight, at least 10\nmm ( 3 \u2044 8  in.) wide, and without bevel or radius.\n6.4  Water Content Containers \u2014Small corrosion-resistant\ncontainers with snug-\ufb01tting lids for water content specimens.\nAluminum or stainless steel cans 2.5 cm (1 in.) high by 5 cm\n(2 in.) in diameter are appropriate.\n6.5  Balance,  conforming to Speci\ufb01cation D 4753, Class",
+          "bbox": [
+            32.07,
+            610.43,
+            283.57,
+            738.49
+          ],
+          "block_id": "b4_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "GP1 (readability of 0.01 g).\n6.6  Mixing and Storage Container \u2014A container to mix the\nsoil specimen (material) and store the prepared material.\nDuring mixing and storage, the container shall not contaminate\nthe material in any way, and prevent moisture loss during\nstorage. A porcelain, glass, or plastic dish about 11.4 cm\n(4 1 \u2044 2  in.) in diameter and a plastic bag large enough to enclose\nthe dish and be folded over is adequate.\n6.7  Plastic Limit:\n6.7.1  Ground Glass Plate \u2014A ground glass plate at least 30",
+          "bbox": [
+            301.48,
+            610.43,
+            552.96,
+            737.43
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b4_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_2",
+          "bbox": [
+            144.55,
+            65.24,
+            440.47,
+            211.63
+          ]
+        },
+        {
+          "block_id": "img4_4",
+          "bbox": [
+            103.86,
+            239.82,
+            481.14,
+            585.42
+          ]
+        },
+        {
+          "block_id": "img4_6",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img4_2": 2
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img5_9"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b5_10",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "having a rim at least 5 cm (2 in.) above the mesh. A 2.00-mm\n(No. 10) sieve meeting the same requirements may also be\nneeded.\n6.10  Wash Bottle,  or similar container for adding controlled\namounts of water to soil and washing \ufb01nes from coarse\nparticles.\n6.11  Drying Oven,  thermostatically controlled, preferably of\nthe forced-draft type, capable of continuously maintaining a\ntemperature of 110  6  5\u00b0C (230  6  9\u00b0F) throughout the drying\nchamber.\n6.12  Washing Pan,  round, \ufb02at-bottomed, at least 7.6 cm (3\nin.) deep, and slightly larger at the bottom than a 20.3-cm\n(8-in.) diameter sieve.",
+          "bbox": [
+            301.48,
+            61.47,
+            552.96,
+            212.48
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            39.84,
+            65.24,
+            275.76,
+            183.81
+          ],
+          "block_id": "img5_5"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 4 Height-of-Drop Gage",
+          "bbox": [
+            105.71,
+            185.49,
+            209.91,
+            196.48
+          ],
+          "block_id": "b5_6",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "cm (12 in.) square by 1 cm ( 3 \u2044 8  in.) thick for rolling plastic limit\nthreads.\n6.7.2  Plastic Limit-Rolling Device (optional) \u2014A device\nmade of acrylic conforming to the dimensions shown in Fig.\n5. 7,8   The type of unglazed paper attached to the top and bottom\nplate (see 16.2.2) shall be such that it does not add foreign\nmatter (\ufb01bers, paper fragments, etc.) to the soil during the\nrolling process.\n6.8  Spatula \u2014A spatula or pill knife having a blade about 2\ncm ( 3 \u2044 4  in.) wide, and about 10 to 13 cm (3 to 4 in.) long.\n6.9  Sieve(s) \u2014A 200-mm (8-in.) diameter, 425-\u00b5m (No. 40)\nsieve conforming to the requirements of Speci\ufb01cation E 11 and",
+          "bbox": [
+            32.07,
+            213.48,
+            283.57,
+            353.01
+          ],
+          "block_id": "b5_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Reagents and Materials\n7.1  Purity of Water \u2014Where distilled water is referred to in\nthis test method, either distilled or demineralized water may be\nused. See Note 7 covering the use of tap water.",
+          "bbox": [
+            301.48,
+            218.61,
+            552.95,
+            269.25
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8. Sampling and Specimen\n8.1 Samples may be taken from any location that satis\ufb01es\ntesting needs. However, Practices C 702, D 75, and D 420\nshould be used as guides for selecting and preserving samples\nfrom various types of sampling operations. Samples in which\nspecimens will be prepared using the wet-preparation method\n(10.1) must be kept at their as\u2013sampled water content prior to\npreparation.\n8.1.1 Where sampling operations have preserved the natural\nstrati\ufb01cation of a sample, the various strata must be kept\nseparated and tests performed on the particular stratum of\ninterest with as little contamination as possible from other\nstrata. Where a mixture of materials will be used in construc-\ntion, combine the various components in such proportions that\nthe resultant sample represents the actual construction case.",
+          "bbox": [
+            301.48,
+            275.39,
+            552.98,
+            452.25
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7  The plastic limit-rolling device is covered by a patent (U.S. Patent No.\n5,027,660). 7   Interested parties are invited to submit information regarding the\nidenti\ufb01cation of an alternative(s) to this patented item to ASTM Headquarters. Your\ncomments will receive careful consideration at a meeting of the responsible\nsubcommittee, which you may attend.\n8  Bobrowski, L. J., Jr. and Griekspoor, D. M., \u201cDetermination of the Plastic Limit\nof a Soil by Means of a Rolling Device,\u201d  Geotechnical Testing Journal,  GTJODJ,\nVol 15, No. 3, September 1992, pp. 284\u2013287.",
+          "bbox": [
+            32.08,
+            380.78,
+            283.55,
+            456.62
+          ],
+          "block_id": "b5_4",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            81.84,
+            472.57,
+            503.28,
+            725.53
+          ],
+          "block_id": "img5_7"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 5 Plastic Limit-Rolling Device",
+          "bbox": [
+            227.1,
+            727.22,
+            357.94,
+            738.21
+          ],
+          "block_id": "b5_8",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b5_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img5_5",
+          "bbox": [
+            39.84,
+            65.24,
+            275.76,
+            183.81
+          ]
+        },
+        {
+          "block_id": "img5_7",
+          "bbox": [
+            81.84,
+            472.57,
+            503.28,
+            725.53
+          ]
+        },
+        {
+          "block_id": "img5_9",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img5_5": 3
+      }
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img6_8"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b6_9",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1.2 Where data from these test methods are to be used for\ncorrelation with other laboratory or \ufb01eld test data, use the same\nmaterial as used for those tests where possible.\n8.2  Specimen \u2014Obtain a representative portion from the\ntotal sample sufficient to provide 150 to 200 g of material\npassing the 425-\u00b5m (No. 40) sieve. Free \ufb02owing samples\n(materials) may be reduced by the methods of quartering or\nsplitting. Non-free \ufb02owing or cohesive materials shall be\nmixed thoroughly in a pan with a spatula or scoop and a\nrepresentative portion scooped from the total mass by making\none or more sweeps with a scoop through the mixed mass.",
+          "bbox": [
+            32.07,
+            61.47,
+            283.59,
+            189.53
+          ],
+          "block_id": "b6_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "maximum height. Slide the height gage under the cup from the front, and\nobserve whether the gage contacts the cup or the tape. (See Fig. 2.) If the\ntape and cup are both simultaneously contacted, the height-of-drop is\nready to be checked. If not, adjust the cup until simultaneous contact is\nmade. Check adjustment by turning the crank at 2 revolutions per second\nwhile holding the gage in position against the tape and cup. If a faint\nringing or clicking sound is heard without the cup rising from the gage, the\nadjustment is correct. If no ringing is heard or if the cup rises from the\ngage, readjust the height-of-drop. If the cup rocks on the gage during this\nchecking operation, the cam follower pivot is excessively worn and the\nworn parts should be replaced. Always remove tape after completion of\nadjustment operation.",
+          "bbox": [
+            301.47,
+            62.07,
+            552.94,
+            183.14
+          ],
+          "block_id": "b6_5",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10. Preparation of Test Specimen\n10.1  Wet Preparation Method \u2014Except where the dry\nmethod of specimen preparation is speci\ufb01ed (10.2), prepare the\nspecimen for testing as described in the following sections.\n10.1.1  Material Passes the 425-\u00b5m (No. 40) Sieve:\n10.1.1.1 Determine by visual and manual methods that the\nspecimen from 8.2 has little or no material retained on a\n425-\u00b5m (No. 40) sieve. If this is the case, prepare 150 to 200\ng of material by mixing thoroughly with distilled or deminer-\nalized water on the glass plate or mixing dish using the spatula.\nIf desired, soak the material in a mixing/storage dish with a\nsmall amount of water to soften the material before the start of\nmixing. If using Method A, adjust the water content of the\nmaterial to bring it to a consistency that would require about 25\nto 35 blows of the liquid limit device to close the groove (Note\n6). For Method B, the number of blows should be between\nabout 20 and 30 blows.\n10.1.1.2 If, during mixing, a small percentage of material is\nencountered that would be retained on a 425-\u00b5m (No. 40)\nsieve, remove these particles by hand (if possible). If it is\nimpractical to remove the coarser material by hand, remove\nsmall percentages (less than about 15 %) of coarser material by\nworking the material (having the above consistency) through a\n425-\u00b5m sieve. During this procedure, use a piece of rubber\nsheeting, rubber stopper, or other convenient device provided\nthe procedure does not distort the sieve or degrade material that\nwould be retained if the washing method described in 10.1.2\nwere used. If larger percentages of coarse material are encoun-\ntered during mixing, or it is considered impractical to remove\nthe coarser material by the procedures just described, wash the\nsample as described in 10.1.2. When the coarse particles found\nduring mixing are concretions, shells, or other fragile particles,\ndo not crush these particles to make them pass a 425-\u00b5m sieve,\nbut remove by hand or by washing.\n10.1.1.3 Place the prepared material in the mixing/storage\ndish, check its consistency (adjust if required), cover to prevent\nloss of moisture, and allow to stand (cure) for at least 16 h\n(overnight). After the standing period and immediately before\nstarting the test, thoroughly remix the soil.",
+          "bbox": [
+            301.48,
+            189.18,
+            552.99,
+            641.43
+          ],
+          "block_id": "b6_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9. Calibration of Apparatus\n9.1  Inspection of Wear:\n9.1.1  Liquid Limit Device \u2014Determine that the liquid limit\ndevice is clean and in good working order. Check the following\nspeci\ufb01c points.\n9.1.1.1  Wear of Base \u2014The spot on the base where the cup\nmakes contact should be worn no greater than 10 mm ( 3 \u2044 8  in.)\nin diameter. If the wear spot is greater than this, the base can\nbe machined to remove the worn spot provided the resurfacing\ndoes not make the base thinner than speci\ufb01ed in 6.1 and the\nother dimensional relationships are maintained.\n9.1.1.2  Wear of Cup \u2014Replace the cup when the grooving\ntool has worn a depression in the cup 0.1 mm (0.004 in.) deep\nor when the rim of the cup has been reduced to half its original\nthickness. Verify that the cup is \ufb01rmly attached to the cup\nhanger.\n9.1.1.3  Wear of Cup Hanger \u2014Verify that the cup hanger\npivot does not bind and is not worn to an extent that allows\nmore than 3 mm ( 1 \u2044 8  in.) side-to-side movement of the lowest\npoint on the rim.\n9.1.1.4  Wear of Cam \u2014The cam shall not be worn to an\nextent that the cup drops before the cup hanger (cam follower)\nloses contact with the cam.\n9.1.2  Grooving Tools \u2014Inspect grooving tools for wear on a\nfrequent and regular basis. The rapidity of wear depends on the\nmaterial from which the tool is made, and the types of soils\nbeing tested. Soils containing a large proportion of \ufb01ne sand\nparticles may cause rapid wear of grooving tools; therefore,\nwhen testing these materials, tools should be inspected more\nfrequently than for other soils.",
+          "bbox": [
+            32.07,
+            195.96,
+            283.59,
+            544.94
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  4\u2014The width of the tip of grooving tools is conveniently checked\nusing a pocket-sized measuring magni\ufb01er equipped with a millimeter\nscale. Magni\ufb01ers of this type are available from most laboratory supply\ncompanies. The depth of the tip of grooving tools can be checked using the\ndepth-measuring feature of vernier calipers.",
+          "bbox": [
+            32.08,
+            549.67,
+            283.54,
+            600.9
+          ],
+          "block_id": "b6_2",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.2  Adjustment of Height-of-Drop \u2014Adjust the height-of-\ndrop of the cup so that the point on the cup that comes in\ncontact with the base rises to a height of 10  6  0.2 mm. See Fig.\n2 for proper location of the gage relative to the cup during\nadjustment.",
+          "bbox": [
+            32.07,
+            602.97,
+            283.57,
+            662.18
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  6\u2014The time taken to adequately mix a soil will vary greatly,\ndepending on the plasticity and initial water content. Initial mixing times\nof more than 30 min may be needed for stiff, fat clays.\n10.1.2  Material Containing Particles Retained on a 425-\u00b5m\n(No. 40) Sieve:\n10.1.2.1 Place the specimen (see 8.2) in a pan or dish and\nadd sufficient water to cover the material. Allow the material to\nsoak until all lumps have softened and the \ufb01nes no longer",
+          "bbox": [
+            301.48,
+            646.16,
+            552.94,
+            738.62
+          ],
+          "block_id": "b6_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  5\u2014A convenient procedure for adjusting the height-of-drop is as\nfollows: place a piece of masking tape across the outside bottom of the cup\nparallel with the axis of the cup hanger pivot. The edge of the tape away\nfrom the cup hanger should bisect the spot on the cup that contacts the\nbase. For new cups, placing a piece of carbon paper on the base and\nallowing the cup to drop several times will mark the contact spot. Attach\nthe cup to the device and turn the crank until the cup is raised to its",
+          "bbox": [
+            32.08,
+            666.91,
+            283.56,
+            738.09
+          ],
+          "block_id": "b6_4",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b6_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img6_8",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img7_6"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b7_7",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "adhere to the surfaces of the coarse particles (Note 7).",
+          "bbox": [
+            32.07,
+            61.47,
+            254.53,
+            74.78
+          ],
+          "block_id": "b7_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "number of blows should be between about 20 and 30. Put, if\nnecessary, the mixed material in the storage dish, cover to\nprevent loss of moisture, and allow to stand (cure) for at least\n16 h. After the standing period and immediately before starting\nthe test, thoroughly remix the specimen.\n10.2  Dry Preparation Method:\n10.2.1 Dry the specimen from 8.2 at room temperature or in\nan oven at a temperature not exceeding 60\u00b0C until the soil\nclods will pulverize readily. Disaggregation is expedited if the\nmaterial is not allowed to completely dry. However, the\nmaterial should have a dry appearance when pulverized.\n10.2.2 Pulverize the material in a mortar with a rubber-\ntipped pestle or in some other way that does not cause\nbreakdown of individual particles. When the coarse particles\nfound during pulverization are concretions, shells, or other\nfragile particles, do not crush these particles to make them pass\na 425-\u00b5m (No. 40) sieve, but remove by hand or other suitable\nmeans, such as washing. If a washing procedure is used, follow\n10.1.2.1-10.1.2.4.\n10.2.3 Separate the material on a 425-\u00b5m (No. 40) sieve,\nshaking the sieve by hand to assure thorough separation of the\n\ufb01ner fraction. Return the material retained on the 425-\u00b5m sieve\nto the pulverizing apparatus and repeat the pulverizing and\nsieving operations. Stop this procedure when most of the \ufb01ne\nmaterial has been disaggregated and material retained on the\n425-\u00b5m sieve consists of individual particles.\n10.2.4 Place material retained on the 425-\u00b5m (No. 40) sieve\nafter the \ufb01nal pulverizing operations in a dish and soak in a\nsmall amount of water. Stir this mixture and transfer it to a\n425-\u00b5m sieve, catching the water and any suspended \ufb01nes in\nthe washing pan. Pour this suspension into a dish containing\nthe dry soil previously sieved through the 425-\u00b5m sieve.\nDiscard material retained on the 425-\u00b5m sieve.\n10.2.5 Proceed as described in 10.1.2.3 and 10.1.2.4.",
+          "bbox": [
+            301.48,
+            61.47,
+            552.99,
+            453.44
+          ],
+          "block_id": "b7_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  7\u2014In some cases, the cations of salts present in tap water will\nexchange with the natural cations in the soil and signi\ufb01cantly alter the test\nresults if tap water is used in the soaking and washing operations. Unless\nit is known that such cations are not present in the tap water, distilled or\ndemineralized water should be used. As a general rule, water containing\nmore than 100 mg/L of dissolved solids should not be used for either the\nsoaking or washing operations.",
+          "bbox": [
+            32.08,
+            79.51,
+            283.55,
+            150.69
+          ],
+          "block_id": "b7_1",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10.1.2.2 When the material contains a large percentage of\nparticles retained on the 425-\u00b5m (No. 40) sieve, perform the\nfollowing washing operation in increments, washing no more\nthan 0.5 kg (1 lb) of material at one time. Place the 425-\u00b5m\nsieve in the bottom of the clean pan. Transfer, without any loss\nof material, the soil-water mixture onto the sieve. If gravel or\ncoarse sand particles are present, rinse as many of these as\npossible with small quantities of water from a wash bottle, and\ndiscard. Alternatively, transfer the soil-water mixture over a\n2.00-mm (No. 10) sieve nested atop the 425-\u00b5m sieve, rinse the\n\ufb01ne material through and remove the 2.00-mm sieve. After\nwashing and removing as much of the coarser material as\npossible, add sufficient water to the pan to bring the level to\nabout 13 mm ( 1 \u2044 2  in.) above the surface of the 425-\u00b5m sieve.\nAgitate the slurry by stirring with the \ufb01ngers while raising and\nlowering the sieve in the pan and swirling the suspension so\nthat \ufb01ne material is washed from the coarser particles. Disag-\ngregate \ufb01ne soil lumps that have not slaked by gently rubbing\nthem over the sieve with the \ufb01ngertips. Complete the washing\noperation by raising the sieve above the water surface and\nrinsing the material retained with a small amount of clean\nwater. Discard material retained on the 425-\u00b5m sieve.\n10.1.2.3 Reduce the water content of the material passing\nthe 425\u2013\u00b5m (No. 40) sieve until it approaches the liquid limit.\nReduction of water content may be accomplished by one or a\ncombination of the following methods: ( a ) exposing to air\ncurrents at room temperature, ( b ) exposing to warm air currents\nfrom a source such as an electric hair dryer, ( c ) decanting clear\nwater from surface of the suspension, ( d ) \ufb01ltering in a B\u00fcchner\nfunnel or using \ufb01lter candles, or ( e ) draining in a colander or\nplaster of Paris dish lined with high retentivity, 9   high wet-\nstrength \ufb01lter paper. If a plaster of Paris dish is used, take care\nthat the dish never becomes sufficiently saturated that it fails to\nabsorb water into its surface. Thoroughly dry dish between\nuses. During evaporation and cooling, stir the material often\nenough to prevent over-drying of the fringes and soil pinnacles\non the surface of the mixture. For materials containing soluble\nsalts, use a method of water reduction ( a  or  b ) that will not\neliminate the soluble salts from the test specimen.\n10.1.2.4 If applicable, remove the material retained on the\n\ufb01lter paper. Thoroughly mix this material or the above material\non the glass plate or in the mixing dish using the spatula.\nAdjust the water content of the mixture, if necessary, by adding\nsmall increments of distilled or demineralized water or by\nallowing the mixture to dry at room temperature while mixing\non the glass plate. If using Method A, the material should be at\na water content that would require about 25 to 35 blows of the\nliquid limit device to close the groove. For Method B, the",
+          "bbox": [
+            32.07,
+            152.77,
+            283.6,
+            705.39
+          ],
+          "block_id": "b7_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MULTIPOINT LIQUID LIMIT\u2014METHOD A",
+          "bbox": [
+            325.77,
+            460.77,
+            529.23,
+            474.59
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11. Procedure\n11.1 Thoroughly remix the specimen (soil) in its mixing\ncup, and, if necessary, adjust its water content until the\nconstancy requires about 25 to 35 blows of the liquid limit\ndevice to close the groove. Using a spatula, place a portion(s)\nof the prepared soil in the cup of the liquid limit device at the\npoint where the cup rests on the base, squeeze it down, and\nspread it into the cup to a depth of about 10 mm at its deepest\npoint, tapering to form an approximately horizontal surface.\nTake care to eliminate air bubbles from the soil pat, but form\nthe pat with as few strokes as possible. Keep the unused soil in\nthe mixing/storage dish. Cover the dish with a wet towel (or\nuse other means) to retain the moisture in the soil.\n11.2 Form a groove in the soil pat by drawing the tool,\nbeveled edge forward, through the soil on a line joining the\nhighest point to the lowest point on the rim of the cup. When\ncutting the groove, hold the grooving tool against the surface of\nthe cup and draw in an arc, maintaining the tool perpendicular\nto the surface of the cup throughout its movement. See Fig. 6.\nIn soils where a groove cannot be made in one stroke without\ntearing the soil, cut the groove with several strokes of the\ngrooving tool. Alternatively, cut the groove to slightly less than\n9  S and S 595 \ufb01lter paper available in 320-mm circles has proven satisfactory.",
+          "bbox": [
+            41.55,
+            481.32,
+            553.01,
+            738.5
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b7_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img7_6",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img8_7"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b8_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            127.38,
+            65.24,
+            458.38,
+            321.08
+          ],
+          "block_id": "img8_3"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 6 Grooved Soil Pat in Liquid Limit Device",
+          "bbox": [
+            204.05,
+            322.77,
+            381.0,
+            333.76
+          ],
+          "block_id": "b8_4",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "required dimensions with a spatula and use the grooving tool to\nbring the groove to \ufb01nal dimensions. Exercise extreme care to\nprevent sliding the soil pat relative to the surface of the cup.\n11.3 Verify that no crumbs of soil are present on the base or\nthe underside of the cup. Lift and drop the cup by turning the\ncrank at a rate of 1.9 to 2.1 drops per second until the two\nhalves of the soil pat come in contact at the bottom of the\ngroove along a distance of 13 mm ( 1 \u2044 2  in.). See Fig. 7.",
+          "bbox": [
+            32.07,
+            340.44,
+            283.59,
+            434.07
+          ],
+          "block_id": "b8_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.4 Verify that an air bubble has not caused premature\nclosing of the groove by observing that both sides of the groove\nhave \ufb02owed together with approximately the same shape. If a\nbubble has caused premature closing of the groove, reform the\nsoil in the cup, adding a small amount of soil to make up for\nthat lost in the grooving operation and repeat 11.1-11.3. If the\nsoil slides on the surface of the cup, repeat 11.1-11.3 at a higher\nwater content. If, after several trials at successively higher\nwater contents, the soil pat continues to slide in the cup or if the\nnumber of blows required to close the groove is always less",
+          "bbox": [
+            301.48,
+            340.44,
+            552.97,
+            460.39
+          ],
+          "block_id": "b8_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  8\u2014Use of a scale is recommended to verify that the groove has\nclosed 13 mm ( 1 \u2044 2  in.).",
+          "bbox": [
+            32.08,
+            438.8,
+            283.52,
+            460.09
+          ],
+          "block_id": "b8_1",
+          "font_size": 7.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            126.42,
+            470.41,
+            459.42,
+            725.53
+          ],
+          "block_id": "img8_5"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 7 Soil Pat After Groove Has Closed",
+          "bbox": [
+            215.95,
+            727.22,
+            369.1,
+            738.21
+          ],
+          "block_id": "b8_6",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b8_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img8_3",
+          "bbox": [
+            127.38,
+            65.24,
+            458.38,
+            321.08
+          ]
+        },
+        {
+          "block_id": "img8_5",
+          "bbox": [
+            126.42,
+            470.41,
+            459.42,
+            725.53
+          ]
+        },
+        {
+          "block_id": "img8_7",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img8_3": 4
+      }
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img9_18"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b9_19",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "than 25, record that the liquid limit could not be determined,\nand report the soil as nonplastic without performing the plastic\nlimit test.\n11.5 Record the number of drops,  N,  required to close the\ngroove. Remove a slice of soil approximately the width of the\nspatula, extending from edge to edge of the soil cake at right\nangles to the groove and including that portion of the groove in\nwhich the soil \ufb02owed together, place in a container of known\nmass, and cover.\n11.6 Return the soil remaining in the cup to the dish. Wash\nand dry the cup and grooving tool and reattach the cup to the\ncarriage in preparation for the next trial.\n11.7 Remix the entire soil specimen in the dish adding\ndistilled water to increase the water content of the soil and\ndecrease the number of blows required to close the groove.\nRepeat 11.1-11.6 for at least two additional trials producing\nsuccessively lower numbers of blows to close the groove. One\nof the trials shall be for a closure requiring 25 to 35 blows, one\nfor closure between 20 and 30 blows, and one trial for a closure\nrequiring 15 to 25 blows.\n11.8 Determine the water content,  W n ,  of the soil specimen\nfrom each trial in accordance with Test Method D 2216.\n11.8.1 Determination of initial masses (container plus moist\nsoil) should be performed immediately after completion of the\ntest. If the test is to be interrupted for more than about 15\nminutes, determine the mass of the water content specimens\nalready obtained at the time of the interruption.",
+          "bbox": [
+            32.07,
+            61.47,
+            283.59,
+            373.92
+          ],
+          "block_id": "b9_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13.3 Determine water contents of specimens in accordance\nwith 11.8.",
+          "bbox": [
+            301.48,
+            61.47,
+            552.97,
+            86.26
+          ],
+          "block_id": "b9_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "14. Calculation\n14.1 Determine the liquid limit for each water content\nspecimen using one of the following equations:",
+          "bbox": [
+            301.48,
+            93.88,
+            552.94,
+            133.04
+          ],
+          "block_id": "b9_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "LL n   5  W n   \u00b7 S\nN\n25 D",
+          "bbox": [
+            391.08,
+            131.0,
+            450.2,
+            157.81
+          ],
+          "block_id": "b9_7",
+          "font_size": 14.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0.121",
+          "bbox": [
+            450.43,
+            136.77,
+            463.34,
+            144.43
+          ],
+          "block_id": "b9_8",
+          "font_size": 5.7,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "or",
+          "bbox": [
+            301.48,
+            159.94,
+            309.79,
+            173.25
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "LL n   5  k  \u00b7  W n",
+          "bbox": [
+            405.37,
+            175.4,
+            449.04,
+            189.18
+          ],
+          "block_id": "b9_10",
+          "font_size": 7.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where:\nLL n\n= one point liquid limit for given trial, %,\nN\n= number of blows causing closure of the groove for\ngiven trial,\nW n\n= water content for given trial, %, and\nk\n= factor given in Table 1.\n14.1.1 The liquid limit,  LL , is the average of the two trial\nliquid-limit values, to the nearest whole number (without the\npercent designation).\n14.2 If the difference between the two trial liquid-limit\nvalues is greater than one percentage point, repeat the test as\ndescribed in 13.1 through 14.1.1.",
+          "bbox": [
+            301.48,
+            195.3,
+            552.96,
+            332.09
+          ],
+          "block_id": "b9_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PLASTIC LIMIT",
+          "bbox": [
+            388.77,
+            339.71,
+            465.83,
+            353.53
+          ],
+          "block_id": "b9_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "15. Preparation of Test Specimen\n15.1 Select a 20-g or more portion of soil from the material\nprepared for the liquid limit test; either, after the second mixing\nbefore the test, or from the soil remaining after completion of\nthe liquid limit test. Reduce the water content of the soil to a\nconsistency at which it can be rolled without sticking to the\nhands by spreading or mixing continuously on the glass plate\nor in the mixing/storage dish. The drying process may be\naccelerated by exposing the soil to the air current from an\nelectric fan, or by blotting with paper, that does not add any\n\ufb01ber to the soil. Paper such as hard surface paper toweling or\nhigh wet-strength \ufb01lter paper is adequate.",
+          "bbox": [
+            301.48,
+            360.56,
+            552.98,
+            503.0
+          ],
+          "block_id": "b9_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12. Calculation\n12.1 Plot the relationship between the water content,  W n ,\nand the corresponding number of drops,  N,  of the cup on a\nsemilogarithmic graph with the water content as ordinates on\nthe arithmetical scale, and the number of drops as abscissas on\na logarithmic scale. Draw the best straight line through the\nthree or more plotted points.\n12.2 Take the water content corresponding to the intersec-\ntion of the line with the 25-drop abscissa as the liquid limit of\nthe soil and round to the nearest whole number. Computational\nmethods may be substituted for the graphical method for \ufb01tting\na straight line to the data and determining the liquid limit.",
+          "bbox": [
+            32.07,
+            383.13,
+            283.58,
+            525.96
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "16. Procedure\n16.1 From this plastic-limit specimen, select a 1.5 to 2.0 g\nportion. Form the selected portion into an ellipsoidal mass.\n16.2 Roll the soil mass by one of the following methods\n(hand or rolling device):",
+          "bbox": [
+            301.48,
+            510.62,
+            552.97,
+            572.73
+          ],
+          "block_id": "b9_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ONE-POINT LIQUID LIMIT\u2014METHOD B",
+          "bbox": [
+            60.07,
+            535.17,
+            255.57,
+            548.99
+          ],
+          "block_id": "b9_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13. Procedure\n13.1 Proceed as described in 11.1-11.5 except that the\nnumber of blows required to close the groove shall be 20 to 30.\nIf less than 20 or more than 30 blows are required, adjust the\nwater content of the soil and repeat the procedure.\n13.2 Immediately after removing a water content specimen\nas described in 11.5, reform the soil in the cup, adding a small\namount of soil to make up for that lost in the grooving and\nwater content sampling orientations. Repeat 11.2-11.5, and, if\nthe second closing of the groove requires the same number of\ndrops or no more than two drops difference, secure another\nwater content specimen. Otherwise, remix the entire specimen\nand repeat.",
+          "bbox": [
+            32.07,
+            557.61,
+            283.58,
+            711.92
+          ],
+          "block_id": "b9_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TABLE 1 Factors for Obtaining Liquid Limit from Water Content\nand Number of Drops Causing Closure of Groove",
+          "bbox": [
+            304.42,
+            588.9,
+            550.07,
+            609.37
+          ],
+          "block_id": "b9_15",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "N\n(Number of Drops)\nk\n(Factor for Liquid Limit)",
+          "bbox": [
+            331.47,
+            612.38,
+            522.98,
+            630.46
+          ],
+          "block_id": "b9_16",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "20\n0.973\n21\n0.979\n22\n0.985\n23\n0.990\n24\n0.995\n25\n1.000\n26\n1.005\n27\n1.009\n28\n1.014\n29\n1.018\n30\n1.022",
+          "bbox": [
+            356.87,
+            633.92,
+            495.22,
+            729.12
+          ],
+          "block_id": "b9_17",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  9\u2014Excessive drying or inadequate mixing will cause the number\nof blows to vary.",
+          "bbox": [
+            32.08,
+            716.84,
+            283.53,
+            738.13
+          ],
+          "block_id": "b9_4",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9",
+          "bbox": [
+            290.25,
+            753.25,
+            294.74,
+            765.22
+          ],
+          "block_id": "b9_20",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img9_18",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img10_8"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b10_9",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "16.2.1  Hand Method \u2014Roll the mass between the palm or\n\ufb01ngers and the ground-glass plate with just sufficient pressure\nto roll the mass into a thread of uniform diameter throughout its\nlength (see Note 10). The thread shall be further deformed on\neach stroke so that its diameter reaches 3.2 mm ( 1 \u2044 8  in.), taking\nno more than 2 min (see Note 11). The amount of hand or\n\ufb01nger pressure required will vary greatly according to the soil\nbeing tested, that is, the required pressure typically increases\nwith increasing plasticity. Fragile soils of low plasticity are\nbest rolled under the outer edge of the palm or at the base of the\nthumb.",
+          "bbox": [
+            32.07,
+            61.47,
+            283.56,
+            189.53
+          ],
+          "block_id": "b10_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "together, knead between the thumb and \ufb01rst \ufb01nger of each\nhand, reform into an ellipsoidal mass, and re-roll. Continue this\nalternate rolling to a thread 3.2 mm in diameter, gathering\ntogether, kneading and re-rolling, until the thread crumbles\nunder the pressure required for rolling and the soil can no\nlonger be rolled into a 3.2-mm diameter thread (see Fig. 8). It\nhas no signi\ufb01cance if the thread breaks into threads of shorter\nlength. Roll each of these shorter threads to 3.2 mm in\ndiameter. The only requirement for continuing the test is that\nthese threads can be reformed into an ellipsoidal mass and\nrolled out again. The operator shall at no time attempt to\nproduce failure at exactly 3.2-mm diameter by allowing the\nthread to reach 3.2 mm, then reducing the rate of rolling or the\nhand pressure, or both, while continuing the rolling without\nfurther deformation until the thread falls apart. It is permis-\nsible, however, to reduce the total amount of deformation for\nfeebly plastic soils by making the initial diameter of the\nellipsoidal mass nearer to the required 3.2-mm \ufb01nal diameter.\nIf crumbling occurs when the thread has a diameter greater\nthan 3.2 mm, this shall be considered a satisfactory end point,\nprovided the soil has been previously rolled into a thread 3.2\nmm in diameter. Crumbling of the thread will manifest itself\ndifferently with the various types of soil. Some soils fall apart\nin numerous small aggregations of particles, others may form\nan outside tubular layer that starts splitting at both ends. The\nsplitting progresses toward the middle, and \ufb01nally, the thread\nfalls apart in many small platy particles. Fat clay soils require\nmuch pressure to deform the thread, particularly as they\napproach the plastic limit. With these soils, the thread breaks\ninto a series of barrel-shaped segments about 3.2 to 9.5 mm ( 1 \u2044 8\nto   3 \u2044 8  in.) in length.\n16.4 Gather the portions of the crumbled thread together",
+          "bbox": [
+            301.48,
+            61.47,
+            553.0,
+            448.45
+          ],
+          "block_id": "b10_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  10\u2014A normal rate of rolling for most soils should be 80 to 90\nstrokes per minute, counting a stroke as one complete motion of the hand\nforward and back to the starting position. This rate of rolling may have to\nbe decreased for very fragile soils.\nN OTE  11\u2014A 3.2-mm ( 1 \u2044 8 -in.) diameter rod or tube is useful for frequent\ncomparison with the soil thread to ascertain when the thread has reached\nthe proper diameter.",
+          "bbox": [
+            32.08,
+            194.26,
+            283.56,
+            265.44
+          ],
+          "block_id": "b10_1",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "16.2.2  Rolling Device Method \u2014Attach smooth unglazed\npaper to both the top and bottom plates of the plastic\nlimit-rolling device. Place the soil mass on the bottom plate at\nthe midpoint between the slide rails. Place the top plate in\ncontact with the soil mass(es). Simultaneously apply a slight\ndownward force and back and forth motion to the top plate so\nthat the top plate comes into contact with the side rails within\n2 min (see Notes 10 and 12). During this rolling process, the\nend(s) the soil thread(s) shall not contact the side rail(s). If this\noccurs, roll a smaller mass of soil (even if it is less than that\nmentioned in Section 16.1).",
+          "bbox": [
+            32.07,
+            267.52,
+            283.61,
+            395.57
+          ],
+          "block_id": "b10_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  12\u2014In most cases, two soil masses (threads) can be rolled\nsimultaneously in the plastic limit-rolling device.",
+          "bbox": [
+            32.08,
+            400.3,
+            283.56,
+            421.59
+          ],
+          "block_id": "b10_3",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "16.3 When the diameter of the thread becomes 3.2 mm,\nbreak the thread into several pieces. Squeeze the pieces",
+          "bbox": [
+            32.07,
+            423.67,
+            283.54,
+            448.46
+          ],
+          "block_id": "b10_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            124.5,
+            467.29,
+            460.5,
+            725.53
+          ],
+          "block_id": "img10_6"
+        },
+        {
+          "type": "text",
+          "content": "FIG. 8 Lean Clay Soil at the Plastic Limit",
+          "bbox": [
+            214.91,
+            727.22,
+            370.14,
+            738.21
+          ],
+          "block_id": "b10_7",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10",
+          "bbox": [
+            288.01,
+            753.25,
+            296.99,
+            765.22
+          ],
+          "block_id": "b10_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img10_6",
+          "bbox": [
+            124.5,
+            467.29,
+            460.5,
+            725.53
+          ]
+        },
+        {
+          "block_id": "img10_8",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img10_6": 5
+      }
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img11_17"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b11_18",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "and place in a container of known mass. Immediately cover the\ncontainer.\n16.5 Select another 1.5 to 2.0-g portion of soil from the\nplastic\u2013limit specimen and repeat the operations described in\n16.1 and 16.2 until the container has at least 6 g of soil.\n16.6 Repeat 16.1-16.5 to make another container holding at\nleast 6 g of soil. Determine the water content of the soil\ncontained in the containers in accordance with Test Method\nD 2216. See 11.8.1.",
+          "bbox": [
+            32.07,
+            61.47,
+            283.56,
+            166.58
+          ],
+          "block_id": "b11_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "liquid limit or plastic limit tests could not be performed, or if\nthe plastic limit is equal to or greater than the liquid limit,\nreport the soil as nonplastic, NP,\n19.1.5 Estimate of the percentage of sample retained on the\n425-\u00b5m (No. 40) sieve, and\n19.1.6 Procedure by which liquid limit was performed, if it\ndiffers from the multipoint method.",
+          "bbox": [
+            301.48,
+            61.47,
+            552.96,
+            143.63
+          ],
+          "block_id": "b11_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "20. Precision and Bias\n20.1  Precision \u2014Criteria for judging the acceptability of test\nresults obtained by these test methods on a range of soil types\nare given in Tables 2 and 3. In performing these test methods,\nMethod A and the Wet Preparation Method (except soil was\nair-dried) were used.\n20.1.1 These estimates of precision are based on the results\nof the interlaboratory program conducted by the ASTM Ref-\nerence Soils and Testing Program. 10   In this program, some\nlaboratories performed three replicate tests per soil type\n(triplicate test laboratory), while other laboratories performed a\nsingle test per soil type (single-test laboratory). A description\nof the soils tested is given in 20.1.5. The precision estimates\nvary with soil type and method(s) used. Judgment is required\nwhen applying these estimates to another soil and method used\n(Method A or B, or Wet or Dry Preparation Method).\n20.1.2 The data in Table 2 are based on three replicate tests\nperformed by each triplicate test laboratory on each soil type.\nThe single operator and multilaboratory standard deviation\nshown in Table 2, Column 4, were obtained in accordance with\nPractice E 691, which recommends each testing laboratory\nperform a minimum of three replicate tests. Results of two\nproperly conducted tests performed by the same operator on\nthe same material, using the same equipment, and in the\nshortest practical period of time should not differ by more than\nthe single-operator d2 s  limits shown in Table 2, Column 5. For\nde\ufb01nition of d2 s  see Footnote C in Table 2. Results of two\nproperly conducted tests performed by different operators and",
+          "bbox": [
+            301.48,
+            151.25,
+            552.99,
+            477.29
+          ],
+          "block_id": "b11_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "17. Calculation\n17.1 Compute the average of the two water contents (trial\nplastic limits) and round to the nearest whole number. This\nvalue is the plastic limit,  PL . Repeat the test if the difference\nbetween the two trial plastic limits is greater than the accept-\nable range for two results listed in Table 2 for single-operator\nprecision, that is, 1.4 percentage points; i.e., (2.8  3  0.5).",
+          "bbox": [
+            32.07,
+            171.62,
+            283.56,
+            256.69
+          ],
+          "block_id": "b11_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PLASTICITY INDEX",
+          "bbox": [
+            109.77,
+            261.73,
+            205.85,
+            275.55
+          ],
+          "block_id": "b11_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "18. Calculation\n18.1 Calculate the plasticity index as follows:",
+          "bbox": [
+            32.07,
+            280.0,
+            230.28,
+            307.69
+          ],
+          "block_id": "b11_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PI  5  LL  2  PL",
+          "bbox": [
+            132.83,
+            311.29,
+            182.77,
+            321.64
+          ],
+          "block_id": "b11_4",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where:\nLL\n= liquid limit (whole number), and\nPL  = plastic limit (whole number).\n18.1.1 Both LL and PL are whole numbers. If either the\nliquid limit or plastic limit could not be determined, or if the\nplastic limit is equal to or greater than the liquid limit, report\nthe soil as nonplastic, NP.",
+          "bbox": [
+            32.07,
+            327.86,
+            283.53,
+            408.77
+          ],
+          "block_id": "b11_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "19. Report\n19.1 Report the following information:\n19.1.1 Sample identifying information,\n19.1.2 Any special specimen selection process used, such as\nremoval of sand lenses from undisturbed sample,\n19.1.3 Report sample as air-dried if the sample was air-dried\nbefore or during preparation,\n19.1.4 Liquid limit, plastic limit, and plasticity index to the\nnearest whole number, omitting the percent designation. If the",
+          "bbox": [
+            32.07,
+            413.72,
+            283.57,
+            521.73
+          ],
+          "block_id": "b11_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10  Supporting data are available from ASTM Headquarters. Request RR: D18-\n1013.",
+          "bbox": [
+            301.48,
+            498.9,
+            552.95,
+            520.86
+          ],
+          "block_id": "b11_9",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TABLE 2 Summary of Test Results from Triplicate Test Laboratories (Atterberg Limits)",
+          "bbox": [
+            126.69,
+            530.53,
+            458.42,
+            541.52
+          ],
+          "block_id": "b11_10",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(1)\n(2)\n(3)\n(4)\n(5)",
+          "bbox": [
+            56.18,
+            544.53,
+            499.11,
+            554.13
+          ],
+          "block_id": "b11_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Soil Type\nNumber of Triplicate Test\nLaboratories\nAverage Value A   (Percentage\nPoints)\nStandard Deviation B",
+          "bbox": [
+            45.96,
+            550.35,
+            411.61,
+            571.17
+          ],
+          "block_id": "b11_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(Percentage Points)\nAcceptable Range of Two\nResults C   (Percentage Points)",
+          "bbox": [
+            347.57,
+            553.09,
+            540.69,
+            571.17
+          ],
+          "block_id": "b11_13",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Type Test\nLL\nPL\nPI\nLL\nPL\nPI\nLL\nPL\nPI\nLL\nPL\nPI",
+          "bbox": [
+            103.2,
+            574.63,
+            536.85,
+            592.78
+          ],
+          "block_id": "b11_14",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Single-Operator Results (Within-Laboratory Repeatability)\nCH\n13\n13\n13\n59.8\n20.6\n39.2\n0.7\n0.5\n0.8\n2\n1\n2\nCL\n14\n13\n13\n33.4\n19.9\n13.6\n0.3\n0.4\n0.5\n1\n1\n1\nML\n12\n11\n11\n27.4\n23.4 D\n4.1 D\n0.5\n0.3\n0.6\n2\n1\n2\nMultilaboratory Results (Between-Laboratory Reproducibility)\nCH\n13\n13\n13\n59.8\n20.6\n39.2\n1.3\n2.0\n2.5\n4\n6\n7\nCL\n14\n13\n13\n33.4\n19.9\n13.6\n1.0\n1.2\n1.7\n3\n3\n5\nML\n12\n11\n11\n27.4\n23.4 D\n4.1 D\n1.3\n0.9\n1.9\n4\n3\n5",
+          "bbox": [
+            55.41,
+            596.24,
+            535.53,
+            665.76
+          ],
+          "block_id": "b11_15",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A The number of signi\ufb01cant digits and decimal places presented are representative of the input data. In accordance with Practice D 6026, the standard deviation and\nacceptable range of results can not have more decimal places than the input data.\nB Standard deviation is calculated in accordance with Practice E 691 and is referred to as th e 1 s limit.\nC Acceptable range of two results is referred to as the d2s limit. It is calculated as  2  1.960 \u00b7   = 2 \u00b7 1s, as de\ufb01ned by Practice E 177. The difference between two properly\nconducted tests should not exceed this limit. The number of signi\ufb01cant digits/decimal places presented is equal to that prescribed by this test method or Practice D 6026.\nIn addition, the value presented can have the same number of decimal places as the standard deviation, even if that result has more signi\ufb01cant digits than the standard\ndeviation.\nD For the ML soil, 2 out of 14 triplicate test laboratories reported the soil as nonplastic.",
+          "bbox": [
+            32.05,
+            668.82,
+            553.26,
+            737.85
+          ],
+          "block_id": "b11_16",
+          "font_size": 7.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11",
+          "bbox": [
+            288.17,
+            753.25,
+            296.82,
+            765.22
+          ],
+          "block_id": "b11_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img11_17",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img12_19"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b12_20",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "laboratories with different operators using different equipment\nand on different days should not vary by more than the d2 s\nlimits shown in Table 3, Column 5. The results in Table 2 and\nTable 3 are dissimilar because the data sets are different.\n20.1.4 Table 2 presents a rigorous interpretation of triplicate\ntest data in accordance with Practice E 691 from pre-quali\ufb01ed\nlaboratories. Table 3 is derived from test data that represents\ncommon practice.\n20.1.5  Soil Types \u2014Based on the multilaboratory test re-\nsults, the soils used in the program are described below in\naccordance with Practice D 2487. In addition, the local names\nof the soils are given.",
+          "bbox": [
+            301.48,
+            61.47,
+            552.97,
+            201.0
+          ],
+          "block_id": "b12_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TABLE 3 Summary of Single-Test Result from Each Laboratory\n(Atterberg Limits) A",
+          "bbox": [
+            36.47,
+            61.94,
+            279.2,
+            82.41
+          ],
+          "block_id": "b12_10",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(1)\n(2)\n(3)\n(4)\n(5)",
+          "bbox": [
+            45.81,
+            85.42,
+            261.35,
+            95.02
+          ],
+          "block_id": "b12_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Acceptable\nRange of Two\nResults\n(Percentage\nPoints)",
+          "bbox": [
+            235.23,
+            93.98,
+            278.97,
+            137.51
+          ],
+          "block_id": "b12_15",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Standard\nDeviation\n(Percentage\nPoints)",
+          "bbox": [
+            184.07,
+            102.46,
+            222.12,
+            137.51
+          ],
+          "block_id": "b12_14",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Average Value\n(Percentage\nPoints)",
+          "bbox": [
+            123.79,
+            110.95,
+            169.35,
+            137.51
+          ],
+          "block_id": "b12_13",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Soil Type\nNumber of Test\nLaboratories",
+          "bbox": [
+            35.59,
+            119.43,
+            116.57,
+            137.51
+          ],
+          "block_id": "b12_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Type Test\nLL\nPL\nPI\nLL\nPL\nPI\nLL\nPL\nPI",
+          "bbox": [
+            122.52,
+            140.96,
+            278.38,
+            159.12
+          ],
+          "block_id": "b12_16",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "CH\n24\n59.9\n20.4\n39.5\n2.1\n2.7\n3.1\n6\n7\n9\nCL\n24\n33.3\n19.9\n13.4\n0.8\n1.3\n1.6\n2\n4\n4\nML\n18\n27.1 23.2 B   3.9 B\n1.3\n1.2\n1.8\n4\n3\n5",
+          "bbox": [
+            45.03,
+            162.58,
+            277.03,
+            189.3
+          ],
+          "block_id": "b12_17",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A For column footnotes, see Table 3.\nB For the ML soil, 6 out of 24 laboratories reported the soil as nonplastic.",
+          "bbox": [
+            38.71,
+            192.35,
+            265.65,
+            210.49
+          ],
+          "block_id": "b12_18",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "CH\u2014Fat clay, CH, 99 % \ufb01nes, LL=60, PI=39, grayish brown, soil had been\nair dried and pulverized. Local name\u2014Vicksburg Buckshot Clay\nCL\u2014Lean clay, CL, 89 % \ufb01nes, LL=33, PI=13, gray, soil had been air dried\nand pulverized. Local name\u2014Annapolis Clay\nML\u2014Silt, ML, 99 % \ufb01nes, LL=27, PI=4, light brown, soil had been air dried\nand pulverized. Local name\u2014Vicksburg Silt",
+          "bbox": [
+            310.12,
+            203.16,
+            545.87,
+            255.33
+          ],
+          "block_id": "b12_2",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "on different days should not differ by more than the multilabo-\nratory d2 s  limits shown in Table 2, Column 5.\n20.1.3 In the ASTM Reference Soils and Testing Program,\nmany of the laboratories performed only a single test on each\nsoil type. This is common practice in the design and construc-\ntion industry. The data for each soil type in Table 3 are based\nupon the \ufb01rst test results from the triplicate test laboratories\nand the single test results from the other laboratories. Results\nof two properly conducted tests performed by two different",
+          "bbox": [
+            32.07,
+            222.99,
+            283.59,
+            328.1
+          ],
+          "block_id": "b12_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "20.2  Bias \u2014There is no acceptable reference value for these\ntest methods; therefore, bias cannot be determined.",
+          "bbox": [
+            301.48,
+            258.44,
+            552.92,
+            283.23
+          ],
+          "block_id": "b12_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "21. Keywords\n21.1 activity; Atterberg limits; liquid limit; plasticity index;\nplastic limit",
+          "bbox": [
+            301.48,
+            288.97,
+            552.95,
+            328.13
+          ],
+          "block_id": "b12_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX",
+          "bbox": [
+            274.76,
+            353.57,
+            310.24,
+            367.39
+          ],
+          "block_id": "b12_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Mandatory Information)",
+          "bbox": [
+            242.88,
+            377.32,
+            342.15,
+            389.75
+          ],
+          "block_id": "b12_6",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A1. Resilience Tester",
+          "bbox": [
+            251.31,
+            399.77,
+            333.87,
+            412.2
+          ],
+          "block_id": "b12_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A1.1 A device for measuring the resilience of liquid limit\ndevice bases is shown in Fig. A1.1. The device consists of a\nclear acrylic plastic tube and cap, a   5 \u2044 16 -in. diameter steel ball,\nand a small bar magnet. The cylinder may be cemented to the\ncap or threaded as shown. The small bar magnet is held in the\nrecess of the cap and the steel ball is \ufb01xed into the recess in the\nunderside of the cap with the bar magnet. The cylinder is then\nturned upright and placed on the top surface of the base to be",
+          "bbox": [
+            32.07,
+            423.33,
+            283.58,
+            516.96
+          ],
+          "block_id": "b12_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "tested. Holding the tube lightly against the liquid limit device\nbase with one hand, release the ball by pulling the magnet out\nof the cap. Use the scale markings on the outside of the\ncylinder to determine the highest point reached by the bottom\nof the ball. Repeat the drop at least three times, placing the\ntester in a different location for each drop. Tests should be\nconducted at room temperature.",
+          "bbox": [
+            301.48,
+            423.33,
+            552.99,
+            508.46
+          ],
+          "block_id": "b12_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12",
+          "bbox": [
+            288.01,
+            753.25,
+            296.99,
+            765.22
+          ],
+          "block_id": "b12_21",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img12_19",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img13_6"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b13_7",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            32.07,
+            65.24,
+            557.19,
+            419.48
+          ],
+          "block_id": "img13_4"
+        },
+        {
+          "type": "text",
+          "content": "FIG. A1.1 Resilience Tester",
+          "bbox": [
+            241.06,
+            421.17,
+            343.97,
+            432.16
+          ],
+          "block_id": "b13_5",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SUMMARY OF CHANGES",
+          "bbox": [
+            231.53,
+            457.96,
+            353.49,
+            471.78
+          ],
+          "block_id": "b13_0",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Committee D18 has identi\ufb01ed the location of selected changes to this standard since the last issue (1998) that\nmay impact the use of this standard.",
+          "bbox": [
+            67.99,
+            481.32,
+            517.14,
+            506.1
+          ],
+          "block_id": "b13_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( 1 ) Replaced \u201cprocedure\u201d with \u201cmethod,\u201d when the topic\ncovers how one is to perform a task.\n( 2 ) In Scope covering \u201cunits,\u201d clari\ufb01ed that the standard units\nfor resilience tester are in inch-pound, not metric.\n( 3 ) Where applicable, replaced \u201cweight\u201d with \u201cmass\u201d or\nreworded to remove such terms as \u201cweight,\u201d \u201cweighing,\u201d or\n\u201cweigh.\u201d\n( 4 ) Where applicable, replaced \u201cnatural\u201d as an adjective to\nwater content with such terms as \u201cits\u201d or \u201cas-sampled.\u201d\n( 5 ) In Apparatus, under 6.6, \u201cstorage container\u201d was changed\nto \u201cmixing and storage container\u201d and subsection reworded to\nindicate this container/dish may be used to mix the soil.\nRemaining sections in the standard, where applicable, were\nreworded to indicate \u201cstorage dish\u201d may also be the \u201cmixing\ndish.\u201d\n( 6 ) In Section 8, changed title to include \u201cSpecimen,\u201d and\nwhere applicable reworded to distinguish between the sample\nand the specimen before processing using the wet or dry\npreparation method.",
+          "bbox": [
+            32.07,
+            517.49,
+            283.57,
+            738.53
+          ],
+          "block_id": "b13_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( 7 ) Under Preparation of Test Specimen: The subsections\ncovering the wet and dry preparation methods were reworded\nto include the required number of blows for Method A and B.\nIn addition, used the term \u201cmaterial\u201d instead of soil or sample,\nwhenever applicable, and replaced \u201cgrains\u201d with \u201cparticle.\u201d.\n( 8 ) Under One-Point Liquid Limit, Method B, Section 13 on\nPreparation of Test Specimen was removed since the informa-\ntion given in that section was moved to 10.1.2.4.\n( 9 ) In the calculation sections, de\ufb01ned that the calculated test\nresult is rounded to the nearest whole number.\n( 10 ) References to Practice C 670 were deleted in text, and\nreferences to Practices D 3740, D 6026, E 177, and E 691 were\nincorporated.\n( 11 ) At the end of the Signi\ufb01cance and Use section, a new Note\n1 was added referencing Practice D 3740 in accordance with\nD18 policy, and all subsequent notes were renumbered.\n( 12 ) Section 20.1 on Precision was revised completely.\n( 13 ) In Table 1, corrected the factor for 20 number of drops.\n( 14 ) Appendix X1 was changed to Annex A1, and the scribe",
+          "bbox": [
+            301.48,
+            517.49,
+            552.99,
+            738.53
+          ],
+          "block_id": "b13_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13",
+          "bbox": [
+            288.01,
+            753.25,
+            296.99,
+            765.22
+          ],
+          "block_id": "b13_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img13_4",
+          "bbox": [
+            32.07,
+            65.24,
+            557.19,
+            419.48
+          ]
+        },
+        {
+          "block_id": "img13_6",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img13_4": 6
+      }
+    },
+    {
+      "page_num": 14,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ],
+          "block_id": "img14_4"
+        },
+        {
+          "type": "text",
+          "content": "D 4318",
+          "bbox": [
+            284.49,
+            39.53,
+            320.48,
+            54.64
+          ],
+          "block_id": "b14_5",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "line at \u201c8.0\u201d in Fig. A1.1 was changed to \u201c7.7.\u201d",
+          "bbox": [
+            32.07,
+            61.47,
+            228.53,
+            74.78
+          ],
+          "block_id": "b14_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The American Society for Testing and Materials takes no position respecting the validity of any patent rights asserted in connection\nwith any item mentioned in this standard. Users of this standard are expressly advised that determination of the validity of any such\npatent rights, and the risk of infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            88.5,
+            87.17,
+            497.92,
+            113.73
+          ],
+          "block_id": "b14_1",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM Headquarters. Your comments will receive careful consideration at a meeting of the responsible\ntechnical committee, which you may attend. If you feel that your comments have not received a fair hearing you should make your\nviews known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            88.5,
+            124.59,
+            497.86,
+            168.11
+          ],
+          "block_id": "b14_2",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.\nIndividual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above address or at\n610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website (www.astm.org).",
+          "bbox": [
+            88.5,
+            178.97,
+            497.88,
+            205.53
+          ],
+          "block_id": "b14_3",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "14",
+          "bbox": [
+            288.01,
+            753.25,
+            296.99,
+            765.22
+          ],
+          "block_id": "b14_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img14_4",
+          "bbox": [
+            264.53,
+            39.3,
+            279.65,
+            54.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 3,
+      "path": "pdf_images/p3_i1.png",
+      "text": "DIMENSIONS\nLETTER PAS | es fT ce Tes TF ye TA. o\u00ae | K*\n54 2 27 56 32 60 50 150 125\n+o5]/+o01}] +05| + 2.0 #10] + 2.0] + 2.0] + 2.0\nLeTTeR| WN [ ep [| Rk [ 7 [ vo*, vf|w fos\n24 28 24 47 13\n+ 1.0\nCAM\n\u201c ESSENTIAL DIMENSIONS ANGLE cone\nDEGREES| RADIUS\nH | oF 0.742R\nS | 30 [0.753R|\nV DIAMETER 30_|0.753R\n[_ E \u2014 \u2014 \u2014 CRS OR BRASS PIN i ores\na i i Ll\nns oe RSs ae 0.773R\n-- Sst (Ps | 90 |\nSPH = Piatt | 0.784 R\nERIC, oF Wa Aa =\n| PaO rey iN HK EE Fy O.796R\n. \u20184 -~+\u2014,--4-\u2014-1. y L-\nqf ren ft aoa? . 180 [ose\nae 4 0.854 R\n1s T =\na S\u2014 Tt al 0.901 R\ni} 1 1\n8 7 7 7 = | 270 | 0.045R |\nK 7 a i! 300 | 0.974R |\nZ SPHERICAL | it 1 .\n| \" RADIUS och a ch oto sont\neg Ras ee, wit 0008\n,; \u2014____ ~~ uw \u2014\u2014 1\nHARD RUBBER BASE CONFORMING SOFT RUBBER CONFORMING TO\nTO SPECIFICATION IN 6.1.1 SPECIFICATION IN 6.1.2",
+      "position": {
+        "x0": 33.54,
+        "y0": 407.53,
+        "x1": 551.46,
+        "y1": 725.53,
+        "width": 517.92,
+        "height": 318.0
+      },
+      "size": {
+        "width": 2158,
+        "height": 1325
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "POINT WHERE\nCUP CONTACTS BASE \u2014\nj iS\nLect =\nv tN |\nHEIGHT GAUGE <7 | az\n_\\ \u2014\nMASKING TAPE APPLIED AS AID\nIN. ADJUSTMENT OPERATION",
+      "position": {
+        "x0": 144.55,
+        "y0": 65.24,
+        "x1": 440.47,
+        "y1": 211.63,
+        "width": 295.92,
+        "height": 146.39
+      },
+      "size": {
+        "width": 1233,
+        "height": 610
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 3,
+      "page": 5,
+      "path": "pdf_images/p5_i1.png",
+      "text": "",
+      "position": {
+        "x0": 39.84,
+        "y0": 65.24,
+        "x1": 275.76,
+        "y1": 183.81,
+        "width": 235.92,
+        "height": 118.57
+      },
+      "size": {
+        "width": 983,
+        "height": 495
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 4,
+      "page": 8,
+      "path": "pdf_images/p8_i1.jpeg",
+      "text": "17",
+      "position": {
+        "x0": 127.38,
+        "y0": 65.24,
+        "x1": 458.38,
+        "y1": 321.08,
+        "width": 331.0,
+        "height": 255.84
+      },
+      "size": {
+        "width": 331,
+        "height": 256
+      },
+      "format": "jpeg"
+    },
+    {
+      "image_id": 5,
+      "page": 10,
+      "path": "pdf_images/p10_i1.jpeg",
+      "text": "a\n\u201c =- cs en\n\u2014\u2014\u2014\u2014\u2014\ntia \u201cSie ee\n\u201cwae?\n\ni \u201cfee",
+      "position": {
+        "x0": 124.5,
+        "y0": 467.29,
+        "x1": 460.5,
+        "y1": 725.53,
+        "width": 336.0,
+        "height": 258.24
+      },
+      "size": {
+        "width": 336,
+        "height": 259
+      },
+      "format": "jpeg"
+    },
+    {
+      "image_id": 6,
+      "page": 13,
+      "path": "pdf_images/p13_i1.png",
+      "text": "CLEAR PLASTIC (SUCH AS ACRYLIC)\nCAP AND TUBE\n|\nA\nB\nG G 5 F\nYW C 0 TABLE OF MEASUREMENTS\nAp AE\nNy \\ ees\ncenent cap to vue \u00a9 [BIN\nNf fe [on or nore | ve | 9.52\nSCRIBE LINES oT Po [aerowr or car [| a4 |\nN N\nTREAT ZT ANDO | pe [orem or wove | sas | 7.04\nINFROMBOTION = NLR\nt\nN N\nN | N\nN N\nN N\nN N\nJat\nH\n|",
+      "position": {
+        "x0": 32.07,
+        "y0": 65.24,
+        "x1": 557.19,
+        "y1": 419.48,
+        "width": 525.12,
+        "height": 354.24
+      },
+      "size": {
+        "width": 2188,
+        "height": 1476
+      },
+      "format": "png"
+    }
+  ]
+}

@@ -1,0 +1,1572 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<PARAGRAPH>>IS 15024  (Part  4):
+2001
+ISO
+114424:1993<<PARAGRAPH_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>TECHNICAL
+PRODUCT
+DOCUMENTATION
+—
+HANDLING
+OF COMPUTER-BASED
+TECHNICAL
+INFORMATION<<HEADING_END>>
+<<PARAGRAPH>>PART 4 DOCUMENT MANAGEMENT AND RETRIEVAL SYSTEMS<<PARAGRAPH_END>>
+<<HEADING level=3>>Ics
+01.100<<HEADING_END>>
+<<PARAGRAPH>>@ BIS 2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF
+INDIAN
+STANDARDS
+MANAK
+BHAVAN,
+9
+BAHADUR SHAH ZAFAR MARG
+NEW DELHI  110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>A./gust 2001
+Price Group
+3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Drawings Sectional Committee, BP 24<<PARAGRAPH_END>>
+<<PARAGRAPH>>NATIONAL FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard (Part 4) which is identical with ISO 11442-4 : 1993 ‘Technical product
+documentation
+— Handling
+of computer-based
+technical
+information
+— Part 4: Document
+management and retrieval systems’ issued by the International Organization for Standardization (ISO)
+was adopted by the Bureau of Indian Standards on the recommendation of Drawings Sectional
+Committee and approval of the Basic and Production Engineering Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard (Part 4) gives the basic prerequisites for the efficient handling of documents and
+activities in the different phases of design work. Other parts of this series are given as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 15024 (Part 1): 2001
+Technical
+product documentation—Handling
+of computer-based
+technical information: Part 1 Security requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 15024 (Part 2): 2001
+Technical
+product documentation-Handling
+of computer-based
+technical information: Part 2 Original documentation<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 15024 (Part 3): 2001
+Technical
+product documentation—Handling
+of computer-based
+technical information: Part 3 Phases in the product design process<<PARAGRAPH_END>>
+<<PARAGRAPH>>The text of ISO Standard has been approved as suitable for publication as Indian Standard without
+deviations. In this adopted standard, certain terminology and conventions are not identical to those
+used in Indian Standards. Attention is particularly drawn to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Wherever the words ‘International Standard’ appear, referring to this standard, they should be
+read as ‘Indian Standard’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Comma (,) has befm used as a decimal marker while in Indian Standards the current practice
+is to use a full point (.) as the decimal marker.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In this adopted standard, reference appears
+to certain International Standards for which Indian
+Standards also exist. The corresponding Indian Standards which are to be substituted in their place
+are listed below along with their degree of equivalence for the editions. indicated:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Degree
+of
+Equivalence<<PARAGRAPH_END>>
+<<PARAGRAPH>>International
+Corresponding
+Indian Standard
+Standard<<PARAGRAPH_END>>
+<<PARAGRAPH>>Identical<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO  10209-1:1992
+IS 8930 (Part 1) :1995
+Technical product
+documentation — Vocabulary: Part 1Terms
+relating to technical drawings: General and
+types of drawings  (first revision)<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS
+15025
+: 2001
+Technical
+product
+documentation
+— Requirements
+for
+computer-aided design and draughting —
+Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>lSO/TR 10623:1991<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS
+15024 (  Part  4 ) :2001
+ISO
+11442-4:1993<<HEADING_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>TECHNICAL PRODUCT DOCUMENTATION —
+HANDLING OF COMPUTER-BASED
+TECHNICAL INFORMATION<<HEADING_END>>
+<<PARAGRAPH>>PART4 DOCUMENTMANAGEMENTAND RETRIEVALSYSTEMS<<PARAGRAPH_END>>
+<<PARAGRAPH>>administrative
+criteria
+and technical
+criteria.
+This pro-
+vides
+the
+basis
+for
+efficient
+management
+of
+docu-
+ments
+and activities
+in the different
+phases
+of design
+work.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+Scope<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 11442
+gives the
+basic prerequisites
+for the efficient
+handling
+of documents
+and activities
+in the different
+phases of design
+work.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the development
+phase:
+retrieval
+of filed
+docu-
+ments
+within
+relevant
+areas of activity,
+materials,
+processes,
+etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Normative references<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the
+approval
+phase:
+retrieval
+according
+to type
+of documents,
+product
+area, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+following
+standards
+contain
+provisions
+which,
+through
+reference
+in this
+text,
+constitute
+provisions
+of this part of ISO 11442.
+At the time
+of publication,
+the
+editions
+indicated
+were
+valid.
+All
+standards
+are
+subject
+to revision,
+and parties
+to agreements
+based
+on this part of ISO 11442
+are encouraged
+to investi-
+gate the
+possibility
+of applying
+the
+most
+recent
+edi-
+tions
+of the standards
+indicated
+below.
+Members
+of
+IEC and
+ISO
+maintain
+registers
+of
+currently
+valid
+International
+Standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the
+distribution
+phase:
+proper
+distribution
+of
+documents
+within
+certain
+subject
+areas.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the
+storage
+phase:
+retrieval
+of
+stored
+docu-
+ments
+produced
+within
+a specific
+time,
+concerning
+a specific
+area of activity,
+etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the
+revision
+DhaSe: Possibilities
+for
+a general
+revision
+of all documents
+concerned
+with
+a-certain
+field
+of
+interest
+without
+the
+need
+to
+penetrate
+each individual
+document.
+The classification
+crite-
+ria also
+constitute
+the
+basis
+for
+efficient
+imple-
+mentation
+of the phasing-out
+routines.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10209-1:1992,
+Technics/ product documentation
+— Vocabulary — Part 1: Terms re/sting to technical
+drawings: general and types of drawings.<<PARAGRAPH_END>>
+<<PARAGRAPH>>lSO/TR 10623:1991,
+Technics/product documentation
+—
+Requirements
+for
+computer-aided
+design
+and
+draughting — Vocabulary.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For further
+information
+on the different
+phases
+in de-
+sign work,
+see ISO 11442-3,<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Definitions<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1
+Administrative
+criteria,
+document
+management<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purposes
+of this part of ISO 11442,
+the defi-
+nitions
+given
+in
+ISO 10209-1
+apply.
+Further
+termin-
+ology is given in lSO/TR 10623,<<PARAGRAPH_END>>
+<<PARAGRAPH>>The technical
+documentation
+of design
+activities
+re-
+quires
+an administrative
+content,
+providing
+a means
+of
+control
+for
+all
+documents,
+paper-based
+or
+com-
+puter-based.
+Administrative
+data are data needed
+for
+efficient
+administration
+and storage
+of the documents
+and data transfer
+to other
+parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Identificationand classificationcriteria<<PARAGRAPH_END>>
+<<PARAGRAPH>>Criteria
+for
+the
+identification
+and
+classification
+of
+technical
+documentation
+are divided
+into two
+groups:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS
+15024
+(  Part 4 ) :2001<<HEADING_END>>
+<<HEADING level=3>>ISO
+11442-4:
+1993<<HEADING_END>>
+<<PARAGRAPH>>1) name
+(person
+approving
+release
+of
+revised
+document),<<PARAGRAPH_END>>
+<<PARAGRAPH>>This administrative
+content
+may be divided
+into three
+separate
+groups
+as described
+in annex
+A, viz. prima~
+data, status
+data and subscription
+data.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+date,<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.1
+Primary
+data
+3)
+number
+(index);<<HEADING_END>>
+<<PARAGRAPH>>Primary
+data constitute
+the compulso~
+identification
+of
+a document.
+This
+identification
+consists
+of
+the
+identification
+number
+of the document
+(drawing
+num-
+ber), the object
+name, the edition
+and any information
+necessa~
+for
+commencing
+a revision
+procedure.
+In
+addition,
+it may be necessary
+to identify
+the type and
+size of document,
+document
+medium,
+storage
+place
+and language
+version.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+issue of revised
+document:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) date,<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+issue number
+(index).<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.1.4
+Type
+of document<<HEADING_END>>
+<<PARAGRAPH>>Type of document
+is a general
+classification
+of docu-
+ment
+contents
+with
+regard
+to application.
+It may be
+used
+for
+retrieval
+purposes.
+Examples
+of
+types
+of
+document
+are:
+assembly
+drawing,
+item
+list,
+wiring
+diagram,
+geometric
+model,
+Here,
+the
+advantages
+of
+reference
+to physical
+models
+should
+be considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.1.1
+Identification
+number,
+for example
+drawing
+number<<HEADING_END>>
+<<PARAGRAPH>>In connection
+with
+the computerization
+of design
+ac-
+tivities,
+the drawing
+number
+file
+is often
+included,
+In
+order
+not
+to
+complicate
+such
+a computerization,
+a
+consecutive
+numbering
+method
+should
+be used. The
+number
+may be alphanumeric.
+If the number
+has any
+classification
+meaning,
+this
+system
+should
+be aban-
+doned.
+This
+type
+of
+information
+should
+be
+stated
+separately,<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.1,5
+Size of document<<HEADING_END>>
+<<PARAGRAPH>>Information
+on document
+size is used in manual
+stor-
+age routines
+as well
+as in machine
+copying
+routines.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1.1.6
+Document
+medkm
+The drawing
+number
+file
+shall include
+all documents
+identified
+with
+drawing
+numbers,
+as well
+as those
+manually
+produced,
+With
+regard
+to
+reproduction,
+the
+medium
+of
+the
+document
+to be reproduced
+should
+be stated.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.1.2
+Identification
+text,
+for example
+title
+or
+description
+4.1.1.7
+Storage
+place<<HEADING_END>>
+<<PARAGRAPH>>For retrieval
+purposes,
+it must
+be known
+whether
+the
+documents
+are computer-
+or paper-based.
+Examples
+of storage
+places are: filing
+offices,
+electronic
+storage
+area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The identification
+text is normally
+a supplement
+to the
+identification
+number
+and is of particular
+importance
+for
+manually
+produced
+drawings.
+If the
+identification
+text
+is to be used for retrieval,
+a standardized
+system
+of nomenclature
+shall be applied.
+4.1.1.8
+Language
+version<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1.1.3
+Revision
+data
+A technical
+document
+may exist
+in different
+language
+versions
+with
+the same
+principal
+identification.
+There-
+fore available
+language
+versions
+should
+be listed.
+Revision
+data
+are those
+which
+administratively
+indi-
+cate and control
+the revision
+activities
+for each docu-
+ment.
+Examples
+of such data are:
+4.1.2
+Status
+data<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+revision
+order:
+Status
+data
+are additional
+data
+needed
+for
+efficient
+use of a document.
+1) name (person
+responsible),<<PARAGRAPH_END>>
+<<HEADING level=3>>2)
+date,
+4.1.2.1
+Document
+status<<HEADING_END>>
+<<PARAGRAPH>>3)
+number
+(registration
+number);
+A document,
+in its lifetime,
+will pass through
+different
+stages
+of use. These
+stages
+may be represented,
+for
+example,
+by
+b)
+request
+for the original
+document
+to be revised:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  reservation
+of identification
+number;
+1) name
+(person
+carrying
+out the revision),<<PARAGRAPH_END>>
+<<HEADING level=3>>2)
+date;
+— preliminary
+issue (for restricted
+use only);<<HEADING_END>>
+<<PARAGRAPH>>c)
+revision
+date:
+— final issue;<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>IS 15024 ( Part 4 ] :2001
+ISO
+11442-4:1993<<PARAGRAPH_END>>
+<<HEADING level=3>>—  withdrawal.
+4.2.2
+Specific
+classification<<HEADING_END>>
+<<PARAGRAPH>>These data are normally
+only valid for the final docu-
+ment,
+but in particular
+cases they can also be used for
+a document
+in its early development
+stages.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specific
+classification
+will
+group
+the
+design
+objects
+into
+classes
+of characteristics
+or properties
+relevant
+to the
+users
+in question.
+The users
+may be respon-
+sible
+for
+both
+maintenance
+and
+application
+of
+the
+classification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+The
+indications
+given
+on a particular
+document
+depend
+on the
+release
+procedure
+which
+is established
+by
+the company.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Typical specific
+retrieval
+criteria
+are characteristics
+for,
+for example,
+processing,
+purchasing,
+marketing,
+qual-
+ity, economy
+etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.2.2
+issue and withdrawal
+approvai<<HEADING_END>>
+<<PARAGRAPH>>In
+principle,
+the
+specific
+classification
+facilitates
+company-specific
+applications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+person
+responsible
+for
+approval
+in the
+phases
+given
+in ISO 11442-3,
+and the date
+of approval
+shall
+be stated.
+For information
+on different
+ievels of auth-
+orization,
+see ISO 11442-1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Retrieval<<PARAGRAPH_END>>
+<<PARAGRAPH>>The general
+retrieval
+criteria
+are established
+centrally,
+while
+the
+specific
+criteria
+may
+be
+left
+to
+the
+user
+group in question.
+The retrieval
+criteria
+may be shown
+on the document
+itself or listed
+in separate
+files.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.3
+Subscription
+data<<HEADING_END>>
+<<PARAGRAPH>>Subscription
+data
+are the
+data
+required
+for
+the
+dis-
+tribution
+of document
+copies
+in different
+media.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A retrieval
+system
+can be bought,
+but
+may
+need
+to
+be adapted
+to the organization
+or even developed
+and
+tailored
+by the organization
+itself.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For copy distribution,
+information
+is needed
+regarding
+the name and address
+of each subscriber,
+the extent
+and period of information
+subscribed,
+the
+medium
+and
+the number
+of copies,
+These data may be stated
+in a
+Document
+Issuing
+List (DIL),
+see
+ISO 11442-3.
+This
+list should
+also contain
+the
+primary
+data
+and status
+data of the original
+document.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Retrieval
+of earlier
+designs
+and their
+repeated
+use, in
+full
+or in part,
+offer
+several
+advantages,
+e.g.
+shorter
+lead time.
+This is also true for re-use of earlier
+process
+preparation
+work
+and other
+specific
+information.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1
+“Turnkey”
+systems<<HEADING_END>>
+<<HEADING level=3>>4.2
+Technicai
+criteria:
+classification
+and
+retrievai
+systems<<HEADING_END>>
+<<PARAGRAPH>>Turnkey
+systems,
+which
+are data-processing
+systems
+that
+are ready to use when
+installed,
+have been
+de-
+veloped
+by
+computer
+software
+suppliers
+for
+both
+classification
+and
+retrieval
+of
+data.
+In general
+such
+systems
+must be adapted
+to the specific
+needs of the
+company.
+Most turnkey
+systems
+are intended
+for only
+one
+type
+of classification
+code.
+This
+may
+be hierar-
+chically
+arranged
+(see
+figure 1),
+such
+as
+decimal
+classification,
+or property
+oriented
+(see figure 2).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+technical
+part
+of
+the
+document,
+optionally
+to-
+gether
+with
+a geometrical
+representation,
+describes
+and
+defines
+the
+product
+concerned
+in
+its
+finished
+state, This document
+part can be used as a basis for
+the
+document
+classification,
+enabling
+efficient
+re-
+trieval.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For retrieval
+of
+design
+objects
+with
+one
+or several
+characteristics
+in common,
+a classification
+of the ob-
+jects
+is
+needed.
+In
+practice,
+this
+is
+achieved
+by
+classification
+of the
+technical
+contents
+of the
+docu-
+ment. This classification
+may be general
+or specific.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A hierarchically-constructed
+code
+is advantageous
+in
+that it is often
+known
+at an early stage and is applied
+e.g. for the company
+parts
+standard.
+A disadvantage
+is that the entire
+code must be always
+stated.
+A code
+based on characteristics
+allows
+a selective
+search
+for
+the
+desired
+properties.
+However,
+such
+a code
+may
+require
+a great
+number
+of characters.
+Often
+the
+two
+types of classification
+codes are combined.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.1
+General
+classification<<HEADING_END>>
+<<PARAGRAPH>>General classification
+shall group
+design
+objects
+with
+regard to their
+function,
+shape,
+material,
+dimensions,
+etc.
+By
+consistent
+application
+of
+a general
+classi-
+fication,
+the design
+work
+and the preparatory
+work
+in
+production
+are facilitated.
+Functional
+grouping,
+for ex-
+ample
+for
+a car,
+may
+be as follows:
+engine,
+trans-
+mission,
+body,
+chassis,
+etc.
+Classification
+by shape
+may include:
+round,
+hexagonal,
+flat,
+etc. A complete
+classification
+will
+include
+both
+principal
+criteria
+(such
+as product
+group) and criteria
+for relevant
+details.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2
+Company-developedsystems<<PARAGRAPH_END>>
+<<PARAGRAPH>>If a turnkey
+system
+requires
+extensive
+adaption
+to the
+needs
+of the company,
+a system
+developed
+and tail-
+ored within
+the organization
+itself
+may prove better.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In such work,
+existing
+code systems
+as well
+as new
+ones may be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS
+15024
+( Part
+4 ) :2001
+ISO
+11442-4:
+1993<<HEADING_END>>
+<<HEADING level=3>>I
+Range
+o+objects
+I<<HEADING_END>>
+<<HEADING level=3>>Main
+differences
+I
+I<<HEADING_END>>
+<<HEADING level=3>>I<<HEADING_END>>
+<<HEADING level=3>>Subgroup
+Subgroup
+Subgroup<<HEADING_END>>
+<<HEADING level=3>>A
+B
+c<<HEADING_END>>
+<<HEADING level=1>>I
+i
+I
+CT5rlmrsmirl<<HEADING_END>>
+<<HEADING level=3>>Differences
+within
+subgroup
+A<<HEADING_END>>
+<<HEADING level=3>>Figure
+1  -
+Exampla
+of hierarchical
+classification
+code<<HEADING_END>>
+<<HEADING level=1>>I
+Property
+class
+I
+G=
+I
+L<<HEADING_END>>
+<<HEADING level=3>>Number
+Description
+A
+B
+c
+D
+E
+F
+G
+H
+I<<HEADING_END>>
+<<HEADING level=3>>1
+Outside
+shape
+shape
+shape
+shape<<HEADING_END>>
+<<HEADING level=3>>1
+2
+3<<HEADING_END>>
+<<HEADING level=3>>2
+Inside
+shape
+none
+shape
+1<<HEADING_END>>
+<<HEADING level=3>>3
+Number
+of holes
+o
+1-2
+3-4
+5-8<<HEADING_END>>
+<<HEADING level=3>>4
+Location
+of holes
+axial
+radial
+ax and<<HEADING_END>>
+<<HEADING level=3>>(ax)
+(rad)
+rad<<HEADING_END>>
+<<HEADING level=3>>5
+Flat
+surfaces
+outside
+inside<<HEADING_END>>
+<<HEADING level=3>>6
+.<<HEADING_END>>
+<<HEADING level=3>>7
+G<<HEADING_END>>
+<<HEADING level=2>>1“1<<HEADING_END>>
+<<HEADING level=3>>I<<HEADING_END>>
+<<PARAGRAPH>>1“1<<PARAGRAPH_END>>
+<<HEADING level=3>>Figura
+2 — Exampla
+of property-oriented
+classification
+code<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS
+15024 ( Part 41:2001
+ISO 11442-4:1993<<HEADING_END>>
+<<HEADING level=3>>Annex A
+(informative)<<HEADING_END>>
+<<HEADING level=3>>Classification
+of administrative
+data<<HEADING_END>>
+<<PARAGRAPH>>— wiring
+diagram;<<PARAGRAPH_END>>
+<<PARAGRAPH>>A.1
+Primary data<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+size of document;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+identification
+number,
+e.g. drawing
+number;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+document
+medium;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+identification
+text,
+e.g. title,
+description;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+storage
+place;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+revision
+data, e.g.:<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+language
+version.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— revision
+order:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+name
+(person
+responsible),<<PARAGRAPH_END>>
+<<PARAGRAPH>>A.2
+Status data<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)  document
+status
+(during
+development,
+in
+pro-
+duction,
+withdrawn):<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+date,<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+number
+(registration
+number),<<PARAGRAPH_END>>
+<<PARAGRAPH>>— identification
+number
+reserved,<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+request
+for
+the
+original
+document
+to
+be
+re-
+vised:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— preliminary
+edition,<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+name
+(person
+carrying
+out the revision),<<PARAGRAPH_END>>
+<<PARAGRAPH>>— final edition,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— withdrawn;<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+date,<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+revision
+date:<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+issuing
+and withdrawal:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) name
+(person
+approving
+release
+of revised
+document),<<PARAGRAPH_END>>
+<<PARAGRAPH>>— issuer,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— date of issue,<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+date,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— withdrawer,<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+number
+(index),<<PARAGRAPH_END>>
+<<PARAGRAPH>>— date of withdrawal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— issue of revised
+document:<<PARAGRAPH_END>>
+<<PARAGRAPH>>A.3
+Subscription data<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) date,<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)  subscriber<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+issue number
+(index);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+extent
+of subscription;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+type of document,
+e.g.:<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+type of subscribed
+medium;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+item
+list,<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+number
+of copies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— assembly
+drawing,<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>Bureau of Indian Standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>61S is a  statutory
+institution established under the  Bureau
+of  h?dian  Standards
+Act,  1986  to promote
+harmonious development of the activities of standardization, marking and quality certification of goods
+and attending to connected matters in the country.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright<<PARAGRAPH_END>>
+<<PARAGRAPH>>61S has the copyright
+of all its publications.
+No part of these
+publications
+may be reproduced
+in any
+form without
+the prior permission
+in writing
+of  61S. This does not preclude
+the free use, in the  course
+of implementing. the standard,
+of necessary
+details,
+such
+as symbols
+and
+sizes,
+type
+or grade
+designations.
+Enquiries
+relating
+to copyright
+be addressed
+to the Director
+(Publications),
+BIS.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Review of Indian Standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>Amendments
+are issued
+to standards
+as the need arises
+on the basis
+of comments.
+Standards
+are
+also
+reviewed
+periodically;
+a standard
+along
+with amendments
+is reaffirmed
+when
+such
+review
+indi-
+cates that no changes
+are needed
+if the review indicates
+that changes
+are needed,
+it is taken
+up for
+revision.
+Users
+of Indian Stand&ds
+should
+ascertain
+that they are in possession
+of the latest amend-
+ments
+or edition
+by referring
+to the latest issue of ‘BIS Catalogue’
+and ‘Standards:
+Monthly
+Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian
+Standard
+has been developed
+from Doc : No.
+BP 24( 0151 ).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments
+Issued
+Since
+Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend
+No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg, New Delhi 110002
+Telegrams
+: Manaksanstha
+Telephones
+:3230131,3233375,
+3239402
+(Common
+to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional
+Offices
+:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg<<PARAGRAPH_END>>
+<<PARAGRAPH>>3237617
+NEW DELHI
+110002
+3233841<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>1/1 4 C.I.T. Scheme
+WI M, V. 1.P. Road, Kankurgachi<<PARAGRAPH_END>>
+<<PARAGRAPH>>3378499,3378561
+KOLKATA 700054
+3378626,
+3379120<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>SCO 335-336,
+Sector 34-A, CHANDIGARH
+160022<<PARAGRAPH_END>>
+<<PARAGRAPH>>603843
+602025<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>2541216,2541442
+2542519,2541315<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>C.I.T. Campus,
+IV Cross
+Road, CHENNAI
+600113<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manakalaya,
+E9 MlDC, Marol, Andheri
+(East)<<PARAGRAPH_END>>
+<<PARAGRAPH>>8329295,8327858
+MUMBAI
+400093
+8327891,
+8327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>AHMEDABAD.
+BANGALORE.
+BHOPAL.
+BHUBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD.
+JAIPUR.
+KANPUR.
+LUCKNOW.
+NAGPUR.
+NALAGARH.
+PATNA. PUNE. RAJKOT. THIRUVANANTHAPU
+RAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Printed at Prabhat Offset Press, New Delhi-2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 8
+<<SECTION_END>>
+<<DOCUMENT_END>>

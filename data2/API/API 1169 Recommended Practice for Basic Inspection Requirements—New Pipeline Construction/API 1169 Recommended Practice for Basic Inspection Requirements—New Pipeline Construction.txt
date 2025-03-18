@@ -1,0 +1,2186 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>Recommended Practice for Basic
+Inspection Requirements—New
+Pipeline Construction<<HEADING_END>>
+<<HEADING level=2>>API RECOMMENDED PRACTICE 1169
+FIRST EDITION, JULY 2013<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>Special Notes<<HEADING_END>>
+<<PARAGRAPH>>API publications necessarily address problems of a general nature. With respect to particular circumstances, local,
+state, and federal laws and regulations should be reviewed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Neither API nor any of API's employees, subcontractors, consultants, committees, or other assignees make any
+warranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the
+information contained herein, or assume any liability or responsibility for any use, or the results of such use, of any
+information or process disclosed in this publication. Neither API nor any of API's employees, subcontractors,
+consultants, or other assignees represent that use of this publication would not infringe upon privately owned rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications may be used by anyone desiring to do so.  Every effort has been made by the Institute to assure the
+accuracy and reliability of the data contained in them; however, the Institute makes no representation, warranty, or
+guarantee in connection with this publication and hereby expressly disclaims any liability or responsibility for loss or
+damage resulting from its use or for the violation of any authorities having jurisdiction with which this publication may
+conflict.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications are published to facilitate the broad availability of proven, sound engineering and operating
+practices. These publications are not intended to obviate the need for applying sound engineering judgment
+regarding when and where these publications should be utilized. The formulation and publication of API publications
+is not intended in any way to inhibit anyone from using any other practices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard
+is solely responsible for complying with all the applicable requirements of that standard. API does not represent,
+warrant, or guarantee that such products do in fact conform to the applicable API standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Users of this Recommended Practice should not rely exclusively on the information contained in this document.
+Sound business, scientific, engineering, and safety judgment should be used in employing the information contained
+herein.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights reserved. No part of this work may be reproduced, translated, stored in a retrieval system, or transmitted by any means,
+electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher. Contact the
+Publisher, API Publishing Services, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright © 2013 American Petroleum Institute<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the
+manufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything
+contained in the publication be construed as insuring anyone against liability for infringement of letters patent.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shall: As used in a standard, “shall” denotes a minimum requirement in order to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Should: As used in a standard, “should” denotes a recommendation or that which is advised but not required in order
+to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document was produced under API standardization procedures that ensure appropriate notification and
+participation in the developmental process and is designated as an API standard. Questions concerning the
+int er pretation of the content of this publication or comments and questions concerning the procedures under which
+this publication was developed should be directed in writing to the Director of Standards, American Petroleum
+Institute, 1220 L Street, NW, Washington, DC 20005. Requests for permission to reproduce or translate all or any part
+of the material published herein should also be addressed to the director.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Generally, API standards are reviewed and revised, reaffirmed, or withdrawn at least every five years. A one-time
+extension of up to two years may be added to this review cycle. Status of the publication can be ascertained from the
+API Standards Department, telephone (202) 682-8000. A catalog of API publications and materials is published
+annually by API, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Suggested revisions are invited and should be submitted to the Standards Department, API, 1220 L Street, NW,
+Washington, DC 20005, standards@api.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<HEADING level=3>>1
+Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative References. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1<<HEADING_END>>
+<<PARAGRAPH>>3
+Terms, Definitions, and Abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.1
+Terms and Definitions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2
+Abbreviations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Pipeline Construction Inspector Responsibilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.1
+Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.2
+Owner/Operator Representative  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.3
+Quality Assurance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.4
+Relationship with Contractors, Suppliers, and Vendors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.5
+Planning Activities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.6
+Authority to Stop Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.7
+Reporting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.8
+Documentation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.9
+Public Relations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.10 Media Relations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.11 Safety  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.12 Work Ethics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Personnel and General Pipeline Safety Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.1
+Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.2
+Job Safety Analysis (JSA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.3
+Personal Protective Equipment (PPE)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.4
+Loss Prevention Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+5.5
+Protective Measures for Radiation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+5.6
+Job Site and Facility Security  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.7
+Required Work Permits. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.8
+Rigging and Lifting Safety . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.9
+Isolation of Hazardous Energy Sources. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+5.10 Excavation, Trenching, and Boring Safety. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+5.11 Confined Space Entry Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+5.12 Atmospheric Testing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+5.13 Respiratory Protection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+5.14 Fall Prevention and Protective Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+5.15 Scaffolding and Ladders  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+5.16 Use, Movement, Storage, and Inspection of Tools, Equipment, and Materials . . . . . . . . . . . . . . . . . . . . . 12
+5.17 Facility, Commissioning, and Pre-start-up Review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.18 Regulatory Agency Inspections  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.19 Vehicle Operation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Environmental and Pollution Control Requirements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.1
+Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.2
+Erosion, Sediment, and Runoff Control on the Pipeline ROW. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.3
+Federal, State, and Typical Local Environmental Permits  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.4
+Major Statutes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.5
+Water Crossing Permits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+6.6
+Use of Natural Water Sources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.7
+Handling Contamination Issues. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+General Pipeline Construction Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+7.1
+Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+7.2
+Verification of Construction Personnel Qualifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+7.3
+ROW Inspection Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+7.4
+Locating and Marking Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+7.5
+ROW Preparation Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+7.6
+Ditching and Excavation Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+7.7
+Pipe Handling, Hauling, and Stringing Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+7.8
+Piping Components, Materials, and Other Mainline Appurtenances  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+7.9
+Pipe Bending Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+7.10 Pipe Alignment and Welding Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+7.11 Roadway, Railroad, and Other Crossings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+7.12 Waterway and Water Body Crossings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+7.13 Corrosion Control Requirements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+7.14 Lowering in Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+7.15 Backfill and Cleanup Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+7.16 Pipeline Cleaning Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+7.17 Internal Line Inspection Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+7.18 Hydrostatic Pressure Testing Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+7.19 Commissioning Requirements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+7.20 Documentation Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+7.21 Inspector Tools for Communication and Documentation Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . 32<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A  (normative)  Chief Inspector  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33<<HEADING_END>>
+<<HEADING level=3>>Annex B  (normative)  Blasting Inspector. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35<<HEADING_END>>
+<<HEADING level=3>>Annex C  (normative)  Horizontal Directional Drilling Inspector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36<<HEADING_END>>
+<<HEADING level=3>>Annex D  (normative)  Welding Inspector. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39<<HEADING_END>>
+<<HEADING level=3>>Annex E  (normative)  Corrosion Control Inspector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42<<HEADING_END>>
+<<HEADING level=3>>Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44<<HEADING_END>>
+<<PARAGRAPH>>vi<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=2>>Recommended Practice for Basic Inspection Requirements—
+New Pipeline Construction<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This recommended practice (RP) covers the basic requirements and their associated references needed to perform
+inspection activities safely and effectively during construction of new onshore pipelines. Use of this document will
+provide the basis for what construction inspectors need to have a basic knowledge of and where to find detailed
+information related to each facet of new pipeline construction inspection activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The requirements are organized into the following major sections:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+inspector responsibilities,<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+personnel and general pipeline safety,<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+environmental and pollution control,<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+general pipeline construction inspection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Users of this document include those individuals either engaged in pipeline construction inspection or seeking to
+become certified inspectors. Pipeline owner/operators and pipeline inspection service companies may also use this
+document to aid and enhance their inspector training programs.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative References<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated references,
+only the edition cited applies. For undated references, the latest edition of the referenced document (including any
+amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Specification 5L,  Specification for Line Pipe<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 5L1,  Recommended Practice for Railroad Transportation of Line Pipe<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 5LT,  Recommended Practice for Truck Transportation of Line Pipe<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 5LW,  Recommended Practice for Transportation of Line Pipe on Barges and Marine
+Vessels<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Specification 6D,  Specification for Pipeline Valves<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 1102,  Steel Pipelines Crossing Railroads and Highways , 2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Standard 1104,  Welding of Pipelines and Related Facilities<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 1109,  Marking Liquid Petroleum Pipeline Facilities<<PARAGRAPH_END>>
+<<PARAGRAPH>>A P I Recommended Practice 1110,  Pressure Testing of Steel Pipelines for the Transportation of Gas, Petroleum Gas,
+Hazardous Liquids, Highly Volatile Liquids or Carbon Dioxide<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>2
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>Options for Liquid Pipeline Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 1166,  Excavation Monitoring and Observation<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI B16.5   1 ,  Pipe Flanges and Flanged Fittings<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI B16.9,  Factory-made Steel Buttwelding Fittings<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI B16.20,  Metallic Gaskets for Pipe Flanges<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI B16.21,  Nonmetallic Gaskets for Pipe Flanges<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI B16.47,  Large Diameter Steel Flanges<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI/ASNT SNT-TC-1A   2 ,  Personnel Qualification and Certification for Nondestructive Testing Personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME B31.3   3 ,  Process Piping<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME B31.4,  Pipeline Transportation Systems for Liquids and Slurries , 2012<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME B31.8,  Gas Transmission and Distribution Piping Systems , 2012<<PARAGRAPH_END>>
+<<PARAGRAPH>>CGA   4 ,  Best Practices , 2013<<PARAGRAPH_END>>
+<<PARAGRAPH>>NACE RP0169-06   5 ,  Control of Corrosion in Underground or Submerged Metallic Pipeline Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>NFPA 30   6 ,  Flammable and Combustible Liquids Code<<PARAGRAPH_END>>
+<<PARAGRAPH>>OSHA Title 29,  CFR  Part 1910   7 ,  Occupational Safety and Health Standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>OSHA Title 29  CFR  Part 1926,  Safety and Health Regulations for Construction<<PARAGRAPH_END>>
+<<PARAGRAPH>>Peabody, A. W.,  Control of Pipeline Corrosion , National Association of Corrosion, Second Edition, January 2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>SSPC  8 ,  Good Painting Practices, Volume 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>U.S. DOT Title 49,  CFR  Part 177   9 ,  Carriage by Public Highway<<PARAGRAPH_END>>
+<<PARAGRAPH>>U.S. DOT Title 49,  CFR  Part 192,  Transportation of Natural and Other Gas by Pipeline<<PARAGRAPH_END>>
+<<PARAGRAPH>>U.S. DOT Title 49,  CFR  Part 195,  Transportation of Hazardous Liquids by Pipeline<<PARAGRAPH_END>>
+<<PARAGRAPH>>U.S. DOT Title 49,  CFR  Part 199,  Drug and Alcohol Testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+American National Standards Institute, 25 West 43rd Street, 4th Floor, New York, New York 10036,   www.ansi.org.
+2
+American Society for Nondestructive Testing, 1711 Arlingate Lane, P.O. Box 28518, Columbus, Ohio 43228, www.asnt.org.
+3
+ASME International, 3 Park Avenue, New York, New York 10016-5990, www.asme.org.
+4
+Common Ground Alliance, 2300 Wilson Boulevard, Suite 400, Arlington, Virginia 22201, www.commongroundalliance.com.
+5
+NACE International (formerly the National Association of Corrosion Engineers), 1440 South Creek Drive, Houston, Texas
+77218-8340, www.nace.org.
+6
+National Fire Protection Association, 1 Batterymarch Park, Quincy, Massachusetts 02169-7471, www.nfpa.org.
+7
+U.S. Department of Labor, Occupational Safety and Health Administration, 200 Constitution Avenue, NW, Washington, DC
+20210, www.osha.gov.
+8
+The Society for Protective Coatings, 40 24th Street, Sixth Floor, Pittsburg, Pennsylvania 15222, www.sspc.org.
+9
+U.S. Department of Transportation, 1200 New Jersey Avenue, SE, Washington, DC 20590, www.dot.gov.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+3<<PARAGRAPH_END>>
+<<HEADING level=3>>3 Terms, Definitions, and Abbreviations<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the following definitions apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1 Terms and Definitions<<HEADING_END>>
+<<HEADING level=3>>3.1.1
+contractor
+An entity that includes the primary organization and any subcontractors engaged in pipeline construction covered by
+this RP.<<HEADING_END>>
+<<PARAGRAPH>>3.1.2
+inspector
+An individual qualified to monitor, assess, evaluate, verify, discuss, decide, resolve, report, and document pipeline
+construction activities to ensure the requirements of the design, drawings, specifications, regulations, and industry
+practices are being met safely, efficiently, and in an environmentally sound manner.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   There may be numerous types of inspectors, such as utility, coating, welding, and chief inspectors with employment
+arrangements including owner/operator employees, inspection service company supplied inspectors, or freelance contract
+inspectors (see annexes for details on other inspector classifications).<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1.3
+owner/operator<<HEADING_END>>
+<<PARAGRAPH>>An entity, usually a pipeline company, who owns and/or operates and is responsible for pipeline or other utility assets.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2 Abbreviations<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the following abbreviations apply:<<PARAGRAPH_END>>
+<<PARAGRAPH>>ACI
+American Concrete Institute<<PARAGRAPH_END>>
+<<PARAGRAPH>>BMP
+best management practices<<PARAGRAPH_END>>
+<<PARAGRAPH>>CERCLA
+Comprehensive Environmental Response, Compensation and Liability Act<<PARAGRAPH_END>>
+<<PARAGRAPH>>CFR
+Code of Federal Regulations<<PARAGRAPH_END>>
+<<PARAGRAPH>>C P
+cathodic protection<<PARAGRAPH_END>>
+<<PARAGRAPH>>dbA
+decibels measured on A scale<<PARAGRAPH_END>>
+<<PARAGRAPH>>FWPCA
+Federal Water Pollution Control Act, aka Clean Water Act<<PARAGRAPH_END>>
+<<PARAGRAPH>>HAZCOM
+hazard communication<<PARAGRAPH_END>>
+<<PARAGRAPH>>HAZMAT
+hazardous material<<PARAGRAPH_END>>
+<<PARAGRAPH>>HDD
+horizontal directional drilling<<PARAGRAPH_END>>
+<<PARAGRAPH>>HVAC
+high voltage alternating current<<PARAGRAPH_END>>
+<<PARAGRAPH>>GPS
+global positioning system<<PARAGRAPH_END>>
+<<PARAGRAPH>>IDLH
+immediately dangerous to life and health<<PARAGRAPH_END>>
+<<PARAGRAPH>>JSA
+job safety analysis<<PARAGRAPH_END>>
+<<PARAGRAPH>>LFL
+lower flammable limit<<PARAGRAPH_END>>
+<<PARAGRAPH>>LOTO
+lockout/tagout<<PARAGRAPH_END>>
+<<PARAGRAPH>>MARSEC
+Marine Security<<PARAGRAPH_END>>
+<<PARAGRAPH>>MOC
+management of change<<PARAGRAPH_END>>
+<<PARAGRAPH>>MSDS
+material safety data sheet<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>4
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>NDE
+nondestructive examination<<PARAGRAPH_END>>
+<<PARAGRAPH>>NDT
+nondestructive testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>NORM
+naturally occurring radioactive material<<PARAGRAPH_END>>
+<<PARAGRAPH>>NPDES
+National Pollution Discharge Elimination System<<PARAGRAPH_END>>
+<<PARAGRAPH>>OQ
+operator qualification<<PARAGRAPH_END>>
+<<PARAGRAPH>>PE
+professional engineer<<PARAGRAPH_END>>
+<<PARAGRAPH>>PEL
+permissible exposure limit<<PARAGRAPH_END>>
+<<PARAGRAPH>>PPE
+personal protective equipment<<PARAGRAPH_END>>
+<<PARAGRAPH>>RCRA
+Resource Conservation and Recovery Act<<PARAGRAPH_END>>
+<<PARAGRAPH>>ROW
+right-of-way<<PARAGRAPH_END>>
+<<PARAGRAPH>>RP
+recommended practice<<PARAGRAPH_END>>
+<<PARAGRAPH>>SCBA
+self-contained breathing apparatus<<PARAGRAPH_END>>
+<<PARAGRAPH>>SPCC
+spill prevention, control, and containment<<PARAGRAPH_END>>
+<<PARAGRAPH>>SWP3
+storm water pollution prevention plans<<PARAGRAPH_END>>
+<<PARAGRAPH>>TWIC
+Transportation Worker Identification Card<<PARAGRAPH_END>>
+<<HEADING level=3>>4 Pipeline Construction Inspector Responsibilities<<HEADING_END>>
+<<HEADING level=3>>4.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>This section outlines the responsibilities, personal conduct, and job performance expectations for pipeline
+construction inspectors that enable them to effectively carry out their duties using the knowledge and skills covered in
+the following sections on inspector requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>An inspector is an individual qualified to monitor, assess, evaluate, verify, discuss, decide, resolve, report, and
+document pipeline construction activities to ensure the requirements of the design, drawings, specifications,
+regulations, and industry practices are being met safely, efficiently, and in an environmentally sound manner.
+Inspector or inspection team authority is backed up by contractual provisions that state all work done, as well as
+material provided, shall be subject, at all times, to inspection by the company in charge of the project.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2 Owner/Operator Representative<<HEADING_END>>
+<<PARAGRAPH>>Inspectors are expected to function at all times as representatives of the pipeline company (or other entity) owning
+and/or managing the project. In most cases, the inspector works for or represents a pipeline company, where strict
+procedures and/or contract provisions are in place that spell out the expectations and obligations of the inspector’s
+performance.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3 Quality Assurance<<HEADING_END>>
+<<PARAGRAPH>>Quality assurance includes those activities focused on providing confidence that quality requirements are consistently
+fulfilled. Inspectors are expected to be the principal means of assuring work and material quality during field
+construction. Early insistence that work is not to be performed without an inspector present strengthens quality
+assurance. Any questions that may arise regarding quality and acceptability of work, materials furnished, and
+services provided are decided upon by the inspector, inspection team, and/or owner/operator. Inspectors are required
+to reject work, materials, and services that do not meet the standards, contract terms, specifications, drawings, or
+other requirements of the project. Decisions by the inspector, inspection team, and/or owner/operator regarding
+quality, acceptability, and materials provided are final and conclusive.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+5<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4 Relationship with Contractors, Suppliers, and Vendors<<HEADING_END>>
+<<PARAGRAPH>>Inspectors are expected to establish a professional business relationship with the contractor, suppliers, and vendors.
+These relationships should be based on interactions that are characterized by a reasonable, prudent, and forthright
+attitude and grounded in the highest degree of integrity. Inspectors must remember that contractors are to function as
+independent contractors with the power and authority to select the means, methods, and manner to perform the
+contracted work. Inspectors must respect this position and not direct nor supervise the contractor’s work. However, in
+some cases, inspectors are required to implement cost control measures.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5 Planning Activities<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should mutually plan upcoming tasks with their contractor counterparts and owner/operator
+representatives, which will aid in smoother job performance and work completion. This should solidify a team
+approach in tackling each day’s work and lessen the threat of potential problems.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6 Authority to Stop Work<<HEADING_END>>
+<<PARAGRAPH>>Inspectors are empowered and expected to shut down any work on the basis of, but not limited to, conditions,
+situations, or activities that have occurred, are occurring, or may occur that could result in:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— imminent danger to any person, including contractor or owner/operator personnel;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— imminent danger to owner/operator or other property or the environment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— substandard quality/work techniques that do not meet owner/operator specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.7 Reporting<<HEADING_END>>
+<<PARAGRAPH>>Inspectors are expected to report deficiencies, unsatisfactory work, thefts, vandalism, missing materials/property, or
+suspicious activities/occurrences and other concerns in a timely, complete, and accurate manner to the chief inspector
+(Annex A), project manager, or designated owner/operator personnel depending on the project team organization.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.8 Documentation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should complete required documentation in a timely, concise, and accurate manner, including daily
+inspection reports, pipe tallies, red line drawing markups (showing physical changes) for as-built, extra work
+authorizations (if allowed by owner), and other reports/forms as directed in a format acceptable to the owner/operator.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.9 Public Relations<<HEADING_END>>
+<<PARAGRAPH>>Landowners, residents, and the general public with whom the inspector comes in contact typically consider the
+inspector to be a representative of the company. In dealing with these individuals or groups, the inspector should
+always conform to owner/operator expectations. Unfavorable publicity from inappropriate behavior could reflect
+adversely on all parties involved in the construction of the pipeline. Each inspector should ensure that complaints,
+misunderstandings, and other concerns expressed by landowners, residents, and the public are reported to the
+appropriate owner/operator representative for investigation and resolution.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.10 Media Relations<<HEADING_END>>
+<<PARAGRAPH>>Inspection personnel do not interact with representatives of newspapers, TV, or other media seeking information,
+unless expressly allowed to do so by the owner/operator. Inquiries from the media should be received in an open,
+honest way but referred to project management, public relations staff, or others designated by the owner/operator to
+handle these situations.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>6
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>4.11 Safety<<HEADING_END>>
+<<PARAGRAPH>>Each inspector is responsible for their personal safety and share responsibility for those personnel around them.
+Attentiveness, caution, and awareness of hazards (outlined in Section 5) should be a continuous and integral part of
+each inspector’s behavior. If required by the owner/operator, inspectors are expected to pass a standard drug/alcohol
+test (see 49  CFR  199) and a background check.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.12 Work Ethics<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be aware of owner/operator policies regarding work ethics and behavior and understand the
+consequences of taking part in any activity that would not withstand the scrutiny of pipeline owner/operator
+management or other observers due to the appearance of the activity. These activities include offers of gifts,
+entertainment, trips, excursions, etc. offered by contractors, vendors, or suppliers.<<PARAGRAPH_END>>
+<<HEADING level=3>>5 Personnel and General Pipeline Safety Requirements<<HEADING_END>>
+<<HEADING level=3>>5.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>Th e r equirements set forth in this section should be used to establish pipeline construction inspector knowledge and
+awareness of hazards inherent to new pipeline construction and the safety regulations, practices, and responses
+needed to address these hazards. This section highlights many of the basic OSHA requirements, specifically
+29  CFR  1910 and 29  CFR  1926, that apply to construction safety and general requirements that may go beyond
+those spelled out in the regulations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the duty of pipeline owner/operators and their contractors to be aware of, and comply with, all applicable federal,
+state, and local laws/regulations and manufacturer’s requirements that apply to specific work activities being
+performed and materials used. Inspectors must report any unacceptable practices.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Job Safety Analysis (JSA)<<HEADING_END>>
+<<HEADING level=3>>5.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>Job safety analysis (JSA) should be conducted per owner/operator requirements, and inspectors are required to
+participate. This analysis determines potential hazards and the plans and mitigative measures needed to address
+these hazards. Pipeline owner/operator documents will supplement these safety awareness concepts.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The practice of analyzing and planning hazardous jobs, use of written procedures or permits, job review and
+discussion among key personnel, and walk through inspections ensure personnel understand potential hazards and
+the precautions needed to address them.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.2 Hazard Recognition<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should evaluate the following areas to avoid incidents and raise awareness of hazards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)  Job Site —Job site incidents, including, but not limited to: slips, trips and falls, pinch points, elevated work surfaces,
+planned lifts, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)  Environmental —Changing environmental conditions, such as flooding, wind, dust, fires, and other potential
+conditions that could affect personnel and their work performance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)  Site-specific Hazards —Physical features, such as terrain, waterway crossings, utilities, general right-of-way
+(ROW) conditions, and other features the pipeline construction will encounter as it traverses its selected route.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+7<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)  Climatic and Other Work Condition Hazards —The impact of adverse conditions, such as extremely hot weather
+(which could cause heat exhaustion and heat stroke) and cold weather (frostbite, hypothermia, encumbrance from
+extra clothing, etc.) on personnel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)  Materials and Material Handling —Materials, including but not limited to their use, movement, and handling within
+the job site to consider adverse exposure and potential handling incidents. This may include but not be limited to
+pipe, valves, fittings, equipment, and materials such as asbestos-containing material, petroleum solvents, and
+heated materials. Use of material safety data sheets (MSSs) should be included along with hazard communication
+(HAZCOM) principles to inform workers of potential hazards and protective measures to be followed. Also be
+aware of hazardous materials (HAZMAT) exposed during construction. (See OSHA 1910.100 to 1910.119,
+1910.1000 to 1910.1028, 1910.1200, and 1926 Subpart Z.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+Work Task Review —An overall review of all major tasks to be performed since most construction activity involves
+moving equipment and lifting and carrying heavy loads in the proximity of personnel, trenches, holes, welding,
+metal sparks, and other hazardous activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)  Emergency Conditions —Preparation for response to safety-related incidents. Inspectors should be familiar with
+the emergency response plan, including but not limited to emergency phone numbers and locations of response
+equipment, such as water, fire extinguishers, first-aid supplies, etc. (see OSHA 1910.151, 1910.157, 1926.23, and
+1926.24).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.3 Contractor Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the contract provisions regarding contractor(s) and their safety procedures (i.e.
+the contractor’s safety program and owner/operator expectations). The contractor is responsible for all safety on
+the work site.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Personal Protective Equipment (PPE)<<HEADING_END>>
+<<HEADING level=3>>5.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>The JSA (5.2) identifies hazards that necessitate the use of PPE. Inspection personnel should know when personal
+protective equipment (PPE) is necessary, what PPE is needed, and how PPE is to be properly used, including its
+limitations. Typically, PPE for pipeline construction includes but is not limited to approved eye, head, foot, hand, and
+hearing protection; safety apparel; respiratory devices; and various protective shields. (See OSHA 1910.132 and
+1926.95.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2 Eye Protection<<HEADING_END>>
+<<PARAGRAPH>>Eye protection includes safety glasses, safety glasses with side shields, goggles, face shields, and welding goggles
+and hoods. The type of eye protection required will depend on the hazard encountered. (See OSHA 1910.133 and
+1926.102.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.3 Head Protection<<HEADING_END>>
+<<PARAGRAPH>>Generally, head protection (approved hard hats) is required when injury could occur from impact or electrical shock.
+Normally, hard hats are worn at all times on every construction site or when otherwise dictated by owner/operator and
+contractor requirements. (See OSHA 1910.135 and 1926.100.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.4 Foot Protection<<HEADING_END>>
+<<PARAGRAPH>>Approved foot protection is also a standard requirement on construction sites. This protection includes boots or shoes
+of leather or leather-type construction that cover the entire foot along with safety toes. (See OSHA 1910.136 and
+1926.96.)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>8
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.5 Hand Protection<<HEADING_END>>
+<<PARAGRAPH>>Approved gloves should be worn depending on tasks involved (see OSHA 1910.138).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.6 Hearing Protection<<HEADING_END>>
+<<PARAGRAPH>>Hearing protection is used when the work environment noise level exceeds 85 dbA over an 8-hour period based a
+noise level survey. This protection includes ear plugs or ear covers with suitable noise reduction factors. (See OSHA
+1910.95, 1926.52, and 1926.101.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.7 Wearing Apparel<<HEADING_END>>
+<<PARAGRAPH>>Approved clothing identified in the JSA or depending on the tasks involved that protects against work hazards and the
+environment are required. For example, apparel could minimally include: fire retardant clothing, chemical resistant
+suits, leather for metal spark protection, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.8 Respiratory Protection<<HEADING_END>>
+<<PARAGRAPH>>This protection involves proper use of air-purifying respirators, air-supplied respirators, or self-contained breathing
+apparatus (SCBA). The type of respirator depends on the type of hazard encountered. Users of this equipment
+should have knowledge of owner/operator and contractor requirements and be trained in its use, especially mask fit
+test and the operation of the devices. (See OSHA 1910.134 and 1926.103.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Loss Prevention Systems<<HEADING_END>>
+<<HEADING level=3>>5. 4 .1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have a basic knowledge of general loss prevention systems and require additional training in
+owner/operator-specific processes. Inspectors should be familiar with these systems, which are designed to aid in
+observation, analysis, and reporting with easy to use forms for occurrences or actions that could harm/damage
+property, equipment, or materials. Examples include: lifting/hoisting pipe and equipment, excavation near pipelines or
+other utilities, marking/labeling, and other programs to increase awareness.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2 Near Misses<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with these programs, which formalize observation, analysis, reporting, and
+communication of occurrences that have happened, but did not lead to injury or damage. These programs can
+improve awareness and avoid future reoccurrences. Near misses should be discussed and communicated with
+everyone on the job site because some may not have known the event was a near miss.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.3 Safety Meetings<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be capable of organizing and conducting daily safety meetings, prior to beginning work, to cover
+such topics as potential hazards likely to be encountered, precautions necessary to lessen their threat, use of PPE,
+lessons learned, near misses, and other topics relevant to the safety of workers, the general public, and the
+inspection team and potential property damage.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5 Protective Measures for Radiation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be aware of valid certification and licensing of nondestructive testing (NDT) personnel handling
+radioactive sources. Inspectors should also be aware of signage and safety monitoring rules and requirements. NDT
+inspectors also should know the rules and regulations for the state that they are working in; all state rules and
+regulations differ.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+9<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should be familiar with NRC radiation exposure dosage limits, monitoring methods, precautions needed,
+and documentation of radiation exposure (see 10  CFR  20.1301 and 20.1302 and NORM conditions).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6 Job Site and Facility Security<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have knowledge of the measures needed to ensure public and worker safety as well as safeguards
+for equipment, property, and materials such as the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Procedures for site security and other safekeeping procedures, including use of surveillance and monitoring
+devices, security personnel, barriers, locking devices/systems, fencing, and other methods to deny access to
+materials, supplies, and equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Traffic control, barrier, and marking procedures, including familiarization with the  Manual of Uniform Traffic
+Control Devices (MUTCD) .<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Familiarity with and requirements for transportation worker identification credentials (TWIC) and maritime levels
+of security (MARSEC). This is only necessary when working in facilities covered by these requirements. Owner/
+operator provide training on the pertinent requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.7 Required Work Permits<<HEADING_END>>
+<<HEADING level=3>>5.7.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have knowledge of work situations that require work permits and the permit limitations and
+restrictions. Required permitting is specific to owner/operator requirements, and inspectors should have general
+knowledge of all identified areas, including but not limited to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— confined space entry (see OSHA 1910.146);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— isolation of hazardous energy sources (see OSHA 1910.147);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— hot work [see OSHA 1910.119(k)];<<PARAGRAPH_END>>
+<<PARAGRAPH>>— excavation (see OSHA 1926.650 and 1926.651);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— explosive blasting (see OSHA 1910.109 and OSHA 1926.900 to 1926.914).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.7.2 Road and Highway Use<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have knowledge of permit requirements and restrictions for heavy equipment, stringing trucks, and
+tracked equipment (either its movement or hauling from one location to another) as to any size and weight restrictions
+relative to the roads and bridges being used by these types of vehicles.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.8 Rigging and Lifting Safety<<HEADING_END>>
+<<PARAGRAPH>>Rigging and lifting requirements are owner/operator-specific programs. Inspectors should have general knowledge of
+OSHA 1910.180 and 1910.184, including the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— rigging techniques, terminology, labeling, tagging, and inspection prior to use;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— lifting devices and types, terminology, locating and observing condition of equipment, extension and boom height
+limits, device inspection requirements, hand signals, proficiency of personnel involved in rigging and machine
+operation, suspended loads over personnel, and reporting unacceptable practices (see OSHA 1926.250 and
+1926.251).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>10
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>5.9
+Isolation of Hazardous Energy Sources<<HEADING_END>>
+<<HEADING level=3>>5.9.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have an understanding of when and how electrical, mechanical equipment or pressure in the
+system is deenergized and isolated to prevent unexpected startup or release of stored energy that may cause a
+hazard. (See OSHA 1910.147.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.9.2
+Electrical Energy Sources<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should recognize energy sources, deenergized and energized, requiring lockout/tagout (LOTO) or other
+practices to prevent exposure to electrical hazards.<<PARAGRAPH_END>>
+<<HEADING level=3>>5 .9.3
+Other Energy Sources<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should recognize equipment and piping, valves, etc. requiring LOTO or other precautions to prevent
+exposure to machinery operation or pressure release.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10
+Excavation, Trenching, and Boring Safety<<HEADING_END>>
+<<HEADING level=3>>5.10.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable about excavation safety. New pipeline construction involves an extensive
+amount of excavation and trenching work in one form or another. As a result, the existence of and exposure to
+potential hazards related to this activity is widespread. Because of the magnitude of this activity and its associated
+hazards, pipeline inspectors are required to know what facets to observe, how to take corrective action, and what
+protective systems and procedures should be employed. (See OSHA 1926 Subpart P.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10.2
+One Call<<HEADING_END>>
+<<PARAGRAPH>>One call is a telephonic excavation notification system set up to coordinate excavators’ activities with utility owner/
+operators to prevent damage to underground facilities. Inspectors should have an understanding of these systems,
+know the appropriate contact information for the area of pipeline construction activity, and assure the work can
+proceed safely after utilities are located and marked by the one call responder(s). (See CGA’s  Best Practices —
+Chapter 3, One Call Center and/or applicable state one call provisions/requirements.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10.3
+Excavation Regulations and Requirements<<HEADING_END>>
+<<PARAGRAPH>>The provisions included in OSHA 1926 Subpart P should be part of pipeline inspectors knowledge. These provisions
+are often supplemented by pipeline owner/operator requirements. Qualified inspectors should know pertinent
+definitions such as competent person, benching, sloping, and shields as well as hazardous conditions that could be
+present and precautionary measures to be considered prior to and during trenching/excavations (competent person).
+It is also important to know about spoil placement, soil classification, soil testing procedures, and the soil types along
+with the use of test equipment, protective measures needed, documentation requirements, and the potential impact of
+other factors, such as weather conditions, traffic, groundwater, and machinery operating near excavations.
+Additionally it is important to know the plans for handling and disposal of previously existing contaminated materials.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10.4
+Use of Explosive for Excavation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have a basic understanding of blasting plans, how explosives are used, the hazards associated
+with their use, and precautionary measures to be taken to ensure the safety of workers and the general public (see
+OSHA 1910.109, OSHA 1926.900 to 1926.914, and 49  CFR  177.835). Inspectors should know the owner/operator
+procedures for blasting and have procedures for dealing with foreign utilities in the area.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+11<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10.5 Foreign Crossings (Other Utilities)<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with location methods for other utilities, such as other pipelines, telephone lines,
+television cables, sewers, fiber optic cables, electric lines, water pipes, and other underground (or overhead)
+structures, marking such structures, and communicating with third-party utility owner/operators to prevent damage
+due to mechanized excavation activities. Inspectors should also be familiar with how to monitor and assess hand
+digging, hydro-vacuum, dry air techniques, and other nonmechanized means to uncover these utilities when working
+near underground structures as well as how to support exposed lines once they are uncovered. (See CGA’s  Best
+Practices —Chapters 3, 4, and 5 and Appendices A and B.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.11 Confined Space Entry Requirements<<HEADING_END>>
+<<HEADING level=3>>5.11.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the confined space requirements for pipeline construction. Confined space is a
+space that can be bodily entered by an individual but is not designed for continuous occupancy and has a limited and
+restricted means of entrance or exit (egress). Inspectors should also be aware that areas may contain an atmosphere
+that is hazardous (toxic, explosive, oxygen deficient, or otherwise harmful to personnel). Inspectors should be aware
+that permits are required for confined space entry when either a hazardous atmosphere exists, it contains material
+where an occupant could be engulfed, or is configured where an occupant could be trapped. (See OSHA 1910.146.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.11.2 Rescue and Emergency Services<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the various responses needed to effectuate a rescue from a confined space, the
+equipment required, and administration of first aid and/or how to get medical treatment if needed (competent person).
+Inspectors are required to make sure that a plan is in place for these activities [see OSHA 1910.146(k)].<<PARAGRAPH_END>>
+<<HEADING level=3>>5.12 Atmospheric Testing<<HEADING_END>>
+<<HEADING level=3>>5.12.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable about conditions that would require atmospheric testing. Atmospheric testing,
+particularly in cases involving confined spaces, hot work, and work in hazardous areas, is required to evaluate the
+hazards of a work space. A hazardous atmosphere means an atmosphere that may be immediately dangerous to life
+and health (IDLH) or exceeds permissible exposure limits (PELs). (See OSHA 1910.146 Appendices B and D.) The
+conditions are classified as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— flammable gas, vapor, mist, or dust in excess of LFL;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— oxygen deficient/excess environments where oxygen levels are below 19.5 % or above 23.5 %;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— PELs (see OSHA 1910.1000);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— other atmospheric conditions or concentrations of toxic contaminants that may be IDLH (see OSHA 1926
+Subpart Z).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.12.2 Other Facets of Atmospheric Testing<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have an understanding and knowledge of the following facets of atmospheric testing (see OSHA
+1910.146 Appendix B):<<PARAGRAPH_END>>
+<<PARAGRAPH>>— products and materials being used on the job site as well as HAZMAT that could be exposed during construction
+and create hazards to personnel safety (see OSHA 1926.57);<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>12
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>— physical properties of toxins (lighter/heavier than air, etc.) and PELs, including use of MSS information;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— measurement and monitorfing techniques and use of testing equipment, procedures to calibrate this equipment,
+the frequency of calibration, and verification of instrument calibration;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— precautionary measures to be taken considering the findings from testing and monitoring both prior to entry into
+or work episodes within a hazardous atmosphere.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.13 Respiratory Protection<<HEADING_END>>
+<<PARAGRAPH>>Inspectors need to be knowledgeable about conditions that may require utilization of SCBA, air-purifying respirators,
+and OSHA regulations. Inspectors should be aware of the different types of equipment, the availability and
+accessibility of respirator equipment, including air-purifying, air-supplied, and SCBA respirators, and when respirators
+may be needed. [See OSHA 1910.134(b), 1910.134(d), and 1910.134(e).]<<PARAGRAPH_END>>
+<<HEADING level=3>>5.14 Fall Prevention and Protective Systems<<HEADING_END>>
+<<HEADING level=3>>5.14.1 General<<HEADING_END>>
+<<PARAGRAPH>>New pipeline construction work sites commonly have fall and tripping hazards primarily due to extensive excavations,
+rugged and varied terrain features, and the constant movement of the work (see OSHA 1926.25, 1926.26, and
+1926.500 to 1926.503). Inspectors should be aware of owner/operator requirements addressing these hazards.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.14.2 Fall/Tripping Hazard Measures<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be able to observe, recognize, assess, and be prepared to take appropriate action on the following
+fall hazards:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the nature and extent of fall hazards;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— fall protective systems such as barricades, fall prevention markers, limitations on access, and other protection
+systems in place as well as construction personnel awareness of potential fall hazards;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— general housekeeping within the work area and adequacy of work site illumination to minimize fall and tripping
+hazards.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.15 Scaffolding and Ladders<<HEADING_END>>
+<<PARAGRAPH>>Scaffolding and ladders is equipment that is occasionally used in pipeline construction, mostly for aboveground work
+like valve settings. Inspectors should be familiar with scaffolding as to when it is needed, how it is to be used safely,
+and proper erection/construction by qualified scaffold erectors. (See OSHA 1910.28 and OSHA 1926.450 to
+1926.454.) Inspectors should be aware of owner/operator requirements covering safe use of scaffolding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should be familiar with safe ladder use (e.g. deeper excavations), ladder condition, and design as well as
+assuring the proper equipment is used for the work situation (see OSHA 1926.1053 and 1926.1060). Inspectors
+should be aware of owner/operator requirements regarding safe use of ladders.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16 Use, Movement, Storage, and Inspection of Tools, Equipment, and Materials<<HEADING_END>>
+<<HEADING level=3>>5.16.1 General<<HEADING_END>>
+<<PARAGRAPH>>It is the contractor’s responsibility to inspect and maintain their equipment. Inspectors should be aware and observant
+of the use, movement, storage, condition, and inspection of tools, equipment, and materials being used in pipeline
+construction work, even though these materials may be owned and used by the construction contractor. The<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+13<<PARAGRAPH_END>>
+<<PARAGRAPH>>contractor should have an inspection program for equipment, and the inspector ensures that the inspection program
+is being followed.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16.2 Transportation, Use, and Storage of Flammable and Combustible Liquids<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should observe and ensure the contractor is complying with the requirements for the way flammable and
+combustible liquids are being moved and handled (see OSHA 1910.106 and 1926.152).<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Flammable Liquids —Liquids having a flashpoint below 100 °F (37.8 °C) are known as Class I liquids. The most
+common is gasoline.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Combustible Liquids —Liquids having a flashpoint at or above 100 °F (37.8 °C) and are known as Class II liquids.
+The most common are diesel fuel; Class III liquids include jet fuel and motor oil. (See NFPA 30, 49  CFR  177, and
+OSHA 1910.106.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should know how these liquids are used, transported, and stored, which requires ongoing observation and
+correction action when safety is jeopardized. Fueling practices, condition of equipment, containers, signs, and
+spillage are additional areas of interest for inspectors.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16.3 Transportation, Handling, Labeling, Storage, and Use of Compressed Gases<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be aware of proper use, movement, handling, and storage of pressurized gases (see OSHA
+1910.101, 1926.153, and 1926.803).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Typical compressed gases used in new pipeline construction include: oxygen and acetylene (welding/cutting
+operations), nitrogen (purging), LPG (heating/drying), and compressed air (pneumatic tools, grit blasting, tire inflation,
+painting, etc.). Inspector’s knowledge of the properties of these gases will aid in their safe handling, storage, and use.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All compressed gas cylinders and tanks should be properly secured and labeled when transported and stored with valve
+protective caps in place when cylinders are not in use. Cylinders, safety release devices, and piping should be regularly
+inspected to ensure the equipment and its appurtenances are in acceptable condition. [See OSHA 1910.101, 1910.102
+(acetylene), 1910.104 (oxygen), and 1910.110 (LPG); 49  CFR  177.400; and 49  CFR  177.844.]<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nitrogen supplied from truck tanks (large cylinders), piping, connections, and appurtenances should be checked for
+safe design, periodic inspection and testing, installation, and use.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Compressed Air —Compression equipment should be in serviceable condition for the service needed with operable
+safety devices in place. Hoses, piping, and connections should be checked for suitability for service and safe
+placement to prevent damage or rupture. Use of compressed air should follow established safety practices. (See
+OSHA 1926.803.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16.4 Safe Use of Tools, Equipment, and Materials<<HEADING_END>>
+<<HEADING level=3>>5.16.4.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor the following for both safety and job efficiency purposes.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16.4.2 Tools<<HEADING_END>>
+<<PARAGRAPH>>Pipeline construction requires many different kinds of tools, from hand tools to various power tools (electric and
+pneumatic), and with the large number and types of tools, numerous hazards exist (see OSHA 1910.180, 1910.184,
+1910.215, 1910.241 to 1910.244, 1910.254, and 1926.300 to 1926.303).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>14
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>Key factors for avoiding these hazards include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— use the right tool for the job;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— tool condition;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— correct use of the tool;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— safety features such as guards and welding hoods are in place;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— personnel are properly using protective equipment, including but not limited to: hard hats, facial shields, and
+other PPE as well as suitable clothing for the type of work.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.16.4.3 Motorized Work Equipment<<HEADING_END>>
+<<PARAGRAPH>>Work equipment from large trucks to tracked dozers/side booms to trenching equipment and other machinery may be
+employed from one end of the job site (spread) to the other. The safety issues to be considered with this equipment
+when working near or around it as they move throughout the spread while carrying and lowering loads include (see
+OSHA 1926.550 and OSHA 1926.600 to 1926.604):<<PARAGRAPH_END>>
+<<PARAGRAPH>>— operator actions and ability to smoothly and properly operate his/her assigned machine (i.e. an indication of the
+level of training, operating proficiency, awareness of his/her surroundings, and ability to follow hand signals and
+safety rules) (see OSHA 1926.600 and 1926.602);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— equipment condition, maintenance level, and protective equipment in place;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— correct equipment and operation for the job (e.g. lifting capacity, boom positions, stabilizer use, and load
+limitations).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.17 Facility, Commissioning, and Pre-start-up Review<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with pipeline owner/operator pre-start-up review procedures and checklists.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should understand owner/operator management of change (MOC) requirements and why adherence to
+them can prevent incidents. In the case of construction, MOC concepts recognize, document, and communicate such
+factors as changes in personnel, organizational makeup, physical configuration/layouts, equipment, site conditions,
+materials, and procedures, if required.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.18 Regulatory Agency Inspections<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should follow pipeline owner/operator procedures in handling outside party inspection of construction
+activities. These agencies, whether federal, state, or local, have the authority to come on the job site to inspect
+construction activities and documents/records. Inspectors should be able to determine the agency involved,
+determine their objectives, check credentials, and know the requirements set forth by the owner/operator on providing
+information to the agency conducting the inspection. (See PHMSA Form 7 for an example.)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.19 Vehicle Operation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors are called on to operate various types of vehicles off and on the pipeline construction ROW, including
+vehicles that may be company owned, rented/leased, or personal vehicles. Inspectors should understand the owner/
+operator policies and procedures governing the use of vehicles and be licensed appropriately. (See OSHA 1926.601.)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+15<<PARAGRAPH_END>>
+<<HEADING level=3>>6 Environmental and Pollution Control Requirements<<HEADING_END>>
+<<HEADING level=3>>6.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>This section outlines the requirements to be used to establish the pipeline construction inspector’s knowledge of
+environmental protection and pollution control aspects in order to ensure compliance with regulations, industry
+practice, and pipeline owner/operator requirements. Inspectors with basic knowledge of the areas below will have an
+improved ability to observe, monitor, verify, report, and correct deficiencies involving protection of the environment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The owner/operator has procedures for compliance in this area, and the inspector should understand where their job
+function involves covered activities.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Erosion, Sediment, and Runoff Control on the Pipeline ROW<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have an understanding that the extensive excavation work, earthmoving, clearing, and other similar
+activities associated with pipeline construction have the potential to impact the environment. Inspectors should be
+observant of these activities to avoid incidents. Familiarization with the key parts of the following regulations and
+practices will aid in safeguarding the environment (see OSHA 1910.180, 1910.181, and 1926 Subpart P):<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the scope, purpose, and provisions of the Federal Water Pollution and Control Act (FWPCA) of 1972 (especially,
+Subpart A) as amended, also known as the Clean Water Act (40  CFR  110), as well as local, county, and
+municipal county requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the installation, uses, and maintenance of erosion, sediment, and runoff controls, such as diversion devices, silt
+fences, and other equipment for control of surface water;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— familiarity with storm water pollution prevention plans (SWP3), including federal and state plans (where
+construction is taking place) and NPDES requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— local revegetation requirements and pipeline owner/operator practices consistent with the needs of the ROW,
+landowners, and local practices should be reviewed by the inspection team.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Federal, State, and Typical Local Environmental Permits<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be aware of the provisions of any applicable federal, state, and local permits, including but not
+limited to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— different types of permits and which governmental agency has jurisdiction over the permits;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— typical requirements and provisions contained within these permits to aid in ascertaining compliance during
+construction.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 Major Statutes<<HEADING_END>>
+<<HEADING level=3>>6.4.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have a basic understanding of the following major environmental protection statutes and the
+precautions/actions needed during construction to ensure compliance. A report should be provided by the owner/
+operator prior to construction that outlines the statutes and the precautions/actions that apply to the project.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Construction contract provisions generally highlight those statutes that must be considered during the project.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>16
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.2
+National Historic Preservation Act (1966 as Amended) (36  CFR  800)<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the National Historic Preservation Act as to how it may impact owner/operator
+operations. This legislation sets up processes to consider the effects on historic properties and the Act seeks to avoid,
+minimize, or mitigate adverse effects on historic properties. It often sets out the archeological issues relating to
+economic development and the resultant construction activity.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.3
+Endangered Species Act (1973 as Amended) (50  CFR  402)<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the Endangered Species Act as to how it may impact owner/operator operations.
+This legislation seeks to prevent extinction of selected wildlife and plants, aid recovery/maintenance of endangered
+populations and critical habitats, and prevent/mitigate harm to the list of species.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.4
+Resource Conservation and Recovery Act (RCRA) (1976 as Amended) (40  CFR  261)<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the Resource Conservation and Recovery Act as to how it may impact owner/
+operator operations. This legislation governs solid and hazardous waste generation, transport, and disposal.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.5
+Comprehensive Environmental Recovery, Compensation, and Liability Act (CERCLA) (1980 as
+Amended) (40  CFR  300)<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with the Comprehensive Environmental Recovery, Compensation and Liability Act as to
+how it may impact owner/operator operations. This legislation covers hazardous substances, site contamination, and
+cleanup.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.6
+Hazardous Materials<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have a general understanding of the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+designation of HAZMAT (40  CFR  116);<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+identification and listing of hazardous waste (40  CFR  261.3, OSHA 1910.1200, and OSHA 1926.65);<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+hazardous waste table, HAZCOM, and emergency response information (49  CFR  172, OSHA 1910.120 and
+OSHA 1910.1200);<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+general information and definitions (49  CFR  171, 49  CFR  171.8, and OSHA 1910.1200).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5
+Water Crossing Permits<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with environmental requirements for crossings of waterway crossings, water bodies, and
+wetlands, including the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should be familiar with and knowledgeable of types of crossing permits and the governmental
+agencies overseeing these permits(s).<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should have an understanding of different water crossing installation and timing practices to comply
+with permit provisions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should have an understanding of requirements for waterway and water body bank restoration,
+stabilization, and erosion control measures, including facilities to minimize erosion.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+17<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should be knowledgeable of owner/operator procedures and expectations for inspections by
+responsible agencies, including determining the objective of the inspection, checking credentials, and knowing
+who should handle escorting the inspection personnel and answering their questions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should have an understanding of permit documentation requirements and closeout procedure,
+including any deadlines.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.6 Use of Natural Water Sources<<HEADING_END>>
+<<PARAGRAPH>>Inspector should understand the rules governing water withdrawal from and discharges to any natural water sources
+for water used on the ROW including for hydrostatic test medium. Withdrawal/disposal should be planned and
+executed in accordance with the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should have an understanding of withdrawal and/or discharge/disposal requirements within permits,
+including limitations on amounts of water used or discharged and the measurement of those quantities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should have an understanding of discharge velocity, turbidity, and other restrictions, including but not
+limited to sediment and other foreign substances, control and planned treatment, filtration, or other methods
+needed to meet water quality provisions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors must be familiar with sampling methods, procedures, and protocols to comply with permit and/or
+regulatory provisions.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.7 Handling Contamination Issues<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should strive to prevent any type of environmental contamination. In the event of an incident, inspectors
+should immediately report the event to the owner/operator and be aware of owner/operator mitigation procedures.
+Inspectors should have a basic awareness of how to identify contamination and who to contact in an event of an
+incident. Inspectors should:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— know the procedures to obtain samples, request analytical work, and recognize, handle, and monitor
+contaminated substances such as: soil, pipe coating, fuels, solvents, and other waste and/or contaminants [e.g.
+asbestos, chromate, horizontal directional drilling (HDD) mud, and other potentially toxic/hazardous substances]
+(see OSHA 1910.1200 and 1926.65);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— ensure RCRA provisions are followed, if required, including waste generation and disposal activities related to
+the pipeline project in accordance with owner operator expectations (see OSHA 1910.120);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— check the plan of action for the remediation of suspected or actual contamination and best practices for
+remediation, [e.g. fuel and drilling mud spills or other contamination]. Inspectors should have knowledge of who to
+contact and what response, if any, the inspector may need to take in the event of an incident (see OSHA 1926.65);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— monitor good housekeeping practices to collect and remove waste, including those classified as hazardous, from
+the work site at regular intervals (see OSHA 1926.25);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— have knowledge of the requirements in SPCC plans developed by or for pipeline owner/operators and approved
+and certified by a PE;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— review key points within prevention and pollution control best management practices (BMP) set forth by the U.S.
+EPA as they may apply to owner/operator requirements.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>18
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>7 General Pipeline Construction Requirements<<HEADING_END>>
+<<HEADING level=3>>7.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>The requirements outlined in this section spell out the areas of knowledge that a qualified pipeline construction
+inspector needs to effectively perform his duties on the ground as the construction progresses through all stages. This
+section covers construction or construction-related areas that the inspectors are called upon to inspect, evaluate
+compliance versus requirements, resolve issues, assess and foster job progress, report observations/findings, and
+complete the documentation necessary to meet the expectations of the pipeline owner/operator or other entity in
+charge of the construction project.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2 Verification of Construction Personnel Qualifications<<HEADING_END>>
+<<HEADING level=3>>7.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should use the following to facilitate their verification process for key personnel performing work on the
+project.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.2 Operator Qualification (OQ)<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should understand the concepts of OQ, including but not limited to covered tasks and evaluation of
+qualifications. Inspectors should know that some tasks within the construction arena are covered tasks (e.g.
+inspection activities for tie-ins, application and repair of external coating, line locating, excavation of foreign utilities,
+and backfilling a trench). (See 49  CFR  192.801 to 192.807 and 49  CFR  195.501 to 195.509.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.3 Verification Procedures<<HEADING_END>>
+<<PARAGRAPH>>Assurance of certification and/or qualification is a necessary step in achieving proper performance and project quality
+objectives. Inspectors should be prepared to check and verify the certifications and/or other qualification
+documentation of certain crucial pipeline construction personnel and technicians performing specialized work,
+including quality and materials examination and testing. The key areas to verify certification and qualification include,
+but are not limited to (see ASME B31.4 Sections 434.1, 434.2, and 434.3; ASME B31.8 Sections 802.2.5, 806, and
+841.2.2; 49  CFR  192.303, 192.305, and 192.307; 49  CFR  195.200, 195.202, 195.204, and 195.206; and ANSI/ASNT
+SNT-TC-1A):<<PARAGRAPH_END>>
+<<PARAGRAPH>>— welders,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— heavy equipment operators,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— blasting/explosive personnel,<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  excavation (competent personnel),<<PARAGRAPH_END>>
+<<PARAGRAPH>>— NDE/NDT technicians,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— coating personnel,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— corrosion control technicians,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— safety professionals,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— environmental specialists,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— qualified pipeline inspectors.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+19<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pipeline regulation, code, standard, and practice references, such as 49  CFR  195, ASME B31.4, ASME B31.8, API,
+ASNT, AWS, and NACE, contain various provisions for use of certified, qualified, and/or competent personnel,
+including pipeline construction inspectors.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3 ROW Inspection Requirements<<HEADING_END>>
+<<HEADING level=3>>7.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>Pipeline inspectors should be familiar with the following ROW-related requirements (see ASME B31.4 Section 434.3;
+ASME B31.8 Sections 802.2.5, 806, and 841.2.2; 49  CFR  195.210; and 49  CFR  192).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.2 Pipeline Route Review<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should know how to observe and report any discovered or any potential pipeline route selection
+deficiencies or obstacles, such as terrain features; landowner issues; road, railroad, or waterway crossings;
+environmental features; cultural features; and protected resources (i.e. drinking water and proximity to occupied
+facilities).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.3 Land Surveying Aspects<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with basic land surveying terminology and definitions, including section, range, and
+township references, legal property descriptions, metes and bounds descriptions, fee property details, color coding of
+flagging, and other basic Public Land Surveying System information. (See ASME B31.4 Section 434.33.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.4 Pipeline Stationing<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with pipeline stationing and equations. Pipeline stationing and equations, including how
+they are determined, is defined by the owner/operator. Typically, pipeline stationing is the linear survey
+measurements in feet and shown in hundreds of feet (stations) with additional footage shown as pluses. For example,
+10,000 feet would be 100+00. Equations are used to correct the survey stationing when pipe is either added or taken
+out of the pipeline, necessitated, for example, by pipeline relocation. Inspectors should also understand the difference
+between and use of construction stationing and as-built stationing.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.5 ROW Agreement Provisions<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of typical ROW agreement provisions and how and where to find the provisions
+in the following areas.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Widths specified in the ROW agreement that grants an easement or legal right to work within and use the defined
+strip of land or area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Typical limitations, restrictions, and special conditions spelled out in the ROW agreement that could include
+temporary work space, special conditions that recognize adjacent property or structures, or access provisions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Ingress and egress provisions that facilitate access to and exits from the easement for work equipment and
+vehicles and surface damage provisions, including types of crops, trees, orchards, other ROW cover, landowner
+structures such as fences, drain tile, cattle guards, soil compaction, and other potential damage from
+construction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Specific instructions/agreements between the landowner and the pipeline owner regarding the easement and
+construction activities (i.e. preservation of certain areas, ownership of cleared trees, etc.). These are typically
+found on “line lists” developed and maintained by the land agents.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>20
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.6 Other Defined Land Use<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should know what to look for in the following areas within and outside the construction spread as to space,
+dimensions, and location, including but not limited to the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Work areas that may require extra space beyond the ROW to facilitate construction activities, such as waterway
+and roadway crossings.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Material storage/staging areas, including pipe yards and lay down areas (e.g. space to weld up pipe for installing
+a waterway crossing).<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Equipment parking areas where machinery that is not in current use, such as cranes and derricks, dozers, side
+boom tractors, and equipment hauling tractor/trailers, can be held/staged near the construction spread until needed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Fee property needed for the project, which typically includes pump station or compressor station sites, block
+valve sites, and rectifier/ground bed locations.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.7 Pipeline and Site Staking and Marking Conventions<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should understand the following as to survey directions for the pipeline route and directives for
+construction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Nomenclature on stakes and markers and its meaning—usually this includes information such as: pipeline
+stationing, direction changes, additional ditch depth, changes in pipe wall thickness, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Maintaining these items during construction and how to reestablish destroyed, damaged, or misplaced stakes
+and/or markers. A surveying contractor typically is ‘called in to reestablish missing markers/stakes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Color coding of the survey flagging for common utilities, construction centerline, edge of easement, edge of
+temporary work space, and extra work space.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4 Locating and Marking Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of procedures for proper location of underground facilities being crossed or near
+the construction and the temporary marking of them during construction to ensure safety and avoid/minimize
+damage. Inspectors should also be aware of the OQ covered tasks within this work. (See 49  CFR  192 Subpart N, 49
+CFR  195 Subpart G, CGA’s  Best Practices , and the state one call systems.) Inspectors need to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— understand the contractor’s approved foreign utility locating techniques, including probing (if allowed), use of
+electronic locators, and other equipment/means and procedures used to accurately locate underground utilities
+or structures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— understand the one call systems in the area where construction is taking place, including how the systems(s)
+work, pertinent phone numbers, insisting on third-party response and use of suitable markers, and who is
+responsible to make one call notifications—typically the contractor is responsible for the work;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— be familiar with the owner/operator specifications as applicable and contractor’s procedures for road and railway
+crossings, including markers, safety signs, barricades, and other safety features, especially those required by
+crossing permits and/or governmental authorities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— know the owner/operator requirements for location of permanent pipeline markers, including warning signs,
+aerial markers, and waterway crossing signs, for placement during cleanup operations.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+21<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5 ROW Preparation Requirements<<HEADING_END>>
+<<HEADING level=3>>7.5.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors need to be knowledgeable of owner/operator ROW preparation requirements. After construction begins,
+the inspectors need to observe, monitor, and verify adherence to specifications and ROW agreements and deal with
+landowners/tenants or coordinate with the responsible party (i.e. land agent and other interested parties in the
+following areas).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5.2 Clearing, Grubbing, and Grading<<HEADING_END>>
+<<PARAGRAPH>>Inspectors need to be knowledgeable of owner/operator requirements for clearing, grubbing, and grading. Clearing
+means removal and disposal of all brush, undergrowth, and timber. Grubbing means removal and disposal of stumps
+and roots within the specified ROW. Grading involves the flattening, sloping, or other excavation to modify the terrain
+along the pipeline route to make it safe and accessible for construction. Inspectors need to know what needs to be
+moved out of the way, including trees, brush, and other vegetation; grass; certain rocks; and other obstacles, and if
+the preparation work allows the passage of construction equipment and other vehicles to facilitate the safe and
+satisfactory progress of the construction. In monitoring these activities, inspectors need to consider the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— equipment for the job is suitable for the work involved, including sufficient size, power, and operating condition;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— how the equipment is being used to minimize collateral damage and assuring that equipment operators are
+aware of their surroundings and operate their machines in a competent manner;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the end result of these operations (i.e. the finished work meets owner/operator specifications, and the prepared
+ROW allows construction to proceed smoothly and safely);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— that clearing, grubbing, and grading are typically permitted activities and that those activities meet the permit
+conditions.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5.3 Landowner/Tenant Assets<<HEADING_END>>
+<<PARAGRAPH>>Inspectors need to be aware of landowner requirements, including but not limited to the following: monitoring removal
+of permanent fencing, installation of temporary fencing and gates, handling cattle guards, construction pathway
+offsets, and bypassing other man-made facilities will aid in smooth construction progress and minimize landowner/
+tenant concerns and damage to surrounding property. These requirements are normally found on the construction
+“line list” typically developed and maintained by the land agents.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5.4 Interfacing with Landowners/Tenants<<HEADING_END>>
+<<PARAGRAPH>>Inspectors need to conduct open and forthright communication with landowner/tenants in communicating
+construction plans and requesting feedback on concerns and meet with the owner/operator concerning the release of
+procedures in order to to minimize discontent and misunderstandings. Some owner/operators require that this
+function be done by the land agents, but there is usually interaction between the landowners and the inspectors.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6 Ditching and Excavation Requirements<<HEADING_END>>
+<<HEADING level=3>>7. 6.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must know proper ditching and excavations procedures to ensure correct pipeline alignment, depth, width,
+slope, and spoil placement to facilitate efficient and safe pipe laying operations. Inspectors must consider the following in
+overseeing this aspect of the project (see ASME B31.4 Sections 434.3.2 and 434.6 and 49  CFR  195.248).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<PARAGRAPH>>22
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.2
+Damage Prevention Practices During Ditching/Excavation Work<<HEADING_END>>
+<<HEADING level=3>>7.6.2.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must be knowledgeable about damage prevention practices, including but not limited to the following.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.2.2
+Underground Utilities<<HEADING_END>>
+<<PARAGRAPH>>Ensure that one call notification procedures have been followed, that crossed utilities are clearly marked and
+uncovered by nonmechanized means as per the owner/operator guidelines and foreign utility crossing procedure (i.e.
+hand digging, hydro-vacuum, or other means to prevent damage to the lines), and that uncovered utilities are properly
+supported to maintain their integrity (see 49  CFR  195.442, 49  CFR  192.325, CGA’s  Best Practices , API 1166, and
+state one call systems).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.2.3
+Other Physical Property Near the Excavation<<HEADING_END>>
+<<PARAGRAPH>>Ensure adequate space is maintained between other structures and ditching/excavation equipment and that
+placement of spoil does not damage adjacent structures or other assets nor impede traffic and/or other pathways.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3
+Ditch Features<<HEADING_END>>
+<<HEADING level=3>>7.6.3.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, measure, where necessary, report, if required, and conduct continual excavation
+inspections in the following areas related to the ditching operation and in accordance with OSHA 1926.651.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3.2
+Ditch Specifications<<HEADING_END>>
+<<PARAGRAPH>>Ensure the specifications are followed for: ditch depth and width, bottom of ditch condition (i.e. uniform bearing
+surface, free of hard objects, free of water, use of dirt pads, and where possible, depth adjustments are made to
+minimize the need for sags and overbends).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3.3
+Breaks in the Ditch<<HEADING_END>>
+<<PARAGRAPH>>Verify that breaks are left in the ditch to allow passage of vehicles, livestock, and/or wildlife.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3.4
+Extra Depth Ditch Requirements<<HEADING_END>>
+<<PARAGRAPH>>Ensure depth specifications are met and observe and measure where extra depth starts and ends and record this
+information.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3.5
+Multilevel Ditch Requirements<<HEADING_END>>
+<<PARAGRAPH>>Ensure that the designated levels of soil are properly removed and separated in accordance with specifications [e.g.
+top soil (higher quality soil) is separated from deeper ditch spoil and/or multiple stratifications].<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3.6
+Ditch Breakers<<HEADING_END>>
+<<PARAGRAPH>>Ensure that ditch breakers are installed as required at the edge of wetlands in accordance with the permits and
+construction specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.4
+Open Ditch Restrictions<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor the distance between the front end of ditching and the back end (backfill) and the amount
+of open ditch allowed by construction specifications (e.g. 2 miles or less during daylight hours and  1 / 2  mile at night).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+23<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.5
+Foreign Line and Other Structure Crossings<<HEADING_END>>
+<<PARAGRAPH>>Inspectors need to ensure that care and attentiveness is used in crossing foreign lines, including pipelines, other
+utilities, and farmland drainage systems. Inspectors also need to ensure that the space between the new pipeline and
+other existing structures is in accordance with specifications (usually 12 in. to 24 in.) and that acceptable temporary
+installations are used and are suitable for the service required. (See 49  CFR  192.325 and 195.250.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.6
+Soil Characteristics<<HEADING_END>>
+<<HEADING level=3>>7.6.6.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have knowledge of OSHA 1926 Subpart P to ensure ditching/excavation safety and specifically to
+address the threat of cave-in.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.6.2
+Soil Analysis<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have an understanding of proper analysis of the types of soil encountered, including moisture
+content, compaction, angle of repose, and relative stability, and should know who is the project’s competent person(s)
+for soil assessments.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.6.3
+Ditch Sloping or Other Ditch Configurations<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be aware of ditch depth/width configurations and the ditch proximity to equipment movement/
+operation relative to the type of soil involved.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.7
+Shoring Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should check use of trench boxes, bracing, and other ditch shoring requirements and adequacy of
+documentation evidencing certification of the devices. Inspectors need to be knowledgeable in the use of and
+restrictions of shoring and bracing when it is required. (See OSHA 1926.652.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.8
+Rock Excavation Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must know proper ditching and excavation procedures in rocky terrain to ensure the safety of personnel
+and proper placement and protection of the pipeline. Inspectors should check, measure, document, and report, when
+necessary, rock excavation. In rock excavation, owner/operators typically prefer use of mechanized equipment, such
+as track mounted rippers, pavement breakers, specially equipped track hoes, or ditching machines to cut through,
+break up, and remove rock. Inspectors should able to perform the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+observe and assess the equipment being used as to size, type, condition and effectiveness, and limitations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+ensure that depth specifications are met and accurate measurements are performed to ascertain any extra work
+authorization or to account for any special bid pricing.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.9
+Drilling and Blasting<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should understand the basics of this process, but specialized training and experience is often needed to
+inspect these activities (see Annex B).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Blasting activities that should be monitored include (see OSHA 1926.900 to 1926.914):<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+checking permits, notifications, and warning signage;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+competency of personnel;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<PARAGRAPH>>24
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>— charge placement procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— amount of explosive used per blast;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— precautions around structures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— charge padding (soil or blast mats) to avoid excessive heaving or debris scatter;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— adherence to owner/operator specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— presence of a blasting plan.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.10 HDD Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should know the basic process and requirements of HDD, but it is advisable to utilize an inspector with
+specialized training and experience in this facet of construction (see Annex C).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following HDD activities should be monitored:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— HDD equipment size, type, condition, and suitability for the job;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— competence and proficiency of equipment operators and their supervision;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— drilling follows the specified profile, alignment, tolerances, and entry/exit locations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— reaming, pull back procedures, and equipment and pipe string layout follow industry practice and specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— use, containment, and disposal of drilling mud follow accepted practices;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— inadvertent returns of the drilling mud to the surface.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.7 Pipe Handling, Hauling, and Stringing Operations<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and document the condition of the pipe in each phase below (see API 5L1,
+API 5LT, API 5LW, ASME B31.4 Section 434.5, ASME B31.8 Section 806, and 49  CFR  192.309).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of work activities involved in moving pipe: the type and condition of equipment
+used, such as fabric slings, padded calipers, soft lift hooks, and other approved lifting devices; boom height versus
+surrounding structures, such as power lines; stacking procedures (number of tiers and padding); and other
+precautionary steps to protect the pipe and any coating. (See ASME B31.4 Section 434.4.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should complete pipe tallies; check mill certifications, heat numbers, and mill test reports; and note pipe
+marking on received pipe at rail heads, docks, or other receipt locations to facilitate proper tracking and
+documentation and to ensure correct placement by wall thickness, grade, and coating.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should observe and note pipe and coating condition, including bevels, presence of dents, gouges,
+scratches, notches, grooves, or other defects, and report noted damage along with measurements of size and extent
+of any damage and its location. Reports of damage should be made in accordance with owner/operator procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should check locations of required gaps or spaces in strung pipe, where needed, to allow passage of
+equipment, vehicles, personnel, and livestock and at foreign utility crossings, if required.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspectors should check pipe handling and placement during stringing to minimize damage, document any assessed
+damage, and that ensure strung pipe is not in harm’s way from ongoing construction activities and that stringing
+enables a smooth pipe laying progress.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+25<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8
+Piping Components, Materials, and Other Mainline Appurtenances<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should verify materials meet job specifications, including but not limited to bills of materials and drawings,
+check mill test reports, certification records, and markings; match components with specifications to ensure suitability
+for the intended service; and know what to look for when visually inspecting these components, marking deficiencies
+and recording findings. These major components include the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should check the condition of flanges, fittings, bolts/nuts, gaskets, and other fittings. Check ANSI
+ratings, flange bores and transition nipples, component condition, bevels, markings, and adequacy of supplies to
+ensure they are in accordance with job specifications and drawings (see 49  CFR  195.206, ANSI B16.5,
+ANSI B16.9, ANSI B16.20, ANSI B16.21, and ANSI B16.47).<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should check the following for valves: ANSI ratings, overall condition, trim, coating, operability, flange
+faces and/or bevels, and body condition to ensure they meet specifications and are suitable for installation in the
+pipeline (see API 6D, ASME B31.4 Section 434.15, 49  CFR  195.258, and 49  CFR  195.260).<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should check the condition of hot bends (manufactured bends): check bend angles, bend radius,
+markings, ovality, bevels, coating, and overall condition to ensure they meet specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should check condition of other appurtenances, such as scraper traps, pump station mainline fittings
+and valves, and other components to be installed in the mainline, to ensure acceptability for installation (see
+ASME B31.4 Section 434.17).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.9
+Pipe Bending Operations<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure that owner/operator specifications are adhered to and the following areas are checked
+during field pipe bending: produced bends meet specified angle requirements, meets minimum bend radius
+requirements, ovality and wall thinning is within specified limits, bends have a smooth contour, pipe seam location
+restrictions, if any, are correct, and any restrictions due to pipe grade have been met. Inspectors should note damage
+to coating, pipe wall, and bevels and mark, record, and report any damage or out of specification bends. (See 49  CFR
+192.313, 49  CFR  195.212, and ASME B31.4 Sections 434.7 and 434.7.3.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10
+Pipe Alignment and Welding Requirements<<HEADING_END>>
+<<HEADING level=3>>7.10.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Since this phase of pipeline construction, both on production and tie-ins, is critically important to the long-term
+integrity of the pipeline, all inspectors should know the basics of proper lineup and welding and its inspection.
+Qualified welding inspectors with specialized training and experience would be expected to know more in depth
+inspection requirements (see Annex D). All mainline pipeline welding, whether manual or automatic, follow the same
+codes, standards, industry practices, and specification parameters.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10.2
+Pipe Laying Operation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should check the following per specifications and drawings;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+ensure pup joints meet specified minimum length restrictions consistent with pipe diameter and owner/operator
+requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+for proper installation/placement of transition nipples for changes in pipe wall thickness;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+for proper location/placement of the correct type, grade, and wall thickness of pipe and other mainline
+appurtenances, such as hot bends, block valves, scraper traps, any pump station piping, and other fabrications
+per drawings. Mark changes (red line) on drawings to facilitate completion of as-built drawings.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PARAGRAPH>>26
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10.3 Mainline Component Assembly<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable in the following areas of mainline component assembly:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— bolting procedures, including but not limited to: proper bolt/nut size and condition, placement, tightening
+sequence, torque requirements, and use of correct tools;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— proper gasket material and use;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— installation and isolation testing of any insulating flanges;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— verify that all concrete support structures are constructed in accordance with American Concrete Institute (ACI)
+standards and owner/operator requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— ensure proper coating and application requirements are met for the component being installed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10.4 Other Pipe Laying Inspections<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure open pipeline is protected with night caps or other devices to keep debris, water, and
+wildlife out of the welded up pipeline.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11 Roadway, Railroad, and Other Crossings<<HEADING_END>>
+<<HEADING level=3>>7.11.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and verify the activities and requirements in the following sections to ensure
+compliance with regulations, permits, industry practice, and owner/operator specifications (see API 1102 Sections 4,
+5, and 6; ASME B31.4 Sections 434.13, 434.13.1, 434.13.2, 434.13.3, and 434.13.4; and ASME B31.8 Sections
+802.2.5, 806, and 841.2.2).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.2 Safety<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure safety precautions are in place, including markers, signs, traffic control devices, and other
+related activities, including flagmen, as required, near pipe laying operations, excavations, and other locations,
+especially where machinery and trucks are operating and other construction activity is taking place.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.3 Permits<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of different types of crossing permits, their provisions, and the governmental
+agency issuing the permit(s) (e.g. state and county road and city street crossing permits and railroad crossing permits).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.4 Installation Activities<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of installation methods, machinery/equipment condition, and operator
+performance involved in completing the crossing, including wet or dry boring, HDD, ditching, or other approved
+method. ensure that the pipe has been surveyed and proper documentation collected prior to installation and that tie-
+in points had been surveyed after installation.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.5 Cased Crossings<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of cased crossings:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— casing installation methods, equipment used, operator performance, and completeness/acceptability, including
+the correct pipe, wall thickness, and coating, if any, versus specifications (see 49  CFR  192.323 and 49  CFR  195);<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+27<<PARAGRAPH_END>>
+<<PARAGRAPH>>— mainline welding is inspected and acceptable along with the pipe coating and/or pipe jacketing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— verify that mainline pipe insertion procedures are followed to ensure that no damage occurs to pipe and its
+coating, visually inspect spacers/insulators during and after installation, and check installation of seals and vents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— verification that the completed cased crossing is not electrically shorted and testing methods are correct, that
+depth profile specifications are met, and the required documentation is completed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.6 Uncased Crossings<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of uncased crossings:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— method of crossing (boring, HDD, ditching, or other approved methods), equipment used, and operator
+performance, including use of heavier wall pipe and special coating, if required, is in accordance with drawings,
+specifications, and permit provisions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— mainline welding is inspected and acceptable along with coating and/or jacket condition after insertion of the pipe;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— mainline crossing pipe on each side is ready for tie-in.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.7 Documentation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must make sure that all required documentation, including permits, owner/operator records and
+requirements for marked-up drawings as needed, and any special provisions in permits, such as railroad, highway,
+and local or other permit requirements, are completed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12 Waterway and Water Body Crossings<<HEADING_END>>
+<<HEADING level=3>>7.12.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and verify the following activities and requirements to ensure compliance with
+codes, regulations, permits, industry practices, and specifications. These crossings may include swamp, wetland,
+river, lake, and similar water feature crossings. (See ASME B31.4 Section 434.13.4.)<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.2 Other Types of Crossings<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor and inspect overhead crossings, such as spans and bridge attachments that should be
+inspected to ensure compliance with specifications, drawings, and permit provisions (see ASME B31.4 Sections
+434.13.2 and 434.13.3).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.3 Precautions<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of safety and environmental precautions, including equipment used,
+excavations, markers/signs, waterway traffic, if any, pipe laying operations, and minimization of environment damage.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.4 Permits<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of different types of crossing permits, their provisions, and the governmental
+authority with oversight over the permit. For example, most major water crossings must be permitted by the U.S.
+Army Corps of Engineers with their NWP12 permit.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.5 Survey Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure compliance with survey requirements as to alignment and depth, including how these
+requirements are determined, verified, and accepted in accordance with specifications and drawings.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<PARAGRAPH>>28
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.6 Installation Activities<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should make sure that the use of accepted/specified pipe installation methods, bank stabilization and
+restoration methods, extra ROW requirements, buoyancy control, heavy wall thickness pipe, and installation and/or
+use of concrete jacketed pipe comply with permit provisions and specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.7 Positioning and Buoyancy<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should verify that crossing pipe position and stability is in accordance with owner operator specifications,
+especially negative buoyancy requirements to prevent flotation.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.8 Documentation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure that all required documentation, including pipe details, permits, and owner/operator records
+and markup drawings to reflect as-built conditions, are completed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.13 Corrosion Control Requirements<<HEADING_END>>
+<<HEADING level=3>>7.13.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should have a basic knowledge of corrosion control, including pipe coating and cathodic protection (CP).
+Qualified/certified corrosion control coating inspectors with specialized training and experience would be expected to
+know more in depth inspection requirements (see Annex E).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.13.2 Cathodic Protection Test Lead Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should make sure that all test leads for CP monitoring are attached to the pipeline with a low temperature
+welding process, such as cadweld. The welds and bare wires should be properly coated with properly applied, specified
+coating, and lead wires should have ample slack between the pipe and aboveground test stations to prevent damage.
+Leads, test station installations, and lead wire terminations should follow job specifications. Adequate testing, usually by
+a corrosion control specialist, should be performed to ensure these installations are functioning properly.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.13.3 Aboveground/Belowground Coating Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be aware of the requirements for surface preparation and application methods (see SSPC Volume 1).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.13.4 Final Coating Inspection<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and take corrective action where necessary for all coated pipe to ensure it is
+inspected immediately before lowering in with a holiday detector that has an output consistent with NACE
+recommended voltage for the type of coating and thickness being inspected. Inspectors should verify the detector
+setting at least twice per day. Inspectors must make certain all coating anomalies or damaged areas are marked and
+properly repaired per manufacturer’s recommendations and job specifications before the pipe is allowed to be
+lowered into the ditch.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.14 Lowering in Requirements<<HEADING_END>>
+<<HEADING level=3>>7.14.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and take corrective action where necessary in the following areas prior to and
+during installation of the pipe in the ditch (see 49  CFR  192.319, 49  CFR  195.246, and ASME B31.4 Section 434.10).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+29<<PARAGRAPH_END>>
+<<HEADING level=3>>7.14.2 Condition of Bottom of the Ditch<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure that there is no water, rocks, hard clods, roots, or other debris in the ditch and that any
+padding material or rock shield is in place. Lower the line with proper slack in the line so it fits the profile of the ditch
+(i.e. sags and overbends are properly positioned to prevent pushing the pipeline ahead of the lowering in process).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.14.3 Lifting and Lower Equipment<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and take corrective action, where necessary, for: slings, padded calipers, rollers,
+and other pipe carrying devices to prevent coating or pipe damage and assess the suitability of lifting machines as to
+size, type, and condition. Inspectors should review the design considerations in the lowering in plan and the
+equipment spacing and maximum lifting height to prevent excessive stresses.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.14.4 Erosion Control<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should check that ditch plugs, sack breakers, retards, and water diversion features are in place and built in
+accordance with specifications to prevent washouts.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.14.5 Land Drains<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should check to ensure land drainage reinstallation is correct and in agreement with specifications<<PARAGRAPH_END>>
+<<HEADING level=3>>7.15 Backfill and Cleanup Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor, assess, and take corrective action as needed in the following areas during backfill
+operations to prevent damage to the pipe and/or its coating and ensure support is provided under the pipe (see
+49  CFR  192.327, 49  CFR  195.248, 49  CFR  195.252, and ASME B31.4 Section 434.11).<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should check suitability of backfill material (no rocks or other hard objects to be placed on the pipe)
+and equipment used for backfilling and ensure the pipe is properly supported and padded (see 49  CFR  192.319).
+The inspector must also ensure that owner/operator specifications are met.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should verify depth requirements as stipulated for each location and type of terrain in accordance with
+49  CFR  195.248, 49  CFR  192.327, and the job specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should ensure compaction meets job specifications and settlement is considered for the ditch cover,
+including water pack requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should check rock shield or other soft earth padding (at least 12-in. thick) is in place in rocky terrain in
+accordance with job specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Inspectors should monitor the following cleanup operations that involve restoring the land to it’s agreed upon
+condition prior to construction:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— removal of waste materials, rocks, and other debris resulting from construction;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— repair all damaged land by filling holes, ruts, and other land disturbances;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— plow, disc, or drag ROW to dress the land and remediate excessively compacted areas, especially in
+cultivated areas;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— remove temporary structures and ROW access roads/trails per agreed upon requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— repair fences with new posts, braces, and fencing material and tighten to satisfy landowner expectations;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<PARAGRAPH>>30
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+ensure that proper seeding, where required, has been applied in accordance with design and permit
+conditions and/or the landowner agreements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+check that pipeline warning markers, milepost and aerial markers, and river crossing signs are placed and
+installed in accordance with drawings, specifications, and API 1109 (see 49  CFR  195.410 and ASME B31.4
+Section 434.18).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.16
+Pipeline Cleaning Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor the areas below in the use of pipeline cleaning devices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should check launching and receiving traps for proper configuration and suitability for the operation,
+including pressure relief provisions and mainline valve positioning.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should ensure cleaning devices are constructed per specifications to properly gauge the internal
+condition of the new pipeline.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should monitor cleaning device location and speed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should be knowledgeable in cases of damage to the gauging plate, if a swab becomes stuck, or
+anomalies are indicated by other devices. Such defects or obstructions must be located and repaired in
+accordance with job specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.17
+Internal Line Inspection Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of owner/operator requirements for internal line inspection. Owner/operators
+often run internal line inspection devices following construction to establish their baseline assessments as part of their
+integrity management programs. Inspectors should monitor the following areas when these devices are used (see
+49  CFR  195.450 to 195.452).<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should check launching and receiving facilities for proper configuration and suitability for using these
+inspection tools, including pressure relief provisions and mainline block valve positioning.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+Inspectors should be knowledgeable of tool run activities and monitor tool run activities. If the inspection device
+becomes lodged in the pipeline, coordinate activities with contractors in order to locate the tool, perform
+extraction work, and make pipeline repairs.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18
+Hydrostatic Pressure Testing Requirements<<HEADING_END>>
+<<HEADING level=3>>7.18.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of API 1110 provisions, 49  CFR  192 Subpart J, and 49  CFR  195 Subpart E.
+Ensure the owner/operator test plan is implemented and then monitor, assess, and report on the hydrostatic pressure
+testing process steps listed below (see also ASME B31.4 Chapter VI).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18.2
+Permit Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should review permits, if any, to obtain test water from local sources (i.e. municipal, river, streams, or other
+sources) and plans to treat test water (filtration, chemical treatment, or use of other conditioning means) to ensure
+specified quality before it enters the new pipeline. Review disposal plans and requirements following test completion
+to ensure that the discharged water meets permit and/or specified quality parameters.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+31<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18.3 Check Test Equipment<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should check the following to ensure that the test equipment is compatible with testing requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Filling equipment condition and suitability for service (e.g. high volume, low pressure pumping equipment, piping,
+scrapers, and test manifold and blinds and/or plugs are in place on all side connections and other small piping
+not to be included in the mainline test).<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Test equipment, including low volume, high pressure pump, dead weight tester, thermometers, recording
+instruments, associated piping, and other appurtenances to ensure all equipment is properly connected and
+suitable for the test. All test equipment must meet industry calibration standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18.4 Conduct of the Test<<HEADING_END>>
+<<PARAGRAPH>>As required by owner/operator, inspectors should observe the performance of the test and verify the results, report any
+temperature/pressure variations, and verify test report completeness. Owner/operator defines roles of the inspectors in
+regards to the witnessing, sign off on, and recording the completed test plan. Test reports should include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— company name, testing company, and person responsible;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— date and time of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— description of facility tested;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— test medium;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— deadweight tester and gauge certification including unique identifiers (serial numbers);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— temperature/pressure records including unique identifiers (serial numbers);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— minimum test pressure;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— weather conditions and explanation of any pressure deviations or other pressure discontinuities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— records of any failures and repairs;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— PV plots;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— unique test identifier (i.e. test number);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— duration of the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18.5 Precautions During the Test<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should confirm safety precautions are in place to protect against hazards, such as sudden unexpected
+pressure release from piping and/or appurtenances under test.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18.6 Test Documentation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should review, report, and document any failures and subsequent repairs. Confirm and acknowledge the
+test plan.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.18.7 Displacement Activities<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should check displacement methods (usually with nitrogen or air) and disposal of test medium in
+accordance with permits and job specifications and removal of blinds/plugs and open valves to prepare the line for
+commissioning the completed pipeline.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<PARAGRAPH>>32
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>7.19 Commissioning Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor purging/cleaning practices, ensure safe disconnection procedures are followed, check dew
+point (moisture in the line) as necessary, following dewatering/dehydration activities, and ensure owner/operator
+commissioning procedures are followed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.20 Documentation Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors are expected to complete all documents required by 49  CFR  195.266 or 49  CFR  192 and owner/operator
+requirements, including but not limited to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— daily logs/reports;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— extra work memoranda;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— work shutdown/move around reports;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— completion of paperwork requirements of permits to close them out;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— drawing markups for as-built records, including location of crossing pipelines and other utilities, valves, CP units,
+test station locations, and other connections installed in the new pipeline;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— amount, size, wall thickness, grade, heat number, other pipe nomenclature and coating of pipe laid, its location,
+and depth of cover;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— number of welds, welds tested, rejection rates, and repairs made;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— weld logs to include weld numbers and unique identifiers (i.e. pipeline number);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— as-built surveys to include weld identifiers, location, depth of pipe, and other information per the owner/operator
+specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— hydrostatic tests and any test failures.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.21 Inspector Tools for Communication and Documentation Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be able to competently use the following tools and devices to aid in communication, recording data,
+and recordkeeping for safety/hazard observations, construction problems, logs, and other required records and
+documentation, including but not limited to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— laptop computer,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— radios,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— GPS devices,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— digital cameras,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— air cards (for internet access),<<PARAGRAPH_END>>
+<<PARAGRAPH>>— mobile devices.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_39>>
+<<HEADING level=2>>Annex A
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Chief Inspector<<HEADING_END>>
+<<HEADING level=3>>A.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>Individuals assigned as chief inspectors are typically highly skilled and experienced in pipeline construction and have
+served in a number of different inspection classifications. Chief inspectors must be capable of managing, directing,
+and overseeing all pipeline construction inspection personnel involved in each construction activity, including welding
+inspectors, corrosion control inspectors, utility inspectors, and specialized inspectors, such as blasting and HDD.
+Chief inspectors usually report to an owner/operator project manager or other management personnel charged with
+completing a pipeline project.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2 Qualifications<<HEADING_END>>
+<<HEADING level=3>>A.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>Chief inspectors must be knowledgeable in each of the major requirement areas of pipeline construction. The basic
+requirements are detailed herein and include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— pipeline construction inspector responsibilities,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— personnel and general pipeline safety,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— environmental and pollution control,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— general construction inspection.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.2 Special Inspection Requirements<<HEADING_END>>
+<<PARAGRAPH>>Chief inspectors must have in depth knowledge of welding inspection, corrosion control inspection, and specialty
+inspection, such as blasting, HDD, and other specialty inspection that may be required by the project.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.3 Other Knowledge and Skill Requirements<<HEADING_END>>
+<<HEADING level=3>>A.2.3.1 Principles of Project Management<<HEADING_END>>
+<<PARAGRAPH>>Project management is responsible for designing and constructing a safe, maintainable facility that operates
+efficiently within design conditions, complies with laws, regulations, and industry standards, and is completed on time
+and within budget. Chief inspectors must be knowledgeable and capable of implementing this management process,
+which includes, but is not limited to: understanding project objectives, staffing and supervising the inspection
+organization, contract administration, planning and scheduling tasks, controlling costs, measuring and controlling job
+progress, managing quality assurance, and completing documentation requirements, all within the requirements of
+the owner/operator.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.3.2 Fundamentals of Project Accounting<<HEADING_END>>
+<<PARAGRAPH>>Chief inspectors must understand proper pipeline accounting requirements, including but not limited to: receipt of
+materials/supplies, verification of materials versus specifications, capital and operating expense booking processes,
+and timely communication with the accounting staff using the proper forms and procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>33<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<PARAGRAPH>>34
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.3.3 Contract Administration<<HEADING_END>>
+<<PARAGRAPH>>Chief inspectors must be knowledgeable about the details of the contract governing the assigned project, including
+but not limited to: contract performance provisions, each parties’ contractual obligations, terms and conditions,
+terminology, restrictions, bid and extra work provisions, and contract dispute resolution processes.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.3.4 Project Materials Tracking/Traceability<<HEADING_END>>
+<<PARAGRAPH>>Chief inspectors must be familiar with the processes and procedures used in supply management systems, including
+but not limited to: tracking and tracing materials and supplies using identifiers, such as serial numbers, mill numbers,
+and heat numbers, verifying adherence to specifications, and resolving delivery timing issues and their influence on
+job progress.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.3.5 Elements of Public Relations<<HEADING_END>>
+<<PARAGRAPH>>Chief inspectors must have experience and training in how to deal openly and honestly with the general public,
+including landowners, regulatory and law enforcement officials, mass media representatives, and other individuals
+who may interface with the project construction. Inspectors should also know owner/operator requirements as to what
+is pertinent and appropriate in providing information, answering questions, and resolving issues<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_41>>
+<<HEADING level=2>>Annex B
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Blasting Inspector<<HEADING_END>>
+<<HEADING level=3>>B.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>Individuals assigned as blasting inspectors are recognized as specialists in this activity and typically have additional
+schooling from explosive suppliers and other sources or have gained experience while actively involved in the use of
+explosives. Inspectors assigned to blasting operations report to the chief inspector and may handle other inspection
+duties depending on their training and experience.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2 Qualifications<<HEADING_END>>
+<<HEADING level=3>>B.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>Blasting inspectors should be knowledgeable of the basic requirements included in API 1169 and be knowledgeable
+in the following areas related to use of explosives and pipeline construction blasting operations.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.2 Transportation, Handling, and Storage of Explosives<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be familiar with OSHA and DOT regulations as to the safe movement, storage, and handling of
+explosives (see OSHA 1910.109, OSHA 1926.900 to 1926.914, and 49  CFR  177).<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.3 Blasting Plan<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must be familiar with the contractor’s blasting plan and ensure all safety precautions are implemented per
+the plan.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.4 Permit<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable of pertinent permits and their issuing agencies and ensure the provisions of the
+permits are properly addressed by the contractor.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.5 Safety Precautions<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must be knowledgeable of safety precautions to be taken during blasting operations, including but not limited
+to: notifications, warning signage, use of two-way radios, barriers, and safe distance parameters from the blast zone.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.6 Blasting Preparation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must be familiar with charge placement drilling operations, including configurations and depth of charge
+holes, charge placement procedures, charge padding activities using earth or blast mats, proper fusing techniques,
+use of correct wiring, and blasting machines, and ensure each of these activities follow accepted practices and
+owner/operator procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.7 Blasting<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor the results of the blasting to ensure its effectiveness and measure and record, if required,
+the area blasted in the event of extra work authorization or special bid pricing.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.8 Cleanup<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor cleanup activities to ensure minimal collateral damage for excess heaving or debris scatter.<<PARAGRAPH_END>>
+<<PARAGRAPH>>35<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_42>>
+<<HEADING level=2>>Annex C
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Horizontal Directional Drilling Inspector<<HEADING_END>>
+<<HEADING level=3>>C.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>Individuals assigned to carry out the inspection duties related to horizontal directional drilling (HDD) are recognized as
+specialists due to the nature and complexity of these operations. Thorough monitoring and documentation by
+qualified inspection personnel is crucial since a drilled installation is typically buried with deep cover under
+inaccessible terrain or infrastructure features and its installed condition cannot be verified by visual examination. HDD
+inspectors will usually have completed training provided by HDD contractors or other sources and they have
+experience in this crossing methodology. HDD inspectors report to the chief inspector and may handle other
+inspection duties as directed by the chief inspector.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2 Qualifications<<HEADING_END>>
+<<HEADING level=3>>C.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>HDD inspectors should be knowledgeable of the basic inspection requirements included herein and be
+knowledgeable about the characteristics, features, and work performance activities of HDD operations, including but
+not limited to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— drill path,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— pilot hole,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— downhole survey systems/surface tracking systems,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— course length,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— inclination,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— azimuth,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— stationing,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— elevation,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— entry/exit angles,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— radius of curvature,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— pull section,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— reaming,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— buoyancy control,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— coating integrity,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— drilling fluid,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— documentation requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>36<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_43>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+37<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.2 Construction Staking and Marking<<HEADING_END>>
+<<PARAGRAPH>>Inspector should be familiar with staking and marking of the drilled segment, particularly the entry and exit points,
+including the distance between the points, their elevations, and how each of these is determined. Inspector should
+understand the importance of these accurately located points that provide a benchmark for the downhole survey and
+the orientation of the survey measuring instruments.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.3 HDD Equipment<<HEADING_END>>
+<<PARAGRAPH>>Inspector should be familiar with HDD equipment of various sizes and types suitable for different jobs, machinery
+condition, and suitability for the intended work.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.4 HDD Personnel<<HEADING_END>>
+<<PARAGRAPH>>Inspector should observe the functioning of the HDD equipment operating personnel and their supervision as to their
+competence and proficiency and how they handle the HDD equipment and its associated gear, including the surface
+monitoring system used to determine the downhole probe location.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.5 Drilled Path<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should monitor the drilled path during pilot hole drilling and assess if the drilling is on the proper inclination
+and azimuth to ensure the vertical and horizontal positioning, including the drilled length, depth of cover, and entry/
+exit angles required by the owner/operator specifications. Inspectors should also assess if the exit location is within
+limits set forth by the specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6 Pipe Installation<<HEADING_END>>
+<<HEADING level=3>>C.2.6.1 General<<HEADING_END>>
+<<PARAGRAPH>>Inspector should review the pipe installation operation to ensure owner/operator specifications are met, including the
+following.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6.2 Pull Section<<HEADING_END>>
+<<PARAGRAPH>>Inspector should ensure that the welds, pipe, and joint coating of the carrier pipe string to be pulled into the drilled
+crossing have been properly inspected and the pull section is ready for placement.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6.3 Reaming<<HEADING_END>>
+<<PARAGRAPH>>Inspector should be knowledgeable of the equipment and its appurtenances used to enlarge the drill hole to
+accommodate the pull back operation and be able to assess the effectiveness of this operation.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6.4 Pull Section Handling<<HEADING_END>>
+<<PARAGRAPH>>Inspector should monitor and assess the adequacy of support of the pull section during pull back. Roller stands or
+other support mechanisms as well as the lifting equipment should be checked to ensure satisfactory movement of the
+pipe string into its drilled crossing.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6.5 Buoyancy Control<<HEADING_END>>
+<<PARAGRAPH>>Inspector should be knowledgeable of buoyancy control processes that may be used to lessen pulling loads.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_44>>
+<<PARAGRAPH>>38
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6.6 Pipe Coating<<HEADING_END>>
+<<PARAGRAPH>>Inspector should ensure the pipe coating is inspected with a properly calibrated holiday detector just prior to the pipe
+entering the reamed drill hole and that any needed coating repairs meet owner/operator specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.7 Drilling Fluid<<HEADING_END>>
+<<PARAGRAPH>>Inspector should be familiar with types of drilling mud and its proper use, monitor the ROW for potential drilling mud
+migration or intrusion, and ensure the containment and disposal of the drilling mud follow accepted procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.8 Documentation<<HEADING_END>>
+<<PARAGRAPH>>Inspector should understand requirements established by the owner/operator and any permitting agencies and
+complete needed documentation in a timely and complete manner.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_45>>
+<<HEADING level=2>>Annex D
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Welding Inspector<<HEADING_END>>
+<<HEADING level=3>>D.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>Individuals assigned as welding inspectors shall be qualified as welding inspectors to ensure the inspection of this
+critical activity is carried out in strict accordance with codes, regulations, and owner/operator specifications.
+Qualification and certification in this function requires additional schooling and usually a significant amount of on the
+job experience. Welding inspectors report to the chief inspector and may function as backup for the chief.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2 Qualifications<<HEADING_END>>
+<<HEADING level=3>>D.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>Welding inspectors should be knowledgeable of the basic requirements included in API 1169, have completed training in
+API 1104, AWS, or other industry welding schooling, and be skilled in the following areas related to pipeline welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.2 Certification and Qualification Verification<<HEADING_END>>
+<<PARAGRAPH>>The welding inspectors should be familiar with both welder and NDT technician qualification and certification
+documentation provided by the contractor or individual and be capable of verifying the documents’ authenticity. Any
+AWS certifications should be carefully reviewed to ensure they cover pipeline welding and not an unrelated type
+welding such as structural steel welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.3 Testing Welders<<HEADING_END>>
+<<PARAGRAPH>>All mainline pipeline welding strictly follows owner/operator approved and qualified welding procedures, which
+consistently produces sound welds with correct mechanical properties and meet the requirements of API 1104. Every
+welder, welding on the pipeline, must be tested and qualified by making an acceptable weld using the approved/
+qualified procedure to be used in the construction. The welding inspectors must be capable of monitoring and
+assessing these tests and the determining acceptability of the welds by visual examination, NDT, and destructive
+testing using the standards of acceptability in API 1104. Inspectors ensure that each welder passing the qualification
+test is issued and uses an identification number to identify his welds during construction.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.4 Welding Equipment<<HEADING_END>>
+<<PARAGRAPH>>Inspectors check the following for compliance with welding procedures and specifications:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— suitability of welding machines (minimum 200 amp NEMA rating), electrode holders, grounding clamps, and
+cables and their proper use;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— welding rod, including AWS classification and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— storage/handling procedures for welding rod and other welding supplies;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— other equipment, such as cutting/beveling machines, any preheat equipment, brushes, and grinders.<<PARAGRAPH_END>>
+<<PARAGRAPH>>39<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_46>>
+<<PARAGRAPH>>40
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.5 Alignment of Pipe for Welding<<HEADING_END>>
+<<PARAGRAPH>>Inspectors monitor the following pipe gang and line up activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Swabbing of the pipe before fit up to remove foreign debris and/or wildlife.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Pipe gang proficiency to ensure proper handling, fit up, and bevel alignment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Clamping procedures and proper support of pipe during and after welding, including padded skids for coated pipe.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Clamp Holding time—100 % of stringer bead for internal line up clamps (larger that 6-in. O.D. pipe). Check
+specifications for permissible use of external line up clamps and holding times on smaller diameter pipe and at
+tie-ins.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Seam alignment, if any, to ensure pipe seams are rolled off top center per specifications,<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Potential magnetism [near high voltage alternating current (HVAC) lines or where there is evidence of residual
+magnetism] that could adversely affect welding (arc blow) and take steps to degauss the pipe. (If the pipe is being
+laid under HVAC lines, verify that the pipe section is grounded.)<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.6 Welding Inspection<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must carry out their responsibilities in the areas below to ensure compliance with specifications and
+standards (see AWS manual, API 1104, and ASME B31.4 Section 434.8). Inspectors should:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— have a copy of the qualified welding procedure readily available and the qualification papers of qualified welders
+and verify that proper welding procedures are being consistently followed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— visually inspect each weld and observe welder technique/performance including smoothness of metal
+application, rod travel speed, starts/stops, and welder identification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— verify that NDT contractor has provided written NDT procedures for all processes and performs in accordance
+with those procedures, and verify NDT of welds is in accordance with industry standards and regulations
+(Regulations require 10 % coverage, but generally, owner/operators inspect 100 % of all welds with suitable
+NDT.);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— evaluate weld quality by reviewing NDT results; noting defective welds, rejection rates, and repairable/
+nonrepairable (cutouts) welds versus standards of acceptability contained in API 1104 and owner/operator
+specifications; marking any unacceptable welds for repair or cutout, and noting which welder or welders made
+the unacceptable welds.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.7 Weld Repairs/Replacement<<HEADING_END>>
+<<PARAGRAPH>>Inspectors inspect any repairs in the same manner and intensity as production welds and conduct the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Ensure the cylinder of pipe cutout and the replacement pipe piece meet length restrictions for the diameter of
+pipe involved and ensure any weld repairs follow API 1104 and the qualified welding procedure that was used on
+the initial weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Check proper beveling, fit up, weld quality, and NDT results versus standards. (If owner/operator allows more
+than one repair in a previously repaired area, verify that the repair is in accordance with a qualified weld repair
+procedure per 49  CFR  195.230.)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_47>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+41<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.8 Tie-ins<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must inspect tie-in operations for proper alignment, beveling, welding, coating repair, and pipe placement
+and ensure pipe is properly supported when placed in the ditch (see ASME B31.4 Section 434.9).<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2.9 Documentation<<HEADING_END>>
+<<PARAGRAPH>>Inspectors complete in a timely manner all required records of welding operations, including but not limited to: number
+of welds, NDT records, rejection rates, repairs, and other documentation as specified by the owner/operator.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_48>>
+<<HEADING level=2>>Annex E
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Corrosion Control Inspector<<HEADING_END>>
+<<HEADING level=3>>E.1 Scope<<HEADING_END>>
+<<PARAGRAPH>>Individuals assigned as corrosion control inspectors (or coating inspectors) must be qualified and certified in corrosion
+control. Qualification and certification requires specialized schooling, usually under the auspices of NACE.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2 Qualifications<<HEADING_END>>
+<<HEADING level=3>>E. 2 .1 General<<HEADING_END>>
+<<PARAGRAPH>>Corrosion control inspectors should be knowledgeable in the basic requirements included herein, have completed
+the NACE Coating Inspector Program (CIP), Level 1, and be capable of carrying out the inspection duties below.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.2 Pipe Coating Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable about proper aboveground/belowground coating application techniques,
+including surface preparation, priming, type and method of application, curing time, application limitations,
+atmospheric condition restrictions, and integrity testing (see NACE RP0169-06 and SSPC Volume 1).<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.3 Mill Applied Coating<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be capable of inspecting, marking, and following repairs in accordance with specifications and
+manufacturer’s recommended repair criteria for any observed coating damage beginning with when the pipe arrives
+on the job to lowering in.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.4 Over the Ditch Coating<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should inspect, assess, and note corrective action needed in the following areas:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— coating machine condition, suitability for the work, correct operation, and operator performance of his/her duties;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— ensure surface preparation meets specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— check that correct primer is used, it is correctly applied at the specified thickness and drying time is within
+specification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— verify correct coating is being applied at the proper rate, travel speed, tension, and overlap;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— verify proper lifting/placement techniques are used and coating protection is provided on lower in.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.5 Field Joint Coating<<HEADING_END>>
+<<PARAGRAPH>>Field joint coating and application methods are typically used on mill applied coating and all tie-ins. Inspectors should
+check the following to ensure coated field joints meet specifications:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— monitor contract personnel doing this work to ensure specified procedures are followed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— ensure surface preparation meets specifications and manufacturer’s requirements/recommendations are
+followed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>42<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_49>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+43<<PARAGRAPH_END>>
+<<PARAGRAPH>>— ensure correct primer is used, properly applied at the right thickness, and drying time is within specified limits;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— ensure coating is the correct type, applied per specifications and manufacturer’s recommendations, and proper
+curing time is observed before movement of the pipe;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— check that coated pipe is properly handled and protected awaiting lower in.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.6 Coating Repairs<<HEADING_END>>
+<<PARAGRAPH>>Inspectors must ensure that removal of damaged coating follows manufacturer’s recommendations and/or owner/
+operator specifications and damage to the pipe surface is avoided. Inspectors must check that repair of damaged
+coating on either mill applied or over the ditch coating follows the specified steps in surface preparation, priming,
+coating application, and curing.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.7 Cathodic Protection Requirements<<HEADING_END>>
+<<PARAGRAPH>>New pipelines require installation of corrosion control testing facilities, rectifier units, and ground beds. Inspectors
+must be knowledgeable about the proper installation and testing of these devices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Test leads for corrosion control monitoring should be checked by the inspectors to ensure they were installed
+properly.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Rectifier units and ground beds must be checked by the inspectors to ensure proper installation per
+specifications and that they operate properly. Inspectors should complete owner/operator required
+documentation for these installations.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.8 Foreign Pipeline Bonding Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should be knowledgeable on these installations, including the wiring, test station, and wire terminations
+and ensure they are tested and operate properly.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2.9 Cathodic Protection Testing and Measurement Requirements<<HEADING_END>>
+<<PARAGRAPH>>Inspectors should ensure all rectifiers are read, calibrated where needed, and pipe to soil potentials are taken at test
+stations and measure any cased crossings for electrical shorts to ensure all installations meet specifications.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_50>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+API Specification 5L,  Specification for Line Pipe<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+API Specification 6D,  Specification for Pipeline Valves<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+API Recommended Practice 1102,  Steel Pipelines Crossing Railroads and Highways<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+API Standard 1104,  Welding of Pipelines and Related Facilities<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+API Recommended Practice 1109,  Marking Liquid Petroleum Pipeline Facilities<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+API Recommended Practice 1110,  Pressure Testing of Steel Pipelines for the Transportation of Gas,
+Petroleum Gas, Hazardous Liquids, Highly Volatile Liquids or Carbon Dioxide<<PARAGRAPH_END>>
+<<PARAGRAPH>>[7]
+API Recommended Practice 1161,  Recommended Practice for Pipeline Operator Qualification<<PARAGRAPH_END>>
+<<PARAGRAPH>>[8]
+API Recommended Practice 1162,  Public Awareness Programs for Pipeline Operators<<PARAGRAPH_END>>
+<<PARAGRAPH>>[9]
+API Recommended Practice 1166,  Excavation Monitoring and Observation<<PARAGRAPH_END>>
+<<PARAGRAPH>>[10] API,  Security Guidance for the Petroleum Industry<<PARAGRAPH_END>>
+<<PARAGRAPH>>[11] ACHP Title 36,  CFR  Part 800  10 ,  Protection of Historic Properties<<PARAGRAPH_END>>
+<<PARAGRAPH>>[12] ANSI B16.5  11 ,  Pipe Flanges and Flanged Fittings<<PARAGRAPH_END>>
+<<PARAGRAPH>>[13] ANSI B16.9,  Factory-made Steel Buttwelding Fittings<<PARAGRAPH_END>>
+<<PARAGRAPH>>[14] ANSI B16.20,  Metallic Gaskets for Pipe Flanges<<PARAGRAPH_END>>
+<<PARAGRAPH>>[15] ANSI B16.21,  Nonmetallic Gaskets for Pipe Flanges<<PARAGRAPH_END>>
+<<PARAGRAPH>>[16] ANSI B16.47,  Large Diameter Steel Flanges<<PARAGRAPH_END>>
+<<PARAGRAPH>>[17] ANSI/ASNT SNT-TC-1A  12 ,  Personnel Qualification and Certification for Nondestructive Testing Personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>[18] ASME B31.3  13 ,  Process Piping<<PARAGRAPH_END>>
+<<PARAGRAPH>>[19] ASME B31.4,  Pipeline Transportation Systems for Liquids and Slurries, Chapter V: Construction, Welding,
+and Assembly —Sections 434.1, 434.2, 434.3, 434.3.2, 434.3.3, 434.4, 434.5, 434.6, 434.7, 434.7.3, 434.8,
+434.9, 434.10, 434.11, 434.12, 434.13, 434.15, 434.17, 434.18, and 434.19<<PARAGRAPH_END>>
+<<PARAGRAPH>>[20] ASME B31.4,  Pipeline Transportation Systems for Liquids and Slurries, Chapter VI: Inspection and Testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>[21] ASME B31.4,  Pipeline Transportation Systems for Liquids and Slurries, Chapter VIII: Corrosion Control<<PARAGRAPH_END>>
+<<PARAGRAPH>>10  Advisory Council on Historic Preservation, 1100 Pennsylvania Avenue NW, Suite 803, Old Post Office Building, Washington,
+DC 20004, www.achp.gov.
+11  American National Standards Institute, 25 West 43rd Street, 4th Floor, New York, New York 10036,   www.ansi.org.
+12  American Society for Nondestructive Testing, 1711 Arlingate Lane, P.O. Box 28518, Columbus, Ohio 43228, www.asnt.org.
+13  ASME International, 3 Park Avenue, New York, New York 10016-5990, www.asme.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>44<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_51>>
+<<PARAGRAPH>>R ECOMMENDED  P RACTICE   FOR  B ASIC  I NSPECTION  R EQUIREMENTS —N EW  P IPELINE  C ONSTRUCTION
+45<<PARAGRAPH_END>>
+<<PARAGRAPH>>[22] ASME B31.8,  Gas Transmission and Distribution Piping Systems —Sections 802.2.5, 806, and 841.2.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>[23] AWS  14 ,  Certification Manual for Welding Inspectors<<PARAGRAPH_END>>
+<<PARAGRAPH>>[24] CGA  15 ,  Best Practices<<PARAGRAPH_END>>
+<<PARAGRAPH>>[25] CGA Pamphlet P-1  16 ,  Safe Handling of Compressed Gases in Containers<<PARAGRAPH_END>>
+<<PARAGRAPH>>[26] CGA Pamphlet S-1.1,  Pressure Relief Device Standards—Part 1: Cylinders for Compressed Gases<<PARAGRAPH_END>>
+<<PARAGRAPH>>[27] FHWA  17 ,  Manual of Uniform Traffic Control Devices (MUTCD)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[28] Homeland Security Regulations Public Law 107-296 and 107-71<<PARAGRAPH_END>>
+<<PARAGRAPH>>[29] NACE RP0169-06  18 ,  Control of Corrosion in Underground or Submerged Metallic Pipeline Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[30] NFPA 30  19 ,  Flammable and Combustible Liquids Code<<PARAGRAPH_END>>
+<<PARAGRAPH>>[31] OSHA Title 29,  CFR  Part 1910  20 ,  Occupational Safety and Health Standards —Sections 1910.25, 1910.26,
+1910.28, 1910.95, 1910.100 to 1910.120, 1910.132 to 1910.136, and 1910.138; Appendices A and B to
+Subpart I; Sections 1910.141, 1910.146, 1910.147, 1910.151, and 1910.157; Appendix A to Subpart L; and
+1910.180, 1910.181, 1910.184, 1910.215, 1910.241 to 1910.244, 1910.254, 1910.1000 to 1910.1028, and
+1910.1200<<PARAGRAPH_END>>
+<<PARAGRAPH>>[32] OSHA Title 29,  CFR  Part 1926,  Safety and Health Regulations for Construction —Sections 1926.21, 1926.23
+to 1926.26, 1926.36, 1926.52, 1926.57, 1926.59, 1926.65, 1926.95, 1926.96, 1926.100, 1926.103, 1926.150,
+1926.153, 1926.250, 1926.251, 1926.300, and 1926.303; Subpart J (Welding and Cutting); Sections
+1926.450, 1926.451, 1926.452, 1926.454, 1926.500, 1926.503, 1926.550, 1926.600, 1926.601, 1926.602,
+and 1926.604, Subpart P (Excavations); Section 1926.803; Subpart U (Blasting and the Use of Explosives);
+Sections 1926.1053 and 1926.1060; and Subpart Z (Toxic and Hazardous Substances)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[33] Peabody, A. W.,  Control of Pipeline Corrosion , National Association of Corrosion, Second Edition, January 2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>[34] PHMSA Form 7  21 ,  Evaluation Report of Liquid Pipeline Construction<<PARAGRAPH_END>>
+<<PARAGRAPH>>[35] SSPC  22 ,  Good Painting Practices, Volume 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>[36] U.S. DOT Title 49,  CFR  Part 177  23 ,  Carriage by Public Highway<<PARAGRAPH_END>>
+<<PARAGRAPH>>[37] U.S. DOT Title 49,  CFR  Part 177, Section 835,  Class 1 materials<<PARAGRAPH_END>>
+<<PARAGRAPH>>14  American Welding Society, 550 NW LeJeune Road, Miami, Florida 33126, www.aws.org.
+15  Common Ground Alliance, 2300 Wilson Boulevard, Suite 400, Arlington, Virginia 22201, www.commongroundalliance.com.
+16  Compressed Gas Association, 4221 Walney Road, 5th Floor, Chantilly, Virginia 20151, www.cganet.com.
+17  U.S. Department of Transportation, Federal Highway Administration, 1200 New Jersey Ave, SE, Washington, DC 20590,
+www.fhwa.dot.gov.
+18  NACE International (formerly the National Association of Corrosion Engineers), 1440 South Creek Drive, Houston, Texas
+77218-8340, www.nace.org.
+19  National Fire Protection Association, 1 Batterymarch Park, Quincy, Massachusetts 02169-7471, www.nfpa.org.
+20  U.S. Department of Labor, Occupational Safety and Health Administration, 200 Constitution Avenue, NW, Washington, DC
+20210, www.osha.gov.
+21  U.S. Department of Transportation, Pipeline and Hazardous Material Safety Administration, East Building, 2nd Floor, 1200 New
+Jersey Ave, SE, Washington, DC 20590, www.phmsa.dot.gov.
+22  The Society for Protective Coatings, 40 24th Street, Sixth Floor, Pittsburg, Pennsylvania 15222, www.sspc.org.
+23  U.S. Department of Transportation, 1200 New Jersey Ave, SE, Washington, DC 20590, www.dot.gov.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_52>>
+<<PARAGRAPH>>46
+API R ECOMMENDED  P RACTICE  1169<<PARAGRAPH_END>>
+<<PARAGRAPH>>[38] U.S. DOT Title 49,  CFR  Part 177, Section 844,  Class 9 (miscellaneous hazardous) materials<<PARAGRAPH_END>>
+<<PARAGRAPH>>[39] NOAA Title 50, CFR Part 402   24 , —Interagency Cooperation—Endangered Species Act of 1973, As
+Amended<<PARAGRAPH_END>>
+<<PARAGRAPH>>[40] U.S. DOT Title 49,  CFR  Part 192,  Transportation of Natural and Other Gas by Pipeline —Sections 192.301,
+192.303, 192.305, 192.307, 1902.309, 192.313, 192.319, 192.323, 192.325, and 192.327; Subpart E
+(Welding of Steel in Pipelines); Subpart I (Requirements for Corrosion Control); Subpart J (Test
+Requirements); and Subpart M (Maintenance)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[41] U.S. DOT Title 49,  CFR  Part 195,  Transportation of Hazardous Liquids by Pipeline —Sections 195.200,
+195.202, 195.204, 195.206, 195.210, 195.212, 195.214 to 195.234, 195.236, 195.238, 195.242, 195.244,
+195.246, 195.248, 195.250, 195.252, 195.254, 195.266, 195.300, 195.302, 195.304, 195.305, 195.306,
+195.308, 195.310, 195.404, 195.410, 195.442, 195.501, and 195.505 and Subpart H (Corrosion Control)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[42] U.S. DOT Title 49,  CFR  Part 199,  Drug and Alcohol Testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>[43] U.S. EPA Title 40  25 ,  CFR  Part 110,  Discharge of Oil<<PARAGRAPH_END>>
+<<PARAGRAPH>>[44] U.S. EPA Title 40,  CFR  Part 112,  Oil Pollution Prevention<<PARAGRAPH_END>>
+<<PARAGRAPH>>[45] U.S. EPA Title 40,  CFR  Part 116,  Designation of Hazardous Substances<<PARAGRAPH_END>>
+<<PARAGRAPH>>[46] U.S. EPA Title 40,  CFR  Part 122,  EPA Administered Permit Programs: The National Pollutant Discharge
+Elimination System<<PARAGRAPH_END>>
+<<PARAGRAPH>>[47] U.S. EPA Title 40,  CFR  Part 261,  Identification and Listing of Hazardous Waste —Section 261.3<<PARAGRAPH_END>>
+<<PARAGRAPH>>[48] U.S. EPA Title 40,  CFR  Part 300,  National Oil and Hazardous Substances Pollution Contingency Plan<<PARAGRAPH_END>>
+<<PARAGRAPH>>[49] U.S. EPA Title 49,  CFR  Part 171,  Hazardous Materials Regulations, General Information & Regulations —
+Section 171.8,  Definitions and Abbreviations<<PARAGRAPH_END>>
+<<PARAGRAPH>>[50] U.S. EPA Title 49,  CFR  Part 172,  Hazardous Materials Table, Special Provisions, Hazardous Materials
+Communication, ER and Training<<PARAGRAPH_END>>
+<<PARAGRAPH>>[51] U.S. EPA menu of BMPs for storm water<<PARAGRAPH_END>>
+<<PARAGRAPH>>[52] U.S. FWS   26 /NMFS   27  Title 50,  CFR  Part 402,  Interagency Cooperation Endangered Species Act of 1973, as
+Amended —(7  USC  136 and 16  USC  1531)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[53] U.S. NRC Title 10,  CFR  Part 20  28 ,  Standards for Protection Against Radiation —Sections 20.1301 and
+20.1302<<PARAGRAPH_END>>
+<<PARAGRAPH>>24  NOAA Fisheries Service, 1315 East West Highway, Silver Spring, MD 20910, www.nmfs.noaa.gov
+25  U.S. Environmental Protection Agency, Ariel Rios Building, 1200 Pennsylvania Avenue, NW, Washington, DC 20460,
+www.epa.gov.
+26  U.S. Department of the Interior, U.S. Fish and Wildlife Service, 1849 C Street, NW, Washington, DC 20240, www.fws.gov.
+27  U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service, 1315
+East West Highway, Silver Spring, Maryland 20910, www.nmfs.noaa.gov.
+28  U.S. Nuclear Regulatory Commission, 11545 Rockville Pike, Rockville, Maryland 20852,  www.nrc.gov.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_53>>
+<<HEADING level=1>>Check out more of API’s certification and training programs, standards, statistics and publications.
+EXPLORE<<HEADING_END>>
+<<HEADING level=1>>SOME MORE<<HEADING_END>>
+<<HEADING level=3>>API Monogram ™ Licensing Program<<HEADING_END>>
+<<HEADING level=3>>API-U ®<<HEADING_END>>
+<<HEADING level=3>>API Engine Oil Licensing and
+Certification System (EOLCS ™ )<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+certification@api.org
+Web:
+www.api.org/monogram<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+training@api.org
+Web:
+www.api-u.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+eolcs@api.org
+Web:
+www.api.org/eolcs<<PARAGRAPH_END>>
+<<HEADING level=3>>API Quality Registrar (APIQR ™ )<<HEADING_END>>
+<<HEADING level=3>>API eMaintenance ™<<HEADING_END>>
+<<HEADING level=3>>Motor Oil Matters ™<<HEADING_END>>
+<<PARAGRAPH>>• ISO 9001
+• ISO/TS 29001
+• ISO 1 40 01
+• OHSAS 18001
+• API Spec Q1 ®<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+apiemaint@api.org
+Web:
+www.apiemaintenance.com<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+motoroilmatters@api.org
+Web:
+www.motoroilmatters.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>• API Spec Q2 ™<<PARAGRAPH_END>>
+<<PARAGRAPH>>• API Quality Plus ™<<PARAGRAPH_END>>
+<<PARAGRAPH>>• Dual Registration<<PARAGRAPH_END>>
+<<HEADING level=3>>API Standards<<HEADING_END>>
+<<HEADING level=3>>API Diesel Exhaust Fluid ™<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+certification@api.org
+Web:
+www.api.org/apiqr<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+standards@api.org
+Web:
+www.api.org/standards<<PARAGRAPH_END>>
+<<HEADING level=3>>Certification Program<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+apidef@api.org
+Web:
+www.apidef.org<<PARAGRAPH_END>>
+<<HEADING level=3>>API Data ™<<HEADING_END>>
+<<HEADING level=3>>API Training Provider Certification
+Program (API TPCP ® )<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Service:
+(+1) 202-682-8042
+Email:
+data@api.org
+Web:
+www.api.org/data<<PARAGRAPH_END>>
+<<HEADING level=3>>API Perforator Design ™<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+tpcp@api.org
+Web:
+www.api.org/tpcp<<PARAGRAPH_END>>
+<<HEADING level=3>>Registration Program<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+perfdesign@api.org
+Web:
+www.api.org/perforators<<PARAGRAPH_END>>
+<<HEADING level=3>>API Individual Certification
+Programs (ICP ™ )<<HEADING_END>>
+<<HEADING level=3>>API Publications<<HEADING_END>>
+<<PARAGRAPH>>Phone:
+1-800-854-7179
+(Toll-free U.S. and Canada)
+(+1) 303-397-7956
+(Local and International)
+Fax:
+(+1) 303-397-2740
+Web:
+www.api.org/pubs
+global.ihs.com<<PARAGRAPH_END>>
+<<HEADING level=3>>API WorkSafe ™<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+icp@api.org
+Web:
+www.api.org/icp<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+apiworksafe@api.org
+Web:
+www.api.org/worksafe<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_54>>
+<<HEADING level=3>>Product No. D11691<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 54
+<<SECTION_END>>
+<<DOCUMENT_END>>

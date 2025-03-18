@@ -1,0 +1,5561 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Guidelines for a Material Verification\nProgram (MVP) for New and\nExisting Assets",
+          "bbox": [
+            108.0,
+            157.5,
+            506.49,
+            236.22
+          ],
+          "block_id": "b1_0",
+          "font_size": 24.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "API RECOMMENDED PRACTICE 578\nTHIRD EDITION, FEBRUARY 2018",
+          "bbox": [
+            108.0,
+            320.71,
+            345.18,
+            352.27
+          ],
+          "block_id": "b1_1",
+          "font_size": 14.0,
+          "is_bold": false,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Special Notes",
+          "bbox": [
+            48.0,
+            87.12,
+            125.24,
+            100.51
+          ],
+          "block_id": "b2_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "API publications necessarily address problems of a general nature. With respect to particular circumstances, local,\nstate, and federal laws and regulations should be reviewed.",
+          "bbox": [
+            48.0,
+            117.65,
+            552.07,
+            140.76
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Neither API nor any of API's employees, subcontractors, consultants, committees, or other assignees make any\nwarranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the\ninformation contained herein, or assume any liability or responsibility for any use, or the results of such use, of any\ninformation or process disclosed in this publication. Neither API nor any of API\u2019s employees, subcontractors,\nconsultants, or other assignees represent that use of this publication would not infringe upon privately owned rights.",
+          "bbox": [
+            48.0,
+            153.65,
+            552.1,
+            212.76
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "API publications may be used by anyone desiring to do so. Every effort has been made by the Institute to assure the\naccuracy and reliability of the data contained in them; however, the Institute makes no representation, warranty, or\nguarantee in connection with this publication and hereby expressly disclaims any liability or responsibility for loss or\ndamage resulting from its use or for the violation of any authorities having jurisdiction with which this publication may\nconflict.",
+          "bbox": [
+            48.0,
+            225.64,
+            552.09,
+            284.76
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "API publications are published to facilitate the broad availability of proven, sound engineering and operating\npractices. These publications are not intended to obviate the need for applying sound engineering judgment\nregarding when and where these publications should be utilized. The formulation and publication of API publications\nis not intended in any way to inhibit anyone from using any other practices.",
+          "bbox": [
+            48.0,
+            297.64,
+            552.12,
+            344.76
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard\nis solely responsible for complying with all the applicable requirements of that standard. API does not represent,\nwarrant, or guarantee that such products do in fact conform to the applicable API standard.",
+          "bbox": [
+            48.0,
+            357.64,
+            552.09,
+            392.76
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Classified areas may vary depending on the location, conditions, equipment, and substances involved in any given\nsituation. Users of this recommended practice should consult with the appropriate authorities having jurisdiction.",
+          "bbox": [
+            48.0,
+            405.64,
+            552.08,
+            428.76
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Users of this recommended practice should not rely exclusively on the information contained in this document. Sound\nbusiness, scientific, engineering, and safety judgment should be used in employing the information contained herein.",
+          "bbox": [
+            48.0,
+            441.64,
+            552.1,
+            464.76
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "API is not undertaking the meet the duties of employers, manufacturers, or suppliers to warn and properly train and\nequip their employees, and others exposed, concerning health and safety risks and precautions, nor undertaking their\nobligations to comply with authorities having jurisdiction.",
+          "bbox": [
+            48.0,
+            477.64,
+            552.07,
+            512.76
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Information concerning safety and health risks and proper precautions with respect to particular materials and\nconditions should be obtained from the employer, the manufacturer, or supplier of that material, or the material safety\ndata sheet.",
+          "bbox": [
+            48.0,
+            525.64,
+            552.14,
+            560.75
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Work sites and equipment operations may differ. Users are solely responsible for assessing their specific equipment\nand premises in determining the appropriateness of applying the recommended practice. At all times users should\nemploy sound business, scientific, engineering, and judgment safety when using this recommended practice.",
+          "bbox": [
+            48.0,
+            573.64,
+            552.13,
+            608.75
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "All rights reserved. No part of this work may be reproduced, translated, stored in a retrieval system, or transmitted by any means,\nelectronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher. Contact the\nPublisher, API Publishing Services, 1220 L Street, NW, Washington, DC 20005.",
+          "bbox": [
+            49.92,
+            663.86,
+            552.64,
+            695.92
+          ],
+          "block_id": "b2_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 2018 American Petroleum Institute",
+          "bbox": [
+            208.2,
+            707.9,
+            391.86,
+            717.94
+          ],
+          "block_id": "b2_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Foreword",
+          "bbox": [
+            48.0,
+            87.12,
+            101.77,
+            100.51
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the\nmanufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything\ncontained in the publication be construed as insuring anyone against liability for infringement of letters patents.",
+          "bbox": [
+            48.0,
+            117.65,
+            552.07,
+            152.76
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Shall: As used in a standard, \u201cshall\u201d denotes a minimum requirement in order to conform to the specification.",
+          "bbox": [
+            48.0,
+            165.65,
+            515.0,
+            176.76
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Should: As used in a standard, \u201cshould\u201d denotes a recommendation or that which is advised but not required in order\nto conform to the specification.",
+          "bbox": [
+            48.0,
+            189.65,
+            552.05,
+            212.76
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "May: As used in a standard, \u201cmay\u201d denotes a course of action permissible within the limits of a standard.",
+          "bbox": [
+            48.0,
+            225.64,
+            496.97,
+            236.76
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Can: As used in a standard, \u201ccan\u201d denotes a statement of possibility or capability.",
+          "bbox": [
+            48.0,
+            249.64,
+            396.79,
+            260.76
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This document was produced under API standardization procedures that ensure appropriate notification and\nparticipation in the developmental process and is designated as an API standard. Questions concerning the\ninterpretation of the content of this publication or comments and questions concerning the procedures under which\nthis publication was developed should be directed in writing to the Director of Standards, American Petroleum\nInstitute, 1220 L Street, NW, Washington, D.C. 20005. Requests for permission to reproduce or translate all or any\npart of the material published herein should also be addressed to the director.",
+          "bbox": [
+            48.0,
+            273.64,
+            552.11,
+            344.76
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Generally, API standards are reviewed and revised, reaffirmed, or withdrawn at least every five years. A one-time\nextension of up to two years may be added to this review cycle. Status of the publication can be ascertained from the\nAPI Standards Department, telephone (202) 682-8000. A catalog of API publications and materials is published\nannually and updated quarterly by API, 1220 L Street, NW, Washington, D.C. 20005.",
+          "bbox": [
+            48.0,
+            357.64,
+            552.1,
+            404.76
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Suggested revisions are invited and should be submitted to the Standards Department, API, 1220 L Street, NW,\nWashington, D.C. 20005,   standards@api.org .",
+          "bbox": [
+            48.0,
+            417.64,
+            552.02,
+            440.76
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iii",
+          "bbox": [
+            291.48,
+            742.12,
+            296.61,
+            751.02
+          ],
+          "block_id": "b3_9",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Contents",
+          "bbox": [
+            60.0,
+            93.12,
+            111.16,
+            106.51
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Page",
+          "bbox": [
+            544.02,
+            124.12,
+            562.43,
+            133.02
+          ],
+          "block_id": "b5_1",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\nScope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1\n1.1\nPurpose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1\n1.2\nAbout this Document . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1\n1.3\nSupersedes Notice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1",
+          "bbox": [
+            60.0,
+            141.65,
+            564.13,
+            188.76
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nNormative References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1",
+          "bbox": [
+            60.0,
+            195.65,
+            564.06,
+            206.76
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3\nTerms, Definitions, and Acronyms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2\n3.1\nDefinitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2\n3.2\nAcronyms. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3",
+          "bbox": [
+            60.0,
+            213.65,
+            564.09,
+            248.76
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4\nConsiderations and General Concerns. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n4.1\nCarbon Steel Substitutions in Low-alloy Steel Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n4.2\nAlloy Substitutions for Carbon Steel. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n4.3\nStainless Steel and Nonferrous Substitutions Within High-alloy Systems. . . . . . . . . . . . . . . . . . . . . . . 4\n4.4\nResidual Elements in Carbon Steels in Hydrofluoric Acid Alkylation Units . . . . . . . . . . . . . . . . . . . . . . 4\n4.5\nProcess Units Susceptible to Sulfidation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n4.6\nGasket Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5\n4.7\nRefractory Installation Systems (Anchors). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5",
+          "bbox": [
+            60.0,
+            255.64,
+            564.08,
+            350.76
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nMaterial Verification Programs  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5\n5.1\nGeneral. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5\n5.2\nAsset Components Included in a Material Verification Program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5\n5.3\nMill Test Reports and Usage in an MVP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6\n5.4\nRoles and Responsibilities  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6\n5.5\nNew Construction MVP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6\n5.6\nExisting Installed Assets MVP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7\n5.7\nMVP as an Element of Maintenance Systems  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8",
+          "bbox": [
+            60.0,
+            357.64,
+            564.09,
+            452.76
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6\nPMI Methodology and Technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n6.1\nGeneral. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n6.2\nMVP Test Method Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n6.3\nPMI Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n6.4\nPersonnel Qualifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n6.5\nChemical Analysis Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10\n6.6\nSorting Analysis Techniques. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11\n6.7\nSpectrometer Technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11\n6.8\nSafety Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13",
+          "bbox": [
+            60.0,
+            459.64,
+            564.08,
+            566.76
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7\nEvaluation of Testing Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14\n7.1\nMaterial Acceptance Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14\n7.2\nFollow-up PMI after Discovery of a Nonconformity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14",
+          "bbox": [
+            60.0,
+            573.64,
+            564.05,
+            608.75
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8\nMaterials Identification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14\n8.1\nIdentification Process. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14\n8.2\nColor Coding/Marking. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n8.3\nMarking of Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15",
+          "bbox": [
+            60.0,
+            615.64,
+            564.07,
+            662.75
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9\nDocumentation and Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n9.1\nShop and Field PMI Documentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n9.2\nNew and Existing Equipment or System Documentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15\n9.3\nPMI Records  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15",
+          "bbox": [
+            60.0,
+            669.64,
+            564.08,
+            716.75
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "v",
+          "bbox": [
+            292.02,
+            742.12,
+            296.01,
+            751.02
+          ],
+          "block_id": "b5_11",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Contents",
+          "bbox": [
+            60.0,
+            93.12,
+            111.16,
+            106.51
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Page",
+          "bbox": [
+            544.02,
+            124.12,
+            562.43,
+            133.02
+          ],
+          "block_id": "b6_1",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Annex A (informative) Statistical Terminology. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17",
+          "bbox": [
+            60.0,
+            141.65,
+            564.05,
+            152.76
+          ],
+          "block_id": "b6_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Bibliography. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18",
+          "bbox": [
+            60.0,
+            159.65,
+            564.08,
+            170.76
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "vi",
+          "bbox": [
+            291.18,
+            742.12,
+            296.91,
+            751.02
+          ],
+          "block_id": "b6_4",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Guidelines for a Material Verification Program (MVP)\nfor New and Existing Assets",
+          "bbox": [
+            126.84,
+            82.7,
+            508.18,
+            121.47
+          ],
+          "block_id": "b8_1",
+          "font_size": 16.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1\nScope",
+          "bbox": [
+            72.0,
+            156.38,
+            131.38,
+            173.11
+          ],
+          "block_id": "b8_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1.1 Purpose",
+          "bbox": [
+            72.0,
+            182.2,
+            149.1,
+            197.59
+          ],
+          "block_id": "b8_3",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The purpose of this recommended practice (RP) is to provide guidelines for an owner/user to develop and\nimplement a material verification program (MVP) as part of an asset integrity program. The MVP uses\npositive material identification and other methods to verify that the nominal composition of an asset, an asset\ncomponent, or weldment within the pressure envelope is consistent with the selected or specified\nconstruction materials.",
+          "bbox": [
+            71.98,
+            207.06,
+            557.15,
+            266.29
+          ],
+          "block_id": "b8_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A well-designed and well-implemented MVP is an important management system used to minimize the\npotential for release of hazardous substances due to nonconforming materials of construction.",
+          "bbox": [
+            71.98,
+            276.55,
+            557.08,
+            301.33
+          ],
+          "block_id": "b8_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.2 About this Document",
+          "bbox": [
+            72.0,
+            311.08,
+            216.3,
+            326.47
+          ],
+          "block_id": "b8_6",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This recommended practice provides the guidelines for material verification programs involving ferrous and\nnonferrous alloys during the construction, installation, maintenance, and inspection of new and existing\nprocess equipment. It applies to metallic materials purchased for use either directly by the owner/user or\nindirectly through distributors, fabricators, or contractors, and includes the supply, fabrication, and installation\nof these materials.",
+          "bbox": [
+            71.98,
+            336.06,
+            557.16,
+            395.29
+          ],
+          "block_id": "b8_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This recommended practice is applicable to all refining and petrochemical industries, and may be applied in\nother industries and or businesses at the discretion of the owner/user. It is intended to be applied by any\nowner/user wishing to verify and/or validate that the materials of construction received, fabricated, and/or\ninstalled are in accordance with material and/or company specification(s).",
+          "bbox": [
+            71.98,
+            405.55,
+            557.14,
+            453.26
+          ],
+          "block_id": "b8_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.3 Supersedes Notice",
+          "bbox": [
+            72.0,
+            463.12,
+            201.06,
+            478.51
+          ],
+          "block_id": "b8_9",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This version of API RP 578 (third edition) supersedes and wholly replaces the second edition (2010) of API\nRP 578 ( Material Verification Program for New and Existing Alloy Piping Systems ). The third edition contains\nmany of the same paragraphs and language of the second edition, but it has been revised, reformatted, and\nre-visualized into a more encompassing document for all types of assets that may have an applicable\nmaterial verification program.",
+          "bbox": [
+            71.99,
+            487.98,
+            557.17,
+            547.33
+          ],
+          "block_id": "b8_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nNormative References",
+          "bbox": [
+            72.0,
+            562.82,
+            228.82,
+            579.55
+          ],
+          "block_id": "b8_11",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "There are no documents considered to be normative for the application of this document. A bibliography can\nbe found at the end of this document.",
+          "bbox": [
+            72.0,
+            589.02,
+            557.07,
+            613.8
+          ],
+          "block_id": "b8_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3\nTerms, Definitions, and Acronyms",
+          "bbox": [
+            72.0,
+            629.3,
+            290.14,
+            646.03
+          ],
+          "block_id": "b8_13",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1 Definitions",
+          "bbox": [
+            72.0,
+            655.12,
+            158.94,
+            670.51
+          ],
+          "block_id": "b8_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.1\nalloy material\nAny metallic material (including welding filler materials) that contains alloying elements, such as chromium,\nnickel, or molybdenum, that are intentionally added to enhance mechanical or physical properties and/or\ncorrosion resistance. Alloys may be ferrous or nonferrous.",
+          "bbox": [
+            72.0,
+            679.74,
+            557.13,
+            739.21
+          ],
+          "block_id": "b8_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "2\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b9_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.2\nasset\nProperty or equipment owned by a company that is either directly or indirectly involved with the\nmanufacturing process.",
+          "bbox": [
+            57.6,
+            63.78,
+            542.74,
+            111.85
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.3\ndistributor\nA warehousing supplier for manufacturers or suppliers of materials or components.",
+          "bbox": [
+            57.61,
+            121.75,
+            426.16,
+            158.29
+          ],
+          "block_id": "b9_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.4\nextent of examination\nThe specified percentage of the number of items to be examined in an inspection lot.",
+          "bbox": [
+            57.63,
+            168.31,
+            434.45,
+            204.85
+          ],
+          "block_id": "b9_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.5\nfabricator\nAn organization that utilizes the materials of construction affected by this recommended practice in order to\ncreate an asset.",
+          "bbox": [
+            57.6,
+            205.35,
+            542.72,
+            262.8
+          ],
+          "block_id": "b9_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.6\nheat\nA batch of metal made at the same time, able to be traced from its original constituents and manufacturing\nprocess.",
+          "bbox": [
+            57.6,
+            272.82,
+            542.7,
+            320.77
+          ],
+          "block_id": "b9_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.7\ninspection lot\nA group of items or materials of the same type from a common source from which a sample is to be drawn\nfor examination.",
+          "bbox": [
+            57.61,
+            330.79,
+            542.74,
+            378.85
+          ],
+          "block_id": "b9_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE\nAn inspection lot does not include items from more than one heat.",
+          "bbox": [
+            57.6,
+            389.23,
+            369.7,
+            401.2
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.8\nlot size\nThe number of items available in the inspection lot at the time a representative sample is selected.",
+          "bbox": [
+            57.6,
+            411.3,
+            494.54,
+            447.84
+          ],
+          "block_id": "b9_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.9\nmaterial certifications (certificates of compliance)\nSee \u201cmill test report.\u201d",
+          "bbox": [
+            57.61,
+            457.74,
+            296.07,
+            494.29
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.10\nmaterial manufacturer\nAn organization that performs or supervises and directly controls one or more of the operations that affect\nthe chemical composition or mechanical properties of a metallic material.",
+          "bbox": [
+            57.63,
+            504.31,
+            542.74,
+            552.25
+          ],
+          "block_id": "b9_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.11\nmaterial nonconformance\nA positive material identification (PMI) result that does not conform with material specified.",
+          "bbox": [
+            57.64,
+            562.27,
+            458.46,
+            598.82
+          ],
+          "block_id": "b9_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.12\nmaterial supplier\nAn organization that supplies material furnished and certified by a material manufacturer, but does not\nperform any operation intended to alter the material properties required by the applicable material\nspecification.",
+          "bbox": [
+            57.65,
+            608.84,
+            542.8,
+            668.31
+          ],
+          "block_id": "b9_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.13\nmill test report (MTR)\nA quality assurance document used in the steelmaking industry that certifies a material\u2019s compliance with\nappropriate standards, including physical and chemical specifications, and applicable dimensions. The MTR\nalso includes a date of production and testing, and may include notation about method of fabrication.  A mill",
+          "bbox": [
+            57.66,
+            678.33,
+            542.83,
+            737.8
+          ],
+          "block_id": "b9_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n3",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b10_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "test report is also known as: certified mill test report, certified material test report, mill test certificate (MTC),\ninspection certificate, certificate of test, and by other names. However, MTR is the term that is used in this\ndocument.",
+          "bbox": [
+            71.98,
+            64.02,
+            557.14,
+            100.32
+          ],
+          "block_id": "b10_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.14\nowner/user\nThe organization that exercises control over the operation, engineering, inspection, repair, alteration,\npressure testing, and rating of the assets.",
+          "bbox": [
+            71.98,
+            110.34,
+            557.1,
+            158.29
+          ],
+          "block_id": "b10_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.15\npressure-containing components\nItems that form the pressure-containing envelope of the equipment system.",
+          "bbox": [
+            71.97,
+            168.31,
+            406.67,
+            204.85
+          ],
+          "block_id": "b10_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.16\npositive material identification (PMI)\nA physical evaluation or test of a material performed to confirm that the material that has been or will be\nplaced into service is consistent with what is specified by the owner/user. These evaluations or tests may\nprovide either qualitative or quantitative information that is sufficient to verify the composition.",
+          "bbox": [
+            71.98,
+            214.76,
+            557.15,
+            274.35
+          ],
+          "block_id": "b10_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.17\nrandom\nSelection process by which choices are made in an arbitrary and unbiased manner.",
+          "bbox": [
+            71.98,
+            284.37,
+            443.27,
+            320.79
+          ],
+          "block_id": "b10_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.18\nrepresentative sample\nOne or more items selected at random from the inspection lot that are to be examined to determine\nacceptability of the inspection lot.",
+          "bbox": [
+            71.98,
+            330.81,
+            557.06,
+            378.88
+          ],
+          "block_id": "b10_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.19\nstandard reference materials\nSample materials for which laboratory chemical analysis data are available and are used in demonstrating\nthe accuracy and reliability of a test instrument.",
+          "bbox": [
+            71.99,
+            388.78,
+            557.08,
+            436.84
+          ],
+          "block_id": "b10_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.20\nweld button (button)\na sample of welding filler material deposited on relevant base metal in order to provide basis for PMI of the\nfiller.",
+          "bbox": [
+            71.98,
+            446.86,
+            557.07,
+            494.81
+          ],
+          "block_id": "b10_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.2 Acronyms",
+          "bbox": [
+            72.0,
+            504.64,
+            158.94,
+            520.03
+          ],
+          "block_id": "b10_9",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "API\nAmerican Petroleum Institute",
+          "bbox": [
+            72.0,
+            529.5,
+            239.17,
+            542.76
+          ],
+          "block_id": "b10_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ASME American Society of Mechanical Engineers",
+          "bbox": [
+            72.0,
+            553.02,
+            300.84,
+            566.27
+          ],
+          "block_id": "b10_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ASTM  American Society of Testing and Materials",
+          "bbox": [
+            71.99,
+            576.53,
+            298.07,
+            589.79
+          ],
+          "block_id": "b10_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "LOQ\nlimit of quantitation",
+          "bbox": [
+            71.98,
+            600.05,
+            194.15,
+            613.3
+          ],
+          "block_id": "b10_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MTR\nmill test report",
+          "bbox": [
+            71.98,
+            623.44,
+            173.5,
+            636.7
+          ],
+          "block_id": "b10_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MVP\nmaterial verification program",
+          "bbox": [
+            71.97,
+            646.96,
+            236.85,
+            660.22
+          ],
+          "block_id": "b10_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NACE National Association of Corrosion Engineers",
+          "bbox": [
+            71.97,
+            670.47,
+            306.34,
+            683.73
+          ],
+          "block_id": "b10_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NCR\nnonconformance report",
+          "bbox": [
+            71.97,
+            693.99,
+            216.93,
+            707.25
+          ],
+          "block_id": "b10_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PFI\nPipe Fabrication Institute",
+          "bbox": [
+            71.96,
+            717.51,
+            220.76,
+            730.76
+          ],
+          "block_id": "b10_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "4\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b11_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PIP\nProcess Industry Practices",
+          "bbox": [
+            57.6,
+            64.02,
+            214.81,
+            77.28
+          ],
+          "block_id": "b11_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PMI\npositive material identification",
+          "bbox": [
+            57.6,
+            87.54,
+            227.03,
+            100.79
+          ],
+          "block_id": "b11_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4\nConsiderations and General Concerns",
+          "bbox": [
+            57.6,
+            116.42,
+            299.62,
+            133.15
+          ],
+          "block_id": "b11_3",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1 Carbon Steel Substitutions in Low-alloy Steel Systems",
+          "bbox": [
+            57.6,
+            142.12,
+            373.12,
+            157.51
+          ],
+          "block_id": "b11_4",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When considering the likelihood of material nonconformances, it is worth noting that, historically, the greatest\nnumber of material nonconformances with serious consequences have involved placing unapproved carbon\nsteel components into low-alloy steel (e.g. 1\u00bcCr-\u00bdMo, 2\u00bcCr-1Mo, 5Cr-\u00bdMo, 9Cr-1Mo) piping systems.",
+          "bbox": [
+            57.6,
+            166.98,
+            542.76,
+            203.28
+          ],
+          "block_id": "b11_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2 Alloy Substitutions for Carbon Steel",
+          "bbox": [
+            57.6,
+            213.16,
+            276.42,
+            228.55
+          ],
+          "block_id": "b11_6",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When determining the need to perform material verification on carbon steel, the owner/user should evaluate\nthe effect that the process stream could have on substituted materials. In some cases, the substitution of\nhardenable alloy materials for carbon steel has resulted in failure and loss of containment. Examples of such\nsystems include those handling wet hydrogen sulfide (H 2 S), hydrofluoric acid (HF), or sulfuric acid (H 2 SO 4 ).\nWhere material substitution could lead to failure and/or loss of containment, the extent of verification should\nbe planned and/or increased in order to foster effectiveness, as well as validate the materials specified for\nuse.",
+          "bbox": [
+            57.59,
+            238.02,
+            542.77,
+            320.29
+          ],
+          "block_id": "b11_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.3 Stainless Steel and Nonferrous Substitutions Within High-alloy Systems",
+          "bbox": [
+            57.6,
+            330.16,
+            470.81,
+            345.55
+          ],
+          "block_id": "b11_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "There is an assortment of stainless steels with varying compositions and varying corrosion resistances to\ndifferent process streams. PMI should be considered by the owner/user depending upon the level of risk\n(probability and consequence of failure) based upon the potential damage mechanisms and damage rates\nassociated with the installation of an unapproved high alloy during fabrication and installation. Examples of\nthese situations include the substitution of stainless steels for Alloy 400 in HF Alkylation services, the\nsubstitution of a nonstabilized grade of stainless steel for a stabilized grade in a high-temperature service, or\nsubstitution of Type 304 SS for Type 316 SS where the molybdenum content is important for corrosion\nresistance.",
+          "bbox": [
+            57.6,
+            355.02,
+            542.79,
+            448.82
+          ],
+          "block_id": "b11_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.4 Residual Elements in Carbon Steels in Hydrofluoric Acid Alkylation Units",
+          "bbox": [
+            57.6,
+            458.68,
+            469.63,
+            474.07
+          ],
+          "block_id": "b11_10",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Carbon steels in some specific locations in HF acid service can experience increased corrosion rates based\non the residual element (RE) content in the steels; e.g. Cr, Ni, Cu  (refer to  API RP 751). PMI methods can\nbe used to assess the suitability of materials for HF service. Consideration should be given to the ability\nand/or accuracy of the PMI method to detect the various elemental concentrations, which are miniscule in\ncomparison to the bulk analysis.",
+          "bbox": [
+            57.59,
+            483.54,
+            542.76,
+            542.77
+          ],
+          "block_id": "b11_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.5 Process Units Susceptible to Sulfidation",
+          "bbox": [
+            57.6,
+            552.64,
+            299.22,
+            568.03
+          ],
+          "block_id": "b11_12",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Carbon steels with low silicon (Si < 0.10%) content can corrode at a greater rate than carbon steels with\nhigher silicon (Si > 0.10%) content when exposed to hydrogen \u2010 free sulfidation conditions. These phenomena\nare discussed more extensively in API RP 571 and API RP 939-C. Owner/users with assets at risk from this\ntype of degradation should consider the risks and the requirements needed to apply PMI material control in\norder to verify silicon levels and the effect on predicted corrosion rate. Alternatively, the owner/user may\nwant to consider locating and conducting thickness measurements on all potentially susceptible carbon steel\nmaterials in a circuit exposed to hot sulfidation in order to determine if low-silicon components originally\ninstalled may be resulting in higher corrosion rates than the rest of a piping circuit.",
+          "bbox": [
+            57.59,
+            568.24,
+            542.76,
+            671.54
+          ],
+          "block_id": "b11_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.6 Gasket Materials",
+          "bbox": [
+            57.6,
+            681.28,
+            175.14,
+            696.67
+          ],
+          "block_id": "b11_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Gaskets in incompatible service may result in premature failures. The principles outlined in this document\ncan be applied to gasket materials. The owner/user should define the material control methods to be used.\nThe actual test procedures may be complex due to the construction of the gasket.",
+          "bbox": [
+            57.6,
+            706.26,
+            542.75,
+            742.44
+          ],
+          "block_id": "b11_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n5",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b12_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.7 Refractory Installation Systems (Anchors)",
+          "bbox": [
+            72.0,
+            63.64,
+            327.54,
+            79.03
+          ],
+          "block_id": "b12_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Testing to verify that the refractory anchors match specifications should be considered by the owner/user.\nMaterial specifications and maximum design temperatures for selected materials are discussed in API\nStd 560.",
+          "bbox": [
+            72.0,
+            88.5,
+            557.17,
+            124.8
+          ],
+          "block_id": "b12_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nMaterial Verification Programs",
+          "bbox": [
+            72.0,
+            140.42,
+            268.78,
+            157.15
+          ],
+          "block_id": "b12_3",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1 General",
+          "bbox": [
+            72.0,
+            166.12,
+            142.99,
+            181.51
+          ],
+          "block_id": "b12_4",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The owner/user shall establish a written material verification program indicating the extent and type of PMI to\nbe conducted during the construction of new assets, retroactively on existing assets, and during the\nmaintenance, repair, or alteration of existing assets.",
+          "bbox": [
+            72.0,
+            190.98,
+            557.1,
+            227.28
+          ],
+          "block_id": "b12_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For higher-risk systems, the owner/user should consider the need for employing a higher extent of in-process\nand final examination (up to 100 %) rather than random sampling, which may be more appropriate for lower-\nrisk systems. The owner/user should also consider the need to conduct examinations after fabrication is\ncomplete at the point-of installation, to provide assurance that inadvertent substitutions did not occur.",
+          "bbox": [
+            71.99,
+            237.54,
+            557.16,
+            285.25
+          ],
+          "block_id": "b12_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2 Asset Components Included in a Material Verification Program",
+          "bbox": [
+            72.0,
+            295.12,
+            428.58,
+            310.51
+          ],
+          "block_id": "b12_7",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Examples of pressure-containing components exposed to process conditions that are found in equipment\nand systems that may require an MVP or PMI include but are not limited to:",
+          "bbox": [
+            72.0,
+            319.98,
+            557.15,
+            344.76
+          ],
+          "block_id": "b12_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 pipe lengths;",
+          "bbox": [
+            72.01,
+            355.02,
+            149.54,
+            368.28
+          ],
+          "block_id": "b12_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 pipe fittings, such as tees, elbows, reducers, caps, special pipe components, blinds, and plugs;",
+          "bbox": [
+            72.01,
+            378.54,
+            511.94,
+            391.79
+          ],
+          "block_id": "b12_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 flanges;",
+          "bbox": [
+            72.01,
+            402.05,
+            127.82,
+            415.31
+          ],
+          "block_id": "b12_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 forgings;",
+          "bbox": [
+            72.01,
+            425.45,
+            131.17,
+            438.7
+          ],
+          "block_id": "b12_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 valves\u2014process valves, control valves, relief valves;",
+          "bbox": [
+            72.0,
+            448.96,
+            325.08,
+            462.22
+          ],
+          "block_id": "b12_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 pressure-containing welds;",
+          "bbox": [
+            71.99,
+            472.48,
+            211.68,
+            485.73
+          ],
+          "block_id": "b12_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 instrumentation (all pressure-containing parts);",
+          "bbox": [
+            71.99,
+            495.99,
+            298.92,
+            509.25
+          ],
+          "block_id": "b12_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 weld overlays, liners, and cladding;",
+          "bbox": [
+            71.99,
+            519.51,
+            247.79,
+            532.77
+          ],
+          "block_id": "b12_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 bolting;",
+          "bbox": [
+            71.99,
+            543.02,
+            125.04,
+            556.28
+          ],
+          "block_id": "b12_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 expansion joints and bellows;",
+          "bbox": [
+            71.99,
+            566.42,
+            222.83,
+            579.68
+          ],
+          "block_id": "b12_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 gaskets;",
+          "bbox": [
+            71.99,
+            589.94,
+            129.96,
+            603.19
+          ],
+          "block_id": "b12_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 rotating equipment pressure-containing components.",
+          "bbox": [
+            71.99,
+            613.45,
+            329.03,
+            626.71
+          ],
+          "block_id": "b12_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3 Mill Test Reports and Usage in an MVP",
+          "bbox": [
+            72.0,
+            636.64,
+            304.98,
+            652.03
+          ],
+          "block_id": "b12_21",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mill test reports should not be considered a substitute for PMI because these type of documents have\nhistorically not always been accurate. However, mill test reports are an important part of an overall material\nquality assurance program.",
+          "bbox": [
+            72.0,
+            661.5,
+            557.13,
+            697.8
+          ],
+          "block_id": "b12_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "6\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b13_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4 Roles and Responsibilities",
+          "bbox": [
+            57.6,
+            63.64,
+            227.7,
+            79.03
+          ],
+          "block_id": "b13_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A material verification program may involve participation of several groups within the operating plant or the\nshop of a contractor, distributor, or fabricator. When establishing a material verification program,\nconsideration should be given to the roles and responsibilities that each group has within the specific\norganization. These roles and responsibilities should be clearly defined and documented. In the operating\nplant, this can include those groups responsible for purchasing, engineering, warehousing/receiving,\noperations, reliability, maintenance, and inspection.",
+          "bbox": [
+            57.6,
+            88.5,
+            542.76,
+            159.26
+          ],
+          "block_id": "b13_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The owner/user or designee should specify the:",
+          "bbox": [
+            57.6,
+            169.51,
+            270.49,
+            182.77
+          ],
+          "block_id": "b13_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nextent of examination of new construction and existing assets, with consideration for the number of\nitems to be examined;",
+          "bbox": [
+            57.6,
+            193.03,
+            542.72,
+            217.81
+          ],
+          "block_id": "b13_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nacceptable method(s) of examination;",
+          "bbox": [
+            57.6,
+            228.07,
+            247.21,
+            241.33
+          ],
+          "block_id": "b13_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nlocations for examination, if applicable;",
+          "bbox": [
+            57.6,
+            251.47,
+            252.25,
+            264.72
+          ],
+          "block_id": "b13_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nexamination results acceptance criteria;",
+          "bbox": [
+            57.6,
+            274.98,
+            256.09,
+            288.24
+          ],
+          "block_id": "b13_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\ntiming of examination in the work process;",
+          "bbox": [
+            57.6,
+            298.5,
+            266.65,
+            311.75
+          ],
+          "block_id": "b13_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)\nprocess for managing material nonconformances;",
+          "bbox": [
+            57.6,
+            322.01,
+            300.01,
+            335.27
+          ],
+          "block_id": "b13_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "g)\nqualification requirements for personnel performing PMI;",
+          "bbox": [
+            57.6,
+            345.53,
+            329.53,
+            358.78
+          ],
+          "block_id": "b13_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "h)\nmethod of documenting/identifying items that are acceptable for service.",
+          "bbox": [
+            57.6,
+            369.04,
+            398.88,
+            382.3
+          ],
+          "block_id": "b13_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5 New Construction MVP",
+          "bbox": [
+            57.6,
+            392.08,
+            208.63,
+            407.47
+          ],
+          "block_id": "b13_12",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "General\n5.5.1",
+          "bbox": [
+            57.6,
+            416.82,
+            133.44,
+            430.7
+          ],
+          "block_id": "b13_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This section addresses the fabrication stage, either in the shop or in the field, prior to the items being placed\ninto service.",
+          "bbox": [
+            57.6,
+            440.46,
+            542.72,
+            465.24
+          ],
+          "block_id": "b13_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Material Verification Test Procedure Review\n5.5.2",
+          "bbox": [
+            57.6,
+            475.26,
+            304.06,
+            489.14
+          ],
+          "block_id": "b13_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The owner/user or designee should review and approve the material verification program and the testing\nprocedure(s) of the fabricator, material supplier, or third-party agency prior to testing.",
+          "bbox": [
+            57.6,
+            499.01,
+            542.76,
+            523.79
+          ],
+          "block_id": "b13_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Timing of Material Verification Testing\n5.5.3",
+          "bbox": [
+            57.6,
+            533.81,
+            277.31,
+            547.7
+          ],
+          "block_id": "b13_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PMI should be performed at the point in time that helps ensure proper materials have been used in the\nfabrication of an assembly.",
+          "bbox": [
+            57.6,
+            557.45,
+            542.71,
+            582.23
+          ],
+          "block_id": "b13_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PMI of Components Supplied by a Distributor\n5.5.4",
+          "bbox": [
+            57.6,
+            592.25,
+            311.77,
+            606.13
+          ],
+          "block_id": "b13_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A higher degree of PMI should be conducted on materials supplied by stocking distributors due to the\npotential for unapproved material substitutions as a result of frequent handling by a number of parties.",
+          "bbox": [
+            57.6,
+            616.0,
+            542.76,
+            640.78
+          ],
+          "block_id": "b13_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.6 Existing Installed Assets MVP",
+          "bbox": [
+            57.6,
+            650.68,
+            244.26,
+            666.07
+          ],
+          "block_id": "b13_21",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "General\n5.6.1",
+          "bbox": [
+            57.6,
+            675.3,
+            130.57,
+            689.18
+          ],
+          "block_id": "b13_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This section addresses assets that are already in service where the material verification program procedures\nfor the construction are not documented or not completed according to this RP. It is important to recognize",
+          "bbox": [
+            57.6,
+            699.06,
+            542.74,
+            723.72
+          ],
+          "block_id": "b13_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 14,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n7",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b14_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "that previous maintenance activities, as well as new construction practices, may influence the likelihood of\nunapproved materials substitutions.",
+          "bbox": [
+            72.0,
+            64.02,
+            557.12,
+            88.8
+          ],
+          "block_id": "b14_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Prioritizing Assets for Retroactive PMI\n5.6.2",
+          "bbox": [
+            72.0,
+            98.82,
+            292.18,
+            112.7
+          ],
+          "block_id": "b14_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.6.2.1\nGeneral Factors to Consider",
+          "bbox": [
+            72.0,
+            122.22,
+            256.33,
+            136.1
+          ],
+          "block_id": "b14_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "If the owner/user elects to prioritize equipment or systems for the material verification program or needs to\ndetermine whether PMI is needed at all, the owner/user should consider the following:",
+          "bbox": [
+            72.0,
+            145.97,
+            557.14,
+            170.75
+          ],
+          "block_id": "b14_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nLikelihood of unapproved material substitutions during previous projects and maintenance activities: The\neffectiveness of the material verification program when these activities occurred is an important\nconsideration.",
+          "bbox": [
+            72.0,
+            181.01,
+            557.16,
+            217.31
+          ],
+          "block_id": "b14_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nConsequences of a failure due to improper material being installed: Flammability and potential for\nspreading fire, toxicity, proximity to other equipment or community, temperature, pressure, mode of\nfailure, and size of release should be considered.",
+          "bbox": [
+            71.99,
+            227.45,
+            557.13,
+            263.76
+          ],
+          "block_id": "b14_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nReason for a specific material specification (i.e. corrosion resistance or product purity): This refers to the\ncriticality of the material of choice.",
+          "bbox": [
+            71.99,
+            274.02,
+            557.14,
+            298.8
+          ],
+          "block_id": "b14_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nHistorical data relating to unapproved material substitutions: This may be related to previous experience\nwith material nonconformities in the process unit/operating plant or within published information\navailable within the company and industry.",
+          "bbox": [
+            71.99,
+            309.06,
+            557.14,
+            345.24
+          ],
+          "block_id": "b14_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Taken together, these factors can be used to determine the risk associated with possible material\nnonconformances in an asset.",
+          "bbox": [
+            71.98,
+            355.5,
+            557.12,
+            380.28
+          ],
+          "block_id": "b14_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The owner/user should establish a methodology for estimating the relative priority for PMI within a given unit.\nThis methodology may be based on a qualitative or quantitative risk analysis. API RP 580 discusses risk-\nbased approaches and what should be considered when conducting a risk analysis (such as material,\nservice conditions, service fluid, and mode of failure). The owner/user may also want to consider the\nopportunity to conduct PMI relative to upcoming planned maintenance opportunities (e.g. outages,\nturnarounds).",
+          "bbox": [
+            71.98,
+            390.54,
+            557.16,
+            461.29
+          ],
+          "block_id": "b14_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.6.2.2\nSite-specific Factors to Consider",
+          "bbox": [
+            71.99,
+            471.31,
+            277.91,
+            485.2
+          ],
+          "block_id": "b14_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Site-specific and/or experienced-based factors should be considered when prioritizing equipment or piping\nsystems.",
+          "bbox": [
+            71.98,
+            495.07,
+            557.13,
+            519.73
+          ],
+          "block_id": "b14_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Construction and maintenance practices: In assessing the likelihood of material nonconformances, the\nowner/user should also consider the materials handling, material control, and any PMI procedures\nfollowed during construction of the process unit. Process-unit maintenance procedures are also\nimportant. Process units in which rigorous procedures for material verification are used would be\nexpected to have a lower likelihood of nonconformances.",
+          "bbox": [
+            71.98,
+            529.99,
+            557.13,
+            589.34
+          ],
+          "block_id": "b14_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Reason for alloy specification: In some cases, alloys are used in equipment systems for reasons other\nthan corrosion resistance or structural integrity. In these cases, the mechanical integrity of the system\nmay not be compromised by material nonconformances. A material verification program may not be\nnecessary in these systems. Two examples would be stainless steel lube oil systems in which stainless\nsteel is used for maintaining oil purity, or stainless steel in a chemical manufacturing process where\ncorrosion of carbon steel might cause product discoloration where any grade of stainless steel would be\nan acceptable substitution.",
+          "bbox": [
+            71.98,
+            599.48,
+            557.14,
+            681.76
+          ],
+          "block_id": "b14_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Based on experience, some types of components can have a higher likelihood of unapproved substitution of\na nonspecified material. This can provide a basis for prioritizing specific equipment in a given system or\nprocess unit. Examples are:",
+          "bbox": [
+            71.97,
+            692.02,
+            557.09,
+            728.32
+          ],
+          "block_id": "b14_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 15,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "8\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b15_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 warm-up and bypass lines on pumps or check valves;",
+          "bbox": [
+            57.6,
+            64.02,
+            315.72,
+            77.28
+          ],
+          "block_id": "b15_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 small bore piping (2 NPS and below);",
+          "bbox": [
+            57.59,
+            87.54,
+            243.47,
+            100.79
+          ],
+          "block_id": "b15_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 valves, valve assemblies, and valve bonnets, and removable devices such as rupture disks, spacer\nblinds, blind flanges, plugs, or ring joint gaskets;",
+          "bbox": [
+            57.58,
+            111.05,
+            542.7,
+            135.83
+          ],
+          "block_id": "b15_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 thermowells;",
+          "bbox": [
+            57.57,
+            145.97,
+            134.5,
+            159.23
+          ],
+          "block_id": "b15_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 bolting;",
+          "bbox": [
+            57.57,
+            169.49,
+            110.62,
+            182.74
+          ],
+          "block_id": "b15_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 piping as a part of a packaged system;",
+          "bbox": [
+            57.57,
+            193.0,
+            249.58,
+            206.26
+          ],
+          "block_id": "b15_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 components without recognized marking;",
+          "bbox": [
+            57.57,
+            216.52,
+            260.14,
+            229.77
+          ],
+          "block_id": "b15_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 process systems with history of frequent maintenance requirements;",
+          "bbox": [
+            57.57,
+            240.03,
+            383.01,
+            253.29
+          ],
+          "block_id": "b15_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 welds;",
+          "bbox": [
+            57.56,
+            263.55,
+            106.64,
+            276.81
+          ],
+          "block_id": "b15_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 threaded components.",
+          "bbox": [
+            57.55,
+            286.95,
+            180.56,
+            300.2
+          ],
+          "block_id": "b15_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.6.2.3\nFactors to Consider When Determining the Extent of PMI",
+          "bbox": [
+            57.55,
+            310.22,
+            379.52,
+            324.11
+          ],
+          "block_id": "b15_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Factors to consider when determining the extent of PMI for existing assets include:",
+          "bbox": [
+            57.55,
+            333.98,
+            425.6,
+            347.23
+          ],
+          "block_id": "b15_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nhistorical inspection and material verification program records;",
+          "bbox": [
+            57.55,
+            357.49,
+            354.92,
+            370.75
+          ],
+          "block_id": "b15_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nnumber of plant modifications;",
+          "bbox": [
+            57.55,
+            381.01,
+            213.79,
+            394.26
+          ],
+          "block_id": "b15_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nmaterials control during original construction, equipment modifications, and maintenance activities;",
+          "bbox": [
+            57.54,
+            404.4,
+            515.59,
+            417.66
+          ],
+          "block_id": "b15_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nmaterial verification program quality during construction and fabrication;",
+          "bbox": [
+            57.54,
+            427.92,
+            396.55,
+            441.18
+          ],
+          "block_id": "b15_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\nfailure mode and consequence of a loss of containment;",
+          "bbox": [
+            57.54,
+            451.43,
+            328.26,
+            464.69
+          ],
+          "block_id": "b15_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)\nlikelihood of corrosion/degradation.",
+          "bbox": [
+            57.53,
+            474.95,
+            238.25,
+            488.21
+          ],
+          "block_id": "b15_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.7 MVP as an Element of Maintenance Systems",
+          "bbox": [
+            57.6,
+            498.16,
+            322.98,
+            513.55
+          ],
+          "block_id": "b15_19",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "General\n5.7.1",
+          "bbox": [
+            57.6,
+            522.78,
+            130.57,
+            536.66
+          ],
+          "block_id": "b15_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The principles associated with materials verification as part of an installation of new equipment should also\nbe applied to provide confidence that proper materials are being installed as part of maintenance activities.\nThe concepts noted in 5.4 should be reviewed and applied as applicable to the maintenance function.",
+          "bbox": [
+            57.59,
+            546.54,
+            542.74,
+            582.72
+          ],
+          "block_id": "b15_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Responsibilities\n5.7.2",
+          "bbox": [
+            57.59,
+            592.74,
+            170.04,
+            606.62
+          ],
+          "block_id": "b15_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "It shall be the responsibility of the owner/user to evaluate maintenance systems so that material verification\nprograms can be designed and implemented to effectively support the mechanical integrity needs of assets.\nThe owner/user should establish a written procedure for the material verification program to be used for\nrepair of assets during maintenance and turnaround activities.",
+          "bbox": [
+            57.59,
+            616.49,
+            542.76,
+            664.32
+          ],
+          "block_id": "b15_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Control of Incoming Materials and Warehousing\n5.7.3",
+          "bbox": [
+            57.59,
+            674.22,
+            321.24,
+            688.11
+          ],
+          "block_id": "b15_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A material verification program should be directly applied to activities associated with receiving materials into\na warehouse system. PMI may be performed as part of this receiving function, or, when appropriate, may be\nperformed at the supplier\u2019s location as a condition of release for shipment. The material verification program",
+          "bbox": [
+            57.59,
+            697.98,
+            542.74,
+            734.28
+          ],
+          "block_id": "b15_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 16,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n9",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b16_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "that is adopted should provide for proper documentation and methods for indicating which materials have\nbeen tested and are approved for use.",
+          "bbox": [
+            72.0,
+            64.02,
+            557.14,
+            88.8
+          ],
+          "block_id": "b16_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The use of material verification program principles to check materials received into a warehouse system\nshould be regarded as a quality assurance practice to minimize the potential for discovering an alloy material\ndiscrepancy during subsequent PMI. PMI within the warehouse should not be regarded as an alternative to\nPMI of the fabricated assets when PMI is specified.",
+          "bbox": [
+            72.0,
+            99.06,
+            557.14,
+            146.77
+          ],
+          "block_id": "b16_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Maintenance Activities\n5.7.4",
+          "bbox": [
+            71.99,
+            156.79,
+            218.4,
+            170.67
+          ],
+          "block_id": "b16_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "There are a number of in-service maintenance activities where material verification should be established.\nSome examples include, but are not limited to:",
+          "bbox": [
+            71.99,
+            180.54,
+            557.15,
+            205.32
+          ],
+          "block_id": "b16_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nTemporary removal of piping spool pieces, including the removal of blind flanges used for access: These\nactivities need to be properly managed to minimize the potential for unapproved material substitutions.\nIncidents have occurred when same-size spool pieces were removed and reinstalled in the wrong\nlocations. Consideration should be given to a material control system, such as \u201ctagging\u201d spools as they\nare removed, or the use of PMI prior to reinstallation to prevent these incidences from occurring",
+          "bbox": [
+            71.99,
+            215.46,
+            557.16,
+            274.81
+          ],
+          "block_id": "b16_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nReplacement of small bore threaded pipe nipples and plugs, frequently found as drains and vents in\nprocess areas: An immediate need may necessitate the installation of nonconforming materials in a\ntemporary repair; it is important to recognize even small changes need to be documented and reported\nfor possible future follow-up.",
+          "bbox": [
+            71.98,
+            285.07,
+            557.14,
+            332.78
+          ],
+          "block_id": "b16_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nReplacement of welded-in valves:  Manufacturers/distributors may substitute low-alloy valves for carbon\nsteel valves in higher-temperature/pressure services, and if this is not communicated, the craftsmen\nmay end up using the incorrect welding procedure during installation. This error may produce cracks in\nthe new welds.",
+          "bbox": [
+            71.98,
+            343.04,
+            557.15,
+            390.75
+          ],
+          "block_id": "b16_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nIn turnaround situations where many heat exchangers in varying services are disassembled for cleaning,\ninspection, and repair: It is essential that all original components, or correct replacement components,\nare returned to the same exchanger during reassembly. An adequate marking and tracking system, as\nwell as PMI, can be utilized to assure the proper components are returned to the correct service.",
+          "bbox": [
+            71.98,
+            401.01,
+            557.15,
+            448.83
+          ],
+          "block_id": "b16_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\nWhen tower internals, such as tray parts (e.g. clips, tray flapper valves or bubble caps, and fasteners)\nare replaced, one may consider performing point-of-installation PMI (or other material control program)\nto assure the replacement parts are as specified.",
+          "bbox": [
+            71.98,
+            459.09,
+            557.14,
+            495.28
+          ],
+          "block_id": "b16_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "It is important that repair procedures include consideration of PMI. Much of this can be controlled through\nawareness of the issues at all levels within the repair process. Consulting with those involved with\nimplementing the programs where the repair will be performed, prior to commencement of work, can help\nensure that systems, processes, and activities are in place to provide material control and verification.",
+          "bbox": [
+            71.97,
+            505.54,
+            557.13,
+            553.37
+          ],
+          "block_id": "b16_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6\nPMI Methodology and Technology",
+          "bbox": [
+            72.0,
+            568.82,
+            290.02,
+            585.55
+          ],
+          "block_id": "b16_11",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1 General",
+          "bbox": [
+            72.0,
+            594.64,
+            146.1,
+            610.03
+          ],
+          "block_id": "b16_12",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A variety of PMI methods are available to determine the identity of alloy materials. The primary methods\ninclude portable spectroscopy and laboratory chemical analysis. A description of several test methods is\nlisted below.",
+          "bbox": [
+            72.0,
+            619.5,
+            557.13,
+            655.8
+          ],
+          "block_id": "b16_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In addition to these methods, there are a variety of alloy sorting techniques that may be appropriate for the\npurposes of this RP, including magnetic testing to differentiate between ferritic and austenitic materials. It is\nimportant that users define the objectives and accuracies required of the PMI tool they wish to apply. All of\nthe tools have benefits and limitations on the elements that can be detected, in addition to the accuracy and\nability to differentiate between different material grades that have only slight variations in alloying elements.\n(See Annex A.)",
+          "bbox": [
+            71.99,
+            666.06,
+            557.17,
+            736.82
+          ],
+          "block_id": "b16_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 17,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "10\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b17_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 MVP Test Method Objectives",
+          "bbox": [
+            57.6,
+            63.64,
+            238.01,
+            79.03
+          ],
+          "block_id": "b17_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The test methods outlined in this document are intended to identify materials and are not intended to\nestablish the exact conformance of a material to a particular specification. Depending on the test method\nselected, the method may only identify the nominal composition of materials. Identification of materials by\nvisual stamps/markings alone should not be considered as a substitute for PMI but may be an important\ncomponent of an overall quality assurance program.",
+          "bbox": [
+            57.59,
+            88.5,
+            542.74,
+            147.73
+          ],
+          "block_id": "b17_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3 PMI Procedure",
+          "bbox": [
+            57.6,
+            157.6,
+            167.7,
+            172.99
+          ],
+          "block_id": "b17_3",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The PMI procedure should identify and include:",
+          "bbox": [
+            57.6,
+            182.46,
+            269.41,
+            195.72
+          ],
+          "block_id": "b17_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the techniques to be applied;",
+          "bbox": [
+            57.6,
+            205.98,
+            209.04,
+            219.23
+          ],
+          "block_id": "b17_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 equipment calibration;",
+          "bbox": [
+            57.59,
+            229.49,
+            179.03,
+            242.75
+          ],
+          "block_id": "b17_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 qualification requirements for personnel conducting the PMI;",
+          "bbox": [
+            57.58,
+            253.01,
+            344.63,
+            266.26
+          ],
+          "block_id": "b17_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 surface preparation requirements;",
+          "bbox": [
+            57.58,
+            276.52,
+            228.46,
+            289.78
+          ],
+          "block_id": "b17_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 testing methodology applied;",
+          "bbox": [
+            57.57,
+            300.04,
+            205.66,
+            313.29
+          ],
+          "block_id": "b17_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 acceptance criteria; and",
+          "bbox": [
+            57.57,
+            323.43,
+            187.3,
+            336.69
+          ],
+          "block_id": "b17_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 documentation requirements.",
+          "bbox": [
+            57.57,
+            346.95,
+            207.94,
+            360.21
+          ],
+          "block_id": "b17_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4 Personnel Qualifications",
+          "bbox": [
+            57.6,
+            370.12,
+            219.66,
+            385.51
+          ],
+          "block_id": "b17_12",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Person(s) performing PMI should be knowledgeable about all aspects of operation of the PMI equipment and\nthe test method being applied. Qualifications of the person performing the test, including training and\nexperience, should be submitted for review and approval by the owner/user.",
+          "bbox": [
+            57.6,
+            394.98,
+            542.7,
+            431.28
+          ],
+          "block_id": "b17_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The owner/user is responsible to assure that all individuals performing PMI are trained and qualified in\naccordance with the applicable procedure used during the examination. Certification and qualification are two\nof the most effective methods to prove requirements are met.",
+          "bbox": [
+            57.6,
+            441.54,
+            542.74,
+            477.73
+          ],
+          "block_id": "b17_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.5 Chemical Analysis Techniques",
+          "bbox": [
+            57.6,
+            487.6,
+            252.18,
+            502.99
+          ],
+          "block_id": "b17_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Laboratory Chemical Analysis\n6.5.1",
+          "bbox": [
+            57.6,
+            512.22,
+            239.64,
+            526.1
+          ],
+          "block_id": "b17_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Owner/user-approved material analysis laboratories using X-ray emission spectrometry, optical emission\nspectrometry, or wet chemical analysis can provide the most accurate analytical results for all elements. The\naccuracy is typically much higher than is normally needed for PMI. Laboratory analysis may involve the\nremoval of significant amounts of material, and is typically slower than field PMI techniques.",
+          "bbox": [
+            57.6,
+            535.98,
+            542.74,
+            583.8
+          ],
+          "block_id": "b17_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Chemical Spot Testing\n6.5.2",
+          "bbox": [
+            57.6,
+            593.82,
+            203.87,
+            607.71
+          ],
+          "block_id": "b17_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The chemical spot test is typically accomplished by electrochemically removing a minute amount of surface\nmetal and depositing it onto moistened filter paper. Reagents dropped onto the paper produce distinct colors\nthat are indicative of the presence of specific elements in the sample tested. Chemical spot testing is much\nslower than the other field PMI methods, and interpretation is subjective.",
+          "bbox": [
+            57.6,
+            617.46,
+            542.72,
+            665.29
+          ],
+          "block_id": "b17_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 18,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n11",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b18_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.6 Sorting Analysis Techniques",
+          "bbox": [
+            72.0,
+            63.64,
+            256.15,
+            79.03
+          ],
+          "block_id": "b18_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Resistivity Testing\n6.6.1",
+          "bbox": [
+            72.0,
+            88.26,
+            198.97,
+            102.14
+          ],
+          "block_id": "b18_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The principle employed in this test method is known as the Seebeck effect, or thermoelectric principle. A\nheated junction of dissimilar metal is created when the heated probe [300 \u00b0F (150 \u00b0C)] and the metal being\ntested are in contact with each other. The voltage generated at this junction is representative of the\nchemistry and crystalline structure of the metal being tested. Every alloy of a given crystalline structure will\ngenerate the same voltage regardless of the geometry or size of the piece being tested or the pressure\napplied. By references to known standards, these instruments are capable of sorting and identifying a wide\nrange of ferrous and nonferrous materials. Alloy sorters have not proved to be consistently capable of sorting\nlow-alloy (< 5 % Cr) and austenitic stainless steels.",
+          "bbox": [
+            72.0,
+            112.02,
+            557.17,
+            205.82
+          ],
+          "block_id": "b18_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Other Techniques\n6.6.2",
+          "bbox": [
+            71.99,
+            215.84,
+            195.6,
+            229.72
+          ],
+          "block_id": "b18_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Techniques such as eddy-current sorting, electromagnetic alloy sorting, triboelectric testing (e.g. ferrite\nmeters), and thermoelectric testing are qualitative and as such may only be appropriate for limited sorting\napplications and not for specific alloy identification.",
+          "bbox": [
+            71.99,
+            239.47,
+            557.15,
+            275.78
+          ],
+          "block_id": "b18_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.7 Spectrometer Technology",
+          "bbox": [
+            72.0,
+            285.64,
+            240.79,
+            301.03
+          ],
+          "block_id": "b18_6",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Portable X-ray Fluorescence\n6.7.1",
+          "bbox": [
+            71.99,
+            310.26,
+            245.64,
+            324.14
+          ],
+          "block_id": "b18_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "There are several variants of portable X-ray fluorescence (XRF) spectrometers available. The principle of\noperation is that one or more gamma ray or X-ray sources are used to generate a beam of low-energy\nradiation to excite the material under analysis. The material under analysis then emits a characteristic\nradiation spectrum that can be analyzed both qualitatively and quantitatively to determine which elements\nare present and in what quantity. The results of this analysis can be reported in either of the following\nformats:",
+          "bbox": [
+            71.98,
+            334.02,
+            557.14,
+            404.77
+          ],
+          "block_id": "b18_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 as a match against one of many reference spectra stored in the instrument ( i.e. \u201c316 Stainless Steel\u201d or\n\u201c5 Cr \u2013\u00bdMo Steel\u201d); and/or",
+          "bbox": [
+            71.98,
+            415.03,
+            557.14,
+            439.81
+          ],
+          "block_id": "b18_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 each element present reported as a percentage (i.e. \u201cIron = 87.5 %\u201d or \u201cIron = 0.875\u201d as part of an entire\nelemental list that should be normalized against 100 %).",
+          "bbox": [
+            71.97,
+            450.07,
+            557.11,
+            474.73
+          ],
+          "block_id": "b18_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A number of PMI instruments are available. These instruments can have the sensitivity to determine the\nelemental levels that meet the ASTM limits. Advancements in XRF technology, such as 50KV, X-ray tubes,\nand silica drift detectors (SDD), allow the user to detect light elements down to very low concentrations in\nsteel substrates. For example, the latest generation of handheld X-ray fluorescence analyzers now measure\nlight elements (Mg, Al, Si, P, and S) to very low limits of detection (see Annex A) and can provide for field\nmeasurement of silicon in steel down to very low concentrations.",
+          "bbox": [
+            71.96,
+            484.99,
+            557.13,
+            555.74
+          ],
+          "block_id": "b18_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "These advancements in technology allow for accurate, nondestructive measurements to be conducted.\nHowever, to get this near-laboratory-quality measurement, significant care regarding surface preparation and\ncleanliness is required, as contamination of the prepared surface can lead to inaccurate results. Most assets\nare exposed to environments that promote surface corrosion and contamination, which can interfere with the\nanalysis. Typically, a small test area is prepared with a portable grinding disk (60 to 80 grit, minimum\nzirconium aluminum oxide disposable abrasive disk) to properly clean the sample location prior to analysis.",
+          "bbox": [
+            71.94,
+            566.0,
+            562.56,
+            636.76
+          ],
+          "block_id": "b18_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The inherent limitations of the technique mean it is not possible to detect all elements. XRF analyzers are\ncapable of detecting elements from magnesium (Mg) to Uranium (U) in the periodic tables. This excludes\nsome of the important elements in carbon steels, such as carbon and boron. It is important to define exactly\nwhat elemental analysis is required and select an appropriate instrument.",
+          "bbox": [
+            71.92,
+            647.02,
+            557.06,
+            694.85
+          ],
+          "block_id": "b18_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 19,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "12\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b19_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Portable Optical Emission Spectrometry\n6.7.2",
+          "bbox": [
+            57.6,
+            63.78,
+            287.29,
+            77.66
+          ],
+          "block_id": "b19_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In optical emission spectrometry (OES), an electric arc, spark, or laser stimulates atoms in the test sample to\nemit a characteristic spectrum of light for each element in the sample. The combined light spectra from\ndifferent elements are passed through a light guide to the optical analyzer. In the analyzer, the light is\ndispersed into its spectral components, and then measured and evaluated against stored calibration curves.",
+          "bbox": [
+            57.6,
+            87.54,
+            542.72,
+            135.24
+          ],
+          "block_id": "b19_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "These devices fall into three groups:",
+          "bbox": [
+            57.6,
+            145.5,
+            220.92,
+            158.76
+          ],
+          "block_id": "b19_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1)\nThe first is a lightweight, portable, and operator-evaluated device that can typically identify up to 16\nelements but depends upon operator evaluation of the light spectra. These devices do not directly\nindicate alloy grade or composition, but produce an output in the form of visible light spectra that permits\nsemi-qualitative alloy identification. This technique is highly sensitive to operator skill and experience.",
+          "bbox": [
+            57.6,
+            169.02,
+            542.77,
+            216.73
+          ],
+          "block_id": "b19_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2)\nThe second group refers to field-portable, laboratory grade analyzers. These were originally difficult to\nuse due to their size and weight; however, modern units are now available that can be considered\nlightweight, including the small argon cylinders required for operation. Some of these analyzers operate\nin a pure arc mode for routine PMI applications, while the more sophisticated units have a spark mode\nallowing laboratory quality analysis. The significant advantage of these instruments is the expansion of\nelements that can be analyzed, including carbon. Another advantage of these advanced instruments is\nthat they are not subject to operator interpretation.",
+          "bbox": [
+            57.6,
+            226.99,
+            542.74,
+            309.26
+          ],
+          "block_id": "b19_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Similar to X-ray fluorescence devices, results can be reported in either a spectral match or elemental\npercentage mode. As these techniques generate arcs and sparks, a potential ignition source occurs\nduring their operation; therefore, prior to use of this technique in the field, a review shall be conducted in\norder to determine if gas testing and hot work permits are required.",
+          "bbox": [
+            79.18,
+            319.52,
+            542.74,
+            367.35
+          ],
+          "block_id": "b19_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3)\nThe third group is known as laser-induced breakdown spectroscopy (LIBS), in which an atomic emission\nspectroscopy technique uses highly energetic laser pulses. The laser is focused to form plasma, which\natomizes and excites samples. Plasma light emissions provide the spectral signature of chemical\ncomposition for practically any material.",
+          "bbox": [
+            57.59,
+            377.49,
+            542.74,
+            425.32
+          ],
+          "block_id": "b19_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "When calibrated for metal analysis, LIBS can provide both qualitative and quantitative information to\ndetermine which elements are present and in what quantity.",
+          "bbox": [
+            79.18,
+            435.58,
+            542.71,
+            460.36
+          ],
+          "block_id": "b19_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Considerable progress has been made during the past few years in LIBS technology. Handheld LIBS\nmetal analyzers are becoming available that can provide fast in situ chemical analysis with appropriate\nprecision and detection limits (Annex A). The significant advantage of LIBS technology is its wide\nelement range. In principle, LIBS can detect all elements, limited by the power of the laser as well as the\nsensitivity and wavelength range of the spectrograph and detector. The LIBS technology also can\nprovide low-level carbon analysis, which, in principle, enables LIBS to positively identify a wide range of\nferrous alloys.",
+          "bbox": [
+            79.17,
+            470.5,
+            542.76,
+            552.78
+          ],
+          "block_id": "b19_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This technique generates a laser during operation, which is a potential ignition source. Therefore, before\nusing this technique in the field, a review shall be conducted in order to determine if gas testing and hot\nwork permits are required.",
+          "bbox": [
+            79.16,
+            563.04,
+            542.74,
+            599.34
+          ],
+          "block_id": "b19_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Equipment Calibration\n6.7.3",
+          "bbox": [
+            57.57,
+            609.36,
+            202.78,
+            623.24
+          ],
+          "block_id": "b19_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Persons performing PMI should calibrate and/or verify the test equipment performance as specified by the\nequipment manufacturer. The PMI procedure should provide the frequency interval for this\ncalibration/verification. If calibration procedures are not provided by the equipment manufacturer, they should\nbe established by the owner/user. Typically, these procedures should include calibration/verification using\ncertified standards. The owner/user may consider requirement of equipment verification checks on a routine\n(e.g. once per shift) using certified standards of the same alloy family.",
+          "bbox": [
+            57.56,
+            633.11,
+            542.73,
+            703.87
+          ],
+          "block_id": "b19_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 20,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n13",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b20_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Equipment Precision\n6.7.4",
+          "bbox": [
+            72.01,
+            63.78,
+            210.01,
+            77.66
+          ],
+          "block_id": "b20_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The precision of the test equipment should be consistent with the established test objectives (see 5.2). When\nelemental composition is desired, the owner/user should establish the acceptable precision and repeatability.",
+          "bbox": [
+            72.01,
+            87.54,
+            557.12,
+            112.32
+          ],
+          "block_id": "b20_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Accuracy and the method in which it is determined need to be understood (reference Annex A). For example,\nin some tools the sensitivity may depend on duration of the test in order to improve signal averaging\nalgorithms. Failure to understand these issues may produce inaccurate results.",
+          "bbox": [
+            72.0,
+            122.46,
+            557.16,
+            158.76
+          ],
+          "block_id": "b20_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.8 Safety Issues",
+          "bbox": [
+            72.0,
+            168.64,
+            172.37,
+            184.03
+          ],
+          "block_id": "b20_4",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "General\n6.8.1",
+          "bbox": [
+            72.0,
+            193.26,
+            147.84,
+            207.14
+          ],
+          "block_id": "b20_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The specific requirements for each PMI technique should be clearly reviewed as to the amount of\nmechanical preparation. Consideration should be given to the anticipated thickness of the sample before\nmechanical methods are used to prepare the sample. In addition, considerations for electrical arcing and \u201chot\nspots\u201d should be considered, as well as appropriate electrical and hot work permits. Chemical spot testing\ninvolves the use of a variety of chemicals. Appropriate safety precautions should be taken when handling\nthese chemicals.",
+          "bbox": [
+            72.0,
+            217.02,
+            557.16,
+            287.77
+          ],
+          "block_id": "b20_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "XRF Analyzers\n6.8.2",
+          "bbox": [
+            71.99,
+            297.79,
+            180.6,
+            311.68
+          ],
+          "block_id": "b20_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.8.2.1\nIntrinsic Safety",
+          "bbox": [
+            71.99,
+            321.31,
+            196.33,
+            335.19
+          ],
+          "block_id": "b20_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "XRF analyzers  are not  intrinsically safe. Pertinent hot-work procedures should be followed in areas where\nnon-intrinsically-safe equipment is to be used.",
+          "bbox": [
+            72.0,
+            344.94,
+            557.15,
+            369.72
+          ],
+          "block_id": "b20_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.8.2.2\nRadiation Safety",
+          "bbox": [
+            72.01,
+            379.74,
+            202.93,
+            393.63
+          ],
+          "block_id": "b20_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The user should be aware of potential radiation exposure hazards when operating an XRF device. The user\nis expected to observe local jurisdictional requirements that govern radiation safety, and consult the\nmanufacturer\u2019s instructions for safe operation.",
+          "bbox": [
+            72.01,
+            403.5,
+            557.1,
+            439.8
+          ],
+          "block_id": "b20_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PMI of Welding Consumables\n6.8.3",
+          "bbox": [
+            72.01,
+            449.82,
+            247.81,
+            463.7
+          ],
+          "block_id": "b20_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Performing PMI of a weld cap does not assure the root pass or subsequent weld passes are made with the\nspecified chemistry. An acceptable method to address in-process PMI during welding is explained here:",
+          "bbox": [
+            72.01,
+            473.46,
+            557.09,
+            498.24
+          ],
+          "block_id": "b20_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Prior to use in fabrication, sample \u201cbuttons\u201d should be welded using each heat of bare wire, lot of\ncovered electrodes, or flux-cored electrodes. PMI can then be used to confirm that weld metal meets\nspecification. The size of the weld button should be adequate to assure accurate test results.",
+          "bbox": [
+            72.01,
+            508.49,
+            557.17,
+            544.8
+          ],
+          "block_id": "b20_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Some weld rods have the alloying elements contained in the flux, and do not meet the alloy specification\nuntil welded.",
+          "bbox": [
+            72.0,
+            555.06,
+            557.06,
+            579.72
+          ],
+          "block_id": "b20_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 It is not necessary to test a button of bare wire if the test chosen can identify the composition of the wire\nbefore welding.",
+          "bbox": [
+            72.0,
+            589.98,
+            557.04,
+            614.76
+          ],
+          "block_id": "b20_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.8.3.1\nLongitudinal Pipe and Fitting Welds",
+          "bbox": [
+            72.0,
+            624.78,
+            291.85,
+            638.66
+          ],
+          "block_id": "b20_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Where there is reason to suspect problems, longitudinally welded alloy pipe and fittings should receive PMI\nverification of the base metal and weld metal.",
+          "bbox": [
+            72.0,
+            648.53,
+            557.16,
+            673.31
+          ],
+          "block_id": "b20_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.8.3.2\nAutogenous Welds",
+          "bbox": [
+            72.0,
+            683.21,
+            212.41,
+            697.1
+          ],
+          "block_id": "b20_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "If the owner/user determines that material verification testing is required on autogenous-welded (with no\nadded filler metal) alloy pipe or fittings, it is necessary to conduct testing on only the base metal. If repairs",
+          "bbox": [
+            72.0,
+            706.97,
+            557.17,
+            731.75
+          ],
+          "block_id": "b20_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 21,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "14\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b21_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "are made during original fabrication, the fabricator is to conduct testing on the base metal and the weld metal\nif a filler metal was used for the repair.",
+          "bbox": [
+            57.59,
+            64.02,
+            542.71,
+            88.8
+          ],
+          "block_id": "b21_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.8.3.3\nDissimilar Metal Welds and Weld Overlays",
+          "bbox": [
+            57.59,
+            98.82,
+            308.04,
+            112.7
+          ],
+          "block_id": "b21_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Results from testing dissimilar metal welds should take into account the effects of dilution, which occurs\nduring weld deposition. The owner/user should establish the minimum compositional requirements of the as-\ndeposited weld metal necessary for the intended service.",
+          "bbox": [
+            57.6,
+            122.46,
+            542.74,
+            158.76
+          ],
+          "block_id": "b21_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7\nEvaluation of Testing Results",
+          "bbox": [
+            57.6,
+            174.38,
+            248.98,
+            191.11
+          ],
+          "block_id": "b21_4",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1 Material Acceptance Methods",
+          "bbox": [
+            57.6,
+            200.08,
+            242.22,
+            215.47
+          ],
+          "block_id": "b21_5",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The owner/user may elect any one of the following methods of material acceptance.",
+          "bbox": [
+            57.6,
+            225.06,
+            430.69,
+            238.32
+          ],
+          "block_id": "b21_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nMaterials can be confirmed to contain the nominal amounts of alloying elements specified in the relevant\nmaterials specification (e.g. ASME Section II or ASTM specifications).",
+          "bbox": [
+            57.6,
+            248.46,
+            542.66,
+            273.24
+          ],
+          "block_id": "b21_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nMaterials can be classified through a qualitative sorting technique (see 6.7) to establish the conformance\nwith the intended material.",
+          "bbox": [
+            57.6,
+            283.5,
+            542.74,
+            308.28
+          ],
+          "block_id": "b21_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nWhen PMI indicates that alloying elements are outside the ranges indicated in the material specification,\nthe owner/user may still choose to allow the use of the tested materials in situations where a person\nknowledgeable of the appropriate damage mechanisms confirms that the material will perform\nsatisfactorily in the service.",
+          "bbox": [
+            57.59,
+            318.53,
+            542.75,
+            366.24
+          ],
+          "block_id": "b21_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nIf testing using one of the portable or qualitative analysis methods leads to the potential rejection of a\ncomponent, a more accurate analysis may be used to determine component acceptance (see\nSection 6).",
+          "bbox": [
+            57.59,
+            376.5,
+            542.76,
+            412.81
+          ],
+          "block_id": "b21_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2 Follow-up PMI after Discovery of a Nonconformity",
+          "bbox": [
+            57.6,
+            422.68,
+            348.66,
+            438.07
+          ],
+          "block_id": "b21_11",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "If any one of a representative sample is rejected, all items of that inspection lot should be considered\nsuspect. A more extensive inspection of the remaining lot should be considered.",
+          "bbox": [
+            57.6,
+            447.54,
+            542.77,
+            472.32
+          ],
+          "block_id": "b21_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8\nMaterials Identification",
+          "bbox": [
+            57.6,
+            487.82,
+            211.06,
+            504.55
+          ],
+          "block_id": "b21_13",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1 Identification Process",
+          "bbox": [
+            57.6,
+            513.64,
+            202.03,
+            529.03
+          ],
+          "block_id": "b21_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Alloy materials should be identified by their alloy designation or nominal composition. Examples of some\nacceptable identification methods are:",
+          "bbox": [
+            57.6,
+            538.5,
+            542.71,
+            563.28
+          ],
+          "block_id": "b21_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\ncolor coding by alloy;",
+          "bbox": [
+            57.6,
+            573.54,
+            173.76,
+            586.8
+          ],
+          "block_id": "b21_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\na low-stress stamp marking indicating that the test has been performed;",
+          "bbox": [
+            57.59,
+            597.06,
+            397.32,
+            610.31
+          ],
+          "block_id": "b21_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\ndocumentation showing both the PMI results and the PMI locations.",
+          "bbox": [
+            57.59,
+            620.45,
+            378.96,
+            633.71
+          ],
+          "block_id": "b21_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Test locations should be shown on appropriate drawings so that each test site can be traceable to the\nfabricated components.",
+          "bbox": [
+            57.59,
+            643.97,
+            542.74,
+            668.75
+          ],
+          "block_id": "b21_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2 Color Coding/Marking",
+          "bbox": [
+            57.6,
+            678.64,
+            205.62,
+            694.03
+          ],
+          "block_id": "b21_20",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.2.1\nIf the material verification program procedure established by the owner/user requires a visual\nidentification such as color coding or marking, the owner/user should maintain a record of the alloy\nmaterial/color code combinations. PFI Standard  ES22  is an example of one such system. Materials",
+          "bbox": [
+            57.6,
+            703.26,
+            542.77,
+            739.68
+          ],
+          "block_id": "b21_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 22,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n15",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b22_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "identification by color coding is not a substitute for permanent manufacturers\u2019 markings required by\napplicable ASTM or other materials specifications.",
+          "bbox": [
+            72.0,
+            64.02,
+            557.1,
+            88.8
+          ],
+          "block_id": "b22_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2.2\nWhere reliance on color marking is used, persons responsible for reading the colors should be\nconfirmed as being able to distinguish the difference between the colors being used.",
+          "bbox": [
+            72.0,
+            98.82,
+            557.16,
+            123.72
+          ],
+          "block_id": "b22_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.3 Marking of Components",
+          "bbox": [
+            72.0,
+            133.6,
+            230.94,
+            148.99
+          ],
+          "block_id": "b22_3",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "If the owner/user\u2019s documentation process requires physical marking of equipment components, it should\nspecify one of the following:",
+          "bbox": [
+            72.0,
+            158.46,
+            557.12,
+            183.24
+          ],
+          "block_id": "b22_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 whether or not the marking system should remain legible for the expected life of the component without\ndeterioration due to corrosion or elevated temperature;",
+          "bbox": [
+            72.0,
+            193.5,
+            557.08,
+            218.28
+          ],
+          "block_id": "b22_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 whether or not the marking system is only temporary to facilitate proper handling and identification from\nthe point of PMI to final installation. This marking can be semi-permanent paint applied to each item. The\nmarkers should not contain additives such as metallic pigments (Al, Pb, or Zn), sulfur, or chlorides.",
+          "bbox": [
+            72.0,
+            228.54,
+            557.14,
+            264.72
+          ],
+          "block_id": "b22_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9\nDocumentation and Recordkeeping",
+          "bbox": [
+            72.0,
+            280.34,
+            297.34,
+            297.07
+          ],
+          "block_id": "b22_7",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9.1 Shop and Field PMI Documentation",
+          "bbox": [
+            72.0,
+            306.16,
+            289.62,
+            321.55
+          ],
+          "block_id": "b22_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Those individuals performing PMI should obtain and follow the PMI procedure approved by the owner/user.\nThis procedure should include the technique used, equipment calibration, the qualification requirements of\nPMI personnel, the testing methodology, and documentation requirements.",
+          "bbox": [
+            72.0,
+            331.02,
+            557.17,
+            367.32
+          ],
+          "block_id": "b22_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "When documentation, such as drawings, is used in lieu of physical marking, the documentation should allow\nthe owner/user to identify which components were tested.",
+          "bbox": [
+            72.0,
+            377.46,
+            557.17,
+            402.24
+          ],
+          "block_id": "b22_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.2 New and Existing Equipment or System Documentation",
+          "bbox": [
+            72.0,
+            412.12,
+            395.34,
+            427.51
+          ],
+          "block_id": "b22_11",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When PMI is conducted on new or existing assets and systems, records of the results should be kept as long\nas the equipment exists in its original location. If equipment or a portion of an equipment system that has not\nreceived material verification is relocated, the owner/user should consider the need for PMI prior to placing\nthe relocated components into service.",
+          "bbox": [
+            72.0,
+            436.98,
+            557.17,
+            484.81
+          ],
+          "block_id": "b22_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Where applicable, some owner/users have created master PMI piping isometric drawings to track the\ncomponents that were tested and test results. These drawings are maintained and updated as piping\nmodifications occur from projects or process changes. A single documentation system eliminates the need to\nsearch for data in multiple locations.",
+          "bbox": [
+            71.98,
+            495.07,
+            557.15,
+            542.78
+          ],
+          "block_id": "b22_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.3 PMI Records",
+          "bbox": [
+            72.0,
+            552.64,
+            171.78,
+            568.03
+          ],
+          "block_id": "b22_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Typical PMI records should contain the following:",
+          "bbox": [
+            72.0,
+            577.5,
+            291.48,
+            590.76
+          ],
+          "block_id": "b22_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 reference to the PMI procedure(s) used;",
+          "bbox": [
+            71.99,
+            601.02,
+            270.11,
+            614.27
+          ],
+          "block_id": "b22_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 date of testing;",
+          "bbox": [
+            71.99,
+            624.53,
+            158.39,
+            637.79
+          ],
+          "block_id": "b22_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 test instrument identification number or serial number, where appropriate;",
+          "bbox": [
+            71.98,
+            648.05,
+            417.46,
+            661.3
+          ],
+          "block_id": "b22_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 name of each person performing the tests, with identification of their respective employer;",
+          "bbox": [
+            71.97,
+            671.44,
+            490.77,
+            684.7
+          ],
+          "block_id": "b22_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 results of the tests;",
+          "bbox": [
+            71.96,
+            694.96,
+            176.6,
+            708.22
+          ],
+          "block_id": "b22_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 23,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "16\nAPI   R ECOMMENDED  P RACTICE  578",
+          "bbox": [
+            57.6,
+            35.23,
+            371.36,
+            45.93
+          ],
+          "block_id": "b23_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 basis and action for resolving and documenting PMI nonconformances, including those that have been\nleft in service;",
+          "bbox": [
+            57.6,
+            64.02,
+            542.74,
+            88.8
+          ],
+          "block_id": "b23_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 documentation of the criteria used for prioritization of equipment or systems and extent of PMI\nperformed.",
+          "bbox": [
+            57.58,
+            99.06,
+            542.69,
+            123.84
+          ],
+          "block_id": "b23_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The information listed should be reported in such a manner that it is traceable to the point of installation.",
+          "bbox": [
+            57.57,
+            133.98,
+            518.86,
+            147.24
+          ],
+          "block_id": "b23_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Alternatively, the owner/user may choose to include this within the written material verification procedure.\nWhen included in the owner/user\u2019s written material verification procedure, the date and edition number of the\nwritten procedure should be documented in the test record.",
+          "bbox": [
+            57.57,
+            157.49,
+            542.73,
+            193.8
+          ],
+          "block_id": "b23_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 24,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex A\n(informative)",
+          "bbox": [
+            279.84,
+            62.99,
+            349.9,
+            95.22
+          ],
+          "block_id": "b24_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Statistical Terminology",
+          "bbox": [
+            247.08,
+            104.9,
+            382.54,
+            121.63
+          ],
+          "block_id": "b24_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Below are some of the terms regarding statistics that may be encountered when using the methodology\nand/or technology discussed within this document.",
+          "bbox": [
+            72.0,
+            148.62,
+            557.13,
+            173.4
+          ],
+          "block_id": "b24_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Accuracy: The closeness of agreement between the test result and the accepted reference value.",
+          "bbox": [
+            72.01,
+            183.66,
+            525.75,
+            196.92
+          ],
+          "block_id": "b24_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Precision: The closeness of agreement between independent test results. The precision depends only on\nthe distribution of random errors and does not relate to the accepted standard certified value.",
+          "bbox": [
+            72.02,
+            207.05,
+            557.17,
+            231.84
+          ],
+          "block_id": "b24_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Bias: The difference between the expectation of the test results and an accepted reference value. Bias is\na systematic error, in contrast to a random error. There may be one or more systematic error\ncomponents contributing to the bias.",
+          "bbox": [
+            72.03,
+            242.09,
+            557.14,
+            278.4
+          ],
+          "block_id": "b24_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Limit of detection (LOD): The lowest concentration of analyte that can be reliably distinguished from zero\nconcentration in a sample by defining a 99 % confidence to show that the analyte concentration is\ngreater than zero. Therefore, 3-sigma calculations must be used to determine LOD (see definition for\nstandard deviation (SD) below).",
+          "bbox": [
+            72.02,
+            288.66,
+            557.17,
+            336.37
+          ],
+          "block_id": "b24_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Instrument detection limit (IDL): The lowest (best) detection limit generated by an instrument in a clean\nmatrix (blank).",
+          "bbox": [
+            72.01,
+            346.62,
+            557.13,
+            371.4
+          ],
+          "block_id": "b24_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Method detection limit (MDL): The typical detection limit obtained when running a typical sample. It is\nmatrix dependent, and will vary from matrix to matrix.",
+          "bbox": [
+            72.0,
+            381.66,
+            557.15,
+            406.32
+          ],
+          "block_id": "b24_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Limit of quantitation (LOQ): The lowest concentration that can be reliably measured to allow quantitative\nreadings. It is typically defined as 10-sigma (or 3.33 times the LOD).",
+          "bbox": [
+            72.0,
+            416.58,
+            557.1,
+            441.36
+          ],
+          "block_id": "b24_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Standard deviation (SD): The standard deviation is a statistic that defines how tightly all the data is\nclustered around the mean in a dataset. It essentially measures the variability (spread or dispersion)\nfrom the mean (average) and is defined mathematically. For \u201cnormal\u201d distributions, we can apply an\nempirical rule that states that 68 % of the data is within one standard deviation of the mean; 95 % of the\ndata is within two standard deviations of the mean; and 99.7 % of the data is within three standard\ndeviations of the mean.",
+          "bbox": [
+            71.98,
+            451.62,
+            557.12,
+            522.38
+          ],
+          "block_id": "b24_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Relative standard deviation (RSD): The standard deviation is divided by the mean of the data and\nmultiplied by 100 to give a % value. The bigger the % value, the \u201cnoisier\u201d the signal and less confidence\nin the final value.",
+          "bbox": [
+            71.96,
+            532.64,
+            557.07,
+            568.94
+          ],
+          "block_id": "b24_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Repeatability: The duplicate (or more) analysis within the shortest possible time, performed by the same\nperson using the same method. The standard of many analyses using repeatability conditions indicates\nthe minimum deviation achievable in the particular conditions.",
+          "bbox": [
+            71.95,
+            579.08,
+            557.03,
+            615.38
+          ],
+          "block_id": "b24_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Reproducibility: This is a duplicate (or more) analysis performed by a different person, preferably using a\ndifferent method or (different instrument).",
+          "bbox": [
+            71.93,
+            625.64,
+            557.07,
+            650.42
+          ],
+          "block_id": "b24_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 25,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bibliography",
+          "bbox": [
+            256.08,
+            62.99,
+            349.39,
+            82.56
+          ],
+          "block_id": "b25_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following documents may reference this recommended practice, and have been used during its\ndevelopment.",
+          "bbox": [
+            57.6,
+            103.5,
+            542.69,
+            128.28
+          ],
+          "block_id": "b25_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[1]\nAPI 510,  Pressure Vessel Inspection Code: Maintenance Inspection, Rating, Repair, and Alteration",
+          "bbox": [
+            57.6,
+            138.42,
+            528.84,
+            151.68
+          ],
+          "block_id": "b25_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[2]\nAPI Standard 560,  Fired Heaters for General Refinery Services",
+          "bbox": [
+            57.59,
+            161.94,
+            373.67,
+            175.19
+          ],
+          "block_id": "b25_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[3]\nAPI 570,  Piping Inspection Code: In-service Inspection, Repair, and Alteration of Piping Systems",
+          "bbox": [
+            57.58,
+            185.45,
+            518.25,
+            198.71
+          ],
+          "block_id": "b25_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[4]\nAPI Recommended Practice 571,  Damage Mechanisms Affecting Fixed Equipment In the Refining\nIndustry",
+          "bbox": [
+            57.56,
+            208.85,
+            542.68,
+            233.63
+          ],
+          "block_id": "b25_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[5]\nAPI Recommended Practice 572,  Inspection of Pressure Vessels",
+          "bbox": [
+            57.55,
+            243.89,
+            382.52,
+            257.14
+          ],
+          "block_id": "b25_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[6]\nAPI Recommended Practice 573,  Inspection of Fired Boilers and Heaters",
+          "bbox": [
+            57.55,
+            267.4,
+            415.27,
+            280.66
+          ],
+          "block_id": "b25_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[7]\nAPI Recommended Practice 574,  Inspection Practices for Piping System Components",
+          "bbox": [
+            57.54,
+            290.92,
+            472.61,
+            304.17
+          ],
+          "block_id": "b25_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[8]\nAPI Recommended Practice 575,  Inspection of Existing Atmospheric and Low-pressure Storage\nTanks",
+          "bbox": [
+            57.52,
+            314.43,
+            542.67,
+            339.09
+          ],
+          "block_id": "b25_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[9]\nAPI Recommended Practice 576,  Inspection of Pressure-Relieving Devices",
+          "bbox": [
+            57.5,
+            349.35,
+            424.71,
+            362.61
+          ],
+          "block_id": "b25_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[10]\nAPI Recommended Practice 577,  Welding Inspection and Metallurgy",
+          "bbox": [
+            57.5,
+            372.87,
+            395.31,
+            386.13
+          ],
+          "block_id": "b25_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[11]\nAPI 579-1/ASME FFS-1,  Fitness-For-Service",
+          "bbox": [
+            57.5,
+            396.38,
+            290.77,
+            409.64
+          ],
+          "block_id": "b25_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[12]\nAPI Recommended Practice 580,  Risk-Based Inspection",
+          "bbox": [
+            57.48,
+            419.9,
+            341.89,
+            433.16
+          ],
+          "block_id": "b25_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[13]\nAPI Recommended Practice 583,  Corrosion Under Insulation and Fireproofing",
+          "bbox": [
+            57.48,
+            443.42,
+            437.06,
+            456.67
+          ],
+          "block_id": "b25_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[14]\nAPI Recommended Practice 751,  Safe Operation of Hydrofluoric Acid Alkylation Units",
+          "bbox": [
+            57.49,
+            466.81,
+            470.3,
+            480.07
+          ],
+          "block_id": "b25_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[15]\nAPI RP 939-C,  Guidelines for Avoiding Sulfidation (Sulfidic) Corrosion Failures in Oil Refineries",
+          "bbox": [
+            57.49,
+            490.33,
+            512.05,
+            503.58
+          ],
+          "block_id": "b25_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[16]\nASME  1  B31.3,  Process Piping",
+          "bbox": [
+            57.49,
+            514.03,
+            229.21,
+            528.36
+          ],
+          "block_id": "b25_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[17]\nASME Boiler and Pressure Vessel Code: Section II Materials (Part A: Ferrous Material Specifications,\nPart B: Nonferrous Material Specifications, Part C: Specifications for Welding Rods, Electrodes, and\nFiller Metals, Part D: Properties \u2013 Materials)",
+          "bbox": [
+            57.6,
+            538.62,
+            542.77,
+            574.92
+          ],
+          "block_id": "b25_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[18]\nASME PCC-2,  Repair of Pressure Equipment and Piping",
+          "bbox": [
+            57.59,
+            585.06,
+            345.32,
+            598.32
+          ],
+          "block_id": "b25_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[19]\nASTM  2  E1476-97,  Standard Guide for Metals Identification, Grade Verification, and Sorting",
+          "bbox": [
+            57.59,
+            608.71,
+            497.16,
+            623.04
+          ],
+          "block_id": "b25_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[20]\nCenter for Chemical Process Safety  3 ,  Guidelines for Mechanical Integrity Systems , Appendix 7C.",
+          "bbox": [
+            57.6,
+            633.31,
+            524.28,
+            647.64
+          ],
+          "block_id": "b25_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  ASME International, 3 Park Avenue, New York, New York 10016, www.asme.org.",
+          "bbox": [
+            57.6,
+            685.75,
+            391.06,
+            699.76
+          ],
+          "block_id": "b25_24",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2  ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, Pennsylvania 19428, www.astm.org.",
+          "bbox": [
+            57.6,
+            704.11,
+            535.78,
+            718.12
+          ],
+          "block_id": "b25_25",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3  Center for Chemical Process Safety, 120 Wall Street, Floor 23, New York, New York 10005, www.aiche.org/ccps.",
+          "bbox": [
+            57.6,
+            722.59,
+            517.67,
+            736.6
+          ],
+          "block_id": "b25_26",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 26,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS\n19",
+          "bbox": [
+            72.0,
+            35.23,
+            555.79,
+            45.93
+          ],
+          "block_id": "b26_0",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[21]\nCSB  4  Bulletin 2005-04-B, \u201cPositive Material Verification: Prevent Errors During Alloy Steel Systems\nMaintenance\u201d",
+          "bbox": [
+            72.0,
+            64.15,
+            557.14,
+            89.88
+          ],
+          "block_id": "b26_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[22]\nNACE  5  International, Paper No. 03651, \u201cSpecification for Carbon Steel Materials for Hydrofluoric\nAcid Alkylation Units\u201d",
+          "bbox": [
+            71.99,
+            100.27,
+            557.14,
+            126.0
+          ],
+          "block_id": "b26_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[23]\nProcess Industry Practices  6 , \"Positive Material Identification Specification,\" VESPMI01, April 2011.",
+          "bbox": [
+            72.01,
+            136.39,
+            544.8,
+            150.72
+          ],
+          "block_id": "b26_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[24]\nPFI  7  Standard ES22,  Recommended Practice for Color Coding of Piping Materials",
+          "bbox": [
+            71.99,
+            160.87,
+            475.88,
+            175.2
+          ],
+          "block_id": "b26_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4  Chemical Safety Board, 1750 Pennsylvania Avenue, NW, Suite 910, Washington, DC 20006, www.csb.gov.",
+          "bbox": [
+            72.0,
+            667.27,
+            509.14,
+            681.28
+          ],
+          "block_id": "b26_8",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5  National Association of Corrosion Engineers, 15835 Park Ten Place, Houston, Texas 77084, www.nace.org.",
+          "bbox": [
+            72.0,
+            685.75,
+            511.66,
+            699.76
+          ],
+          "block_id": "b26_9",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6  Process Industry Practices, 3925 West Braker Lane (R4500), Austin, Texas 78759, www.pip.org.",
+          "bbox": [
+            72.0,
+            704.11,
+            466.54,
+            718.12
+          ],
+          "block_id": "b26_10",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7  Pipe Fabrication Institute, 511 Avenue of the Americas, #601, New York, New York 10011. www.pfi-institute.org.",
+          "bbox": [
+            72.0,
+            722.59,
+            527.74,
+            736.6
+          ],
+          "block_id": "b26_11",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 27,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 28,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Product No.  C5780 3",
+          "bbox": [
+            108.0,
+            680.84,
+            193.22,
+            693.38
+          ],
+          "block_id": "b28_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

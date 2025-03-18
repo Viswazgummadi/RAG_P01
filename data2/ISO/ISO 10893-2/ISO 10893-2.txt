@@ -1,0 +1,954 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-2<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 2:
+Automated eddy current testing of
+seamless and welded (except submerged
+arc-welded) steel tubes for the detection
+of imperfections<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 2: Contrôle automatisé par courants de Foucault pour la
+détection des imperfections des tubes en acier sans soudure et soudés
+(sauf à l'arc immergé sous flux en poudre)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-2:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<PARAGRAPH>>5
+Test method ...........................................................................................................................................2
+5.1
+Test techniques .....................................................................................................................................2
+5.2
+Test equipment......................................................................................................................................3<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Reference tube.......................................................................................................................................6
+6.1
+General ...................................................................................................................................................6
+6.2
+Concentric coil technique.....................................................................................................................6
+6.3
+Segment coil technique ........................................................................................................................6
+6.4
+Fixed and rotating coil/pancake technique.........................................................................................7
+6.5
+Dimensions of the reference standards..............................................................................................7<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking...................................................................................................9<<HEADING_END>>
+<<HEADING level=3>>8
+Acceptance ..........................................................................................................................................10<<HEADING_END>>
+<<HEADING level=3>>9
+Test report............................................................................................................................................10<<HEADING_END>>
+<<HEADING level=3>>Annex A  (informative)   Guidance notes on limitations of eddy current test method .................................11<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-2 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition cancels and replaces ISO 9304:1989, which has been technically revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tubes for the verification of hydraulic leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged arc-
+welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+surface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged arc-
+welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 2:
+Automated eddy current testing of seamless and welded
+(except submerged arc-welded) steel tubes for the detection of
+imperfections<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies requirements for automated eddy current testing of seamless and welded
+tubes with the exception of submerged arc-welded (SAW) tubes, for the detection of imperfections according
+to the different acceptance levels as shown in Tables 1 and 2. It is applicable to the inspection of tubes with
+an outside diameter greater than or equal to 4 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 can also be applicable to the testing of hollow sections.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer's qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 11484 and the following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+reference standard
+standard for the calibration of non-destructive testing equipment (e.g. drill holes, notches and recesses)<<HEADING_END>>
+<<HEADING level=3>>3.2
+reference tube
+tube or length of tube containing the reference standard(s)<<HEADING_END>>
+<<HEADING level=3>>3.3
+reference sample
+sample (e.g. segment of tube, plate or strip) containing the reference standard(s)<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Only the term “reference tube” is used in this part of ISO 10893, also covering the term “reference sample”.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>3.5
+seamless tube
+tube made by piercing a solid product to obtain a tube hollow, which is further processed, either hot or cold,
+into its final dimensions<<HEADING_END>>
+<<PARAGRAPH>>3.6
+welded tube
+tube made by forming a hollow profile from a flat product and welding adjacent edges together, and which
+after welding can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.7
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by the product standard or agreed on by the purchaser and manufacturer,
+this eddy current inspection shall be carried out on tubes after completion of all the production process
+operations, such as rolling, heat treating, cold forming and hot working, sizing and primary straightening.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+The tubes being tested shall be sufficiently straight to ensure the validity of the test. The surfaces shall
+be sufficiently free of foreign matter which can interfere with the validity of the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+This inspection shall be carried out by trained operators qualified in accordance with ISO 9712,
+ISO 11484 or equivalent and supervised by competent personnel nominated by the manufacturer. In the case
+of third-party inspection, this shall be agreed on between the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. NDT operations
+shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate International Standards, e.g. ISO 9712 and
+ISO 11484.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Test method<<HEADING_END>>
+<<HEADING level=3>>5.1 Test techniques<<HEADING_END>>
+<<PARAGRAPH>>5.1.1
+The tubes shall be tested by the eddy current method for the detection of imperfections using in
+“absolute mode” and/or in “differential mode”   one of the following alternative automated or semi-automated
+techniques:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+concentric coil technique — full peripheral (see Figure 1);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+fixed or rotating probe/pancake coil technique — full peripheral (see Figure 2);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+segment coil technique — weld seam only (see Figure 3) or full body (see Figure 4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For all techniques, the chosen relative speed of movement during the testing shall not vary by more than
+± 10 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is recognized that there may be a short length at both tube ends which cannot be tested. Any untested ends
+shall be dealt with in accordance with the requirements of the appropriate product standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+See Annex A for guidelines on the limitations of the eddy current test method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>5.1.2
+When testing tubes using the concentric coil technique, the maximum tube outside diameter that shall
+be tested shall be restricted to 180 mm (250 mm for E4H).<<HEADING_END>>
+<<PARAGRAPH>>Square and rectangular tubes, used for structural purposes, with a maximum dimension across the diagonal
+of 180 mm may also be tested using this technique with adequately shaped coils.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1.3
+When testing tubes using the rotating or fixed probe/pancake coil technique, the tube and the
+probe/pancake coil shall be moved   relative to each other or the movement shall be simulated by electronic
+commutation through the individual probes composing the pancake, such that the whole of the tube surface is
+scanned. There is no restriction on the maximum tube outside diameter using this technique.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+It is emphasized that only external surface breaking imperfections can be detected using this technique.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1.4
+When testing the weld of welded tubes using the segment coil technique, there is no restriction on the
+maximum tube outside diameter. The test coil shall be maintained in proper alignment with the weld, such as
+that the whole of the weld is scanned.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1.5
+When testing the full body of tubes using the segment coils technique, the maximum tube outside
+diameter that shall be tested shall be limited to:<<HEADING_END>>
+<<PARAGRAPH>>⎯   ∅  219,1 mm for 2  ×  180° coils,<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   ∅  508,0 mm for 4  ×  100° coils.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+It is emphasized that the test sensitivity is at a maximum at the tube surface adjacent to the test coil and
+decreases with increasing thickness (see Annex A).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Test equipment<<HEADING_END>>
+<<PARAGRAPH>>The equipment shall be capable of classifying tubes as either acceptable or suspect tubes by means of an
+automated trigger/alarm level combined with a marking and/or sorting system.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+secondary coil 1
+2
+primary coil
+3
+secondary coil 2
+4
+tube
+∼
+alternate energizing current
+Δ V  signal output<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The above diagram is a simplified form of a multi-coil arrangement which can contain, for example split
+primary coils, twin differential coils and calibrator coil.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Simplified diagram of the concentric coil technique<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri Copyright International Organization for Standardization `,,`   |
+|:------------------------------------------------------------------------------------|
+| Provided by IHS under license with ISO ,,`                                          |
+| No reproduction or networking permitted without license from IHS ,`,                |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>a)   Rotating probe/pancake coil technique —
+Linear movement of the tube
+b)   Fixed probe/pancake coil technique —
+Linear and rotary movement of the tube<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+position of probe/pancake coil
+2
+tube
+3
+position of fixed pancake coil
+4
+rollers<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Direction of probe rotation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Direction of tube rotation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The pancake coils in a) and b) can have different forms, e.g. single-coils, multiple coils of different
+configurations, depending on the equipment used and other factors.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 2 — Simplified diagram of probe/pancake coil technique<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+weld seam
+2
+secondary coil 1
+3
+primary coil
+4
+secondary coil 2
+5
+tube
+6
+coil<<PARAGRAPH_END>>
+<<PARAGRAPH>>∼
+alternate energizing current<<PARAGRAPH_END>>
+<<PARAGRAPH>>Δ V  signal output<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The segment coil arrangement in this figure can take many forms depending, for example on the equipment
+used and the product being inspected.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 3 — Simplified diagram of segment coil testing method of the weld seam<<HEADING_END>>
+<<HEADING level=3>>a)    2  ×  180°  segment coils
+b)    4  ×  100°  segment coils<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+segment coil
+2
+tube<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 4 — Simplified diagram of eddy current segment coil technique<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                             |
+| Copyright International Organization for Standardization        |
+|:----------------------------------------------------------------|
+| Provided by IHS under license with ISO                          |
+| No reproduction or networking permitted without license from IH |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>6
+Reference tube<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>6.1.1
+The reference standards defined in this part of ISO 10893 are convenient standards for calibration of
+non-destructive testing equipment. Their dimensions should not be considered as the minimum size of
+imperfections detectable by such equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.2
+The reference tubes shall have the same specified diameter and thickness, same surface finish, and
+delivery condition (e.g. as-rolled, normalized, quenched and tempered) and similar steel grade as the tubes
+being tested. For specified wall thickness exceeding 5 mm, the wall thickness of the reference tubes may be
+greater than the specified wall thickness of the pipe under inspection, provided the notch depth is calculated
+on the specified wall thickness of the pipe being inspected. The manufacturer shall demonstrate, on request,
+the effectiveness of the adopted solution.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.3
+The reference standards for the various testing techniques shall be as follows:<<HEADING_END>>
+<<PARAGRAPH>>a)
+a reference hole or holes as defined in 6.2 and 6.5.1, when using the concentric coil technique;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+a reference hole or holes as defined in 6.3 and 6.5.1, when using the segment coil technique;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+a reference notch as defined in 6.4 and 6.5.2, when using the fixed or rotating probe/pancake coil
+technique.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+In special cases, for example when testing hot tubes or using equipment contained within a continuous tube
+mill, a modified calibration or calibration checking procedure can be used, by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+When using the concentric coil technique a longitudinal notch can be used, by agreement, as the reference
+standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.4
+The reference standards (see 6.2 to 6.4) shall be sufficiently separated longitudinally (in the case of
+reference holes) and from the ends of the reference tube such that clearly distinguishable signal indications
+are obtained.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Concentric coil technique<<HEADING_END>>
+<<PARAGRAPH>>6.2.1
+When using the eddy current concentric coil technique, the reference tube shall contain three or four
+circular holes, drilled radially through the full thickness of the reference tube. The holes shall be
+circumferentially displaced respectively at 120° or 90° from each other.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2.2
+Alternatively, only one hole shall be drilled through the full thickness of the reference tube and during
+calibration and calibration checking the reference tube shall be passed through the equipment with the hole
+positioned at 0°, 90°, 180° and 270°.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Segment coil technique<<HEADING_END>>
+<<PARAGRAPH>>6.3.1
+When using the segment coil technique, the reference tube shall contain a single circular hole, drilled
+radially through the full thickness of the reference tube and located adjacent or directly in the weld seam.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3.2
+When using the segment coil technique, for full body inspection, the reference tube shall contain three
+circular holes, drilled radially through the full thickness of the reference tube. Each segment coil shall be
+checked with the reference tube, and the three holes shall be displaced as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  180° segment coils: 0°,  + 90° and  − 90° from the centre of the coil;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  100° segment coils: 0°,  + 45° and  − 45° from the centre of the coil.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>6.3.3
+Alternatively, only one hole shall be drilled through the full thickness of the reference tube and during
+calibration and calibration checking the reference tube shall be passed through the equipment with the hole
+positioned at 0°,  + 90° and  − 90° for the 180° segment coil and at 0°,  + 45° and  − 45° for the 100° segment coil.
+These operations shall be repeated for each segment coil.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 Fixed and rotating coil/pancake technique<<HEADING_END>>
+<<PARAGRAPH>>When using the fixed or rotating coil/pancake technique, the reference tube shall contain a longitudinal
+reference notch on the external surface.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5 Dimensions of the reference standards<<HEADING_END>>
+<<HEADING level=3>>6.5.1 Reference hole<<HEADING_END>>
+<<PARAGRAPH>>The diameter of the reference holes related to the tube outside diameter shall not exceed the requirements of
+Table 1; the holes shall be formed by machining, spark erosion or other methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Specified tube outside diameter and corresponding diameters
+of the reference holes for possible acceptance levels<<HEADING_END>>
+<<HEADING level=3>>Specified tube outside
+diameter
+Acceptance level hole
+diameter
+Specified tube outside
+diameter
+Acceptance level hole
+diameter<<HEADING_END>>
+<<PARAGRAPH>>D
+mm
+mm
+D
+mm
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>E1H
+E2H
+E3H
+E4H<<PARAGRAPH_END>>
+<<PARAGRAPH>>4  u   D   u  10
+0,60
+0,70
+0,80
+4  u   D   u  15,8
+1,20<<PARAGRAPH_END>>
+<<PARAGRAPH>>10  <   D   u  20
+0,70
+0,80
+1,00
+15,8  <   D   u  26,9
+1,40<<PARAGRAPH_END>>
+<<PARAGRAPH>>20  <   D   u  44,5
+0,80
+1,00
+1,30
+26,9  <   D   u  48,3
+1,70<<PARAGRAPH_END>>
+<<PARAGRAPH>>44,5  <   D   u  76,1
+1,00
+1,20
+1,60
+48,3  <   D   u  63,5
+2,20<<PARAGRAPH_END>>
+<<PARAGRAPH>>76,1  <   D   u  180
+1,20
+1,40
+2,00
+63,5  <   D   u  114,3
+2,70<<PARAGRAPH_END>>
+<<PARAGRAPH>>180  <  D
+1,40
+1,80
+2,20
+114,3  <   D   u  139,7
+3,20<<PARAGRAPH_END>>
+<<PARAGRAPH>>139,7  <   D
+3,70<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5.2 Reference notch<<HEADING_END>>
+<<HEADING level=3>>6.5.2.1
+General<<HEADING_END>>
+<<PARAGRAPH>>a)
+The reference notch shall be of the “N” type (see Figure 5) and shall lie parallel to the major axis of the
+tube. The sides shall be nominally parallel and the bottom shall be nominally square to the sides.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+The reference notch shall be formed by machining, spark erosion or other methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The bottom or the bottom corners of the notch can be rounded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Specified tube outside   | Acceptance level hole   |      |      | Specified tube outside   | Acceptance level hole   |
+| diameter                 | diameter                |      |      | diameter                 | diameter                |
+| D                        | mm                      |      |      | D                        | mm                      |
+| mm                       | E1H E2H E3H             |      |      | mm                       | E4H                     |
+|:-------------------------|:------------------------|:-----|:-----|:-------------------------|:------------------------|
+| 4 u D u 10               | 0,60                    | 0,70 | 0,80 | 4 u D u 15,8             | 1,20                    |
+| 10 < D u 20              | 0,70                    | 0,80 | 1,00 | 15,8 < D u 26,9          | 1,40                    |
+| 20 < D u 44,5            | 0,80                    | 1,00 | 1,30 | 26,9 < D u 48,3          | 1,70                    |
+| 44,5 < D u 76,1          | 1,00                    | 1,20 | 1,60 | 48,3 < D u 63,5          | 2,20                    |
+| 76,1 < D u 180           | 1,20                    | 1,40 | 2,00 | 63,5 < D u 114,3         | 2,70                    |
+| 180 < D                  | 1,40                    | 1,80 | 2,20 | 114,3 < D u 139,7        | 3,20                    |
+|                          |                         |      |      | 139,7 < D                | 3,70                    |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Key
+w
+width
+d
+depth<<HEADING_END>>
+<<HEADING level=3>>Figure 5 — “N” type notch<<HEADING_END>>
+<<HEADING level=3>>6.5.2.2
+Dimensions of the reference notch<<HEADING_END>>
+<<PARAGRAPH>>a)
+Width,  w  (see Figure 5)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The width of the reference notch shall not be greater than the reference notch depth or 1 mm whichever is
+greater.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Depth,  d  (see Figure 5)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The depth of the reference notch shall be as given in Table 2, with the following limitations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  minimum notch depth:
+0,3 mm;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  maximum notch depth:
+1,5 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The tolerance on notch depth shall be  ± 15 % of reference notch depth.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+Length<<PARAGRAPH_END>>
+<<PARAGRAPH>>Unless otherwise specified by product standard or agreed between purchaser and manufacturer, the length of
+the reference notch(es) shall be greater than twice the width of each individual probe/pankace coil or
+transducer. In any case, the length of reference notch shall not exceed 50 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5.3 Verification of the reference standards<<HEADING_END>>
+<<HEADING level=3>>6.5.3.1
+The diameter of the reference hole(s) (see Table 1), when used, shall be verified and shall not
+exceed the value reported in Table 1.<<HEADING_END>>
+<<HEADING level=3>>6.5.3.2
+The reference notch dimensions and shape shall be verified by a suitable technique.<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 8                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 2 — Acceptance level and corresponding external reference notch depth
+(for fixed and rotating probe/pancake coil technique)<<HEADING_END>>
+<<HEADING level=3>>Acceptance level
+Notch depth of the specified thickness<<HEADING_END>>
+<<HEADING level=3>>%<<HEADING_END>>
+<<PARAGRAPH>>E2
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>E3
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>E4
+12,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>E5
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The values of notch depth specified in this table are the same for the corresponding categories, in
+all International Standards concerning non-destructive testing of steel tubes where reference is made to
+different acceptance levels. Although the reference standards are identical, the various test methods involved
+can give different test results. Accordingly, the acceptance level designation prefix E (eddy current) has been
+adopted to avoid any inferred direct equivalence with other test methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking<<HEADING_END>>
+<<PARAGRAPH>>7.1
+At the start of each inspection cycle, the equipment shall be calibrated to produce consistently,
+(e.g. from three consecutive passes of the reference tube through the equipment), clearly identifiable signals
+from the reference standard(s). These signals shall be used to activate their respective trigger alarm of the
+equipment as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+when using multiple reference holes in the reference tube (concentric coil techniques or segment coil
+technique for testing full surface), the full amplitude obtained from the reference hole giving the smallest
+signal shall be used to set trigger/alarm level of the equipment. When using a single reference hole in the
+reference tube, the reference tube shall be passed through the inspection equipment with the reference
+hole, on successive runs, positioned as specified in 6.2.2, and the full amplitude obtained from the
+reference hole run giving the smallest signal shall be used to set trigger/alarm level of the equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+when using a single reference hole (segment coil technique for testing the weld of welded tubes), the full
+amplitude obtained from the reference hole run giving the smallest signal shall be used to set the
+trigger/alarm level of the equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+when using the reference notch (fixed or rotating probe/pancake coil technique), the full signal amplitude
+obtained from the reference notch shall be used to set the trigger/alarm level of the equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2
+During the calibration check, the relative speed of movement between the reference tube and the test
+coils/probes shall be the same as that used during the production test (see also 5.1.2, 5.1.3 and 5.1.4). The
+same equipment settings, for instance frequency, sensitivity, phase discrimination, filtering and eventual
+magnetic saturation, shall be employed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3
+The calibration of the equipment shall be checked at regular intervals during the production testing of
+tubes of the same specified diameter, thickness and grade by passing the reference tube through the test
+equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>The frequency of checking the calibration shall be at least every 4 h, but also whenever there is an equipment
+operator team changeover and at the start and end of production.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4
+The equipment shall be recalibrated if any of the parameters which were used during the initial
+calibration are changed.<<HEADING_END>>
+<<PARAGRAPH>>7.5
+If on checking during production testing, the calibration requirements are not satisfied then all tubes
+tested since the previous acceptable equipment calibration shall be retested after the equipment has been
+recalibrated.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+9<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Acceptance level                                                                                                | Notch depth of the specified thickness   |
+|                                                                                                                 | %                                        |
+|:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| E2                                                                                                              | 5                                        |
+| E3                                                                                                              | 10                                       |
+| E4                                                                                                              | 12,5                                     |
+| E5                                                                                                              | 15                                       |
+| NOTE The values of notch depth specified in this table are the same for the corresponding categories, in        |                                          |
+| all International Standards concerning non-destructive testing of steel tubes where reference is made to        |                                          |
+| different acceptance levels. Although the reference standards are identical, the various test methods involved  |                                          |
+| can give different test results. Accordingly, the acceptance level designation prefix E (eddy current) has been |                                          |
+| adopted to avoid any inferred direct equivalence with other test methods.                                       |                                          |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=3>>8
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>8.1
+Any tube producing signals lower than the trigger/alarm level shall be deemed to have passed this test.<<HEADING_END>>
+<<PARAGRAPH>>8.2
+Any tube producing signals equal to or greater than the trigger/alarm level shall be designated suspect,
+or at the discretion of the manufacturer, may be retested.   If, after two consecutive retests, all signals are lower
+than the trigger/alarm level, the tube shall be deemed to have passed this test otherwise the tube shall be
+designated as suspect.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3
+For suspect tubes, one or more of the following actions shall be taken subject to the requirements of the
+product standard.<<HEADING_END>>
+<<PARAGRAPH>>a)
+The suspect area shall be dressed or explored by a suitable method. After checking that the remaining
+thickness is within tolerance, the tube shall be tested as previously specified. If no signals are obtained
+equal to or greater than trigger/alarm level, the tube shall be deemed to have passed this test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By agreement between the purchaser and manufacturer the suspect area may be retested by other non-
+destructive techniques and test methods, to agreed acceptance levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+The suspect area shall be cropped off. The manufacturer shall ensure that all the suspect area has been
+removed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+The tube shall be deemed not to have passed the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report including at least the following
+information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+type and details of inspection technique(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+equipment calibration method used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+description of the reference standard acceptance level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+date of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+operator identification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`--<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 10                                                                    |
+| Copyright International Organization for Standardization `-`-         |
+|:----------------------------------------------------------------------|
+| Provided by IHS under license with ISO `,,                            |
+| No reproduction or networking permitted without license from IHS `,,` |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(informative)
+Guidance notes on limitations of eddy current test method<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>A.1 Eddy current depth of penetration<<HEADING_END>>
+<<PARAGRAPH>>During the eddy current testing of tubes, the sensitivity of the test is at a maximum at the tube surface
+adjacent to the test coil and decreases with increasing distance from the test coil. The signal response from a
+subsurface or internal surface imperfection is thus smaller than that from an external surface imperfection of
+the same size. The capacity of the test equipment to detect subsurface or internal surface imperfections is
+determined by various factors, but predominantly by the thickness of the tube under test and the eddy current
+excitation frequency.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The excitation frequency applied to the test coil determines the extent to which the induced eddy current
+intensity penetrates the tube wall. The higher the excitation frequency, the lower the penetration and
+conversely, the lower the excitation frequency, the higher the penetration. In particular, the physical
+parameters of the tube (conductivity, permeability, etc.) should be taken into account.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2 Concentric coil/segment coil technique<<HEADING_END>>
+<<PARAGRAPH>>These test techniques are preferred since they can detect short longitudinal imperfections and transverse
+imperfections, both of which break, or lie below, the surface adjacent to the test coil.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The minimum length of the longitudinal imperfection which is detectable is principally determined by the
+search coil arrangement and by the rate of change of section along the length of the imperfection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When using these techniques on ferromagnetic steel, the products being inspected shall be magnetically
+saturated, inserting them into an external strong magnetic field. The intention of this saturation is to normalize
+and reduce the magnetic permeability of the material in order to increase the penetration capability of eddy
+current and to reduce possible magnetic noises from material itself.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3 Fixed or rotating probe/pancake coil technique<<HEADING_END>>
+<<PARAGRAPH>>This test technique uses one or more probes/coils to describe a helical path over the tube surface. For this
+reason, this technique detects longitudinal imperfections with a minimum length dependent on the width of the
+test coil and the inspection helical pitch. It is recognized that transverse imperfections are not normally
+detectable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Since the excitation frequency is significantly higher than that using concentric coil/segment coil, only
+imperfections which break the tube surface adjacent to the test coil are detectable.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+11<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 10893-2:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 11 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 18
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 20
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_2] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_2] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 8x6
+[TABLE_2] Page: 13, Size: 3x1
+[TABLE_1] Page: 14, Size: 3x1
+[TABLE_1] Page: 15, Size: 6x2
+[TABLE_2] Page: 15, Size: 3x1
+[TABLE_1] Page: 16, Size: 3x1
+[TABLE_1] Page: 17, Size: 3x1
+[TABLE_1] Page: 18, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

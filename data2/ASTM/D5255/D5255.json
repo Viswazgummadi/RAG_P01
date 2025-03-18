@@ -1,0 +1,603 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            42.55,
+            44.54,
+            72.55,
+            74.35
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: D 5255 \u2013 01",
+          "bbox": [
+            78.47,
+            47.76,
+            207.79,
+            62.87
+          ],
+          "block_id": "b1_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Practice for\nCerti\ufb01cation of Personnel Engaged in the Testing of Soil\nand Rock 1",
+          "bbox": [
+            99.43,
+            94.52,
+            478.67,
+            142.62
+          ],
+          "block_id": "b1_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation D 5255; the number immediately following the designation indicates the year of\noriginal adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A\nsuperscript epsilon ( e ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            99.43,
+            153.65,
+            506.6,
+            181.59
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope *\n1.1 This practice provides a guide for evaluation and certi-\n\ufb01cation procedures for personnel engaged in testing soil and\nrock in accordance with ASTM test methods and is intended\nfor use by independent organizations providing certi\ufb01cation\nservices.\n1.2 Quali\ufb01cations for certi\ufb01cation candidates, quali\ufb01cations\nof those administering the certi\ufb01cation examinations, methods\nof administering the certi\ufb01cation tests, and certain certi\ufb01cation\norganization operating requirements are given.\n1.3 Certi\ufb01cation is speci\ufb01c to a single ASTM test method. A\nmonitored written examination and a monitored performance\nexamination are normally required.",
+          "bbox": [
+            42.55,
+            193.77,
+            294.06,
+            347.68
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Terminology\n3.1  De\ufb01nitions:\n3.1.1  agency \u2014an organization, or part of an organization,\nengaged in activities of technically oriented testing or inspec-\ntion, or both.\n3.1.2  inspection \u2014the process of measuring, examining,\ntesting, gaging, or using other procedures to ascertain the\nquality or state, detect errors or defects or otherwise appraise\nmaterials, products, services, systems, or environments to a\npre-established standard.\n3.1.3  testing \u2014the determination by technical means of\nproperties, performance, or elements of materials, products,\nservices, systems, or environments that may involve applica-\ntion of established scienti\ufb01c principles and procedures.\n3.2  De\ufb01nitions of Terms Speci\ufb01c to This Standard:\n3.2.1  certi\ufb01cant \u2014the individual who has been certi\ufb01ed by\nthe certi\ufb01cation organization.\n3.2.2  certi\ufb01cation \u2014an action which determines and an-\nnounces that an individual has ful\ufb01lled the pre-established\nrequirements and is competent to perform the designated\ntask(s) associated with a single ASTM test method.\n3.2.3  certi\ufb01cation organization \u2014an independent body en-\ngaged in the evaluation and credentialing of the knowledge and\nabilities of individuals performing speci\ufb01ed tasks.\n3.2.4  examinee \u2014certi\ufb01cation applicant involved in the ex-\namination process.\n3.2.5  examiner \u2014a quali\ufb01ed professional who administers\nand evaluates the performance examination component of the\ncerti\ufb01cation process.\n3.2.6  personnel \u2014employees of inspection and testing agen-\ncies who perform soil and rock tests.\n3.2.7  proctor \u2014the individual responsible for administering\nthe written examination component of the certi\ufb01cation process.\n3.2.8  quali\ufb01ed professional \u2014a professional engineer or\nsimilar professional who is recognized by peers and associates\nas having soil and rock testing expertise.\n3.2.9  specifying entity \u2014the organization requiring the cer-\nti\ufb01cation through provisions in contracts, standards, regula-\ntions, codes, and legislation.",
+          "bbox": [
+            311.96,
+            193.77,
+            563.48,
+            646.02
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  1\u2014Personnel certi\ufb01cation may be an important aspect of a\nquality system as described in practice D3740. Certi\ufb01cation of personnel\nis one means of meeting personnel quali\ufb01cations given in practice D3740.",
+          "bbox": [
+            42.55,
+            352.41,
+            294.05,
+            383.68
+          ],
+          "block_id": "b1_5",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.4  This standard does not purport to address all of the\nsafety concerns, if any, associated with its use. It is the\nresponsibility of the user of this standard to establish appro-\npriate safety and health practices and determine the applica-\nbility of regulatory limitations prior to use.\n1.5  This practice offers a set of instructions for performing\none or more speci\ufb01c operations. This document cannot replace\neducation or experience and should be used in conjunction\nwith professional judgment. Not all aspects of this practice may\nbe applicable in all circumstances. This ASTM standard is not\nintended to represent or replace the standard of care by which\nthe adequacy of a given professional service must be judged,\nnor should this document be applied without consideration of\na project\u2019s many unique aspects. The word \u201cStandard\u201d in the\ntitle of this document means only that the document has been\napproved through the ASTM consensus process.",
+          "bbox": [
+            42.55,
+            385.75,
+            294.07,
+            571.08
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents\n2.1  ASTM Standards:\nD 3740 Practice for Minimum Requirements for Agencies\nEngaged in the Testing of Soil and Rock as Used in\nEngineering, Design, and Construction. 2",
+          "bbox": [
+            42.55,
+            577.42,
+            294.02,
+            639.53
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4. Signi\ufb01cance and Use\n4.1 This practice provides basic criteria for the development\nand operation of a certi\ufb01cation organization, selection of\nexamination material for a written examination, and the scope",
+          "bbox": [
+            311.96,
+            652.26,
+            563.41,
+            702.9
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This practice is under the jurisdiction of ASTM Committee D18 on Soil and\nRock and is the direct responsibility of Subcommittee D18.99 on Quality Control.\nCurrent edition approved Jan. 10, 2001. Published April 2001. Originally\npublished as D 5255 \u2013 92. Last previous edition D 5255 \u2013 97 e 1 .\n2  Annual Book of ASTM Standards , Vol 04.08.",
+          "bbox": [
+            42.55,
+            657.54,
+            294.0,
+            706.43
+          ],
+          "block_id": "b1_10",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "*A Summary of Changes section appears at the end of this standard.",
+          "bbox": [
+            182.96,
+            731.17,
+            423.06,
+            742.22
+          ],
+          "block_id": "b1_12",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, United States.",
+          "bbox": [
+            42.55,
+            745.29,
+            301.6,
+            753.52
+          ],
+          "block_id": "b1_13",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b1_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            42.55,
+            44.54,
+            72.55,
+            74.35
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ],
+          "block_id": "img2_6"
+        },
+        {
+          "type": "text",
+          "content": "D 5255",
+          "bbox": [
+            295.27,
+            44.02,
+            330.65,
+            59.13
+          ],
+          "block_id": "b2_7",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "and details of a performance test. The quali\ufb01cations of the\nexaminer and limitations on the relationship between the\nexaminer and the examinee are given in this practice.\n4.2 The basic criteria provided by this practice is intended to\nbe supplemented by more speci\ufb01c criteria serving the require-\nments of the certi\ufb01cation organization.\n4.3 It is unrealistic and unintended that each individual be\ncerti\ufb01ed for every test that the employing agency performs.\nRather it should be a goal of an agency that a majority of\npersonnel normally performing a given test are certi\ufb01ed.\nDepending on the purpose of the testing, it may be appropriate\nfor the client to specify whether or not a certi\ufb01ed technician\nshould perform a given test.\n4.4 Although this practice calls for certi\ufb01cation speci\ufb01c to a\nsingle ASTM test method, it is not intended that the certi\ufb01ca-\ntion organization avoid grouping related test methods in the\ninterest of efficiency.",
+          "bbox": [
+            42.55,
+            65.96,
+            294.05,
+            262.87
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "nism for responding to inquiries from individuals and organi-\nzations wanting to verify that a particular certi\ufb01cant has a\nspeci\ufb01c certi\ufb01cation.\n5.4  Records :\n5.4.1 The \ufb01les of the certi\ufb01cation organization should con-\ntain at least the following:\n5.4.1.1 Examination identity and date administered,\n5.4.1.2 Examination question source,\n5.4.1.3 Identity and quali\ufb01cations of written examination\nproctor,\n5.4.1.4 Identity and quali\ufb01cations of performance examina-\ntion examiner, and\n5.4.1.5 Examination question performance statistics.\n5.5  Evidence of Certi\ufb01cation :\n5.5.1 Evidence of certi\ufb01cation shall be issued by the orga-\nnization to the candidate upon successful completion of the\nexaminations. Certi\ufb01cation shall include the date of certi\ufb01ca-\ntion, the period of certi\ufb01cation, and the ASTM test method or\ntest methods for which the examinee is quali\ufb01ed.\n5.5.1.1 The ASTM test method shall be listed by use of\n\u201cASTM,\u201d the test method designation, and the year of the\nversion used for the certi\ufb01cation, for example, \u201cASTM\nD XXXX \u2013 86.\u201d",
+          "bbox": [
+            311.96,
+            65.96,
+            563.44,
+            331.71
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Certi\ufb01cation Organization\n5.1  Structure :\n5.1.1 The certi\ufb01cation organization shall be administratively\nindependent in matters pertaining to certi\ufb01cation. Administra-\ntively independent means that all policy decisions relating to\ncerti\ufb01cation matters are the sole decision of the certifying\norganization and not subject to approval by any other body and\nthat all \ufb01nancial matters related to the operation of the\ncertifying organization are segregated from those of the parent\nor affiliated organization.\n5.1.1.1 A certifying organization that is not a legal entity in\nand of itself shall provide proof that the organization\u2019s gov-\nerning body is administratively independent in certi\ufb01cation\nmatters from the organization of which it is part.\n5.1.2 The certi\ufb01cation organization shall disclose, through\npublication of a publicly available document, rules and proce-\ndures that describe how the certi\ufb01cant, the employer, and the\nspecifying entity have input into the policies and decisions of\nthe organization.\n5.2  Resources :\n5.2.1 The certi\ufb01cation organization shall disclose, through\npublication of a publicly available document, evidence that the\norganization has the \ufb01nancial resources to properly conduct the\ncerti\ufb01cation activities.\n5.2.2 The certi\ufb01cation organization shall disclose, through\npublication of a publicly available document, evidence that its\nstaff possesses the knowledge and skill necessary to conduct\nthe certi\ufb01cation activities or has available and makes use of\nnon-staff consultants and professionals to sufficiently supple-\nment staff knowledge and skill.\n5.3  Responsibilities :\n5.3.1 The certi\ufb01cation organization shall disclose, through\npublication of a publicly available document, evidence that the\nmechanism used to evaluate individual competence is objec-\ntive, fair, and based on the knowledge and skills needed to\nproperly perform the test method(s).\n5.3.2 The certi\ufb01cation organization shall publish, at least\nannually, a summary of certi\ufb01cation activities to include\nnumber tested, number passing the examinations, number\ncerti\ufb01ed, and, when applicable, number re-certi\ufb01ed.\n5.3.3 The certi\ufb01cation organization shall provide a mecha-",
+          "bbox": [
+            42.55,
+            267.91,
+            294.05,
+            743.11
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6. Examiner\n6.1 The performance examination examiner shall be a\nquali\ufb01ed professional with at least \ufb01ve years of experience at\nperforming and supervising the performance of a variety of\nASTM test methods and shall have repeatedly performed the\nASTM test method(s) the examinees will be performing.\n6.1.1 The examiner shall not be a relative, a supervisor, or\nan associate (co-worker) of the examinee.\n6.1.1.1 When there is a possibility of con\ufb02ict of interest,\ndocumentation shall be attached to the examinee\u2019s \ufb01le certify-\ning that there is sufficient separation in the organization\u2019s\nstructure between the examiner and examinee so that it is not\nin the examiner\u2019s interest whether or not the examinee is\ncerti\ufb01ed.\n6.2 In the interest of efficiency, use of quali\ufb01ed assistant\nexaminers may be appropriate.\n6.2.1 The assistant examiner shall be an individual with at\nleast one-half year of experience at performing the ASTM test\nmethod(s) and shall be certi\ufb01ed for the ASTM test method(s)\nthe examinees will be performing.\n6.2.2 The assistant examiner shall not be a relative, a\nsupervisor, or an associate (co-worker) of the examinee.\n6.2.3 The assistant examiner, if used, shall assist the exam-\niner and cannot be used in lieu of the examiner.",
+          "bbox": [
+            311.96,
+            337.95,
+            563.46,
+            618.08
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Examinee\n7.1 Examinee must be sufficiently literate to read and\nanswer questions of the written examination, to be capable of\nperforming required calculations, to place necessary data in\nforms or unformatted data tables, and personally perform the\ntest method.",
+          "bbox": [
+            311.96,
+            624.22,
+            563.44,
+            697.81
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8. Certi\ufb01cation and Recerti\ufb01cation\n8.1 Initial certi\ufb01cation shall be valid for a period not to\nexceed \ufb01ve years. This period for which the certi\ufb01cation is",
+          "bbox": [
+            311.96,
+            703.94,
+            563.45,
+            743.11
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b2_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_6",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ],
+          "block_id": "img3_13"
+        },
+        {
+          "type": "text",
+          "content": "D 5255",
+          "bbox": [
+            295.27,
+            44.02,
+            330.65,
+            59.13
+          ],
+          "block_id": "b3_14",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "valid shall be clearly and prominently stated on any documents\nthat attest to the certi\ufb01cation(s) held by the individual.\n8.2 Recerti\ufb01cation shall be valid for a period not to exceed\n\ufb01ve years. This recerti\ufb01cation action and the period for which\nthe recerti\ufb01cation is valid shall be clearly and prominently\nstated on any documents that attest to the certi\ufb01cation(s) held\nby the individual.\n8.2.1 The recerti\ufb01cation process shall involve, as a mini-\nmum, the performance examination.",
+          "bbox": [
+            42.55,
+            65.96,
+            294.03,
+            171.07
+          ],
+          "block_id": "b3_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "underlying the test method and the basis of some of the\nrequired calculations for the test method should also be\nstressed. The questions shall cover the test method elements\nsuch as apparatus, specimen preparation, test procedure, and\nreport requirements.\n9.3 The written examination shall be given in a room that\nprovides the lighting level, noise control, work space, ventila-\ntion, and temperature control that is universally recognized as\nnecessary for a testing facility in which written examinations\nare administered.",
+          "bbox": [
+            311.96,
+            65.96,
+            563.44,
+            182.54
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  2\u2014An appropriate written examination should be given if suffi-\ncient changes to the test method have occurred which cannot be properly\ncovered by the performance exam.",
+          "bbox": [
+            42.55,
+            175.8,
+            294.01,
+            207.07
+          ],
+          "block_id": "b3_1",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10. Performance Examination\n10.1 The performance examination for each test method\nshall be administered by one or more examiners meeting the\nrequirements of Section 6.\n10.2 The examiner shall conduct the performance examina-\ntion for a given ASTM test method in accordance with a\npre-established checklist that recognizes and weighs the steps\nthat must be done to properly perform the test method.\n10.3 The performance examination shall be given in an\nenvironment that duplicates or attempts to duplicate the envi-\nronment where the ASTM test method is normally conducted.",
+          "bbox": [
+            311.96,
+            191.76,
+            563.44,
+            322.72
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.3 Revocation of certi\ufb01cation for just cause shall occur\nonly after due process is provided to the person charged.",
+          "bbox": [
+            42.55,
+            209.14,
+            294.02,
+            233.93
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9. Written Examination\n9.1 The written examination shall be prepared by quali\ufb01ed\nprofessionals thoroughly familiar with the ASTM test meth-\nod(s). The examination shall be changed periodically. All\nmeasures required to prevent compromise of the examination\nshall be taken.\n9.1.1 When there is reasonable suspicion of compromise of\nan examination, that examination shall not be used.\n9.2 The examination shall stress the essentials of the ASTM\ntest method(s), as well as details. In particular, common\nsources of error of the test should be the basis for a number of\nexamination questions. A basic understanding of the principles",
+          "bbox": [
+            42.55,
+            240.17,
+            294.07,
+            382.6
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11. Keywords\n11.1 certi\ufb01cation; evaluation; examination; personnel; per-\nsonnel certi\ufb01cation; personnel evaluation; personnel testing;\ntesting",
+          "bbox": [
+            311.96,
+            331.93,
+            563.44,
+            382.57
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SUMMARY OF CHANGES",
+          "bbox": [
+            242.01,
+            408.05,
+            363.97,
+            421.86
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This section identi\ufb01es location of changes to this practice since the last edition.",
+          "bbox": [
+            87.95,
+            431.4,
+            413.55,
+            444.71
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(1) Revisions to 8.1 and 8.2 were made to allow periods of up\nto \ufb01ve years.",
+          "bbox": [
+            42.55,
+            456.1,
+            293.99,
+            480.88
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The American Society for Testing and Materials takes no position respecting the validity of any patent rights asserted in connection\nwith any item mentioned in this standard. Users of this standard are expressly advised that determination of the validity of any such\npatent rights, and the risk of infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            98.98,
+            493.27,
+            508.39,
+            519.83
+          ],
+          "block_id": "b3_10",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM Headquarters. Your comments will receive careful consideration at a meeting of the responsible\ntechnical committee, which you may attend. If you feel that your comments have not received a fair hearing you should make your\nviews known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            98.98,
+            530.69,
+            508.34,
+            574.22
+          ],
+          "block_id": "b3_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.\nIndividual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above address or at\n610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website (www.astm.org).",
+          "bbox": [
+            98.98,
+            585.08,
+            508.36,
+            611.64
+          ],
+          "block_id": "b3_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b3_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_13",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

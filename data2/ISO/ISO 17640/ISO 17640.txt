@@ -1,0 +1,2886 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+17640<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2005-07-15<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of welds —
+Ultrasonic testing of welded joints<<HEADING_END>>
+<<PARAGRAPH>>Contrôle non destructif des assemblages soudés — Contrôle par
+ultrasons des assemblages soudés<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 17640:2005(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2005<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Reproduced by IHS under license with ISO                         |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>©   ISO 2005<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2005 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword............................................................................................................................................................ iv<<HEADING_END>>
+<<HEADING level=3>>Introduction ........................................................................................................................................................ v<<HEADING_END>>
+<<HEADING level=3>>1
+Scope ..................................................................................................................................................... 1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references ........................................................................................................................... 1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions........................................................................................................................... 2<<HEADING_END>>
+<<HEADING level=3>>4
+Symbols and abbreviated terms ......................................................................................................... 2<<HEADING_END>>
+<<PARAGRAPH>>5
+Information requirements .................................................................................................................... 2
+5.1
+Information required prior to testing .................................................................................................. 2
+5.2
+Additional pre-test information ........................................................................................................... 3
+5.3
+Written test procedure.......................................................................................................................... 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Requirements for personnel and equipment ..................................................................................... 3
+6.1
+Personnel qualifications ...................................................................................................................... 3
+6.2
+Equipment ............................................................................................................................................. 4
+6.3
+Probe parameters ................................................................................................................................. 4<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Test volume........................................................................................................................................... 4<<HEADING_END>>
+<<HEADING level=3>>8
+Preparation of scanning surfaces....................................................................................................... 5<<HEADING_END>>
+<<HEADING level=3>>9
+Parent material testing ......................................................................................................................... 6<<HEADING_END>>
+<<PARAGRAPH>>10
+Range and sensitivity setting.............................................................................................................. 6
+10.1
+General................................................................................................................................................... 6
+10.2
+Reference level...................................................................................................................................... 6
+10.3
+Evaluation levels................................................................................................................................... 7
+10.4
+Transfer correction............................................................................................................................... 7
+10.5
+Signal-to-noise ratio ............................................................................................................................. 8<<PARAGRAPH_END>>
+<<HEADING level=3>>11
+Testing levels ........................................................................................................................................ 8<<HEADING_END>>
+<<PARAGRAPH>>12
+Testing technique ................................................................................................................................. 8
+12.1
+General................................................................................................................................................... 8
+12.2
+Manual scan path.................................................................................................................................. 8
+12.3
+Testing for imperfections perpendicular to the test surface............................................................ 9
+12.4
+Location of indications......................................................................................................................... 9
+12.5
+Evaluation of indications ..................................................................................................................... 9<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+Test report ........................................................................................................................................... 10
+13.1
+General................................................................................................................................................. 10
+13.2
+General data ........................................................................................................................................ 10
+13.3
+Information relating to equipment .................................................................................................... 11
+13.4
+Information relating to testing technique......................................................................................... 11
+13.5
+Results of testing................................................................................................................................ 11<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A  (normative)   Testing levels for various types of welded joint....................................................... 12<<HEADING_END>>
+<<HEADING level=3>>Bibliography ..................................................................................................................................................... 26<<HEADING_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17640 was prepared by Technical Committee ISO/TC 44,  Welding and allied processes , Subcommittee
+SC 5,  Testing and inspection of welds .<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2005 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>This International Standard describes general methods for ultrasonic testing, using standard criteria, of the
+most commonly used welded joints. It specifies requirements for equipment, surface preparation, inspection
+performance and reporting. The parameters specified, in particular those for the probes, are compatible with
+the requirements of EN 1712 and EN 1713, and are suitable for use with other acceptance criteria standards.
+The inspection techniques are suitable for the detection of weld imperfections specified in typical weld
+acceptance standards. The methods used for ultrasonic assessment of indications and acceptance criteria
+shall be specified, for example by reference to application standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Requests for official interpretations of any aspect of this International Standard should be directed to the
+Secretariat of ISO/TC 44/SC 5 via your national standards body. A complete listing of these bodies can be
+found at www.iso.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+If the acceptance criteria require a more precise determination of the height and nature of the defect, e.g.
+when fitness-for-purpose criteria are applied, this may necessitate the use of techniques outside the scope of this
+International Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of welds — Ultrasonic testing of welded
+joints<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This International Standard specifies methods for manual ultrasonic testing of fusion-welded joints in metallic
+materials, greater than or equal to 8 mm thick, which exhibit low ultrasonic attenuation (especially that due to
+scatter). This International Standard is primarily intended for full penetration welded joints where both the
+welded and parent materials are ferritic.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This International Standard specifies four testing levels (A, B, C and D) (see Clause 11), each corresponding
+to a different probability of detection of imperfections. Rules for the selection of testing levels A, B and C are
+given in Annex A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This International Standard may be used for assessment of indications, for acceptance purposes, by either of
+the following methods:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+evaluation based primarily on length and echo amplitude of the signal indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+evaluation based on characterization and sizing of the indication by probe movement methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The techniques described in this International Standard may be specified, for example in an application
+standard, for use with:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  materials other than those stated,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  partial-penetration welds,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  automated equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In each case, the technique should be verified as having adequate sensitivity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Where material-dependent ultrasonic values are specified in this International Standard, they are based on
+steels having an ultrasonic sound velocity of (5 920  ±  50) m/s for longitudinal waves, and (3 255  ±  30) m/s for transverse
+waves. This is to be taken into account when testing materials with a different velocity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5577,  Non-destructive testing — Ultrasonic inspection — Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10375,  Non-destructive testing — Ultrasonic inspection — Characterization of search unit and sound field<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 12715,  Ultrasonic non-destructive testing — Reference blocks and test procedures for the
+characterization of contact search unit beam profiles<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>ISO 17635,  Non-destructive testing of welds — General rules for fusion welds in metallic materials<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 583-1,  Non-destructive testing — Ultrasonic examination — Part 1: General principles<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 583-2,  Non-destructive testing — Ultrasonic examination — Part 2: Sensitivity and range setting<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 17635 and ISO 5577 apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Symbols and abbreviated terms<<HEADING_END>>
+<<PARAGRAPH>>The symbols and abbreviated terms used in this International Standard are given in Table 1.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Symbols and abbreviated terms<<HEADING_END>>
+<<HEADING level=3>>Symbol
+Term
+Unit<<HEADING_END>>
+<<PARAGRAPH>>t
+Thickness of parent material (at the thinnest point)
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>D DSR
+Diameter of a disc-shaped reflector
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>D SDH
+Diameter of a side-drilled hole
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>t
+Indication length
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>h
+Extension of an indication in the depth direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>x
+Position of an indication in the longitudinal direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>y
+Position of an indication in the transverse direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>z
+Position of an indication in the depth direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>l z
+Projected length of the indication in the z-direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>l x
+Projected length of the indication in the x-direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>l y
+Projected length of the indication in the y-direction
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>p
+Full skip distance
+mm<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Information requirements<<HEADING_END>>
+<<HEADING level=3>>5.1 Information required prior to testing<<HEADING_END>>
+<<PARAGRAPH>>Prior to testing, the following items shall be specified (where applicable):<<PARAGRAPH_END>>
+<<PARAGRAPH>>  method for setting the reference level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  manufacturing and operation stage(s) at which testing is to be carried out;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  testing level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  acceptance levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  method to be used for evaluation of indications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  qualification of personnel;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Symbol   | Term                                                    | Unit   |
+|:---------|:--------------------------------------------------------|:-------|
+| t        | Thickness of parent material (at the thinnest point)    | mm     |
+| D        | Diameter of a disc-shaped reflector                     | mm     |
+| DSR      |                                                         |        |
+| D        | Diameter of a side-drilled hole                         | mm     |
+| SDH      |                                                         |        |
+| t        | Indication length                                       | mm     |
+| h        | Extension of an indication in the depth direction       | mm     |
+| x        | Position of an indication in the longitudinal direction | mm     |
+| y        | Position of an indication in the transverse direction   | mm     |
+| z        | Position of an indication in the depth direction        | mm     |
+| l        | Projected length of the indication in the z-direction   | mm     |
+| z        |                                                         |        |
+| l        | Projected length of the indication in the x-direction   | mm     |
+| x        |                                                         |        |
+| l        | Projected length of the indication in the y-direction   | mm     |
+| y        |                                                         |        |
+| p        | Full skip distance                                      | mm     |
+<<TABLE_END>>
+<<TABLE_2>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>  extent of testing for transverse indications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>  requirements for tandem testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  parent material testing prior to and/or after welding;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  requirements for written test procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Additional pre-test information<<HEADING_END>>
+<<PARAGRAPH>>Prior to testing, the operator shall have access to the following information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  written test procedure, if required (see 5.3);<<PARAGRAPH_END>>
+<<PARAGRAPH>>  type(s) of parent material and product form (i.e. cast, forged, rolled);<<PARAGRAPH_END>>
+<<PARAGRAPH>>  manufacturing or operation stage, including any heat treatment, at which testing is to be carried out;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  time and extent of any post-weld heat treatment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  joint preparation and dimensions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  requirements for surface conditions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  welding procedure or relevant information on the welding process;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  reporting requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  acceptance levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  extent of testing, including requirements for transverse indications, if relevant;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  testing level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  personnel qualification level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  procedures for corrective actions when unacceptable indications are revealed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Visual testing in accordance with ISO 17637 may be specified prior to any ultrasonic testing. In this case, the
+result shall also be made available.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Written test procedure<<HEADING_END>>
+<<PARAGRAPH>>This International Standard will normally satisfy the need for a written test procedure. Where additional written
+procedures are required, they shall be specified prior to testing, for example by reference to an application
+standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Requirements for personnel and equipment<<HEADING_END>>
+<<HEADING level=3>>6.1 Personnel qualifications<<HEADING_END>>
+<<PARAGRAPH>>Ultrasonic testing of welds and the evaluation of results for final acceptance shall be performed by qualified
+and capable personnel. It is recommended that personnel are qualified in accordance with ISO 9712 or an
+equivalent standard at an appropriate level in the relevant industry sector.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>6.2 Equipment<<HEADING_END>>
+<<PARAGRAPH>>All ultrasonic testing equipment shall comply with the requirements of ISO 10375 and ISO 12715.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Probe parameters<<HEADING_END>>
+<<HEADING level=3>>6.3.1
+Test frequency<<HEADING_END>>
+<<PARAGRAPH>>The test frequency shall be within the range 2 MHz to 5 MHz, and selected to comply with the specified
+acceptance levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the initial test, when the evaluation is carried out according to acceptance levels based on length and
+amplit u de, e.g. EN 1712, the test frequency shall be as low as possible within the above range. Higher test
+frequencies may be used to improve range resolution, if necessary, when using standards for acceptance
+levels based on characterization of imperfections, e.g. EN 1713.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Test frequencies of approximately 1 MHz may be used for testing of long sound paths where the material
+shows above-average attenuation.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2
+Angles of incidence<<HEADING_END>>
+<<PARAGRAPH>>When testing is carried out with transverse waves and techniques that require the ultrasonic beam to be
+reflected from an opposite surface, care shall be taken to ensure that the incident angle of the beam, with the
+opposite reflecting surface, is not less than 35° and preferably not greater than 70°. Where more than one
+probe angle is used, at least one of the angle probes used shall conform with this requirement. One of the
+probe angles used shall ensure that the weld fusion faces are tested at, or as near as possible to, normal
+incidence. When the use of two or more probe angles is specified, the difference between the nominal beam
+angles shall be 10° or greater.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Angles of incidence at the probe and opposite reflecting surface, when curved, may be determined by drawing
+a sectional view of the weld or in accordance with the methods given in EN 583-2. Where angles of incidence
+cannot be determined as specified by this International Standard, the test report shall contain a
+comprehensive description of the scans used and the extent of any incomplete coverage caused together with
+an explanation of the difficulties encountered.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.3
+Adaptation of probes to curved scanning surfaces<<HEADING_END>>
+<<PARAGRAPH>>The gap between test surface and bottom of the probe shoe shall not be greater than 0,5 mm. For cylindrical
+or spherical surfaces, this requirement will normally be met when  D   W  ( a 2 /2), where  D  is the diameter, in
+millimetres, of the component and  a  is the dimension, in millimetres, of the probe shoe in the direction of
+testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If this requirement cannot be met, the probe shoe shall be adapted to the surface and the sensitivity and
+range shall be set accordingly.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.4
+Coupling media<<HEADING_END>>
+<<PARAGRAPH>>The coupling media shall be in accordance with EN 583-1.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Test volume<<HEADING_END>>
+<<PARAGRAPH>>The test volume (see Figure 1) is defined as the zone which includes the weld and parent material for at least
+10 mm on each side of the weld, or the width of the heat-affected zone, whichever is greater.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>In all cases, scanning shall cover the whole test volume. If individual sections of this volume cannot be
+covered in at least one scanning direction, or if the angles of incidence with the opposite surface do not meet
+the requirements of 6.3.2, alternative or supplementary ultrasonic techniques or other non-destructive
+methods shall be specified. This may require removal of the weld reinforcement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alternative or supplementary techniques may require testing using dual-element angle beam probes, creeping
+wave probes and additional ultrasonic techniques. Other non-destructive methods may include liquid
+penetrant, magnetic particle and radiographic testing. In selecting alternative or supplementary methods, due
+consideration should be given to the type of weld and probable orientation of any imperfections to be detected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Preparation of scanning surfaces<<HEADING_END>>
+<<PARAGRAPH>>The width of the scanning surfaces should be sufficient to enable full coverage of the test volume by scanning
+from one surface (see Figure 1). The width of the scanning surfaces may be smaller if full coverage of the test
+volume can be achieved by scanning from both the upper and the lower surfaces of the joint.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The scanning surfaces shall be even and free from foreign matter likely to interfere with probe coupling (e.g.
+rust, loose scale, weld spatter, notches, grooves). The maximum permitted gap between the probe and the
+scanning surface from which the evaluation of indications is to be carried out shall be 0,5 mm. Any
+unevenness in the test surface which exceeds 0,5 mm shall be dressed in order to ensure these requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+angle probe position 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+angle probe position 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+angle probe position 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+width of test volume<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+scanning surface<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Example of test volume to be covered when scanning for longitudinal indications<<HEADING_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_4>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>Scanning surfaces and surfaces from which the sound beam is reflected may be assumed to be satisfactory if
+the surface roughness,  Ra , is not greater than 6,3 µm for machined surfaces, or not greater than 12,5 µm for
+shot-blasted surfaces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Local variations in surface contour, e.g. along the edge of the weld, which result in a gap beneath the probe of
+up to 1 mm, are only permitted if at least one additional probe angle is employed from the affected side at the
+weld. This additional scanning is necessary to compensate for the reduced weld coverage that occurs with
+such a gap.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Parent material testing<<HEADING_END>>
+<<PARAGRAPH>>The parent material in the scanning zone area shall be tested with straight beam probes prior to or after
+welding, unless it can be demonstrated (e.g. by previous testing during the fabrication process) that testing of
+the weld using an angle probe will not be influenced by the presence of imperfections or high attenuation in
+the parent material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If imperfections are found in the parent material, their influence on the subsequent weld testing using an angle
+probe shall be assessed and, if necessary, the weld testing techniques shall be adjusted. When ultrasonic
+testing of the weld is seriously affected by the presence of imperfections in the parent material, other test
+methods (e.g. radiography) shall be considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>10 Range and sensitivity setting<<HEADING_END>>
+<<HEADING level=3>>10.1 General<<HEADING_END>>
+<<PARAGRAPH>>The range and sensitivity shall be set prior to each test in accordance with this International Standard and
+EN 583-2. Checks to confirm these settings shall be performed at least every 4 h and on completion of testing.
+Checks shall also be carried out whenever a system parameter is changed or changes in the equivalent
+settings are suspected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If deviations in range or sensitivity are found during these checks, corrections shall be made in accordance
+with Table 2.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2 — Sensitivity and range corrections<<HEADING_END>>
+<<HEADING level=3>>Sensitivity<<HEADING_END>>
+<<PARAGRAPH>>1
+Deviations  u  4 dB
+The setting shall be corrected before testing is continued.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Reduction of the sensitivity  >  4 dB
+The setting shall be corrected and all tests carried out with the
+equipment over the previous period shall be repeated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Increase in sensitivity  >  4 dB
+The setting shall be corrected and all recorded indications shall be
+re-examined.<<PARAGRAPH_END>>
+<<HEADING level=3>>Range<<HEADING_END>>
+<<PARAGRAPH>>1
+Deviations  u  2 % of the range
+The setting shall be corrected before testing is continued.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Deviations  >  2 % of the range
+The setting shall be corrected and all tests carried out with the
+equipment over the previous period shall be repeated.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2 Reference level<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>The reference level for sizing of imperfections shall be set using one of the following methods:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Method 1: The reference level is set using a distance-amplitude-corrected curve (DAC curve) for a side-
+drilled hole of diameter  D SDH  = 3 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Sensitivity   |                                     |                                                                      |
+|:--------------|:------------------------------------|:---------------------------------------------------------------------|
+| 1             | Deviations u 4 dB                   | The setting shall be corrected before testing is continued.          |
+| 2             | Reduction of the sensitivity > 4 dB | The setting shall be corrected and all tests carried out with the    |
+|               |                                     | equipment over the previous period shall be repeated.                |
+| 3             | Increase in sensitivity > 4 dB      | The setting shall be corrected and all recorded indications shall be |
+|               |                                     | re-examined.                                                         |
+| Range         |                                     |                                                                      |
+| 1             | Deviations u 2 % of the range       | The setting shall be corrected before testing is continued.          |
+| 2             | Deviations > 2 % of the range       | The setting shall be corrected and all tests carried out with the    |
+|               |                                     | equipment over the previous period shall be repeated.                |
+<<TABLE_END>>
+<<TABLE_2>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>  Method 2: The reference levels using the distance-gain-size (DGS) system based on a disc-shaped
+reflector (DSR) for transverse waves are set in accordance with Table 3 and for longitudinal waves in
+accordance with Table 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Method 3: The reference level is set using a DAC curve for a 1 mm deep rectangular notch.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For tandem testing, the reference level shall be set using  D DSR  = 6 mm (for all thicknesses).<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3 Evaluation levels<<HEADING_END>>
+<<PARAGRAPH>>All indications equal to or exceeding the following shall be evaluated:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Methods 1 and 3: Reference level –10 dB (33 % of the DAC).<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Method 2: Reference level –4 dB, in accordance with Tables 3 and 4, respectively.<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Tandem test:  D DSR  = 6 mm (for all thicknesses).<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 — Reference levels for angle beam scanning with transverse waves for method 2 (DGS)<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Nominal probe frequency
+Thickness of parent material<<HEADING_END>>
+<<PARAGRAPH>>t<<PARAGRAPH_END>>
+<<PARAGRAPH>>MHz<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+15  u   t   <  40
+40  u   t   u  100<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,5 to 2,5
+—
+D DSR   =  2 mm
+D DSR   =  3 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>3 to 5
+D DSR   =  1 mm
+D DSR   =  1,5 mm
+—<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 4 — Reference levels for longitudinal waves for method 2 (DGS)<<HEADING_END>>
+<<HEADING level=3>>Nominal probe frequency
+Thickness of parent material<<HEADING_END>>
+<<PARAGRAPH>>t<<PARAGRAPH_END>>
+<<PARAGRAPH>>MHz<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+15  u   t   <  40
+40  u   t   u  100<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,5 to 2,5
+—
+D DSR   =  2 mm
+D DSR   =  3 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>3 to 5
+D DSR   =  2 mm
+D DSR   =  2 mm
+D DSR   =  3 mm<<PARAGRAPH_END>>
+<<HEADING level=3>>10.4 Transfer correction<<HEADING_END>>
+<<PARAGRAPH>>When separate blocks are used for establishing reference levels, a measurement shall be made of the
+transfer differences, between test object and block at a representative number of locations. Suitable
+techniques are described in EN 583-2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the differences are less than 2 dB, correction is not required.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the differences are greater than 2 dB but smaller than 12 dB, they shall be compensated for.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If transfer losses exceed 12 dB, the reason(s) shall be considered and further preparation of the scanning
+surfaces shall be carried out, if applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Nominal probe frequency   | `,,`,,`-`-`,``,,`--                   |            |          |
+| MHz                       | Thickness of parent material          |            |          |
+|                           | t                                     |            |          |
+|                           | mm                                    |            |          |
+|                           | 8 u t < 15 15 u t < 40 40 u t u 100   |            |          |
+|:--------------------------|:--------------------------------------|:-----------|:---------|
+| 1,5 to 2,5                | —                                     | D = 2 mm   | D = 3 mm |
+|                           |                                       | DSR        | DSR      |
+| 3 to 5                    | D = 1 mm                              | D = 1,5 mm | —        |
+|                           | DSR                                   | DSR        |          |
+<<TABLE_END>>
+<<TABLE_2>>
+| Nominal probe frequency   | Thickness of parent material          |          |          |
+| MHz                       | t                                     |          |          |
+|                           | mm                                    |          |          |
+|                           | 8 u t < 15 15 u t < 40 40 u t u 100   |          |          |
+|:--------------------------|:--------------------------------------|:---------|:---------|
+| 1,5 to 2,5                | —                                     | D = 2 mm | D = 3 mm |
+|                           |                                       | DSR      | DSR      |
+| 3 to 5                    | D = 2 mm                              | D = 2 mm | D = 3 mm |
+|                           | DSR                                   | DSR      | DSR      |
+<<TABLE_END>>
+<<TABLE_3>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>When there are no apparent reasons for high transfer correction values, the attenuation shall be measured at
+various locations on the test object and, where it is found to vary significantly, corrective actions considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.5 Signal-to-noise ratio<<HEADING_END>>
+<<PARAGRAPH>>During testing of the weld, the noise level, excluding spurious surface indications, shall remain at least 12 dB
+below the evaluation level. This requirement may be relaxed but shall be specified prior to testing, for example
+by reference to an application standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>11 Testing levels<<HEADING_END>>
+<<PARAGRAPH>>Quality requirements for welded joints are mainly associated with the material, welding process and service
+conditions. To accommodate all of these requirements, this International Standard specifies four testing levels
+(A, B, C and D).<<PARAGRAPH_END>>
+<<PARAGRAPH>>From testing level A to testing level C, an increased probability of detection will be achieved by an increased
+test coverage, e.g. number of scans, surface dressing. Testing level D may be used for special applications,
+using a written procedure which shall take into account the general requirements of this International Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>In general, the testing levels are related to quality levels (e.g. ISO 5817). The appropriate testing level may be
+specified by standards for testing of welds (e.g. ISO 17635), application/product standards or other documents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When ISO 17635 is specified, the testing levels given in Table 5 are recommended.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 5 — Recommended testing levels<<HEADING_END>>
+<<HEADING level=3>>Testing level
+Quality level in ISO 5817<<HEADING_END>>
+<<PARAGRAPH>>A
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+No recommended level — shall be specified<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+Special application<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specific requirements for testing levels A to C for various types of joints are given in Annex A. It should be
+noted that the joint types shown are ideal examples only and, where actual weld conditions or accessibility do
+not conform exactly with those shown, the testing technique shall be modified to satisfy the general
+requirements of this International Standard and the specific testing level required. For these cases, a written
+test procedure shall be prepared.<<PARAGRAPH_END>>
+<<HEADING level=3>>12 Testing technique<<HEADING_END>>
+<<HEADING level=3>>12.1 General<<HEADING_END>>
+<<PARAGRAPH>>Ultrasonic testing shall be performed in accordance with EN 583-1 and 12.2 to 12.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2 Manual scan path<<HEADING_END>>
+<<PARAGRAPH>>During angle probe scanning (as illustrated in Figure 1), a slight swivelling movement up to an angle of 10° on
+either side of the nominal beam direction may be applied to the probe.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Testing level   | Quality level in ISO 5817                 |
+|:----------------|:------------------------------------------|
+| A               | C                                         |
+| B               | B                                         |
+| C               | No recommended level — shall be specified |
+| D               | Special application                       |
+<<TABLE_END>>
+<<TABLE_2>>
+| 8                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+origin<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 2 — Coordinate system for defining the location of indications<<HEADING_END>>
+<<HEADING level=3>>12.3 Testing for imperfections perpendicular to the test surface<<HEADING_END>>
+<<PARAGRAPH>>Subsurface planar imperfections oriented perpendicular to the test surface are difficult to detect with single
+angle probe techniques. For such imperfections, alternative or supplementary testing techniques should be
+considered, particularly for welds in thicker materials. Use of these testing techniques shall be specified for
+example by reference to an application standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4 Location of indications<<HEADING_END>>
+<<PARAGRAPH>>The location of all indications shall be defined by reference to a coordinate system, e.g. as shown in Figure 2.
+A point on the test surface shall be selected as the origin for these measurements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When ultrasonic testing is carried out from more than one surface, reference points shall be established on
+each surface. In this case, care shall be taken to establish a positional relationship between all reference
+points used so that the absolute location of all indications can be established from any nominated reference
+point.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the case of circumferential welds, this may require the establishment of the inner and outer reference points
+prior to assembly for welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5 Evaluation of indications<<HEADING_END>>
+<<HEADING level=3>>12.5.1 General<<HEADING_END>>
+<<PARAGRAPH>>All indications above the evaluation level shall be assessed in accordance with 12.5.2 to 12.5.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2 Maximum echo amplitude<<HEADING_END>>
+<<PARAGRAPH>>The echo amplitude shall be maximized by probe movement and recorded in relation to the reference level
+(see 10.2).<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+9<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>12.5.3 Indication length<<HEADING_END>>
+<<PARAGRAPH>>The length of the indication, in either the longitudinal or transverse direction, shall, where possible, be
+determined using the technique specified in the acceptance level standard or the 6 dB drop tip location
+technique, unless otherwise specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.4 Indication height<<HEADING_END>>
+<<PARAGRAPH>>Indication height measurement shall only be carried out if specified, for example by reference to an application
+standard. If the height of the indications is to be measured, the following method shall be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where possible, for imperfections which generate more than one distinct peak in the received signal when
+scanned in the through-thickness direction, the height,  h , shall be measured by a probe movement technique.
+It is recommended that, when an indication has a measured height of 3 mm or above, the indication height is
+recorded. However, other higher threshold heights for recording may be specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.5 Characterization of imperfections<<HEADING_END>>
+<<PARAGRAPH>>Imperfections shall only be characterized if specified, for example by reference to an application standard, or
+to meet the requirements of the specified acceptance levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Indications shall be considered to be either longitudinal or transverse, depending on the direction of their
+major dimension with respect to the weld axis, x, in accordance with Figure 2.<<PARAGRAPH_END>>
+<<HEADING level=3>>13 Test report<<HEADING_END>>
+<<HEADING level=3>>13.1 General<<HEADING_END>>
+<<PARAGRAPH>>The test report shall include a reference to this International Standard and give, as a minimum, the information
+listed in 13.2 to 13.5.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.2 General data<<HEADING_END>>
+<<PARAGRAPH>>a)
+Identification of the object under test:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  material and product form,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  dimensions,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  location of weld/welded joint tested,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  sketch showing geometrical configuration (if necessary),<<PARAGRAPH_END>>
+<<PARAGRAPH>>  reference to the welding procedure, specification and heat treatment,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  state of manufacture,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  surface conditions,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  temperature of the object, if outside the range 0 °C to 40 °C;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+any additional requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+place and date of testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+identification of testing organizations and identification and certification of operator;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+identification of testing authority.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 10                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>13.3 Information relating to equipment<<HEADING_END>>
+<<PARAGRAPH>>a)
+Make and type of ultrasonic instrument, with identification number, if required;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+make, type, nominal frequency and actual angle of incidence of probes used, with identification number, if
+required;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+identification of reference blocks used, with a sketch, if necessary;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+coupling medium.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.4 Information relating to testing technique<<HEADING_END>>
+<<PARAGRAPH>>a)
+Testing level(s) and reference to written procedure when used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+extent of testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+location of the scanning areas;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+reference points and details of the coordinate system used, as specified in 12.4;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+identification of probe positions as specified in Annex A, either in writing or by use of a sketch;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+time base range;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+method and values used for sensitivity setting (gain setting for reference levels and values used for
+transfer corrections);<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+reference levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+result of the parent material testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+standard used for acceptance levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+deviations from this International Standard or additional requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5 Results of testing<<HEADING_END>>
+<<PARAGRAPH>>Tabular summary (or sketches) providing the following information for recorded indications:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+coordinates of the indication, as specified in 12.4, with details of associated probes and corresponding
+probe positions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+maximum echo amplitude as specified in 12.5.2 and information, if required, on the type and size of
+indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+lengths of indications as specified in 12.5.3;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+results of the evaluation according to specified acceptance levels.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+11<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(normative)
+Testing levels for various types of welded joint<<HEADING_END>>
+<<PARAGRAPH>>The testing levels for the joints given in Figures A.1 to A.7 are given in Tables A.1 to A.7, respectively.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key to tables<<HEADING_END>>
+<<PARAGRAPH>>L-scan
+scan for longitudinal indications using angle beam probes<<PARAGRAPH_END>>
+<<PARAGRAPH>>N-scan
+scan using straight beam probe
+T-scan
+scan for transverse indications using angle beam probes
+p
+full skip distance<<PARAGRAPH_END>>
+<<PARAGRAPH>>SZW
+scanning zone width<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+side 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+top view
+3
+side 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+side view
+5
+scanning zone width (SZW) related to skip distance,  p<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C, D, E. F, G, H, W, X, Y, Z: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Whenever possible, all scans shall be carried out from both sides (1 and 2).<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.1 — Butt joints in plates and pipes<<HEADING_END>>
+<<HEADING level=3>>12
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| 12                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>d
+The surface of the weld cap shall comply with Clause 8. This may require dressing of the weld cap. However, for single-sided circumferential pipe welds, the outside cap only need be
+dressed.<<PARAGRAPH_END>>
+<<HEADING level=3>>Total number
+of scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>60  u   t   u  100
+2
+A or B
+1,25 p
+—
+4
+b
+2
+(C and D) or (E and F)
+4
+c, d<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t  < 15
+1
+A or B
+1,25 p
+G or H
+3
+d
+1
+(C and D) or (E and F)
+2
+d<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   u  40
+2
+A or B
+1,25 p
+G or H
+5
+b, d
+2
+(C and D) or (E and F)
+4
+d
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>t   >  40
+2
+A and B
+1,25 p
+G and H
+10
+b, d
+2
+(C and D) or (E and F)
+4
+d<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B
+1,25 p
+—
+2
+a
+1
+(X and Y) or (W and Z)
+4
+c<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+15  u   t   u  40
+1
+A or B
+1,25 p
+—
+2
+a
+1
+(X and Y) or (W and Z)
+4
+c<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B
+1,25 p
+—
+2
+e
+1
+(X and Y) or (W and Z)
+4
+c<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+2 f
+A or B
+1,25 p
+—
+4
+b, e
+1
+(X and Y) or (W and Z)
+4
+c<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   <  60
+2
+A or B
+1,25 p
+—
+4
+b
+2
+(X and Y) or (W and Z)
+8
+c
+B<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<HEADING level=3>>angles
+(number)
+positions
+SZWs
+positions
+angles
+(number)
+positions<<HEADING_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<PARAGRAPH>>T-scans<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.1 — Butt joints in plates and pipes<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>f
+In the range 15 mm  <   t   u  25 mm, one angle is sufficient provided the frequency is below 3 MHz.<<PARAGRAPH_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans
+N-scans<<HEADING_END>>
+<<PARAGRAPH>>b
+Additional testing by tandem technique shall only be carried out if specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e
+If only accessible from one side, two angles shall be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+May be limited to one scan from one side.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+Only if specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+13<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | ETON               |         | c     | c     | c     | c     | c     | d     | d     | d     | d     | eb                                 |
+| esrevsnarT                |                    |         |       |       |       |       |       | ,c    |       |       |       | deen                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ylno                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | pac                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | edistuo                            |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eht                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ,sdlew                             |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | epip                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | laitnerefmucric                    |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | dedis-elgnis                       |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | rof                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ,revewoH                           |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | .pac                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | dlew                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | .zHM                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eht                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | fo 3                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | woleb                              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | gnisserd                           |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | si                                 |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ycneuqerf                          |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eriuqer                            |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | .deificeps                         |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | yam eht                            |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | fi dedivorp                        |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | tuo sihT                           |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | deirrac                            |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | .8 .desu                           |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | esualC tneiciffus                  |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eb eb                              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ylno llahs                         |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | htiw                               |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | si                                 |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | llahs ylpmoc selgna elgna          |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | .edis                              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | euqinhcet                          |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eno                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eno owt                            |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | llahs                              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ,mm                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | morf ,edis                         |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | pac                                |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | mednat 52                          |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | nacs eno                           |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | dlew u                             |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | morf t                             |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eno <                              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | yb eht mm                          |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ot gnitset .deificeps elbissecca   |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | detimil fo 51                      |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | ecafrus egnar                      |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | lanoitiddA                         |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | eb                                 |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | fi ylno eht                        |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | yaM ylnO ehT .desserd              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | fI nI                              |
+|                           |                    |         |       |       |       |       |       |       |       |       |       | a b c d e f                        |
+|:--------------------------|:-------------------|:--------|:------|:------|:------|:------|:------|:------|:------|:------|:------|:-----------------------------------|
+|                           | rebmun             |         | 4     | 4     | 4     | 4     | 8     | 4     | 2     | 4     | 4     |                                    |
+|                           | snacs              |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           | latoT fo           |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           | snoitisop          | snacs-T | )Z    | )Z    | )Z    | )Z    | )Z    | )F    | )F    | )F    | )F    |                                    |
+|                           | eborp              |         | dna   | dna   | dna   | dna   | dna   | dna   | dna   | dna   | dna   |                                    |
+|                           | deriuqeR           |         | W(    | W(    | W(    | W(    | W(    | E(    | E(    | E(    | E(    |                                    |
+|                           | )rebmun(           |         | ro    | ro    | ro    | ro    | ro    | ro    | ro    | ro    | ro    |                                    |
+|                           | selgna             |         | )Y    | )Y    | )Y    | )Y    | )Y    | )D    | )D    | )D    | )D    |                                    |
+|                           |                    |         | dna   | dna   | dna   | dna   | dna   | dna   | dna   | dna   | dna   |                                    |
+|                           |                    |         | X(    | X(    | X(    | X(    | X(    | C(    | C(    | C(    | C(    |                                    |
+|                           |                    |         | 1     | 1     | 1     | 1     | 2     | 2     | 1     | 2     | 2     |                                    |
+| snoitacidni               | ETON               |         | a     | a     | e     | e     | b     | b     | d     | d     | d     |                                    |
+| lanidutignoL              |                    |         |       |       |       | ,b    |       |       |       | ,b    | ,b    |                                    |
+|                           | fo                 |         | 2     | 2     | 2     | 4     | 4     | 4     | 3     | 5     | 01    |                                    |
+|                           | latoT rebmun snacs |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           | snoitisop          | snacs-N | —     | —     | —     | —     | —     | —     | H     | H     | H     |                                    |
+|                           | sWZS               |         |       |       |       |       |       |       | ro    | ro    | dna   |                                    |
+|                           | eborp              |         |       |       |       |       |       |       | G     | G     | G     |                                    |
+|                           | deriuqeR           |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           | snoitisop          |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           | )rebmun(           |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           | selgna             |         |       |       |       |       |       |       |       |       |       |                                    |
+|                           |                    | snacs-L | p52,1 | p52,1 | p52,1 | p52,1 | p52,1 | p52,1 | p52,1 | p52,1 | p52,1 |                                    |
+|                           |                    |         | B     | B     | B     | B     | B     | B     | B     | B     | B     |                                    |
+|                           |                    |         | ro    | ro    | ro    | ro    | ro    | ro    | ro    | ro    | dna   |                                    |
+|                           |                    |         | A     | A     | A     | A     | A     | A     | A     | A     | A     |                                    |
+|                           |                    |         | 1     | 1     | 1     | f2    | 2     | 2     | 1     | 2     | 2     |                                    |
+| ssenkcihT tnerap lairetam |                    |         | 51    | 04    | 51    | 04    | 06    | 001   | 51    | 04    | 04    |                                    |
+| mm                        |                    |         | <     | u     | <     | <     | <     | u     | <     | u     | >     |                                    |
+| t                         |                    |         | t     | t     | t     | t     | t     | t     | t     | t     | t     |                                    |
+| fo                        |                    |         | u     | u     | u     | u     | u     | u     | u     | u     |       |                                    |
+|                           |                    |         | 8     | 51    | 8     | 51    | 04    | 06    | 8     | 51    |       |                                    |
+| gnitseT                   |                    |         | A     |       | B     |       |       |       | C     |       |       |                                    |
+| level                     |                    |         |       |       |       |       |       |       |       |       |       |                                    |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+component 1
+2
+component 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+end view
+4
+side view<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C, D, E, F, G, W, X, Y, Z: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scanning zone widths are indicated by the letters a, b, c, d, e, f and g.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.2 — Structural T-joints<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>14
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_3>>
+| 14                                                               |
+| Copyright International Organization for Standardizatio          |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Total No.
+of scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B
+1,25 p
+or C
+—
+1
+—
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+15  u   t   u  40
+1
+A or B
+1,25 p
+C
+c
+2
+—
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B
+1,25 p
+C
+—
+2
+1
+F and G
+c
+2
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>f + g
+2
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>f  +  g
+2
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A and B
+1,25 p
+C
+c
+3
+2
+F and G
+c
+4
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+f  +  g
+4
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>f  +  g
+8
+b
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+f  +  g
+8
+b<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<HEADING level=3>>angles
+(number)  positions
+SZWs
+positions c
+SZWs
+angles
+(number)
+positions
+SZWs<<HEADING_END>>
+<<PARAGRAPH>>c<<PARAGRAPH_END>>
+<<PARAGRAPH>>c<<PARAGRAPH_END>>
+<<PARAGRAPH>>c<<PARAGRAPH_END>>
+<<PARAGRAPH>>(X and Y) or (W and Z)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(X and Y) or (W and Z)<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,25 p
+d  +  e
+C
+c
+7
+1
+(F and G)
+and
+(X and Y) or (W and Z)<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,75 p
+d  +  e
+C
+c
+7
+2
+(F and G)
+and
+(X and Y) or (W and Z)<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,75 p
+d  +  e
+C
+c
+9
+2
+(F and G)
+and
+(X and Y) or (W and Z)<<PARAGRAPH_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<PARAGRAPH>>15  u   t   <  40
+1
+A and B
+1,25 p
+C
+c
+3
+1
+(F and G) or<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+2
+A and B
+0,75 p
+C
+c
+5
+1
+(F and G) or<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+number of
+scans
+T-scans<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.2 — Structural T-joints<<HEADING_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans
+N-scans<<HEADING_END>>
+<<PARAGRAPH>>c
+To be substitued by tandem technique at position A or B if C is not possible.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(A and B)
+and
+(D and E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(A and B)
+and
+(D and E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(A and B)
+and
+(D et E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>t   >  100
+3
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Only if specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Not applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<PARAGRAPH>>B<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+15<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | ETON               |         | a     | a     | b     | b      | b      | b     | b       | b           | b           | .elbissop               |
+| esrevsnarT                |                    |         |       |       |       |        |        |       |         |             |             | ton                     |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | si                      |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | C                       |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | fi                      |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | B                       |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | ro                      |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | A                       |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | noitisop                |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | ta                      |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | euqinhcet               |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | mednat                  |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | yb                      |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | .deificeps deutitsbus   |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | .elbacilppa             |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | fi eb                   |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | ylnO                    |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | toN                     |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | oT                      |
+|                           |                    |         |       |       |       |        |        |       |         |             |             | a b c                   |
+|:--------------------------|:-------------------|:--------|:------|:------|:------|:-------|:-------|:------|:--------|:------------|:------------|:------------------------|
+|                           | .oN snacs          |         | —     | —     | 2     | 2      | 2      | 4     | 4       | 8           | 8           |                         |
+|                           | latoT              |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | fo                 |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | sWZS               | snacs-T | —     | —     | c     | g      | g      | c     | g       | g           | g           |                         |
+|                           | eborp              |         |       |       |       | c +    | c +    |       | c +     | c +         | c +         |                         |
+|                           | snoitisop          |         |       |       |       | f      | f      |       | f       | f           | f           |                         |
+|                           | deriuqeR           |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | )rebmun(           |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | selgna             |         |       |       |       |        |        |       |         |             |             |                         |
+|                           |                    |         | —     | —     | G     | )Z     | )Z     | G     | )Z      | )Z          | )Z          |                         |
+|                           |                    |         |       |       | dna   | dna    | dna    | dna   | dna     | dna         | dna         |                         |
+|                           |                    |         |       |       | F     | ro     | ro     | F     | )G W(   | )G W(       | )G W(       |                         |
+|                           |                    |         |       |       |       | )G W(  | )G W(  |       | dna dna | dna dna     | dna dna     |                         |
+|                           |                    |         |       |       |       | dna ro | dna ro |       | ro      | ro          | ro          |                         |
+|                           |                    |         |       |       |       | )Y     | )Y     |       | )Y      | )Y          | )Y          |                         |
+|                           |                    |         |       |       |       | F(     | F(     |       | F(      | F(          | F(          |                         |
+|                           |                    |         |       |       |       | dna    | dna    |       | dna     | dna         | dna         |                         |
+|                           |                    |         |       |       |       | X(     | X(     |       | X(      | X(          | X(          |                         |
+|                           |                    |         | —     | —     | 1     | 1      | 1      | 2     | 1       | 2           | 2           |                         |
+| snoitacidni               | fo                 |         | 1     | 2     | 2     | 3      | 5      | 3     | 7       | 7           | 9           |                         |
+| lanidutignoL              | latoT rebmun snacs |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | sWZS               | snacs-N | —     | c     | —     | c      | c      | c     | c       | c           | c           |                         |
+|                           | csnoitisop         |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | eborp              |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | sWZS               |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | deriuqeR           |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | snoitisop          |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | )rebmun(           |         |       |       |       |        |        |       |         |             |             |                         |
+|                           | selgna             |         |       |       |       |        |        |       |         |             |             |                         |
+|                           |                    |         | C     | C     | C     | C      | C      | C     | C       | C           | C           |                         |
+|                           |                    |         | ro    |       |       |        |        |       |         |             |             |                         |
+|                           |                    | snacs-L | p52,1 | p52,1 | p52,1 | p52,1  | p57,0  | p52,1 | p52,1 e | p57,0 e     | p57,0 e     |                         |
+|                           |                    |         |       |       |       |        |        |       | +       | +           | +           |                         |
+|                           |                    |         |       |       |       |        |        |       | d       | d           | d           |                         |
+|                           |                    |         | B     | B     | B     | B      | B      | B     | )B      | )B )E       | )B )E       |                         |
+|                           |                    |         | ro    | ro    | ro    | dna    | dna    | dna   | )E      | dna dna dna | dna dna dna |                         |
+|                           |                    |         | A     | A     | A     | A      | A      | A     | dna dna | A( D(       | A( D(       |                         |
+|                           |                    |         |       |       |       |        |        |       | te      |             |             |                         |
+|                           |                    |         |       |       |       |        |        |       | D(      |             |             |                         |
+|                           |                    |         |       |       |       |        |        |       | A(      |             |             |                         |
+|                           |                    |         | 1     | 1     | 1     | 1      | 2      | 1     | 2 1     | 2 1         | 3 1         |                         |
+| ssenkcihT tnerap lairetam |                    |         | 51    | 04    | 51    | 04     | 001    | 51    | 04      | 001         | 001         |                         |
+| mm                        |                    |         | <     | u     | <     | <      | u      | <     | <       | u           | >           |                         |
+| t                         |                    |         | t     | t     | t     | t      | t      | t     | t       | t           | t           |                         |
+| fo                        |                    |         | u     | u     | u     | u      | u      | u     | u       | u           |             |                         |
+|                           |                    |         | 8     | 51    | 8     | 51     | 04     | 8     | 51      | 04          |             |                         |
+| gnitseT                   |                    |         | A     |       | B     |        |        | C     |         |             |             |                         |
+| level                     |                    |         |       |       |       |        |        |       |         |             |             |                         |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+cross-section
+2
+top view<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+component 1: cylindrical shell/flat plate
+4
+component 2: nozzle<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C, D, E, F, U, V, W, X, Y, Z: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scanning zone widths are indicated by the letters a, b, c, d, e and x.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.3 — Set-through nozzle joints<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>16
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 16                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A
+1,25 p
+or C
+c
+1
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+15  u   t   u  40
+1
+A or F or
+D
+1,25 p
+d
+C
+c
+2
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or D
+1,25 p
+d
+C
+c
+2
+1
+(U and V) or
+(X and Y) or
+(W and Z)
+2
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+1
+A or
+(D and E)
+1,25 p
+d  +  e
+C
+c
+2 or 3
+1
+(U and V) or
+(X and Y) or
+(W and Z)
+2
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,25 p
+d  +  e
+C
+c
+4
+1
+(X and Y) and
+(W and Z)
+4
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,5 p
+d  +  e
+C
+c
+7
+2
+(X and Y) and
+(W and Z)
+8
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,25 p
+d or e
+C
+c
+3
+1
+(U and V) or
+(X and Y and
+W and Z)
+2 or 4
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,5 p
+d or e
+C
+c
+5
+2
+(X and Y) and
+(W and Z)
+8
+b
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,5 p
+d  +  e
+C
+c
+9
+2
+(X and Y) and
+(W and Z)
+8
+b<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<HEADING level=3>>angles
+(number)
+positions
+SZWs
+positions
+SZWs
+angles
+(number)
+positions<<HEADING_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+T-scans<<HEADING_END>>
+<<HEADING level=3>>Table A.3 — Set-through nozzle joints<<HEADING_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans
+N-scans<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   <  60
+1
+(A or B)
+and
+(D and E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(A and B)
+and
+(D and E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>t   >  40
+2
+(A and B)
+and
+(D and E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+(A or B)
+and
+(D or E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   u  40
+2
+(A or B)
+and
+(D or E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>60  u   t   u  100
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Only if specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Not applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<PARAGRAPH>>B<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+17<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | ETON               |         | a     | a     | b       | b       | b       | b           | b       | b      | b           | .deificeps    |
+| esrevsnarT                |                    |         |       |       |         |         |         |             |         |        |             | .elbacilppa   |
+|                           |                    |         |       |       |         |         |         |             |         |        |             | fi            |
+|                           |                    |         |       |       |         |         |         |             |         |        |             | ylnO          |
+|                           |                    |         |       |       |         |         |         |             |         |        |             | toN           |
+|                           |                    |         |       |       |         |         |         |             |         |        |             | a b           |
+|:--------------------------|:-------------------|:--------|:------|:------|:--------|:--------|:--------|:------------|:--------|:-------|:------------|:--------------|
+|                           | fo                 |         | —     | —     | 2       | 2       | 4       | 8           | 4       | 8      | 8           |               |
+|                           | latoT rebmun snacs |         |       |       |         |         |         |             | ro      |        |             |               |
+|                           |                    |         |       |       |         |         |         |             | 2       |        |             |               |
+|                           | snoitisop          | snacs-T | —     | —     | ro ro   | ro ro   | dna     | dna         | ro dna  | dna    | dna         |               |
+|                           | eborp              |         |       |       | )Z      | )Z      | )Z      | )Z          | )Z      | )Z     | )Z          |               |
+|                           | deriuqeR           |         |       |       | )V )Y   | )V )Y   | )Y dna  | )Y dna      | )V      | )Y dna | )Y dna      |               |
+|                           | )rebmun(           |         |       |       | dna     | dna     | dna     | dna         | Y dna   | dna    | dna         |               |
+|                           | selgna             |         |       |       | dna dna | dna dna | W(      | W(          | dna dna | W(     | W(          |               |
+|                           |                    |         |       |       | W(      | W(      | X(      | X(          | W       | X(     | X(          |               |
+|                           |                    |         |       |       | U( X(   | U( X(   |         |             | U( X(   |        |             |               |
+|                           |                    |         | —     | —     | 1       | 1       | 1       | 2           | 1       | 2      | 2           |               |
+| snoitacidni               | fo                 |         | 1     | 2     | 2       | 3       | 4       | 7           | 3       | 5      | 9           |               |
+| lanidutignoL              | latoT rebmun snacs |         |       |       |         | ro      |         |             |         |        |             |               |
+|                           |                    |         |       |       |         | 2       |         |             |         |        |             |               |
+|                           | sWZS               | snacs-N | c     | c     | c       | c       | c       | c           | c       | c      | c           |               |
+|                           | snoitisop          |         |       |       |         |         |         |             |         |        |             |               |
+|                           | eborp              |         |       |       |         |         |         |             |         |        |             |               |
+|                           | deriuqeR           |         |       |       |         |         |         |             |         |        |             |               |
+|                           | sWZS               |         |       |       |         |         |         |             |         |        |             |               |
+|                           | snoitisop          |         |       |       |         |         |         |             |         |        |             |               |
+|                           | )rebmun(           |         |       |       |         |         |         |             |         |        |             |               |
+|                           | selgna             |         |       |       |         |         |         |             |         |        |             |               |
+|                           |                    |         | C     | C     | C       | C       | C       | C           | C       | C      | C           |               |
+|                           |                    |         | ro    |       |         |         |         |             |         |        |             |               |
+|                           |                    | snacs-L | p52,1 | p52,1 | p52,1   | p52,1 e | p52,1 e | p5,0 e      | p52,1 e | e      | p5,0 e      |               |
+|                           |                    |         |       | d     | d       | +       | +       | +           | ro      | p5,0   | +           |               |
+|                           |                    |         |       |       |         | d       | d       | d           | d       | ro     | d           |               |
+|                           |                    |         |       |       |         |         |         |             |         | d      |             |               |
+|                           |                    |         | A     | ro    | D       | )E      | )E      | )B )E       | )B )E   | )B )E  | )B )E       |               |
+|                           |                    |         |       | F     | ro      | ro dna  | )B      | dna dna dna | dna     | dna    | dna dna dna |               |
+|                           |                    |         |       | D     | A       | A       | dna dna | A( D(       | ro ro   | ro ro  | A( D(       |               |
+|                           |                    |         |       | ro    |         | D(      | ro      |             | A( D(   | A( D(  |             |               |
+|                           |                    |         |       | A     |         |         | A(      |             |         |        |             |               |
+|                           |                    |         |       |       |         |         | D(      |             |         |        |             |               |
+|                           |                    |         | 1     | 1     | 1       | 1       | 1       | 2 1         | 1       | 2      | 2           |               |
+| ssenkcihT tnerap lairetam |                    |         | 51    | 04    | 51      | 04      | 06      | 001         | 51      | 04     | 04          |               |
+| mm                        |                    |         | <     | u     | <       | <       | <       | u           | <       | u      | >           |               |
+| t                         |                    |         | t     | t     | t       | t       | t       | t           | t       | t      | t           |               |
+| fo                        |                    |         | u     | u     | u       | u       | u       | u           | u       | u      |             |               |
+|                           |                    |         | 8     | 51    | 8       | 51      | 04      | 06          | 8       | 51     |             |               |
+| gnitseT                   |                    |         | A     |       | B       |         |         |             | C       |        |             |               |
+| level                     |                    |         |       |       |         |         |         |             |         |        |             |               |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+cross-section
+2
+end view<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+component 1
+4
+component 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C, D, E, F, G, H, X, Y: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scanning zone widths are indicated by the letters a, b and c.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.4 — Structural L-joints<<HEADING_END>>
+<<HEADING level=3>>18
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| 18                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+number of
+scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>40  u   t   u  100
+2
+(H or A) and B
+0,75 p
+C
+c
+5
+2
+D and E
+4
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+(H or A) and B
+1,25 p
+C
+c
+3
+1
+D and E
+2
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+2
+(H or A) and B
+1,25 p
+C
+c
+5
+1
+D and E
+2
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+3
+(H or A) and B
+0,75 p
+C
+c
+7
+2
+D and E
+4
+b, c
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>t   >  100
+3
+(H or A) and B
+0,5 p
+C
+c
+7
+2
+D and E
+4
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B or H
+1,25 p
+or C
+c
+1
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+15  u   t   u  40
+1
+A or B or H
+1,25 p
+C
+c
+2
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B or H
+1,25 p
+or C
+c
+1
+1
+(F and G) or (X and Y)
+2
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+2
+A or B or H
+1,25 p
+C
+c
+3
+2
+(F and G) or (X and Y)
+4
+b
+B<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<HEADING level=3>>angles
+(number)
+positions
+SZWs
+positions
+SZWs
+angles
+(number)
+positions<<HEADING_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+T-scans<<HEADING_END>>
+<<HEADING level=3>>Table A.4 — Structural L-joints<<HEADING_END>>
+<<PARAGRAPH>>c
+The surface of the weld cap shall comply with Clause 8. This may require dressing of the weld cap.<<PARAGRAPH_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans
+N-scans<<HEADING_END>>
+<<PARAGRAPH>>b
+Only if specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Not applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+19<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | ETON               |         | a     | a     | b     | b     | c     | c     | c     | c     | c    | .pac             |
+| esrevsnarT                |                    |         |       |       |       |       | ,b    | ,b    | ,b    | ,b    | ,b   | dlew             |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | eht              |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | fo               |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | gnisserd         |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | eriuqer          |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | yam              |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | sihT             |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | .8               |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | esualC           |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | htiw             |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | ylpmoc           |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | llahs            |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | pac              |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | dlew             |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | eht              |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | .deificeps       |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | .elbacilppa fo   |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | ecafrus          |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | fi               |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | toN ylnO ehT     |
+|                           |                    |         |       |       |       |       |       |       |       |       |      | a b c            |
+|:--------------------------|:-------------------|:--------|:------|:------|:------|:------|:------|:------|:------|:------|:-----|:-----------------|
+|                           | fo                 |         | —     | —     | 2     | 4     | 4     | 2     | 2     | 4     | 4    |                  |
+|                           | latoT rebmun snacs |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | snoitisop          | snacs-T | —     | —     | )Y    | )Y    | E     | E     | E     | E     | E    |                  |
+|                           | eborp              |         |       |       | dna   | dna   | dna   | dna   | dna   | dna   | dna  |                  |
+|                           | deriuqeR           |         |       |       | X(    | X(    | D     | D     | D     | D     | D    |                  |
+|                           | )rebmun(           |         |       |       | ro    | ro    |       |       |       |       |      |                  |
+|                           | selgna             |         |       |       | )G    | )G    |       |       |       |       |      |                  |
+|                           |                    |         |       |       | dna   | dna   |       |       |       |       |      |                  |
+|                           |                    |         |       |       | F(    | F(    |       |       |       |       |      |                  |
+|                           |                    |         | —     | —     | 1     | 2     | 2     | 1     | 1     | 2     | 2    |                  |
+| snoitacidni               | fo                 |         | 1     | 2     | 1     | 3     | 5     | 3     | 5     | 7     | 7    |                  |
+| lanidutignoL              | latoT rebmun snacs |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | sWZS               | snacs-N | c     | c     | c     | c     | c     | c     | c     | c     | c    |                  |
+|                           | snoitisop          |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | eborp              |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | sWZS               |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | deriuqeR           |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | snoitisop          |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | )rebmun(           |         |       |       |       |       |       |       |       |       |      |                  |
+|                           | selgna             |         |       |       |       |       |       |       |       |       |      |                  |
+|                           |                    |         | C     | C     | C     | C     | C     | C     | C     | C     | C    |                  |
+|                           |                    |         | ro    |       | ro    |       |       |       |       |       |      |                  |
+|                           |                    | snacs-L | p52,1 | p52,1 | p52,1 | p52,1 | p57,0 | p52,1 | p52,1 | p57,0 | p5,0 |                  |
+|                           |                    |         | H     | H     | H     | H     | B     | B     | B     | B     | B    |                  |
+|                           |                    |         | ro    | ro    | ro    | ro    | dna   | dna   | dna   | dna   | dna  |                  |
+|                           |                    |         | B     | B     | B     | B     | )A    | )A    | )A    | )A    | )A   |                  |
+|                           |                    |         | ro    | ro    | ro    | ro    | ro    | ro    | ro    | ro    | ro   |                  |
+|                           |                    |         | A     | A     | A     | A     | H(    | H(    | H(    | H(    | H(   |                  |
+|                           |                    |         | 1     | 1     | 1     | 2     | 2     | 1     | 2     | 3     | 3    |                  |
+| ssenkcihT tnerap lairetam |                    |         | 51    | 04    | 51    | 04    | 001   | 51    | 04    | 001   | 001  |                  |
+| mm                        |                    |         | <     | u     | <     | <     | u     | <     | <     | u     | >    |                  |
+| t                         |                    |         | t     | t     | t     | t     | t     | t     | t     | t     | t    |                  |
+| fo                        |                    |         | u     | u     | u     | u     | u     | u     | u     | u     |      |                  |
+|                           |                    |         | 8     | 51    | 8     | 51    | 04    | 8     | 51    | 04    |      |                  |
+| gnitseT                   |                    |         | A     |       | B     |       |       | C     |       |       |      |                  |
+| level                     |                    |         |       |       |       |       |       |       |       |       |      |                  |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+cross-section
+2
+top view<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+component 1: nozzle
+4
+component 2: shell<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+normal probe<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C, D, X, Y: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scanning zone widths are indicated by the letters a, b, c, d and x.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.5 — Set-on nozzle joints<<HEADING_END>>
+<<HEADING level=3>>20
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| 20                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>8  u   t   <  15
+2
+A or B
+1,25 p
+0,50 p
+—
+—
+2
+1
+X and Y
+2
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+2
+A or B
+1,25 p
+0,50 p
+C
+c
+3
+1
+X and Y
+2
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   <  60
+2
+A and
+(B or D)
+1,25 p
+0,50 p
+C
+c
+5
+2
+X and Y
+4
+b, c
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>60  u   t   u  100
+2
+A and
+(B or D)
+1,25 p
+0,50 p
+C
+c
+5
+2
+X and Y
+4
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+3
+A or B
+1,25 p
+0,50 p
+C
+c
+4
+1
+X and Y
+2
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+3
+A or B
+1,25 p
+0,50 p
+C
+c
+4
+1
+X and Y
+2
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   <  60
+3
+A and B
+1,25 p
+0,50 p
+C
+c
+7
+2
+X and Y
+4
+b, c
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>60  u   t   u  100
+3
+A and B
+1,25 p
+0,50 p
+C
+c
+7
+2
+X and Y
+4
+b, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A or B
+1,25 p
+0,50 p
+—
+—
+1
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+15  u   t   u  40
+1
+A or B
+1,25 p
+0,50 p
+C
+c
+2
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<HEADING level=3>>angles
+(number)
+positions
+SZWs
+positions
+SZWs
+angles
+(number)
+positions<<HEADING_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+T-scans<<HEADING_END>>
+<<HEADING level=3>>Table A.5 — Set-on nozzle joints<<HEADING_END>>
+<<PARAGRAPH>>c
+The surface of the weld cap shall comply with Clause 8. This may require dressing of the weld cap.<<PARAGRAPH_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans
+N-scans<<HEADING_END>>
+<<PARAGRAPH>>b
+Only if specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Not applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+21<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | ETON               |         | a           | a           | c           | c           | c           | c           | c           | c           | c           | c           | .pac             |
+| esrevsnarT                |                    |         |             |             | ,b          | ,b          | ,b          | ,b          | ,b          | ,b          | ,b          | ,b          | dlew             |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | eht              |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | fo               |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | gnisserd         |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | eriuqer          |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | yam              |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | sihT             |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | .8               |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | esualC           |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | htiw             |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | ylpmoc           |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | llahs            |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | pac              |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | dlew             |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | eht              |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | .deificeps       |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | .elbacilppa fo   |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | ecafrus          |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | fi               |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | toN ylnO ehT     |
+|                           |                    |         |             |             |             |             |             |             |             |             |             |             | a b c            |
+|:--------------------------|:-------------------|:--------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:-----------------|
+|                           | fo                 |         | —           | —           | 2           | 2           | 4           | 4           | 2           | 2           | 4           | 4           |                  |
+|                           | latoT rebmun snacs |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | snoitisop          | snacs-T | —           | —           | Y           | Y           | Y           | Y           | Y           | Y           | Y           | Y           |                  |
+|                           | eborp              |         |             |             | dna         | dna         | dna         | dna         | dna         | dna         | dna         | dna         |                  |
+|                           | deriuqeR           |         |             |             | X           | X           | X           | X           | X           | X           | X           | X           |                  |
+|                           | )rebmun(           |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | selgna             |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           |                    |         | —           | —           | 1           | 1           | 2           | 2           | 1           | 1           | 2           | 2           |                  |
+| snoitacidni               | fo                 |         | 1           | 2           | 2           | 3           | 5           | 5           | 4           | 4           | 7           | 7           |                  |
+| lanidutignoL              | latoT rebmun snacs |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | sWZS               | snacs-N | —           | c           | —           | c           | c           | c           | c           | c           | c           | c           |                  |
+|                           | snoitisop          |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | eborp              |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | deriuqeR sWZS      |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | snoitisop          |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | )rebmun(           |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           | selgna             |         |             |             |             |             |             |             |             |             |             |             |                  |
+|                           |                    |         | —           | C           | —           | C           | C           | C           | C           | C           | C           | C           |                  |
+|                           |                    | snacs-L | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 | p52,1 p05,0 |                  |
+|                           |                    |         | B           | B           | B           | B           | )D          | )D          | B           | B           | B           | B           |                  |
+|                           |                    |         | ro          | ro          | ro          | ro          | dna         | dna         | ro          | ro          | dna         | dna         |                  |
+|                           |                    |         | A           | A           | A           | A           | ro          | ro          | A           | A           | A           | A           |                  |
+|                           |                    |         |             |             |             |             | A B(        | A B(        |             |             |             |             |                  |
+|                           |                    |         | 1           | 1           | 2           | 2           | 2           | 2           | 3           | 3           | 3           | 3           |                  |
+| ssenkcihT tnerap lairetam |                    |         | 51          | 04          | 51          | 04          | 06          | 001         | 51          | 04          | 06          | 001         |                  |
+| mm                        |                    |         | <           | u           | <           | <           | <           | u           | <           | <           | <           | u           |                  |
+| t                         |                    |         | t           | t           | t           | t           | t           | t           | t           | t           | t           | t           |                  |
+| fo                        |                    |         | u           | u           | u           | u           | u           | u           | u           | u           | u           | u           |                  |
+|                           |                    |         | 8           | 51          | 8           | 51          | 04          | 06          | 8           | 51          | 04          | 06          |                  |
+| gnitseT                   |                    |         | A           |             | B           |             |             |             | C           |             |             |             |                  |
+| level                     |                    |         |             |             |             |             |             |             |             |             |             |             |                  |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+cross-section
+2
+side view<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+component 1
+4
+component 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+component 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C, D, E, F, G, H, W, X, Y, Z: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scanning zone widths are indicated by the letters a, b, c, d, e, f, g and h.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.6 — Cruciform joints<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>22
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| 22                                                              |
+| Copyright International Organization for Standardization        |
+|:----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                        |
+| No reproduction or networking permitted without license from IH |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+NOTE<<HEADING_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+(A and C) or (B and D)
+1,25 p
+2
+—
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+1
+A and B and C and D
+0,75 p
+4
+c
+—
+—
+—
+a
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+2
+A and B and C and D
+0,75 p
+8
+c
+—
+—
+—
+a<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+1
+A and B and C and D
+1,25 p
+4
+—
+1
+(X1 and Y1 and W1
+and Z1) and (X2 and
+Y2 and W2 and Z2)
+8
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+2
+A and B and C and D
+0,75 p
+8
+c
+1
+(X1 and Y1 and W1
+and Z1) and (X2 and
+Y2 and W2 and Z2)
+8
+b
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>e to h
+12
+c, d
+2
+(X1 and Y1 and W1
+and Z1) and (X2 and
+Y2 and W2 and Z2)
+16
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+b<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<PARAGRAPH>>12
+—
+2
+(X1 and Y1 and W1
+and Z1) and (X2 and
+Y2 and W2 and Z2)<<PARAGRAPH_END>>
+<<HEADING level=3>>angles
+(number)
+positions
+SZWs
+angles
+(number)
+positions<<HEADING_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<PARAGRAPH>>T-scans<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+number of
+scans
+NOTE<<HEADING_END>>
+<<HEADING level=3>>Table A.6 — Cruciform joints<<HEADING_END>>
+<<PARAGRAPH>>0,75 p
+e to h<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,75 p<<PARAGRAPH_END>>
+<<PARAGRAPH>>and
+tandem
+(A or B)
+and
+(C or D)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(A and B and C and D)
+and
+(E and F and G and H)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+If a more sensitive level is required, a tandem technique shall be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans<<HEADING_END>>
+<<PARAGRAPH>>(A and B
+and C and D)
+and
+(E and F
+and G and H)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+But then E and F and G and H shall be omitted.<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+40  u   t   u  100<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Only if specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Not applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+23<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | ETON               |         | a     | a     | a     | b           | b           | b           | b            | .desu             |
+| esrevsnarT                |                    |         |       |       |       |             |             |             |              | eb                |
+|                           |                    |         |       |       |       |             |             |             |              | llahs             |
+|                           |                    |         |       |       |       |             |             |             |              | euqinhcet         |
+|                           |                    |         |       |       |       |             |             |             |              | .dettimo          |
+|                           |                    |         |       |       |       |             |             |             |              | mednat            |
+|                           |                    |         |       |       |       |             |             |             |              | eb                |
+|                           |                    |         |       |       |       |             |             |             |              | a                 |
+|                           |                    |         |       |       |       |             |             |             |              | ,deriuqer llahs   |
+|                           |                    |         |       |       |       |             |             |             |              | H                 |
+|                           |                    |         |       |       |       |             |             |             |              | dna               |
+|                           |                    |         |       |       |       |             |             |             |              | si                |
+|                           |                    |         |       |       |       |             |             |             |              | level G           |
+|                           |                    |         |       |       |       |             |             |             |              | dna               |
+|                           |                    |         |       |       |       |             |             |             |              | evitisnes         |
+|                           |                    |         |       |       |       |             |             |             |              | .deificeps F      |
+|                           |                    |         |       |       |       |             |             |             |              | .elbacilppa dna   |
+|                           |                    |         |       |       |       |             |             |             |              | E                 |
+|                           |                    |         |       |       |       |             |             |             |              | erom neht         |
+|                           |                    |         |       |       |       |             |             |             |              | fi                |
+|                           |                    |         |       |       |       |             |             |             |              | ylnO              |
+|                           |                    |         |       |       |       |             |             |             |              | toN a tuB         |
+|                           |                    |         |       |       |       |             |             |             |              | fI                |
+|                           |                    |         |       |       |       |             |             |             |              | a b c d           |
+|:--------------------------|:-------------------|:--------|:------|:------|:------|:------------|:------------|:------------|:-------------|:------------------|
+|                           | fo                 |         | —     | —     | —     | 8           | 8           | 61          | b            |                   |
+|                           | latoT rebmun snacs |         |       |       |       |             |             |             |              |                   |
+|                           | snoitisop          | snacs-T | —     | —     | —     | 1W dna )2Z  | 1W dna )2Z  | 1W dna )2Z  | 1W dna )2Z   |                   |
+|                           | eborp              |         |       |       |       | dna 2X( dna | dna 2X( dna | dna 2X( dna | dna 2X( dna  |                   |
+|                           | deriuqeR           |         |       |       |       | 1Y dna 2W   | 1Y dna 2W   | 1Y dna 2W   | 1Y dna 2W    |                   |
+|                           | )rebmun(           |         |       |       |       | dna )1Z dna | dna )1Z dna | dna )1Z dna | dna )1Z dna  |                   |
+|                           | selgna             |         |       |       |       | 1X( dna 2Y  | 1X( dna 2Y  | 1X( dna 2Y  | 1X( dna 2Y   |                   |
+|                           |                    |         | —     | —     | —     | 1           | 1           | 2           | 2            |                   |
+| snoitacidni               | ETON               |         | —     | c     | c     | —           | c           | d           | —            |                   |
+| lanidutignoL              |                    |         |       |       |       |             |             | ,c          |              |                   |
+|                           | fo                 |         | 2     | 4     | 8     | 4           | 8           | 21          | 21           |                   |
+|                           | latoT rebmun snacs |         |       |       |       |             |             |             |              |                   |
+|                           | sWZS               | snacs-L | p52,1 | p57,0 | p57,0 | p52,1       | p57,0       | p57,0 h     | p57,0 h      |                   |
+|                           | eborp              |         |       |       |       |             |             | ot          | ot           |                   |
+|                           | snoitisop          |         |       |       |       |             |             | e           | e            |                   |
+|                           | deriuqeR           |         |       |       |       |             |             |             |              |                   |
+|                           | )rebmun(           |         |       |       |       |             |             |             |              |                   |
+|                           | selgna             |         |       |       |       |             |             |             |              |                   |
+|                           |                    |         | )D    | D     | D     | D           | D           | )D )H       | mednat )B )D |                   |
+|                           |                    |         | dna   | dna   | dna   | dna         | dna         | dna dna     | dna dna      |                   |
+|                           |                    |         | B(    | C     | C     | C           | C           | C G         | ro ro        |                   |
+|                           |                    |         | ro    | dna   | dna   | dna         | dna         | dna dna dna | A( C(        |                   |
+|                           |                    |         | )C    | B     | B     | B           | B           | B F         |              |                   |
+|                           |                    |         | dna   | dna   | dna   | dna         | dna         | dna dna     |              |                   |
+|                           |                    |         | A(    | A     | A     | A           | A           | A( E(       |              |                   |
+|                           |                    |         |       |       |       |             |             |             | )D )H        |                   |
+|                           |                    |         |       |       |       |             |             |             | B dna F dna  |                   |
+|                           |                    |         |       |       |       |             |             |             | dna dna dna  |                   |
+|                           |                    |         |       |       |       |             |             |             | C G          |                   |
+|                           |                    |         |       |       |       |             |             |             | A( E(        |                   |
+|                           |                    |         |       |       |       |             |             |             | dna dna      |                   |
+|                           |                    |         | 1     | 1     | 2     | 1           | 2           | 2 1         | 2 1          |                   |
+| ssenkcihT tnerap lairetam |                    |         | 51    | 04    | 001   | 51          | 04          | 001         | 001          |                   |
+| mm                        |                    |         | <     | <     | u     | <           | <           | u           | u            |                   |
+| t                         |                    |         | t     | t     | t     | t           | t           | t           | t            |                   |
+| fo                        |                    |         | u     | u     | u     | u           | u           | u           | u            |                   |
+|                           |                    |         | 8     | 51    | 04    | 8           | 51          | 04          | 04           |                   |
+| gnitseT                   |                    |         | A     |       |       | B           |             |             | C            |                   |
+| level                     |                    |         |       |       |       |             |             |             |              |                   |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All rig                                             |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+component 1: main pipe<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+component 2: branch pipe
+D, E, F, G, H, X, Y: probe positions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scanning zone widths are indicated by the letters d, e, f, g and h.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.7 — Node joints in tubular structures<<HEADING_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>24
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 24                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+Notes<<HEADING_END>>
+<<PARAGRAPH>>8  u   t   <  15
+2
+F and G and H
+1,25 p
+—
+—
+6
+—
+—
+—
+a, b<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+3
+F and G and H
+1,25 p
+—
+—
+9
+—
+—
+—
+a, b
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+3
+F and G and H
+1,25 p
+—
+—
+9
+—
+—
+—
+a, b<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  u   t   <  15
+2
+F and G and H
+1,25 p
+D
+d
+7
+1
+X and Y
+2
+a, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  u   t   <  40
+3
+F and G and H
+1,25 p
+D
+d
+10
+2
+X and Y
+4
+a, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,25 p
+e
+D
+d
+11
+2
+X and Y
+4
+a, c<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Longitudinal indications
+Transverse indications<<HEADING_END>>
+<<HEADING level=3>>angles
+(number)
+positions
+SZWs
+positions
+SZWs
+angles
+(number)
+positions<<HEADING_END>>
+<<HEADING level=3>>Required probe
+Required probe<<HEADING_END>>
+<<HEADING level=3>>Total
+number of
+scans
+T-scans<<HEADING_END>>
+<<HEADING level=3>>Table A.7 — Node joints in tubular structures<<HEADING_END>>
+<<PARAGRAPH>>C
+Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+If the bore of component 1 is not accessible (probe position D and E), testing level B cannot be achieved.<<PARAGRAPH_END>>
+<<HEADING level=3>>Thickness
+of parent
+material
+t
+mm
+L-scans
+N-scans<<HEADING_END>>
+<<PARAGRAPH>>a
+Node joint testing shall usually be level D and shall be specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(F and G
+and H) and E<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  u   t   u  100
+3
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Not applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Testing
+level<<HEADING_END>>
+<<PARAGRAPH>>B<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2005 – All rig hts reserved
+25<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| snoitacidni               | setoN              |         | b     | b     | b     | c     | c     | c      | elbacilppa   | .deveihca      |
+| esrevsnarT                |                    |         | ,a    | ,a    | ,a    | ,a    | ,a    | ,a     | toN          | eb             |
+|                           |                    |         |       |       |       |       |       |        |              | tonnac         |
+|                           |                    |         |       |       |       |       |       |        |              | B              |
+|                           |                    |         |       |       |       |       |       |        |              | level          |
+|                           |                    |         |       |       |       |       |       |        |              | gnitset        |
+|                           |                    |         |       |       |       |       |       |        |              | ,)E            |
+|                           |                    |         |       |       |       |       |       |        |              | dna            |
+|                           |                    |         |       |       |       |       |       |        |              | .deificeps     |
+|                           |                    |         |       |       |       |       |       |        |              | D              |
+|                           |                    |         |       |       |       |       |       |        |              | noitisop       |
+|                           |                    |         |       |       |       |       |       |        |              | eb             |
+|                           |                    |         |       |       |       |       |       |        |              | llahs eborp(   |
+|                           |                    |         |       |       |       |       |       |        |              | dna            |
+|                           |                    |         |       |       |       |       |       |        |              | elbissecca     |
+|                           |                    |         |       |       |       |       |       |        |              | D              |
+|                           |                    |         |       |       |       |       |       |        |              | level          |
+|                           |                    |         |       |       |       |       |       |        |              | eb             |
+|                           |                    |         |       |       |       |       |       |        |              | ton            |
+|                           |                    |         |       |       |       |       |       |        |              | yllausu        |
+|                           |                    |         |       |       |       |       |       |        |              | si             |
+|                           |                    |         |       |       |       |       |       |        |              | 1              |
+|                           |                    |         |       |       |       |       |       |        |              | tnenopmoc      |
+|                           |                    |         |       |       |       |       |       |        |              | llahs          |
+|                           |                    |         |       |       |       |       |       |        |              | gnitset        |
+|                           |                    |         |       |       |       |       |       |        |              | .elbacilppa    |
+|                           |                    |         |       |       |       |       |       |        |              | fo             |
+|                           |                    |         |       |       |       |       |       |        |              | tnioj erob     |
+|                           |                    |         |       |       |       |       |       |        |              | edoN eht       |
+|                           |                    |         |       |       |       |       |       |        |              | toN            |
+|                           |                    |         |       |       |       |       |       |        |              | fI             |
+|                           |                    |         |       |       |       |       |       |        |              | a b c          |
+|:--------------------------|:-------------------|:--------|:------|:------|:------|:------|:------|:-------|:-------------|:---------------|
+|                           | fo                 |         | —     | —     | —     | 2     | 4     | 4      |              |                |
+|                           | latoT rebmun snacs |         |       |       |       |       |       |        |              |                |
+|                           | snoitisop          | snacs-T | —     | —     | —     | Y     | Y     | Y      |              |                |
+|                           | eborp              |         |       |       |       | dna   | dna   | dna    |              |                |
+|                           | deriuqeR           |         |       |       |       | X     | X     | X      |              |                |
+|                           | )rebmun(           |         |       |       |       |       |       |        |              |                |
+|                           | selgna             |         |       |       |       |       |       |        |              |                |
+|                           |                    |         | —     | —     | —     | 1     | 2     | 2      |              |                |
+| snoitacidni               | fo                 |         | 6     | 9     | 9     | 7     | 01    | 11     |              |                |
+| lanidutignoL              | latoT rebmun snacs |         |       |       |       |       |       |        |              |                |
+|                           | sWZS               | snacs-N | —     | —     | —     | d     | d     | d      |              |                |
+|                           | snoitisop          |         |       |       |       |       |       |        |              |                |
+|                           | eborp              |         |       |       |       |       |       |        |              |                |
+|                           | sWZS               |         |       |       |       |       |       |        |              |                |
+|                           | deriuqeR           |         |       |       |       |       |       |        |              |                |
+|                           | snoitisop          |         |       |       |       |       |       |        |              |                |
+|                           | )rebmun(           |         |       |       |       |       |       |        |              |                |
+|                           | selgna             |         |       |       |       |       |       |        |              |                |
+|                           |                    |         | —     | —     | —     | D     | D     | D      |              |                |
+|                           |                    | snacs-L | p52,1 | p52,1 | p52,1 | p52,1 | p52,1 | p52,1  |              |                |
+|                           |                    |         |       |       |       |       |       | e      |              |                |
+|                           |                    |         | H     | H     | H     | H     | H     | E      |              |                |
+|                           |                    |         | dna   | dna   | dna   | dna   | dna   | G dna  |              |                |
+|                           |                    |         | G     | G     | G     | G     | G     | dna    |              |                |
+|                           |                    |         | dna   | dna   | dna   | dna   | dna   | )H     |              |                |
+|                           |                    |         | F     | F     | F     | F     | F     | F( dna |              |                |
+|                           |                    |         | 2     | 3     | 3     | 2     | 3     | 3 1    |              |                |
+| ssenkcihT tnerap lairetam |                    |         | 51    | 04    | 001   | 51    | 04    | 001    |              |                |
+| mm                        |                    |         | <     | <     | u     | <     | <     | u      |              |                |
+| t                         |                    |         | t     | t     | t     | t     | t     | t      |              |                |
+| fo                        |                    |         | u     | u     | u     | u     | u     | u      |              |                |
+|                           |                    |         | 8     | 51    | 04    | 8     | 51    | 04     |              |                |
+| gnitseT                   |                    |         | A     |       |       | B     |       |        | C            |                |
+| level                     |                    |         |       |       |       |       |       |        |              |                |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2005 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 5817,  Welding — Fusion-welded joints in steel, nickel, titanium and their alloys (beam welding
+excluded) — Quality levels for imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+ISO 17637,  Non-destructive testing of welds — Visual testing of fusion-welded joints<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+EN 1712,  Non-destructive examination of welds — Ultrasonic examination of welded joints —
+Acceptance levels<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+EN 1713,  Non-destructive examination of welds — Ultrasonic examination — Characterization of
+indications in welds<<PARAGRAPH_END>>
+<<HEADING level=3>>26
+© ISO 2005 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 26                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<HEADING level=3>>ISO 17640:2005(E)<<HEADING_END>>
+<<HEADING level=3>>ICS  25.160.40<<HEADING_END>>
+<<PARAGRAPH>>Price based on 26 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,``,`-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2005 – All rights reser ved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2005 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 34
+
+Total Tables: 46
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 13x3
+[TABLE_2] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_4] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 7x3
+[TABLE_2] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 3x4
+[TABLE_2] Page: 13, Size: 3x4
+[TABLE_3] Page: 13, Size: 3x1
+[TABLE_1] Page: 14, Size: 5x2
+[TABLE_2] Page: 14, Size: 3x1
+[TABLE_1] Page: 15, Size: 3x1
+[TABLE_1] Page: 16, Size: 3x1
+[TABLE_1] Page: 17, Size: 3x1
+[TABLE_2] Page: 18, Size: 3x1
+[TABLE_1] Page: 19, Size: 12x13
+[TABLE_2] Page: 19, Size: 3x1
+[TABLE_3] Page: 20, Size: 3x1
+[TABLE_1] Page: 21, Size: 13x13
+[TABLE_2] Page: 21, Size: 3x1
+[TABLE_1] Page: 22, Size: 3x1
+[TABLE_1] Page: 23, Size: 12x13
+[TABLE_2] Page: 23, Size: 3x1
+[TABLE_2] Page: 24, Size: 3x1
+[TABLE_1] Page: 25, Size: 12x13
+[TABLE_2] Page: 25, Size: 3x1
+[TABLE_2] Page: 26, Size: 3x1
+[TABLE_1] Page: 27, Size: 12x14
+[TABLE_2] Page: 27, Size: 3x1
+[TABLE_2] Page: 28, Size: 3x1
+[TABLE_1] Page: 29, Size: 12x11
+[TABLE_2] Page: 29, Size: 3x1
+[TABLE_1] Page: 30, Size: 3x1
+[TABLE_1] Page: 31, Size: 12x11
+[TABLE_2] Page: 31, Size: 3x1
+[TABLE_1] Page: 32, Size: 3x1
+[TABLE_1] Page: 33, Size: 3x1
+[TABLE_1] Page: 34, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

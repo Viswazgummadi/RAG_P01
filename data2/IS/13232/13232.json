@@ -1,0 +1,3750 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232 : 1992",
+          "bbox": [
+            390.31,
+            19.21,
+            464.71,
+            30.01
+          ],
+          "block_id": "b1_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "mT?fts\nmm",
+          "bbox": [
+            195.19,
+            45.37,
+            267.67,
+            56.17
+          ],
+          "block_id": "b1_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            178.15,
+            130.82,
+            308.35,
+            152.18
+          ],
+          "block_id": "b1_2",
+          "font_size": 18.7,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "INSTALLATION, MAINTENANCE AND\nOBSERVATIONS OF ELECTRICAL STRAIN\nMEASURING DEVICES IN CONCRETE DAMS -\nCODE OF PRACTICE",
+          "bbox": [
+            21.19,
+            160.33,
+            452.65,
+            234.96
+          ],
+          "block_id": "b1_3",
+          "font_size": 17.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "UDC\n627\u20198\u2019012.4 : 620\u2019172\u201921\u201905",
+          "bbox": [
+            165.91,
+            281.89,
+            314.23,
+            292.23
+          ],
+          "block_id": "b1_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "@  BIS 1992",
+          "bbox": [
+            205.27,
+            653.6,
+            263.59,
+            665.47
+          ],
+          "block_id": "b1_5",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDARDS\n.\nMANAK\nBHAVAN,\n9 BAHADUR\nSHAH\nZAFAR\nMARG\nNEW DELHI 110002",
+          "bbox": [
+            89.83,
+            675.04,
+            461.35,
+            710.55
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "January\n1992\n:Price Group  4",
+          "bbox": [
+            11.59,
+            719.65,
+            456.55,
+            732.73
+          ],
+          "block_id": "b1_7",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 534.0399780273438,
+        "height": 783.7760009765625
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Hydraulic\nStructures Instrumentation\nSectional Committee,\nRVD 16",
+          "bbox": [
+            64.63,
+            30.96,
+            377.35,
+            43.77
+          ],
+          "block_id": "b2_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            64.63,
+            113.04,
+            121.03,
+            125.85
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard was adopted by the Bureau of Indian Standards,\nafter the draft\nfinalized\nby\nthe Hydraulic\nStructures\nInstrumentation\nSectional Committee had been approved\nby the River\nValley Division Council.",
+          "bbox": [
+            64.15,
+            130.8,
+            513.19,
+            163.77
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The\ndevice developed\nfor recordirg\nstress directly,\nis not capable of recording tensile stresses.\nBesides, it is very expersive and requires much more care for installation\nthan\nthat\nrequired\nfor\nstrain\nmeasurirg\ninstruments.\nFor\nthis reason\nmeasurement\nof strain in the dam is considered\nimportant.",
+          "bbox": [
+            64.87,
+            170.88,
+            512.71,
+            213.93
+          ],
+          "block_id": "b2_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Strain measuring\ndevice, when embedded\nin the concrete\ndam determines\nactual\naccumulated\nlength\nchanges\nat the point\nof instrument\nlocation due to changes in volume of mass concrete,\nnamely, those\nresulting\nfrom applied\nloads and due to several\nother\ncauses such as creep,\ntemperature\nchange, moisture change and chemical action of concrete.",
+          "bbox": [
+            64.87,
+            221.04,
+            510.07,
+            264.09
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "It is recessary\nto sort out those parts of changes in length which are not attributed\ndirectly to\nstress developments\nin the mass concrete.\nThese parts are due to  : (  a ) volume\nchanges\ndue to\ncharges in moisture content, ( b ) thermal expansion, and ( c > autogenous\ngrowth.\nFor large mass\nof concrete,\nit has been observed that moisture change is inconsequential\nand in most cases may\nbe neglected in the stress-strain\ncomputations.",
+          "bbox": [
+            65.35,
+            271.2,
+            513.43,
+            324.33
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The effect of temperature\non the volume change of concrete\nthrough thermal expansion\nshall also\nbe considered.\nTo compute\nthis effect, a laboratory\ndetermination\nof the coefficient of thermal\nexpansion\nof the concrete of the dam containing\nthe embedded instruments\nis made.",
+          "bbox": [
+            65.83,
+            333.36,
+            513.43,
+            366.33
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The volume\nchange\ndue to autogenous\ngrowth\ncharacteristics\nvary depending\non the type of\ncement used and the materials used in making the concrete.\nThe growth may produce an increase\nor a decrease in volume during the process of hydration.",
+          "bbox": [
+            66.07,
+            373.68,
+            512.95,
+            406.41
+          ],
+          "block_id": "b2_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "With a view to determining\nstrain due to all causes other than stree, a \u2018no-stress\u2019 strain meter\nexposed to the same conditions\nas those of the surrounding\nconcrete close to the strain meter is\ninstalled.",
+          "bbox": [
+            66.31,
+            413.76,
+            516.31,
+            446.73
+          ],
+          "block_id": "b2_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular\nrequirement\nof this standard, is complied\nwith,\nthe final value, observed or calculated,\nexpressing the result of a test or analysis, shall be rounded\noff in accordance\nwith IS 2  :  1960 \u2018Rules\nfor rounding off numerical values (  revised )\u2018.\nThe\nnumber of significant places retained in the rounded off value should be the same as that\nof the\nspecified value in this standard.",
+          "bbox": [
+            66.55,
+            456.0,
+            512.47,
+            508.89
+          ],
+          "block_id": "b2_9",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 540.83203125,
+        "height": 700.0160522460938
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232 : 1992",
+          "bbox": [
+            420.91,
+            44.41,
+            495.37,
+            54.49
+          ],
+          "block_id": "b3_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            205.15,
+            62.19,
+            337.75,
+            84.39
+          ],
+          "block_id": "b3_0",
+          "font_size": 17.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "INSTALLATION,MAINTENANCEAND\nOBSERVATIONSOFELECTRICALSTRAIN\nMEASURINGDEVICESINCONCRETEDAMS-\nCODEOF PRACTICE",
+          "bbox": [
+            45.55,
+            92.17,
+            449.71,
+            169.69
+          ],
+          "block_id": "b3_2",
+          "font_size": 20.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1.1\nDescription\nof Normal\nGauge\nUnbended\nResistance Type Strainmeter",
+          "bbox": [
+            268.75,
+            178.33,
+            483.79,
+            199.45
+          ],
+          "block_id": "b3_13",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            40.03,
+            178.81,
+            84.99,
+            188.89
+          ],
+          "block_id": "b3_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard covers the details\nof installation,\nmaintenance\nand observation\nof electrical\ntype\nstrain measuring device suitable for embedment\nin concrete dams.",
+          "bbox": [
+            38.83,
+            198.94,
+            256.75,
+            241.99
+          ],
+          "block_id": "b3_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The strainmeter\nis in the form of a long cylinder\nwith flanges on each end to anchor the ends of\nthe\nmeter\nto the surrounding\nconcrete.\nIts\nconstruction\ndetails are shown in Fig. 1.\nWhite\ncotton\ncloth is wound around\nthe cylindrical\nportion which is corrugated\nin order\nto allow\ndeformation.\nThe cotton\ncloth\nis taped\nso\nthat\nwhen\nthe\ninstrument\nis embedded\nin\nconcrete\nthe\nstrainmeter\nallows\nflange\nonly\nits\nends\nto make\na\ncontact\nor\nbond\nwith the surrounding\nconcrete.\nWithin a flexible\nbrass cover is a steel framework\non which are\nsupported\nprocelian\nspools around which are\nwound,\nunder\nsufficient\ninitial\ntension,\ntwo\nequal\ncoils\nof fine steel music wire having\nresistance RA and RB. When the ends of the\nmeter are pulled apart by expansion,\nthe outer\nor expansion\ncoil elongates\nand increases\nin\ntension and resistance.\nAt the same time inner\nor contraction\ncoil\ndecreases\nin tension\nand\nresistance as it shortens.\nChanges in the ratio\nof the\nresistance\nof the\nouter ( expansion )\ncoil to the inner ( contraction\n) coils used as\na\nsensitive\nmeasure\nof\nlength\nchange\nin\nthe strainmeter.\nThe change\nin ratio\nof 0\u201901\npercent normally indicates a change in length of\nabout 4 millionth of centimetre\nper centimetre.\nResistance\nratio\nchange\nare not\naffected\nby\nsimultaneous\nchanges due to temperature\nof the\nwires since temperature\nchange affects both coils\nby an equal amount.",
+          "bbox": [
+            268.75,
+            213.34,
+            488.59,
+            528.07
+          ],
+          "block_id": "b3_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            38.83,
+            248.86,
+            111.31,
+            261.67
+          ],
+          "block_id": "b3_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The Indian\nStandards\nlisted in Annex A are\nnecessary adjuncts to this standard.",
+          "bbox": [
+            39.07,
+            266.62,
+            258.43,
+            289.27
+          ],
+          "block_id": "b3_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3  STRAIN MEASURING\nINSTRUMENTS",
+          "bbox": [
+            38.83,
+            296.14,
+            235.71,
+            308.95
+          ],
+          "block_id": "b3_7",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1  For\nmeasuring\nstrain\nin the body\nof the\nconcrete\nnormal\nguage length\nstrainmeter\nis\nused,\nHowever,\nwith a view to average out\ndiscontinuities\nand hetrogeneity\ninherent\nin a\nmasonry\ndam,\nlong guage strainmeter\nis used\nfor measuring strain in a masonry dam.",
+          "bbox": [
+            38.59,
+            312.46,
+            259.15,
+            375.43
+          ],
+          "block_id": "b3_8",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Unbended Resistance\nType",
+          "bbox": [
+            68.83,
+            384.25,
+            187.39,
+            395.05
+          ],
+          "block_id": "b3_9",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "These instruments\nutilize the principle\nof\nchange in electrical resistance of a elastic\nwire due to change\nin tension which is\ncaused\nby\nstrains\nin the\nsurrounding\nconcrete.",
+          "bbox": [
+            67.63,
+            399.1,
+            258.91,
+            452.47
+          ],
+          "block_id": "b3_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Vibrating Wire Type",
+          "bbox": [
+            69.55,
+            461.05,
+            160.03,
+            471.85
+          ],
+          "block_id": "b3_11",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "These instruments\nwork on the principle\nthat the frequency\nof the vibrating wire\ndepends on the tension in the wire caused\ndue to the strain\nin\nthe\nsurrounding\nconcrete.",
+          "bbox": [
+            67.63,
+            475.42,
+            256.99,
+            529.03
+          ],
+          "block_id": "b3_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SENSING\nELEMENT\n(MUSIC\nPIANO\nWIRE)",
+          "bbox": [
+            276.67,
+            535.45,
+            371.84,
+            555.36
+          ],
+          "block_id": "b3_15",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I.\n200\nTO 250\nmm",
+          "bbox": [
+            210.67,
+            657.85,
+            298.29,
+            667.44
+          ],
+          "block_id": "b3_16",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-Expansion coil\nB-Contraction coil\nFIG. 1 STRAINMETER CONSTRUCTION\nDimensions of \u2018No stress\u2019 strain-\nmeter metal container",
+          "bbox": [
+            58.51,
+            683.98,
+            366.91,
+            731.11
+          ],
+          "block_id": "b3_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            265.39,
+            743.53,
+            272.91,
+            753.61
+          ],
+          "block_id": "b3_18",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 540.407958984375,
+        "height": 795.7520141601562
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232 : 1992",
+          "bbox": [
+            41.47,
+            51.88,
+            116.65,
+            61.95
+          ],
+          "block_id": "b4_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Temperature\ncan be measured\nby determining\nthe series resistance\nof the two coils.\nThis is\nnot materially\neffected by changes\nin resistance\nof the coil due to length change because these\nchanges\nare substantially\nequal and opposite.",
+          "bbox": [
+            42.91,
+            72.48,
+            263.71,
+            125.61
+          ],
+          "block_id": "b4_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "flanges of the transducer\nin such a manner that\nthe natural frequency\nof vibration\nof the wire is\na function of the change in the distance between\nthe flanges.\nThe flanges,\nwhen embedded\nin\na concrete\nstructure,\nwill follow\nthe strain\nin\nthe concrete;\nconsequently,\nthe square of the\ngauge\nwire frequency\nwill be proportional\nto\nthe strain in the concrete.\nA single gauge may\nbe used or several guages may be combined\nto\nform a variety of rosette configurations.",
+          "bbox": [
+            276.91,
+            72.48,
+            498.91,
+            175.77
+          ],
+          "block_id": "b4_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The range\nof strainmeters,\nwhile\nample\nfor\nmeasuring\nthe deformations\nusually\nfound\nin\nconcrete,\nis definitely\nlimited and strainmeters\nusually\nbrer k if a crack develops across them.\nThe usual allowable range of movement\neither\nway from\nthe neutral\npoint at which they are\ninstalled,\nis of the order\nof 0\u2019001 cm/cm of\nstrainmeter\nlength.",
+          "bbox": [
+            43.63,
+            132.72,
+            263.95,
+            215.61
+          ],
+          "block_id": "b4_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.3 Gauge length varies\naccording to the use.\nStandard gauge have an overall length of 200-250\nmm. The range\nof strainmeters,\nwhile ample\nfor measuring\nthe deformations\nusually\nfound\nin concrete, is definitely limited and strainmeters\nusually break\nif a crack develops\nacross them.\nThe usual allowable\nrange of movement\neither\nway from\nthe neutral\npoint at which\nthey are\ninstalled,\nis of the order\nof 0\u2019001 cm/cm\nof\nstrainmeter\nlength.\nNormal\nreadout\nequipment\nwhich gives an accuracy of & 2  X  low6 strain is\nsuitzble.",
+          "bbox": [
+            276.91,
+            182.4,
+            498.91,
+            306.09
+          ],
+          "block_id": "b4_8",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Every\nstrainmeter\nis supplied\nwith calibration\ndata sheet showing total resistance of both coils,\nindividual\nresistance of expansion\nand coctrac-\ntion\ncoils\nmezsured\nat 0\u00b0C and temperature\nconstant\nfor every change of 1 ohm in the total\nresistance\nof both the coils.",
+          "bbox": [
+            44.83,
+            219.36,
+            262.75,
+            282.57
+          ],
+          "block_id": "b4_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The entire\nlength\nchange represents the actual\nlength\nchange\nprovided\nthere is no change in\ntemperature.\nIf there is a temperature\nchange\nthe indicated length change\nmust be corrected\nfor thermal\nexpansion\nor contraction\nof the\nmeter\nframe\nin accordance\nwith the instruction\nof\nmanufacturer.\nThe\nmeters\nare\nusually\nfurnished\nwith about 7.5 cm of rubber covered\n3\nconductor\ncolour\ncoded\ncable attached.\nOne\nof the conductor\n( green in colour ) is made\ncommon\nto both\ncoil,\nthe\nwhite\nconductor\nconnects to the other end of expansion\ncoil and\nblack conductor\nto the other end of contraction\ncoil from so called neutral ( or initial ) position\nof meter about\n2/3 and the range in expansion\nabout l/3 of the total.\nThe readings\nare taken\nby a suitable\nreadout\narrangement\nwhich\nis\nbasically wheatstone\nbridge.",
+          "bbox": [
+            45.07,
+            286.08,
+            267.07,
+            470.01
+          ],
+          "block_id": "b4_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4 NUMBER, LOCATION\nAND LAYOUT",
+          "bbox": [
+            277.63,
+            312.72,
+            466.75,
+            325.53
+          ],
+          "block_id": "b4_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1 The number, location and layout depends on\nthe type of information\nrequired.\nIn general,\ninformation\nsought relates to the following:",
+          "bbox": [
+            277.63,
+            329.28,
+            497.95,
+            362.25
+          ],
+          "block_id": "b4_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Distribution\nof stresses\nat a point in a\nmassive structure,",
+          "bbox": [
+            293.23,
+            369.36,
+            499.63,
+            392.25
+          ],
+          "block_id": "b4_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Stresses near the surfaces which are affec-\nted by temperature\nvariation,\nand\nc) Stresses in special foundation\nfeatures.",
+          "bbox": [
+            292.99,
+            396.24,
+            497.47,
+            433.53
+          ],
+          "block_id": "b4_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2 Measurement\nof Stresses\nfrom the Strains\nat a Point in a Massive Structure",
+          "bbox": [
+            279.31,
+            440.4,
+            495.55,
+            463.29
+          ],
+          "block_id": "b4_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.1 To determine\nthe stress\nat a particular\npoint in a massive\nstructure\nseveral choices\nof\nthe layout for\nstrainmeter\ngroups are available\ndepending\nupon\nthe overall\nbehaviour\nof the\nstructure:\na) A group\nof five strainmeters\noriented as\nshown\nin the Fig. 3 with one \u2018no stress\u2019\nstrainmeter\nmay be used for the locations\nwhere\nthe behaviour\nof the structure\nis",
+          "bbox": [
+            279.07,
+            467.28,
+            500.59,
+            565.29
+          ],
+          "block_id": "b4_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.2  Description\nof\nVibrating\nWire\nType\nStrainmeter",
+          "bbox": [
+            46.03,
+            477.12,
+            264.91,
+            499.71
+          ],
+          "block_id": "b4_5",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This  type of strainmeter\nis also in the form of a\nlong cylinder with flanges in each end to anchor\nthe\nends\nof the\nmeter\nto\nthe\nsurrounding\nconcrete.\nThe construction\ndetails of this type\nof meter are shown in Fig. 2.\nThe prestressed\nvibrating wire is stretched between the two end",
+          "bbox": [
+            46.03,
+            503.52,
+            266.59,
+            566.73
+          ],
+          "block_id": "b4_6",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MAGNET\nSYSTEM",
+          "bbox": [
+            405.79,
+            599.31,
+            464.71,
+            606.99
+          ],
+          "block_id": "b4_15",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "VNBRATING\nWIRE",
+          "bbox": [
+            383.95,
+            671.26,
+            440.66,
+            678.82
+          ],
+          "block_id": "b4_16",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "L  FLANGE\n, FLANGE J",
+          "bbox": [
+            98.35,
+            703.95,
+            491.77,
+            718.06
+          ],
+          "block_id": "b4_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FIG. 2 STRAIN GUAGE, VIBRATING WIRE",
+          "bbox": [
+            178.27,
+            722.64,
+            365.83,
+            731.87
+          ],
+          "block_id": "b4_18",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            274.03,
+            746.64,
+            280.87,
+            755.87
+          ],
+          "block_id": "b4_19",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 537.6640014648438,
+        "height": 812.9119873046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232 : 1992",
+          "bbox": [
+            414.67,
+            48.36,
+            489.13,
+            58.43
+          ],
+          "block_id": "b5_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "STRAINMETER\nSPI",
+          "bbox": [
+            232.51,
+            212.03,
+            291.75,
+            219.23
+          ],
+          "block_id": "b5_1",
+          "font_size": 5.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "THIS\nLINE\nIS\nPARALLEL",
+          "bbox": [
+            147.79,
+            229.89,
+            222.63,
+            236.82
+          ],
+          "block_id": "b5_2",
+          "font_size": 5.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TO DAM\nAXIS",
+          "bbox": [
+            148.03,
+            237.81,
+            188.07,
+            244.74
+          ],
+          "block_id": "b5_3",
+          "font_size": 5.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "STRAlNMETER\nSPIDER",
+          "bbox": [
+            234.43,
+            309.09,
+            309.03,
+            316.02
+          ],
+          "block_id": "b5_4",
+          "font_size": 5.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "All  dimensions\nin millimetres.",
+          "bbox": [
+            201.55,
+            379.37,
+            312.25,
+            389.94
+          ],
+          "block_id": "b5_5",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "FIG.  3  TYPICAL  LAYOUT FOR A GROUP OF  FIVE  STRAINMETERS",
+          "bbox": [
+            118.03,
+            390.08,
+            408.78,
+            402.89
+          ],
+          "block_id": "b5_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "likely to be predominantly\ntwo-dimensio-\nnal in nature. This type of behaviour\nmay\nbe visualised\nfor concrete/masonry\ndam\nblocks resting on nearly\nhorizontal\nfoun-\ndations and having no large sized openings\nin the near\nvicinity\nof the\nlocation of\nstrainmeter\ngroup.\nThis\narrangement\nis\nr&able\nfor majority\nof the dams in the\ncountry where contraction\njoints between\nthe blocks\nare not\ngrouted\nand\nthe\noverall\nlayout\nspecifies\nstipulation\nas\nabove.",
+          "bbox": [
+            61.39,
+            409.76,
+            253.87,
+            532.73
+          ],
+          "block_id": "b5_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Meter No. 5 -\nAlso in vertical plane per-\npendicular\nto\nthe\naxis,\nperpendicular\nto No. 4\n( hour hand at 1\u201930 ).\nMeter No. 6  - Vertical\nplane parallel to\nthe axis, similar to 1\u201930\no\u2019clock\nwhen\nlooking\ndownstream.\nMeter No. 7 - Vertical\nplane parallel to\nthe axis and perpendicular\nto No. 6 ( hour\nhand at\n4-30 ).",
+          "bbox": [
+            292.03,
+            410.72,
+            484.99,
+            538.73
+          ],
+          "block_id": "b5_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": ",b) In case of locations where the behaviour\nof the structure\nis likely\nto\nbe pre-\ndominantly\nthree-dimensional\nin nature,\nsix components\nof strains\nin\ndifferent\ndirections\nare required\nto be measured\nto\ndetermine\nthe state of strain/stress\nat a\npoint.\nFor this purpose\na group of nine\nstrainmeters\nis recommended.\nThe arrange-\nment of individual\nstrainmeters\nin such a\ngroup is given as below  :",
+          "bbox": [
+            47.71,
+            536.24,
+            256.27,
+            639.53
+          ],
+          "block_id": "b5_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Meter No. 8 - Horizontal\nplane, similar\nto 1\u201930 o\u2019clock\nif 12\u201900\nis upstream.\nMeter No. 9 - Also in horizontal\nplane,\nperpendicular\nto No.\n8\nand at\n4\u201930\no\u2019clock\nif\n12\u201800  is upstream.",
+          "bbox": [
+            294.43,
+            541.04,
+            486.19,
+            617.69
+          ],
+          "block_id": "b5_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In addition a \u2018no stress\u2019\nstrainmeter\nshould be\ninstalled\nby the side of the group of 9 strain-\nmeters described above.",
+          "bbox": [
+            267.07,
+            621.44,
+            484.99,
+            654.41
+          ],
+          "block_id": "b5_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Meter No. 1 - Horizontal,\nparallel to the\naxis of dam.\nMeter No. 2 - Horizontal\nbut perpendi-\ncular to the axis.",
+          "bbox": [
+            63.55,
+            646.64,
+            255.07,
+            694.01
+          ],
+          "block_id": "b5_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.2 The strainmeter\ngroups are generally loca-\nted at an equal spacing\nalong a horizontal\nline\nacross the section of the dam as shown in Fig. 4.\nThe lowest strainmeter\ngroup near the founda-\ntion of the dam should\nbe located\nsufficiently\naway from\nthe foundation\ngrade so that\nthe\nlocal disturbances in the stress fully\nproduced\nby the irregularities\nin the foundation\ngrade\nmay be avoided.\nIt is recommended\nthat\nthe\nlowest level of installation\nfor the strainmeter",
+          "bbox": [
+            266.35,
+            659.36,
+            485.71,
+            762.89
+          ],
+          "block_id": "b5_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Meter No. 3 - Vertical",
+          "bbox": [
+            64.99,
+            696.08,
+            169.39,
+            708.89
+          ],
+          "block_id": "b5_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Meter No. 4 - Vertical\nplane\nperpendi-\ncular to the axis. Similar\nto hour\nhand of clock at\n4130 o\u2019clock when looking\ntowards right abutment.",
+          "bbox": [
+            64.51,
+            710.24,
+            254.35,
+            763.37
+          ],
+          "block_id": "b5_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            256.75,
+            770.24,
+            263.95,
+            783.05
+          ],
+          "block_id": "b5_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 524.6640014648438,
+        "height": 820.9119873046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232:1992",
+          "bbox": [
+            43.87,
+            48.43,
+            127.01,
+            61.62
+          ],
+          "block_id": "b6_0",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": ".GROUP\nOF STRAINMETERS",
+          "bbox": [
+            296.11,
+            149.9,
+            379.61,
+            157.46
+          ],
+          "block_id": "b6_4",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "EL 1150.00",
+          "bbox": [
+            132.67,
+            152.3,
+            163.85,
+            159.86
+          ],
+          "block_id": "b6_1",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2018NO-STRESS\u2019\nSTRAINkTERS",
+          "bbox": [
+            302.35,
+            164.3,
+            388.01,
+            171.86
+          ],
+          "block_id": "b6_5",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "EL\n1015.00",
+          "bbox": [
+            129.79,
+            180.38,
+            163.61,
+            187.94
+          ],
+          "block_id": "b6_2",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SURFACE\nSTRAINMETERY",
+          "bbox": [
+            319.87,
+            183.02,
+            397.61,
+            190.58
+          ],
+          "block_id": "b6_6",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "EL 1000.00",
+          "bbox": [
+            130.51,
+            207.5,
+            162.89,
+            215.06
+          ],
+          "block_id": "b6_3",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "LEGENO",
+          "bbox": [
+            173.71,
+            261.98,
+            196.73,
+            269.54
+          ],
+          "block_id": "b6_7",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a\nGROUP\nOF\nSTRAINMETERS\n1\nSURFACE\nSTRAINMETERS",
+          "bbox": [
+            174.67,
+            275.9,
+            270.41,
+            292.82
+          ],
+          "block_id": "b6_8",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "lJI\nNO-STRESS\nSTRAINMETERS",
+          "bbox": [
+            174.19,
+            295.1,
+            276.89,
+            302.66
+          ],
+          "block_id": "b6_9",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "FIG.\n4  TYPICAL LAYOUT OF STRAINMETERS IN CONCRETE/MASONRY DAM",
+          "bbox": [
+            106.27,
+            309.76,
+            440.11,
+            323.22
+          ],
+          "block_id": "b6_10",
+          "font_size": 10.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3 Embedding Procedure for Strainmeters",
+          "bbox": [
+            279.79,
+            333.28,
+            464.83,
+            346.09
+          ],
+          "block_id": "b6_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "groups\nshould\nbe kept at about\n1\u20195 m away\nfrom the dam foundation\ninterface.\nSimilarly,\nthe installations\nwhich are designed to measure\noverall stress field in the dam have to be kept\nat a minimum distance\nof 1\u20195 m, away from the\nboundaries\nof large sized openings which\nmay\nbe present in the section of the dam. As far as\npossible,\nthe\nindividual\nstrainmeter\ngroups\nshould\nbe located\nin the section\nin a single\nvertical plane.",
+          "bbox": [
+            48.19,
+            334.72,
+            269.47,
+            438.25
+          ],
+          "block_id": "b6_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.1  Separate Single Strainmeter",
+          "bbox": [
+            279.79,
+            353.44,
+            426.67,
+            366.25
+          ],
+          "block_id": "b6_13",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Single strainmeters\nare usually embedded\nnear\nthe top of a lift. The following\nis the embedd-\ning procedure\n:",
+          "bbox": [
+            280.03,
+            373.84,
+            498.43,
+            406.57
+          ],
+          "block_id": "b6_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            295.15,
+            412.61,
+            308.67,
+            428.44
+          ],
+          "block_id": "b6_15",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dig into the area 1 m X 1 m for the depth\nup to 0\u20197 m. Discard all aggregates\nover\n7 cm size. Backfill sufficiently and provide\na bed for the instrument.",
+          "bbox": [
+            308.59,
+            414.16,
+            498.43,
+            457.21
+          ],
+          "block_id": "b6_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The provisions made for the layout\nof strain-\nmeters\nin IS 7436 ( Part 2 )  :  1976, should\nbe\nkept in view.",
+          "bbox": [
+            50.11,
+            445.36,
+            269.23,
+            478.57
+          ],
+          "block_id": "b6_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            295.39,
+            463.01,
+            308.91,
+            478.84
+          ],
+          "block_id": "b6_18",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Drill the hole with the help of electric\nlaboratory\nvibrator and insert the strain-\nmeter in the hole or lay flat for horizontal\nmeter in correct direction.\nc>",
+          "bbox": [
+            295.87,
+            464.32,
+            498.19,
+            530.29
+          ],
+          "block_id": "b6_20",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2.3 Outermost\nstrainmeter\ngroups\nshould be\nplaced\nat a minimum\ndistance\nof one metre\nfrom the surface\nwith a view to avoid influence\nof local effects on the surface.",
+          "bbox": [
+            50.35,
+            485.44,
+            269.47,
+            528.73
+          ],
+          "block_id": "b6_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Vibrate\naround\ndeeply embedded\nmeters\nor hand puddle around shallow meters.",
+          "bbox": [
+            309.07,
+            514.48,
+            498.43,
+            537.37
+          ],
+          "block_id": "b6_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 METHODS\nOF INSTALLATION\n4",
+          "bbox": [
+            51.07,
+            537.52,
+            305.07,
+            556.12
+          ],
+          "block_id": "b6_21",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Check angles, directions,\nand depth.",
+          "bbox": [
+            309.79,
+            541.12,
+            472.75,
+            553.93
+          ],
+          "block_id": "b6_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1 The\nstrainmeters\nalthough\nrugged\nin\nconstruction,\nneed enough care in the field while\ne) Continue\nbackfilling\nby hand with the\nsame\nconcrete\nas mass concrete,\nused in\nthese are placed in concrete with a view to ensur-\nconstruction,\nafter\ndiscarding\naggregate\ning accurate measurements.\nabove size, and hand puddle.",
+          "bbox": [
+            51.07,
+            556.72,
+            501.07,
+            601.45
+          ],
+          "block_id": "b6_24",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f) A flag is put on the embedment\nlocation\nfor easy identification.\n.",
+          "bbox": [
+            296.11,
+            607.36,
+            496.75,
+            630.25
+          ],
+          "block_id": "b6_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2  Prior\nto the embedment\nof strainmeters,\neach instrument\nshould be thoroughly\nchecked.\nIn case of\nunbounded\nresistance\ntype strain-\nmeters,\nmeter\nresistance,\nlead\nresistance\nand\nresistance\nratios\nmust be checked\nand values\nrecorded\nin the proforma\ngiven in Annex\nB.\nThese observations\nshould also be repeated after\nshifting\nthe\nadditional\nlength\nof cells and\nrecorded in the proforma.",
+          "bbox": [
+            51.07,
+            608.08,
+            271.15,
+            701.29
+          ],
+          "block_id": "b6_25",
+          "font_size": 10.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.2  Groups of Separate\nStrainmeters",
+          "bbox": [
+            281.47,
+            637.36,
+            448.27,
+            650.17
+          ],
+          "block_id": "b6_27",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "All the steps, except Step (b) described\nin 5.3.1\nabove\nremain\nsame.\nAs a substitute\nfor Step\n(b), the following procedure\nshall be adopted:",
+          "bbox": [
+            281.95,
+            657.52,
+            500.11,
+            690.49
+          ],
+          "block_id": "b6_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2018Use an electric laboratory\nvibrator\nto make\na hole for vertical\nand diagonalgmeters\nand\ninsert meters\nin a hole or lay flat for hori-\nzontal meters in correct direction\u2019.",
+          "bbox": [
+            296.59,
+            697.6,
+            500.35,
+            740.65
+          ],
+          "block_id": "b6_30",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In case of vibrating wire type strainmeters,\nzero\nfrequency shall be checked and recorded.\nThese\nreadings should be repeated after splicing.",
+          "bbox": [
+            52.27,
+            708.4,
+            268.99,
+            741.37
+          ],
+          "block_id": "b6_29",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            280.03,
+            747.76,
+            287.23,
+            760.57
+          ],
+          "block_id": "b6_31",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 532.6640014648438,
+        "height": 810.9119873046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232  :  1992",
+          "bbox": [
+            415.39,
+            41.76,
+            485.95,
+            54.57
+          ],
+          "block_id": "b7_7",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "200 mm deep is dug around each pipe and after\nthe concrete has stiffened\nslightly, the bracket\nscrews are removed\nand the pipes pulled out\nand meters\nplaced\nin holes. The space between\nmeter\ncase and sides and bottom\nof hole is\nfilled\nwith\nmortar\nand carefully\ntamped\nto\nensure\ncomplete\ncontact\nwith the\ninstrument.\nA barrier shall be erected\nto protect\nthe area\nwhen the concrete gets hardened.",
+          "bbox": [
+            266.11,
+            64.32,
+            486.19,
+            158.01
+          ],
+          "block_id": "b7_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.3\nEmbedding\nProcedure\nfor\nLarger\nGroups\nof Strainmeter\nMounted on Spider",
+          "bbox": [
+            35.47,
+            66.99,
+            254.35,
+            87.87
+          ],
+          "block_id": "b7_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "For a larger group\nof strainmeter\nup to a maxi-\nmum of 9, more elaborate\npreparation\nmust be\nmade to ensure correct installation\nin the limited\ntime available\nbefore\nthe mass concrete attains\ninitial set.\nWith a view to simplify\nand\nsave\ntime, strainmeters\nare mounted on the spider.",
+          "bbox": [
+            35.95,
+            89.76,
+            255.55,
+            152.97
+          ],
+          "block_id": "b7_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Spider\nconsists\nof a hub which has number of\nrods attached.\nThe rods are screwed\ninto the\ndrilled holes in the hub ard are threaded at one\nend to fit into the tapped hole in the end of the\nstrainmeter.\nIt facilitates embedment\nof a group\nof strainmeters\nat a location\nfor eventual\n2-\nor 3-dimensional\nstress analysis.\nThe method\ndescribed below may be followed.",
+          "bbox": [
+            36.19,
+            156.48,
+            256.75,
+            239.61
+          ],
+          "block_id": "b7_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.5  Embedding\nProcedure\nfor\nStrainmeters\nNear Foundation Profile",
+          "bbox": [
+            266.35,
+            164.88,
+            479.71,
+            187.71
+          ],
+          "block_id": "b7_9",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Strainmeter\ngroups\nmay be embedded\nin the\ndesired location.\nEmbedding procedure\nas des-\ncribed in para 5.3.1 and 5.3.2 shall be followed\nas applicable.",
+          "bbox": [
+            266.59,
+            195.12,
+            485.23,
+            238.17
+          ],
+          "block_id": "b7_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A hole is drilled in a completed\nlift of concrete\nor formed\nat\nthe time of concrete\nplacement\ninto which an anchor rod is installed by grout-\ning. This\nanchor\nrod\nwill have\na threaded\nprotion\nprotruding\nabove\nthe concrete\ninto\nwhich the spider\nhaving\na threaded\nhole is\nscrewed\non. The strainmeters\nare attached\nto\nthe legs of spider\nand the cables\nare taken to\nthe contraction\njoint between\nblocks through a\ngroove\nalready\nformed\nin the previous\nlift\nand then covered with mortar.\nThe above works\nare\ncarried\nout a day prior to the\nplacing of\nnext lift of concrete.\nThe strainmeter\ngroup is\ntemporarily\ncovered\nwith a box which will be\nremoved\nwhen\nthe area around\nthe group\nis\nready for concreting.\nThe group is covered\nwith\nthe same mass concrete\nbut with aggregates\nabove\n2.54 cm\nremoved\nand the concrete is\ncarefully\nvibrated\nusing\na small pneumatic\nvibrator.",
+          "bbox": [
+            36.19,
+            243.12,
+            258.19,
+            446.97
+          ],
+          "block_id": "b7_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4 \u2018No-Stress\u2019 Strainmeter",
+          "bbox": [
+            267.31,
+            246.96,
+            383.95,
+            259.77
+          ],
+          "block_id": "b7_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "With a view to determining\nthe corrections\nto be\napplied on account\nof autogenous\ngrowth and\nthermal expansion\nof mass concrete,\n\u2018no-stress\u2019\nstrainmeters\nare installed\nby the side of both\nnormal and long gauge\ngroup of strainmeters.\nThese are embedded in metal containers.",
+          "bbox": [
+            267.07,
+            267.36,
+            486.91,
+            330.57
+          ],
+          "block_id": "b7_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Metal\ncontainers\nmaintain\ncontinuity\nof the\nprism concrete\nin which \u2018no-stress\u2019\nstrainmeter\nis embedded\nwith\nthe\nmass\nconcrete,\nwhile\nensuring\nsame temperature\nand humidity\nwhich\nis considered as positive necessity.",
+          "bbox": [
+            267.07,
+            337.68,
+            485.47,
+            391.05
+          ],
+          "block_id": "b7_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.1  Embedding\nProcedure\nof\n\u2018No-Stress\u2019\nStrainmeter\nUsing Metal Container",
+          "bbox": [
+            267.31,
+            397.92,
+            481.64,
+            420.75
+          ],
+          "block_id": "b7_14",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The dimensions\nof the container\nare furnished\nin Fig. 5. Embedding procedure\nis as follows:\na>",
+          "bbox": [
+            267.55,
+            425.04,
+            481.39,
+            472.05
+          ],
+          "block_id": "b7_15",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The\nabove process\nhelps to keep\nthe strain-\nmeters\nin proper\nalignment\nand\ngives better\nprotection\nto the cables.",
+          "bbox": [
+            37.15,
+            450.24,
+            254.11,
+            483.21
+          ],
+          "block_id": "b7_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The bimetallic\ncontainer,\nmade of steel\nand\nI  copper,\nis\nanchored\nagainst\nthe\nprevious\nconcrete\nby stay wires not to be\nlifted up during concreting.",
+          "bbox": [
+            296.35,
+            454.8,
+            486.91,
+            498.09
+          ],
+          "block_id": "b7_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.4  Embedding Procedure for\nGroup of Surface\nStrainmeters",
+          "bbox": [
+            36.67,
+            490.32,
+            253.87,
+            512.67
+          ],
+          "block_id": "b7_5",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Place mass concrete around up to 250 mm\nfrom the top of container.",
+          "bbox": [
+            296.11,
+            501.84,
+            486.43,
+            524.97
+          ],
+          "block_id": "b7_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            283.15,
+            501.97,
+            296.67,
+            517.8
+          ],
+          "block_id": "b7_16",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The positioning\nof the meters at the\nrequired\ndistances from the face in a vertical\nplane and\nat the proper\nslope is achieved\nby providing\nspecial\npipe brackets\nbolted\nor fastened\nto\nthe top of the forms. Each bracket with a length\nof 38 mm\npipe\nsealed at the bottom\nend, is\nheld at the proper distance\nfrom face and kept\nparallel to the form surface. When the concrete\nis placed,\neach pipe forms a hole slightly lar-\nger than meter diameter.\nA shallow\nhole about",
+          "bbox": [
+            36.67,
+            517.44,
+            257.71,
+            620.73
+          ],
+          "block_id": "b7_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Fill mass concrete\nof same consitutents\nand grade in the container up to half of its\ndepth.\nInsert a strainmeter\nin the con-\ntainer\nchecking\nthe right\nposition\nand\ndirection\nand then fill the remaining half\nwith concrete.",
+          "bbox": [
+            294.91,
+            530.16,
+            486.91,
+            593.61
+          ],
+          "block_id": "b7_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            281.95,
+            530.29,
+            291.63,
+            546.12
+          ],
+          "block_id": "b7_17",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d) Place\nmass\nconcrete\nto\nthe\nrequired\nheight.",
+          "bbox": [
+            286.99,
+            597.12,
+            482.35,
+            620.25
+          ],
+          "block_id": "b7_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "METAL\nC0NTAINE.R",
+          "bbox": [
+            319.63,
+            677.07,
+            394.4,
+            686.67
+          ],
+          "block_id": "b7_22",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "S TAY",
+          "bbox": [
+            319.63,
+            695.79,
+            341.6,
+            705.39
+          ],
+          "block_id": "b7_23",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "STRAINMETER",
+          "bbox": [
+            319.87,
+            709.47,
+            369.44,
+            719.07
+          ],
+          "block_id": "b7_24",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "TINFOIL",
+          "bbox": [
+            320.59,
+            732.51,
+            348.32,
+            742.11
+          ],
+          "block_id": "b7_25",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": ".ANCHOR",
+          "bbox": [
+            317.23,
+            745.95,
+            350.0,
+            755.55
+          ],
+          "block_id": "b7_26",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "FIG. 5 \u2018NO-STRESS\u2019 STRAINMETER\nINSTALLATION\nDETAILS",
+          "bbox": [
+            138.67,
+            766.84,
+            404.91,
+            776.91
+          ],
+          "block_id": "b7_27",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            263.23,
+            780.28,
+            270.75,
+            790.35
+          ],
+          "block_id": "b7_28",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 537.6640014648438,
+        "height": 812.9119873046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "JS 13232  :1992",
+          "bbox": [
+            42.43,
+            47.92,
+            113.47,
+            60.73
+          ],
+          "block_id": "b8_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.3 Reading\nSchedule",
+          "bbox": [
+            271.63,
+            67.6,
+            370.03,
+            80.41
+          ],
+          "block_id": "b8_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 CABLES AND CONDUITS",
+          "bbox": [
+            41.71,
+            69.55,
+            176.83,
+            80.35
+          ],
+          "block_id": "b8_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following reading schedule shall be adopted:",
+          "bbox": [
+            272.11,
+            84.64,
+            485.71,
+            97.45
+          ],
+          "block_id": "b8_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1  The splicing and protection\nof cables shall\nsatisfy\nthe\nrequirements\nas\nlaid\ndown\nin\nIS 10334  :  1982 for\nunbounded\nresistance\ntype\nstrainmeters.",
+          "bbox": [
+            41.23,
+            88.48,
+            261.31,
+            131.53
+          ],
+          "block_id": "b8_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)  During Installation",
+          "bbox": [
+            286.99,
+            104.8,
+            383.95,
+            117.61
+          ],
+          "block_id": "b8_14",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i)\nii)",
+          "bbox": [
+            300.91,
+            123.65,
+            313.95,
+            152.17
+          ],
+          "block_id": "b8_15",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "One reading prior to embedment.",
+          "bbox": [
+            316.03,
+            124.96,
+            460.99,
+            137.77
+          ],
+          "block_id": "b8_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "One reading when meter is about half\nembedded.",
+          "bbox": [
+            316.03,
+            139.84,
+            488.59,
+            162.49
+          ],
+          "block_id": "b8_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 Provision\nof additional\n10% or 1\u20195 metres\n( whichever\nis more ) for the estimated\nlength\nof cable shall be made.",
+          "bbox": [
+            40.99,
+            140.56,
+            259.15,
+            173.53
+          ],
+          "block_id": "b8_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iii)",
+          "bbox": [
+            297.55,
+            163.84,
+            310.99,
+            176.65
+          ],
+          "block_id": "b8_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "One reading\nwhen the meter is fully\nembedded.",
+          "bbox": [
+            315.31,
+            164.32,
+            488.11,
+            186.97
+          ],
+          "block_id": "b8_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3 Strainmeters\nand\n\u2018No-Stress\u2019\nstrainmeters\nshall be properly designated\nfor clear identifica-\ntion.\nAfter\nsplicing a copper\nband\nwith the\ninstrument\nidentification\nnumber\nstamped\nor\npunched\non it, it is crimped to the cable about\n1 m from\nthe meter\nend and a similar band\ncrimped\n0\u20193 m from the free end of the cable.\nFurther toward\noff possibility\nof copper\nband\nbeing stripped\noff during placement\noperation,\na second marker\nconsisting\nof\nidentification\nnumber marked on white tape and covered with\nlinen and friction tape should be placed around\nthe cable near the reading end.",
+          "bbox": [
+            41.23,
+            184.72,
+            260.11,
+            318.25
+          ],
+          "block_id": "b8_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iv)",
+          "bbox": [
+            299.47,
+            188.56,
+            312.19,
+            201.37
+          ],
+          "block_id": "b8_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "One reading when the cable is being\nlaid out.",
+          "bbox": [
+            316.51,
+            188.56,
+            488.11,
+            211.21
+          ],
+          "block_id": "b8_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "One reading\nwhen cable is taken to\nterminal board.",
+          "bbox": [
+            314.83,
+            213.28,
+            489.79,
+            236.17
+          ],
+          "block_id": "b8_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "v)",
+          "bbox": [
+            300.91,
+            214.48,
+            310.99,
+            227.29
+          ],
+          "block_id": "b8_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)  During Construction Period of Dam",
+          "bbox": [
+            286.27,
+            237.76,
+            459.31,
+            250.57
+          ],
+          "block_id": "b8_24",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Time after\nInstallation\nFrequency of\nReading",
+          "bbox": [
+            296.59,
+            253.63,
+            467.71,
+            274.99
+          ],
+          "block_id": "b8_25",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Zero day\nTwo readings per day,\nspaced at least 6 h\n1st to 14th day,\nOnce a day\n3rd to 6th week,\nTwice a week\n7th week to com-\nOnce a week\npletion of dam",
+          "bbox": [
+            287.71,
+            277.84,
+            489.55,
+            344.65
+          ],
+          "block_id": "b8_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4 Provisionscontained\nin 4.3.1 of IS 6524  :  1972\nshall also apply to the strainmeter\ninstallation.",
+          "bbox": [
+            40.99,
+            327.28,
+            262.99,
+            350.17
+          ],
+          "block_id": "b8_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) During commissioning\nand subsequently\nfor every\n1\u20195 to 3\u20190 m change\nin\nthe\nreservoir levels.",
+          "bbox": [
+            287.71,
+            346.48,
+            490.03,
+            379.45
+          ],
+          "block_id": "b8_27",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 TERMINAL\nBOARDS",
+          "bbox": [
+            41.71,
+            359.2,
+            153.55,
+            372.01
+          ],
+          "block_id": "b8_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.1 All the cables shall be terminated\nin a suita-\nble terminal board.",
+          "bbox": [
+            41.47,
+            379.6,
+            259.15,
+            402.49
+          ],
+          "block_id": "b8_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.4 Forms of Record",
+          "bbox": [
+            272.11,
+            386.32,
+            363.07,
+            399.13
+          ],
+          "block_id": "b8_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Observations\nshall be recorded\non a suitably\ndesigned\nprinted\nfield\nreading\nform.\nThese\nforms should\nbe got\nprinted\nsufficiently\nin\nadvance and kept ready.\nDuplicate copy of the\nobservations\nshould be prepared\nsimultaneously.\nThe original should be sent to the Design Office\nor\nto the office entrusted with the analysis of\ndata and duplicate retained\nin the field record\noffice for future reference.",
+          "bbox": [
+            270.43,
+            401.92,
+            489.79,
+            495.13
+          ],
+          "block_id": "b8_29",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8 OBSERVATIONS",
+          "bbox": [
+            41.47,
+            411.52,
+            126.67,
+            424.33
+          ],
+          "block_id": "b8_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1  Observations\nof\nthe resistance\nratio\nand\nresistance\nof the\nstrainmeter\nare\nmade\nby\nconnecting\nthe meter conductors,\nuntil these are\nsoldered to the terminal\ncontacts\non terminal\nboards, to the binding\nposts\nof the standard.\nWheatstone\nbridge in the order specified by the\nmanufacturer.\nSubsequent\nto their terminations\non the terminals\nboards\nin galleries,\nobserva-\ntions\nof meters\nare made by\u2019 connecting\nthe\nrequired cluster of contacts to the test set with\nthe help of female plug which has socket at one\nend and individual\nconductors\nequipped\nwith\nmetallic like terminals for connection\nto the test\nset binding posts at the other end.\nCare should\nbe taken to connect the cable leads in the order\nspecified by the manufacturer\nto ensure correct\nmeasurements.",
+          "bbox": [
+            41.47,
+            431.68,
+            259.39,
+            605.29
+          ],
+          "block_id": "b8_9",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9 SOURCES\nOF ERRORS",
+          "bbox": [
+            270.67,
+            500.08,
+            394.99,
+            512.89
+          ],
+          "block_id": "b8_30",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Presence of moisture inside terminal panel\nin case of unbounded\nstrain gauge type.\nb) Loose circuit connections\nof the test set.\nc) Faulty cable leads.",
+          "bbox": [
+            285.31,
+            516.88,
+            487.39,
+            568.33
+          ],
+          "block_id": "b8_31",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d) Imperfect cable splice.",
+          "bbox": [
+            286.51,
+            570.16,
+            399.79,
+            582.97
+          ],
+          "block_id": "b8_32",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e) Presence of deposit on cluster of contacts.\nf) Low voltage of batteries.",
+          "bbox": [
+            286.27,
+            584.56,
+            484.03,
+            611.29
+          ],
+          "block_id": "b8_33",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2 Note the zero frequency\nof the gauge before\ninstallation.\nThe variation,\nif any, for the zero\nfrequency\nrecorded\nin the calibration\ndata pro-\nvided with the gauge could be due to difference\nin the temperature\nfrom the clibration\ntempera-\nture.",
+          "bbox": [
+            41.95,
+            614.8,
+            258.19,
+            678.01
+          ],
+          "block_id": "b8_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10  COLLECTION\nOF\nCOMPLEMENTARY\nDATA",
+          "bbox": [
+            271.39,
+            616.24,
+            478.27,
+            638.89
+          ],
+          "block_id": "b8_34",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following\nproperties\nof the dam concrete\nshall be defined:\na) Modulus of elasticity at various ages.\nb) Poisson\u2019s ratio.\nc) Creep properties\nat various ages.\nd) Coefficient of thermal expansion.\ne) Autogenous\ngrowth.\n.",
+          "bbox": [
+            271.39,
+            642.64,
+            485.23,
+            726.49
+          ],
+          "block_id": "b8_35",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "During and after the installation\nof\nthe\nstrain\nguage in concrete,\nregular\nreadings\nshall\nbe\ntaken\nand recorded.\nA reading is taken after\nthe concrete\nis set and it shall be recorded\nas\ninitial reading.",
+          "bbox": [
+            42.91,
+            687.04,
+            263.71,
+            739.93
+          ],
+          "block_id": "b8_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f) Thermal\ndiffusivity.",
+          "bbox": [
+            288.19,
+            726.16,
+            386.83,
+            738.97
+          ],
+          "block_id": "b8_36",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            267.79,
+            749.44,
+            274.99,
+            762.25
+          ],
+          "block_id": "b8_37",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 532.6640014648438,
+        "height": 810.9119873046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232  :  1992",
+          "bbox": [
+            407.35,
+            33.22,
+            477.19,
+            45.1
+          ],
+          "block_id": "b9_0",
+          "font_size": 9.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "constants\nin case of vibrating wire type strain-\nmeters,\nsince\nin this\ncase\nthe\ncalibration\nconstants\nare not affected\ndue to temperature\nchanges.",
+          "bbox": [
+            252.79,
+            55.68,
+            471.91,
+            98.73
+          ],
+          "block_id": "b9_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11 METHOD OF ANALYSIS",
+          "bbox": [
+            22.87,
+            57.63,
+            161.83,
+            68.43
+          ],
+          "block_id": "b9_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11.1 Computation of Length Change and Strain",
+          "bbox": [
+            23.35,
+            75.63,
+            235.51,
+            86.43
+          ],
+          "block_id": "b9_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11.1.1  Correction\nto\nCalibration\nConstant for\nUnbounded Resistance rype Strainmeters",
+          "bbox": [
+            23.11,
+            93.63,
+            240.07,
+            114.27
+          ],
+          "block_id": "b9_3",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11.1.3 A single reading of the strainmeter\nhas\nno meaning\nbut the difference between the two\nreadings\nindicate\nthe\nlength change occurring\nfrom\nthe time\nof first reading\nto the time of\nsecond reading.",
+          "bbox": [
+            255.67,
+            104.64,
+            475.51,
+            157.77
+          ],
+          "block_id": "b9_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sample data sheet on which\ntempratures,\nlength\nchanges and strains of field readings\nare com-\nputed is shown in Annex C.",
+          "bbox": [
+            23.11,
+            116.64,
+            241.99,
+            149.61
+          ],
+          "block_id": "b9_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Calibration\nconstant\nsupplied by the manufac-\nturer shall be corrected by the following formula:\nYc ( 0\u201989 >\nC\u2019=C-l-\nK",
+          "bbox": [
+            23.35,
+            152.88,
+            239.35,
+            193.77
+          ],
+          "block_id": "b9_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.2 Computation of Elastic Strains from Length\nChanges of Strainmeter",
+          "bbox": [
+            255.67,
+            168.27,
+            474.79,
+            189.15
+          ],
+          "block_id": "b9_11",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Since the main purpose is to evaluate\nstresses\nit is necessary to subtract this portion of length\nchange which is due to causes other than stress.\nWith a view to estimating\nthe elastic\nstrains,\ngenerally\nfollowing\ncorrections\nare carried out\nin addition to corrections\nfor meter expansion:",
+          "bbox": [
+            254.71,
+            199.44,
+            473.35,
+            262.65
+          ],
+          "block_id": "b9_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where\nC\u2019 = the new calibration\nconstant,\nc\n= the original calibration\nconstant,\nYc = the resistance\nof a pair of conductor\ncables, and\nR =  the meter resistance at 0\u00b0F.",
+          "bbox": [
+            24.55,
+            201.6,
+            237.19,
+            276.57
+          ],
+          "block_id": "b9_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Correction\ndue to thermal\nexpansion of\nthe concrete.\nb) Correction\ndue to autogenous\ngrowth.",
+          "bbox": [
+            270.07,
+            272.16,
+            474.79,
+            308.97
+          ],
+          "block_id": "b9_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Therefore,\nwhen the strainmeter\nis embedded in\nconcrete\nwhich expands\nfreely\ndue to a tem-\nperature\nrise, the strainmeter\nis likely to indicate\na contraction.\nThus,\ncertain\ndefinite\ncor-\nrections ( addition\nfor increase\nin temperature\nand (  vice Lersa )  as may be prescribed\nby the\nmanufacturer\nfor change of every centigrade in\ntemperature\nmust\nbe applied\nto the indicated\nlength\nchange\nshown\nin\nco1 9 of\nthe\ncom-\nputation\nsheet Annex C.\n11.1.2  Correction\nto\nCalibration\nConstant for\nVibrating Wire Type Strainmeter",
+          "bbox": [
+            24.07,
+            278.16,
+            244.87,
+            404.43
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) Dilatation\ncorrection.",
+          "bbox": [
+            271.03,
+            312.48,
+            376.15,
+            325.29
+          ],
+          "block_id": "b9_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d) Poisson\u2019s ratio correction.",
+          "bbox": [
+            271.27,
+            329.28,
+            399.43,
+            342.09
+          ],
+          "block_id": "b9_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In limited\ninstallations,\ncorrection\nfor thermal\nexpansion\nof concrete\nmay\nonly\nbe made.\nHowever,\nin important\nstructure,\nall the above\ncorrections\nmay be made with a view to increas-\ning the\nreliability\nof\nresults.\nFor\nlimited\ninstallations\nprocedure\nfor computation\nof strain\nas given in Annex C shall be followed.",
+          "bbox": [
+            256.15,
+            346.32,
+            473.35,
+            419.61
+          ],
+          "block_id": "b9_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "No  corrections\nneed be applied to calibration",
+          "bbox": [
+            24.55,
+            406.8,
+            236.23,
+            419.61
+          ],
+          "block_id": "b9_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n(  Clause  2 )",
+          "bbox": [
+            220.87,
+            446.14,
+            284.71,
+            473.63
+          ],
+          "block_id": "b9_17",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "LIST OF REFERRED INDIAN STANDARDS",
+          "bbox": [
+            142.39,
+            482.43,
+            357.67,
+            493.23
+          ],
+          "block_id": "b9_18",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS  No.",
+          "bbox": [
+            266.23,
+            507.63,
+            295.27,
+            520.82
+          ],
+          "block_id": "b9_24",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS  No.",
+          "bbox": [
+            40.15,
+            508.17,
+            71.83,
+            520.22
+          ],
+          "block_id": "b9_19",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Title",
+          "bbox": [
+            167.83,
+            508.59,
+            188.95,
+            518.91
+          ],
+          "block_id": "b9_21",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Title",
+          "bbox": [
+            398.23,
+            509.31,
+            419.35,
+            519.63
+          ],
+          "block_id": "b9_26",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Code of practice for installa-\ntion\nand\nobservation\nof\ninstruments\nfor temperature\nmeasurement\ninside\ndams  :\nResistance type thermometers",
+          "bbox": [
+            111.43,
+            521.52,
+            246.07,
+            574.41
+          ],
+          "block_id": "b9_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "connecting\nresistance\ntype\nmeasuring devices in concrete\nand masonry dams",
+          "bbox": [
+            341.11,
+            522.24,
+            473.83,
+            555.21
+          ],
+          "block_id": "b9_27",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6524  :  1972",
+          "bbox": [
+            25.51,
+            522.34,
+            77.83,
+            534.22
+          ],
+          "block_id": "b9_20",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Guidelines\nfor\ninstallation,\nmaintenance\nand observation\nof\ndeformation\nmeasuring\ndevices\nin\nconcrete\nand\nmasonry dams  :  Part  I  Resis-\ntances type jointmeters",
+          "bbox": [
+            340.39,
+            558.96,
+            474.07,
+            622.17
+          ],
+          "block_id": "b9_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10434\n(  Part 1 ) : 1982",
+          "bbox": [
+            256.63,
+            560.19,
+            337.99,
+            582.09
+          ],
+          "block_id": "b9_25",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10334  :  1982\nCode\nof practice\nfor selec-\ntion, splicing installation\nand\nproviding\nprotection\nto the\nopen\nends of cables used for",
+          "bbox": [
+            27.43,
+            578.64,
+            244.39,
+            621.69
+          ],
+          "block_id": "b9_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 501.8160400390625,
+        "height": 813.7999877929688
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13232 : 1992",
+          "bbox": [
+            37.32,
+            48.09,
+            108.84,
+            58.43
+          ],
+          "block_id": "b10_0",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX B\n(  Clause  5.2 )",
+          "bbox": [
+            227.16,
+            69.28,
+            300.84,
+            96.02
+          ],
+          "block_id": "b10_1",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PRE-EMBEDMENT\nTESTS",
+          "bbox": [
+            196.2,
+            107.13,
+            327.48,
+            117.47
+          ],
+          "block_id": "b10_2",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B-l RESISTANCE\nTYPE\nSTRAINMETERS\nc)  Green-black\nProject\nInstruments\nd) White\nAir temperature\nManufacturer\u2019s\nNo.\nWet bulb temperature\nProject No.\nB-l.4 Resistance of Instrument\nAfter Cable\nLocation\nSplicing",
+          "bbox": [
+            38.28,
+            130.02,
+            465.96,
+            185.55
+          ],
+          "block_id": "b10_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "White-black\nWhite-green\nGreen\nResistance of one pair",
+          "bbox": [
+            298.2,
+            181.62,
+            398.28,
+            230.91
+          ],
+          "block_id": "b10_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nb)\nc)\nd)",
+          "bbox": [
+            284.28,
+            185.13,
+            295.8,
+            232.83
+          ],
+          "block_id": "b10_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Resistance Before Cable Splicing\nWhite-black\nWhite-green\nGreen-black\nResistance\nof one pair",
+          "bbox": [
+            67.8,
+            188.97,
+            215.88,
+            249.39
+          ],
+          "block_id": "b10_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B-l.1",
+          "bbox": [
+            39.24,
+            189.69,
+            60.6,
+            200.03
+          ],
+          "block_id": "b10_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nb)\n4\nd)",
+          "bbox": [
+            54.36,
+            203.61,
+            65.16,
+            250.19
+          ],
+          "block_id": "b10_5",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Ratio Instrument\nwith Cable\nDirect ratio ( white-green-black\n)\nReverse ratio ( black-green-white\n)\nDate of test  :\nDate of embedment\n:\nName and signature\nof\nobserver",
+          "bbox": [
+            284.52,
+            235.14,
+            488.52,
+            318.99
+          ],
+          "block_id": "b10_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B-l.5\na)\nb)",
+          "bbox": [
+            270.36,
+            236.1,
+            294.84,
+            276.03
+          ],
+          "block_id": "b10_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Ratio Instrument Only",
+          "bbox": [
+            68.52,
+            252.66,
+            167.88,
+            265.47
+          ],
+          "block_id": "b10_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B-l.2",
+          "bbox": [
+            39.48,
+            254.73,
+            60.84,
+            265.07
+          ],
+          "block_id": "b10_6",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Direct ratio ( white-green-black\n)\nReverse ratio ( black-green-white\n)",
+          "bbox": [
+            68.52,
+            267.3,
+            226.92,
+            292.11
+          ],
+          "block_id": "b10_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nb)",
+          "bbox": [
+            54.6,
+            270.57,
+            64.92,
+            293.15
+          ],
+          "block_id": "b10_7",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Individual Conductor\nResistance\nLength\nBlack",
+          "bbox": [
+            67.8,
+            295.62,
+            208.92,
+            333.39
+          ],
+          "block_id": "b10_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B-l.3",
+          "bbox": [
+            39.24,
+            297.93,
+            60.6,
+            308.27
+          ],
+          "block_id": "b10_8",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nb)",
+          "bbox": [
+            54.84,
+            311.37,
+            65.16,
+            333.95
+          ],
+          "block_id": "b10_9",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES :",
+          "bbox": [
+            269.16,
+            320.67,
+            305.46,
+            331.23
+          ],
+          "block_id": "b10_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nC\n(  Clauses  11.1.1  and  11.2 )",
+          "bbox": [
+            195.96,
+            356.56,
+            340.44,
+            383.78
+          ],
+          "block_id": "b10_19",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "STRAINMETER\nDATA SHEET",
+          "bbox": [
+            184.44,
+            393.21,
+            336.36,
+            403.55
+          ],
+          "block_id": "b10_20",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manufacturer\u2019s\nNo . . . . . . . . . . . . . , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . * . . . . . . . . . .  Strainmeter\nNo.\nLocation . . . . . . . .  . . ..Blo&..\n. . . .  . ..Chainage...\n. . . . . . . . .\nSta... . . . . . . . . . . . . . . . . ..El. . .  . . . . . . . . . . . . ,.. . . . . . .\nCalibrations\nMeter resistance of 0\u00b0F . . . . . . . . . . . . . . .\n. . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  ohms",
+          "bbox": [
+            40.2,
+            412.98,
+            488.76,
+            462.27
+          ],
+          "block_id": "b10_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Change in temperature\nper ohm change in resistant  . . . . ..a  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - . . .  \u201cF\nUseful range\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  ratio in percent\nOriginal calibration\nconstant\n. . . . . . . . . . ..millionths\nper 0\u201901 percent ratio change\nCalibration\nconstant corrected\nfor leads\n. . . . . . . ..millionths\nper percent\n0\u201901 ratio change\nResistance of leads at 70\u00b0F\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ohms ( pair )\nTemperature\ncorrection\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . millionths per . . . . . . . . . \u201cF",
+          "bbox": [
+            55.8,
+            460.74,
+            490.68,
+            532.35
+          ],
+          "block_id": "b10_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Contraction\nExpansion",
+          "bbox": [
+            42.36,
+            534.42,
+            141.0,
+            547.23
+          ],
+          "block_id": "b10_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\nDate\nTime\nObserved\nChange\nIndica-\nResis-\nChange\nIndicated\nCorrec-\n.4ctual\nRem-\nResistance\nin\nted Tern-\ntance,\n\u2019\nperature\nRatio,\nREio,\nUnit\ntion\nLength\narks\nResis-\nLength\nfor\nChange\ntance\n\u201cF\nPer-\nPer-\nChange,\nMeter\nMillion-\ncent\ncent\nMillio-\nExpan-\nths\nnths\nsion,\nMillion-\nths",
+          "bbox": [
+            41.16,
+            548.58,
+            487.08,
+            644.43
+          ],
+          "block_id": "b10_24",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            260.04,
+            737.7,
+            267.24,
+            750.51
+          ],
+          "block_id": "b10_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 514.0399780273438,
+        "height": 815.9199829101562
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Gtandrrd Mark\nI",
+          "bbox": [
+            49.63,
+            450.94,
+            480.19,
+            465.79
+          ],
+          "block_id": "b11_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The use of the Standard\nMark\nis governed\nby the provisions of the  Bureau of Indian\nStandards Act, 1986  and the Rules and Regulations made thereunder.\nThe Standard Mark on\nproducts covered\nby an Indian Standard conveys the assurance that they have been produced\nto comply with the requirements\nof that\nstandard under a well defined system of inspection,\ntesting and quality control which is devised and supervised\nby BIS and operated\nby the pro-\nducer . Standard marked products are also continuously\nchecked\nby BIS for conformity\nto\nthat standard as a further safeguard.\nDetails of conditions under which a licence for the use\nof the Standard Mark may be granted to manufacturers\nor producers may be obtained from\nthe Bureau of Indian Standards.",
+          "bbox": [
+            49.39,
+            476.14,
+            471.31,
+            586.15
+          ],
+          "block_id": "b11_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 500.9520263671875,
+        "height": 686.0480346679688
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Boreao of Indiaa: Standards",
+          "bbox": [
+            35.23,
+            49.63,
+            156.67,
+            60.43
+          ],
+          "block_id": "b12_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS  is a statutory institution establlsheo under the Bureau ojIn&un Slur&r&\nAcr, 1986 to promoto\nharmonious development\nof the  activities of  standardization,\nmarking\nand  quality\ncertification\nof\ngoods and attending to connected matters in the country,",
+          "bbox": [
+            34.99,
+            70.96,
+            484.27,
+            108.25
+          ],
+          "block_id": "b12_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            36.43,
+            118.75,
+            80.11,
+            129.55
+          ],
+          "block_id": "b12_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications.\nNo part of these publications\nmay be reproduced\nin\nany form without the prior permission\nin writing of BIS.\nThis does not preclude the free use, in\nthe course of implementing the standard, of necessary\ndetails,\nsuch as symbols and siaes, type or\ngrade designations.\nEnquiries relating to copyright be addressed to the Director ( Publication\n), BIS.",
+          "bbox": [
+            34.99,
+            138.88,
+            484.03,
+            188.17
+          ],
+          "block_id": "b12_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Revision of Indian Standards",
+          "bbox": [
+            36.19,
+            201.07,
+            165.55,
+            211.87
+          ],
+          "block_id": "b12_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standards are reviewed\nperiodically\nand revised,\nwhen necessary and amendment& If any,\nare issued from time to time.\nUsers of Indian\nStandards\nshould\nascertain that they  are\nin\npossession of the latest amendments or edition.\nComments\non this Indian Standard may be sent\nto BIS giving the following reference\n:",
+          "bbox": [
+            35.71,
+            221.92,
+            484.51,
+            271.93
+          ],
+          "block_id": "b12_5",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dot  : No. RVD 16 ( 2856 )",
+          "bbox": [
+            36.19,
+            283.6,
+            162.19,
+            296.41
+          ],
+          "block_id": "b12_6",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            175.15,
+            309.07,
+            340.99,
+            319.87
+          ],
+          "block_id": "b12_7",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue.\nText Affected",
+          "bbox": [
+            52.75,
+            326.8,
+            484.03,
+            340.33
+          ],
+          "block_id": "b12_8",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF INDIAN\nSTANDARDS",
+          "bbox": [
+            168.67,
+            404.32,
+            344.11,
+            417.13
+          ],
+          "block_id": "b12_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Headquarters\n:",
+          "bbox": [
+            38.83,
+            427.36,
+            106.51,
+            440.17
+          ],
+          "block_id": "b12_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002",
+          "bbox": [
+            37.15,
+            449.44,
+            327.31,
+            462.25
+          ],
+          "block_id": "b12_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telegrams  D  Manaksanstha\n( Common to all Offices )",
+          "bbox": [
+            366.19,
+            463.36,
+            486.43,
+            488.65
+          ],
+          "block_id": "b12_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telephones\n:  331 01 31,\n331 13 75",
+          "bbox": [
+            37.39,
+            464.56,
+            196.03,
+            477.37
+          ],
+          "block_id": "b12_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices  :",
+          "bbox": [
+            38.59,
+            494.8,
+            118.27,
+            507.61
+          ],
+          "block_id": "b12_13",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telephone",
+          "bbox": [
+            437.95,
+            496.0,
+            479.71,
+            508.81
+          ],
+          "block_id": "b12_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central  :  Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002",
+          "bbox": [
+            38.11,
+            514.48,
+            280.27,
+            540.01
+          ],
+          "block_id": "b12_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "331 01 31\n331 13 75",
+          "bbox": [
+            443.23,
+            516.16,
+            486.67,
+            540.73
+          ],
+          "block_id": "b12_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern  :  l/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola",
+          "bbox": [
+            38.35,
+            547.6,
+            311.23,
+            560.41
+          ],
+          "block_id": "b12_15",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "37 86 62",
+          "bbox": [
+            448.27,
+            561.28,
+            486.67,
+            574.09
+          ],
+          "block_id": "b12_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "CALCUTTA\n700054",
+          "bbox": [
+            83.47,
+            562.48,
+            176.35,
+            575.29
+          ],
+          "block_id": "b12_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern\n: SC0 445-446, Sector 35-c\u2018. CHANDIGARH\n160036",
+          "bbox": [
+            38.83,
+            585.04,
+            323.47,
+            597.85
+          ],
+          "block_id": "b12_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "53 38 43",
+          "bbox": [
+            448.75,
+            585.28,
+            486.67,
+            598.09
+          ],
+          "block_id": "b12_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern\n:  C.I.T. Campus, IV 00s\nRoad, MADRAS 600113",
+          "bbox": [
+            38.59,
+            607.36,
+            317.71,
+            620.17
+          ],
+          "block_id": "b12_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "23502 16",
+          "bbox": [
+            446.11,
+            607.36,
+            485.95,
+            620.17
+          ],
+          "block_id": "b12_24",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western  :  Manakalaya,\nE9 MIDC, iMaro1, Andheri ( East )\nBOMBAY 400093\n6  32 92 95",
+          "bbox": [
+            39.07,
+            629.2,
+            486.43,
+            654.49
+          ],
+          "block_id": "b12_25",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Branches  :  AHMADABAD.\nBA  YGALORE.\nBHOPAL.\nBHUBANESHWAR.\nCO  I  MBATORE. FAR1 DABAD. GHAZIABAD.\nGUWAHATI.\nHYDERABAD.\nJAIP\u2019JK. KANPUR.\nPATNA. THIRUVANANTHAPURAM.",
+          "bbox": [
+            39.55,
+            661.6,
+            424.99,
+            699.37
+          ],
+          "block_id": "b12_26",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Printed\nat Swatantra\nBharat Ptwa, Delhi. India",
+          "bbox": [
+            303.55,
+            748.09,
+            482.65,
+            758.66
+          ],
+          "block_id": "b12_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 541.6640014648438,
+        "height": 816.9119873046875
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

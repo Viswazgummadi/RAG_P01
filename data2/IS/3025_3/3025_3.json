@@ -1,0 +1,1305 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 3) - 1987\n(Reaffirmed 1998)\nEdition 2.1\n(1999-12)\nUDC 62.8.1/.3 : 543.3.088.3",
+          "bbox": [
+            71.2,
+            32.61,
+            552.11,
+            83.85
+          ],
+          "block_id": "b1_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            264.52,
+            96.57,
+            358.82,
+            108.57
+          ],
+          "block_id": "b1_4",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST (PHYSICAL AND\nCHEMICAL) FOR WATER AND WASTEWATER",
+          "bbox": [
+            122.08,
+            116.25,
+            505.29,
+            146.13
+          ],
+          "block_id": "b1_5",
+          "font_size": 13.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Water Sectional Committee, CDC 26; Panel for Methods for Test for Water, Wastewater and Effluents, CDC 26:P1 [Ref: Doc: CDC 26 (8975)]",
+          "bbox": [
+            56.43,
+            153.96,
+            64.35,
+            673.56
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PART 3 PRECISION AND ACCURACY",
+          "bbox": [
+            212.92,
+            155.85,
+            410.29,
+            165.81
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            265.72,
+            173.61,
+            357.7,
+            185.61
+          ],
+          "block_id": "b1_7",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            233.44,
+            196.83,
+            390.03,
+            206.79
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope  \u2014 This standard prescribes the various methods to determine precision and accuracy of\nvarious test methods used in sampling and testing of water and wastewater.",
+          "bbox": [
+            79.24,
+            223.83,
+            544.27,
+            244.71
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2. Terminology",
+          "bbox": [
+            79.24,
+            252.81,
+            156.86,
+            262.77
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1  The definitions given in IS : 7022 (Part I)-1973 \u2018Glossary of terms relating to water, sewage and\nindustrial effluents\u2019, Part I; and IS : 7022 (Part 2)-1979 \u2018Glossary of terms relating to water, sewage\nand industrial effluents\u2019, Part 2, and the following shall apply:",
+          "bbox": [
+            79.24,
+            270.27,
+            544.12,
+            302.19
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Precision \u2014  Closeness of agreement among the results obtained by applying the test procedure\nseveral time under prescribed conditions. The precision can be quantitatively measured with the\nhelp of the standard deviation.",
+          "bbox": [
+            91.6,
+            308.31,
+            544.32,
+            340.23
+          ],
+          "block_id": "b1_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Accuracy  \u2014 Closeness of agreement between the true value and the results obtained by applying\nthe test procedure very large number of times. The accuracy can also be measured with the help of\nthe standard deviation. But with the difference that the deviations of the test results are\ncalculated from the true and not from the average.",
+          "bbox": [
+            91.6,
+            346.23,
+            544.35,
+            389.19
+          ],
+          "block_id": "b1_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Repeatability  \u2014 Closeness of agreement (as indicated by the corresponding standard deviation)\namong the successive results obtained by the same method on identical test material and under\nthe same conditions (same operator, same apparatus, same laboratory and almost the same time).\nIt is defined as that difference between two such single and independent test results as would be\nexceeded in the long run in only one case in twenty in the normal and correct operation of the test\nmethod.",
+          "bbox": [
+            91.6,
+            395.31,
+            544.27,
+            460.23
+          ],
+          "block_id": "b1_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Reproducibility  \u2014 Closeness of agreement (as indicated by the corresponding standard deviation)\namong the test results obtained by the same method on identical test material but under different\nconditions (different operators, different apparatus, different laboratories and/or different times).\nIt is defined as that difference between two such single and independent results as would only be\nexceeded in the long run in one case in twenty in the normal and correct operation of the test\nmethod.",
+          "bbox": [
+            91.6,
+            466.35,
+            544.27,
+            531.27
+          ],
+          "block_id": "b1_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Determination of Precision and Accuracy",
+          "bbox": [
+            79.24,
+            538.41,
+            306.11,
+            548.37
+          ],
+          "block_id": "b1_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1  A method may have very high precision but recovery may be poor due to poorly standardized\nsolutions, inaccurate dilution techniques, inaccurate balance-weights or improperly calibrated\nequipment. Likewise a method may be accurate but may lack precision because of low instrumental\nsensitivity, variable rate of biological activity or other factors beyond the analysis control.",
+          "bbox": [
+            79.24,
+            553.83,
+            544.29,
+            596.79
+          ],
+          "block_id": "b1_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.2  It is possible to determine both precision and accuracy of a test method by analysing samples to\nwhich known quantities of standard substances have been added. It is possible to determine\nprecision, but not accuracy of methods, such as suspended solids, BOD and numerous physical\nparameters because of the unavailability of standard substances that can be added in known\nquantities on which percentage recovery is based. Care should be taken to see that sensitivity of\nmethod and instruments are at least ten times higher than the specified values.",
+          "bbox": [
+            79.24,
+            603.75,
+            544.22,
+            668.79
+          ],
+          "block_id": "b1_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.3  Test for recovery can be done with the sample analysis. Recovery methods are only tools to\nremove the doubt about the applicability of a method. The recovery procedure involves applying the\nmethod to reagent blank, to a series of known standards covering the expected range of concentration\nof the sample, in duplicate run and to recovery sample, prepared by adding known quantities of the\nsubstance to separate portions of sample, each portion equals the same volume (standard addition)",
+          "bbox": [
+            79.24,
+            675.75,
+            544.27,
+            729.75
+          ],
+          "block_id": "b1_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Adopted 16 March 1987\n\u00a9 BIS 2002\nPrice Group 3",
+          "bbox": [
+            100.84,
+            741.75,
+            515.51,
+            752.13
+          ],
+          "block_id": "b1_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            158.92,
+            760.77,
+            468.66,
+            801.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 3) - 1987",
+          "bbox": [
+            70.72,
+            55.29,
+            211.17,
+            67.29
+          ],
+          "block_id": "b2_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "taken for the run. The substance should be added in sufficient quantity to overcome the limits of\nerror of the analytical method, but not to cause the total in the sample to exceed the range of the\nknown standards used.",
+          "bbox": [
+            70.72,
+            83.79,
+            524.29,
+            115.83
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.4  Correct results by subtracting reagent blank from each other determined value, and\ngraphically present the resulting known standards. From this, determine the amount in the\nsample. Subtract this value from each of the analysis of the sample plus known added substance.\nThe resulting amount of substance divided by the known amount added multiplied by 100 gives\npercentage recovery. This method can be applied not only to colorimetric and instrumental\nmethods, but also to titrimetric, gravimetric and other types of analysis. Generally intricate and\nexacting procedures for trace substances that have inherent errors due to their complexity may\ngive recoveries that would be considered poor and yet, from the practical view point of usefulness\nof the result, may be quite acceptable. Poor results may reflect either interference present in the\nsample or real inadequacy of the method of analysis in the range in which it is being used.\nAnalytical skill is required to assure the validity of the methods. Recovery using colorimetric\nmethods can be particularly deceptive, depending on the nature of the sample, its pretreatment\nand the concentration of the constituents being measured. Most analytical methods have\nsatisfactory precision and accuracy over a limited range, with the lower range limit being\ncontrolling in trace analysis. A known addition to a sample may bring the concentration into the\nrange where the method is reliable, if the addition is too large the apparent precision and accuracy\napply at the higher concentration, and not the concentration originally present. Natural waters\nfrequently contain complexing materials that combine with metals to the extent that the\ncomplexed metals will not react in some colorimetric methods. If nearly all of a metal is complexed,\na known addition may be recovered completely but the method will still not recover the metal\noriginally present in a complexed state. In such cases pretreatment to destroy the complex is\nnecessary. The analyst must account for such pitfalls in designing recovery procedures.",
+          "bbox": [
+            70.72,
+            124.83,
+            524.45,
+            365.79
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4. Statistical Basis",
+          "bbox": [
+            70.72,
+            374.84,
+            165.71,
+            384.8
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1  It is assumed that differences exist between sets of measurements made by the same test\noperator on the same material at different times with the same or different apparatus or by\ndifferent test operators on the same material in the same or different laboratories. The various\nsystematic differences are further assumed to be additive functions of the magnitudes of\nmeasurements.",
+          "bbox": [
+            70.72,
+            392.31,
+            524.52,
+            446.31
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2  Usually two sources of variability can be discerned:",
+          "bbox": [
+            70.72,
+            453.39,
+            324.51,
+            463.4
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a) The variability within a laboratory which is to a certain extent under the control of the test\noperator and consists of a number of components of varied magnitudes and importance; and",
+          "bbox": [
+            83.08,
+            470.31,
+            524.21,
+            491.31
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) The variability among laboratories, generally the largest source of variability and the one\nthat cannot be controlled by the test operator.",
+          "bbox": [
+            83.08,
+            498.39,
+            524.17,
+            519.27
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.3  Estimates of variability within a laboratory and among laboratories caused by different\npersonnel, equipment and environmental factors in following a prescribed method of test can be\nobtained in terms of standard deviations.",
+          "bbox": [
+            70.72,
+            528.39,
+            524.26,
+            560.31
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Determination of Repeatability and Reproducibility",
+          "bbox": [
+            70.72,
+            569.36,
+            352.56,
+            579.32
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1  Repeatability  \u2014 The primary use of repeatability is to allow an operator to check his technique\nby making a further test. In this case, the repeatability is the critical difference between the two\nresults which, if exceeded, probably indicates poor technique, and if not exceeded, indicates the\nacceptability of the test results. The value of repeatability may be taken as equal to 2.77 times the\nstandard deviation of the test results arising under the repeatability conditions.",
+          "bbox": [
+            70.72,
+            588.87,
+            524.29,
+            642.75
+          ],
+          "block_id": "b2_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2  Reproducibility  \u2014 The primary use of reproducibility is to enable two or more laboratories to\ncountercheck their results. In this case, the reproducibility is the critical difference between two\nsuch results which, if exceeded, casts doubt on the test results, and if not exceeded, indicates\nacceptability of the test results. The value of reproducibility may be taken as equal to 2.77 times\nthe standard deviation of the test results arising under the reproducibility conditions.",
+          "bbox": [
+            70.72,
+            651.87,
+            524.26,
+            705.75
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3  For further details on computation and application of repeatability and reproducibility, refer to\nIS : 5420 (Part 1) - 1969 \u2018Guide on precision of test methods: Part I Principles and applications\u2019 and\nIS : 5420 (Part 2) - 1973 \u2018Guide on precision of test methods: Part 2 Interlaboratory testing\u2019.",
+          "bbox": [
+            70.72,
+            714.87,
+            524.29,
+            746.79
+          ],
+          "block_id": "b2_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 3) - 1987",
+          "bbox": [
+            383.92,
+            55.29,
+            524.34,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6. Graphical Representation",
+          "bbox": [
+            70.72,
+            83.85,
+            217.36,
+            93.81
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1  This is one of the simplest methods for showing the influence of one variable on another.\nGraphs are desirable and advantageous in colorimetric analysis because they show any variation\nof one variable with respect to other within specified limits.",
+          "bbox": [
+            70.72,
+            101.31,
+            524.38,
+            133.23
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1.1  General method  \u2014 Ordinary rectangular graph paper is satisfactory for most purposes. For\nsome graph, semilogarithmic paper is preferable.",
+          "bbox": [
+            70.72,
+            140.31,
+            524.3,
+            161.31
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The five rules generally followed for choosing co-ordinate scales are useful. Although these rules\nare flexible, they are satisfactory. When doubt arises, use common sense. The five rules are:\n1) Plot the independent and dependent variables on abscissa and ordinate in a manner that can\nbe comprehended easily.\n2) Choose the scales so that the value of either ordinate can be found quickly and easily.\n3) Plot the curve to cover as much of the graph paper as possible.\n4) Choose the scales so that the scope of the curve approaches as nearly as possible.\n5) Other things being equal choose the variables to give a plot that will be nearly a straight line\nas possible.",
+          "bbox": [
+            70.72,
+            168.27,
+            524.35,
+            281.31
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Entitle a graph to describe adequately what the plot is intended to show. Present legends on the\ngraph to clarify possible ambiguities. Include in the legend complete information about the\nconditions under which the data were obtained.",
+          "bbox": [
+            70.72,
+            288.27,
+            524.24,
+            320.31
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1.2  Method of least squares  \u2014 If sufficient points are available and the functional relationship\nbetween the two variables is well defined, a smooth curve can be drawn through the points. If the\nfunction is not well defined, as is frequently the case when experimental data are used, use the\nmethod of least squares to fit a straight line to the pattern.",
+          "bbox": [
+            70.72,
+            327.27,
+            524.32,
+            370.23
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Any straight line can be represented by the equation  X  =  my  +  b . The slope of the line is\nrepresented by  m  and the slop intercept by \u2018 b \u2019 which is a constant. The method of least squares has\nthe advantage of giving a set of values for these constants not dependent on the judgement of the\ninvestigator. Two equations in addition to the one for a straight line are involved in these\ncalculations.",
+          "bbox": [
+            70.72,
+            377.31,
+            524.33,
+            431.31
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "m\nn   \u03a3 xy\n\u03a3 x   \u03a3 y\n\u2013",
+          "bbox": [
+            250.6,
+            431.58,
+            337.78,
+            449.44
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "n   \u03a3 y 2\n\u03a3 y  ) 2\n(\n\u2013\n--------------------------------------\n=",
+          "bbox": [
+            262.96,
+            439.23,
+            337.8,
+            461.6
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b\n\u03a3 y 2  \u03a3 x\n\u03a3 y   \u03a3 xy\n\u2013",
+          "bbox": [
+            250.6,
+            465.83,
+            343.18,
+            485.09
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "n \u03a3 y 2\n\u03a3 y  ) 2\n(\n\u2013\n-------------------------------------------\n=",
+          "bbox": [
+            258.88,
+            474.87,
+            343.2,
+            497.36
+          ],
+          "block_id": "b3_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "n  being the number of observations (sets of  x  and  y  values) to be summed. To compute the constant\nby this method, first calculate\n. Carry out these operations to more places\nthan the number of significant figures in the experimental data because the experimental values\nare assumed to be exact for the purpose of calculation.",
+          "bbox": [
+            70.72,
+            505.47,
+            524.41,
+            548.43
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u03a3 x 2 ,  \u03a3 y 2 ,  \u03a3 y ) 2\n(\nand  \u03a3 xy",
+          "bbox": [
+            211.46,
+            514.25,
+            325.54,
+            527.32
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Example : Given the following data to be graphed, find the best line to fit the points.",
+          "bbox": [
+            83.08,
+            555.51,
+            468.6,
+            565.72
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Absorbance\nSolute Concentration  (  mg / l  )",
+          "bbox": [
+            196.6,
+            575.55,
+            438.12,
+            585.76
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.10\n29.8",
+          "bbox": [
+            213.28,
+            593.55,
+            381.78,
+            603.51
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.20\n32.6",
+          "bbox": [
+            213.28,
+            611.55,
+            381.78,
+            621.51
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.30\n38.1",
+          "bbox": [
+            213.28,
+            629.55,
+            381.78,
+            639.51
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.40\n39.2",
+          "bbox": [
+            213.28,
+            647.54,
+            381.78,
+            657.5
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.50\n41.3",
+          "bbox": [
+            213.28,
+            665.54,
+            381.78,
+            675.5
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.60\n44.1",
+          "bbox": [
+            213.28,
+            683.54,
+            381.78,
+            693.5
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.70\n48.7",
+          "bbox": [
+            213.28,
+            701.54,
+            381.78,
+            711.5
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 3) - 1987",
+          "bbox": [
+            70.72,
+            55.29,
+            211.17,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Let  y  equals absorbance values that are subject to error and  x  the accurately known concentration\nof solute. Then",
+          "bbox": [
+            70.72,
+            83.79,
+            524.32,
+            104.79
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "x\ny\ny 2\nxy\n29.8\n0.10\n0.01\n2.98\n32.6\n0.20\n0.04\n6.52\n38.1\n0.30\n0.09\n11.43\n39.2\n0.40\n0.16\n15.68\n41.3\n0.50\n0.25\n20.65\n44.1\n0.60\n0.36\n26.46\n48.7\n0.70\n0.49\n34.09",
+          "bbox": [
+            182.8,
+            112.62,
+            435.19,
+            220.83
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u03a3",
+          "bbox": [
+            168.5,
+            224.66,
+            177.15,
+            237.64
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "273.8\n2.80\n1.40\n117.81",
+          "bbox": [
+            177.04,
+            226.83,
+            435.17,
+            236.79
+          ],
+          "block_id": "b4_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Substituting the summations in the equations for  m  and  b  and  n  = 7, there are seven sets of  x  and\ny  values.",
+          "bbox": [
+            70.72,
+            245.79,
+            524.28,
+            267.05
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "m\n7 117.81\n(\n)\n2.80 273.8\n(\n)\n\u2013",
+          "bbox": [
+            205.0,
+            267.07,
+            343.56,
+            284.93
+          ],
+          "block_id": "b4_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 1.40\n(\n)\n2.80\n(\n) 2\n\u2013\n--------------------------------------------------------------------\n29.6\n=\n=",
+          "bbox": [
+            218.8,
+            274.71,
+            379.14,
+            296.92
+          ],
+          "block_id": "b4_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b\n1.4 273.8\n(\n)\n2.80 117.81\n(\n)\n\u2013",
+          "bbox": [
+            204.64,
+            298.51,
+            348.12,
+            316.37
+          ],
+          "block_id": "b4_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 1.40\n(\n)\n2.80\n(\n) 2\n\u2013\n-------------------------------------------------------------------------\n27.27\n=\n=",
+          "bbox": [
+            215.2,
+            306.15,
+            389.34,
+            328.36
+          ],
+          "block_id": "b4_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "To plot the line, select three convenient values of  y , say 0, 0.20, 0.60 and calculate the\ncorresponding values for  x",
+          "bbox": [
+            70.72,
+            336.75,
+            524.11,
+            358.01
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "x 0  = 29.6 (0) + 27.27 = 27.27\nx 1  = 29.6 (0.2) + 27.27 = 33.19\nx 2  = 29.6 (0.6) + 27.27 = 45.03",
+          "bbox": [
+            203.92,
+            365.79,
+            339.18,
+            405.71
+          ],
+          "block_id": "b4_9",
+          "font_size": 8.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "When the points representing these values are plotted on the graph a straight line is formed,\nwhich best fit for the given data. The plot will be as follows:",
+          "bbox": [
+            70.72,
+            412.83,
+            524.47,
+            433.71
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            171.28,
+            438.96,
+            422.8,
+            690.84
+          ],
+          "block_id": "img4_16"
+        },
+        {
+          "type": "text",
+          "content": "FIG .  1   LEAST   SQUARE   METHOD   EVALUATION",
+          "bbox": [
+            201.04,
+            697.11,
+            393.87,
+            707.07
+          ],
+          "block_id": "b4_10",
+          "font_size": 8.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1.3  Self evaluation  \u2014 A good analyst tampers confidence with doubt. Such doubts stimulate a\nsearch for new and different methods of confirmation for reassurance. Frequent self appraisals\nshould embrace every step from collecting samples to reporting results.",
+          "bbox": [
+            70.72,
+            715.11,
+            524.33,
+            747.03
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_16",
+          "bbox": [
+            171.28,
+            438.96,
+            422.8,
+            690.84
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img4_16": 1
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 3) - 1987",
+          "bbox": [
+            383.92,
+            55.29,
+            524.34,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The analysts\u2019 first critical scrutiny should be directed at the entire sample collection process to\nguarantee a representative sample for analysis and to avoid any possible losses or contamination\nduring collection. Attention should be given to the type of container and to the manner of transport\nof storage.",
+          "bbox": [
+            70.72,
+            83.79,
+            524.34,
+            126.75
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A periodic reassessment should be made of available analytical methods with an eye to\napplicability for the purpose and situation. In addition, each method selected must be evaluated by\nthe analyst for sensitivity, precision and accuracy because only in this way it can be determined\nwhether the analysts\u2019 technique is satisfactory and whether directions have been interpreted\nproperly. Self evaluation on these points can give the analyst confidence in the value and\nsignificance of reported results.",
+          "bbox": [
+            70.72,
+            133.83,
+            524.4,
+            198.75
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The benefits of less rigid intralaboratory as well as interlaboratory evaluations deserve serious\nconsiderations. The analyst can regularly check standard or unknown concentrations with and\nwithout interfering elements and compare results on the same sample with results obtained by\nothers. Such programmes can uncover weaknesses in the analytical chain and permit\nimprovements to be instituted without delay. The results can disclose whether the trouble stem\nfrom faulty sample treatment, improper elimination of interference, poor calibration practices,\nsloppy experimental technique, impure or incorrectly standardized reagents, defective\ninstrumentation or even inadvertent mistakes in arithmetic.",
+          "bbox": [
+            70.72,
+            205.83,
+            524.43,
+            292.83
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Other checks on analysis are ionic balance, conductivity measurements, ion exchange methods\nand recovery of added substance in the sample.",
+          "bbox": [
+            70.72,
+            299.79,
+            524.26,
+            320.79
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "All these approaches are designed to appraise and upgrade the level of laboratory performance\nand this inspires greater faith in the final reported results.",
+          "bbox": [
+            70.72,
+            327.87,
+            524.42,
+            348.75
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "E X P L A N A T O R Y\nN O T E",
+          "bbox": [
+            204.64,
+            614.71,
+            390.41,
+            626.71
+          ],
+          "block_id": "b5_7",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is one of the series of standards on \u2018Methods of sampling and test for water and\nwastewater. The earlier version, namely, IS : 3025-1964 \u2018Methods of sampling and test (physical\nand chemical) for water used in industry\u2019 had dealt with some methods of test for water and\nwastewaters. This standard has now been revised and published in various parts, each part\ncovering a particular characteristic. This standard (Part 3) covers the precision and accuracy of the\nphysical and chemical test methods employed for water and wastewater. IS : 3025-1964 had not\ncovered this aspect earlier, and it has been introduced now as a new method.",
+          "bbox": [
+            70.72,
+            637.83,
+            524.41,
+            713.79
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (December 1999). Side bar indicates\nmodification of the text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            718.83,
+            524.23,
+            739.83
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "table_1_1",
+      "page": 1,
+      "rows": 3,
+      "columns": 3,
+      "has_header": true,
+      "data": [
+        [
+          "Indian Standard\nMETHODS OF SAMPLING AND TEST (PHYSICAL AND\nCHEMICAL) FOR WATER AND WASTEWATER\nPART 3 PRECISION AND ACCURACY\n( First Revision )\n(Incorporating Amendment No. 1)",
+          "",
+          ""
+        ],
+        [
+          "1.Scope\u2014This standard prescribes the various methods to determine precision and accuracy of\nvarious test methods used in sampling and testing of water and wastewater.\n2. Terminology\n2.1The definitions given in IS : 7022 (Part I)-1973 \u2018Glossary of terms relating to water, sewage and\nindustrial effluents\u2019, Part I; and IS : 7022 (Part 2)-1979 \u2018Glossary of terms relating to water, sewage\nand industrial effluents\u2019, Part 2, and the following shall apply:\nPrecision\u2014Closeness of agreement among the results obtained by applying the test procedure\nseveral time under prescribed conditions. The precision can be quantitatively measured with the\nhelp of the standard deviation.\nAccuracy\u2014Closeness of agreement between the true value and the results obtained by applying\nthe test procedure very large number of times. The accuracy can also be measured with the help of\nthe standard deviation. But with the difference that the deviations of the test results are\ncalculated from the true and not from the average.\nRepeatability\u2014Closeness of agreement (as indicated by the corresponding standard deviation)\namong the successive results obtained by the same method on identical test material and under\nthe same conditions (same operator, same apparatus, same laboratory and almost the same time).\nIt is defined as that difference between two such single and independent test results as would be\nexceeded in the long run in only one case in twenty in the normal and correct operation of the test\nmethod.\nReproducibility\u2014Closeness of agreement (as indicated by the corresponding standard deviation)\namong the test results obtained by the same method on identical test material but under different\nconditions (different operators, different apparatus, different laboratories and/or different times).\nIt is defined as that difference between two such single and independent results as would only be\nexceeded in the long run in one case in twenty in the normal and correct operation of the test\nmethod.\n3. Determination of Precision and Accuracy\n3.1A method may have very high precision but recovery may be poor due to poorly standardized\nsolutions, inaccurate dilution techniques, inaccurate balance-weights or improperly calibrated\nequipment. Likewise a method may be accurate but may lack precision because of low instrumental\nsensitivity, variable rate of biological activity or other factors beyond the analysis control.\n3.2It is possible to determine both precision and accuracy of a test method by analysing samples to\nwhich known quantities of standard substances have been added. It is possible to determine\nprecision, but not accuracy of methods, such as suspended solids, BOD and numerous physical\nparameters because of the unavailability of standard substances that can be added in known\nquantities on which percentage recovery is based. Care should be taken to see that sensitivity of\nmethod and instruments are at least ten times higher than the specified values.\n3.3Test for recovery can be done with the sample analysis. Recovery methods are only tools to\nremove the doubt about the applicability of a method. The recovery procedure involves applying the\nmethod to reagent blank, to a series of known standards covering the expected range of concentration\nof the sample, in duplicate run and to recovery sample, prepared by adding known quantities of the\nsubstance to separate portions of sample, each portion equals the same volume (standard addition)",
+          "",
+          ""
+        ],
+        [
+          "Adopted 16 March 1987",
+          "\u00a9 BIS 2002",
+          "Price Group 3"
+        ]
+      ],
+      "markdown": "| Indian Standard                                                                                         |            |               |\n| METHODS OF SAMPLING AND TEST (PHYSICAL AND                                                              |            |               |\n| CHEMICAL) FOR WATER AND WASTEWATER                                                                      |            |               |\n| PART 3 PRECISION AND ACCURACY                                                                           |            |               |\n| ( First Revision )                                                                                      |            |               |\n| (Incorporating Amendment No. 1)                                                                         |            |               |\n|:--------------------------------------------------------------------------------------------------------|:-----------|:--------------|\n| 1.Scope\u2014This standard prescribes the various methods to determine precision and accuracy of             |            |               |\n| various test methods used in sampling and testing of water and wastewater.                              |            |               |\n| 2. Terminology                                                                                          |            |               |\n| 2.1The definitions given in IS : 7022 (Part I)-1973 \u2018Glossary of terms relating to water, sewage and    |            |               |\n| industrial effluents\u2019, Part I; and IS : 7022 (Part 2)-1979 \u2018Glossary of terms relating to water, sewage |            |               |\n| and industrial effluents\u2019, Part 2, and the following shall apply:                                       |            |               |\n| Precision\u2014Closeness of agreement among the results obtained by applying the test procedure              |            |               |\n| several time under prescribed conditions. The precision can be quantitatively measured with the         |            |               |\n| help of the standard deviation.                                                                         |            |               |\n| Accuracy\u2014Closeness of agreement between the true value and the results obtained by applying             |            |               |\n| the test procedure very large number of times. The accuracy can also be measured with the help of       |            |               |\n| the standard deviation. But with the difference that the deviations of the test results are             |            |               |\n| calculated from the true and not from the average.                                                      |            |               |\n| Repeatability\u2014Closeness of agreement (as indicated by the corresponding standard deviation)             |            |               |\n| among the successive results obtained by the same method on identical test material and under           |            |               |\n| the same conditions (same operator, same apparatus, same laboratory and almost the same time).          |            |               |\n| It is defined as that difference between two such single and independent test results as would be       |            |               |\n| exceeded in the long run in only one case in twenty in the normal and correct operation of the test     |            |               |\n| method.                                                                                                 |            |               |\n| Reproducibility\u2014Closeness of agreement (as indicated by the corresponding standard deviation)           |            |               |\n| among the test results obtained by the same method on identical test material but under different       |            |               |\n| conditions (different operators, different apparatus, different laboratories and/or different times).   |            |               |\n| It is defined as that difference between two such single and independent results as would only be       |            |               |\n| exceeded in the long run in one case in twenty in the normal and correct operation of the test          |            |               |\n| method.                                                                                                 |            |               |\n| 3. Determination of Precision and Accuracy                                                              |            |               |\n| 3.1A method may have very high precision but recovery may be poor due to poorly standardized            |            |               |\n| solutions, inaccurate dilution techniques, inaccurate balance-weights or improperly calibrated          |            |               |\n| equipment. Likewise a method may be accurate but may lack precision because of low instrumental         |            |               |\n| sensitivity, variable rate of biological activity or other factors beyond the analysis control.         |            |               |\n| 3.2It is possible to determine both precision and accuracy of a test method by analysing samples to     |            |               |\n| which known quantities of standard substances have been added. It is possible to determine              |            |               |\n| precision, but not accuracy of methods, such as suspended solids, BOD and numerous physical             |            |               |\n| parameters because of the unavailability of standard substances that can be added in known              |            |               |\n| quantities on which percentage recovery is based. Care should be taken to see that sensitivity of       |            |               |\n| method and instruments are at least ten times higher than the specified values.                         |            |               |\n| 3.3Test for recovery can be done with the sample analysis. Recovery methods are only tools to           |            |               |\n| remove the doubt about the applicability of a method. The recovery procedure involves applying the      |            |               |\n| method to reagent blank, to a series of known standards covering the expected range of concentration    |            |               |\n| of the sample, in duplicate run and to recovery sample, prepared by adding known quantities of the      |            |               |\n| substance to separate portions of sample, each portion equals the same volume (standard addition)       |            |               |\n| Adopted 16 March 1987                                                                                   | \u00a9 BIS 2002 | Price Group 3 |"
+    }
+  ],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "O CVICNFVLED AVINEe\n@ EXbEKINENIYrS OVIV\n2OrFNLE CONCEMLBVLION Wwa\\f\n$0 30 Ne) 20\n0\u00b0)\n\nwo 0\u00b0S e\n\n\u00a9\n\nOK\n\n> LX\n\nJ 0\u00b03 \\\u2014\u00a2\n\n)\n\n\" Ni\n- wa\n; \u2014\u2014\u2014\nore a \\\n0\u00b0) Tw",
+      "position": {
+        "x0": 171.28,
+        "y0": 438.96,
+        "x1": 422.8,
+        "y1": 690.84,
+        "width": 251.52,
+        "height": 251.88
+      },
+      "size": {
+        "width": 2096,
+        "height": 2099
+      },
+      "format": "png"
+    }
+  ]
+}

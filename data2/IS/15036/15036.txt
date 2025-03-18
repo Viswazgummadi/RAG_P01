@@ -1,0 +1,1955 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<PARAGRAPH>>IS 15036:2001<<PARAGRAPH_END>>
+<<HEADING level=1>>Indian Standard
+DEPENDABILITY
+MANAGEMENT
+—
+APPLICATION
+GUIDE ANALYSIS
+DEPENDABILITY
+— GUIDE ON
+TECHNIQUES
+FOR
+METHODOLOGY<<HEADING_END>>
+<<PARAGRAPH>>ICS 03.100.40; 03.120.01<<PARAGRAPH_END>>
+<<PARAGRAPH>>0
+BIS 2001<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF
+INDIAN
+STANDARDS
+MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG
+NEW DELHI 110002<<HEADING_END>>
+<<HEADING level=3>>December
+2001
+Price Group
+5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Reliability of Electronic and Electrical Components and Equipment Sectional Committee, LTD 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by the Reliability
+of Electronic and Electrical Components and Equipment Sectional Committee had been approved by the Electronic
+and Telecommunication
+Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dependability
+analysis techniques
+are used for the review and prediction
+of the reliability,
+availability,
+maintainability and safety measures of a system. Dependability analyses are conducted mainly during the concept
+and definition phase, the design and development phase and the operation and maintenance phase at various
+system levels and degrees of detail to order to evaluate and determine the dependability measures of a system or
+an installation. They are also used to compare the results of the analysis with specified requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>While preparing
+this standard,
+assistance has been derived from IEC 60300-3-1
+(1991) ‘Dependability
+management
+– Part 3: Application
+guide – Section
+1: Analysis techniques
+for dependability:
+Guide on
+methodology’, published by International Electrotechnical Commission.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The technical Committee responsible for preparation of this standard has reviewed the provisions of following
+IEC publication and decided that it may be used in conjunction with this standard till Indian Standard on this
+subject is published:<<PARAGRAPH_END>>
+<<PARAGRAPH>>lEC 1025(1990) Fault tree analysis (FTA)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The composition of the Committee responsible for formulation of this standard is given in Annex B.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In reporting the results of a test or analysis made in accordance with this standard, if the final value, observed
+or calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960 ‘Rules for rounding off
+numerical values (revised)’.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>lS 15036:2001<<HEADING_END>>
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>DEPENDABILITY
+MANAGEMENT
+—
+APPLICATION
+GUIDE ANALYSIS
+TECHNIQUES
+FOR
+DEPENDABILITY
+— GUIDE ON METHODOLOGY<<HEADING_END>>
+<<PARAGRAPH>>all the possible model complexities required to evaluate
+the features
+of practical
+systems
+(hardware
+and
+software, complex fictional
+structures, etc). It may
+be necessary to consider several additional analysis
+methods to ensure proper treatment of complex or
+multi-functional systems.<<PARAGRAPH_END>>
+<<HEADING level=3>>1 SCOPE<<HEADING_END>>
+<<PARAGRAPH>>l%is standard gives a general overview of commonly
+used dependability analysis procedures. It describes
+the
+usual
+methodologies,
+the
+advantages
+and
+disadvantages, data input and other requirements for
+the various techniques.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+BASIC
+APPROACH
+TO
+SYSTEM
+DEPENDABILITY
+ANALYSIS<<HEADING_END>>
+<<PARAGRAPH>>This
+guide
+is an introduction
+to the available
+methodology and is intended to provide the analyst
+with the necessary information in order to choose the
+analysis method most appropriate to the system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specific procedures for analysis are contained in the
+standards describing each analysis method. General
+procedures,
+approaches
+and requirements
+are
+described hereinafter.<<PARAGRAPH_END>>
+<<HEADING level=3>>2 REFERENCES<<HEADING_END>>
+<<PARAGRAPH>>The Indian Standards listed in Annex A are necessary
+adjuncts to this standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1  General
+Procedure<<HEADING_END>>
+<<PARAGRAPH>>The procedure
+consists of the following
+steps (as
+applicable):<<PARAGRAPH_END>>
+<<HEADING level=3>>3 DEFINITIONS<<HEADING_END>>
+<<PARAGRAPH>>For the purpose of this standard, the terms and defin-
+itions given in IS 1885 (Part 39) shall apply in addi-
+tion to the following.<<PARAGRAPH_END>>
+<<HEADING level=3>>Step  1<<HEADING_END>>
+<<PARAGRAPH>>List all system reliability and availability requirements,
+characteristics
+and features, together with environ-
+mental and operating conditions,
+and maintenance
+requirements. Define the system to be analyzed, its
+modes of operation, the functional relationships
+to
+higher levels and to interfacing systems of processes.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1 System<<HEADING_END>>
+<<PARAGRAPH>>Item on the highest level considered in the analysis.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2 Component<<HEADING_END>>
+<<PARAGRAPH>>Item on the lowest level considered in the analysis.<<PARAGRAPH_END>>
+<<HEADING level=3>>Step  2<<HEADING_END>>
+<<PARAGRAPH>>Define system fault, fault criteria and conditions based
+on system tlmction”alrequirements, expected operation
+and operating environment.
+Software performance
+should also be considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3 Allocation<<HEADING_END>>
+<<PARAGRAPH>>A procedure
+applied during the design of an item
+intended
+to
+apportion
+the
+requirements
+for
+performance
+measures for an item to its sub items
+according to given criteria.<<PARAGRAPH_END>>
+<<HEADING level=3>>Step  3<<HEADING_END>>
+<<PARAGRAPH>>When
+numerical
+results
+are
+required,
+it
+is
+recommended to carry out an allocation based on a
+preliminary design (assignment of a portion of the
+total permitted system failure rate or unavailability to
+each sub-system).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE —  ‘System’maybe replacedby ‘sub-system’,etc,as
+applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>4  GENERAL<<HEADING_END>>
+<<PARAGRAPH>>The analysis
+methods
+allow
+the evaluation
+of
+qualitative characteristics and estimation of measures
+(for example, failure rate, MTTF, MTBF, reliability,
+steady state availability) which describe the predicated
+long-term operating behaviour of a system. In order
+to perform
+a systematic
+and reproducible
+system
+analysis, use of a consistent procedure is essential.<<PARAGRAPH_END>>
+<<HEADING level=3>>Step  4<<HEADING_END>>
+<<PARAGRAPH>>Analysis of the system as follows:<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1  Qualitative
+analysis
+(deductive/inductive
+methodology)
+Analyze, the functional
+system structure,
+determine system/component
+fault modes,
+failure mechanisms, effects and consequences<<HEADING_END>>
+<<PARAGRAPH>>However, no single dependability analysis method is
+sufficiently comprehensive and flexible to deal with<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>IS 15036:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+inductive
+methodology
+(bottom-up),
+for
+example fault mode and effects analysis.
+However, in practice, an iterative approach is more
+usual
+with
+deductive
+and
+inductive
+analysis
+complementing one another.<<PARAGRAPH_END>>
+<<PARAGRAPH>>of failures, consider item maintainability,
+construct
+reliability
+and/or
+availability
+models, determine possible maintenance and
+repair strategies, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>Quantitative
+analysis
+(analytical
+or event
+simulation
+methods)
+Obtain or identify item reliability data (for
+example,
+failure
+rates), construct
+mathe-
+matical reliability and/or availability model,
+perform
+numerical
+evaluations
+of mathe-
+matical model, perform component criticality
+and sensitivity
+analyses, evaluate improv-
+ement
+of system
+performance
+due
+to
+redundant
+substructures
+and maintenance
+strategies, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3  Deductive
+Analysis<<HEADING_END>>
+<<PARAGRAPH>>The essence of the deductive approach is to proceed
+from the highest level of interest, that is, the system
+or sub-system level, to successively lower levels in
+order to identify undesirable system operation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The analysis is performed at the next lower system
+level to identify, any fault and its associated fault mode
+which could result in the fault effect as originally
+identified. For each of these second level faults, the
+analysis
+is repeated
+by tracing
+back
+along
+the
+functional paths and relationships to the next lower
+level using logical gates. This process is continued as
+far as the lowest level desired.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 5<<PARAGRAPH_END>>
+<<PARAGRAPH>>Evaluation of results, comparison with requirements
+andlor alternative designs. Additional activities may
+include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reviewing
+system
+design,
+determining
+weaknesses,
+unbalances,
+critical/high
+risk
+fault modes and items, considering system
+interface
+problems,
+fail-safe
+features and
+mechanisms, etc.
+Developing alternative ways for improving
+dependability
+(for example
+redundancy
+allocation,
+performance
+monitoring,
+fault
+detection, system reconfiguration procedures,
+maintainability,
+component replaceability,
+and repair procedures).
+Performing trade-off studies and evaluating
+the cost of alternative designs.
+The relationships between the general analysis proce-
+dure and the specific methods and procedures are given
+in Table 1 (note that Table 1 is not exhaustive). The
+methods are explained further in 5.2 to 5.5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>The deductive method is an event-oriented
+method
+which is useful during the early conceptual phase of
+system design when the details of the system are not
+yet fully defined. It is also used for evaluating multiple
+failures including sequentially
+related failures, the
+existence of faults due to a common-cause, or wherever
+system complexity makes it more convenient to begin
+by listing system faults or system success.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>In all cases the undesirable
+single event or system
+success at the highest level of interest (the top event),
+should be given. The contributory causes of that event
+at all levels are then identified and analyzed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4  Inductive
+Analysis<<HEADING_END>>
+<<PARAGRAPH>>The essence of the inductive method is to identi& fault
+modes at the component level. For each fault mode
+the corresponding effect on performance is deduced
+for the next higher system level. The resulting fault
+effect becomes the fault mode at the next higher system
+level, and the fault effects of each fault mode are
+analyzed at this level. Successive iterations result in
+the eventual identification of the fault effects at all
+fi.mctional levels up to the system level. This ‘bottom-
+up’ method is rigorous in identifying all single fault
+modes. Because component
+fault modes must be
+identified. This method is normally used during the
+later stages of design where equipment has become
+mature.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2  Analysis
+of Functional
+Structure<<HEADING_END>>
+<<PARAGRAPH>>In order to analyze the long-term operating behaviour
+of a system with confidence, the precise way a system
+is required to function, as well as its operational and
+environmental
+conditions should be determined and
+described
+in detail.
+A separate
+analysis
+of the
+functional
+system structure
+may be necessary
+to
+identify and departure from the required function.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The system function may be represented by functional
+block diagrams, signal flow diagrams, state-transition
+diagrams, event sequences, tables, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5
+Maintenance
+and
+Repair
+Analysis
+and
+Considerations<<HEADING_END>>
+<<PARAGRAPH>>Finally, the qualitative failure or success analysis may
+be conducted in accordance with either of the following
+two formal methods:<<PARAGRAPH_END>>
+<<PARAGRAPH>>The long-term operating behaviour
+of a repairable
+system
+is
+greatly
+influenced
+by
+the
+system
+maintainability as well as the repair or maintenance
+strategies
+employed.
+An availability
+performance<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+deductive
+methodology
+(top-down),
+for
+example fault tree analysis; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS 15036:2001<<HEADING_END>>
+<<PARAGRAPH>>measure is the appropriate measure for evaluating the
+redundant
+components.
+If so,
+then
+repair
+or
+influence
+of maintenance
+and repair
+on system
+replacement increase system reliability performance
+dependability.
+and availability performance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Repair
+of a system
+during
+operation
+without
+It is usually necessary to perform a separate analysis
+interruption of its function is normally possible only
+to evaluate repair and maintenance aspects of a system
+for a redundant
+system structure
+with accessible
+(see IS 9692 series).<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 Correspondence
+of Methods
+to General
+Analysis
+Procedure<<HEADING_END>>
+<<HEADING level=3>>(Clause
+5.1)<<HEADING_END>>
+<<HEADING level=3>>Steps of  General
+Analysis
+Methods
+Procedure<<HEADING_END>>
+<<HEADING level=3>>No.
+Activity
+FMEAIFWECA
+FTA
+RBD
+MA
+Pc<<HEADING_END>>
+<<PARAGRAPH>>Fault mode and
+Fault tree
+Reliability block
+Markov analysis
+Parts count
+effectdcritically
+analysis
+diagram
+reliability
+analysis<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+Requirements
+Component
+Functional
+System and sub-
+Component
+Component
+and system
+specification and
+system structure
+system operation
+function, timctional
+definitions
+operation
+specification and
+system structure
+failure data<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Definition of
+Failure of first
+Undesired (top)
+Criteria of system
+Criteria of system
+Failure of first
+system fault
+order functional
+event
+success (failure)
+success and failure
+level
+order functional
+level<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Reliability
+Ifapplicableto
+Ifapplicable to
+Ifapplicableto
+Ifapplicableto sub-
+lf applicable to
+apportionment
+components
+sub-systems
+sub-systems
+systems
+components<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1
+Qualitative
+Inductive (table)
+Deductive (fault
+Deductive (block
+Inductive/deductive
+Assume series
+analysis,
+tree)
+diagram)
+(state transition
+system structure,
+maintenance
+diagram)
+list and evaluate
+strategy
+components<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+Quantitative
+Fault
+Calculation of
+Calculation of
+Crdculation of
+Calculation of
+analysis
+critically/probabi1-
+system reliability
+system reliability
+system reliability
+(numerical
+components and
+ity analysis
+and availtillity
+and availahlity
+and availability
+system failure
+evaluation)
+measures
+measures
+measures
+rates<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Requirements
+Criticality of
+Probability of
+Reliability/availati
+Reliability/availaM1
+Does estimated
+met (terminate
+failures and fiilu~
+undesired even
+Iity requirement
+ity requirements
+system failure rate
+procedure)
+probabilities
+within
+met?
+met?
+meet
+withhr limits
+requirement
+requirements?<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1
+Review
+Component failure
+Sub-system/
+Sub-system
+Componenthrb-
+Determine highest
+design,
+modes, failure
+component
+reliability/
+determine
+system/system
+component failure
+rates, etc
+failure modes,
+availability, sub-
+reliability and
+rates
+weaknesses
+failure rates,
+system/ component
+availability,
+system structure,
+failure rates,
+maintenance and
+etc
+system stmctrrre,
+repair policy,
+etc
+system structure<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2
+Develop
+Component
+System structure,
+System structure,
+System structure,
+Re-evrduate choke
+alternative
+selection and
+redundancy
+redundancy
+redundancy
+of weakest
+designs
+maintenance, etc
+allocation, fault
+allocation,
+allocation,
+components
+detection,
+component
+component
+maintenance, etc
+selection,
+selection, repair
+maintenance, etc
+policy, system
+reconfiguration, etc<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3
+Perform trade-
+Determine most
+Determine most
+Determine most
+Determine most
+Estimate cost
+off studies and
+economical
+economical
+economical
+economical
+cost evaluation
+solution
+solution
+solution
+solution<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>IS 15036:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+CHARACTERISTICS
+OF
+VARIOUS
+DEPENDABILITY
+ANALYSIS
+METHODS<<HEADING_END>>
+<<PARAGRAPH>>the occurrence of a defined undesirable
+event and
+which significantly affect system performance, safety,
+economy or other specified characteristics.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1  Selecting  the Appropriate
+Analysis
+Method<<HEADING_END>>
+<<PARAGRAPH>>Starting with the top event, the possible causes or fault
+modes on the next lowest functional system level are
+identified
+using logical gates. Following
+stepwise
+identification
+of undesirable
+system operation
+to
+successively lower system level will lead to the desired
+lowest system level. Causes at this level are usually
+the component fault modes. The results of the analysis
+are portrayed as a fault tree.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In order to enable a system dependability evaluation
+to be economically
+performed,
+an analysis method
+should be chosen which:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>models
+and evaluates
+a wide range
+of
+dependability problems;
+allows
+a straightforward,
+systematic,
+qualitative
+and quantitative
+analysis to be
+performed
+by
+trained
+design
+and
+dependability engineers; and
+predicts measures of the dependability char-
+acteristics numerically, if data are available.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quantitative analysis is performed on the basis of
+the fault tree. In order to estimate system reliability
+and availability, methods such as Boolean reduction
+and cut set analysis are employed.
+The basic data
+required are component
+failure rates, repair rates,
+probability of occurrence of fault modes, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>A dependability analysis method should be selected
+which will give the desired results and encompass all
+relevant attributes.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.3  Reliability
+Block Diagram
+Analysis<<HEADING_END>>
+<<PARAGRAPH>>Reliability
+block
+diagram
+(RBD)
+analysis
+is a
+deductive (top-down) system dependability analysis
+method. An RBD is the graphical representation of a
+system’s logical structure in terms of sub-systems and/
+or components. This allows the system success paths
+to be represented by the way in which the blocks (sub-
+systems/components) are logically connected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Table 2 gives an overview of various dependability
+analysis methods and their characteristics and features.
+More than one method may be required to provide a
+complete analysis of the system.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2  Short Descriptions
+of Analysis
+Methods<<HEADING_END>>
+<<HEADING level=3>>6.2.1  Failure
+Mode and Efects
+Analysis<<HEADING_END>>
+<<PARAGRAPH>>Various
+qualitative
+analysis
+techniques
+may be
+employed to construct an RBD. The first step is to
+establish the definition of system success. The next
+step is to divide the system in functional
+blocks
+appropriate to the purpose of the reliability analysis.
+Some blocks may represent
+system substructures,
+which in turn may be represented
+by other RBDs
+(system reduction).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Failure
+mode and effect
+analysis
+(FMEA)
+is an
+inductive
+(bottom-up),
+qualitative
+dependability
+analysis method, which is particularly suited to the
+study of material, component and equipment faults
+and their effects and mechanisms on the next higher
+functional
+system
+level.
+Iterations
+of the step
+(identification of single fault modes and the evaluation
+of their effects on the next higher system level) result
+in the eventual identification of all the system single
+fault modes. FMEA lends itself to the analysis of
+systems
+of different
+technologies
+(electrical,
+mechanical,
+hydraulic,
+software,
+etc) with simple
+functional structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the quantitative evaluation of an RBD, various
+methods are available.
+Depending
+on the type of
+structure (reducible or irreducible)
+simple Boolean
+techniques, truth tables and/or path and cut set analysis
+may be employed for the prediction of system reliability
+and availability
+values
+calculated
+from
+basic
+component data.<<PARAGRAPH_END>>
+<<PARAGRAPH>>FMECA extends the FMEA to include criticality
+analysis
+by quantifying
+fault effects
+in terms of
+probability
+of occurrence
+and the severity of any
+effects. Estimates of the probability
+of failure are
+calculated directly from a reliability prediction using
+the data assessed
+by the FMEA (probability
+of
+occurrence of a fault mode, failure rates, etc). The
+severity of effects is assessed by reference to a specified
+scale.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.4  Markov Analysis<<HEADING_END>>
+<<PARAGRAPH>>Markov analysis is mainly an inductive (bottom-up)
+analysis
+method
+suitable
+for the evaluation
+of
+functionally complex system structures and complex
+repair and maintenance strategies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The method is based on the theory of Markov chains.
+In principle
+the probabilities
+of system elements
+(components,
+sub-systems)
+being
+in a particular
+(functional) state, or events to occur, at specific points
+or intervals of time are evaluated by mathematical
+models.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.2  Fault Tree Analysis<<HEADING_END>>
+<<PARAGRAPH>>Fault tree analysis (FTA) is a deductive (top-down)
+method
+for analyzing
+system dependability.
+It is
+concerned
+with the identification
+and analysis of
+conditions and factors which cause, or contribute to,<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>Table 2 Characteristics
+of AnaIysis
+Methods<<HEADING_END>>
+<<HEADING level=3>>(Clause  6.1)<<HEADING_END>>
+<<HEADING level=2>>Analysis
+I
+Characteristics
+. ...-->
+I
+Ivletnuu  I<<HEADING_END>>
+<<HEADING level=1>>Ability of method to handle model characteristics
+as:
+Attributes
+Indian
+Standard
+T<<HEADING_END>>
+<<PARAGRAPH>>Approach
+varying
+mainte-
+on<<PARAGRAPH_END>>
+<<PARAGRAPH>>Number of
+Redu-
+components
+ndmrt
+Stroct
+Ures<<PARAGRAPH_END>>
+<<PARAGRAPH>>Time
+I Complex
+I Simulati
+Symbolic
+represen-
+tation<<PARAGRAPH_END>>
+<<PARAGRAPH>>Irredu-
+Faihrre/
+cible
+event
+struc-
+combin-
+tures
+ations
+and
+depend-
+encies<<PARAGRAPH_END>>
+<<PARAGRAPH>>failurel
+narrce
+of
+strategies
+functio-
+event
+rates
+nal
+process
+quail-
+quao-
+quail-
+quan-
+tative
+titative
+tative
+titative
+dedu-
+induc-
+tive
+tive<<PARAGRAPH_END>>
+<<HEADING level=1>>1
+1
+yes
+no
+no
+List
+T  =FFF<<HEADING_END>>
+<<HEADING level=3>>Is 11137
+(Part 2)
+Is  11137
+(Part 2)<<HEADING_END>>
+<<PARAGRAPH>>no
+(no)<<PARAGRAPH_END>>
+<<HEADING level=1>>FMEA
+Up to several
+I<<HEADING_END>>
+<<PARAGRAPH>>(no)
+thousands<<PARAGRAPH_END>>
+<<HEADING level=1>>List
+T
+FMECA
+Up to several
+I<<HEADING_END>>
+<<HEADING level=2>>(no)
+thousands
+no  I<<HEADING_END>>
+<<HEADING level=3>>(no)<<HEADING_END>>
+<<HEADING level=1>>#
+1
+1
+c
+c
+high
+medium
+Fault
+tree
+Up to several
+I
+yes
+analysis
+thousands
+Fault tree
+yes
+I
+no
+I
+no
+Clnc
+T<<HEADING_END>>
+<<PARAGRAPH>>IEC 1025
+(1990)<<PARAGRAPH_END>>
+<<HEADING level=3>>(c)
+I
+c
+I medium I medium
+Is 15037<<HEADING_END>>
+<<HEADING level=3>>c
+nc<<HEADING_END>>
+<<PARAGRAPH>>Reliability
+Up to several
+yes
+block
+thousands
+diagram<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+no
+Reliability
+block
+diagram<<PARAGRAPH_END>>
+<<HEADING level=3>>(yes)
+no<<HEADING_END>>
+<<HEADING level=1>>1
+I
+Markov
+2to 100$
+yes w<<HEADING_END>>
+<<HEADING level=1>>(no) w=
+=FFF<<HEADING_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>System state
+diagram<<PARAGRAPH_END>>
+<<HEADING level=3>>(nc)
+c<<HEADING_END>>
+<<PARAGRAPH>>+
++-=--t=<<PARAGRAPH_END>>
+<<PARAGRAPH>>+<<PARAGRAPH_END>>
+<<HEADING level=1>>List
+nclc
+—
+T
+yes
+Cause/conse
+quenti chart<<HEADING_END>>
+<<PARAGRAPH>>Parts count
+1to thousands<<PARAGRAPH_END>>
+<<HEADING level=1>>—
+E<<HEADING_END>>
+<<PARAGRAPH>>Cause/conse-
+Up to several
+quence
+hundreds<<PARAGRAPH_END>>
+<<HEADING level=1>>T
+yes
+Any
+—
+Y<<HEADING_END>>
+<<PARAGRAPH>>yes
+yes<<PARAGRAPH_END>>
+<<PARAGRAPH>>Event
+Up to several
+simulation
+hundreds 8)<<PARAGRAPH_END>>
+<<HEADING level=1>>Clo)
+medium
+medium
+yes
+--1--<<HEADING_END>>
+<<PARAGRAPH>>—
+block
+-
+diagram<<PARAGRAPH_END>>
+<<PARAGRAPH>>nc
+c<<PARAGRAPH_END>>
+<<HEADING level=3>>System
+Up to several
+reduction
+thousands 9)<<HEADING_END>>
+<<PARAGRAPH>>no
+(yes)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reliability
+(nc)<<PARAGRAPH_END>>
+<<HEADING level=2>>10)
+I
+I
+I<<HEADING_END>>
+<<PARAGRAPH>>—
+Event tree
+2t050
+yes<<PARAGRAPH_END>>
+<<PARAGRAPH>>yes
+(yes)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+c<<PARAGRAPH_END>>
+<<PARAGRAPH>>Event tree<<PARAGRAPH_END>>
+<<PARAGRAPH>>Truth table 3)
+2 to 505)
+yes
+Table
+nclc
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>yes
+yes 6)<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE —  Forabbreviationsandremarkssee6.3.3.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS 15036:2001<<HEADING_END>>
+<<PARAGRAPH>>Initially
+all the states of interest shall be defined
+together with the probabilities of transition from one
+state to another (component
+failure or repair rates,
+event rates, etc). Transition rates (failure rates, event
+rates) are normally assumed to be constant, that is
+independent of time or previous history.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All these methods are capable of analyzing:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>series structures;
+reducible structures if redundant structures
+are applicable;
+independent components (two-state model);
+single faults;
+exponential distribution of times to failure;
+constant repair or event rates; and
+independent component repair.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+d)
+e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The qualitative anaIysis requires the determination of
+all the possible
+system
+states, preferably
+shown
+diagrammatical
+Iy in a state-transition
+diagram.
+A
+major supporting analysis technique is the truth table.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0
+g)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The transition probabilities and the way in which the
+states are related, represented by the state-transition
+diagram,
+allow
+the construction
+of the desired
+transition matrix (mathematical model) for the purpose
+of system reliability/availability
+calculations.
+The
+evaluation of other measures of interest may also be
+accomplished.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3,2  Table 2 Headings<<HEADING_END>>
+<<HEADING level=3>>6.3.2.1
+Number of components<<HEADING_END>>
+<<PARAGRAPH>>The  number of components of the system which can
+be handled by a particular analysis method is basically
+limited by the number of combinations (system states)
+which arise from the possible component states or fault
+modes considered. The number of combinations is also
+heavily dependent on the specific system structure and
+maintenance considerations.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.5  Parts
+Count Reliability
+Prediction<<HEADING_END>>
+<<PARAGRAPH>>Parts count
+reliability
+prediction
+is basically
+an
+inductive
+(bottom-up)
+method
+applicable
+mostly
+during
+the proposal
+and early design phases,
+to
+estimate an approximate system failure rate.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2.2  Redundant
+structures<<HEADING_END>>
+<<PARAGRAPH>>The basis capability to handling redundant
+system
+structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The components of the system need to be listed and
+the appropriate failure rates determined according to
+their stress levels.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2.3  Irreducible
+structures<<HEADING_END>>
+<<PARAGRAPH>>A structure is called irreducible if straight forward
+reduction techniques are not possible.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The method is based upon the assumption that the
+components are logically connected in series. This is
+often a worst case estimate. Where redundancies at
+the higher levels of assembly are known, their effects
+may be taken into account.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2.4  Failure/event
+combinations
+and dependencies<<HEADING_END>>
+<<PARAGRAPH>>The  capability of the method to handle failure or event
+combinations.
+These
+include
+common
+cause
+br
+common mode failures, multiple failure effects and
+statistically dependent fault modes or sequential failure
+effects and mechanisms, or events caused by adverse
+environmental effects.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A parts count reliability prediction of a system with a
+series type of structure will yield predictions at an
+acceptable precision level, provided a thorough ‘Parts
+Stress Analysis’ is carried out. Use of the parts stress
+analysis gives more realistic component failure rates.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2.5  Time vatying failure/event
+rates<<HEADING_END>>
+<<PARAGRAPH>>Non-constant
+failure
+and event
+rates
+(or non-
+exponential distribution of times to failure).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3  Explanations
+to Table 2<<HEADING_END>>
+<<HEADING level=3>>6.3.1
+General<<HEADING_END>>
+<<HEADING level=3>>6.3.2.6  Complex
+maintenance
+strategies<<HEADING_END>>
+<<PARAGRAPH>>On the left hand side of Table 2, the analysis methods
+are listed.
+In order
+to facilitate
+evaluation
+and
+comparison, their characteristics, attributes, flexibility,
+etc, are stated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The capability of the method to handle statistically
+dependent repair and maintenance situations. These
+include cases where renewal processes (repair queues)
+should be considered, as compared to the assumption
+that,
+for each component
+failure,
+repair
+begins
+immediately after failure, independent of whether a
+component is accessible or not (independent repair).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For each analysis method the matrix thus gives an
+indication as to which additional characteristics each
+method can handle as indicated by ‘yes’ and ‘no’
+entries, Further, the analysis methods are distinguished
+by particular attributes or techniques. These are listed
+and rated on the right hand side of Table 2.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2.7  Simulation
+of functional
+process<<HEADING_END>>
+<<PARAGRAPH>>The capability of a method to simulate discrete events;
+that is, the failure and renewal processes are simulated
+and the particular system states evaluated according
+to the influence which they exert on any higher-level
+system or on the total environment (interrelation).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Table 2 indicates that there is no single, comprehensive
+dependability
+analysis method. The analyst should
+choose the method which best fits the particular system
+or analysis objective.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 15036:2001<<HEADING_END>>
+<<PARAGRAPH>>Therefore,
+it is also necessary
+to simulate
+the
+fictional
+behaviour of the higher-level system along
+with processes
+within the total environment
+while
+analyzing the operating and failure processes of the
+system itself.<<PARAGRAPH_END>>
+<<PARAGRAPH>>dependability
+analysis
+method
+may
+be
+employed
+for the evaluation
+of the relevant
+components.
+10) Mainly calculation of system dependability
+measures
+by the reduction
+(substitution)
+method of a given reliability block diagram.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2.8  Deductive/inductive
+approach<<HEADING_END>>
+<<HEADING level=3>>6.4  Advantages
+and Disadvantages
+of Methods<<HEADING_END>>
+<<HEADING level=3>>See 5.3  and 5.4.<<HEADING_END>>
+<<HEADING level=3>>A  comparison of some of the commonly used methods
+follows.<<HEADING_END>>
+<<HEADING level=3>>6.3.2.9  Qualitative/quantitative
+analysis<<HEADING_END>>
+<<HEADING level=3>>The  capability of a method to handle qualitative and/
+or quantitative analysis.<<HEADING_END>>
+<<HEADING level=3>>6.4.1  Failure Mode and Eflects Analysis<<HEADING_END>>
+<<HEADING level=3>>6.3.2.10  Qualitative/qtiantitative
+analysis eflort (cost)<<HEADING_END>>
+<<HEADING level=3>>6.4.1.1
+Advantages<<HEADING_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>identifies systematically the cause and effect
+relationships;
+gives an initial indication of those fault modes
+which are likely to be critical,
+especially
+single faults which may propagate;
+searches for possible outcomes not previously
+or precisely known;
+identifies
+outcomes
+arising from specific
+causes or initiating events which are believed
+to be important;
+highlights
+spurious
+outcomes
+as well as
+deviations
+from
+normal
+functional
+performance; and
+useful in the preliminary analysis of new or
+untried systems or components.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The entries
+give relative
+estimates
+of the cost of
+applying a particular analysis method to a particular
+problem. The effective analysis effort is dependent on
+the system complexity, the depth of analysis, the skill
+of the analyst, the availability of basic system and
+component
+data, and the availability
+of suitable
+computing resources.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.3  Remarks
+with reference
+to Table 2<<HEADING_END>>
+<<PARAGRAPH>>Capable.
+Not capable, or not applicable
+With restrictions/exceptions<<PARAGRAPH_END>>
+<<HEADING level=3>>c
+Nc<<HEADING_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>()<<PARAGRAPH_END>>
+<<PARAGRAPH>>With cut sets or logical reduction.
+By event simulation, numerical integration
+or renewal theory.
+A basic, systematic method (combinatorics)
+to support qualitative
+system analysis,
+in
+particular for Markov and event simulation
+to determine the possible system states. Low
+for event
+rate,
+high
+for unavailability
+(diagrams with loops).
+Low for event rate, high for unavailability
+(diagrams with loops).
+Depends on system complexity (stochastic
+process
+to be simulated)
+and possible
+approximations
+(truncation
+of
+event
+sequences).
+Especially
+dependent events, for example,
+parallel
+structures
+with passive (standby)
+components.
+Special Erlang distribution (introduction of
+virtual – ‘dummy’ states) or semi-Markov
+process.
+System size and complexity which can be
+handled are mainly dependent on available
+computing means, efficiency of event (Monte
+Carlo) simulation
+procedure
+and required
+accuracy of measures to be estimated.
+Independent components at each reduction
+level
+are
+assumed.
+Therefore,
+any<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4.1.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)<<PARAGRAPH_END>>
+<<HEADING level=3>>Disadvantages<<HEADING_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>the output
+data may be large
+even
+for
+relatively simple systems;
+may become complicated and unmanageable
+unless there is a fairly direct (of ‘single-
+chain’) relationship between cause and effect,
+that is, cannot conveniently deal with parallel
+or complex relationship;
+may not easily deal with time sequences,
+restoration
+processes,
+environmental
+conditions, maintenance aspects, etc;
+does not, in itself, directly produce a model
+for quantitative evaluation; and
+may not easily portray multiple dependen-
+cies or complex interactions between faults
+in different parts of the system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>5)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6)<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>7)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.2  Fault Tree Analysis<<HEADING_END>>
+<<PARAGRAPH>>8)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.2.1
+Advantages<<HEADING_END>>
+<<PARAGRAPH>>a)
+identifies
+and records
+systematically
+the
+logical fault paths from a specific effect, back
+to the prime causes;
+b)
+deals with parallel, redundant or alternative
+fault paths;<<PARAGRAPH_END>>
+<<PARAGRAPH>>9)<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS 15036:2001<<HEADING_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>deals with most forms of combinatorial events
+and some forms of dependencies as well;
+deals with systems which have several cross-
+Iinked sub-systems;
+provide for fairly easy manipulation of the
+fault paths to give minimal logical models
+(for example by using Boolean algebra);
+capable of sensitivity analysis to indicate the
+items dominantly
+contributing
+to overall
+system reliability;
+capable
+of setting
+up models
+for the
+evaluation of overall system reliability and
+availability in probabilistic terms; and
+results in compact and concise diagrams for
+a total system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>capable
+of setting
+up models
+for
+the
+evaluation of overall system reliability and
+availability in probabilistic terms; and
+results in compact and concise diagrams for
+a total system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.!9<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<HEADING level=3>>Disadvantages<<HEADING_END>>
+<<HEADING level=3>>6.4.3.2<<HEADING_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>does not, in inself, provide for a specific fault
+analysis – that is the cause-effect(s) paths or
+the effect-cause(s) paths are not specifically
+highlighted;
+requires a probabilistic model of performance
+for each element in the diagram;
+will not show spurious  or  unintended outputs
+unless the analyst takes deliberate steps to
+this end; and
+is primarily directed towards success analy-
+sis and does not deal effectively with com-
+plex repair and maintenance
+strategies
+or
+general availability analysis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4.2.2<<PARAGRAPH_END>>
+<<HEADING level=3>>Disadvantages<<HEADING_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>does not, in itself, provide for a specific fault
+analysis – that is the cause-effect(s) paths or
+the effect-cause(s) paths are not specifically
+highlighted;
+requires a probabilistic model of performance
+for each element in the diagram;
+wi 11not show spurious or unintended outputs
+unless the analyst takes deliberate steps to
+this end; and
+is primarily directed towards success analy-
+sis and does not deal effectively with com-
+plex repair and maintenance
+strategies or
+general availability analysis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.4  A4arkov Analysis<<HEADING_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.4.1
+Advantages<<HEADING_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>provides
+a direct probabilistic
+model for
+system state behaviour based on the system
+logic;
+provides the probabilistic solutions for sub-
+sets of other models such as logic diagrams
+and fault trees;
+deals readily with multi-state situations and
+outcomes, right down to the component level;
+represents event sequences with a specific
+pattern or order of occurrence;
+valuable
+in
+computing
+availability
+performance measures of the system; and
+deals with complex, dependent repair situa-
+tions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4.3<<PARAGRAPH_END>>
+<<HEADING level=3>>Reliability
+Block Diagram<<HEADING_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4.3.1<<PARAGRAPH_END>>
+<<HEADING level=3>>Advantages<<HEADING_END>>
+<<PARAGRAPH>>Often constructed almost directly from the
+system
+functional
+diagram;
+this has the
+further advantages of reducing constructional
+errors
+and/or
+systematic
+depiction
+of
+functional paths relevant to system reliability;
+deals with most types of system configuration
+including parallel, redundant, standby and
+alternative functional paths;
+deals with most forms of combinational
+events and some forms of dependencies;
+capable of complete analysis of variations and
+trade-offs with regard to changes in system
+performance parameters;
+provide
+(in the two-state
+application)
+for
+fairly easy manipulation of functional or non-
+functional
+paths to give minimal
+logical
+models
+(for example,
+by using Boolean
+algebra);
+capable of sensitivity analysis to indicate the
+items dominantly
+contributing
+to over-all
+system reliability;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>o<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.4.2  Disadvantages<<HEADING_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>may become
+very
+complex
+for models
+involving a large number of system states;
+may not help in the logical solution
+of a
+problem;
+depends normally upon the assumption that
+transition rates are constant; and
+can only represent
+combinatorial
+events
+by creating
+a new state for each combi-
+nation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.5  Parts Count Reliability
+Prediction<<HEADING_END>>
+<<HEADING level=3>>6.4.5.1
+Advantages<<HEADING_END>>
+<<PARAGRAPH>>o<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+time and cost of analysis are very low;<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS 15036:2001<<HEADING_END>>
+<<PARAGRAPH>>considered,
+and therefore
+only
+simple
+structures
+lend themselves
+to parts count
+analysis;
+b)
+the precision
+level of the predictions
+is
+normally
+low, especially
+for small
+sub-
+systems, due to the wide spread in values of
+most published data;
+c)
+repair and maintenance cannot be considered;
+d)
+the
+evaluation
+of
+fault
+modes
+and
+mechanisms and their effects is not possible;
+and
+e)
+time-sequential failure and event behaviour
+cannot be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the necessary input information and data are
+small and suiting to the situation in the early
+design and development phase;
+c)
+basic information on component reliability
+is gained in the early design and development
+phase;
+d)
+adapted to computerized calculations;
+e)
+little training is necessary;
+f)
+applied to parts of any complexity, provided
+reliability data are available.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.5.2  Disadvantages<<HEADING_END>>
+<<PARAGRAPH>>a)
+the functional structure (for example lower
+level redundancies)
+of a system cannot be<<PARAGRAPH_END>>
+<<HEADING level=3>>ANNEX
+A<<HEADING_END>>
+<<HEADING level=3>>(Clause  2)<<HEADING_END>>
+<<HEADING level=3>>LIST OF REFERRED
+INDIAN
+STANDARDS<<HEADING_END>>
+<<HEADING level=3>>IS No.
+Title<<HEADING_END>>
+<<HEADING level=3>>Title<<HEADING_END>>
+<<HEADING level=3>>IS No.<<HEADING_END>>
+<<PARAGRAPH>>Maintenance
+and
+maintenance
+support planning, Section 2 Main-
+tenance support analysis
+Maintenance — maintenance support
+support
+planning,
+Section
+3
+Maintenance planning analysis
+Maintenance
+and
+maintenance
+supporting
+planning,
+Section
+4
+Maintenance
+support
+resources
+requirements
+Analysis
+techniques
+for system
+reliability:
+Part 2 Procedure
+for
+failure mode and effects analysis
+(FMEA) and failure modes, effects
+and criticality analysis (FMECA)
+Analysis
+techniques
+for
+dependability — Reliability block
+diagram method<<PARAGRAPH_END>>
+<<HEADING level=3>>(Part 8/See  2):
+1988<<HEADING_END>>
+<<PARAGRAPH>>1885  (Part 39) : Electrotechnical vocabulary: Part 39
+1999
+Reliability
+of
+electronic
+and
+electrical items  (second revision)
+9692
+Guide
+on
+maintainability
+of
+equipment
+(Part 1) :1980
+Introduction to maintainability
+(Part 2) :1980
+Maintainability
+requirements
+in
+specifications and contracts
+(Part 3) :1981
+Maintainability programme
+(Part 4) :1987
+Test and diagnostic procedures
+(Part 5) :1985
+Maintainability
+studies during the
+design phase
+(Part 6) :1983
+Maintainability verification
+(Part 7) :1984
+Collection, analysis and presentation
+of data related to maintainability
+(Part 8/See 1) : Maintenance
+and
+maintenance
+1988
+support planning, Section 1 General<<PARAGRAPH_END>>
+<<HEADING level=3>>(Part 8/See  3):
+1988<<HEADING_END>>
+<<PARAGRAPH>>(Part 8/See 4):
+1988<<PARAGRAPH_END>>
+<<PARAGRAPH>>ll137(Part2):<<PARAGRAPH_END>>
+<<HEADING level=3>>1984<<HEADING_END>>
+<<PARAGRAPH>>15037:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS 15036:2001<<HEADING_END>>
+<<HEADING level=3>>ANNEX
+B<<HEADING_END>>
+<<HEADING level=3>>(f’oreword)<<HEADING_END>>
+<<HEADING level=3>>COMMITTEE
+COMPOSITION<<HEADING_END>>
+<<PARAGRAPH>>Reliability of Electronic and Electrical Components and Equipment Sectional Committee, LTD 3<<PARAGRAPH_END>>
+<<HEADING level=3>>Representative(s)<<HEADING_END>>
+<<HEADING level=3>>Organization<<HEADING_END>>
+<<HEADING level=3>>PROFK. B.  MISW (Chairman)<<HEADING_END>>
+<<PARAGRAPH>>Indian Institute ofTechnology, Khamgpur<<PARAGRAPH_END>>
+<<HEADING level=3>>Srrsu A. B.MAWR
+SsrroJ. P. Tsr.wm (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>All India Radio, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>Srmu D. tiO
+Smr  R.K. SARAF (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Bhabha Atomic Research Cerrtre,Mumbai<<PARAGRAPH_END>>
+<<HEADING level=3>>Sara RUDRAMANUEL
+SHRrMATJ
+MEENAPmmm mv,mm  (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Bharat Electronics Ltd, Bangalore<<PARAGRAPH_END>>
+<<HEADING level=3>>DrREaOR(TUCCMWNJCATJOt$
+DEPUTYDJRSeTGR
+(Tele) PTCC (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Central Electricity Authority,New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SmuY.  K.Pmmsv
+Smr A. K. AHUJA (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Centre for Development of Telematics (C-DOT),New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>!%roN. G.  NANOA
+SrrwA. K. SW
+!%rraS.K. KrMo_mr (Ar’rernafe)
+%mlv.  A. RAMA~0
+DIRECTOR
+(Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Consumer Electronics &TV ManufacturersAssociation,New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Department of Electronics (STQC),New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Department of Telecommunication(TEC),New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SW  V.K.Smm[
+SmuR.11.mmv
+SmrB.Bmsw MO (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>ElectronicComponents IndustriesAssociation,New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Electronics Corporation of India Ltd, Hyderabad<<PARAGRAPH_END>>
+<<HEADING level=3>>Sm  V.M Mowl&+o
+SsuoS.C.H. JAGNANAWIho  (Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Hindustan Aeronautics Ltd, Hyderabad<<PARAGRAPH_END>>
+<<HEADING level=3>>MAJORGrmYmmv.mrDEVA
+MAJORGENK. B.JwrvM
+(Alternute)<<HEADING_END>>
+<<PARAGRAPH>>lETE, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>Swu  A.P.PAOmrm
+SaruILwv SRIVASTAVA
+(Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Instrumentation [.td, Ko@<<PARAGRAPH_END>>
+<<HEADING level=3>>Swo S.  SATJSH
+SmuG. L.UCWMWATHI
+(Alternate)
+SmV.Murww
+SmiK.L. CtruG<<HEADING_END>>
+<<PARAGRAPH>>ISRO (Department of Space), Bangalore<<PARAGRAPH_END>>
+<<PARAGRAPH>>lTILtd,Bangalore
+MhsistryotDefence(DGQA)(L),Bangalore<<PARAGRAPH_END>>
+<<HEADING level=3>>Smr  KALYAN  ROY (Alternate)<<HEADING_END>>
+<<HEADING level=3>>Swu  T.C. GOSALJA
+Ssiru P. D. SHASTJU
+(Alternate)<<HEADING_END>>
+<<PARAGRAPH>>ONIDA,Mumbai<<PARAGRAPH_END>>
+<<HEADING level=3>>Snm  R.A. Wkmrvrs<<HEADING_END>>
+<<PARAGRAPH>>Philips India Ltd, Loni-Kalbhor<<PARAGRAPH_END>>
+<<HEADING level=3>>SsrwB.DEVJCHARAN
+(Alternde)<<HEADING_END>>
+<<HEADING level=3>>JOJNrDIRECTOR
+S~ANDARDS
+(Ltms)
+Jorm DIRECTOR
+STANDARDS
+(Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Research, Design andStandards Organization,Lucknow<<PARAGRAPH_END>>
+<<HEADING level=3>>Starr R. DE
+Sm D. Wumr  (Akernde)<<HEADING_END>>
+<<PARAGRAPH>>Variable EnergyCyclotronCentre, Kolkata<<PARAGRAPH_END>>
+<<HEADING level=3>>Smu  VIJ.wDhector& Head (Electronicsand
+Telecommunication)
+~epresenting DirectorGeneral  (Er-oflcio)]<<HEADING_END>>
+<<PARAGRAPH>>BIS Directorate General<<PARAGRAPH_END>>
+<<HEADING level=3>>Member-Secretary<<HEADING_END>>
+<<HEADING level=3>>Smu I%vrmKw<<HEADING_END>>
+<<PARAGRAPH>>AssistantDhector (ElectronicsandTelecommunication),BIS<<PARAGRAPH_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>Bureau
+of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory
+institution
+established
+under the  Bureau
+of Indian
+Standards
+Act,
+1986  to promote
+harmonious
+development
+of the activities of standardization,
+marking and quality certification
+of goods
+and attending to connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright of all its publications. No part of these publications may be reproduced in any form
+without
+the prior permission
+in writing of BIS. This does not preclude
+the free use, in the course of
+implementing
+the standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to copyright be addressed to the Director (Publications), BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review
+of Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are
+needed; if the review indicates that changes are needed, it is taken  up  for revision. Users of Indian Standards
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of
+‘BIS Catalogue’ and ‘Standards: Monthly Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard has been developed from Doc : No.
+LTD 3 (18 15).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments
+Issued Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU OF INDIAN STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters :<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002
+Telegrams : Manaksanstha
+Telephones :3230131,3233375,323
+9402
+(Common to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices :
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>3237617
+NEW DELHI 110002
+3233841<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg
+{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+: 1/14 C.I.T. Scheme VII M, V. I. P. Road, Kankurgachi
+{
+3378499,
+3378561
+KOLKATA 700054
+3378626,
+3379120<<PARAGRAPH_END>>
+<<PARAGRAPH>>603843
+602025<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+: SCO 335-336, Sector 34-A, CHANDIGARH 160022<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>2541216,2541442
+2542519,
+2541315<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+: C.I.T. Campus, IV Cross Road, CHENNAI 600113<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+: Manakalaya, E9 MIDC, Marol, Andheri (East)
+{
+8329295,
+8327858
+MUMBAI 400093
+8327891,
+8327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches : AH MEDABAD.
+BAN GALORE.
+BHOPAL.
+BHUBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHAT1.
+HYDERABAD.
+JAIPUR.
+KANPUR:
+LUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPIJRAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Printed at  PMIIIIaLOffset Press, New Lklhi-2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 13
+<<SECTION_END>>
+<<DOCUMENT_END>>

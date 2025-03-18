@@ -1,0 +1,6228 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992\n(Superseding IS 7678 : 1975)\n(Reaffirmed 2000)\nEdition 1.1\n(2000-10)",
+          "bbox": [
+            380.08,
+            55.29,
+            524.35,
+            122.01
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            142.96,
+            136.68,
+            452.08,
+            216.36
+          ],
+          "block_id": "img1_9"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            236.96,
+            368.3,
+            254.96
+          ],
+          "block_id": "b1_4",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PHOTOMETRY OF LUMINAIRES \u2014 METHOD\nOF MEASUREMENT",
+          "bbox": [
+            71.56,
+            268.63,
+            525.35,
+            310.51
+          ],
+          "block_id": "b1_5",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 2\nLUMINAIRES FOR ROAD AND STREET LIGHTING",
+          "bbox": [
+            138.64,
+            320.85,
+            456.42,
+            330.81
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            219.28,
+            342.27,
+            375.87,
+            352.23
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC 628.971.6 : 535.24",
+          "bbox": [
+            242.92,
+            383.31,
+            352.14,
+            393.27
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2003",
+          "bbox": [
+            271.12,
+            673.83,
+            323.91,
+            683.79
+          ],
+          "block_id": "b1_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            705.69,
+            452.46,
+            746.25
+          ],
+          "block_id": "b1_1",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 6",
+          "bbox": [
+            451.24,
+            778.41,
+            523.59,
+            788.37
+          ],
+          "block_id": "b1_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_9",
+          "bbox": [
+            142.96,
+            136.68,
+            452.08,
+            216.36
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_9": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Illumination Engineering and Luminaires Sectional Committee, ETD 24",
+          "bbox": [
+            70.72,
+            63.99,
+            405.7,
+            73.95
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.55,
+            132.23,
+            150.51
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (Part 2) was adopted by the Bureau of Indian Standards after the draft\nfinalized by the Illumination Engineering and Luminaires Sectional Committee had been\napproved by the Electrotechnical Division Council.",
+          "bbox": [
+            70.72,
+            161.55,
+            524.34,
+            193.47
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The object of this standard is to recommend the adoption of the test procedures that will give\nacceptable results in determining and reporting the photometric characteristics of luminaires\nintended for use of road and street lighting.",
+          "bbox": [
+            70.72,
+            198.51,
+            524.41,
+            230.43
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard (Part 2) is one of the series of Indian Standards which deals with the methods of\nphotometry of luminaires. The series consist of the following parts:",
+          "bbox": [
+            70.72,
+            235.47,
+            524.33,
+            256.47
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Methods of photometry of luminaires:\nPart 1\nLuminaires intended for use of interior lighting;\nPart 2\nLuminaires for road and street lighting; and\nPart 3\nLuminaires for floodlighting.",
+          "bbox": [
+            70.72,
+            261.51,
+            344.08,
+            313.47
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the formulation of this standard, assistance has been derived from CIE Publication No. 27\n(TC-2.4) 1973 on Photometry of luminaires for street lighting.",
+          "bbox": [
+            70.72,
+            318.51,
+            524.32,
+            339.51
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard supersedes IS 7678 : 1975 \u2018Method of photometric testing of incandescent type\nluminaires for general lighting services\u2019 which covers the method for photometric testing of\nfilament type general lighting luminaires.",
+          "bbox": [
+            70.72,
+            344.55,
+            524.34,
+            376.47
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 1.1 incorporates Amendment No. 1 (October 2000). Side bar indicates modification of\nthe text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            381.51,
+            524.29,
+            402.51
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            384.52,
+            55.29,
+            524.32,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            83.0,
+            368.3,
+            101.0
+          ],
+          "block_id": "b3_2",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PHOTOMETRY OF LUMINAIRES \u2014 METHOD\nOF MEASUREMENT",
+          "bbox": [
+            71.56,
+            114.55,
+            525.35,
+            156.55
+          ],
+          "block_id": "b3_3",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 2\nLUMINAIRES FOR ROAD AND STREET LIGHTING",
+          "bbox": [
+            138.64,
+            166.89,
+            456.42,
+            176.85
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.5 Light Output Ratio",
+          "bbox": [
+            304.6,
+            198.32,
+            421.09,
+            208.28
+          ],
+          "block_id": "b3_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            70.72,
+            198.33,
+            117.28,
+            208.29
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1.1  This\nstandard\napplies\nto\ntesting\nof\nluminaires designed primarily for road and\nstreet lighting, suitable for ac electricity supply\nand using the following lamp types:",
+          "bbox": [
+            70.72,
+            216.87,
+            290.43,
+            259.83
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The light output ratio is defined as the ratio of\nthe light output of the luminaire measured\nunder specified practical conditions, to the sum\nof the individual light outputs of the lamps\noperating outside the luminaire under specified\nconditions.",
+          "bbox": [
+            304.6,
+            219.87,
+            524.28,
+            284.78
+          ],
+          "block_id": "b3_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) High pressure mercury vapour;",
+          "bbox": [
+            83.08,
+            265.83,
+            239.57,
+            275.79
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Blended or self \u2014 ballasted mercury\nvapour;",
+          "bbox": [
+            83.08,
+            280.83,
+            290.37,
+            301.83
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The\n\u2018specified\nconditions\u2019\nshould\nbe\nthe\nstandard conditions defined in  5.3 .",
+          "bbox": [
+            304.6,
+            295.82,
+            524.2,
+            316.88
+          ],
+          "block_id": "b3_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c) Low pressure sodium vapour;",
+          "bbox": [
+            83.08,
+            306.87,
+            229.79,
+            316.83
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d) High pressure sodium vapour;",
+          "bbox": [
+            83.08,
+            321.87,
+            234.64,
+            331.83
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 GENERAL REQUIREMENTS",
+          "bbox": [
+            304.6,
+            327.92,
+            463.02,
+            337.88
+          ],
+          "block_id": "b3_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e) Tubular fluorescent;",
+          "bbox": [
+            83.08,
+            336.87,
+            188.48,
+            346.83
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1 Photometric Characteristics",
+          "bbox": [
+            304.6,
+            349.4,
+            469.57,
+            359.36
+          ],
+          "block_id": "b3_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "f) Incandescent; and",
+          "bbox": [
+            83.08,
+            351.87,
+            176.48,
+            361.83
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "g) Tungsten halogen.",
+          "bbox": [
+            83.08,
+            366.87,
+            180.24,
+            376.83
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The\nrequirements\ndescribed\nin\nthese\nrecommendations\nrelate\nto\nthe\nfollowing\ncharacteristics. They can be divided into the\nmeasured characteristics, that is, those directly\nmeasured with laboratory instruments, and the\nderived characteristics which can be calculated\nfrom the measured ones and used in the\napplication of the luminaires. The derived\ncharacteristics are more closely related to\nlighting\napplication\nthan\nto\nphotometric\nmeasurements, but it is emphasized that these\nrecommendations only deal with the measured\nphotometric characteristics.",
+          "bbox": [
+            304.6,
+            370.82,
+            524.35,
+            512.78
+          ],
+          "block_id": "b3_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 DEFINITIONS",
+          "bbox": [
+            70.72,
+            387.93,
+            154.63,
+            397.89
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.0  For the purpose of this standard the\nfollowing definitions shall apply.",
+          "bbox": [
+            70.72,
+            405.39,
+            290.44,
+            426.27
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1 Luminaire Photometry per 1 000 Lamp\nLumens",
+          "bbox": [
+            70.72,
+            433.41,
+            290.68,
+            454.89
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Photometric measurements of a luminaire\nconverted into a total luminous flux of 1 000\nlumens from all the lamps in the luminaire\ntogether, when these are operated under\nstandard test conditions (  see   5.3  ).",
+          "bbox": [
+            70.72,
+            462.39,
+            290.48,
+            516.46
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.2 Measuring Half-Plane (C-Plane)",
+          "bbox": [
+            70.72,
+            523.4,
+            252.95,
+            533.36
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.2 Distribution of Luminous Intensity",
+          "bbox": [
+            304.6,
+            523.88,
+            504.13,
+            533.84
+          ],
+          "block_id": "b3_30",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "That portion of any vertical plane through the\nphotometric light centre of a luminaire, which\nis wholly to one side of the vertical axis.",
+          "bbox": [
+            70.72,
+            540.87,
+            290.41,
+            572.79
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Distribution of luminous intensity in specified\ndirections per 1 000 lamps lumens (  see   2.1  ).\nThe directions in which the luminous intensity\nneeds to be measured will depend on the later\nuse of the measurements (  see   2.3  ).",
+          "bbox": [
+            304.6,
+            545.3,
+            524.33,
+            599.49
+          ],
+          "block_id": "b3_31",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.3 Distribution of Luminous Intensity",
+          "bbox": [
+            70.72,
+            579.92,
+            270.27,
+            589.88
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "By the luminous intensity distribution of a\nluminaire or light source is meant the luminous\nintensities of the luminaire or light source in all\ndirections. The luminous intensity distribution\nmay be represented by tables, diagrams or\ncurves.",
+          "bbox": [
+            70.72,
+            597.39,
+            290.48,
+            662.31
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.3 Flashed Area",
+          "bbox": [
+            304.6,
+            610.4,
+            390.22,
+            620.36
+          ],
+          "block_id": "b3_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The flashed area is used in the calculation of\nglare in street lighting installations. It is the\narea of orthogonal projection of the light\nemitting surface of a luminaire on a plane\nperpendicular to a given direction of viewing\nwithin which the luminance exceeds 1 percent\nof the brightest part. For the purpose of the\ndetermination of the glare control mark the\ndirection of viewing in specified as  = 76\u00b0C in\nthe plane C = 0\u00b0.",
+          "bbox": [
+            304.6,
+            631.82,
+            524.39,
+            740.78
+          ],
+          "block_id": "b3_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.4 Test Distance",
+          "bbox": [
+            70.72,
+            669.44,
+            158.54,
+            679.4
+          ],
+          "block_id": "b3_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Photometric test distance is the distance from\nthe photometric centre of the distribution\nphotometer to the surface of the photocell,\ntaking into account the distance to and from\nany mirror or mirrors that may be used.",
+          "bbox": [
+            70.72,
+            686.79,
+            290.5,
+            740.79
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            469.48,
+            723.24,
+            475.24,
+            729.96
+          ],
+          "block_id": "img3_34"
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_34",
+          "bbox": [
+            469.48,
+            723.24,
+            475.24,
+            729.96
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            210.49,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "gives a luminous intensity as a function of the\nhorizontal angle C and the vertical angle Y\n(C Y-system,  see  Fig. 1).",
+          "bbox": [
+            304.6,
+            83.79,
+            524.25,
+            116.02
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.4 Presentation of Distribution Intended\nfor Luminance Calculations",
+          "bbox": [
+            70.72,
+            83.85,
+            288.28,
+            105.33
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Luminance calculations are practically always\nmade by means of the computer. The light\ndistribution must, therefore, be given in digital\nform (a light distribution table). The table",
+          "bbox": [
+            70.72,
+            114.87,
+            290.51,
+            157.83
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The table should be given in the following\nform:",
+          "bbox": [
+            304.6,
+            136.83,
+            524.28,
+            157.83
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            70.48,
+            168.96,
+            523.48,
+            703.68
+          ],
+          "block_id": "img4_6"
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_6",
+          "bbox": [
+            70.48,
+            168.96,
+            523.48,
+            703.68
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img4_6": 2
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            384.52,
+            55.29,
+            524.32,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The reference half-plane (that is C = 0\u00b0) should\ngenerally be orientated parallel to the road as\nshown in Fig. 1.",
+          "bbox": [
+            70.72,
+            83.79,
+            290.48,
+            115.83
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4 SELECTION OF TEST APPARATUS,\nPROCEDURES AND METHODS",
+          "bbox": [
+            304.6,
+            83.85,
+            505.11,
+            105.33
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1 General",
+          "bbox": [
+            304.6,
+            116.85,
+            363.2,
+            126.81
+          ],
+          "block_id": "b5_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In cases where that light distribution according\nto the construction of the luminaire can be\nconsidered symmetrical about the half-planes\nC = 270\u00b0 and C = 90\u00b0, the table may contain\nonly\nthe\nluminous\nintensities\nfor\nthe\nhalf-planes from C = 270\u00b0 to C = 90\u00b0. Each\nvalue in the table (except for C = 270\u00b0 and\nC = 90\u00b0) will then be the mean value of the two\nreadings in symmetrical directions.",
+          "bbox": [
+            70.72,
+            128.79,
+            290.5,
+            226.83
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The accuracy of a street lighting design\ndepends\nupon\na\nknowledge\nof\nthe\ncharacteristics\nof\nthe\nroad\nsurface,\nthe\nperformance of the luminaires and of the\nassociated lamps.",
+          "bbox": [
+            304.6,
+            138.27,
+            524.33,
+            192.27
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The accuracy of photometric measurement is in\nturn depended upon the apparatus used, and\nalso on the testing procedure adopted.",
+          "bbox": [
+            304.6,
+            203.31,
+            524.25,
+            235.23
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.5 Presentation of Distribution Intended\nfor General Purposes",
+          "bbox": [
+            70.72,
+            239.85,
+            288.28,
+            261.33
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2 Sources of Error",
+          "bbox": [
+            304.6,
+            246.32,
+            407.79,
+            256.28
+          ],
+          "block_id": "b5_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In General, two kinds of errors impair\naccuracy, namely, systematic errors, inherent\nin the test methods used, or caused by\nimperfections of instruments; and random\nerrors, due to variations in test conditions\noutside the photometrist\u2019s control. It is the\nlatter which affects repeatability. Examples of\nsuch sources of errors are given in Table 1.",
+          "bbox": [
+            304.6,
+            267.87,
+            524.31,
+            354.75
+          ],
+          "block_id": "b5_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The presentation may be given in (one or more\nof) the following forms:",
+          "bbox": [
+            70.72,
+            274.83,
+            290.37,
+            295.83
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) A polar curve in a vertical plane parallel\nto the road axis;",
+          "bbox": [
+            83.08,
+            304.83,
+            290.49,
+            325.83
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) A polar curve in a vertical plane through\nthe peak intensity, if different from (a);",
+          "bbox": [
+            83.08,
+            334.83,
+            290.36,
+            355.83
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) A conical light distribution through the\npeak intensity. The value of the constant\nangle  shall be stated; and",
+          "bbox": [
+            83.08,
+            364.83,
+            290.36,
+            396.75
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 1\nExamples of Sources of Inaccuracy",
+          "bbox": [
+            305.8,
+            375.96,
+            523.25,
+            385.44
+          ],
+          "block_id": "b5_16",
+          "font_size": 9.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            122.32,
+            390.24,
+            128.08,
+            396.96
+          ],
+          "block_id": "img5_18"
+        },
+        {
+          "type": "text",
+          "content": "Random Errors\nSystematic Errors",
+          "bbox": [
+            328.36,
+            400.77,
+            508.12,
+            408.69
+          ],
+          "block_id": "b5_20",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d) An isocandela diagram.",
+          "bbox": [
+            83.08,
+            405.87,
+            203.58,
+            415.83
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Instability of lamp\nMeasurement of voltage",
+          "bbox": [
+            304.6,
+            418.67,
+            505.6,
+            426.59
+          ],
+          "block_id": "b5_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Temperature variation\nMeasurement\nof\ntem-\nperature",
+          "bbox": [
+            304.6,
+            436.67,
+            524.29,
+            453.59
+          ],
+          "block_id": "b5_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Draughts due to air\nconditions, etc\nNon-linearity of photocell",
+          "bbox": [
+            304.6,
+            463.67,
+            510.75,
+            480.59
+          ],
+          "block_id": "b5_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            71.68,
+            481.56,
+            288.64,
+            698.28
+          ],
+          "block_id": "img5_19"
+        },
+        {
+          "type": "text",
+          "content": "Stray light",
+          "bbox": [
+            416.56,
+            486.59,
+            456.59,
+            494.51
+          ],
+          "block_id": "b5_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Air movement due to\nrelative movement of\nthe lamp of luminaire",
+          "bbox": [
+            304.6,
+            504.59,
+            397.36,
+            530.51
+          ],
+          "block_id": "b5_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Spectral\nselectivity\nof\nluminaire*",
+          "bbox": [
+            416.56,
+            504.59,
+            524.31,
+            521.51
+          ],
+          "block_id": "b5_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Variation\nin\nreflectance\nfactor of mirror due to\ndistortion from a plane\nsurface,\nvariation\nin\nsilvering",
+          "bbox": [
+            416.56,
+            527.63,
+            524.32,
+            571.55
+          ],
+          "block_id": "b5_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Fatigue of photocell\nvariation in frequency,\nof voltage source",
+          "bbox": [
+            304.6,
+            581.63,
+            403.27,
+            607.55
+          ],
+          "block_id": "b5_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Polarisation of light source",
+          "bbox": [
+            416.56,
+            581.63,
+            515.88,
+            589.55
+          ],
+          "block_id": "b5_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Non\nstandard\nvalue\nof\nphosphor density of test\nlamp",
+          "bbox": [
+            416.56,
+            613.68,
+            524.32,
+            639.6
+          ],
+          "block_id": "b5_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Variation in reflectance\nfactor of mirror due\nto dust",
+          "bbox": [
+            304.6,
+            649.68,
+            394.12,
+            675.6
+          ],
+          "block_id": "b5_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Misalignment of lamp and\noptical\ncomponents\nof\nluminaire, etc",
+          "bbox": [
+            416.56,
+            649.68,
+            524.31,
+            675.6
+          ],
+          "block_id": "b5_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Too\nshort\nmeasuring\ndistance",
+          "bbox": [
+            416.56,
+            681.6,
+            524.27,
+            698.52
+          ],
+          "block_id": "b5_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "* If the luminaire is spectrally selective, systematic\nerrors could arise due to the spectral response curve of a\nmirror system and/or photocell departing from the CIE\nspectral luminous efficiency curve V (\n).",
+          "bbox": [
+            304.6,
+            708.6,
+            524.29,
+            743.52
+          ],
+          "block_id": "b5_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "F IG . 1\nC OORDINATE  S YSTEM   FOR  L UMINAIRE\nL IGHT  D ISTRIBUTION",
+          "bbox": [
+            76.6,
+            721.83,
+            287.33,
+            742.71
+          ],
+          "block_id": "b5_17",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            447.28,
+            738.96,
+            451.12,
+            744.36
+          ],
+          "block_id": "img5_35"
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img5_18",
+          "bbox": [
+            122.32,
+            390.24,
+            128.08,
+            396.96
+          ]
+        },
+        {
+          "block_id": "img5_19",
+          "bbox": [
+            71.68,
+            481.56,
+            288.64,
+            698.28
+          ]
+        },
+        {
+          "block_id": "img5_35",
+          "bbox": [
+            447.28,
+            738.96,
+            451.12,
+            744.36
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img5_19": 3
+      }
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            210.49,
+            67.29
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "with sufficient accuracy and that a realistic\ncomparison between different luminaires can\nbe made. Provision is, therefore, made in these\nrecommendations for: (a) appropriate standard\ntest conditions ( 5.3 ); (b) acceptable variations\nproduced by limitations of the laboratory and\nits apparatus, for example, temperature and\norientation during test ( 5.4 ); and (c) correction\nfactors where a service condition causes the\nluminaire\nto\noperate\ndifferently\nto\nthe\nlaboratory standard test conditions ( 5.5 ).",
+          "bbox": [
+            304.6,
+            83.78,
+            524.31,
+            203.84
+          ],
+          "block_id": "b6_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.3 Acceptable Order of Accuracy of\nPhotometric Measurement",
+          "bbox": [
+            70.72,
+            83.85,
+            258.94,
+            105.33
+          ],
+          "block_id": "b6_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "It is recommended that the sum of any\nsystematic error and random error, specified by\nthe standard deviation, is not greater than:",
+          "bbox": [
+            70.72,
+            116.79,
+            290.41,
+            148.83
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 For measurement of luminous intensity:",
+          "bbox": [
+            83.08,
+            157.83,
+            282.07,
+            167.79
+          ],
+          "block_id": "b6_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00b1 5 percent or for the lower intensities\n\u00b1 2 cd/1000 lm, whichever is the greater.",
+          "bbox": [
+            94.36,
+            174.87,
+            290.29,
+            195.75
+          ],
+          "block_id": "b6_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 For measurement of angle:",
+          "bbox": [
+            83.08,
+            202.83,
+            220.01,
+            212.79
+          ],
+          "block_id": "b6_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3 Standard Test Conditions",
+          "bbox": [
+            304.6,
+            214.88,
+            455.11,
+            224.84
+          ],
+          "block_id": "b6_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u00b1 0.5\u00b0",
+          "bbox": [
+            94.36,
+            219.87,
+            120.42,
+            229.83
+          ],
+          "block_id": "b6_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The standard test conditions should be taken\nas:",
+          "bbox": [
+            304.6,
+            236.3,
+            524.28,
+            257.3
+          ],
+          "block_id": "b6_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.4 Selection of Apparatus and Testing\nProcedures",
+          "bbox": [
+            70.72,
+            239.85,
+            273.29,
+            261.33
+          ],
+          "block_id": "b6_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Luminaire\norientation\n: The luminaire should be\nsuspended in the position\nfor which it is designed to\noperate in service.",
+          "bbox": [
+            316.96,
+            267.26,
+            525.33,
+            310.22
+          ],
+          "block_id": "b6_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Apparatus and testing procedures listed in\nAnnex\nA\nare\nconsidered\nacceptable\nfor\nphotometry of street lighting luminaires within\nthe scope of these recommendations and to the\norder of accuracy nominated in  4.3 .",
+          "bbox": [
+            70.72,
+            271.83,
+            290.43,
+            325.88
+          ],
+          "block_id": "b6_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Light source : Fundamentally the photo-\nmeter should be calibrated\nwith the lamp, operated\nunder the same conditions\nfor\nwhich\nthe\nnominal\nluminous flux is measured.",
+          "bbox": [
+            316.96,
+            318.26,
+            525.42,
+            383.3
+          ],
+          "block_id": "b6_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.5 Calibration Procedures",
+          "bbox": [
+            70.72,
+            335.84,
+            210.09,
+            345.8
+          ],
+          "block_id": "b6_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The distribution photometer may be calibrated\neither by the relative or by the absolute (or\ndirect) method.",
+          "bbox": [
+            70.72,
+            356.31,
+            290.48,
+            388.23
+          ],
+          "block_id": "b6_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For most lamps this means\nfreely suspended in either\nhorizontal\nor\nvertical\nposition.",
+          "bbox": [
+            393.52,
+            391.34,
+            525.31,
+            434.3
+          ],
+          "block_id": "b6_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the relative method the luminous flux of the\nlamp(s) used for the test is obtained from\nmeasurement of intensity distributions in\nterms of arbitrary units of the photometer scale\nreading.\nIntensity\nmeasurements\non\nthe\nluminaire being tested are then made in the\nsame arbitrary units of scale reading. A\ndescription of this method is given in  8 .",
+          "bbox": [
+            70.72,
+            398.31,
+            290.49,
+            485.36
+          ],
+          "block_id": "b6_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If lamp data are published\nfor\nthe\nlamp\nin\nboth\nhorizontal\nand\nvertical\npositions,\nthe\nposition\nduring calibration should be\nthe same as the operating\nposition in the luminaire.",
+          "bbox": [
+            393.52,
+            442.34,
+            525.37,
+            518.29
+          ],
+          "block_id": "b6_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the absolute method both the lamp(s) and\nthe photometer are calibrated in absolute units\nagainst standard light sources of which the\nluminous flux (in lumens) or the intensity (in\ncandelas) are known.",
+          "bbox": [
+            70.72,
+            495.39,
+            290.51,
+            549.27
+          ],
+          "block_id": "b6_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Air movement\nand ambient\ntemperature",
+          "bbox": [
+            316.96,
+            526.33,
+            385.25,
+            558.25
+          ],
+          "block_id": "b6_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": ": Still air at 25\u00b0C in the\nvicinity of the luminaire, or\nbare\nlamp(s)\nwhen\ncalibrating the photometer.",
+          "bbox": [
+            385.0,
+            526.33,
+            525.35,
+            569.29
+          ],
+          "block_id": "b6_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 LABORATORY REQUIREMENTS FOR\nTESTS",
+          "bbox": [
+            70.72,
+            560.36,
+            281.31,
+            581.84
+          ],
+          "block_id": "b6_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Test ballasts\n: The same ballasts should be\nused\nfor\ntesting\nthe\nluminaire\nand\nthe\nbare\nlamps, and they should be\nrepresentative\nfor\nthe\nmanufacturer\u2019s\nnormal\nproduction.",
+          "bbox": [
+            316.96,
+            577.33,
+            525.39,
+            653.29
+          ],
+          "block_id": "b6_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1 General",
+          "bbox": [
+            70.72,
+            593.36,
+            129.32,
+            603.32
+          ],
+          "block_id": "b6_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Photometric tests on luminaires should be\ncarried out under the conditions and with the\ncorrections, where applicable, as described\nin  5.5 .",
+          "bbox": [
+            70.72,
+            614.78,
+            290.39,
+            657.8
+          ],
+          "block_id": "b6_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4 Practical Test Conditions",
+          "bbox": [
+            304.6,
+            668.36,
+            454.33,
+            678.32
+          ],
+          "block_id": "b6_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2 Object of Tests",
+          "bbox": [
+            70.72,
+            668.84,
+            164.6,
+            678.8
+          ],
+          "block_id": "b6_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "As it is virtually impossible to carry out\nphotometry on a lamp or luminaire without\nsome variation in ambient temperature and\nsome movement of air within its vicinity, tests\nshould be made to ensure that the laboratory",
+          "bbox": [
+            304.6,
+            689.78,
+            524.35,
+            743.78
+          ],
+          "block_id": "b6_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The object of the tests is to provide the users\nand manufacturers of luminaires with such\ninformation of the photometric characteristics\nof the luminaires under test that calculations\nof lighting installations may be carried out",
+          "bbox": [
+            70.72,
+            690.38,
+            290.55,
+            744.26
+          ],
+          "block_id": "b6_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            384.52,
+            55.29,
+            524.32,
+            67.29
+          ],
+          "block_id": "b7_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "conditions are satisfactory. Where the output of\na lamp or luminaire is affected by changes in\nambient temperature or air movement the\nrecommendations of  5.4.1  and  5.4.2  should be\nobserved. Usually these considerations only\napply when testing tubular fluorescent lamps\nor luminaires incorporating them, but may be\nimportant for some other types of discharge\nlamps.",
+          "bbox": [
+            70.72,
+            83.79,
+            290.52,
+            181.83
+          ],
+          "block_id": "b7_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5 Electric Power Supply",
+          "bbox": [
+            304.6,
+            83.85,
+            438.47,
+            93.81
+          ],
+          "block_id": "b7_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.5.1   Supply Voltage and Frequency",
+          "bbox": [
+            304.6,
+            103.35,
+            470.59,
+            113.5
+          ],
+          "block_id": "b7_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The voltage and frequency at the supply\nterminals of the luminaire, except where\ntungsten filament lamps are used should be\ntaken as the rated values marked on the\nluminaire. If not marked the rated voltage and\nfrequency of the ballast should be used.",
+          "bbox": [
+            304.6,
+            122.31,
+            524.34,
+            187.23
+          ],
+          "block_id": "b7_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.1   Ambient Temperature Variation",
+          "bbox": [
+            70.72,
+            195.27,
+            243.93,
+            205.42
+          ],
+          "block_id": "b7_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "During photometric measurements the supply\nvoltage and frequency should be maintained\nconstant within \u00b1 0.5 percent.",
+          "bbox": [
+            304.6,
+            196.35,
+            524.32,
+            228.27
+          ],
+          "block_id": "b7_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The mean ambient temperature t m  should be\nequal to 25 \u00b1 2\u00b0C throughout the test on the\nlamp or luminaire.",
+          "bbox": [
+            70.72,
+            218.67,
+            290.38,
+            250.59
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 It will be necessary to control the variation in\nvoltage and frequency to a closer tolerance when\nselecting tests lamps in accordance with  7.2 .",
+          "bbox": [
+            316.96,
+            235.67,
+            524.25,
+            261.69
+          ],
+          "block_id": "b7_19",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The\ndifference\nbetween\nmean\nambient\ntemperature t m  for the lamp during calibration\nand mean ambient temperature t m  for the\nluminaire during the test should not exceed\n2\u00b0C.",
+          "bbox": [
+            70.72,
+            264.03,
+            290.48,
+            318.03
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In\nthe\ncase\nof\nluminaires\nincorporating\ntungsten filament lamps the voltage should be\ncontrolled to within \u00b1 0.2 percent or better.",
+          "bbox": [
+            304.6,
+            270.27,
+            524.33,
+            302.31
+          ],
+          "block_id": "b7_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "It should be noted that many matt black paints\nhave a reflection factor as high as 4 percent\nwhen new and unmarked. For angles of\nincidence close to the plane of such surfaces the\nreflection factor is much higher. Where\npossible,\ntherefore,\nscreening\nshould\nbe\narranged so that stray light from the luminaire\nreaches the photocell only after two or more\nreflections from blackened surfaces. Where\nonly one surface can be provided it may be\nnecessary to cover it with black velvet, black\ncarpet, etc.",
+          "bbox": [
+            304.6,
+            311.31,
+            524.32,
+            442.35
+          ],
+          "block_id": "b7_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.2   Limits of Error Due to Air Movement",
+          "bbox": [
+            70.72,
+            331.47,
+            265.58,
+            341.62
+          ],
+          "block_id": "b7_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.2.1   General",
+          "bbox": [
+            70.72,
+            354.87,
+            141.12,
+            365.02
+          ],
+          "block_id": "b7_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Movement of air may be caused by draughts,\nair conditioning, or motion of the luminaire on\nthe photometer. It is recommended that the\nfollowing tests be made to ensure that the\nlaboratory conditions are satisfactory.",
+          "bbox": [
+            70.72,
+            378.27,
+            290.44,
+            432.15
+          ],
+          "block_id": "b7_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.4.2  Air movement due to draughts or air\nconditioning",
+          "bbox": [
+            70.72,
+            445.65,
+            290.42,
+            466.78
+          ],
+          "block_id": "b7_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Possible paths of stray light which should not\nbe overlooked are:",
+          "bbox": [
+            304.6,
+            451.35,
+            524.33,
+            472.35
+          ],
+          "block_id": "b7_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Luminaire \u2014 blackened surface (floor,\nscreen, etc) \u2014 mirror \u2014 photocell.",
+          "bbox": [
+            316.96,
+            479.31,
+            524.33,
+            500.31
+          ],
+          "block_id": "b7_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A bare lamp mounted on the photometer should\nbe stabilized, as in  8.2 , in the proposed\nlaboratory\nconditions,\nand\nthe\nluminous\nintensity in a specified direction measured at a\nknown\nambient\ntemperature.\nThe\nair\nconditioning plant should then be switched off,\nany remaining draughts reduced as far as\npracticable, and the lamp re-stabilized and the\nluminous intensity again measured at the same\nambient temperature.",
+          "bbox": [
+            70.72,
+            480.03,
+            290.48,
+            588.99
+          ],
+          "block_id": "b7_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Luminaire \u2014 blackened surface (floor,\nscreen, etc) \u2014 luminaire \u2014 mirror \u2014\nphotocell.",
+          "bbox": [
+            316.96,
+            506.31,
+            524.33,
+            538.35
+          ],
+          "block_id": "b7_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) Luminaire \u2014 mirror \u2014 luminaire \u2014\nmirror \u2014 photocell.",
+          "bbox": [
+            316.96,
+            544.35,
+            524.41,
+            565.35
+          ],
+          "block_id": "b7_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 REQUIREMENTS FOR TEST\nAPPARATUS",
+          "bbox": [
+            304.6,
+            576.44,
+            466.32,
+            597.8
+          ],
+          "block_id": "b7_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A similar test should be carried out on the\nluminaire.",
+          "bbox": [
+            70.72,
+            602.43,
+            290.39,
+            623.43
+          ],
+          "block_id": "b7_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1 General",
+          "bbox": [
+            304.6,
+            607.4,
+            363.2,
+            617.36
+          ],
+          "block_id": "b7_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The\nrequirements\nin\nthis\nclause\nare\nsupplementary to the laboratory conditions\ndescribed in  5 .",
+          "bbox": [
+            304.6,
+            626.79,
+            524.28,
+            658.88
+          ],
+          "block_id": "b7_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "These tests should be repeated for a number of\npositions of the lamp or luminaire in the\nphotometer.",
+          "bbox": [
+            70.72,
+            636.87,
+            290.41,
+            668.79
+          ],
+          "block_id": "b7_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2 Requirements for Photocells",
+          "bbox": [
+            304.6,
+            667.88,
+            470.15,
+            677.84
+          ],
+          "block_id": "b7_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.2.3   Satisfactory laboratory conditions",
+          "bbox": [
+            70.72,
+            682.23,
+            260.6,
+            692.38
+          ],
+          "block_id": "b7_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2.1   Performance of Photocells",
+          "bbox": [
+            304.6,
+            687.39,
+            448.21,
+            697.54
+          ],
+          "block_id": "b7_30",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Laboratory conditions may be considered\nsatisfactory, if the sum of the differences\nbetween the readings measured under  5.4.2.2\nand  5.4.2.3  does not exceed 2 percent.",
+          "bbox": [
+            70.72,
+            705.63,
+            290.55,
+            748.65
+          ],
+          "block_id": "b7_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The photocell and its measuring circuit should\nbe stable in operation and not subjected to\nfatigue when exposed to the maximum level of\nilluminance encountered.",
+          "bbox": [
+            304.6,
+            706.35,
+            524.35,
+            749.31
+          ],
+          "block_id": "b7_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            210.49,
+            67.29
+          ],
+          "block_id": "b8_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "However, for luminaires with an approxi-\nmately cosine distribution in planes passing\nthrough the long axis of the luminaire, the test\ndistance may be determined as:",
+          "bbox": [
+            304.6,
+            83.78,
+            524.38,
+            126.74
+          ],
+          "block_id": "b8_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The combination of photocell and measuring\ncircuit\nshould\npossess\nessentially\nlinear\nresponse to light up the maximum level of\nilluminance encountered.",
+          "bbox": [
+            70.72,
+            83.79,
+            290.44,
+            126.75
+          ],
+          "block_id": "b8_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The spectral sensitivity of the photocell should\nclosely follow the CIE spectral luminous\nefficiency curve. It is recommended that the\nstability of the spectral response be checked\nperiodically. A method of checking with colour\nfilters is given in Annex B.",
+          "bbox": [
+            70.72,
+            135.87,
+            290.51,
+            200.79
+          ],
+          "block_id": "b8_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "either : fifteen times the dimensions of the\nlight emitting part normal to the\nlamp axis,",
+          "bbox": [
+            316.96,
+            139.83,
+            525.38,
+            171.75
+          ],
+          "block_id": "b8_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "or\n: five times the dimension of the\nlight emitting part parallel to the\nlamp axis.",
+          "bbox": [
+            316.96,
+            181.83,
+            525.36,
+            213.75
+          ],
+          "block_id": "b8_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.2   Measurement of Photocell Output",
+          "bbox": [
+            70.72,
+            211.83,
+            249.55,
+            221.98
+          ],
+          "block_id": "b8_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The test distance to be used will be the larger\ndistance of these two.",
+          "bbox": [
+            304.6,
+            229.82,
+            524.31,
+            250.82
+          ],
+          "block_id": "b8_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The output of the photocell should be measured\nto an accuracy of \u00b1 1 percent. If automatic\nrecording\nequipment\nis\nused\nfor\nthe\nmeasurement of photo current, it is important\nthat the maximum inherent errors of the\nequipment\nare\ndetermined,\nfor\nexample,\ndelayed response to change in photo current,\nand lack of response (a finite dead zone) to\nsmall changes.",
+          "bbox": [
+            70.72,
+            230.79,
+            290.49,
+            328.83
+          ],
+          "block_id": "b8_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.3   Special Requirements for Mirrors",
+          "bbox": [
+            304.6,
+            265.82,
+            483.49,
+            275.97
+          ],
+          "block_id": "b8_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Any mirror used in the construction of a\ndistribution photometer should be rigidly\nsupported and kept flat in all normal positions\nof rotation. The variation of the reflectance\nfactor over its usable surface should not be\nmore than \u00b1 3 percent from the mean. This\nshould be checked at regular intervals using\nthe method described in  6.3.4  or a similar one.\nErrors introduced by mirrors may be caused by\none or more of the following factors:",
+          "bbox": [
+            304.6,
+            286.82,
+            524.35,
+            395.78
+          ],
+          "block_id": "b8_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.3  Additional Requirements for the Auxiliary\nPhotocell Used in the Monitored Light Source\nMethod",
+          "bbox": [
+            70.72,
+            339.93,
+            290.42,
+            371.98
+          ],
+          "block_id": "b8_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The auxiliary photocell used in the monitored\nlight source method should comply with the\nabove requirements. In addition, it should be\nshielded so as to respond only to light from the\ncentre position of the luminaire. The photocell\nmay be mounted at any convenient distance,\nbut should be rigidly fixed and rotate with the\nluminaire. The position chosen should not\ncause any disturbance of light reaching the\nmain photocell when at normal measuring\nposition.",
+          "bbox": [
+            70.72,
+            382.83,
+            290.52,
+            502.83
+          ],
+          "block_id": "b8_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) departures of the mirrored surface from a\nplane surface, for example, ripples in glass\ndue to method of support, sagging etc.",
+          "bbox": [
+            316.96,
+            402.86,
+            524.37,
+            434.78
+          ],
+          "block_id": "b8_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) variation in reflectance factor over the\nmain\nreflecting\nsurface\nof\nsilver,\naluminium, etc;",
+          "bbox": [
+            316.96,
+            441.86,
+            524.37,
+            473.78
+          ],
+          "block_id": "b8_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) variation in transmission through the\nglass, when the reflecting surface is on the\nrear side.",
+          "bbox": [
+            316.96,
+            480.86,
+            524.36,
+            512.78
+          ],
+          "block_id": "b8_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3 Requirements for Distribution\nPhotometers",
+          "bbox": [
+            70.72,
+            513.92,
+            249.4,
+            535.4
+          ],
+          "block_id": "b8_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d) light scattering due to scratches, dust, etc;\nand",
+          "bbox": [
+            316.96,
+            519.86,
+            524.26,
+            540.74
+          ],
+          "block_id": "b8_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.1   Selection of Performance",
+          "bbox": [
+            70.72,
+            544.83,
+            209.27,
+            554.97
+          ],
+          "block_id": "b8_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e) spectral selectivity.",
+          "bbox": [
+            316.96,
+            547.82,
+            417.37,
+            557.78
+          ],
+          "block_id": "b8_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The selection of a distribution photometer for\nuse in an industrial laboratory involves the\naspects of acceptable accuracy as discussed in  4\nas also laboratory space available. The choice\nlargely lies on one hand between:",
+          "bbox": [
+            70.72,
+            563.79,
+            290.41,
+            617.79
+          ],
+          "block_id": "b8_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.4  Testing of Mirrors for Variation in\nReflectance Factor",
+          "bbox": [
+            304.6,
+            572.83,
+            524.34,
+            593.97
+          ],
+          "block_id": "b8_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "By setting the photometer so that the effective\nposition of the photocell is at nadir and moving\na light source in a horizontal plane through the\noptical centre of the photometer, variation in\nthe reflectance factor of the mirror over the\narea traversed can be measured. The light\nsource should have an essentially uniform light\ndistribution in directions near the vertical, and\nthe apparent area should be approximately\n0.003 m 2  (that is, a 100 W inside white\nincandescent lamp) with the photocell placed in\nits normal position.",
+          "bbox": [
+            304.6,
+            604.82,
+            524.31,
+            735.75
+          ],
+          "block_id": "b8_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) mounting the luminaire on the normal\nservice position, or",
+          "bbox": [
+            83.08,
+            624.87,
+            290.47,
+            645.75
+          ],
+          "block_id": "b8_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) a test distance complying with the\nrecommendation below (  see   6.3.2  ).",
+          "bbox": [
+            83.08,
+            652.82,
+            290.38,
+            674.01
+          ],
+          "block_id": "b8_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.2   Test Distance",
+          "bbox": [
+            70.72,
+            682.82,
+            158.05,
+            692.97
+          ],
+          "block_id": "b8_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In general the test distance should not be less\nthan fifteen times the maximum dimension of\nthe light emitting part of the luminaires.",
+          "bbox": [
+            70.72,
+            701.78,
+            290.57,
+            733.82
+          ],
+          "block_id": "b8_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            384.52,
+            55.29,
+            524.32,
+            67.29
+          ],
+          "block_id": "b9_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The variation of the angle of incidence on the\nphotocell and of the distance between the\nphotocell and the light source, when moving\nthis, must be taken into account.",
+          "bbox": [
+            70.72,
+            83.79,
+            290.44,
+            126.75
+          ],
+          "block_id": "b9_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.3   Ageing of Lamps",
+          "bbox": [
+            304.6,
+            83.79,
+            407.26,
+            93.93
+          ],
+          "block_id": "b9_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "All lamps should be aged until the light output\nis shown by successive readings to be stable.\nAgeing should be carried out by cycle operation\nof the lamps close to their electrical design\nspecifications for a recommended minimum\nperiod of 100 h in the case of tungsten filament\nand tubular fluorescent lamps and 200 h for\nother lamps. A suggested cycle consists of\n15 min off period every 4 h. The position of\nlamps during ageing should be as follows:",
+          "bbox": [
+            304.6,
+            104.79,
+            524.36,
+            213.74
+          ],
+          "block_id": "b9_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Variation observed by such a test will be due\nto one or more of the causes listed under (a) to (d)\nof  6.3.3  above.",
+          "bbox": [
+            83.08,
+            134.15,
+            290.45,
+            160.17
+          ],
+          "block_id": "b9_3",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.5  Special Requirements for Luminaires\nMounted in Their Designed Operating Positions",
+          "bbox": [
+            70.72,
+            170.85,
+            290.43,
+            191.98
+          ],
+          "block_id": "b9_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Movement of the luminaires should be smooth,\nfree from rocking and in the case of luminaires\nusing tubular fluorescent lamps, sufficiently\nslow so as not to upset the air temperature\nwithin the luminaire (  see   5.4  ).",
+          "bbox": [
+            70.72,
+            202.83,
+            290.5,
+            257.02
+          ],
+          "block_id": "b9_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Tubular fluorescent \u2014 horizontal",
+          "bbox": [
+            316.96,
+            220.82,
+            482.81,
+            230.78
+          ],
+          "block_id": "b9_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Low pressure sodium \u2014 horizontal",
+          "bbox": [
+            316.96,
+            237.86,
+            489.72,
+            247.82
+          ],
+          "block_id": "b9_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the U bend type the plane through the\nlimbs should be vertical unless otherwise\nspecified.",
+          "bbox": [
+            304.6,
+            258.86,
+            524.27,
+            290.78
+          ],
+          "block_id": "b9_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Mirror Goninometer method is recommended\nfor accurate measurements. However in the absence of\nmirror goninometer other methods using convential\ngoninometer may be used.",
+          "bbox": [
+            83.08,
+            264.11,
+            290.44,
+            299.03
+          ],
+          "block_id": "b9_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            316.96,
+            298.19,
+            345.83,
+            306.11
+          ],
+          "block_id": "b9_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  The lamp should be marked to ensure that in\nsubsequent use it is operated in an identical position\nincluding its orientation about the long axis.",
+          "bbox": [
+            316.96,
+            313.19,
+            524.23,
+            339.11
+          ],
+          "block_id": "b9_23",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7 PREPARATION OF LAMPS AND\nLUMINAIRES FOR TESTS",
+          "bbox": [
+            70.72,
+            314.85,
+            252.06,
+            336.33
+          ],
+          "block_id": "b9_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2  After ageing any lamp showing an abnormal\ndistribution of metallic sodium should be discarded.",
+          "bbox": [
+            316.96,
+            346.19,
+            524.32,
+            363.11
+          ],
+          "block_id": "b9_24",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1 General",
+          "bbox": [
+            70.72,
+            347.85,
+            129.32,
+            357.81
+          ],
+          "block_id": "b9_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The preparation of lamps and luminaires for\ntesting should comply with the following\nrecommendations.",
+          "bbox": [
+            70.72,
+            369.27,
+            290.43,
+            401.31
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If the lamp is of a type which is intended to be\nused either horizontally or vertically the\nstability should be checked for both positions.",
+          "bbox": [
+            304.6,
+            375.87,
+            524.23,
+            407.79
+          ],
+          "block_id": "b9_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2 Test Lamps",
+          "bbox": [
+            70.72,
+            412.41,
+            147.58,
+            422.37
+          ],
+          "block_id": "b9_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.2.4   Stability of Lamps",
+          "bbox": [
+            304.6,
+            420.87,
+            415.49,
+            431.02
+          ],
+          "block_id": "b9_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.2.1   Selection of Lamps for Test",
+          "bbox": [
+            70.72,
+            433.83,
+            220.47,
+            443.98
+          ],
+          "block_id": "b9_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Lamps should be regarded as stable when the\nvariation in luminous flux during consecutive\nswitch-ons is not greater than \u00b1 1 percent, and\nwhen the variation between the mean values\nfor any consecutive switch-ons is not greater\nthan 2 percent.",
+          "bbox": [
+            304.6,
+            443.79,
+            524.3,
+            508.83
+          ],
+          "block_id": "b9_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The lamps selected for test should comply with\nthe\nrelevant\nIndian\nstandards.\nIf\nsuch\nstandards do not exist, the lamps should\ncomply as close as possible with the nominal\nspecifications of the lamp manufacturer. In the\ncase of tubular fluorescent lamps, the variation\nfrom a uniform circular distribution in a plane\nat right angles to the axis should not exceed 3\npercent.",
+          "bbox": [
+            70.72,
+            454.83,
+            290.48,
+            552.75
+          ],
+          "block_id": "b9_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.5   Tests for Lamp Stability",
+          "bbox": [
+            304.6,
+            521.79,
+            441.93,
+            531.94
+          ],
+          "block_id": "b9_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Tests may be made either by measurement of\ntotal flux in an integrating sphere or by\nmeasurement of luminous intensity in one\ndirection at 90\u00b0 to the lamp axis in a\ndistribution photometer.",
+          "bbox": [
+            304.6,
+            544.83,
+            524.37,
+            598.83
+          ],
+          "block_id": "b9_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Lamps for\nmultiple\nlamp\nluminaires, if\nintended to be of the same type and wattage,\nshould be matched for light output within a\nspread of 3 percent when operated on the same\nsupply and ballast circuit. They may then be\nused in calibration and test without regard to\nthe light output which might be obtained on the\ncircuits of the luminaire ballasts.",
+          "bbox": [
+            70.72,
+            563.79,
+            290.52,
+            650.79
+          ],
+          "block_id": "b9_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The lamps should not be moved between\nmeasurements.",
+          "bbox": [
+            304.6,
+            611.79,
+            524.29,
+            632.79
+          ],
+          "block_id": "b9_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For tubular fluorescent lamps air temperature\nin the vicinity of the lamp should be stable\nthroughout this test, and the air draughtfree\n(  see   5.4.2  ).",
+          "bbox": [
+            304.6,
+            645.87,
+            524.25,
+            689.02
+          ],
+          "block_id": "b9_31",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The lamp should furthermore comply with the\nspecifications given in  7.2.2  and  7.2.4 .",
+          "bbox": [
+            70.72,
+            661.83,
+            290.37,
+            682.88
+          ],
+          "block_id": "b9_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.2.2   Diffusing Quality of Lamps Bulb",
+          "bbox": [
+            70.72,
+            693.87,
+            247.25,
+            704.02
+          ],
+          "block_id": "b9_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.2.6   Handling of Aged Lamps",
+          "bbox": [
+            304.6,
+            701.79,
+            445.59,
+            711.94
+          ],
+          "block_id": "b9_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "For lamps with a phosphor or diffuse coating of\nthe bulb should correspond to the average of\nthe production.",
+          "bbox": [
+            70.72,
+            714.87,
+            290.45,
+            746.79
+          ],
+          "block_id": "b9_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Aged lamps should be carefully handled. This is\nparticularly important for low pressure sodium",
+          "bbox": [
+            304.6,
+            724.83,
+            524.27,
+            745.83
+          ],
+          "block_id": "b9_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            210.49,
+            67.29
+          ],
+          "block_id": "b10_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "It\nis\nrecommended\nthat\nthe\nfollowing\nconventions are adopted, where possible.",
+          "bbox": [
+            304.6,
+            83.78,
+            524.26,
+            104.78
+          ],
+          "block_id": "b10_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "lamps both when hot and cold because a sudden\nmovement can alter the distribution of sodium\nwithin the arc tube.",
+          "bbox": [
+            70.72,
+            83.79,
+            290.41,
+            115.83
+          ],
+          "block_id": "b10_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Tungsten filament lamps with a ring-type\nfilament should be positioned so that the\nfilament gap faces across the street. A\nplane-type filament should be aligned so that\nthe filament lies in the C = 0\u00b0 and C = 180\u00b0\nhalf-planes (  see   3.5  ).",
+          "bbox": [
+            304.6,
+            116.78,
+            524.36,
+            182.01
+          ],
+          "block_id": "b10_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.7   Mounting of Bare Lamps in Photometer",
+          "bbox": [
+            70.72,
+            126.87,
+            278.18,
+            137.02
+          ],
+          "block_id": "b10_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "It is most important that curing calibration of\nthe distribution photometer the bare lamp or\nlamps are mounted in the position for which\nthey are specially designed or for which the\nlamp photometric data are normally prepared.\nFor example, most low pressure sodium lamps\nshould be mounted horizontally, since except\nfor the lowest wattage they will not operate\nsatisfactorily in any other orientation. Tubular\nfluorescent\nlamps\nshould\nbe\nmounted\nhorizontally as lamp data are usually only\nprepared for that condition.",
+          "bbox": [
+            70.72,
+            147.87,
+            290.51,
+            278.79
+          ],
+          "block_id": "b10_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Low pressure sodium lamps of the \u2018U\u2019 tube type\nshould be mounted so that the plane through\nthe\ntwo\ntubes\nis\nvertical,\nunless\nthe\nmanufacturer has specified otherwise. Low\npressure sodium lamps of the linear type\nshould be mounted so that the plane containing\nthe profile of the grooves is vertical, unless the\nmanufacturer has specified otherwise.",
+          "bbox": [
+            304.6,
+            193.82,
+            524.33,
+            280.82
+          ],
+          "block_id": "b10_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Lamps of the type designed for universal\nmounting such as some types of high pressure\nmercury vapour lamps can be mounted in\neither position provided lamp photometric data\nare published for the position chosen, but\npreferably in the same position as the operating\nposition in the luminaire. In such cases the\norientation of the lamp during calibration\nshould be included in the test report.",
+          "bbox": [
+            70.72,
+            289.83,
+            290.51,
+            387.75
+          ],
+          "block_id": "b10_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "High pressure sodium or mercury vapour lamps\nwhen mounted vertically should be arranged so\nthat the arc tube support rods are in a vertical\nplane perpendicular to the kerb lines. If there is\nonly one support rod it should be located\ntowards the house side. When such lamps are\nmounted horizontally the arc tube support rods\nshould preferably be in a vertical plane. If there\nis only one rod it should be located towards the\nzenith.",
+          "bbox": [
+            304.6,
+            292.82,
+            524.32,
+            401.78
+          ],
+          "block_id": "b10_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3 Test Ballast",
+          "bbox": [
+            70.72,
+            398.84,
+            149.25,
+            408.8
+          ],
+          "block_id": "b10_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A\nsmall\nvariation\nfrom\nthe\nabove\nrecommendations, which does not significantly\nchange the light distribution, is permissible.",
+          "bbox": [
+            304.6,
+            413.78,
+            524.3,
+            445.82
+          ],
+          "block_id": "b10_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.1   General",
+          "bbox": [
+            70.72,
+            420.39,
+            132.6,
+            430.54
+          ],
+          "block_id": "b10_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The output of the luminaire is affected by the\nballast used. In the case of tubular fluorescent\nlamps of the ballast position and method of\nattachment are also important, and they should\nbe positioned as intended by the luminaire\nmanufacturers.",
+          "bbox": [
+            70.72,
+            441.39,
+            290.44,
+            506.31
+          ],
+          "block_id": "b10_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The alignment of the lamp should be recorded\nin the test report.",
+          "bbox": [
+            304.6,
+            457.82,
+            524.24,
+            478.82
+          ],
+          "block_id": "b10_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4.3   Mounting of Luminaire in Photometer",
+          "bbox": [
+            304.6,
+            490.82,
+            504.98,
+            500.96
+          ],
+          "block_id": "b10_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The luminaire should be mounted in the\ndistribution photometer so that the photometer\nlight centre of the luminaire (  see   7.4.4  )\ncorresponds with the optical centre of the\nphotometer.",
+          "bbox": [
+            304.6,
+            512.78,
+            524.32,
+            566.78
+          ],
+          "block_id": "b10_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ballasts used for test on the luminaire should\ncomply with the specification in  5.3 .",
+          "bbox": [
+            70.72,
+            517.35,
+            290.37,
+            538.4
+          ],
+          "block_id": "b10_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4 Preparation of Luminaires for Test",
+          "bbox": [
+            70.72,
+            549.44,
+            270.23,
+            559.4
+          ],
+          "block_id": "b10_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.1   Selection of Luminaire",
+          "bbox": [
+            70.72,
+            570.87,
+            200.37,
+            581.01
+          ],
+          "block_id": "b10_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The luminaires should be levelled according to\nthe manufacturer\u2019s instructions so that its\nalignment is mechanically true.",
+          "bbox": [
+            304.6,
+            578.78,
+            524.24,
+            610.81
+          ],
+          "block_id": "b10_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The luminaire selected for test should be\nrepresentative of the manufacturer\u2019s regular\nproduct.",
+          "bbox": [
+            70.72,
+            591.87,
+            290.43,
+            623.79
+          ],
+          "block_id": "b10_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If instructions are not provided, then the plane\ncontaining the lower edge of the luminaire\ncanopy (or the plane containing the reflector\nopening if this is lower) should be taken as one\nreference and the longitudinal axis, determined\nfrom the outer edges of the luminaire, when\nviewed in plan, should be taken as the second\nreference.",
+          "bbox": [
+            304.6,
+            622.81,
+            524.38,
+            709.81
+          ],
+          "block_id": "b10_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The optical parts should be clean, and all\ncomponents rigidly located in their designed\npositions.",
+          "bbox": [
+            70.72,
+            634.83,
+            290.52,
+            666.74
+          ],
+          "block_id": "b10_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4.2   Alignment of Lamp in Luminaire",
+          "bbox": [
+            70.72,
+            679.82,
+            249.3,
+            689.97
+          ],
+          "block_id": "b10_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The photometric distribution of a luminaire is\nsomewhat dependent upon the alignment of the\nlamp in relation to the position of a filament\ngap, arc tube support, etc.",
+          "bbox": [
+            70.72,
+            700.82,
+            290.49,
+            743.78
+          ],
+          "block_id": "b10_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The mounting of the luminaire should also\ncomply with.",
+          "bbox": [
+            304.6,
+            721.81,
+            524.29,
+            742.81
+          ],
+          "block_id": "b10_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b10_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            384.52,
+            55.29,
+            524.32,
+            67.29
+          ],
+          "block_id": "b11_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.4   Photometric Light Centre",
+          "bbox": [
+            70.72,
+            83.79,
+            212.32,
+            93.94
+          ],
+          "block_id": "b11_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.3 Calibration of Distribution\nPhotometer Relative Method",
+          "bbox": [
+            304.6,
+            83.84,
+            464.57,
+            105.32
+          ],
+          "block_id": "b11_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The position of the photometric light centre of\nthe\nluminaire\nshould\nbe\ndetermined\nin\naccordance with the following paragraphs:",
+          "bbox": [
+            70.72,
+            106.83,
+            290.37,
+            138.75
+          ],
+          "block_id": "b11_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The principle underlying the relative method of\ncalibration is",
+          "bbox": [
+            304.6,
+            116.79,
+            524.23,
+            137.79
+          ],
+          "block_id": "b11_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) At the lamp centre, if this is positioned\nbelow the plane of the lower edge of the\nluminaire canopy (or the plane of the\nreflector opening if this is lower).",
+          "bbox": [
+            83.08,
+            147.87,
+            290.43,
+            190.83
+          ],
+          "block_id": "b11_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            332.32,
+            152.04,
+            493.6,
+            191.28
+          ],
+          "block_id": "img11_30"
+        },
+        {
+          "type": "text",
+          "content": "b) At the intersection of the vertical axis\npassing through the lamp centre with the\nplane of the lower edge of the luminaire\ncanopy (or the plane of the reflector\nopening if this is lower), if the lamp centre\nis positioned above the said plane.",
+          "bbox": [
+            83.08,
+            199.83,
+            290.5,
+            264.75
+          ],
+          "block_id": "b11_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            304.6,
+            207.51,
+            332.98,
+            217.47
+          ],
+          "block_id": "b11_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "x   = luminous flux of lamp No. x, in\narbitrary units calculated from the\nreadings of the photometer without\nconverting these readings to absolute\nintensity units (candelas);",
+          "bbox": [
+            324.88,
+            224.55,
+            524.4,
+            278.55
+          ],
+          "block_id": "b11_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            317.08,
+            224.88,
+            323.8,
+            234.72
+          ],
+          "block_id": "img11_31"
+        },
+        {
+          "type": "text",
+          "content": "c) For luminaires with more than one lamp\nthe lamp centre is taken as being at the\ngeometric centre of the individual lamp\ncentres.",
+          "bbox": [
+            83.08,
+            273.87,
+            290.45,
+            316.83
+          ],
+          "block_id": "b11_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "n = number of lamps in luminaire;",
+          "bbox": [
+            318.76,
+            285.51,
+            479.82,
+            295.47
+          ],
+          "block_id": "b11_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I C,\n(1 000)   = luminous intensity of the lamp\nin the direction C, per 1 000\nlumens; and",
+          "bbox": [
+            316.96,
+            302.55,
+            524.37,
+            334.47
+          ],
+          "block_id": "b11_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            329.92,
+            308.28,
+            333.76,
+            313.68
+          ],
+          "block_id": "img11_32"
+        },
+        {
+          "type": "text",
+          "content": "8 METHODS AND PROCEDURES FOR\nTEST APPARATUS",
+          "bbox": [
+            70.72,
+            337.89,
+            273.87,
+            359.37
+          ],
+          "block_id": "b11_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "R C,\n= reading of the photometer for the\ndirection C, .",
+          "bbox": [
+            316.96,
+            341.55,
+            524.26,
+            362.55
+          ],
+          "block_id": "b11_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            333.16,
+            347.28,
+            337.0,
+            352.68
+          ],
+          "block_id": "img11_33"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            400.6,
+            354.48,
+            406.36,
+            361.2
+          ],
+          "block_id": "img11_34"
+        },
+        {
+          "type": "text",
+          "content": "8.3.1   Determination of\nx",
+          "bbox": [
+            304.6,
+            373.59,
+            422.85,
+            385.55
+          ],
+          "block_id": "b11_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1 General",
+          "bbox": [
+            70.72,
+            373.89,
+            129.32,
+            383.85
+          ],
+          "block_id": "b11_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            410.8,
+            373.92,
+            417.52,
+            383.76
+          ],
+          "block_id": "img11_35"
+        },
+        {
+          "type": "text",
+          "content": "x  is determined from a number of intensity\nreadings and calculated by means of a suitable\nprocedure, for example, direct calculation,\nRussel angles, zone factors, etc.",
+          "bbox": [
+            304.6,
+            394.59,
+            524.35,
+            437.55
+          ],
+          "block_id": "b11_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            304.72,
+            394.92,
+            311.44,
+            404.76
+          ],
+          "block_id": "img11_36"
+        },
+        {
+          "type": "text",
+          "content": "The stabilization of the lamps and luminaire,\nthe calibration of the photometer and the\nprocedures for testing should comply with the\nprovisions in this section.",
+          "bbox": [
+            70.72,
+            398.31,
+            290.46,
+            441.27
+          ],
+          "block_id": "b11_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The necessary number of intensity readings\nwill depend on the light distribution, but in\ngeneral 18 to 20 readings in each of 12 to 20\nvertical half-planes will be adequate.",
+          "bbox": [
+            304.6,
+            448.59,
+            524.33,
+            491.55
+          ],
+          "block_id": "b11_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2 Stabilization of the Lamps, Luminaire\nand Photometer",
+          "bbox": [
+            70.72,
+            455.37,
+            288.31,
+            476.85
+          ],
+          "block_id": "b11_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The lamps, luminaire and measuring devices\ncan be regarded having reached stability when\nthe\nvariation\nbetween\nthree\nsuccessive\nreadings of luminous intensity of flux at\nintervals of not less than 15 min does not\nexceed 1 percent.",
+          "bbox": [
+            70.72,
+            491.31,
+            290.51,
+            556.35
+          ],
+          "block_id": "b11_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For lamp types for which certain assumptions\non the light distribution can be made, fewer\nreadings may be sufficient. The accuracy of\nsuch a simplified procedure should, in these\ncases, be verified.",
+          "bbox": [
+            304.6,
+            502.59,
+            524.35,
+            556.47
+          ],
+          "block_id": "b11_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.3.2   Calibration of the Photometer",
+          "bbox": [
+            304.6,
+            567.51,
+            466.18,
+            577.66
+          ],
+          "block_id": "b11_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Experience may show that a bare incandescent\nlamps is sufficiently stable within 10 min, and\nmost gaseous discharge lamps after 30 min\noperation. For metal halide lamps, however,\nthe stabilization time may vary between 30 min\nand 6 h.",
+          "bbox": [
+            70.72,
+            570.39,
+            290.51,
+            635.31
+          ],
+          "block_id": "b11_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The photometer can be calibrated according to\nthe principle described in  8.3.1  measuring the\nlamp or lamps just prior to or immediately after\nthe measurement of the luminaire.",
+          "bbox": [
+            304.6,
+            588.51,
+            524.42,
+            631.47
+          ],
+          "block_id": "b11_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A detailed description of how the calibration\nmay be carried out is given in Annex C.",
+          "bbox": [
+            304.6,
+            642.51,
+            524.36,
+            663.51
+          ],
+          "block_id": "b11_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The stabilization period of luminaires may be\nmuch greater than that for the respective bare\nlamps, particularly in the case of tubular\nfluorescent lamps which may require periods in\nexcess of 2 h.",
+          "bbox": [
+            70.72,
+            649.35,
+            290.4,
+            703.35
+          ],
+          "block_id": "b11_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Precautions should be taken to ensure that the\ngiven direction can be reproduced in the\nphotometer, for example, by marking the lamp\nand the direction should be so chosen that the\nvariation of the luminous intensity with the\nangle is small.",
+          "bbox": [
+            304.6,
+            674.55,
+            524.3,
+            739.47
+          ],
+          "block_id": "b11_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Care should be taken to stabilize the measuring\ncircuits and associated devices.",
+          "bbox": [
+            70.72,
+            717.39,
+            290.41,
+            738.27
+          ],
+          "block_id": "b11_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b11_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img11_30",
+          "bbox": [
+            332.32,
+            152.04,
+            493.6,
+            191.28
+          ]
+        },
+        {
+          "block_id": "img11_31",
+          "bbox": [
+            317.08,
+            224.88,
+            323.8,
+            234.72
+          ]
+        },
+        {
+          "block_id": "img11_32",
+          "bbox": [
+            329.92,
+            308.28,
+            333.76,
+            313.68
+          ]
+        },
+        {
+          "block_id": "img11_33",
+          "bbox": [
+            333.16,
+            347.28,
+            337.0,
+            352.68
+          ]
+        },
+        {
+          "block_id": "img11_34",
+          "bbox": [
+            400.6,
+            354.48,
+            406.36,
+            361.2
+          ]
+        },
+        {
+          "block_id": "img11_35",
+          "bbox": [
+            410.8,
+            373.92,
+            417.52,
+            383.76
+          ]
+        },
+        {
+          "block_id": "img11_36",
+          "bbox": [
+            304.72,
+            394.92,
+            311.44,
+            404.76
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img11_30": 4
+      }
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            210.49,
+            67.29
+          ],
+          "block_id": "b12_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The position of the lamp axis should be as\nrecommended in  7.2.7 . Lamps should be\ncarefully positioned in the photometer, using\nany convenient method, so that their axis is\neither vertical or horizontal, which is relevant.\nIt is not advisable to simply insert the lamp\ninto the lampholder and assume it is correctly\naligned. Lamps fitted with bayonet caps may\nrequire a modified lampholder to provide a\nsufficiently rigid support.",
+          "bbox": [
+            70.72,
+            83.79,
+            290.53,
+            192.75
+          ],
+          "block_id": "b12_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.4 Procedure for Measurements on the\nDistribution Photometer \u2014 Lamps and\nLuminaire in Standard Test Condition",
+          "bbox": [
+            304.6,
+            83.85,
+            511.54,
+            116.85
+          ],
+          "block_id": "b12_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When the lamps and luminaire are located in\nthe distribution photometer in accordance\nwith  5.3  and laboratory temperature variation\ncomplies with  5.4.1  then measurements can be\nreported as relating to the standard laboratory\ntest condition.",
+          "bbox": [
+            304.6,
+            128.31,
+            524.28,
+            193.23
+          ],
+          "block_id": "b12_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Precautions should be taken to avoid the\ncreation of cool spots with tubular fluorescent\nlamps. The light output of a tubular fluorescent\nlamp operated in some multi-lamp circuits is\naffected by the operating temperature of the\nother lamp (or lamps) in the same circuit. In\nsuch cases the other lamps not under test\nshould remain energised, but should be freely\nsuspended horizontally outside the luminaire,\nin still air at 25\u00b0C. It should not be necessary to\nremove the ballast from the luminaire for\nphotometric measurement on the lamp.",
+          "bbox": [
+            70.72,
+            203.79,
+            290.51,
+            334.83
+          ],
+          "block_id": "b12_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9 TEST REPORT",
+          "bbox": [
+            304.6,
+            212.37,
+            391.71,
+            222.33
+          ],
+          "block_id": "b12_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9.1 General",
+          "bbox": [
+            304.6,
+            233.85,
+            363.2,
+            243.81
+          ],
+          "block_id": "b12_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following list is intended as a guide to the\ninformation which should be included in a test\nreport covering photometric measurements on\na luminaire.",
+          "bbox": [
+            304.6,
+            255.27,
+            524.33,
+            298.23
+          ],
+          "block_id": "b12_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The purpose of this information should be:",
+          "bbox": [
+            304.6,
+            309.27,
+            500.52,
+            319.23
+          ],
+          "block_id": "b12_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) to correctly inform the user of the data as\nto the nature of the various controlled\nconditions under which the luminaire was\nmeasured; and",
+          "bbox": [
+            316.96,
+            326.31,
+            524.31,
+            369.27
+          ],
+          "block_id": "b12_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The precautions under  7.2.7  relating to low\npressure sodium lamps should be observed.",
+          "bbox": [
+            70.72,
+            345.87,
+            290.39,
+            366.75
+          ],
+          "block_id": "b12_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b) to give sufficient information so as to\nrelate the photometric information to the\nparticular\nluminaire\ntested.\nWithout\nwhich the report may become quite\nmeaningless.",
+          "bbox": [
+            316.96,
+            376.35,
+            524.36,
+            430.35
+          ],
+          "block_id": "b12_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A check on lamp stability should be made at\nintervals during the test by comparing readings\ntaken at the nadir. The drift in such readings\nshould not exceed 2 percent.",
+          "bbox": [
+            70.72,
+            377.79,
+            290.56,
+            420.75
+          ],
+          "block_id": "b12_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 It may be necessary to sight from the photocell\nposition to ensure that the view of the lamp is not\nobstructed by the supporting structure. Should this be\nunavoidable at some angles then the reading at these\nangles may be interpolated from measurements either\nside or alternatively taken as equal to the reading\ndiametrically opposite.",
+          "bbox": [
+            83.08,
+            428.15,
+            290.47,
+            490.07
+          ],
+          "block_id": "b12_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.2 Description of Luminaire",
+          "bbox": [
+            304.6,
+            441.44,
+            453.56,
+            451.4
+          ],
+          "block_id": "b12_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a) Manufacturer\u2019s name, type, catalogue\nnumber; and",
+          "bbox": [
+            316.96,
+            458.79,
+            524.18,
+            479.79
+          ],
+          "block_id": "b12_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Rated voltage and frequency.",
+          "bbox": [
+            316.96,
+            486.87,
+            463.13,
+            496.83
+          ],
+          "block_id": "b12_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "However, most lamps if carefully handled,\nmaintain a constant light distribution through-\nout the life, which means that the ratio:",
+          "bbox": [
+            70.72,
+            500.79,
+            290.46,
+            532.83
+          ],
+          "block_id": "b12_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.3 Ballasts (and Auxiliary Starting\nTransformers)",
+          "bbox": [
+            304.6,
+            507.92,
+            490.04,
+            529.4
+          ],
+          "block_id": "b12_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a) Manufacturer\u2019s\nname,\ntype\ncatalogue\nnumber;",
+          "bbox": [
+            316.96,
+            536.78,
+            524.22,
+            557.78
+          ],
+          "block_id": "b12_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            140.32,
+            542.4,
+            220.0,
+            569.04
+          ],
+          "block_id": "img12_36"
+        },
+        {
+          "type": "text",
+          "content": "b) Type of circuit, for example, single or\nmulti lamp, switch or quick start;",
+          "bbox": [
+            316.96,
+            564.86,
+            524.33,
+            585.74
+          ],
+          "block_id": "b12_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            70.72,
+            581.91,
+            99.1,
+            591.87
+          ],
+          "block_id": "b12_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) Rated voltage, wattage and frequency;",
+          "bbox": [
+            316.96,
+            592.82,
+            504.71,
+            602.78
+          ],
+          "block_id": "b12_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R\n= reading of the photometer in the given\ndirection;",
+          "bbox": [
+            84.16,
+            599.9,
+            291.37,
+            620.78
+          ],
+          "block_id": "b12_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            91.48,
+            605.4,
+            96.28,
+            611.16
+          ],
+          "block_id": "img12_37"
+        },
+        {
+          "type": "text",
+          "content": "d) Method of mounting;",
+          "bbox": [
+            316.96,
+            609.86,
+            425.23,
+            619.82
+          ],
+          "block_id": "b12_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e) Marked operating temperature; and",
+          "bbox": [
+            316.96,
+            626.78,
+            494.93,
+            636.74
+          ],
+          "block_id": "b12_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I\n= the luminous intensity in the given\ndirection; and",
+          "bbox": [
+            87.52,
+            626.9,
+            291.36,
+            647.78
+          ],
+          "block_id": "b12_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            91.48,
+            632.4,
+            96.28,
+            638.16
+          ],
+          "block_id": "img12_38"
+        },
+        {
+          "type": "text",
+          "content": "f) Capacitive circuit, if used.",
+          "bbox": [
+            316.96,
+            643.82,
+            446.93,
+            653.78
+          ],
+          "block_id": "b12_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "= luminous flux from the lamp.",
+          "bbox": [
+            101.32,
+            653.9,
+            246.44,
+            663.86
+          ],
+          "block_id": "b12_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            88.6,
+            654.72,
+            95.32,
+            664.56
+          ],
+          "block_id": "img12_39"
+        },
+        {
+          "type": "text",
+          "content": "9.4 Test Lamps",
+          "bbox": [
+            304.6,
+            664.88,
+            381.46,
+            674.84
+          ],
+          "block_id": "b12_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "will be constant.",
+          "bbox": [
+            70.72,
+            675.87,
+            146.4,
+            685.83
+          ],
+          "block_id": "b12_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Manufacturer\u2019s\nname,\ntype,\nrelevant\ndimensions;",
+          "bbox": [
+            316.96,
+            682.34,
+            524.32,
+            703.34
+          ],
+          "block_id": "b12_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If this ratio has been determined previously for\nthe test lamp, it will in subsequent luminaire\nmeasurements, in which the same lamp is used,\nbe sufficient to measure the photometer\nreading for the lamp in the given direction.",
+          "bbox": [
+            70.72,
+            694.83,
+            290.48,
+            748.83
+          ],
+          "block_id": "b12_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Rated lumen output and orientation of the\nlamp for which this output was given;",
+          "bbox": [
+            316.96,
+            710.3,
+            524.29,
+            731.3
+          ],
+          "block_id": "b12_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) Colour;",
+          "bbox": [
+            316.96,
+            738.38,
+            361.1,
+            748.34
+          ],
+          "block_id": "b12_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10",
+          "bbox": [
+            292.0,
+            764.19,
+            303.06,
+            774.15
+          ],
+          "block_id": "b12_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img12_36",
+          "bbox": [
+            140.32,
+            542.4,
+            220.0,
+            569.04
+          ]
+        },
+        {
+          "block_id": "img12_37",
+          "bbox": [
+            91.48,
+            605.4,
+            96.28,
+            611.16
+          ]
+        },
+        {
+          "block_id": "img12_38",
+          "bbox": [
+            91.48,
+            632.4,
+            96.28,
+            638.16
+          ]
+        },
+        {
+          "block_id": "img12_39",
+          "bbox": [
+            88.6,
+            654.72,
+            95.32,
+            664.56
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img12_39": 5
+      }
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            384.52,
+            55.29,
+            524.32,
+            67.29
+          ],
+          "block_id": "b13_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d) Rated watts;",
+          "bbox": [
+            83.08,
+            83.79,
+            153.65,
+            93.75
+          ],
+          "block_id": "b13_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "method of calibration of the photometer\nand\nalignment\nof\nlamp\nwithin\nthe\nluminaire (  see   4.5  and  7.4.2  ).",
+          "bbox": [
+            328.24,
+            83.79,
+            524.31,
+            116.02
+          ],
+          "block_id": "b13_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e) Diffusing quality of lamps (  see   7.2.2  );",
+          "bbox": [
+            83.08,
+            100.83,
+            271.13,
+            110.98
+          ],
+          "block_id": "b13_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "f) If universal mounting operating position\nduring\ncalibration\nof\ndistribution\nphotometer (  see   7.2.2  ); and",
+          "bbox": [
+            83.08,
+            117.87,
+            290.39,
+            149.98
+          ],
+          "block_id": "b13_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b) Test distance.",
+          "bbox": [
+            316.96,
+            122.79,
+            392.81,
+            132.75
+          ],
+          "block_id": "b13_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.6 Test Results",
+          "bbox": [
+            304.6,
+            143.85,
+            385.29,
+            153.81
+          ],
+          "block_id": "b13_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "g) Alignment of lamp in luminaire (  see\n7.4.2  ).",
+          "bbox": [
+            83.08,
+            156.87,
+            290.42,
+            177.81
+          ],
+          "block_id": "b13_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a) Polar curve is one or more vertical\nhalf-planes (  see   3.5  ),",
+          "bbox": [
+            316.96,
+            160.35,
+            524.29,
+            181.42
+          ],
+          "block_id": "b13_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b) Conical light distribution,",
+          "bbox": [
+            316.96,
+            187.35,
+            447.98,
+            197.31
+          ],
+          "block_id": "b13_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.5 Test Procedure",
+          "bbox": [
+            70.72,
+            190.89,
+            167.51,
+            200.85
+          ],
+          "block_id": "b13_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c) Isocandela diagram, and",
+          "bbox": [
+            316.96,
+            203.31,
+            441.09,
+            213.27
+          ],
+          "block_id": "b13_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Description of photometric procedure and\nequipment used. This should include the",
+          "bbox": [
+            83.08,
+            208.35,
+            290.36,
+            229.23
+          ],
+          "block_id": "b13_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d) Light output ratio.",
+          "bbox": [
+            316.96,
+            219.27,
+            415.01,
+            229.23
+          ],
+          "block_id": "b13_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nA",
+          "bbox": [
+            263.56,
+            280.17,
+            331.47,
+            292.17
+          ],
+          "block_id": "b13_15",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Clause  4.4 )",
+          "bbox": [
+            267.4,
+            300.27,
+            327.6,
+            310.42
+          ],
+          "block_id": "b13_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SELECTION OF TESTING APPARATUS AND TESTING PROCEDURE",
+          "bbox": [
+            116.68,
+            318.33,
+            478.3,
+            328.29
+          ],
+          "block_id": "b13_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Procedure\nNo.\nOrientation of Luminaire\n(5.3 and 5.4.3)\nApparatus and Procedure\n(6.3.1)\nComments\n(  see  6.2.1\nand 6.3.5 )",
+          "bbox": [
+            77.32,
+            341.56,
+            509.38,
+            371.56
+          ],
+          "block_id": "b13_28",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1\nStandard\nDistribution photometer\nwithout mirror\nsee  6.2.1 to 6.3.3\n6.3.4 to 6.3.5",
+          "bbox": [
+            99.16,
+            377.31,
+            524.34,
+            398.31
+          ],
+          "block_id": "b13_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nStandard\nDistribution photometer\nwith mirror(s)",
+          "bbox": [
+            99.16,
+            404.31,
+            418.49,
+            425.31
+          ],
+          "block_id": "b13_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nB",
+          "bbox": [
+            263.44,
+            479.13,
+            331.58,
+            491.13
+          ],
+          "block_id": "b13_18",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Clause  6.2.1 )",
+          "bbox": [
+            263.32,
+            499.35,
+            331.8,
+            509.5
+          ],
+          "block_id": "b13_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "METHOD OF CHECKING STABILITY OF SPECIAL RESPONSE OF A\nPHOTO-ELECTRIC CELL USING COLOUR FILTERS",
+          "bbox": [
+            118.72,
+            517.41,
+            479.36,
+            538.41
+          ],
+          "block_id": "b13_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "B-1  It is recommended that the stability of the\nspectral response of a photocell and associated\nfilter be checked periodically. This may be done\nsimply by using the cell to make periodic\nmeasurements of the luminous transmittances\nof three stable colour filters.",
+          "bbox": [
+            70.72,
+            554.31,
+            290.51,
+            619.35
+          ],
+          "block_id": "b13_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "to extraneous effects. The light source should\nbe an incandescent lamp operated at the same\ncolour temperature on each occasion, usually\n2856 K (CIE Illuminant A).",
+          "bbox": [
+            304.6,
+            554.31,
+            524.31,
+            597.27
+          ],
+          "block_id": "b13_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            316.96,
+            608.63,
+            345.83,
+            616.55
+          ],
+          "block_id": "b13_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Measurements should be made at a normal\nilluminance level. High illuminance of the\nphotocell should always be avoided. It is\nrecommended that, in the case of selenium\nphotovoltaic cells, the illuminance should not\nexceed a level at which the cell begins to show\nnon-linearity. In practice this is commonly in\nthe region of 200 lux for a cell operating with\nzero external resistance.",
+          "bbox": [
+            70.72,
+            624.39,
+            290.54,
+            722.31
+          ],
+          "block_id": "b13_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  Filters with characteristics similar to the following are\nsatisfactory for this measurement:",
+          "bbox": [
+            316.96,
+            625.67,
+            524.34,
+            642.59
+          ],
+          "block_id": "b13_26",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Blue filter\n: Corning Type CS 1-62, Glass type 5900\nor Schott Type BG 28/1 mm",
+          "bbox": [
+            316.96,
+            653.63,
+            523.66,
+            670.55
+          ],
+          "block_id": "b13_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Green filter : Corning Type CS 4-64, Glass Type 4010\nor Schott Type VG 6/1 mm",
+          "bbox": [
+            316.96,
+            677.63,
+            523.69,
+            694.55
+          ],
+          "block_id": "b13_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Red filter\n: Corning Type CS H, R, 2-61, Glass Type\n2412 or Schott Type RC 1/3 mm",
+          "bbox": [
+            316.96,
+            701.63,
+            523.72,
+            718.55
+          ],
+          "block_id": "b13_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Periodic measurements should be made under\nidentical test conditions to minimise errors due",
+          "bbox": [
+            70.72,
+            727.35,
+            290.4,
+            748.35
+          ],
+          "block_id": "b13_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2  The red filters may be sensitive to high temperatures\nand should not be mounted close to the light source.",
+          "bbox": [
+            316.96,
+            730.67,
+            524.25,
+            747.59
+          ],
+          "block_id": "b13_27",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11",
+          "bbox": [
+            292.0,
+            764.19,
+            303.06,
+            774.15
+          ],
+          "block_id": "b13_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 14,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 13383 (Part 2) : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            210.49,
+            67.29
+          ],
+          "block_id": "b14_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nC",
+          "bbox": [
+            263.44,
+            83.61,
+            331.58,
+            95.61
+          ],
+          "block_id": "b14_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Clause  8.3.2 )",
+          "bbox": [
+            263.32,
+            103.83,
+            331.8,
+            113.98
+          ],
+          "block_id": "b14_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "DESCRIPTION OF A PROCEDURE FOR CALIBRATION OF THE\nPHOTOMETER BY MEANS OF ZONE FACTORS",
+          "bbox": [
+            129.88,
+            121.89,
+            465.16,
+            142.89
+          ],
+          "block_id": "b14_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "C-1  The lamp is mounted in the photometer\nand connected as specified in  5.3  and  7.2.7 . A\nnumber of readings of the luminous intensity\n(in scale units) is taken as specified in the\ntable.",
+          "bbox": [
+            70.72,
+            157.83,
+            290.46,
+            211.83
+          ],
+          "block_id": "b14_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "C = Luminous intensity\nin scale units\nMean\nof\nZone",
+          "bbox": [
+            307.6,
+            159.87,
+            454.01,
+            191.79
+          ],
+          "block_id": "b14_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zone\nFac-\ntor",
+          "bbox": [
+            459.28,
+            159.87,
+            484.25,
+            191.79
+          ],
+          "block_id": "b14_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zonal\nFlux\nin ac\nUnits",
+          "bbox": [
+            493.24,
+            159.87,
+            521.93,
+            202.83
+          ],
+          "block_id": "b14_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0\u00b0 30\u00b0 60\u00b0 90\u00b0 130\u00b0 150\u00b0 180\u00b0 210\u00b0\n240\u00b0 270\u00b0 300\u00b0 330\u00b0",
+          "bbox": [
+            335.92,
+            208.83,
+            493.03,
+            229.83
+          ],
+          "block_id": "b14_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The luminous flux of the lamp (in scale units) is\nthen calculated by means of the given zone\nfactors. Finally the value of one scale units in\ncd per 1 000 lumen is calculated (Formula 1).",
+          "bbox": [
+            70.72,
+            227.79,
+            290.49,
+            270.75
+          ],
+          "block_id": "b14_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "y =\n5\u00b0\n15\u00b0\n25\u00b0\n35\u00b0\n45\u00b0\n55\u00b0\n65\u00b0\n75\u00b0\n85\u00b0\n95\u00b0\n105\u00b0\n115\u00b0\n125\u00b0\n135\u00b0\n145\u00b0\n155\u00b0\n165\u00b0\n175\u00b0",
+          "bbox": [
+            319.24,
+            235.83,
+            339.9,
+            443.79
+          ],
+          "block_id": "b14_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.095\n0.284\n0.463\n0.628\n0.774\n0.897\n0.993\n1.058\n1.091\n1.091\n1.058\n0.993\n0.897\n0.774\n0.628\n0.463\n0.284\n0.095",
+          "bbox": [
+            467.8,
+            246.87,
+            492.78,
+            443.79
+          ],
+          "block_id": "b14_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            94.72,
+            296.4,
+            267.52,
+            318.12
+          ],
+          "block_id": "img14_10"
+        },
+        {
+          "type": "text",
+          "content": "If there is more than one lamp, the lamp flux\nfrom each lamp (\n1 ,\n2 ,\n3 , etc ) is measured\nand calculated separately as described above.\nThe luminous flux from all lamps together is:",
+          "bbox": [
+            70.72,
+            344.55,
+            290.46,
+            387.51
+          ],
+          "block_id": "b14_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            154.12,
+            355.92,
+            160.84,
+            365.76
+          ],
+          "block_id": "img14_11"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            172.96,
+            355.92,
+            179.68,
+            365.76
+          ],
+          "block_id": "img14_12"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            191.8,
+            355.92,
+            198.52,
+            365.76
+          ],
+          "block_id": "img14_13"
+        },
+        {
+          "type": "text",
+          "content": "=\n1  +\n2  +\n3  + etc",
+          "bbox": [
+            91.0,
+            408.63,
+            187.94,
+            420.71
+          ],
+          "block_id": "b14_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            83.2,
+            408.96,
+            89.92,
+            418.8
+          ],
+          "block_id": "img14_14"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            102.76,
+            408.96,
+            109.48,
+            418.8
+          ],
+          "block_id": "img14_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            126.76,
+            408.96,
+            133.48,
+            418.8
+          ],
+          "block_id": "img14_16"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            150.76,
+            408.96,
+            157.48,
+            418.8
+          ],
+          "block_id": "img14_17"
+        },
+        {
+          "type": "text",
+          "content": "And the value of one scale unit in cd per 1 000\nlumen is calculated from Formula 1.",
+          "bbox": [
+            70.72,
+            439.59,
+            290.51,
+            460.59
+          ],
+          "block_id": "b14_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(scale unit) =",
+          "bbox": [
+            458.2,
+            449.79,
+            521.34,
+            459.75
+          ],
+          "block_id": "b14_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            450.4,
+            450.24,
+            457.12,
+            460.08
+          ],
+          "block_id": "img14_25"
+        },
+        {
+          "type": "text",
+          "content": "12",
+          "bbox": [
+            292.0,
+            764.19,
+            303.06,
+            774.15
+          ],
+          "block_id": "b14_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img14_10",
+          "bbox": [
+            94.72,
+            296.4,
+            267.52,
+            318.12
+          ]
+        },
+        {
+          "block_id": "img14_11",
+          "bbox": [
+            154.12,
+            355.92,
+            160.84,
+            365.76
+          ]
+        },
+        {
+          "block_id": "img14_12",
+          "bbox": [
+            172.96,
+            355.92,
+            179.68,
+            365.76
+          ]
+        },
+        {
+          "block_id": "img14_13",
+          "bbox": [
+            191.8,
+            355.92,
+            198.52,
+            365.76
+          ]
+        },
+        {
+          "block_id": "img14_14",
+          "bbox": [
+            83.2,
+            408.96,
+            89.92,
+            418.8
+          ]
+        },
+        {
+          "block_id": "img14_15",
+          "bbox": [
+            102.76,
+            408.96,
+            109.48,
+            418.8
+          ]
+        },
+        {
+          "block_id": "img14_16",
+          "bbox": [
+            126.76,
+            408.96,
+            133.48,
+            418.8
+          ]
+        },
+        {
+          "block_id": "img14_17",
+          "bbox": [
+            150.76,
+            408.96,
+            157.48,
+            418.8
+          ]
+        },
+        {
+          "block_id": "img14_25",
+          "bbox": [
+            450.4,
+            450.24,
+            457.12,
+            460.08
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img14_11": 6
+      }
+    },
+    {
+      "page_num": 15,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Standard Mark",
+          "bbox": [
+            79.24,
+            630.93,
+            158.37,
+            640.89
+          ],
+          "block_id": "b15_0",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The use of the Standard Mark is governed by the provisions of the  Bureau of Indian\nStandards Act, 1986  and the Rules and Regulations made thereunder. The Standard Mark on\nproducts covered by an Indian Standard conveys the assurance that they have been produced\nto comply with the requirements of that standard under a well defined system of inspection,\ntesting and quality control which is devised and supervised by BIS and operated by the\nproducer. Standard marked products are also continuously checked by BIS for conformity to\nthat standard as a further safeguard. Details of conditions under which a licence for the use of\nthe Standard Mark may be granted to manufacturers or producers may be obtained from the\nBureau of Indian Standards.",
+          "bbox": [
+            79.24,
+            645.87,
+            515.89,
+            743.91
+          ],
+          "block_id": "b15_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 16,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b16_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.21,
+            524.37,
+            116.25
+          ],
+          "block_id": "b16_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b16_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.73,
+            524.33,
+            182.73
+          ],
+          "block_id": "b16_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b16_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.21,
+            524.42,
+            259.29
+          ],
+          "block_id": "b16_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. ETD 24 (3209).",
+          "bbox": [
+            70.72,
+            267.21,
+            370.75,
+            276.21
+          ],
+          "block_id": "b16_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b16_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b16_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nOctober 2000",
+          "bbox": [
+            70.72,
+            331.29,
+            276.83,
+            340.29
+          ],
+          "block_id": "b16_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b16_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.33,
+            131.08,
+            543.33
+          ],
+          "block_id": "b16_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.25,
+            524.32,
+            570.33
+          ],
+          "block_id": "b16_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.25,
+            524.38,
+            587.25
+          ],
+          "block_id": "b16_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            477.88,
+            593.57,
+            481.32,
+            614.64
+          ],
+          "block_id": "b16_20",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.28,
+            524.28,
+            614.25
+          ],
+          "block_id": "b16_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            620.57,
+            438.58,
+            641.64
+          ],
+          "block_id": "b16_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.28,
+            524.29,
+            641.25
+          ],
+          "block_id": "b16_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            484.6,
+            648.53,
+            488.04,
+            669.6
+          ],
+          "block_id": "b16_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.28,
+            524.17,
+            668.25
+          ],
+          "block_id": "b16_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            675.53,
+            438.58,
+            696.6
+          ],
+          "block_id": "b16_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.28,
+            524.29,
+            695.25
+          ],
+          "block_id": "b16_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            701.57,
+            438.58,
+            722.64
+          ],
+          "block_id": "b16_24",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.28,
+            524.29,
+            722.25
+          ],
+          "block_id": "b16_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.28,
+            521.28,
+            772.29
+          ],
+          "block_id": "b16_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "dll 5 Ae S114 sal op Acbidl op ala Adidep\nAgide? sollte of S14\nBAA sil",
+      "position": {
+        "x0": 142.96,
+        "y0": 136.68,
+        "x1": 452.08,
+        "y1": 216.36,
+        "width": 309.12,
+        "height": 79.68
+      },
+      "size": {
+        "width": 2576,
+        "height": 664
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "180. x x x x x x\nAA\n(12, 2\u00a2ebe )\nNu\nT02. x x x x x x\nvf\n(5-2, egebe )\nK\nT20 x x x x x x\nA\n(2, e\u00a2cbe )\nNX\n30. x x x x x x\nA\n(10. egebe )\nN\n0. x x x x x x\nA> ee\n/\n/\n/\nv4 C= 102 I350. 130. <- (2, efcb2 ) > 320. SHO. S22\n/\nfo\n120. x x x x x x x x\nwt\n( 12. egcbe )\n\\\n102. x x x x x x x x\nfA\n(5-2, efebe )\nNX\nt2o x x x x x x x x\nA\n(2, etebe )\n\\\n30. x x x x x x x x\nA\n( 10. 2gebe )\n\u2018\\\n0. x x x x x x x x\nA=\n/\n/\n/\nTA C=3100 3582 300. 310.< (2, 28eb2) > 290, 00, 12% ao\n7\nS\nCo",
+      "position": {
+        "x0": 70.48,
+        "y0": 168.96,
+        "x1": 523.48,
+        "y1": 703.68,
+        "width": 453.0,
+        "height": 534.72
+      },
+      "size": {
+        "width": 3744,
+        "height": 4418
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 3,
+      "page": 5,
+      "path": "pdf_images/p5_i2.png",
+      "text": "A\nC=0 h\nof. CA \u2018\nPy\nPe |\nl m~a ON _\nj j ~ > a |\n! ae ~ ]\nJ - \u2018 \u2122~ |\na ' nae I\nr ! on ~A iC =30,\nj \u2018N AX ' ~ t\n; | \\ y '\n!\n{ 1 } N '\n] ]\n!\n{ ( \u2018\n; \\ ; |\n1 L ' ]\ni = \u2018\\ \u2019\n~ | LJ\n\\ sy \\ | _-t\n{ \u201cAN --7 |\n~S -7\u2122 {\nI aK '\n| 77 \u201cAe i]\nC =S5\\0b- ~\\, \"\n~\u201c l\n~S\nC 7180.",
+      "position": {
+        "x0": 71.68,
+        "y0": 481.56,
+        "x1": 288.64,
+        "y1": 698.28,
+        "width": 216.96,
+        "height": 216.72
+      },
+      "size": {
+        "width": 1808,
+        "height": 1806
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 4,
+      "page": 11,
+      "path": "pdf_images/p11_i3.png",
+      "text": "x= |\nDo\n_UY ee\n\nc> (1 000) = Zo: T 000",
+      "position": {
+        "x0": 332.32,
+        "y0": 152.04,
+        "x1": 493.6,
+        "y1": 191.28,
+        "width": 161.28,
+        "height": 39.24
+      },
+      "size": {
+        "width": 1344,
+        "height": 327
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 5,
+      "page": 12,
+      "path": "pdf_images/p12_i1.png",
+      "text": "D",
+      "position": {
+        "x0": 88.6,
+        "y0": 654.72,
+        "x1": 95.32,
+        "y1": 664.56,
+        "width": 6.72,
+        "height": 9.84
+      },
+      "size": {
+        "width": 56,
+        "height": 82
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 6,
+      "page": 14,
+      "path": "pdf_images/p14_i1.png",
+      "text": "D",
+      "position": {
+        "x0": 154.12,
+        "y0": 355.92,
+        "x1": 160.84,
+        "y1": 365.76,
+        "width": 6.72,
+        "height": 9.84
+      },
+      "size": {
+        "width": 56,
+        "height": 82
+      },
+      "format": "png"
+    }
+  ]
+}

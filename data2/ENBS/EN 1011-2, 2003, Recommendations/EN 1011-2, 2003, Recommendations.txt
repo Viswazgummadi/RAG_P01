@@ -1,0 +1,3649 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>BRITISH STANDARD
+BS EN
+1011-2:2001
+Incorporating
+Amendment No. 1<<HEADING_END>>
+<<HEADING level=1>>Welding —
+Recommendations for
+welding of metallic
+materials —<<HEADING_END>>
+<<HEADING level=1>>Part 2: Arc welding of ferritic steels<<HEADING_END>>
+<<PARAGRAPH>>The European Standard EN 1011-2:2001, with the incorporation of
+amendment A1:2003 has the status of a British Standard<<PARAGRAPH_END>>
+<<PARAGRAPH>>ICS 25.160.10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>BS EN 1011- 2: 20 0 1<<HEADING_END>>
+<<HEADING level=1>>National foreword<<HEADING_END>>
+<<PARAGRAPH>>This British Standard is the official English language version of
+EN 1011-2:2001 including amendment A1:2003. Together with
+BS EN 1011-1:1998 it supersedes BS 5135:1984 which is withdrawn.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is important to that the BS EN 1011 series of standards uses the concept of
+heat input to the weld where as BS 5135 used arc energy. These two terms are
+not interchangeable and care should be taken when transposing data from
+BS 5135 to the BS EN 1011 standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is also drawn to the fact that annex C of this standard details two
+methods for predicting preheat temperatures to avoid hydrogen cracking. The
+differences in origin and experience used to develop these two methods are
+detailed in  C.1  and this can be used as a guide to their application.
+Traditionally in the UK the method detailed in BS 5135 has been used in
+conjunction with weld procedure approval in accordance with the BS EN 288
+series. The method detailed in  C.2  is that given in BS 5135, in an updated form.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The UK participation in its preparation was entrusted to Technical Committee
+WEE/17, Metal-arc welding of steel, which has the responsibility to<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+aid enquirers to understand the text;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+present to the responsible European committee any enquiries on the
+interpretation, or proposals for change, and keep the UK interests
+informed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+monitor related international and European developments and
+promulgate them in the UK.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A list of organizations represented on this committee can be obtained on
+request to its secretary.<<PARAGRAPH_END>>
+<<HEADING level=3>>Cross-references<<HEADING_END>>
+<<PARAGRAPH>>The British Standards which implement international or European
+publications referred to in this document may be found in the  BSI Catalogue
+under the section entitled “International Standards Correspondence Index”, or
+by using the “Search” facility of the  BSI Electronic Catalogue  or of British
+Standards Online.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This publication does not purport to include all the necessary provisions of a
+contract. Users are responsible for its correct application.<<PARAGRAPH_END>>
+<<HEADING level=3>>Compliance with a British Standard does not of itself confer immunity
+from legal obligations.<<HEADING_END>>
+<<PARAGRAPH>>This British Standard, having
+been prepared under the
+direction of the Engineering
+Sector Committee, was
+published under the authority
+of the Standards Committee
+and comes into effect on
+15 March 2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Summary of pages<<HEADING_END>>
+<<PARAGRAPH>>This document comprises a front cover, an inside front cover, the EN title page,
+pages 2 to 58, an inside back cover and a back cover.
+The BSI copyright date displayed in this document indicates when the
+document was last issued.<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments issued since publication<<HEADING_END>>
+<<PARAGRAPH>>Amd. No.
+Date
+Comments<<PARAGRAPH_END>>
+<<PARAGRAPH>>AMD14926
+12 February 2004
+Deletion of Annex ZA
+AMD14926
+MD1492
+14926
+AMD1
+AMD149
+MD1492
+14926<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 12 February 2004<<PARAGRAPH_END>>
+<<HEADING level=3>>ISBN 0 580 36224 8<<HEADING_END>>
+<<TABLE_1>>
+|   A.D |   .t | a att   | aDetD   | Da   | eDaDe   | DtaeetataetDee                                                                               | C     |     | oooC   | mCoCe     | mCe   | mComCee    |
+|------:|-----:|:--------|:--------|:-----|:--------|:---------------------------------------------------------------------------------------------|:------|----:|:-------|:----------|:------|:-----------|
+| 42169 |  622 | 1 162   | F21 1   | eF 2 | 21Fbe 1 | 2rFeFb2u 1berFe a2rFubbeu rraerFbyauubyre yar2raubr uy0ra0r rya00ur0 ry400a22y 20y402 42r200 | 40400 | 040 | De42Dl | e4 eDDelt | eli   | DeeeotDllt |
+|       |      |         |         |      |         |                                                                                              | D     |     |        |           |       |            |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=1>>EUROPEAN STANDARD<<HEADING_END>>
+<<HEADING level=1>>EN 1011-2<<HEADING_END>>
+<<HEADING level=1>>January 2001
++ A1<<HEADING_END>>
+<<HEADING level=1>>NORME EUROPÉENNE<<HEADING_END>>
+<<HEADING level=3>>EUROPÄISCHE NORM<<HEADING_END>>
+<<PARAGRAPH>>December 2003<<PARAGRAPH_END>>
+<<PARAGRAPH>>ICS 25.160.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>English version<<PARAGRAPH_END>>
+<<HEADING level=2>>Welding — Recommendations for welding of metallic
+materials — Part 2: Arc welding of ferritic steels
+(includes amendment A1:2003)<<HEADING_END>>
+<<PARAGRAPH>>Soudage — Recommandations pour le soudage des
+matériaux métalliques — Partie 2: Soudage à l'arc des
+aciers ferritiques
+(inclut l’amendement A1:2003)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Schweißen — Empfehlungen zum Schweißen metallischer
+Werkstoffe — Teil 2: Lichtbogenschweißen von ferritischen
+Stählen
+(enthält Änderung A1:2003)<<PARAGRAPH_END>>
+<<PARAGRAPH>>This European Standard was approved by CEN on 6 July 2000 and amendment A1 was approved by CEN on 20 November 2003..
+CEN members are bound to comply with the CEN/CENELEC Internal Regulations which stipulate the conditions for giving this European
+Standard the status of a national standard without any alteration. Up-to-date lists and bibliographical references concerning such national
+standards may be obtained on application to the Management Centre or to any CEN member.
+This European Standard exists in three official versions (English, French, German). A version in any other language made by translation
+under the responsibility of a CEN member into its own language and notified to the Management Centre has the same status as the official
+versions.
+CEN members are the national standards bodies of Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece,
+Hungary, Iceland, Ireland, Italy, Luxembourg, Malta, Netherlands, Norway, Portugal, Slovakia, Sweden, Switzerland and United Kingdom.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EUROPEAN COMMITTEE FOR STANDARDIZATION
+COMITÉ EUROPÉEN DE NORMALISATION
+EUROPÄISCHES KOMITEE FÜR NORMUNG<<PARAGRAPH_END>>
+<<HEADING level=3>>Management Centre: rue de Stassart, 36    B-1050 Brussels<<HEADING_END>>
+<<PARAGRAPH>>© 2001 CEN
+All rights of exploitation in any form and by any means reserved
+worldwide for CEN national Members.
+Ref. No. EN 1011-2:2001 +   A1:2003 E<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>Page 2
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Contents<<HEADING_END>>
+<<HEADING level=3>>Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ...........................................................................................................................................................3<<HEADING_END>>
+<<HEADING level=3>>Introduction.......................................................................................................................................................4<<HEADING_END>>
+<<HEADING level=3>>1
+Scope ....................................................................................................................................................4<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references..........................................................................................................................4<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions .........................................................................................................................4<<HEADING_END>>
+<<HEADING level=3>>4
+Symbols and abbreviations................................................................................................................5<<HEADING_END>>
+<<HEADING level=3>>5
+Parent metal .........................................................................................................................................6<<HEADING_END>>
+<<HEADING level=3>>6
+Weldability factors...............................................................................................................................6<<HEADING_END>>
+<<HEADING level=3>>7
+Handling of welding consumables ....................................................................................................6<<HEADING_END>>
+<<HEADING level=3>>8
+Weld details..........................................................................................................................................6<<HEADING_END>>
+<<HEADING level=3>>9
+Welds in holes or slots .......................................................................................................................7<<HEADING_END>>
+<<HEADING level=3>>10
+Preparation of joint face .....................................................................................................................7<<HEADING_END>>
+<<HEADING level=3>>11
+Alignment of butt welds before welding ...........................................................................................8<<HEADING_END>>
+<<HEADING level=3>>12
+Preheating ............................................................................................................................................8<<HEADING_END>>
+<<HEADING level=3>>13
+Tack welds............................................................................................................................................8<<HEADING_END>>
+<<HEADING level=3>>14
+Temporary attachments......................................................................................................................8<<HEADING_END>>
+<<HEADING level=3>>15
+Heat input .............................................................................................................................................9<<HEADING_END>>
+<<HEADING level=3>>16
+Welding procedure specification.......................................................................................................9<<HEADING_END>>
+<<HEADING level=3>>17
+Identification ........................................................................................................................................9<<HEADING_END>>
+<<HEADING level=3>>18
+Inspection and testing.........................................................................................................................9<<HEADING_END>>
+<<HEADING level=3>>19
+Correction of non-conforming welds ................................................................................................9<<HEADING_END>>
+<<HEADING level=3>>20
+Correction of distortion ....................................................................................................................10<<HEADING_END>>
+<<HEADING level=3>>21
+Post weld heat treatment ..................................................................................................................10<<HEADING_END>>
+<<PARAGRAPH>>Annex A  (informative)   Possible detrimental phenomena resulting from welding of steels, not
+covered by other annexes .............................................................................................................................11<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex B  (informative)   Guidance on joint detail design (when there is no application standard)..........12<<HEADING_END>>
+<<HEADING level=3>>Annex C  (informative)   Avoidance of hydrogen cracking (also known as cold cracking) .......................15<<HEADING_END>>
+<<HEADING level=3>>Annex D  (informative)   Heat affected zone toughness and hardness ........................................................42<<HEADING_END>>
+<<HEADING level=3>>Annex E  (informative)   Avoidance of solidification cracking ......................................................................49<<HEADING_END>>
+<<HEADING level=3>>Annex F  (informative)   Avoidance of lamellar tearing..................................................................................51<<HEADING_END>>
+<<HEADING level=3>>Annex G  (informative)   References in the annexes ......................................................................................57<<HEADING_END>>
+<<HEADING level=3>>Bibliography.................................................................................................................................................... 58<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>Page 3
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<HEADING level=3>>This European Standard has been prepared by Technical Committee CEN/TC 121, Welding, the Secretariat
+of which is held by DS.<<HEADING_END>>
+<<PARAGRAPH>>This European Standard shall be given the status of a national standard, either by publication of an identical
+text or by endorsement, at the latest by July 2001, and conflicting national standards shall be withdrawn at
+the latest by July 2001.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document has been prepared under a mandate given to CEN by the European Commission and the
+European Free Trade Association.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For relationship with EU Directive(s), see informative annex ZA, which is an integral part of this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to the CEN/CENELEC Internal Regulations, the national standards organizations of the following
+countries are bound to implement this European Standard: Austria, Belgium, Czech Republic, Denmark,
+Finland, France, Germany, Greece, Iceland, Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal,
+Spain, Sweden, Switzerland and the United Kingdom.<<PARAGRAPH_END>>
+<<HEADING level=2>>Foreword to amendment A1<<HEADING_END>>
+<<HEADING level=3>>This document EN 1011-2:2001/A1:2003 has been prepared by Technical Committee CEN/TC 121 Welding,
+the secretariat of which is held by DS.<<HEADING_END>>
+<<PARAGRAPH>>This Amendment to the European Standard EN 1011-2:2001   shall be given the status of a national standard,
+either by publication of an identical text or by endorsement, at the latest by June 2004, and conflicting
+national standards shall be withdrawn at the latest  by  June 2004.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document has been prepared under a mandate given to CEN by the European Commission and the
+European Free Trade Association.<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to the CEN/CENELEC Internal Regulations, the national standards organizations of the following
+countries are bound to implement this European Standard: Austria, Belgium, Czech Republic, Denmark,
+Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Luxembourg, Malta, Netherlands,
+Norway, Portugal, Slovakia, Spain, Sweden, Switzerland and the United Kingdom.<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to the CEN/CENELEC Internal Regulations, the national standards organizations of the following
+crtnuoise raob ednu mi otmelpht tnesi ruEoaeptS nradnaA :dsutri,a eBglmui, CzceR hupelbcieD ,mnrak,
+FilnF ,dnarcnae, GremnaG ,yrceeragnuH ,ey, cIalerI ,dnletI ,dnalay, xuLmeruobaM ,geN ,atlrehtnalsd,
+Norway, Portugal, Slovakia, Spain, Sweden, Switzerland and the United Kingdom.<<PARAGRAPH_END>>
+<<PARAGRAPH>>cAcronidt ot gC ehEC/NENELEtnI Creanl geRluitasno, an ehtoitanl stnaradsd roginataziosn fo f ehtolloniwg
+crtnuoise raob ednu mi otmelpht tnesi ruEoaeptS nradnaA :dsutri,a eBglmui, CzceR hupelbcieD ,mnrak,
+FilnF
+dnarcnae
+GremnaG
+yrceeragnuH
+ey
+cIalerI
+dnletI
+dnalay
+xuLmeruobaM
+geN
+atlrehtnalsd<<PARAGRAPH_END>>
+<<PARAGRAPH>>cAcronidt g tohe CEN/CENELEC Internal Regulations, the national standards organizations of the following
+crtnuoise are bound to implement this European Standard: Austria, Belgium, Czech Republic, Denmark,
+FilnF ,dnarcnae, GremnaG ,yrceeragnuH ,ey, cIalerI ,dnletI ,dnalay, xuLmeruobaM ,geN ,atlrehtnalsd,
+roNway, Portgu,la SlovkaaipS ,nia, Swde,ne Swtirezlaa dnt dnU ehntide iKdgnmo.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>Page 4
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>This European Standard supplements EN 1011-1. It is issued with several annexes in order that it can be
+extended to cover the different types of steel which are produced to all the European steel standards for
+ferritic steels (see clause 5).<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard gives general guidance for the satisfactory production and control of welds in ferritic steels.
+Details concerning the possible detrimental phenomena which can occur are given with advice on methods
+by which they can be avoided. This standard is generally applicable to all ferritic steels and is appropriate
+regardless of the type of fabrication involved, although the application standard can have additional
+requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This European Standard gives guidance for manual, semi-mechanized, mechanized and automatic arc
+welding of ferritic steels (see clause 5), excluding ferritic stainless steels, in all product forms.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>This European Standard incorporates by dated or undated reference, provisions from other publications.
+These normative references are cited at the appropriate places in the text and the publications are listed
+hereafter. For dated references, subsequent amendments to or revisions of any of these publications apply
+to this European Standard only when incorporated in it by amendment or revision. For undated references
+the latest edition of the publication referred to applies (including amendments).<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 288-2:1997,  Specification and approval of welding procedures for metallic materials — Part 2: Welding
+procedure specification for arc welding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 1011-1:1998,  Welding — Recommendations for welding of metallic materials — Part 1: General
+guidance for arc welding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 29692,  Metal-arc welding with covered electrode, gas-shielded metal-arc — Welding and gas welding —
+Joint preparations for steel (ISO 9692:1992).<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN ISO 13916, Welding —  Guidance for the measurement of preheating temperature, interpass temperature
+and preheat maintenance temperature (ISO 13916:1996).<<PARAGRAPH_END>>
+<<PARAGRAPH>>CR ISO 15608,  Welding — Guidelines for a metallic material grouping system (ISO/TR 15608:2000).<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this European Standard, the terms and definitions listed in EN 1011-1:1998 and the
+following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+cooling time  t 8/5
+time taken, during cooling, for a weld run and its heat affected zone to pass through the temperature range
+from 800 °C to 500 °C<<HEADING_END>>
+<<HEADING level=3>>3.2
+run out length
+length of a run produced by the melting of a covered electrode<<HEADING_END>>
+<<HEADING level=3>>3.3
+run out ratio   R r
+ratio of the run out length to the length of electrode consumed<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<PARAGRAPH>>Page 5
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.4
+shape factor  F x
+describes the influence of the form of a weld on the cooling time  t 8/5 . In the case of two-dimensional heat flow
+it is called  F 2  and in the case of three-dimensional heat flow it is called  F 3<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+three-dimensional heat flow
+heat introduced during welding which flows parallel and perpendicular to the plate surface<<HEADING_END>>
+<<HEADING level=3>>3.6
+transition thickness  d t
+plate thickness at which the transition from three-dimensional to two-dimensional heat flow takes place<<HEADING_END>>
+<<HEADING level=3>>3.7
+two-dimensional heat flow
+heat introduced during welding which flows only parallel to the plate surface<<HEADING_END>>
+<<HEADING level=3>>3.8
+preheat maintenance temperature  T m
+minimum temperature in the weld zone which should be maintained if welding is interrupted<<HEADING_END>>
+<<HEADING level=3>>4
+Symbols and abbreviations<<HEADING_END>>
+<<HEADING level=3>>Table 1 — Symbols and abbreviation<<HEADING_END>>
+<<PARAGRAPH>>Symbols/Abbreviations
+Terms
+Units
+CE
+Carbon equivalent (see C.2.1)
+%
+CET
+Carbon equivalent (see C.3.2)
+%
+D
+Diameter
+mm
+d
+Thickness of plate
+mm
+d t
+Transition thickness
+mm
+F 2
+Shape factor for two-dimensional heat flow
+—
+F 3
+Shape factor for three-dimensional heat flow
+—
+HAZ
+Heat affected zone
+—
+HD
+Diffusable hydrogen content
+ml/100g deposited weld metal
+Q
+Heat input
+kJ/mm
+R r
+Run out ratio
+—
+t 8/5
+Cooling time (from 800 °C to 500 °C)
+s
+t
+Melting time of an electrode
+s
+T i
+Interpass temperature
+°C
+T m
+Preheat maintenance temperature
+°C
+T o
+Initial plate temperature
+°C
+T p
+Preheat temperature
+°C
+T t
+Impact transition temperature
+°C
+UCS
+Unit of crack susceptibility
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>λ
+Thermal conductivity
+J/cm K s<<PARAGRAPH_END>>
+<<PARAGRAPH>>ρ
+Density
+kg/m 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+Specific heat capacity
+J/kg K<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Symbols/Abbreviations   | Terms                                        |                   | Units                        |
+|:------------------------|:---------------------------------------------|:------------------|:-----------------------------|
+| CE                      | Carbon equivalent (see C.2.1)                |                   | %                            |
+| CET                     | Carbon equivalent (see C.3.2)                |                   | %                            |
+| D                       | Diameter                                     |                   | mm                           |
+| d                       | Thickness of plate                           |                   | mm                           |
+| d                       | Transition thickness                         |                   | mm                           |
+| t                       |                                              |                   |                              |
+| F                       | Shape factor for two-dimensional heat flow   |                   | —                            |
+| 2                       |                                              |                   |                              |
+| F                       | Shape factor for three-dimensional heat flow |                   | —                            |
+| 3                       |                                              |                   |                              |
+| HAZ                     | Heat affected zone                           |                   | —                            |
+| HD                      | Diffusable hydrogen content                  |                   | ml/100g deposited weld metal |
+| Q                       | Heat input                                   |                   | kJ/mm                        |
+| R                       | Run out ratio                                |                   | —                            |
+| r                       |                                              |                   |                              |
+| t                       | Cooling time (from 800 °C to 500 °C)         |                   | s                            |
+| 8/5                     |                                              |                   |                              |
+| t                       | Melting time of an electrode                 |                   | s                            |
+| T                       | Interpass temperature                        |                   | °C                           |
+| i                       |                                              |                   |                              |
+| T                       | Preheat maintenance temperature              |                   | °C                           |
+| m                       |                                              |                   |                              |
+| T                       | Initial plate temperature                    |                   | °C                           |
+| o                       |                                              |                   |                              |
+| T                       | Preheat temperature                          |                   | °C                           |
+| p                       |                                              |                   |                              |
+| T                       | Impact transition temperature                |                   | °C                           |
+| t                       |                                              |                   |                              |
+| UCS                     | Unit of crack susceptibility                 |                   | —                            |
+| λ                       | Thermal conductivity                         |                   | J/cm K s                     |
+| ρ                       | Density                                      |                   | kg/m3                        |
+| C                       | Speci                                        | fic heat capacity | J/kg K                       |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>Page 6
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Parent metal<<HEADING_END>>
+<<PARAGRAPH>>This standard applies to ferritic steels excluding ferritic stainless steels. This includes steels referenced in
+groups 1 to 7 of CR ISO 15608. When ordering steel it may be necessary to specify requirements concerning
+weldability, which can involve specifying additional requirements to those given in the relevant steel
+standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Weldability factors<<HEADING_END>>
+<<PARAGRAPH>>The properties and the quality of welds are particularly influenced by the welding conditions. Thus, the
+following factors should be taken into consideration:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  joint design;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  hydrogen induced cracking;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  toughness and hardness of the heat affected zone ( HAZ );<<PARAGRAPH_END>>
+<<PARAGRAPH>>  solidification cracking;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  lamellar tearing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  corrosion.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The mechanical and technological properties, in particular the hardness and toughness of the heat affected
+zone in a narrowly delineated area, can be influenced to a greater or lesser degree, compared with the
+properties of the parent metal and depend on the welding conditions. Experience and tests indicate that not
+only the properties of the narrow affected zone of lower strength and better flexibility, but also the load
+distribution effect of the tougher adjacent zones should be taken into account when assessing the ductility
+and safety against fracture of welded joints as this could affect the choice of steel.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Handling of welding consumables<<HEADING_END>>
+<<PARAGRAPH>>When special protection or other treatment during storage or immediately prior to use is recommended by
+the consumable manufacturer, these consumables should be treated in accordance with the conditions
+detailed by the manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When drying or baking, consumables should be removed from their original containers. After removal from
+the oven, the consumables should be protected from exposure to conditions conducive to moisture
+absorption. In the case of welding consumables that have been specially packaged, e.g. vacuum or other
+moisture resistance means, advice from the consumable manufacturer should be sought as to further steps
+required for drying and baking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If controlled hydrogen levels are required, it is recommended that welders be issued with electrodes in
+heated quivers or sealed containers.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Drying ovens, e.g. for welding consumables, shall be provided with means of measuring the oven
+temperature.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Weld details<<HEADING_END>>
+<<HEADING level=3>>8.1 Butt welds<<HEADING_END>>
+<<PARAGRAPH>>Butt joints between parts of unequal cross-section should be made and subsequently shaped such that a
+severe stress concentration at the junction is avoided.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>Page 7
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>Some examples of joint preparations for use with metal arc welding with covered electrodes and gas-
+shielded metal arc welding are given in EN 29692.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partial penetration butt joints may be permitted dependant on the design specification. Consideration should
+be given to the choice of weld preparation and welding consumables in order to achieve the specified throat
+thickness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Under fatigue conditions, partial penetration joints or the use of permanent backing material may be
+undesirable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Backing material may consist of another steel part of the structure when this is appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When it is not appropriate to use part of the structure as backing material, the material to be used shall be
+such that detrimental effects on the structure are avoided and shall be agreed in the design specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Care shall be taken when using copper as a backing material as there is a risk of copper pick-up in the weld
+metal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where temporary or permanent backing material is employed, the joint shall be arranged in such a way as to
+ensure that complete fusion of the parts to be joined is readily achieved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wherever the fabrication sequence allows, tack welds attaching permanent backing should be positioned for
+subsequent incorporation into the weld (see clause 14 of EN 1011-1:1998).<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2 Fillet welds<<HEADING_END>>
+<<PARAGRAPH>>Unless otherwise specified, the edges and surfaces to be joined by fillet welding shall be in as close contact
+as possible since any gap may increase the risk of cracking. Unless otherwise specified, the gap shall not
+exceed 3 mm. Consideration shall be given to the need to increase the throat of the fillet weld to compensate
+for a large gap.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Unless otherwise specified, welding should not start/stop near corners, instead, it should be continued
+around the corners.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Welds in holes or slots<<HEADING_END>>
+<<PARAGRAPH>>Due to the risk of cracking, holes or slots should not be filled with weld metal unless required by the design
+specification. Holes or slots that are required to be filled with weld metal shall only be filled after the first run
+has been found to be acceptable (see also B.4).<<PARAGRAPH_END>>
+<<HEADING level=3>>10 Preparation of joint face<<HEADING_END>>
+<<HEADING level=3>>10.1 General<<HEADING_END>>
+<<PARAGRAPH>>Any large notches or any other errors in joint geometry which might occur shall be corrected by applying a
+weld deposit according to an approved welding procedure. Subsequently, they shall be ground smooth and
+flush with the adjacent surface to produce an acceptable finish.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Prefabrication primers (shop primers) may be left on the joint faces provided that it is demonstrated they do
+not adversely affect the welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2 Fusion faces<<HEADING_END>>
+<<PARAGRAPH>>When shearing is used, the effect of work hardening should be taken into account and precautions shall be
+taken to ensure that there is no cracking of the edges.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>Page 8
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single-U and double-U and single-J weld preparations usually have to be machined. In assessing the
+methods of preparation and type of joint, the requirements of the chosen welding process should be taken
+into account.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3 Un-welded faces<<HEADING_END>>
+<<PARAGRAPH>>Where a cut edge is not a fusion face, the effect of embrittlement from shearing, thermal cutting or gouging
+shall not be such as to adversely affect the workpiece.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Local hardening can be reduced by suitable thermal treatment or removed by mechanical treatment. The
+removal of 1 mm to 2 mm from a cut face normally eliminates the hardened layer. When using thermal
+cutting, local hardening can be lessened by a reduction in usual cutting speed or by preheating before
+cutting. If necessary the steel supplier should be consulted for recommendations on achieving a reduction in
+hardness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>U and J weld preparations as compared with V and bevel weld preparations serve to reduce distortion by
+virtue of the smaller amount of weld metal required. Likewise, double preparations are better than single
+preparations in that the weld metal can be deposited in alternate runs on each side of the joint. In the control
+of distortion, accuracy of preparation and fit-up of parts are important considerations, as well as a carefully
+planned and controlled welding procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>11 Alignment of butt welds before welding<<HEADING_END>>
+<<PARAGRAPH>>Unless specified otherwise (e.g. in a welding procedure specification or an application standard), the root
+edges or root faces of butt joints shall not be out of alignment by more than 25 % of the thickness of the
+thinner material for material up to and including 12 mm thick, or by more than 3 mm for material thicker than
+12 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For certain applications and welding processes, closer tolerances may be necessary.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For the purposes of Directive 97/23/EC, an application standard means a relevant product standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>12 Preheating<<HEADING_END>>
+<<PARAGRAPH>>The points of temperature measurement shall be in accordance with EN ISO 13916 except that for all
+thicknesses the distance for measurement shall be at least 75 mm from the weld centre-line.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Particular attention should be paid to the need for preheating when making low heat input welds, e.g. tack
+welds.<<PARAGRAPH_END>>
+<<HEADING level=3>>13 Tack welds<<HEADING_END>>
+<<PARAGRAPH>>It is recommended that the minimum length of a tack weld should be 50 mm, but for material thicknesses
+less than 12 mm the minimum length of a tack weld shall be four times the thicker part. For materials of
+thickness greater than 50 mm or of yield strength over 500 N/mm 2  consideration should be given to
+increasing the length and size of tack welds, which may involve the use of a two run technique.
+Consideration should also be given to the use of lower strength and/or higher ductility consumables when
+welding higher alloy steel.<<PARAGRAPH_END>>
+<<HEADING level=3>>14 Temporary attachments<<HEADING_END>>
+<<PARAGRAPH>>If a thermal process is used to remove a temporary attachment or run on/off pieces after welding, sufficient
+attachment or run on/off piece shall be left to allow subsequent removal of the heat affected material by
+careful grinding.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>Page 9
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>15 Heat input<<HEADING_END>>
+<<PARAGRAPH>>Heat input is calculated from the weld travel speed (see clause 19 of EN 1011-1:1998). When weaving with
+manual metal arc welding, the weave width should be restricted to three times the diameter of the core rod.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For multi-wire arc welding, the heat input is calculated as the sum of the heat input for each individual wire
+using the individual current and voltage parameters.<<PARAGRAPH_END>>
+<<HEADING level=3>>16 Welding procedure specification<<HEADING_END>>
+<<PARAGRAPH>>The welding procedure specification shall comply with EN 288-2 and shall include the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+whether shop or site welding;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+maximum combined thickness (see C.2.4), if annex C.2 is applied; plate thickness, if annex C.3 is
+applied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+heat input (see clause 15);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+hydrogen scale (see C.2.3 and C.3.2);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+tack welds (see clause 13).<<PARAGRAPH_END>>
+<<HEADING level=3>>17 Identification<<HEADING_END>>
+<<PARAGRAPH>>Where the use of hard stamp marks is required by the contract, guidance on their location and size shall be
+given. Indentations used for marking in radiographic examination require equal consideration.<<PARAGRAPH_END>>
+<<HEADING level=3>>18 Inspection and testing<<HEADING_END>>
+<<PARAGRAPH>>Due to the risk of delayed cracking, a period of at least 16 h is generally required before the final inspection
+is made of as-welded fabrications. The minimum time may be reduced for thin materials below 500 N/mm 2
+yield strength or increased for materials of thickness greater than 50 mm or of yield strength over
+500 N/mm 2 . Whatever period is used it shall be stated in the inspection records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Welds that have been heat-treated to reduce the hydrogen content or which have been stress relieved, need
+no additional time interval following the heat treatment before final inspection is made.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tungsten inert gas welding (TIG) and other re-melting processes, if required for post weld treatment, shall be
+performed before final inspection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Welds which are to be inspected and approved shall not be painted or otherwise treated until they have been
+accepted.<<PARAGRAPH_END>>
+<<HEADING level=3>>19 Correction of non-conforming welds<<HEADING_END>>
+<<PARAGRAPH>>All welds which do not conform to the design specification shall be corrected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Fracture mechanics or other assessment techniques may be used to determine whether a non-conforming
+weld needs to be corrected.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>Page 10
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>20 Correction of distortion<<HEADING_END>>
+<<PARAGRAPH>>The temperature of heated areas, measured by appropriate methods, should be in accordance with the
+recommendations of the material supplier or the design specification.<<PARAGRAPH_END>>
+<<HEADING level=3>>21 Post weld heat treatment<<HEADING_END>>
+<<PARAGRAPH>>When post weld heat treatment of welds is required but no application standard exists, the heat treatment
+details shall be stated in the design specification taking account of the effect on the properties of the parent
+metal,  HAZ  and weld metal.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>Page 11
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex A
+(informative)
+Possible detrimental phenomena resulting from welding of steels,
+not covered by other annexes<<HEADING_END>>
+<<HEADING level=3>>Possible detrimental
+phenomena
+resulting from
+welding<<HEADING_END>>
+<<HEADING level=3>>Causes
+Counter measures<<HEADING_END>>
+<<PARAGRAPH>>Reduce stress concentrations by
+grinding the toes of welds.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stress relief heat
+treatment cracks
+Carbide or nitride precipitation can occur
+during stress relief heat treatment if the
+stress relief heat treatment and/or steel
+composition are unfavourable. This can
+reduce the ductility of the steel such that
+relaxation of stress leads not only to
+plastic deformation but also to crack
+formation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Minimize the amount of
+coarse-grained  HAZ  by correct
+weld run sequence.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Use optimum heat treatment
+procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Avoid large differences in plate and
+weld metal compositions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Corrosion<<PARAGRAPH_END>>
+<<PARAGRAPH>>Differences in chemical composition,
+grain size and stress levels between the
+weld and the parent material can lead to
+different corrosion rates. In most cases
+the weld and heat affected zone are
+attacked preferentially.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)   General attack<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)   Stress corrosion
+cracking
+Caused by a critical combination of
+stress, microstructure and environment.
+Avoid stress concentrations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Minimize weld stress levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reduce hardness levels.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Possible detrimental   | Causes                                      | Counter measures                     |
+| phenomena              |                                             |                                      |
+| resulting from         |                                             |                                      |
+| welding                |                                             |                                      |
+|:-----------------------|:--------------------------------------------|:-------------------------------------|
+| Stress relief heat     | Carbide or nitride precipitation can occur  | Reduce stress concentrations by      |
+| treatment cracks       | during stress relief heat treatment if the  | grinding the toes of welds.          |
+|                        | stress relief heat treatment and/or steel   | Minimize the amount of               |
+|                        | composition are unfavourable. This can      | coarse-grained HAZ by correct        |
+|                        | reduce the ductility of the steel such that | weld run sequence.                   |
+|                        | relaxation of stress leads not only to      | Use optimum heat treatment           |
+|                        | plastic deformation but also to crack       | procedures.                          |
+|                        | formation.                                  |                                      |
+| Corrosion              | Differences in chemical composition,        | Avoid large differences in plate and |
+| a) General attack      | grain size and stress levels between the    | weld metal compositions.             |
+| b) Stress corrosion    | weld and the parent material can lead to    | Avoid stress concentrations.         |
+| cracking               | different corrosion rates. In most cases    | Minimize weld stress levels.         |
+|                        | the weld and heat affected zone are         | Reduce hardness levels.              |
+|                        | attacked preferentially.                    |                                      |
+|                        | Caused by a critical combination of         |                                      |
+|                        | stress, microstructure and environment.     |                                      |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>Page 12
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex B
+(informative)
+Guidance on joint detail design (when there is no application standard)<<HEADING_END>>
+<<HEADING level=3>>B.1 General<<HEADING_END>>
+<<PARAGRAPH>>This annex may be used where no guidance from an application standard exists. Further information is given
+in other documents, e.g. EN 1708-1:1999, EN 1708-2. Particular guidance on design to avoid lamellar
+tearing is given by annex F.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2 Butt joints<<HEADING_END>>
+<<PARAGRAPH>>Butt joints between parts of unequal cross-section, arranged in line, will result in a local increase in stress in
+addition to the stress concentration caused by the profile of the weld itself. If the centre planes of the two
+parts joined do not coincide, local bending also will be induced at the joint. If the stresses induced by these
+effects are unacceptable, then the parts should be shaped before welding by a slope of not greater than
+1 in 4 so as to reduce the stresses. Examples of plain and shaped parts are shown in Figure B.1, where a)
+and b) are the more common types with c) being a special configuration to facilitate non-destructive testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A partial penetration butt weld which is welded from one side only should not be subjected to a bending
+moment about the longitudinal axis of a weld. It would cause the root of the weld to be in tension. Therefore
+it should be avoided and only used when permitted by the design. Under such circumstances it may be
+allowed by an application standard or contract.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Slope approximately 1 in 4<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Slope in the weld
+b) Slope in the thicker plate
+c) Special configuration to facilitate non-destructive testing<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure B.1 — Butt joints of unequal cross-section<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>Page 13
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3 Fillet welds<<HEADING_END>>
+<<PARAGRAPH>>The effective length of an open ended fillet weld should be taken as the overall length less twice the leg
+length. In any case, the effective length should be not less than 25 mm or four times the leg length whichever
+is the greater.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For fillet welded joints carrying a compressive load, it should not be assumed that the parts joined are in
+contact under the joint. For critical applications the use of a partial or even a full penetration butt weld should
+be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where the specified leg length of a fillet weld, at the edge of a plate or section, is such that the parent metal
+does not project beyond the weld, melting of the outer corner or corners, which reduces the throat thickness,
+is not allowed (see Figure B.2).<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Desirable
+b) Not acceptable because of reduced throat thickness<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure B.2 — Fillet welds applied to the edge of a part<<HEADING_END>>
+<<PARAGRAPH>>A single fillet weld should not be subjected to a bending moment about the longitudinal axis of the joint which
+would cause the root of the weld to be in tension.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fillet welds connecting parts, where the fusion faces form an angle of more than 120° or less than 60°,
+should not be relied upon to transmit calculated loads at the full working stresses unless permitted to do so
+by the application standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The design throat thickness of a flat or convex fillet weld connecting parts, where the fusion faces form an
+angle between 60° and 120°, can be derived by multiplying the leg length by the appropriate factor as given
+in Table B.1.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.1 — Factors for deriving design throat thickness of flat or convex fillet welds based
+on leg angle<<HEADING_END>>
+<<HEADING level=3>>Angle between fusion faces
+(degrees)
+Factor<<HEADING_END>>
+<<PARAGRAPH>>60
+to
+90
+0,7
+91
+to
+100
+0,65
+101
+to
+106
+0,60
+107
+to
+113
+0,55
+114
+to
+120
+0,50<<PARAGRAPH_END>>
+<<PARAGRAPH>>Due account should be taken of fabrication, transport, and erection stresses particularly for those fillet welds
+which have been designed to carry only a light load during service.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Angle between fusion faces   | Factor   |
+| (degrees)                    |          |
+|:-----------------------------|:---------|
+| 60 to 90                     | 0,7      |
+| 91 to 100                    | 0,65     |
+| 101 to 106                   | 0,60     |
+| 107 to 113                   | 0,55     |
+| 114 to 120                   | 0,50     |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>Page 14
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>B.4 Holes and slots<<HEADING_END>>
+<<PARAGRAPH>>In order to provide access for welding, the diameter of a hole or the width of a slot should be not less than
+three times the material thickness or 25 mm, whichever is the greater. Ends of slots should be rounded with
+a radius of not less than 1,5 times the material thickness or 12 mm, whichever is the greater. The distance
+between the edge of the part and the edge of the hole or slot, or between the adjacent slots or holes, should
+be not less than twice the thickness and not less than 25 mm for holes (see also clause 9).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>Page 15
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex C
+(informative)
+Avoidance of hydrogen cracking (also known as cold cracking)<<HEADING_END>>
+<<HEADING level=3>>C.1 General<<HEADING_END>>
+<<PARAGRAPH>>This annex gives recommendations for the avoidance of hydrogen cracking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In preparing this annex, full account was taken of the fact that many methods have been proposed for
+predicting preheat temperatures to avoid hydrogen cracking in non-alloyed, fine grained and low alloy steel
+weldments. Examples are given in IIW documents IX-1602-90 and IX-1631-91. Two methods are included in
+this annex as C.2 and C.3. Method A given in C.2 is based on extensive experience and data which is
+mainly, but not exclusively, for carbon manganese type steels. Method B given in C.3 is based on experience
+and data which is mainly, but not exclusively, for low alloy high strength steels. The differences in origin and
+experience used to develop these two methods can be used as a guide as to their application.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The method described under C.4 shall be used for creep resisting and low temperature steels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The recommendations apply only to normal fabrication restraint conditions. Higher restraint situations may
+need higher preheat temperature or other precautions to prevent hydrogen cracking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Clauses C.2 and C.3 refer to welding of parent metal at temperatures above 0 °C. When welding is carried
+out below this temperature it is possible that special requirements will be needed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alternative procedures to those derived from this annex may be used, for example lower preheat
+temperatures, provided they are supported by evidence of their effectiveness. The evidence should include
+all the factors also considered for the welding procedures as given in this annex.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2 Method A for the avoidance of hydrogen cracking in non-alloyed, fine grained
+and low alloy steels<<HEADING_END>>
+<<HEADING level=3>>C.2.1 Parent metal<<HEADING_END>>
+<<PARAGRAPH>>Clause C.2 covers non-alloyed, fine grained and low alloy steels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The range of chemical composition in percentage by weight of the main alloy constituents is:<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Carbon
+0,05 to 0,25<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Silicon
+0,8 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Manganese
+1,7 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Chromium
+0,9 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Copper
+1,0 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Nickel
+2,5 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Molybdenum
+0,75 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Vanadium
+0,20 max.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>Page 16
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>The determination of safe, but economic, preheating levels for the prevention of hydrogen cracking is
+critically dependent on an accurate knowledge of parent metal composition and carbon equivalent,  CE , and
+on the weld metal composition (see C.2.9).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Carbon equivalent  ( CE )  values for parent material are calculated using the following formula:<<PARAGRAPH_END>>
+<<PARAGRAPH>>%
+in
+15
+Cu
+Ni
+5
+V
+Mo
+Cr
+6
+Mn
+C
++
++
++
++
++
++
+=
+CE
+(C.1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Clause C.2  is applicable to steels with a carbon equivalent  ( CE )  in the range 0,30 to 0,70.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If, of the elements in this formula, only carbon and manganese are stated on the mill sheet for carbon and
+carbon manganese steels, then 0,03 should be added to the calculated value to allow for residual elements.
+Where steels of different carbon equivalent or grade are being joined, the higher carbon equivalent value
+should be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This carbon equivalent formula may not be suitable for boron-containing steels.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.2 Factors affecting cracking<<HEADING_END>>
+<<PARAGRAPH>>The occurrence of hydrogen cracking depends on a number of factors: composition of the steel, the welding
+procedure, welding consumables and the stress involved. If the  t 8/5  time (cooling time from 800 °C to 500 °C)
+associated with welding is too short, excessive hardening can occur in the heat affected zone. When the
+hydrogen in the weld is above a critical level the hardened zone can crack spontaneously under the
+influence of residual stress after the weld has cooled to near ambient temperature. Welding conditions may
+be selected to avoid cracking by ensuring that the heat affected zone cools sufficiently slowly, by control of
+weld run dimensions in relation to metal thickness, and if necessary, by applying preheat and controlling
+interpass temperature. Procedures for avoiding hydrogen cracking, as well as selecting cooling times
+through the transformation temperature range to avoid hardened and susceptible microstructures, may
+involve controlling cooling in the lower temperature part of the thermal cycle, typically from 300 °C to 100 °C,
+thereby beneficially influencing the evolution of hydrogen from the welded joint. In particular, this can be
+achieved by the application of a post-heat on completion of welding which is typically a maintenance of the
+preheat temperature.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The hydrogen content of the weld can be controlled by using hydrogen controlled welding processes and
+consumables, and also to some extent, by the application of post-heat as described previously.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Similar considerations apply to hydrogen cracking in the weld metal, where although hardening will be on a
+reduced scale, actual hydrogen and stress levels are likely to be higher than in the heat affected zone. In
+general, welding procedures selected to avoid heat affected zone hydrogen cracking will also avoid cracking
+in the weld metal. However, under some conditions such as high restraint, low  CE  steels, thick sections, or
+alloyed weld metal, weld metal hydrogen cracking can become the dominant mechanism.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The most effective assurance of avoiding hydrogen cracking is to reduce the hydrogen input to the weld
+metal from the welding consumables. The benefits resulting from a growing number of possibilities where no
+preheat temperature > 20 °C is required, can (as shown by examples in Table C.1) be increased by using
+filler materials with lower hydrogen content.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>Page 17
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.1 — Examples of maximum combined thickness (see C.2.4) weldable without preheat<<HEADING_END>>
+<<HEADING level=3>>Maximum combined thickness
+Diffusable
+hydrogen content  a
+CE  of 0,49
+CE  of 0,43<<HEADING_END>>
+<<PARAGRAPH>>ml/100 g of
+deposited metal
+Heat input
+1,0 kJ/mm
+Heat input
+2,0 kJ/mm
+Heat input
+1,0 kJ/mm
+Heat input
+2,0 kJ/mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm
+mm
+mm
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>>
+15
+25
+50
+40
+80<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+≤
+15
+30
+55
+50
+90<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+≤
+10
+35
+65
+60
+100<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+≤
+5
+50
+100
+100
+100<<PARAGRAPH_END>>
+<<PARAGRAPH>>≤
+3
+60
+100
+100
+100<<PARAGRAPH_END>>
+<<PARAGRAPH>>a   Measured in accordance with ISO 3690<<PARAGRAPH_END>>
+<<PARAGRAPH>>Welding conditions for avoiding hydrogen cracking in carbon manganese steels have been drawn up in
+graphical form in Figure C.2 for the normal range of compositions, expressed as carbon equivalent, covered
+by this standard and these conditions should be followed for all types of joint whenever practicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The conditions have been drawn up to take account of differences in behaviour between different steels of
+the same carbon equivalent (making allowances for scatter in hardness) and of normal variations between
+ladle and product analysis. They are valid for the avoidance of both heat affected zone and weld metal
+cracking in the majority of welding situations (see also C.2.9).<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.3 Hydrogen content of welding consumables<<HEADING_END>>
+<<HEADING level=3>>C.2.3.1
+General<<HEADING_END>>
+<<PARAGRAPH>>The manufacturer should be able to demonstrate that he has used the consumables in the manner
+recommended by the consumable manufacturer and that the consumables have been stored and dried or
+baked to the appropriate temperature levels and times.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.3.2
+Hydrogen scales<<HEADING_END>>
+<<PARAGRAPH>>The hydrogen scale to be used for any arc welding process depends principally on the weld diffusable
+hydrogen content and should be as given in Table C.2. The value used should be stated by the consumable
+manufacturer in accordance with the relevant standard where it exists (or as independently determined) in
+conjunction with a specified condition of supply and treatment.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.2 — Hydrogen scales<<HEADING_END>>
+<<HEADING level=3>>Diffusable
+hydrogen content
+ml/100 g of deposited metal<<HEADING_END>>
+<<HEADING level=3>>Hydrogen scale<<HEADING_END>>
+<<PARAGRAPH>>>
+15
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+≤
+15
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+≤
+10
+C<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+≤
+5
+D<<PARAGRAPH_END>>
+<<PARAGRAPH>>≤
+3
+E<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Diffusable                           | Maximum combined thickness   |            |            |            |
+| hydrogen content a                   |                              |            |            |            |
+| ml/100 g of                          |                              |            |            |            |
+| deposited metal                      |                              |            |            |            |
+|:-------------------------------------|:-----------------------------|:-----------|:-----------|:-----------|
+|                                      | CE of 0,49                   |            | CE of 0,43 |            |
+|                                      | Heat input                   | Heat input | Heat input | Heat input |
+|                                      | 1,0 kJ/mm                    | 2,0 kJ/mm  | 1,0 kJ/mm  | 2,0 kJ/mm  |
+|                                      | mm                           | mm         | mm         | mm         |
+| > 15                                 | 25                           | 50         | 40         | 80         |
+| 10 ≤ 15                              | 30                           | 55         | 50         | 90         |
+| 5 ≤ 10                               | 35                           | 65         | 60         | 100        |
+| 3 ≤ 5                                | 50                           | 100        | 100        | 100        |
+| ≤ 3                                  | 60                           | 100        | 100        | 100        |
+| a                                    |                              |            |            |            |
+| Measured in accordance with ISO 3690 |                              |            |            |            |
+<<TABLE_END>>
+<<TABLE_2>>
+| Diffusable                    |         | Hydrogen scale   |
+| hydrogen content              |         |                  |
+| ml/100 g of deposited metal   |         |                  |
+|:------------------------------|:--------|:-----------------|
+|                               |         | A                |
+|                               | 10 ≤ 15 | B                |
+| 5 ≤ 10                        |         | C                |
+| 3 ≤ 5                         |         | D                |
+| ≤ 3                           |         | E                |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>Page 18
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.3.3
+Selection of hydrogen scales<<HEADING_END>>
+<<PARAGRAPH>>The following gives general guidance on the selection of the appropriate hydrogen scale for various welding
+processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manual metal arc basic covered electrodes can be used with scales B to D depending on the electrode
+manufacturer’s classification of the consumable. Manual metal arc rutile or cellulosic electrodes should be
+used with scale A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Flux-cored or metal-cored consumables can be used with scales B to D depending on the manufacturer’s
+classification of the wire. Submerged-arc wire and flux consumable combinations can have hydrogen levels
+corresponding to scales B to D, although most typically these will be scale C but therefore need assessing in
+the case of each named product combination and condition. Submerged-arc fluxes can be classified by the
+manufacturer but this does not necessarily confirm that a practical flux/wire combination also meets the
+same classification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Solid wires for gas-shielded arc welding and for TIG welding may be used with scale D unless specifically
+assessed and shown to meet scale E. Scale E may also be found to be appropriate for some cored wires
+and some manual metal arc basic covered electrodes, but only after specific assessment. On achieving
+these low levels of hydrogen, consideration should be given to the contribution of hydrogen from the
+shielding gas composition and atmospheric humidity from welding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For plasma arc welding, specific assessment should be made.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.4 Combined thickness<<HEADING_END>>
+<<PARAGRAPH>>Combined thickness should be determined as the sum of the parent metal thicknesses averaged over a
+distance of 75 mm from the weld line (see Figure C.1).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Combined thickness is used to assess the heat sink of a joint for the purpose of determining the cooling rate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the thickness increases greatly just beyond 75 mm from the weld line, it may be necessary to use a higher
+combined thickness value.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the same metal thickness, the preheating temperature is higher in a fillet weld than in a butt weld
+because the combined thickness, and therefore the heat sink, is greater.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>Page 19
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 1  = average thickness over a length of 75 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>For simultaneously
+deposited directly opposed
+twin fillet welds,
+combined thickness
+= ½ ( d 1   +  d 2   +  d 3 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Combined thickness =  d 1   +  d 2   +  d 3<<PARAGRAPH_END>>
+<<IMAGE_1>>
+<<PARAGRAPH>>Combined thickness = ½(  D 1  +  D 2 )
+Maximum diameter 40 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>The limited heat sink has to be considered [see C.2.10 b)].<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.1 — Examples for the determination of combined thickness<<HEADING_END>>
+<<HEADING level=3>>C.2.5 Preheat temperature<<HEADING_END>>
+<<PARAGRAPH>>The preheating temperature to be used should be obtained from Figure C.2 a) to m) by reading the preheat
+line immediately above or to the left of the co-ordinated point for heat input and combined thickness.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6 Interpass temperature<<HEADING_END>>
+<<PARAGRAPH>>The minimum recommended interpass temperature is frequently used as the preheat temperature for
+multi-run welds. However, multi-run welds may have a lower permitted interpass temperature than the
+preheat temperature where subsequent runs are of higher heat input than the root run. In these cases the
+interpass temperature should be determined from Figure C.2 a) to m) for the larger run. Recommendations
+relating to maximum interpass temperature for creep resisting and low temperature steels are given in
+Table C.5 and Table C.6.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.7 Heat input<<HEADING_END>>
+<<PARAGRAPH>>Heat input values (in kJ/mm) for use with Figure C.2 should be calculated in accordance with
+EN 1011-1:1998 and clause 15.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>Page 20
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.8 Hydrogen reduction by post-heating<<HEADING_END>>
+<<PARAGRAPH>>When there is a higher risk of cold cracking, hydrogen release should be accelerated by either maintaining
+the minimum interpass temperature or raising the temperature to 200 °C to 300 °C immediately after welding
+and before the weld region cools to below the minimum interpass temperature. The duration of post-heating
+should be at least 2 h and is a function of the thickness. Large thicknesses require temperatures at the upper
+end of the stated range as well as prolonged post-heating times.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Post-heating is also appropriate where a partially filled weld cross-section is to be cooled.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.9 Conditions which may require more stringent procedures<<HEADING_END>>
+<<PARAGRAPH>>The preheating conditions presented in Figure C.2 have been found from experience to provide a
+satisfactory basis for deriving safe welding procedures for many welded fabrications. However, the risk of
+hydrogen cracking is influenced by several parameters and these can sometimes exert an adverse influence
+greater than accounted for in Figure C.2 a) to m). The following paragraphs cover some factors which can
+increase the risk of cracking above that envisaged in drawing up the data in Figure C.2. Precise
+quantification of the effects of these factors on the need for a more stringent procedure and on the change to
+the welding procedure required to avoid cracking cannot be made at the present time. The following factors
+should therefore be considered for guidance only.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Joint restraint is a complex function of section thickness, weld preparation, joint geometry, and the stiffness
+of the fabrication. Welds made in section thicknesses above approximately 50 mm and root runs in double
+bevel butt joints may require more stringent procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Certain welding procedures may not be adequate for avoiding weld metal hydrogen cracking when welding
+steels of low carbon equivalent. This is more likely to be the case when welding thick sections (i.e. greater
+than about 50 mm) and with higher heat inputs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The use of higher strength alloyed weld metal or carbon manganese weld metal with a manganese content
+above approximately 1,5 % can lead to higher operative stresses. Whether or not this causes an increased
+risk of heat affected zone cracking, the weld deposit would generally be harder and more susceptible to
+cracking itself.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Experience and research has indicated that lowering the inclusion content of the steel, principally by lowering
+the sulphur content (but also the oxygen content) can increase the hardenability of the steel. From a practical
+point of view this effect can result in an increase in the hardness of the heat affected zone and possibly a
+small increase in the risk of heat affected zone hydrogen cracking. Accurate quantification of the effect is
+presently not practicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Although modifications to the procedures to deal with welds involving the above factors can, in principle, be
+obtained through a change in heat input, preheating or other influencing factors, the most effective
+modification is to lower the weld hydrogen level. This can be done either directly, by lowering the weld
+hydrogen input to the weld (use of lower hydrogen welding processes or consumables), or by increasing
+hydrogen loss from the weld by diffusion through the use of higher post-heat for a period of time after
+welding. The required post-heat time will depend on many factors, but a period of 2 h to 3 h has been found
+to be beneficial in many instances. It is recommended that the required modifications to the procedures be
+derived by the use of adequate joint simulation weld testing.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.10 Relaxations<<HEADING_END>>
+<<PARAGRAPH>>Relaxations of the welding procedures may be permissible under the following conditions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+General preheating.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the whole component or a width more than twice that stated in clause 12 is preheated, it is generally
+possible to reduce the preheating temperature by a limited amount.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>Page 21
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Limited heat sink.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the heat sink is limited in one or more directions (e.g. when the shortest heat path is less than 10
+times the fillet leg length) especially in the thicker plate (e.g. in the case of a lap joint where the outstand
+is only marginally greater than the fillet weld leg length), it is possible to reduce preheating levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+Austenitic consumables.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In some circumstances where sufficient preheating to ensure crack-free welds is impracticable, an
+advantage can be gained by using certain austenitic or high nickel alloy consumables. In such cases
+preheat is not always necessary, especially if the condition of the consumable is such as to deposit weld
+metal containing very low levels of hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+Joint fit up.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Close fit fillet welds (where the gap is 0,5 mm or less) may justify relaxations in the welding procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.11 Simplified conditions for manual metal arc welding<<HEADING_END>>
+<<PARAGRAPH>>Where single run minimum leg length fillet welds are specified in the design, Table C.3 can be used to
+determine the approximate heat input values for use in determining preheat temperatures from Figure C.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>These values are appropriate for practical situations when a manufacturer is required to make single run fillet
+welds of specified dimensions related to the minimum leg length of the fillet welds. In practice, one leg will be
+longer than the minimum, as for example in a horizontal-vertical fillet weld and the data is therefore not
+appropriate for direct conversion to welds of specified throat dimension.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In other cases heat input should be controlled by control of electrode run out length (see Table C.4) or
+directly through welding parameters.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.3 — Values of heat input for manual metal arc welding of single run fillet welds<<HEADING_END>>
+<<HEADING level=3>>Heat input for electrodes with different covering types  a
+and electrode efficiencies
+Minimum leg length<<HEADING_END>>
+<<PARAGRAPH>>mm
+R and RR < 110 %
+kJ/mm
+B < 130 %
+kJ/mm
+R and RR > 130 %
+kJ/mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+0,8
+1,0
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+1,1
+1,4
+0,6<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+1,6
+1,8
+0,9<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+2,2
+2,7
+1,3<<PARAGRAPH_END>>
+<<PARAGRAPH>>a   Covering types in accordance with EN 499<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Minimum leg length                         | Heat input for electrodes with different covering types a   |           |                  |
+| mm                                         | and electrode efficiencies                                  |           |                  |
+|:-------------------------------------------|:------------------------------------------------------------|:----------|:-----------------|
+|                                            | R and RR < 110 %                                            | B < 130 % | R and RR > 130 % |
+|                                            | kJ/mm                                                       | kJ/mm     | kJ/mm            |
+| 4                                          | 0,8                                                         | 1,0       | —                |
+| 5                                          | 1,1                                                         | 1,4       | 0,6              |
+| 6                                          | 1,6                                                         | 1,8       | 0,9              |
+| 8                                          | 2,2                                                         | 2,7       | 1,3              |
+| a Covering types in accordance with EN 499 |                                                             |           |                  |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+0,30
+0,34
+0,38
+0,44
+0,46
+5
+0,34
+0,39
+0,41
+0,46
+0,48<<HEADING_END>>
+<<HEADING level=3>>4
+A
+B
+C
+D
+E
+4
+A
+B
+C
+D
+E<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 — Conditions for welding steels with defined carbon equivalents<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 a)
+Figure C.2 b)<<HEADING_END>>
+<<HEADING level=3>>3
+3<<HEADING_END>>
+<<HEADING level=3>>2
+2<<HEADING_END>>
+<<HEADING level=3>>1
+1<<HEADING_END>>
+<<HEADING level=3>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding<<HEADING_END>>
+<<PARAGRAPH>>Page 22
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 0   | 1   | 2   | 3   |   4 | 5   |
+|:----|:----|:----|:----|----:|:----|
+|     |     |     |     |   3 |     |
+<<TABLE_END>>
+<<TABLE_3>>
+|   4 | A B C D E                |
+|----:|:-------------------------|
+|   5 | 0,30 0,34 0,38 0,44 0,46 |
+<<TABLE_END>>
+<<TABLE_4>>
+|   4 | A B C D E                |
+|----:|:-------------------------|
+|   5 | 0,34 0,39 0,41 0,46 0,48 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<PARAGRAPH>>Page 23
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+2<<HEADING_END>>
+<<HEADING level=3>>5
+0,38
+0,41
+0,43
+0,48
+0,50
+5
+0,41
+0,43
+0,45
+0,50
+0,52<<HEADING_END>>
+<<HEADING level=3>>4
+A
+B
+C
+D
+E
+4
+A
+B
+C
+D
+E<<HEADING_END>>
+<<HEADING level=3>>3
+3<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 — Conditions for welding steels with defined carbon equivalents<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 c)
+Figure C.2 d)<<HEADING_END>>
+<<HEADING level=3>>1
+1<<HEADING_END>>
+<<HEADING level=3>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 0   | 1   | 2   |   3 | 4   |
+|:----|:----|:----|----:|:----|
+|     |     |     |   3 |     |
+<<TABLE_END>>
+<<TABLE_3>>
+|   4 | A B C D E                |
+|----:|:-------------------------|
+|   5 | 0,38 0,41 0,43 0,48 0,50 |
+<<TABLE_END>>
+<<TABLE_4>>
+|   4 | A B C D E               |
+|----:|:------------------------|
+|   5 | 0,41 0,43 0,45 0,50 0,5 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>Page 24
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 e)<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 f)<<HEADING_END>>
+<<HEADING level=3>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 — Conditions for welding steels with defined carbon equivalents<<HEADING_END>>
+<<TABLE_1>>
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   |   7 | 8   | 9   |
+|:----|:----|:----|:----|:----|:----|:----|----:|:----|:----|
+|     |     |     |     |     |     |     |   3 |     |     |
+<<TABLE_END>>
+<<TABLE_2>>
+|    |    |    |    |    | re C.2 e)   |    |    |    |    |    |
+|:---|:---|:---|:---|:---|:------------|:---|:---|:---|:---|:---|
+|    |    |    |    |    |             |    |    | 3  |    |    |
+|    |    |    |    | 4  |             |    |    |    |    |    |
+|    |    |    |    | 5  |             |    |    |    |    |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PARAGRAPH>>Page 25
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 g)<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4
+5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 h)<<HEADING_END>>
+<<HEADING level=3>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 — Conditions for welding steels with defined carbon equivalents<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+|    |    |    |    |    |    |    |    |    |    |    | 3   |    |
+|:---|:---|:---|:---|:---|:---|---:|:---|:---|:---|:---|:----|:---|
+|    |    |    |    |    |    |  4 |    |    |    |    |     |    |
+|    |    |    |    |    |    |  5 |    |    |    |    |     |    |
+<<TABLE_END>>
+<<TABLE_2>>
+|    |    |    |    |    |    |    |    |    |    | 3   |    |
+|:---|:---|:---|:---|:---|---:|:---|:---|:---|:---|:----|:---|
+|    |    |    |    |    |  4 |    |    |    |    |     |    |
+|    |    |    |    |    |  5 |    |    |    |    |     |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<PARAGRAPH>>Page 26
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4
+5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 i)<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 j)<<HEADING_END>>
+<<HEADING level=3>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 — Conditions for welding steels with defined carbon equivalents<<HEADING_END>>
+<<TABLE_1>>
+|    |    |    |    |    |    |    | 3   |    |
+|:---|:---|:---|:---|---:|:---|:---|:----|:---|
+|    |    |    |    |  4 |    |    |     |    |
+|    |    |    |    |  5 |    |    |     |    |
+<<TABLE_END>>
+<<TABLE_2>>
+|    |    |    |    |    |    |    |    | 3   |    |
+|:---|:---|:---|:---|:---|---:|:---|:---|:----|:---|
+|    |    |    |    |    |  4 |    |    |     |    |
+|    |    |    |    |    |  5 |    |    |     |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<PARAGRAPH>>Page 27
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 k)<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 l)<<HEADING_END>>
+<<HEADING level=3>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 — Conditions for welding steels with defined carbon equivalents<<HEADING_END>>
+<<PARAGRAPH>>© BSI 03-2001<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   |   7 | 8   |
+|:----|:----|:----|:----|:----|:----|:----|----:|:----|
+|     |     |     |     |     |     |     |   3 |     |
+<<TABLE_END>>
+<<TABLE_2>>
+|    |    |    |    |    |    |    | 3   |    |
+|:---|:---|:---|:---|---:|:---|:---|:----|:---|
+|    |    |    |    |  4 |    |    |     |    |
+|    |    |    |    |  5 |    |    |     |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<PARAGRAPH>>Page 28
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Figure C.2 m)<<HEADING_END>>
+<<PARAGRAPH>>Key
+1 Combined thickness, mm
+2 Heat input, kJ/mm
+3 Minimum preheating temperature, °C
+4 Scale
+5 To be used for carbon equivalent not exceeding
+Figure C.2 — Conditions for welding steels with defined carbon equivalents<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 0   | 1   |   2 | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   |
+|:----|:----|----:|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|
+|     |     |   3 |     |     |     |     |     |     |     |      |      |      |      |      |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PARAGRAPH>>Page 29
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.4 — Run out length for manual metal arc welding<<HEADING_END>>
+<<HEADING level=3>>Table C.4.1 — Electrode efficiency 95 % approximately<<HEADING_END>>
+<<HEADING level=3>>Run out length from 410 mm of a 450 mm electrode of diameter:
+Heat input<<HEADING_END>>
+<<PARAGRAPH>>kJ/mm
+2,5
+mm
+3,2
+mm
+4
+mm
+5
+mm
+6
+mm
+6,3
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,8
+120
+195
+300
+470
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,0
+95
+155
+240
+375
+545
+600<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2
+—
+130
+200
+315
+450
+500<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,4
+—
+110
+170
+270
+390
+430<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,6
+—
+95
+150
+235
+340
+375<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,8
+—
+85
+135
+210
+300
+335<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,0
+—
+—
+120
+190
+270
+300<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,2
+—
+—
+110
+170
+245
+270<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,5
+—
+—
+95
+150
+215
+240<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,0
+—
+—
+80
+125
+180
+200<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,5
+—
+—
+—
+110
+155
+170<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,0
+—
+—
+—
+95
+135
+150<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,5
+—
+—
+—
+84
+120
+135<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,0
+—
+—
+—
+—
+110
+120<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,5
+—
+—
+—
+—
+100
+110<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.4.2 — 95 % < efficiency ≤ 110 %<<HEADING_END>>
+<<HEADING level=3>>Run out length from 410 mm of a 450 mm electrode of diameter:
+Heat input<<HEADING_END>>
+<<PARAGRAPH>>kJ/mm
+2,5
+mm
+3,2
+mm
+4
+mm
+5
+mm
+6
+mm
+6,3
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,8
+130
+215
+335
+525
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,0
+105
+170
+270
+420
+600
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2
+85
+145
+225
+350
+500
+555<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,4
+—
+120
+190
+300
+430
+475<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,6
+—
+105
+165
+260
+375
+415<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,8
+—
+95
+150
+230
+335
+370<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,0
+—
+85
+135
+210
+300
+330<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,2
+—
+—
+120
+190
+275
+300<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,5
+—
+—
+105
+165
+240
+265<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,0
+—
+—
+90
+140
+200
+220<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,5
+—
+—
+—
+120
+170
+190<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,0
+—
+—
+—
+105
+150
+165<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,5
+—
+—
+—
+95
+135
+150<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,0
+—
+—
+—
+85
+120
+135<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,5
+—
+—
+—
+—
+110
+120<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Heat input   | Run out length from 410 mm of a 450 mm electrode of diameter:   |     |     |     |     |     |
+| kJ/mm        |                                                                 |     |     |     |     |     |
+|:-------------|:----------------------------------------------------------------|:----|:----|:----|:----|:----|
+|              | 2,5                                                             | 3,2 | 4   | 5   | 6   | 6,3 |
+|              | mm                                                              | mm  | mm  | mm  | mm  | mm  |
+| 0,8          | 120                                                             | 195 | 300 | 470 | —   | —   |
+| 1,0          | 95                                                              | 155 | 240 | 375 | 545 | 600 |
+| 1,2          | —                                                               | 130 | 200 | 315 | 450 | 500 |
+| 1,4          | —                                                               | 110 | 170 | 270 | 390 | 430 |
+| 1,6          | —                                                               | 95  | 150 | 235 | 340 | 375 |
+| 1,8          | —                                                               | 85  | 135 | 210 | 300 | 335 |
+| 2,0          | —                                                               | —   | 120 | 190 | 270 | 300 |
+| 2,2          | —                                                               | —   | 110 | 170 | 245 | 270 |
+| 2,5          | —                                                               | —   | 95  | 150 | 215 | 240 |
+| 3,0          | —                                                               | —   | 80  | 125 | 180 | 200 |
+| 3,5          | —                                                               | —   | —   | 110 | 155 | 170 |
+| 4,0          | —                                                               | —   | —   | 95  | 135 | 150 |
+| 4,5          | —                                                               | —   | —   | 84  | 120 | 135 |
+| 5,0          | —                                                               | —   | —   | —   | 110 | 120 |
+| 5,5          | —                                                               | —   | —   | —   | 100 | 110 |
+<<TABLE_END>>
+<<TABLE_2>>
+| Heat input   | Run out length from 410 mm of a 450 mm electrode of diameter:   |     |     |     |     |     |
+| kJ/mm        |                                                                 |     |     |     |     |     |
+|:-------------|:----------------------------------------------------------------|:----|:----|:----|:----|:----|
+|              | 2,5                                                             | 3,2 | 4   | 5   | 6   | 6,3 |
+|              | mm                                                              | mm  | mm  | mm  | mm  | mm  |
+| 0,8          | 130                                                             | 215 | 335 | 525 | —   | —   |
+| 1,0          | 105                                                             | 170 | 270 | 420 | 600 | —   |
+| 1,2          | 85                                                              | 145 | 225 | 350 | 500 | 555 |
+| 1,4          | —                                                               | 120 | 190 | 300 | 430 | 475 |
+| 1,6          | —                                                               | 105 | 165 | 260 | 375 | 415 |
+| 1,8          | —                                                               | 95  | 150 | 230 | 335 | 370 |
+| 2,0          | —                                                               | 85  | 135 | 210 | 300 | 330 |
+| 2,2          | —                                                               | —   | 120 | 190 | 275 | 300 |
+| 2,5          | —                                                               | —   | 105 | 165 | 240 | 265 |
+| 3,0          | —                                                               | —   | 90  | 140 | 200 | 220 |
+| 3,5          | —                                                               | —   | —   | 120 | 170 | 190 |
+| 4,0          | —                                                               | —   | —   | 105 | 150 | 165 |
+| 4,5          | —                                                               | —   | —   | 95  | 135 | 150 |
+| 5,0          | —                                                               | —   | —   | 85  | 120 | 135 |
+| 5,5          | —                                                               | —   | —   | —   | 110 | 120 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PARAGRAPH>>Page 30
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.4.3 — 110 % < efficiency ≤ 130 %<<HEADING_END>>
+<<HEADING level=3>>Run out length from 410 mm of a 450 mm electrode of diameter:
+Heat input<<HEADING_END>>
+<<PARAGRAPH>>kJ/mm
+2,5
+mm
+3,2
+mm
+4
+mm
+5
+mm
+6
+mm
+6,3
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,8
+150
+250
+385
+605
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,0
+120
+200
+310
+485
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2
+100
+165
+260
+405
+580
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,4
+85
+140
+220
+345
+500
+550<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,6
+—
+125
+195
+300
+435
+480<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,8
+—
+110
+170
+270
+385
+425<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,0
+—
+100
+155
+240
+350
+385<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,2
+—
+90
+140
+220
+315
+350<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,5
+—
+—
+125
+195
+280
+305<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,0
+—
+—
+105
+160
+230
+255<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,5
+—
+—
+90
+140
+200
+220<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,0
+—
+—
+—
+120
+175
+190<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,5
+—
+—
+—
+110
+155
+170<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,0
+—
+—
+—
+95
+140
+155<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,5
+—
+—
+—
+90
+125
+140<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Heat input   | Run out length from 410 mm of a 450 mm electrode of diameter:   |     |     |     |     |     |
+| kJ/mm        |                                                                 |     |     |     |     |     |
+|:-------------|:----------------------------------------------------------------|:----|:----|:----|:----|:----|
+|              | 2,5                                                             | 3,2 | 4   | 5   | 6   | 6,3 |
+|              | mm                                                              | mm  | mm  | mm  | mm  | mm  |
+| 0,8          | 150                                                             | 250 | 385 | 605 | —   | —   |
+| 1,0          | 120                                                             | 200 | 310 | 485 | —   | —   |
+| 1,2          | 100                                                             | 165 | 260 | 405 | 580 | —   |
+| 1,4          | 85                                                              | 140 | 220 | 345 | 500 | 550 |
+| 1,6          | —                                                               | 125 | 195 | 300 | 435 | 480 |
+| 1,8          | —                                                               | 110 | 170 | 270 | 385 | 425 |
+| 2,0          | —                                                               | 100 | 155 | 240 | 350 | 385 |
+| 2,2          | —                                                               | 90  | 140 | 220 | 315 | 350 |
+| 2,5          | —                                                               | —   | 125 | 195 | 280 | 305 |
+| 3,0          | —                                                               | —   | 105 | 160 | 230 | 255 |
+| 3,5          | —                                                               | —   | 90  | 140 | 200 | 220 |
+| 4,0          | —                                                               | —   | —   | 120 | 175 | 190 |
+| 4,5          | —                                                               | —   | —   | 110 | 155 | 170 |
+| 5,0          | —                                                               | —   | —   | 95  | 140 | 155 |
+| 5,5          | —                                                               | —   | —   | 90  | 125 | 140 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<PARAGRAPH>>Page 31
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.4.4 — Electrode efficiency > 130 %<<HEADING_END>>
+<<HEADING level=3>>Run out length from 410 mm of a 450 mm electrode of diameter:
+Heat input<<HEADING_END>>
+<<HEADING level=3>>kJ/mm
+3,2
+mm
+4
+mm
+5
+mm
+6
+mm
+6,3
+mm<<HEADING_END>>
+<<PARAGRAPH>>0,8
+320
+500
+—
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,0
+255
+400
+625
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2
+215
+330
+520
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,4
+180
+285
+445
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,6
+160
+250
+390
+560
+620<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,8
+140
+220
+345
+500
+550<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,0
+130
+200
+310
+450
+495<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,2
+115
+180
+285
+410
+450<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,5
+100
+160
+250
+360
+395<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,0
+85
+135
+210
+300
+330<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,5
+—
+115
+180
+255
+285<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,0
+—
+100
+155
+225
+245<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,5
+—
+90
+140
+200
+220<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,0
+—
+—
+125
+180
+200<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,5
+—
+—
+115
+165
+180<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The values given in Table C.4 relate to electrodes having an original length of 450 mm. For
+other electrode lengths the following expression may be used:<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+F
+L  ×
+×
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>diameter)
+(Electrode
+(mm)
+length
+out
+Run<<PARAGRAPH_END>>
+<<PARAGRAPH>>input
+Heat<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+is the consumed length of electrode (in mm) (normally the original length less 40 mm for the
+stub end)<<PARAGRAPH_END>>
+<<PARAGRAPH>>and<<PARAGRAPH_END>>
+<<PARAGRAPH>>F
+is a factor in kJ/mm 3  having a value depending on the electrode efficiency, as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+efficiency approximately 95 %
+F  = 0,0368<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+95 % < efficiency  ≤  110 %
+F  = 0,0408<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+110 % < efficiency   ≤  130 %
+F  = 0,0472<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+efficiency > 130 %
+F  = 0,0608<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Heat input                                                                                       | Run out length from 410 mm of a 450 mm electrode of diameter:   |     |     |     |     |
+| kJ/mm                                                                                            |                                                                 |     |     |     |     |
+|:-------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:----|:----|:----|:----|
+|                                                                                                  | 3,2                                                             | 4   | 5   | 6   | 6,3 |
+|                                                                                                  | mm                                                              | mm  | mm  | mm  | mm  |
+| 0,8                                                                                              | 320                                                             | 500 | —   | —   | —   |
+| 1,0                                                                                              | 255                                                             | 400 | 625 | —   | —   |
+| 1,2                                                                                              | 215                                                             | 330 | 520 | —   | —   |
+| 1,4                                                                                              | 180                                                             | 285 | 445 | —   | —   |
+| 1,6                                                                                              | 160                                                             | 250 | 390 | 560 | 620 |
+| 1,8                                                                                              | 140                                                             | 220 | 345 | 500 | 550 |
+| 2,0                                                                                              | 130                                                             | 200 | 310 | 450 | 495 |
+| 2,2                                                                                              | 115                                                             | 180 | 285 | 410 | 450 |
+| 2,5                                                                                              | 100                                                             | 160 | 250 | 360 | 395 |
+| 3,0                                                                                              | 85                                                              | 135 | 210 | 300 | 330 |
+| 3,5                                                                                              | —                                                               | 115 | 180 | 255 | 285 |
+| 4,0                                                                                              | —                                                               | 100 | 155 | 225 | 245 |
+| 4,5                                                                                              | —                                                               | 90  | 140 | 200 | 220 |
+| 5,0                                                                                              | —                                                               | —   | 125 | 180 | 200 |
+| 5,5                                                                                              | —                                                               | —   | 115 | 165 | 180 |
+| NOTE The values given in Table C.4 relate to electrodes having an original length of 450 mm. For |                                                                 |     |     |     |     |
+| other electrode lengths the following expression may be used:                                    |                                                                 |     |     |     |     |
+| (Electrodediameter)2                                                                             |                                                                 |     |     |     |     |
+| ×L×F                                                                                             |                                                                 |     |     |     |     |
+| Runoutlength(mm)=                                                                                |                                                                 |     |     |     |     |
+| Heatinput                                                                                        |                                                                 |     |     |     |     |
+| where                                                                                            |                                                                 |     |     |     |     |
+| L is the consumed length of electrode (in mm) (normally the original length less 40 mm for the   |                                                                 |     |     |     |     |
+| stub end)                                                                                        |                                                                 |     |     |     |     |
+| and                                                                                              |                                                                 |     |     |     |     |
+| F is a factor in kJ/mm3 having a value depending on the electrode efficiency, as follows:        |                                                                 |     |     |     |     |
+|  efficiency approximately 95 % F = 0,0368                                                       |                                                                 |     |     |     |     |
+|  95 % < efficiency ≤ 110 % F = 0,0408                                                           |                                                                 |     |     |     |     |
+|  110 % < efficiency ≤ 130 % F = 0,0472                                                          |                                                                 |     |     |     |     |
+|  efficiency > 130 % F = 0,0608                                                                  |                                                                 |     |     |     |     |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<PARAGRAPH>>Page 32
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.12 Examples of use of C.2<<HEADING_END>>
+<<PARAGRAPH>>Step 1: Decide which carbon equivalent value is to be used either by reference to the mill certificates or the
+maximum carbon equivalent in the steel standard. A steel with a carbon equivalent of 0,45 will be
+assumed for this example.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 2: Decide provisionally which welding process and consumables are to be used. Classify the
+consumables using the hydrogen scale A, B, C, D or E according to C.2.3 and Table C.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Assume that manual metal arc welding is to be used and that the weld hydrogen level corresponds
+to scale B in Table C.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 3: Determine whether the joint is to be fillet or butt welded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Assume that butt-welding is to be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 4: From Figure C.2, select the appropriate graph for hydrogen scale B and a carbon equivalent of
+0,45, i.e. Figure C.2 e). When a graph for the selected hydrogen scale and carbon equivalent is not
+available use the graph appropriate to the next highest carbon equivalent value.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 5: Determine the minimum run dimension to be used in making the butt weld. This will most often be
+the root run.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Assume that this will be deposited with a 4 mm electrode with 120 % efficiency to be run out in
+about 260 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Refer to Table C.4.3 which gives the minimum heat input for individual runs forming the butt weld of
+at least 1,2 kJ/mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 6: Determine the combined thickness of the butt joint, referring to C.2.4. Assume that the calculated
+combined thickness is 50 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 7: Using Figure C.2 e) plot the co-ordinates of 1,2 kJ/mm heat input and 50 mm combined thickness.
+Read off the minimum preheating and interpass temperature required, which in this example is
+75 °C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Variation at step 7. In the event that preheat is undesirable, proceed as follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 8: Re-examine Figure C.2 e) to determine the minimum heat input for no preheat (20 °C line,
+normally).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the butt-weld example this is 1,4 kJ/mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 9: If by reference to Table C.4.3 and consideration of the welding position this heat input is feasible,
+proceed using the electrode diameter and run length chosen from Table C.4.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If this is not feasible, proceed to step 10.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Step 10: Using Figures C.2 a) and C.2 d) examine the feasibility of using lower hydrogen levels (by the use
+of higher electrode drying temperatures or change of consumables or change of welding process)
+to avoid the need for preheat at the acceptable heat input levels.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<PARAGRAPH>>Page 33
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3 Method B for the avoidance of hydrogen cracking in non-alloyed, fine grained
+and low alloy steels<<HEADING_END>>
+<<HEADING level=3>>C.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>This method covers the arc welding of steels of the groups 1 to 4 as specified in CR ISO 15608. The
+recommendations given in this annex should be considered in the relevant WPS.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A very effective means to avoid cold cracking is preheating of the weld to higher temperatures to delay the
+cooling of the weld region and thereby promote hydrogen effusion in a shorter time to a higher extent after
+welding than without preheating. Preheating furthermore reduces the state of internal stresses. For multilayer
+welds it is possible to start without preheating if a sufficiently high interpass temperature can be reached and
+maintained by a suitable welding sequence.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The basis of this recommendation is extensive examinations of cold cracking behaviour of steels in welding,
+performed on the weld itself or using special cold cracking tests. Fillet welds have also been examined. It
+was found out that single layer fillet welds have a lower internal stress than butt welds. The preheat
+temperatures determined for butt welds therefore can be about 60 °C too high for fillet welds. Depending on
+his experience, it is up to the manufacturer to make use of this advantage. In terms of determining the
+preheat temperatures for fillet and butt welds with different plate thicknesses, the preheat temperature shall
+be calculated on the basis of the thicker plate. Multi-layer fillet welds and butt welds have similar stress
+conditions. Therefore, the same preheat temperature as for butt welds shall be used to avoid cold cracks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The lowest temperature before starting the first run and below which the weld region shall not fall during
+welding, in the interest of avoiding cold cracking, is designated the preheat temperature  T p . In case of
+multipass welding, the term also used for this temperature in reference to the second and all ensuing runs is
+the minimum interpass temperature  T i . Both temperatures are generally identical. For reasons of simplicity,
+therefore, only the term “preheat temperature” is used in the following.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3.2 Factors influencing the cold cracking behaviour of welds<<HEADING_END>>
+<<PARAGRAPH>>The cold cracking behaviour of welded joints is influenced by the chemical composition of the parent metal
+and weld metal, the plate thickness, the hydrogen content of weld metal, the heat input during the welding,
+and the stress level. An increase of alloy content, plate thickness and hydrogen content increases the risk of
+cold cracking. An increase of heat input, in contrast, reduces it.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3.2.1
+Base material<<HEADING_END>>
+<<PARAGRAPH>>The influence of the chemical composition on the cold cracking behaviour of steels is charactarized by
+means of carbon equivalents  ( CET ) . This formula provides information on the effect on the individual alloying
+elements on these properties in relation to that of the carbon.<<PARAGRAPH_END>>
+<<PARAGRAPH>>%
+in
+40
+Ni
+20
+Cu
+Cr
+10
+Mo
+Mn
+C
++
++
++
++
++
+=
+CET
+(C.2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It applies to the following range of concentrations (percentage by weight):<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Carbon
+0,05 to 0,32<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Silicon
+0,8 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Manganese
+0,5 to 1,9<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Chromium
+1,5 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Copper
+0,7 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Molybdenum
+0,75 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 03-2001<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<PARAGRAPH>>Page 34
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Niobium
+0,06 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Nickel
+2,5 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Titanium
+0,12 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Vanadium
+0,18 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+Boron
+0,005 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A linear relationship exists between the carbon equivalent,  CET , and the preheat temperature,  T p , (or
+interpass temperature,  T i ) as shown in Figure C.3. It can be seen that an increase of around 0,01 % in the
+carbon equivalent,  CET , leads to an increase of around 7,5 °C in the preheat temperature.<<PARAGRAPH_END>>
+<<PARAGRAPH>>C)
+(
+150
+-
+750
+pCET
+°
+×
+=
+CET
+T
+(C.3)<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+T pCET  in °C
+2
+Carbon equivalent,  CET , in %<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.3 — Preheat temperature as a function of carbon equivalent,  CET<<HEADING_END>>
+<<HEADING level=3>>C.3.2.2
+Plate thickness<<HEADING_END>>
+<<PARAGRAPH>>The relationship between plate thickness,  d , and preheat temperature,  T p , can be seen in Figure C.4. It can
+be seen that for thinner material, a change in the plate thickness results in a greater change in preheat
+temperature. However, with increasing material thickness the effect is reduced and is only very minor above
+60 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(
+)
+C)
+(
+110
+-
+35
+tanh
+160
+pd
+°
+×
+=
+d
+T
+(C.4)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<PARAGRAPH>>Page 35
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<IMAGE_2>>
+[Image 2 contains text: -100
+0 20 40) 60 80 100
+| | 2 a]
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+T pd  in °C
+2
+Plate thickness,  d , in mm<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.4 — Preheat temperature as a function of plate thickness,  d<<HEADING_END>>
+<<HEADING level=3>>C.3.2.3
+Hydrogen content<<HEADING_END>>
+<<PARAGRAPH>>The effect of hydrogen content,  HD , of the weld metal in accordance with ISO 3690 on preheat temperature
+is shown in Figure C.5. It can be seen that an increase of the hydrogen content requires an increase of the
+preheat temperature. A change in the hydrogen content has a greater effect on the preheat temperature for
+lower concentrations than high ones.<<PARAGRAPH_END>>
+<<PARAGRAPH>>C)
+(
+100
+62
+0,35
+pHD
+°
+−
+×
+=
+HD
+T
+(C.5)<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+T pHD  in °C
+2
+Hydrogen content  HD  in ml/100 g<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.5 — Preheat temperature as a function of weld metal hydrogen content<<HEADING_END>>
+<<HEADING level=3>>C.3.2.4
+Heat input<<HEADING_END>>
+<<PARAGRAPH>>The influence of the heat input,  Q , on the preheat temperature can be seen in Figure C.6. It can be seen that
+an increased heat input during welding permits a reduction of preheat temperature. Furthermore, the
+influence is dependent on alloy content and is more pronounced for a low carbon equivalent than for a high
+one.<<PARAGRAPH_END>>
+<<PARAGRAPH>>C)
+(
+32
+53
+32)
+-
+(53
+pQ
+°
++
+×
+−
+×
+×
+=
+CET
+Q
+CET
+T
+(C.6)<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<PARAGRAPH>>Page 36
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+T pQ  in °C
+2
+Heat input in kJ/mm<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.6 — Preheat temperature as a function of heat input<<HEADING_END>>
+<<HEADING level=3>>C.3.2.5
+Internal stress<<HEADING_END>>
+<<PARAGRAPH>>At present, the relationship between the internal stress level and the preheat temperature is known only to a
+certain qualitative extent. An increase of the internal stresses and of the tri-axiality of the stress state results
+in an increase of the preheat temperature. In deriving equation C.8 for calculating the preheat temperature, it
+has been assumed that the internal stresses present in the weld region are equal to the yield strength of the
+parent material and the weld metal respectively.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3.3 Calculation of the preheat temperature<<HEADING_END>>
+<<PARAGRAPH>>The effects of chemical composition, characterized by the carbon equivalent,  CET , the plate thickness,  d , the
+hydrogen content of the weld metal,  HD , and the heat input,  Q , can be combined by the formula given below
+to calculate the preheat temperature,  T p .<<PARAGRAPH_END>>
+<<PARAGRAPH>>C)
+(
+pQ
+pHD
+d
+p
+pCET
+p
+°
++
++
++
+=
+T
+T
+T
+T
+T
+(C.7)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The preheat temperature can also be calculated according to the following formula:<<PARAGRAPH_END>>
+<<PARAGRAPH>>C)
+(
+328
+32)
+-
+(53
+62
+)
+35
+(
+tanh
+160
+697
+0,35
+p
+°
+−
+×
+×
++
+×
++
+×
++
+×
+=
+Q
+CET
+HD
+d
+CET
+T
+(C.8)<<PARAGRAPH_END>>
+<<PARAGRAPH>>This relationship is valid for structural steels with a yield strength up to 1 000 N/mm 2  and<<PARAGRAPH_END>>
+<<PARAGRAPH>>CET
+=
+0,2 % to 0,5 %<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+=
+10 mm to 90 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>HD
+=
+1 ml/100g to 20 ml/100g<<PARAGRAPH_END>>
+<<PARAGRAPH>>Q
+=
+0,5 kJ/mm to 4,0 kJ/mm<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_39>>
+<<PARAGRAPH>>Page 37
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to experience, the preheat temperatures calculated with the aid of equation C.7 or C.8,
+respectively, apply, provided that the following conditions are fulfilled:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+The carbon equivalent,  CET , of the parent metal exceeds that of the weld metal by at least 0,03 %.
+Otherwise, the calculation of the preheat temperature has to be based on the  CET  of the weld metal
+increased by 0,03 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Single-pass fillet, tack and root welds have a minimum length of 50 mm. If the plate thickness exceeds
+25 mm, tack and root passes are deposited in two layers using a mild ductile weld metal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+In the case of filler pass welding, which also includes multipass fillet welds, no interpass cooling takes
+place as long as the weld thickness has not yet attained one third of the plate thickness. Otherwise, it is
+necessary to reduce the hydrogen content by means of a post-heating treatment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+The welding sequence shall be selected in such a way that the strong plastic deformations of the only
+partly filled welds are avoided.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3.4 Graphical determination of preheat temperatures<<HEADING_END>>
+<<PARAGRAPH>>The relationship between preheat temperature,  T p ,   and plate thickness,  d , for selected combinations of the
+carbon equivalent,  CET , and the heat input,  Q , can be seen in Figure C.7 based on equation C.8. The curves
+displayed in the individual diagrams apply in each case to different hydrogen concentrations of the weld
+metal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the preheat temperature is to be determined for a certain steel or a weld metal, characterized by its carbon
+equivalent,  CET , then the diagram with the nearest possible  CET  and heat input has to be selected. The
+preheat temperature is obtained from this diagram for the plate thickness and hydrogen content in question.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the carbon equivalent and the heat input in the diagram do not agree with the actual values, the inferred
+preheat temperature shall be corrected. A correction of 7,5 °C has to be made for every 0,01 % difference in
+the  CET.  The correction regarding the heat input can be obtained from Figure C.6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<PARAGRAPH>>Page 38
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>CET  = 0,20 % and  Q  = 1 kJ/mm
+CET  = 0,23 % and  Q  = 2 kJ/mm
+CET  = 0,25 % and  Q  = 3 kJ/mm
+CET  = 0,27 % and  Q  = 4 kJ/mm<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<PARAGRAPH>>CET   = 0,30   % and  Q   = 1 kJ/mm
+CET   = 0,32 % and  Q   = 2 kJ/mm
+CET   = 0,34 % and  Q   = 3 kJ/mm
+CET   = 0,36 % and  Q   = 4 kJ/mm<<PARAGRAPH_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<PARAGRAPH>>CET  = 0.40 % and  Q   = 1 kJ/mm
+CET  = 0.42 % and  Q   = 2 kJ/mm
+CET   = 0.43 % and  Q   = 3 kJ/mm
+CET   = 0.44 % and  Q   = 4 kJ/mm<<PARAGRAPH_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+T p  in °C
+2
+Plate thickness,  d , in mm<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.7 — Preheat temperature  T p  as a function of plate thickness<<HEADING_END>>
+<<TABLE_1>>
+| 0                            | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
+|:-----------------------------|:----|:----|:----|:----|:----|:----|:----|
+| CET = 0,20 % and Q = 1 kJ/mm |     |     |     |     |     |     |     |
+| CET = 0,23 % and Q = 2 kJ/mm |     |     |     |     |     |     |     |
+| CET = 0,25 % and Q = 3 kJ/mm |     |     |     |     |     |     |     |
+| CET = 0,27 % and Q = 4 kJ/mm |     |     |     |     |     |     |     |
+<<TABLE_END>>
+<<TABLE_3>>
+|    |    |    |    | CET = 0.40 % and Q = 1 kJ/   |                            |    |    | mm   |
+|    |    |    |    | CET = 0.42 % and Q = 2 kJ/   |                            |    |    | mm   |
+|    |    |    |    | CET = 0.43 % and Q = 3 kJ/   |                            |    |    | mm   |
+|    |    |    |    | CET = 0.44 % and Q = 4 kJ/   |                            |    |    | mm   |
+|:---|:---|:---|:---|:-----------------------------|:---------------------------|:---|:---|:-----|
+|    |    |    |    |                              | CET = 0.40 % and Q = 1 kJ/ |    |    |      |
+|    |    |    |    |                              | CET = 0.42 % and Q = 2 kJ/ |    |    |      |
+|    |    |    |    |                              | CET = 0.43 % and Q = 3 kJ/ |    |    |      |
+|    |    |    |    |                              | CET = 0.44 % and Q = 4 kJ/ |    |    |      |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_41>>
+<<PARAGRAPH>>Page 39
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3.5 Reduction of the hydrogen content by means of post-heating<<HEADING_END>>
+<<PARAGRAPH>>When there is an increased risk of cold cracking, e.g. when steels with a yield strength of more than
+460 N/mm 2  and in thicknesses greater than 30 mm are submerged-arc welded, it is advisable to reduce the
+hydrogen content by means of soaking, e.g. 2 h/250 °C, immediately after the welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3.6 Welding without preheating<<HEADING_END>>
+<<PARAGRAPH>>If multipass welding is performed, preheating may be avoided by maintaining an adequately high interpass
+temperature,  T i , through the use of a suitable welding sequence. The possibility of avoiding the use of
+preheat by maintaining a high interpass temperature depends not only on the restraint conditions of
+fabrication but also on the chemical composition of the steel to be welded, i.e. on the  CET  and the preheat
+temperature. It should also be noticed that the evaluation of the elements compared to carbon is remarkably
+different between the  CE  and  CET . Therefore it is not advisable to convert  CET  values into  CE  values or vice
+versa.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Figure C.8 provides information about the plate thickness up to which it is possible, depending on the alloy
+content of the steel and hydrogen content of the weld metal, normally to avoid preheating by maintaining an
+interpass temperature of 50 °C or 100 °C by an appropriate weld sequence.<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Plate thickness,  d , in mm
+2
+Carbon equivalent,  CET , in %<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.8 — Limiting plate thickness for welding without preheating as a function of  CET  for
+minimum interpass temperatures  T i  of 50 °C and 100 °C<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_42>>
+<<PARAGRAPH>>Page 40
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>In cases where adequate preheating is impracticable, it is advisable to use austenitic or Ni-based
+consumables. It is then possible to avoid the use of preheating because of the comparatively low internal
+stress level of the welded joints and the better solubility of the hydrogen in austenitic weld metal.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.4 Avoidance of hydrogen cracking for creep resisting and low temperature steels<<HEADING_END>>
+<<HEADING level=3>>C.4.1  Parent metal<<HEADING_END>>
+<<PARAGRAPH>>The parent metals covered by this annex are certain creep resisting and low temperature steels, in
+groups 4, 5, 6 and 7 in CR ISO 15608.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.4.2  Preheating and interpass temperatures<<HEADING_END>>
+<<PARAGRAPH>>The limits for preheating and interpass temperatures, which are applicable for plates, strips, pipes and
+forgings, are given in Table C.5 for creep resisting steels and in Table C.6 for low temperature steels.
+Alterations might be necessary with respect to special requirements, experience or applications (e.g. fillet
+welds, partially filled welds, nozzle weldments or site weldments). Welding procedure approval tests should
+be carried out even if there is no requirement in the design specification.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.4.3  Choice of preheating and interpass temperature<<HEADING_END>>
+<<PARAGRAPH>>The minimum preheating and interpass temperature is dependent on:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  chemical composition of parent metal and weld metal;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  thickness of the weldment and type of joint;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  welding process and parameters;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  weld hydrogen scale.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The maximum interpass temperature should be as given in Tables C.5 or C.6 as appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The preheating and interpass temperatures of Tables C.5 and C.6 are valid for butt welds. Fillet welds due to
+their increased heat sink or partially filled welds sometimes require higher minimum temperatures. Site
+welding can require additional precautions. In order to avoid hydrogen cracking it is advisable:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  to hold the minimum temperature given in Tables C.5 or C.6 during the whole welding process;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  to cool down slowly;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  to perform a soaking treatment especially in cases where partially filled welds have to be cooled down;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  to consider whether to perform the post weld heat treatment immediately after welding (not in the case
+of the 12 % Cr-steel).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_43>>
+<<PARAGRAPH>>Page 41
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.5 — Creep resisting steels — Minimum preheating and interpass temperature<<HEADING_END>>
+<<HEADING level=3>>Minimum preheating and interpass temperature
+Steel type
+Thickness<<HEADING_END>>
+<<HEADING level=3>>Maximum
+interpass
+temperature<<HEADING_END>>
+<<PARAGRAPH>>Scale – D
+Hydrogen
+≤  5 ml/100 g<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scale – C
+Hydrogen
+5  ≤  10 ml/100 g<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scale – A
+Hydrogen
+> 15 ml/100 g<<PARAGRAPH_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>°C<<HEADING_END>>
+<<PARAGRAPH>>°C<<PARAGRAPH_END>>
+<<PARAGRAPH>>°C<<PARAGRAPH_END>>
+<<PARAGRAPH>>°C<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,3 Mo
+≤  15<<PARAGRAPH_END>>
+<<PARAGRAPH>>20<<PARAGRAPH_END>>
+<<PARAGRAPH>>20<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>250<<PARAGRAPH_END>>
+<<PARAGRAPH>>75<<PARAGRAPH_END>>
+<<PARAGRAPH>>75<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 15  ≤  30<<PARAGRAPH_END>>
+<<PARAGRAPH>>75<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 30<<PARAGRAPH_END>>
+<<PARAGRAPH>>≤  15<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 Cr 0,5 Mo<<PARAGRAPH_END>>
+<<PARAGRAPH>>20<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>150<<PARAGRAPH_END>>
+<<PARAGRAPH>>300<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,25 Cr 0,5 Mo<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>150<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,5 Cr 0,5 Mo 0,25 V
+≤  15<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>150<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>300<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>200<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,25 Cr 1 Mo
+≤  15<<PARAGRAPH_END>>
+<<PARAGRAPH>>75<<PARAGRAPH_END>>
+<<PARAGRAPH>>150<<PARAGRAPH_END>>
+<<PARAGRAPH>>200<<PARAGRAPH_END>>
+<<PARAGRAPH>>350<<PARAGRAPH_END>>
+<<PARAGRAPH>>100<<PARAGRAPH_END>>
+<<PARAGRAPH>>200<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>5 Cr 0,5 Mo<<PARAGRAPH_END>>
+<<PARAGRAPH>>All
+150
+200
+Not applicable
+350<<PARAGRAPH_END>>
+<<PARAGRAPH>>7 Cr 0,5 Mo<<PARAGRAPH_END>>
+<<PARAGRAPH>>9 Cr 1 Mo<<PARAGRAPH_END>>
+<<PARAGRAPH>>12 Cr Mo V
+≤  8<<PARAGRAPH_END>>
+<<PARAGRAPH>>150<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>200  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>300  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 8<<PARAGRAPH_END>>
+<<PARAGRAPH>>350  b<<PARAGRAPH_END>>
+<<PARAGRAPH>>450  b<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Martensitic method where the preheat temperature is below the Martensite start ( M s ) temperature and
+transformation to martensite occurs during welding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Austenitic method where the preheat temperature is above the  M s  and the joint shall be allowed to cool to below
+the  M s  to ensure transformation to martensite occurs before any post weld heat treatment is applied.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.6 — Low temperature steels<<HEADING_END>>
+<<HEADING level=3>>Minimum preheating and
+interpass temperature
+Steel type<<HEADING_END>>
+<<HEADING level=3>>Material
+thickness<<HEADING_END>>
+<<HEADING level=3>>Maximum interpass
+temperature<<HEADING_END>>
+<<PARAGRAPH>>Scale – D
+Hydrogen
+≤  5 ml/100 g<<PARAGRAPH_END>>
+<<PARAGRAPH>>Scale – C
+Hydrogen
+5 ml  ≤  10 ml/100 g<<PARAGRAPH_END>>
+<<PARAGRAPH>>% element<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>°C<<PARAGRAPH_END>>
+<<PARAGRAPH>>°C<<PARAGRAPH_END>>
+<<PARAGRAPH>>°C<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,5 Ni
+Over 10
+100  a
+150  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,0 Ni
+Over 10
+100  b
+Not applicable
+250<<PARAGRAPH_END>>
+<<PARAGRAPH>>5,5 Ni
+Over 10
+100  b
+Not applicable
+250<<PARAGRAPH_END>>
+<<PARAGRAPH>>9,0 Ni
+Over 10
+100  b
+Not applicable
+250<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+The values for minimum preheat given are typical of normal production using matching composition consumables.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+The level of preheat specified refers to those instances where near matching consumables or autogenous welding
+is involved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The 5 % Ni to 9 % Ni steels are usually welded using nickel based welding consumables and preheat is not
+normally required up to plate thicknesses of 50 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Steel type                                                                                                       | Thickness   | Minimum preheating and interpass temperature   |                 |                | Maximum       |
+|                                                                                                                  | mm          |                                                |                 |                | interpass     |
+|                                                                                                                  |             |                                                |                 |                | temperature   |
+|                                                                                                                  |             |                                                |                 |                | °C            |
+|:-----------------------------------------------------------------------------------------------------------------|:------------|:-----------------------------------------------|:----------------|:---------------|:--------------|
+|                                                                                                                  |             | Scale – D                                      | Scale – C       | Scale – A      |               |
+|                                                                                                                  |             | Hydrogen                                       | Hydrogen        | Hydrogen       |               |
+|                                                                                                                  |             | ≤ 5 ml/100 g                                   | 5 ≤ 10 ml/100 g | > 15 ml/100 g  |               |
+|                                                                                                                  |             | °C                                             | °C              | °C             |               |
+| 0,3 Mo                                                                                                           | ≤ 15        | 20                                             | 20              | 100            | 250           |
+|                                                                                                                  | > 15 ≤ 30   | 75                                             | 75              | 100            |               |
+|                                                                                                                  | > 30        | 75                                             | 100             | Not applicable |               |
+| 1 Cr 0,5 Mo                                                                                                      | ≤ 15        | 20                                             | 100             | 150            | 300           |
+| 1,25 Cr 0,5 Mo                                                                                                   | > 15        | 100                                            | 150             | Not applicable |               |
+| 0,5 Cr 0,5 Mo 0,25 V                                                                                             | ≤ 15        | 100                                            | 150             | Not applicable | 300           |
+|                                                                                                                  | > 15        | 100                                            | 200             | Not applicable |               |
+| 2,25 Cr 1 Mo                                                                                                     | ≤ 15        | 75                                             | 150             | 200            | 350           |
+|                                                                                                                  | > 15        | 100                                            | 200             | Not applicable |               |
+| 5 Cr 0,5 Mo                                                                                                      | All         | 150                                            | 200             | Not applicable | 350           |
+| 7 Cr 0,5 Mo                                                                                                      |             |                                                |                 |                |               |
+| 9 Cr 1 Mo                                                                                                        |             |                                                |                 |                |               |
+| 12 Cr Mo V                                                                                                       | ≤ 8         | 150                                            | Not applicable  | Not applicable | 300 a         |
+|                                                                                                                  | > 8         | 200 a                                          | Not applicable  | Not applicable | 450 b         |
+|                                                                                                                  |             | 350 b                                          |                 |                |               |
+| a Martensitic method where the preheat temperature is below the Martensite start (M) temperature and             |             |                                                |                 |                |               |
+| s                                                                                                                |             |                                                |                 |                |               |
+| transformation to martensite occurs during welding.                                                              |             |                                                |                 |                |               |
+| b Austenitic method where the preheat temperature is above the M and the joint shall be allowed to cool to below |             |                                                |                 |                |               |
+| s                                                                                                                |             |                                                |                 |                |               |
+| the M to ensure transformation to martensite occurs before any post weld heat treatment is applied.              |             |                                                |                 |                |               |
+| s                                                                                                                |             |                                                |                 |                |               |
+<<TABLE_END>>
+<<TABLE_2>>
+| Steel type                                                                                                       | Material    |    | Minimum preheating and   |                    | Maximum interpass   |
+| % element                                                                                                        | thickness   |    | interpass temperature    |                    | temperature         |
+|                                                                                                                  | mm          |    |                          |                    | °C                  |
+|:-----------------------------------------------------------------------------------------------------------------|:------------|:---|:-------------------------|:-------------------|:--------------------|
+|                                                                                                                  |             |    | Scale – D                | Scale – C          |                     |
+|                                                                                                                  |             |    | Hydrogen                 | Hydrogen           |                     |
+|                                                                                                                  |             |    | ≤ 5 ml/100 g             | 5 ml ≤ 10 ml/100 g |                     |
+|                                                                                                                  |             |    | °C                       | °C                 |                     |
+| 3,5 Ni                                                                                                           | Over 10     |    | 100 a                    | 150 a              | 250                 |
+| 5,0 Ni                                                                                                           | Over 10     |    | 100 b                    | Not applicable     | 250                 |
+| 5,5 Ni                                                                                                           | Over 10     |    | 100 b                    | Not applicable     | 250                 |
+| 9,0 Ni                                                                                                           | Over 10     |    | 100 b                    | Not applicable     |                     |
+| a The values for minimum preheat given are typical of normal production using matching composition consumables.  |             |    |                          |                    |                     |
+| b The level of preheat specified refers to those instances where near matching consumables or autogenous welding |             |    |                          |                    |                     |
+| is involved.                                                                                                     |             |    |                          |                    |                     |
+| The 5 % Ni to 9 % Ni steels are usually welded using nickel based welding consumables and preheat is not         |             |    |                          |                    |                     |
+| normally required up to plate thicknesses of 50 mm.                                                              |             |    |                          |                    |                     |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_44>>
+<<PARAGRAPH>>Page 42
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex D
+(informative)
+Heat affected zone toughness and hardness<<HEADING_END>>
+<<HEADING level=3>>D.1 General<<HEADING_END>>
+<<PARAGRAPH>>This annex describes the influence of welding conditions on the temperature/time cycles occurring during
+welding and on the mechanical properties in the  HAZ .<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2 Fundamental behaviour of ferritic steels<<HEADING_END>>
+<<PARAGRAPH>>The welding of ferritic steels produces a zone in which the original microstructure is changed by the heat
+producing the weld. Depending on the microstructure, the toughness and hardness will also be changed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The change of the microstructure in the  HAZ  depends mainly on the chemical composition of the parent
+metal and on the temperature/time cycles which occur during welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.3 Influence of the steel type<<HEADING_END>>
+<<PARAGRAPH>>The relationship between the  HAZ  microstructure and toughness is considered to be as follows: the
+toughness decreases with an increase of the grain size and an increase of the fraction of hard martensitic
+and bainitic microstructure constituents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the case of C and C-Mn steels, which do not contain any element that limits the austenite grain growth
+during welding, frequently only strict control of the cooling time is necessary to ensure adequate toughness
+in the  HAZ .<<PARAGRAPH_END>>
+<<PARAGRAPH>>For micro-alloyed C-Mn steels, a carefully selected combination of elements that are able to form carbide
+and nitride precipitates, which are stable at elevated temperature, makes it possible to limit the austenite
+grain growth and to promote an intragranular ferrite nucleation during the transformation of the austenite.
+The control of the austenite grain growth depends on the type and amount of carbide and nitride forming
+elements. Such steels are therefore less sensitive to deterioration of toughness in the  HAZ .<<PARAGRAPH_END>>
+<<PARAGRAPH>>Low alloy ferritic steels, for example quenched and tempered, creep resisting and low temperature steels, as
+well as Ni alloyed steels, will react according to their chemical composition, but no common behaviour can
+be expected.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.4 Influence of the welding conditions on the mechanical properties<<HEADING_END>>
+<<PARAGRAPH>>The temperature/time cycles during welding have a significant effect on the mechanical properties of a
+welded joint. These are particularly influenced by the material thickness, the form of weld, the heat input
+during welding (see EN 1011-1:1998) and the preheating temperature. Generally, the cooling time,  t 8/5 , is
+chosen to characterize the temperature/time cycle of an individual weld run during welding and is the time
+taken, during cooling, for a weld run and its heat affected zone to pass through the temperature range from
+800 °C to 500 °C (see D.5).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Increasing values of cooling time,  t 8/5 , generally lead to a reduction of the impact energy and a rise in the
+impact transition temperature of the  HAZ  (see Figure D.1). The extent of deterioration of the toughness
+depends on the steel type and its chemical composition.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The hardness in the  HAZ  decreases with an increasing cooling time,  t 8/5 , (see Figure D.2).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_45>>
+<<PARAGRAPH>>Page 43
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>D.5 Cooling time concept<<HEADING_END>>
+<<PARAGRAPH>>If the impact energy in the  HAZ  for a particular steel is not to fall below a prescribed minimum value, then the
+welding conditions have to be selected in such a way that the cooling time,  t 8/5 , is not exceeded. If a
+prescribed minimum hardness in the  HAZ  for a particular steel is not to be exceeded, then the welding
+conditions have to be selected in such a way that the cooling time,  t 8/5 , does not fall below a certain value.
+For this approach, the curves for impact energy, impact transition temperature and hardness as a function of
+the  t 8/5  should be known for the relevant steel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For high strength unalloyed and low alloy ferritic steels, the appropriate cooling times,  t 8/5 , of the filler and
+capping passes generally lie within the range 10 s to 25 s. There is nothing to prevent welds being made in
+these steels with other cooling times,  t 8/5 , provided that for each individual case appropriate checks have
+been made on the basis of a welding procedure test according to EN 288-3:1997 or pre-production tests
+according to EN 288-8:1995 and provided that the structural requirements for the component are satisfied.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If no curves for the relationship of impact energy, impact transition temperature and hardness as a function
+of  t 8/5  are available, welding procedure tests in accordance with EN 288-3:1997 or EN 288-8:1995 are
+recommended.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.6 Calculation of cooling time<<HEADING_END>>
+<<PARAGRAPH>>The relationship between the welding conditions and the cooling time can be described by equations, but a
+differentiation shall be made between two- and three-dimensional heat flow (see Figures D.3 and D.4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Figure D.4 is a diagram which provides information regarding the relationship between the transition
+thickness,  d t , heat input,  Q , and preheat temperature,  T p , for any type of weld and any welding process. This
+diagram indicates whether the heat flow is two- or three-dimensional for a particular combination of material
+thickness, heat input and preheat temperature.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When the heat flow is three-dimensional and the cooling time is independent of the material thickness it is
+calculated using equation D.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>−
+−
+−
+×
+=
+o
+o
+8/5
+800
+1
+500
+1
+2
+T
+T
+πλ
+Q
+t
+(D.1)<<PARAGRAPH_END>>
+<<PARAGRAPH>> 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>For unalloyed and low alloyed steels the equation D.1 changes to approximately (see equation D.2) (using
+the appropriate shape factors,  F 3 , given in Table D.1):<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+o
+o
+o
+8/5
+800
+1
+500
+1
+)
+5
+(6700
+F
+T
+T
+Q
+T
+t
+×
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>−
+−
+−
+×
+×
+−
+=
+(D.2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>When the heat flow is two-dimensional and the cooling time is dependent upon the material thickness it is
+calculated using equation D.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>Q
+t
+(D.3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PARAGRAPH>> 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>−
+−
+−
+×
+=
+2
+o
+2
+o
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>8/5
+)
+(800<<PARAGRAPH_END>>
+<<PARAGRAPH>>)
+(500<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+T
+T
+πλρcd<<PARAGRAPH_END>>
+<<PARAGRAPH>>For unalloyed and low alloyed steels the equation D.3 changes to approximately (see equation D.4) (using
+the appropriate shape factors,  F 2 , given in Table D.1):<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+5
+o
+8/5
+800
+1
+500
+1
+10
+)
+4,3
+(4300
+F
+T
+T
+d<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>Q
+T
+t
+×
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+<<PARAGRAPH_END>>
+<<PARAGRAPH>> 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>−
+−
+ 
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>−
+×
+×
+×
+−
+=
+(D.4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>o
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>o<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_46>>
+<<PARAGRAPH>>Page 44
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>whereby:  Q  =  ε   ×   E  =  ε   ×   U   ×  ( I  /  v)   ×  1 000  (kJ/mm)<<PARAGRAPH_END>>
+<<PARAGRAPH>>U  in Volt
+I
+in Ampere
+v  in mm/sec
+ε   thermal efficiency of the welding procedure<<PARAGRAPH_END>>
+<<PARAGRAPH>>UP (121)
+ε  = 1,0
+E (111)
+ε  = 0,85
+MAG (135)
+ε  = 0,85<<PARAGRAPH_END>>
+<<HEADING level=3>>Table D.1 — Influence of the form of weld on the cooling time,  t 8/5<<HEADING_END>>
+<<HEADING level=3>>Shape factor<<HEADING_END>>
+<<HEADING level=3>>Form of weld
+F 2<<HEADING_END>>
+<<PARAGRAPH>>F 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>two-dimensional heat
+flow<<PARAGRAPH_END>>
+<<PARAGRAPH>>three-dimensional heat
+flow<<PARAGRAPH_END>>
+<<PARAGRAPH>>Run on plate<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Between runs in butt
+welds<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,9
+0,9<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single run fillet weld on a
+corner-joint<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,9 to 0,67
+0,67<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single run fillet weld on a
+T-joint<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,45 to 0,67
+0,67<<PARAGRAPH_END>>
+<<HEADING level=3>>D.7 Diagrams for determining the cooling time  t 8/5<<HEADING_END>>
+<<PARAGRAPH>>The cooling time  t 8/5  for a prescribed heat input,  Q , or the heat input for a prescribed cooling time can also be
+determined on the basis of Figures D.5 and D.6, having first established the type of heat flow using
+Figure D.4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For three-dimensional heat flow, the relationship between the cooling time,  t 8/5 , the heat input,  Q , and the
+preheat temperature,  T p , is given, in the case of runs on a plate, in Figure D.5 of which equation D.1 forms
+the basis. If this diagram is applied to other types of welds, consideration should be given to the
+corresponding shape factor,  F 3.  If the cooling time is to be determined for a particular combination of heat
+input and preheat temperature then the heat input should first be multiplied by  F 3 . If, however, the heat input
+is conversely taken from the diagram for a prescribed cooling time and preheat temperature, then it should
+be divided by  F 3 .<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Form of weld                |    | Shape factor         |                        |
+|:----------------------------|:---|:---------------------|:-----------------------|
+|                             |    | F                    | F                      |
+|                             |    | 2                    | 3                      |
+|                             |    | two-dimensional heat | three-dimensional heat |
+|                             |    | flow                 | flow                   |
+| Run on plate                |    | 1                    | 1                      |
+| Between runs in butt        |    | 0,9                  | 0,9                    |
+| welds                       |    |                      |                        |
+| Single run fillet weld on a |    | 0,9 to 0,67          | 0,67                   |
+| corner-joint                |    |                      |                        |
+| Single run fillet weld on a |    | 0,45 to 0,67         | 0,67                   |
+| T-joint                     |    |                      |                        |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_47>>
+<<PARAGRAPH>>Page 45
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>Information regarding the relationship between the cooling time and  Qt 0  at two-dimensional heat flow is given
+for different material thicknesses in Figure D.6 of which equation D.2 forms the basis. If these diagrams are
+to be applied to other types of weld, consideration should be given to the corresponding shape factor,  F 2 . For
+example, if the cooling time is to be determined for a particular combination of heat input and preheat
+temperature, then the heat input should first be multiplied by ( F 2 ) 1/2 . If, however, the heat input is conversely
+taken from the diagram for a prescribed cooling time and preheat temperature, then it should be divided by
+( F 2 ) 1/2 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>If in the case of two-dimensional heat flow, the plate thickness in question does not correspond exactly with
+those shown in Figure D.6, the diagram closest to the actual plate thickness is used. The cooling time is then
+corrected in accordance with the plate thickness ratio. To do this the cooling time taken from the diagram is
+multiplied by the square of the plate thickness taken from the diagram and divided by the square of the plate
+thickness in question.<<PARAGRAPH_END>>
+<<HEADING level=3>>D.8 Measurement of cooling time<<HEADING_END>>
+<<PARAGRAPH>>To measure the cooling time of a weld, a thermocouple is normally immersed in the weld metal while it is still
+molten and the temperature/time cycle is recorded. From the  T / t  curve the cooling time is derived.<<PARAGRAPH_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<PARAGRAPH>>a )
+b)<<PARAGRAPH_END>>
+<<HEADING level=3>>Key
+1    Impact energy
+2    Cooling time,  t 8/5
+3    Upper limiting value of applicable
+cooling time,  t 8/5
+4    Admissible minimum impact energy
+value<<HEADING_END>>
+<<HEADING level=3>>Key
+1     Impact transition temperature
+2     Cooling time,  t 8/5
+3     Upper limiting value of applicable
+cooling time,  t 8/5
+4     Admissible maximum impact
+transition temperature value<<HEADING_END>>
+<<HEADING level=3>>Figure D.1 — Influence of the welding conditions on
+a) the notch toughness and b) the transition temperature  T t  in the  HAZ<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 0   |   1 |
+|:----|----:|
+|     |   1 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_48>>
+<<PARAGRAPH>>Page 46
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key
+1
+Hardness
+2
+Cooling time,  t 8/5
+3
+Admissible maximum hardness
+4
+Lower limiting value of applicable cooling time,  t 8/5<<HEADING_END>>
+<<HEADING level=3>>Figure D.2 — Influence of the welding conditions on the maximum hardness in the  HAZ<<HEADING_END>>
+<<IMAGE_3>>
+[Image 3 contains text: 1]
+<<HEADING level=3>>1
+1<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Run<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Three-dimensional heat flow. Relatively thick plates; plate thickness does not affect cooling time.
+b)
+Two-dimensional heat flow. Relatively thin plates; plate thickness has a decisive influence on cooling time.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure D.3 — Types of heat flow during welding<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_49>>
+<<PARAGRAPH>>Page 47
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Transition thickness,  d t  (mm)
+2
+Heat input (kJ/mm)
+3
+Three-dimensional heat flow
+4
+Two-dimensional heat flow<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure D.4 — Transition plate thickness from three-dimensional to two-dimensional heat flow as a
+function of heat input for different preheat temperatures<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Cooling time,  t 8/5  (s)
+2
+Heat input (kJ/mm)<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure D.5 — Cooling time  t 8/5  for three-dimensional heat flow as a function of heat input for different
+preheat temperatures<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 1   |    |    |    |    |    |    |    |    |
+|:----|:---|:---|:---|:---|:---|:---|:---|:---|
+|     | 3  |    |    |    |    |    |    |    |
+|     |    |    |    | 4  |    |    |    |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_50>>
+<<PARAGRAPH>>Page 48
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Cooling time,  t 8/5  (s)
+2
+Heat input (kJ/mm)
+3
+Three-dimensional heat flow<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure D.6 — Cooling time  t 8/5  for two-dimensional heat flow as a function
+of heat input for different preheat temperatures<<HEADING_END>>
+<<TABLE_3>>
+| 0   |   1 | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
+|:----|----:|:----|:----|:----|:----|:----|:----|:----|:----|:-----|
+|     |   3 |     |     |     |     |     |     |     |     |      |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_51>>
+<<PARAGRAPH>>Page 49
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex E
+(informative)
+Avoidance of solidification cracking<<HEADING_END>>
+<<PARAGRAPH>>Solidification cracking of the weld metal is usually found as centreline cracking. It is more often found in root
+runs and, although frequently open at the surface and visible after deslagging, can be just below the surface
+and covered by up to 0,5 mm of sound metal. Solidification cracks can be deep and can seriously reduce the
+efficiency of a joint. When welding carbon manganese steels, this type of cracking is most commonly found
+in submerged-arc welds, rarely with manual metal arc welding but it can sometimes be a problem with
+gas-shielded and self-shielded processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Solidification cracking is associated with impurities, particularly sulphur and phosphorus, and is promoted by
+carbon picked up from the parent metal at high dilution levels while manganese reduces the risk of cracking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Impurity levels and crack susceptibilities are usually greatest in weld runs of high dilution, e.g. root runs of
+butt welds. To minimize the risk of cracking, consumables are preferred with low carbon and impurity levels
+and relatively high manganese contents. A reduction in welding speed can be helpful in overcoming
+cracking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The solidification crack susceptibility of weld metal is affected by both its composition and weld run geometry
+(depth/width ratio). The chemical composition of weld metal is determined by the composition of the filler
+material and the parent metal and the degree of dilution. The degree of dilution, as well as weld run
+geometry, both depend on the joint geometry (angle of bevel, root face and gap) and the welding parameters
+(current and voltage).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For submerged-arc welds a formula has been developed for carbon and carbon manganese steels in which
+the solidification crack susceptibility in arbitrary units known as units of crack susceptibility ( UCS ) has been
+related to the composition of the weld metal [in % (m/m)]. Although developed for submerged-arc welding,
+the use of the formula can be helpful in assessing the risk of solidification cracking for other welding
+processes and other ferritic steels. The formula is as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>UCS  = 230 C + 190 S + 75 P + 45 Nb  −  12,3 Si  −  5,4 Mn  −  1<<PARAGRAPH_END>>
+<<PARAGRAPH>>This formula is valid for the weld metal compositions given in Table E.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloying elements and impurities in the weld metal up to the limits given in Table E.2 do not exert a marked
+effect on values of  UCS .<<PARAGRAPH_END>>
+<<PARAGRAPH>>Values of less than 10  UCS  indicate a high resistance to cracking and above 30 a low resistance. Within
+these approximate limits the risk of cracking is higher in weld runs with a high depth/width ratio, made at high
+welding speeds or where fit-up is near the maximum allowable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table E.1 — Validity of the UCS formula for solidification cracking<<HEADING_END>>
+<<HEADING level=3>>Element
+Content in %<<HEADING_END>>
+<<PARAGRAPH>>C
+0,03   a
+to
+0,23<<PARAGRAPH_END>>
+<<PARAGRAPH>>S
+0,010
+to
+0,050<<PARAGRAPH_END>>
+<<PARAGRAPH>>P
+0,010
+to
+0,045<<PARAGRAPH_END>>
+<<PARAGRAPH>>Si
+0,15
+to
+0,65<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mn
+0,45
+to
+1,6<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nb
+0
+to
+0,07<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Contents of less than 0,08 % to be taken
+as equal to 0,08 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Element                                    |    | Content in %   |
+|:-------------------------------------------|:---|:---------------|
+| C                                          |    | 0,03 a to 0,23 |
+| S                                          |    | 0,010 to 0,050 |
+|                                            | P  | 0,010 to 0,045 |
+|                                            | Si | 0,15 to 0,65   |
+| Mn                                         |    | 0,45 to 1,6    |
+| Nb                                         |    | 0 to 0,07      |
+| a Contents of less than 0,08 % to be taken |    |                |
+| as equal to 0,08 %.                        |    |                |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_52>>
+<<PARAGRAPH>>Page 50
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Table E.2 — Limits of alloying elements and impurities on validity of the  UCS  formula<<HEADING_END>>
+<<HEADING level=3>>Element
+Content max. in %<<HEADING_END>>
+<<PARAGRAPH>>Ni
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cr
+0,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mo
+0,4<<PARAGRAPH_END>>
+<<PARAGRAPH>>V
+0,07<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cu
+0,3<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ti
+0,02<<PARAGRAPH_END>>
+<<PARAGRAPH>>Al
+0,03<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+0,002<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pb
+0,01<<PARAGRAPH_END>>
+<<PARAGRAPH>>Co
+0,03<<PARAGRAPH_END>>
+<<PARAGRAPH>>Although up to 1 % nickel has no effect on  UCS  values, higher levels of nickel can increase the susceptibility
+to solidification cracking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For fillet weld runs having a depth/width ratio of about 1,0,  UCS  values of 20 and above indicate a risk of
+cracking whilst for butt welds the values of about 25  UCS  are critical. Decreasing the depth/width ratio from
+1,0 to 0,8 in fillet welds can increase the allowable  UCS  by about 9. However, very low depth/width ratios,
+such as are obtained when penetration into the root is not achieved, also promote cracking.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Element   |    | Content max. in %   |
+|:----------|:---|:--------------------|
+| Ni        |    | 1                   |
+| Cr        |    | 0,5                 |
+| Mo        |    | 0,4                 |
+| V         |    | 0,07                |
+|           | Cu | 0,3                 |
+|           | Ti | 0,02                |
+| Al        |    | 0,03                |
+| B         |    | 0,002               |
+| Pb        |    | 0,01                |
+| Co        |    | 0,03                |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_53>>
+<<PARAGRAPH>>Page 51
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex F
+(informative)
+Avoidance of lamellar tearing<<HEADING_END>>
+<<HEADING level=3>>F.1  General<<HEADING_END>>
+<<PARAGRAPH>>In certain types of joint, where the welding contraction strains act in the through-thickness (transverse)
+direction of a plate, lamellar tearing may occur. Lamellar tearing is a parent metal phenomenon which occurs
+mainly in plate material. The risk of cracking is influenced by two factors: plate susceptibility and strain
+across the joint. With very susceptible plate material, tearing can occur even if strains are low, i.e. in a joint of
+low restraint. More resistant materials might not tear unless used in situations which impose very high
+through-thickness strains.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Lamellar tearing occurs mainly during production and not during service. In the latter case periodic loads or
+impact loads are the main reasons.<<PARAGRAPH_END>>
+<<HEADING level=3>>F.2  Plate susceptibility<<HEADING_END>>
+<<PARAGRAPH>>Since lamellar tearing occurs when the non-metallic inclusions in a plate link up under the influence of
+welding strains, plate susceptibility is controlled by the quantity and distribution of the inclusions. At present
+there is no reliable non-destructive technique for detecting these inclusions. The short transverse tensile test
+can be used to assess susceptibility (see EN 10164) and the short transverse reduction of area (STRA) has
+been correlated with the incidence of lamellar tearing in different types of fabrication (see Figure F.1). In the
+case of low oxygen steels (aluminium treated or vacuum degassed types) sulphur content has been found to
+be a useful guide to the inclusion content and thus to the STRA. Figure F.2 gives the likely lowest and
+highest values of STRA to be expected in aluminium treated steel of a given sulphur content. The data is for
+plates 12,5 mm to 50 mm thick but it should be noted that the relationship of STRA (in %) to sulphur content
+(in %) is to some extent thickness dependent.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Steel giving STRA values of over 20 % are considered lamellar tearing resistant and materials with
+guaranteed STRA values are available (see EN 10164). These are usually aluminium treated steels with low
+sulphur content, although additions of rare earth or calcium compounds can also be made both to reduce the
+inclusion content and to alter favourably the inclusion shapes.<<PARAGRAPH_END>>
+<<HEADING level=3>>F.3  Joint configuration, fabrication and through-thickness strains<<HEADING_END>>
+<<PARAGRAPH>>The risk of lamellar tearing for a given steel increases with through-thickness strain which is usually high in
+joints of high tensile restraint. However, tearing can also occur if the bending restraint is low since angular
+distortion can increase the strain in weld root or toe areas (see Figure F.3). In some cases, design changes
+can be made which reduce the through-thickness strain. Examples of the types of detail and joint
+configuration in which lamellar tearing is possible are shown in Figure F.4, typical locations of the cracks
+being illustrated. If the plate susceptibility is considered to be high, susceptible joints and details should be
+modified or avoided.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following general statements should be noted:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) For a given weld strength, joints should be made such that the attachment area is enlarged (see
+Figure F.5).<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_54>>
+<<PARAGRAPH>>Page 52
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) The shrinkage stresses should be minimized:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  by reducing the volume of weld metal;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  by welding with the minimum number of runs;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  by using a buttering layer sequence (see Figure F.6);<<PARAGRAPH_END>>
+<<PARAGRAPH>>  by a balanced layer sequence in symmetric welds.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) The weldment should be made such that as much of the through-thickness of the rolled plate as possible
+is in contact with the weld metal (see Figures F.7 to F.9).<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) The weldment should be made such that restraint in the through-thickness direction is minimized.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) The weldment can be made less sensitive to lamellar tearing by buttering with a low strength material
+(see Figure F.9).<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Probable freedom from tearing in any type of joint
+2
+Some risk in highly restrained joints, e.g. node joints
+3
+Some risk in moderately restrained joints, e.g. box columns
+4
+Some risk in lightly restrained T-joints, e.g. I-beams<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.1 — Suggested STRA values appropriate to the risk of lamellar tearing
+in joints of differing restraint<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_55>>
+<<PARAGRAPH>>Page 53
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1 STRA %
+2 Sulphur content % (m/m)
+3 Lower bound<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.2 — STRA as a function of sulphur content for plates 12,5 mm to 50 mm thick (inclusive)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Tensile restraint
+2
+Bending restraint<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.3 — Example of restraints in T-joints with fillet welds<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_56>>
+<<PARAGRAPH>>Page 54
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<IMAGE_4>>
+[Image 4 contains text: I
+>>
+2 ay
+SS
+Yee;
+Z YY \
+4 Z \ Wy), \\
+NZ
+\\ 7
+| aN r
+5 SN "6
+| b)
+c) 3 3 |
+e)
+d)]
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Nozzle fabricated from rolled plate
+2
+Rigid plate
+3
+Critical joint
+4
+Circumferential stiffener
+5
+Cylindrical vessel
+6
+Rigid ends<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Nozzle through a rigid plate
+b)
+Stiffener or rigid end in a cylindrical fabrication
+c)
+Rigid box section
+d)
+T-joint with fillet welds
+e)
+T-joint with compound butt and fillet welds
+f)
+Corner joint with butt weld<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.4 — Details and joint configurations in which lamellar tearing is possible when fabricating
+large structures with a high degree of restraint<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_57>>
+<<PARAGRAPH>>Page 55
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.5 — Reduction of sensitivity to lamellar tearing by enlargement of the fusion face<<HEADING_END>>
+<<HEADING level=3>>Figure F.6 — Reduction of sensitivity to lamellar tearing by layer sequence<<HEADING_END>>
+<<IMAGE_5>>
+[Image 5 contains text: | “8
+
+- ofete
+
+overs
+
+552525
+
+: ererere *
+OOS BASS
+erorere eerste eeree®
+srarerererereterereetetetetetes
+{ *.0.0.0.9.0.©.9.0.©.0.0.0.0.9.0.03 4]
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>a)
+Sensitive
+b)
+Not sensitive<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.7 — Reduction of sensitivity to lamellar tearing by welding the full thickness of the
+rolled plate<<HEADING_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_58>>
+<<PARAGRAPH>>Page 56
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>a)
+Sensitive
+b)
+Less sensitive
+c)
+Not sensitive<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.8 — Reduction of sensitivity to lamellar tearing<<HEADING_END>>
+<<IMAGE_6>>
+[Image 6 contains text: 1 Z
+a) ))]
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+Single layer buttering
+2
+Double layer buttering<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Sensitive
+b)
+Less sensitive<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure F.9 — Reduction of sensitivity to lamellar tearing by buttering preferably with
+low strength high ductility weld metal<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_59>>
+<<PARAGRAPH>>Page 57
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Annex G
+(informative)
+References in the annexes<<HEADING_END>>
+<<PARAGRAPH>>EN 288-3 : 1997,  Specification and approval of welding procedures for metallic materials  —  Part 3: Welding
+procedure tests for the arc welding of steels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 288-8 : 1995,  Specification and approval of welding procedures for metallic materials  —  Part 8: Approval by a
+pre-production welding test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 499,  Welding consumables  —  Covered electrodes for manual metal arc welding of non alloy and fine grain
+steels  —  Classification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 1011-1:1998,  Welding  —  Recommendations for welding of metallic materials  —  Part 1: General guidance for
+arc welding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 1708-1:1999,  Welding  —  Basic weld joint details in steel  —  Part 1: Pressurized components.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 1708-2,  Welding  —  Basic weld joint details in steel  —  Part 2: None internal pressurized components.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 10164,  Steel products with improved deformation properties perpendicular to the surface of the product  —
+Technical delivery conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 3690:1983,  Welding  —  Determination of hydrogen in deposited weld metal arising from the use of covered
+electrodes for welding mild and low alloy steels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>CR ISO 15608,  Welding  —  Guidelines for a metallic material grouping system (ISO/TR 15608:2000).<<PARAGRAPH_END>>
+<<PARAGRAPH>>B ©SI 1002-30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_60>>
+<<PARAGRAPH>>Page 58
+EN 1011-2:2001<<PARAGRAPH_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>Hart P.H.M, Pargetter R.J and Wright M.D,  Comparison of methods for determining weld procedures for the
+avoidance of hydrogen cracking in fabrication . Document IX-1602-90. IIW.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Uwer D and Hoehne H,  Determination of the lowest preheat temperature for cold cracking / safe welding of
+steels . Document IX-1631-91. IIW.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_61>>
+<<PARAGRAPH>>blank<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_62>>
+<<HEADING level=3>>BS EN
+1011-2:2001<<HEADING_END>>
+<<HEADING level=1>>BSI — British Standards Institution<<HEADING_END>>
+<<PARAGRAPH>>BSI is the independent national body responsible for preparing
+British Standards. It presents the UK view on standards in Europe and at the
+international level. It is incorporated by Royal Charter.<<PARAGRAPH_END>>
+<<HEADING level=3>>Revisions<<HEADING_END>>
+<<PARAGRAPH>>British Standards are updated by amendment or revision. Users of
+British Standards should make sure that they possess the latest amendments or
+editions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the constant aim of BSI to improve the quality of our products and services.
+We would be grateful if anyone finding an inaccuracy or ambiguity while using
+this British Standard would inform the Secretary of the technical committee
+responsible, the identity of which can be found on the inside front cover.
+Tel: +44 (0)20 8996 9000. Fax: +44 (0)20 8996 7400.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BSI offers members an individual updating service called PLUS which ensures
+that subscribers automatically receive the latest editions of standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>Buying standards<<HEADING_END>>
+<<PARAGRAPH>>Orders for all BSI, international and foreign standards publications should be
+addressed to Customer Services. Tel: +44 (0)20 8996 9001.
+Fax: +44 (0)20 8996 7001. Email: orders@bsi-global.com. Standards are also
+available from the BSI website at  http://www.bsi-global.com .<<PARAGRAPH_END>>
+<<PARAGRAPH>>In response to orders for international standards, it is BSI policy to supply the
+BSI implementation of those that have been published as British Standards,
+unless otherwise requested.<<PARAGRAPH_END>>
+<<HEADING level=3>>Information on standards<<HEADING_END>>
+<<PARAGRAPH>>BSI provides a wide range of information on national, European and
+international standards through its Library and its Technical Help to Exporters
+Service. Various BSI electronic information services are also available which give
+details on all its products and services. Contact the Information Centre.
+Tel: +44 (0)20 8996 7111. Fax: +44 (0)20 8996 7048. Email: info@bsi-global.com.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Subscribing members of BSI are kept up to date with standards developments
+and receive substantial discounts on the purchase price of standards. For details
+of these and other benefits contact Membership Administration.
+Tel: +44 (0)20 8996 7002. Fax: +44 (0)20 8996 7001.
+Email: membership@bsi-global.com.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Information regarding online access to British Standards via British Standards
+Online can be found at  http://www.bsi-global.com/bsonline .<<PARAGRAPH_END>>
+<<PARAGRAPH>>Further information about BSI is available on the BSI website at
+http://www.bsi-global.com .<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>Copyright subsists in all BSI publications. BSI also holds the copyright, in the
+UK, of the publications of the international  standardization bodies. Except as
+permitted under the Copyright, Designs and Patents Act 1988 no extract may be
+reproduced, stored in a retrieval system or transmitted in any form or by any
+means –  electronic, photocopying, recording or otherwise – without prior written
+permission from BSI.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This does not preclude the free use, in the course of implementing the standard,
+of necessary details such as symbols, and size, type or grade designations. If these
+details are to be used for any other purpose than implementation then the prior
+written permission of BSI must be obtained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BSI<<PARAGRAPH_END>>
+<<PARAGRAPH>>389 Chiswick High Road<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details and advice can be obtained from the Copyright & Licensing Manager.
+Tel: +44 (0)20 8996 7070. Fax: +44 (0)20 8996 7553.
+Email: copyright@bsi-global.com.<<PARAGRAPH_END>>
+<<PARAGRAPH>>London<<PARAGRAPH_END>>
+<<PARAGRAPH>>W4 4AL<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 62
+Total Images: 6
+
+Image Reference Table:
+[IMAGE_1] Page: 21, Size: 242x242
+[IMAGE_2] Page: 37, Size: 3376x1670
+[IMAGE_3] Page: 48, Size: 2843x1101
+[IMAGE_4] Page: 56, Size: 3764x5146
+[IMAGE_5] Page: 57, Size: 2872x2472
+[IMAGE_6] Page: 58, Size: 3656x1438
+
+Total Tables: 36
+
+Table Reference List:
+[TABLE_1] Page: 2, Size: 2x13
+[TABLE_1] Page: 7, Size: 23x4
+[TABLE_1] Page: 13, Size: 3x3
+[TABLE_1] Page: 15, Size: 2x2
+[TABLE_1] Page: 19, Size: 10x5
+[TABLE_2] Page: 19, Size: 6x3
+[TABLE_1] Page: 23, Size: 7x4
+[TABLE_1] Page: 24, Size: 1x6
+[TABLE_3] Page: 24, Size: 2x2
+[TABLE_4] Page: 24, Size: 2x2
+[TABLE_1] Page: 25, Size: 1x5
+[TABLE_3] Page: 25, Size: 2x2
+[TABLE_4] Page: 25, Size: 2x2
+[TABLE_1] Page: 26, Size: 1x10
+[TABLE_2] Page: 26, Size: 4x11
+[TABLE_1] Page: 27, Size: 3x13
+[TABLE_2] Page: 27, Size: 3x12
+[TABLE_1] Page: 28, Size: 3x9
+[TABLE_2] Page: 28, Size: 3x10
+[TABLE_1] Page: 29, Size: 1x9
+[TABLE_2] Page: 29, Size: 3x9
+[TABLE_1] Page: 30, Size: 1x15
+[TABLE_1] Page: 31, Size: 3x7
+[TABLE_2] Page: 31, Size: 3x7
+[TABLE_1] Page: 32, Size: 3x7
+[TABLE_1] Page: 33, Size: 4x6
+[TABLE_1] Page: 40, Size: 1x8
+[TABLE_3] Page: 40, Size: 2x9
+[TABLE_1] Page: 43, Size: 9x6
+[TABLE_2] Page: 43, Size: 4x6
+[TABLE_1] Page: 46, Size: 6x4
+[TABLE_1] Page: 47, Size: 1x2
+[TABLE_1] Page: 49, Size: 3x9
+[TABLE_3] Page: 50, Size: 1x11
+[TABLE_1] Page: 51, Size: 8x3
+[TABLE_1] Page: 52, Size: 11x3
+<<SECTION_END>>
+<<DOCUMENT_END>>

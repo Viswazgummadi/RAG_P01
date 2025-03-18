@@ -1,0 +1,1030 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-8<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 8:
+Automated ultrasonic testing of seamless
+and welded steel tubes for the detection
+of laminar imperfections<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 8: Contrôle automatisé par ultrasons pour la détection
+des dédoublures des tubes en acier sans soudure et soudés<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-8:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<PARAGRAPH>>5
+Test method ...........................................................................................................................................3
+5.1
+General ...................................................................................................................................................3
+5.2
+Full peripheral testing of seamless and welded (except SAW) tubes .............................................3
+5.3
+Testing of welded steel tubes in the area adjacent to the weld seam .............................................4
+5.4
+Full peripheral testing of the ends of seamless and welded tubes .................................................5<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Reference tube.......................................................................................................................................5
+6.1
+General ...................................................................................................................................................5
+6.2
+Dimensions of reference standards ....................................................................................................5
+6.3
+Verification of reference standards.....................................................................................................6<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking...................................................................................................6<<HEADING_END>>
+<<PARAGRAPH>>8
+Acceptance ............................................................................................................................................7
+8.1
+General ...................................................................................................................................................7
+8.2
+Procedure for suspect tubes................................................................................................................7<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Test report..............................................................................................................................................8<<HEADING_END>>
+<<PARAGRAPH>>Annex A  (normative)   Procedure for the determination of the size of laminar imperfections by
+manual ultrasonic testing.....................................................................................................................9<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-8 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition cancels and replaces ISO 10124:1994, ISO 11496:1993 and ISO 13663:1995, which have
+been technically revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   P art 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tu bes for the verification of leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged
+arc-welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+surface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged
+arc-welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 8:
+Automated ultrasonic testing of seamless and welded steel
+tubes for the detection of laminar imperfections<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies requirements for automated ultrasonic testing for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+in the pipe body (full peripheral testing) of seamless and welded, except submerged arc-welded (SAW),
+steel tubes, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+in the area adjacent to the weld seam of welded steel tubes, and optionally<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+at the ends (full peripheral testing) of seamless and welded tubes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 can also be applicable to the testing of circular hollow sections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For welded tubes, see ISO 10893-9 for an alternative test method for the detection of laminar imperfections in
+steel strip/plate prior to tube forming.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5577,  Non-destructive testing — Ultrasonic inspection — Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-6,  Non-destructive testing of steel tubes — Part 6: Radiographic testing of the weld seam of
+welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-7,  Non-destructive testing of steel tubes — Part 7: Digital radiographic testing of the weld seam of
+welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer's qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 5577 and ISO 11484 and the
+following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+reference standard
+standard for the calibration of non-destructive testing equipment (e.g. drill holes, notches, recesses)<<HEADING_END>>
+<<HEADING level=3>>3.2
+reference tube
+tube or length of tube containing the reference standard(s)<<HEADING_END>>
+<<HEADING level=3>>3.3
+reference sample
+sample (e.g. segment of tube, plate or strip) containing the reference standard(s)<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Only the term “reference tube” is used in this part of ISO 10893, also covering the term “reference sample”.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4
+laminar imperfection
+imperfection located in the wall thickness and generally parallel to the pipe surfaces<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Its extension can be calculated by measuring its outlined area on the external surface.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<HEADING level=3>>3.6
+seamless tube
+tube made by piercing a solid product to obtain a tube hollow, which is further processed, either hot or cold,
+into its final dimensions<<HEADING_END>>
+<<PARAGRAPH>>3.7
+welded tube
+tube made by forming a hollow profile from a flat product and welding adjacent edges together, and which
+after welding can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.8
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.9
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by the product standard or agreed on by the purchaser and manufacturer,
+an ultrasonic testing shall be carried out on tubes after completion of all the primary production process
+operations (rolling, heat treating, cold and hot working, sizing and primary straightening, etc.).<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+The tubes under test shall be sufficiently straight to ensure the validity of the test. The surfaces shall be
+sufficiently free of foreign matter which can interfere with the validity of the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>4.3
+This test shall be carried out by suitable trained operators qualified in accordance with ISO 9712,
+ISO 11484 or equivalent and supervised by competent personnel nominated by the manufacturer. In the case
+of third-party inspection, this shall be agreed on by the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. Non-destructive
+testing (NDT) operations shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate International Standards, e.g. ISO 9712 and
+ISO 11484.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Test method<<HEADING_END>>
+<<HEADING level=3>>5.1 General<<HEADING_END>>
+<<PARAGRAPH>>5.1.1
+As specified in the product standard, the test shall be executed using an ultrasonic pulse echo
+technique for the detection of laminar imperfections in accordance with 5.2 or 5.3 and/or 5.4. The ultrasound
+shall be transmitted in the direction normal to the tube surface.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1.2
+For testing in accordance with 5.2 or 5.3, the relative speed of movement during testing shall not vary
+by more than  ± 10 %. For determining the extent of the laminated suspect area, adjacent suspect areas
+separated by less than the smaller of the two minor axes of the laminations shall be considered as one
+lamination. There may be a short length at both tube ends which cannot be tested in the case of testing in
+accordance with 5.2 or 5.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any untested ends shall be dealt with in accordance with the requirements of the appropriate product
+standards (see also 5.4).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1.3
+The ultrasonic test frequency that shall be applied shall be in the range of 2 MHz to 10 MHz.<<HEADING_END>>
+<<PARAGRAPH>>5.1.4
+The suggested maximum width of each transducer, or each active aperture when using phased array
+transducers, should be 25 mm measured in any direction. However, manufacturers may use larger
+transducers providing their capability for detecting the adopted reference standard; on request, this capability
+shall be demonstrated.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1.5
+The equipment shall be capable of classifying tubes as either acceptable or suspect by means of an
+automated trigger/alarm level combined with a marking and/or sorting system.<<HEADING_END>>
+<<HEADING level=3>>5.1.6
+Where manual ultrasonic testing is required, this shall be carried out in accordance with Annex A.<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+For wall thicknesses less than 5 mm, where difficulties can occur in detecting and sizing laminar imperfections
+using this method of test, an alternative method of test can be agreed on by the manufacturer and purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Full peripheral testing of seamless and welded (except SAW) tubes<<HEADING_END>>
+<<PARAGRAPH>>During testing, the tubes and the transducer assembly shall be moved relative to each other such that the
+tube surface is scanned in order to detect laminar imperfections with a size equal to or greater than the
+relevant minimum lamination size,  B min , with a circumferential dimension,  C min , calculated as given in Table 1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 1 — Acceptance levels and minimum size that shall be detected and maximum acceptable size
+of laminar imperfections in full peripheral testing<<HEADING_END>>
+<<HEADING level=3>>Minimum individual size of
+laminar imperfections that shall<<HEADING_END>>
+<<HEADING level=3>>Maximum acceptable area of
+laminar imperfections<<HEADING_END>>
+<<HEADING level=3>>be considered<<HEADING_END>>
+<<HEADING level=3>>Sum of individual areas  W   B min  to  u   B max a
+in percentage of tube surface
+Individual<<HEADING_END>>
+<<HEADING level=3>>Circumferential<<HEADING_END>>
+<<HEADING level=3>>Individual
+area<<HEADING_END>>
+<<HEADING level=3>>or transversal<<HEADING_END>>
+<<HEADING level=3>>Acceptance<<HEADING_END>>
+<<HEADING level=3>>area<<HEADING_END>>
+<<HEADING level=3>>dimension<<HEADING_END>>
+<<HEADING level=3>>level<<HEADING_END>>
+<<HEADING level=3>>Average per metre of
+tube length
+(entire tube)<<HEADING_END>>
+<<HEADING level=3>>B min a
+C min
+B max a
+Per any metre of
+tube length<<HEADING_END>>
+<<PARAGRAPH>>mm 2
+mm
+mm 2
+max.
+max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>U0
+160
+6
+160
+Not applicable
+Not applicable<<PARAGRAPH_END>>
+<<PARAGRAPH>>U1
+160 +  π   D /4 b
+9
+160 +  π   D b
+1
+0,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>U2
+160 +  π   D / 2 b
+12
+160 + 2  π   D b
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>U3
+160 +  π   D b
+15
+160 + 4  π   D b
+4
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+B min  and  B max  shall, when calculating as the product of the length and circumferential dimensions, be rounded up to the next
+10 mm 2 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+D   = specified outside diameter of the tube, in millimetres.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Testing of welded steel tubes in the area adjacent to the weld seam<<HEADING_END>>
+<<PARAGRAPH>>During testing, the tube and/or the probe assembly shall be moved relative to each other such that at least a
+15 mm wide band on either side of the weld, as close as possible to the parent metaI/weId interface at the
+external surface, is 100 % ultrasonically tested for the detection of laminar imperfections, in order to detect the
+relevant minimum imperfection length,  L min  (parallel to the weld), as given in Table 2.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2 ― Acceptance levels and minimum size that shall be detected and maximum acceptable size
+of laminar imperfections when testing the area adjacent to the weld<<HEADING_END>>
+<<HEADING level=3>>Maximum acceptable size of laminar imperfections<<HEADING_END>>
+<<HEADING level=3>>Minimum individual<<HEADING_END>>
+<<HEADING level=3>>size of laminar
+imperfections that
+shall be considered<<HEADING_END>>
+<<HEADING level=3>>Individual dimensions<<HEADING_END>>
+<<HEADING level=3>>Number a   per metre tube<<HEADING_END>>
+<<HEADING level=3>>Area
+(product of length<<HEADING_END>>
+<<HEADING level=3>>Acceptance<<HEADING_END>>
+<<HEADING level=3>>length, where<<HEADING_END>>
+<<HEADING level=3>>level<<HEADING_END>>
+<<HEADING level=3>>Length
+Length<<HEADING_END>>
+<<PARAGRAPH>>and width)<<PARAGRAPH_END>>
+<<PARAGRAPH>>L min   u   L   u   L max  and<<PARAGRAPH_END>>
+<<PARAGRAPH>>E   u   E max<<PARAGRAPH_END>>
+<<PARAGRAPH>>L min
+L max
+E max<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm
+mm
+mm 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>U1
+10
+20
+250
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>U2
+20
+40
+500
+4<<PARAGRAPH_END>>
+<<PARAGRAPH>>U3
+30
+60
+1 000
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Only laminar imperfections exceeding 6 mm in width ( C min ) shall be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Acceptance                                                                                                               | Minimum individual size of       |                 | Maximum acceptable area of   |                                             |                      |
+| level                                                                                                                    |                                  |                 | laminar imperfections        |                                             |                      |
+|:-------------------------------------------------------------------------------------------------------------------------|:---------------------------------|:----------------|:-----------------------------|:--------------------------------------------|:---------------------|
+|                                                                                                                          | laminar imperfections that shall |                 |                              |                                             |                      |
+|                                                                                                                          | be considered                    |                 |                              |                                             |                      |
+|                                                                                                                          |                                  | Circumferential | Individual                   | Sum of individual areas W B min to u B maxa |                      |
+|                                                                                                                          |                                  |                 | area                         | in percentage of tube surface               |                      |
+|                                                                                                                          |                                  |                 | B a                          |                                             |                      |
+|                                                                                                                          |                                  |                 | max                          |                                             |                      |
+|                                                                                                                          |                                  |                 | mm2                          |                                             |                      |
+|                                                                                                                          | Individual                       |                 |                              |                                             |                      |
+|                                                                                                                          |                                  | or transversal  |                              |                                             |                      |
+|                                                                                                                          | area                             |                 |                              |                                             |                      |
+|                                                                                                                          |                                  | dimension       |                              |                                             |                      |
+|                                                                                                                          |                                  |                 |                              | Per any metre of                            | Average per metre of |
+|                                                                                                                          |                                  |                 |                              | tube length                                 | tube length          |
+|                                                                                                                          |                                  |                 |                              | max.                                        | (entire tube)        |
+|                                                                                                                          |                                  |                 |                              |                                             | max.                 |
+|                                                                                                                          | B a                              | C               |                              |                                             |                      |
+|                                                                                                                          | min                              | min             |                              |                                             |                      |
+|                                                                                                                          | mm2                              | mm              |                              |                                             |                      |
+| U0                                                                                                                       | 160                              | 6               | 160                          | Not applicable                              | Not applicable       |
+| U1                                                                                                                       | 160 + π D/4b                     | 9               | 160 + π Db                   | 1                                           | 0,5                  |
+| U2                                                                                                                       | 160 + π D/2b                     | 12              | 160 + 2 π Db                 | 2                                           | 1                    |
+| U3                                                                                                                       | 160 + π Db                       | 15              | 160 + 4 π Db                 | 4                                           | 2                    |
+| a B and B shall, when calculating as the product of the length and circumferential dimensions, be rounded up to the next |                                  |                 |                              |                                             |                      |
+| min max                                                                                                                  |                                  |                 |                              |                                             |                      |
+| 10 mm2.                                                                                                                  |                                  |                 |                              |                                             |                      |
+| b D = specified outside diameter of the tube, in millimetres.                                                            |                                  |                 |                              |                                             |                      |
+<<TABLE_END>>
+<<TABLE_2>>
+|                                                                                | Minimum individual    | Maximum acceptable size of laminar imperfections   |                    |                        |
+|                                                                                | size of laminar       |                                                    |                    |                        |
+|                                                                                | imperfections that    |                                                    |                    |                        |
+|                                                                                | shall be considered   |                                                    |                    |                        |
+|:-------------------------------------------------------------------------------|:----------------------|:---------------------------------------------------|:-------------------|:-----------------------|
+|                                                                                |                       | Individual dimensions                              |                    | Numbera per metre tube |
+|                                                                                |                       |                                                    |                    | length, where          |
+|                                                                                |                       |                                                    |                    | L min u L u L max and  |
+|                                                                                |                       |                                                    |                    | E u E max              |
+|                                                                                |                       | Length                                             | Area               |                        |
+| Acceptance                                                                     |                       |                                                    |                    |                        |
+| level                                                                          | Length                |                                                    | (product of length |                        |
+|                                                                                |                       |                                                    | and width)         |                        |
+|                                                                                | L                     | L                                                  | E                  |                        |
+|                                                                                | min                   | max                                                | max                |                        |
+|                                                                                | mm                    | mm                                                 | mm2                |                        |
+| U1                                                                             | 10                    | 20                                                 | 250                | 3                      |
+| U2                                                                             | 20                    | 40                                                 | 500                | 4                      |
+| U3                                                                             | 30                    | 60                                                 | 1 000              | 5                      |
+| a Only laminar imperfections exceeding 6 mm in width (C ) shall be considered. |                       |                                                    |                    |                        |
+| min                                                                            |                       |                                                    |                    |                        |
+<<TABLE_END>>
+<<TABLE_3>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>5.4 Full peripheral testing of the ends of seamless and welded tubes<<HEADING_END>>
+<<HEADING level=3>>5.4.1
+When end testing has been agreed on by the purchaser and manufacturer, the tube end zone at both
+tube ends shall be tested.<<HEADING_END>>
+<<PARAGRAPH>>5.4.2
+During testing, the tubes and the probe assembly shall be moved relative to each other such that the
+circumference of the tube ends is scanned from the outside surface, or the inside surface where appropriate,
+over a length of approximately 25 mm or 2  T  ( T  = specified tube thickness, in millimetres), whichever is the
+greater, with a maximum of 50 mm, from the point where the outside surface meets the face or bevel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the case of submerged arc-welded tubes, when the weld reinforcement precludes a test for laminar
+imperfections close to and over the reinforcement, a zone 25 mm on either side of the weld reinforcement
+shall not be tested unless by agreement between the purchaser and the manufacturer; the reinforcement shall
+be removed to permit the conduct of a full peripheral test.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Reference tube<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>6.1.1
+The reference standards defined in this part of ISO 10893 are convenient standards for the calibration
+of non-destructive testing equipment. The dimensions of these standards should not be construed as the
+minimum size of imperfections detectable by such equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.2
+The ultrasonic equipment shall be calibrated either electronically using any tube [see 7.1 a)] or with a
+reference standard comprising a flat-bottomed circular, square or rectangular recess (see Figure 1) machined
+into the inner surface of a reference tube (or reference sample), with the exception that for acceptance
+level U0 (see 5.2 and Table 1), only the flat-bottomed circular recess shall be used [see 7.1 b)].<<PARAGRAPH_END>>
+<<PARAGRAPH>>The flat-bottomed circular recess shall be used as the primary means of establishing the test sensitivity. When
+using one of the other types of reference standard, the test sensitivity shall be adjusted such that it is
+equivalent to that obtained when using the flat-bottomed circular recess.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.3
+The reference recess shall be obtained by machining, spark erosion or other appropriate methods.<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+The bottom or the bottom corners of the recess can be rounded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.4
+The reference tubes shall have the same nominal diameter and thickness, same surface finish, heat
+treatment and delivery conditions (e.g. as-rolled, normalized, quenched and tempered) as the tubes being
+tested and shall have similar acoustic properties (e.g. sound velocity and attenuation coefficient).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Dimensions of reference standards<<HEADING_END>>
+<<PARAGRAPH>>The dimensions of the recess reference standards (see Figure 1) shall be as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) width or diameter  w : 6 mm
+0,6
+0
++
+mm;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) depth  d :  T /4  u   d   u   T /2, with a maximum of 25 mm;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) length  l :  W  6 mm, with a maximum of 25 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| In the case of submerged arc-welded tubes, when the weld reinforcement precludes a test for laminar         |
+|:------------------------------------------------------------------------------------------------------------|
+| imperfections close to and over the reinforcement, a zone 25 mm on either side of the weld reinforcement    |
+| shall not be tested unless by agreement between the purchaser and the manufacturer; the reinforcement shall |
+| be removed to permit the conduct of a full peripheral test.                                                 |
+<<TABLE_END>>
+<<TABLE_2>>
+| The flat-bottomed circular recess shall be used as the primary means of establishing the test sensitivity. When   |
+|:------------------------------------------------------------------------------------------------------------------|
+| using one of the other types of reference standard, the test sensitivity shall be adjusted such that it is        |
+| equivalent to that obtained when using the flat-bottomed circular recess.                                         |
+<<TABLE_END>>
+<<TABLE_3>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key
+d
+depth of recess
+l
+length of rectangular recess
+T
+specified wall thickness
+w
+width or diameter of recess<<HEADING_END>>
+<<HEADING level=3>>Figure 1 — Reference standard recess forms<<HEADING_END>>
+<<HEADING level=3>>6.3 Verification of reference standards<<HEADING_END>>
+<<PARAGRAPH>>The reference standard dimensions and shape shall be verified by a suitable technique.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking<<HEADING_END>>
+<<PARAGRAPH>>7.1
+At the start of each test cycle, the equipment shall be calibrated statically either without a reference
+standard in accordance with 7.1 a) or using a reference standard in accordance with 7.1 b).<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Calibration without a reference standard: with the probe assembly positioned on the tube under test, the
+full amplitude of the first back wall echo minus 6 dB shall be used to activate their respective trigger/alarm
+level of the equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The test sensitivity may be established with distance amplitude correction (DAC) curves as supplied by
+the transducer manufacturer or DAC curves as prepared by the tube manufacturer using, in both cases,
+the 6 mm flat-bottomed hole curve.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The manufacturer shall demonstrate that at the set sensitivity, the equipment detects under static
+conditions the reference standard as given in 6.1.2 and Figure 1. If this is not the case, the necessary
+adjustment in sensitivity shall be made prior to the testing of production tubes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Calibration using a reference standard: under static conditions, with the transducer or each transducer of
+a probe assembly centrally located over the reference standard, the full signal amplitude of the signal
+obtained from the reference standard shall be used to activate their respective trigger/alarm level of the
+equipment.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2
+During production testing, the relative rotational and/or translational speeds and pulse repetition
+frequency shall be chosen to provide full surface coverage of the zone of the tube under test.<<HEADING_END>>
+<<HEADING level=3>>7.3
+The calibration of the equipment shall be checked at regular intervals during the production testing of
+tubes of the same nominal diameter, thickness and grade.<<HEADING_END>>
+<<PARAGRAPH>>The frequency of checking the calibration shall be at least every 4 h, but also whenever there is an equipment
+operator team changeover and at the start and end of the production run.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_3>>
+| The frequency of checking the calibration shall be at least every 4 h, but also whenever there is an equipment   |
+|:-----------------------------------------------------------------------------------------------------------------|
+| operator team changeover and at the start and end of the production run.                                         |
+<<TABLE_END>>
+<<TABLE_4>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>7.4
+The equipment shall be recalibrated if any of the test parameters which were used during initial
+calibration are changed.<<HEADING_END>>
+<<PARAGRAPH>>7.5
+If, on checking during production testing, the calibration requirements are not satisfied, even after
+increasing the test sensitivity by up to 3 dB to allow for system drift, all tubes tested since the previous
+equipment check shall be retested after the equipment has been recalibrated, provided suitable records of the
+concerned tubes are available.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>8.1 General<<HEADING_END>>
+<<HEADING level=3>>8.1.1
+Any tube producing signals lower than the trigger/alarm level shall be deemed to have passed this
+test.<<HEADING_END>>
+<<PARAGRAPH>>8.1.2
+Any tube producing signals equal to or greater than the trigger/alarm level shall be designated
+suspect or, at the discretion of the manufacturer, may be retested. If, after two consecutive retests, all signals
+are lower than the trigger/alarm level, the tube shall be deemed to have passed this test; otherwise, the tube
+shall be designated as suspect.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For tube end testing, this condition only applies when the circumferential length of imperfection exceeds
+6 mm, which shall be detected, if applicable, by the half-amplitude method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If applicable, the evaluation may be based on DAC curves.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.3
+Suspect tubes shall be dealt with as specified in 8.2.<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2 Procedure for suspect tubes<<HEADING_END>>
+<<HEADING level=3>>8.2.1 Test in accordance with 5.2<<HEADING_END>>
+<<PARAGRAPH>>One or more of the following actions shall be taken subject to the requirements of the product standard:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the suspect area shall be explored by a manual ultrasonic compression wave technique according to
+Annex A or by a suitable automated or semi-automated system, to establish the extent of the laminar
+imperfections. The tube shall be deemed to have passed this test if the lamination size,  B max , and the
+total summed area of laminations greater than  B min  and less than  B max  (see Table 1) are not exceeded;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the suspect area shall be cropped off;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the tube shall be deemed not to have passed this test.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.2 Test in accordance with 5.3<<HEADING_END>>
+<<PARAGRAPH>>One or more of the following actions shall be taken subject to the requirements of the product standard:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the suspect area shall be explored by a manual ultrasonic compression wave technique according to
+Annex A or by a suitable automated or semi-automated system to establish the extent of the laminar
+imperfections. The tube shall be deemed to have passed this test if the laminar imperfection size ( E max ,
+L max ) and the maximum population density, as given in Table 2, are not exceeded;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+in the case of spiral or longitudinal submerged arc-welded tubes, and by agreement between the
+purchaser and manufacturer, the weld seam in the vicinity of laminar imperfections exceeding the
+relevant acceptance limits given in Table 2 may be subjected to radiographic testing in accordance with
+ISO 10893-6 or ISO 10893-7 to disclose the presence of imperfections in or at the extremities of the weld
+seam which possibly escaped detection during ultrasonic weld seam testing due to the presence of such
+laminar imperfections;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the suspect area shall be cropped off;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+the tube shall be deemed not to have passed this test.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| For tube end testing, this condition only applies when the circumferential length of imperfection exceeds   |
+|:------------------------------------------------------------------------------------------------------------|
+| 6 mm, which shall be detected, if applicable, by the half-amplitude method.                                 |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>8.2.3 Test in accordance with 5.4<<HEADING_END>>
+<<PARAGRAPH>>The manufacturer may either reject the tube or crop off the suspect area. In the latter case, the manufacturer
+shall ensure that all the suspect area has been removed and shall submit the end zone of the remaining
+length to a repeat test as specified in 5.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report including at least the following
+information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-8;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+type and details of test technique(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+equipment calibration method used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+description of the reference standard acceptance level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+date of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+operator identification.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| The manufacturer may either reject the tube or crop off the suspect area. In the latter case, the manufacturer   |
+|:-----------------------------------------------------------------------------------------------------------------|
+| shall ensure that all the suspect area has been removed and shall submit the end zone of the remaining           |
+| length to a repeat test as specified in 5.4.                                                                     |
+<<TABLE_END>>
+<<TABLE_2>>
+| 8                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(normative)
+Procedure for the determination of the size of laminar imperfections
+by manual ultrasonic testing<<HEADING_END>>
+<<HEADING level=3>>A.1 General<<HEADING_END>>
+<<PARAGRAPH>>This annex covers the procedure for manual ultrasonic pulse echo scanning of tubes for the determination of
+the extent of laminated suspect areas found by automated/semi-automated testing for the detection of laminar
+imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In cases of arbitration between the manufacturer and the purchaser or his representative regarding the extent
+and frequency of detected laminar imperfections, this procedure shall be used. This procedure determines the
+details of the sizing method to establish the extent and frequency of laminar imperfections in steel tubes.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2 Surface condition<<HEADING_END>>
+<<PARAGRAPH>>The surface of the tube shall be sufficiently free of foreign matter as to ensure the validity of the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3 Test equipment requirements<<HEADING_END>>
+<<HEADING level=3>>A.3.1
+The ultrasonic probe shall be guided over the tube surface either manually or by mechanical means.
+The ultrasound shall be transmitted in the direction normal to the tube surface.<<HEADING_END>>
+<<HEADING level=3>>A.3.2
+One of the following two types of ultrasonic testing equipment shall be used.<<HEADING_END>>
+<<PARAGRAPH>>a)
+Equipment with a screen display and gain control, adjustable in 2 dB steps. The gain control shall be
+adjusted such that the ultrasonic signals from the laminated suspect area under evaluation are between
+20 % and 80 % of the usable height of the screen display.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Equipment without a screen display where automated signal amplitude measurement/assessment
+facilities are used. The amplitude measuring unit shall be capable of signal amplitude assessment steps
+not exceeding 2 dB.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3.3
+If dual transducer probes are used for manual determination of the size of the laminated suspect area,
+examples of details given in Table A.1 shall be noted.<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+9<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table A.1 — Examples of details for the use of dual transducer probes<<HEADING_END>>
+<<HEADING level=3>>Probe-to-lamination<<HEADING_END>>
+<<HEADING level=3>>distance
+Type of dual transducer probe a
+Plane of acoustic separation b<<HEADING_END>>
+<<PARAGRAPH>>Either<<PARAGRAPH_END>>
+<<PARAGRAPH>>At right angles to PRD<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Nominal frequency: 4 MHz to 5 MHz<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Roof angle: approximately 0° or 5°<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Transducer size: 8 mm to 15 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Focal distance: 10 mm to 12 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>u  20 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>or<<PARAGRAPH_END>>
+<<PARAGRAPH>>Parallel to PRD<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Nominal frequency: 4 MHz<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Roof angle: approximately 0° or 5°<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Transducer size: 18 mm to 20 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Focal distance: 10 mm to 15 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Nominal frequency: 4 MHz<<PARAGRAPH_END>>
+<<PARAGRAPH>>At right angles to PRD<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Roof angle: approximately 0° or 5°<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Transducer size: 15 mm to 25 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>>  20 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>—  Focal distance: 20 mm to 60 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Probe with circular or rectangular transducers may be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+PRD: principal rolling direction.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.4 Test procedure<<HEADING_END>>
+<<PARAGRAPH>>Laminar imperfections shall be located by comparing the amplitude of the imperfection echo with the
+amplitude of the echo of a 6 mm flat-bottomed hole used during calibration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Only those imperfections giving an echo at least equivalent in amplitude to that obtained with the 6 mm flat-
+bottomed hole shall be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In order to determine the extent of laminar imperfections which should be considered, the method of
+measuring the half-amplitude value shall be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This method requires that the ultrasonic probe be passed over the laminated suspect area in a transverse
+direction (for the determination of dimension  C ) and longitudinal direction (for the determination of dimension
+L ). The suspect location shall be 100 % scanned. During the transverse scan, the positions  C 1  and  C 2  shall be
+determined where, over the greatest circumferential extent, the magnitude of the intermediate reflection
+equals half of the related maximum value (6 dB difference in signal level). If this value is less than the
+minimum allowable width,  C min , which should be considered (see Table 1), no further explorations shall be
+carried out. Similarly, during the longitudinal scan, the positions  L 1  and  L 2  shall be determined (see Table 2).
+The distances between points  C 1  and  C 2  and  L 1  and  L 2  are defined as the maximum width and length
+dimensions, respectively. The product of these dimensions is defined as the area of the equivalent laminar
+imperfection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Probe-to-lamination                                           |                                      | Plane of acoustic separationb   |
+| distance                                                      |                                      |                                 |
+|:--------------------------------------------------------------|:-------------------------------------|:--------------------------------|
+|                                                               | Type of dual transducer probea       |                                 |
+| u 20 mm                                                       | Either                               | At right angles to PRD          |
+|                                                               | — Nominal frequency: 4 MHz to 5 MHz  |                                 |
+|                                                               | — Roof angle: approximately 0° or 5° |                                 |
+|                                                               | — Transducer size: 8 mm to 15 mm     |                                 |
+|                                                               | — Focal distance: 10 mm to 12 mm     |                                 |
+|                                                               | or                                   | Parallel to PRD                 |
+|                                                               | — Nominal frequency: 4 MHz           |                                 |
+|                                                               | — Roof angle: approximately 0° or 5° |                                 |
+|                                                               | — Transducer size: 18 mm to 20 mm    |                                 |
+|                                                               | — Focal distance: 10 mm to 15 mm     |                                 |
+| > 20 mm                                                       | — Nominal frequency: 4 MHz           | At right angles to PRD          |
+|                                                               | — Roof angle: approximately 0° or 5° |                                 |
+|                                                               | — Transducer size: 15 mm to 25 mm    |                                 |
+|                                                               | — Focal distance: 20 mm to 60 mm     |                                 |
+| a Probe with circular or rectangular transducers may be used. |                                      |                                 |
+| b PRD: principal rolling direction.                           |                                      |                                 |
+<<TABLE_END>>
+<<TABLE_2>>
+| 10                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 10893-8:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 10 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 18
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 26
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 18x6
+[TABLE_2] Page: 10, Size: 12x5
+[TABLE_3] Page: 10, Size: 3x1
+[TABLE_1] Page: 11, Size: 4x1
+[TABLE_2] Page: 11, Size: 3x1
+[TABLE_3] Page: 11, Size: 3x1
+[TABLE_3] Page: 12, Size: 2x1
+[TABLE_4] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 2x1
+[TABLE_2] Page: 13, Size: 3x1
+[TABLE_1] Page: 14, Size: 3x1
+[TABLE_2] Page: 14, Size: 3x1
+[TABLE_1] Page: 15, Size: 3x1
+[TABLE_1] Page: 16, Size: 18x3
+[TABLE_2] Page: 16, Size: 3x1
+[TABLE_1] Page: 17, Size: 3x1
+[TABLE_1] Page: 18, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

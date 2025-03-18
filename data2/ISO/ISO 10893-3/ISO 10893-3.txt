@@ -1,0 +1,773 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-3<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 3:
+Automated full peripheral flux leakage
+testing of seamless and welded (except
+submerged arc-welded) ferromagnetic
+steel tubes for the detection of
+longitudinal and/or transverse
+imperfections<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 3: Contrôle automatisé par flux de fuite sur toute la circonférence
+des tubes en acier ferromagnétique sans soudure et soudés (sauf à
+l'arc immergé sous flux en poudre) pour la détection des imperfections
+longitudinales et/ou transversales<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-3:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>5
+Test method ...........................................................................................................................................2<<HEADING_END>>
+<<PARAGRAPH>>6
+Reference tube.......................................................................................................................................4
+6.1
+General ...................................................................................................................................................4
+6.2
+Reference notches ................................................................................................................................5<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking...................................................................................................7<<HEADING_END>>
+<<HEADING level=3>>8
+Acceptance ............................................................................................................................................7<<HEADING_END>>
+<<HEADING level=3>>9
+Test report..............................................................................................................................................8<<HEADING_END>>
+<<HEADING level=3>>Annex A  (normative)   Limitations of magnetic flux leakage test method......................................................9<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-3 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition cancels and replaces ISO 9402:1989 and ISO 9598:1989, which have been technically
+revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tubes for the verification of hydraulic leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged arc-
+welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+s urface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged arc-
+welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 3:
+Automated full peripheral flux leakage testing of seamless and
+welded (except submerged arc-welded) ferromagnetic steel
+tubes for the detection of longitudinal and/or transverse
+imperfections<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies requirements for automated full peripheral magnetic flux leakage testing of
+seamless and welded ferromagnetic steel tubes, with the exception of submerged arc-welded (SAW) tubes,
+for the detection of imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Unless otherwise specified in the purchase order, this part of ISO 10893 is applicable to the detection of
+predominantly longitudinal imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 is applicable to the inspection of tubes with an outside diameter equal to or greater
+than 10 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 can also be applicable to the testing of hollow sections.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer's qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 11484 and the following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+reference standard
+standard for the calibration of non-destructive testing equipment (e.g. drill holes, notches and recesses)<<HEADING_END>>
+<<HEADING level=3>>3.2
+reference tube
+tube or length of tube containing the reference standard(s)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| This part of ISO 10893 is applicable to the inspection of tubes with an outside diameter equal to or greater   |
+|:---------------------------------------------------------------------------------------------------------------|
+| than 10 mm.                                                                                                    |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=3>>3.3
+reference sample
+sample (e.g. segment of tube, plate or strip) containing the reference standard(s)<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Only the term “reference tube” is used in this part of ISO 10893, also covering the term “reference sample”.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<HEADING level=3>>3.5
+seamless tube
+tube made by piercing a solid product to obtain a tube hollow, which is further processed, either hot or cold,
+into its final dimensions<<HEADING_END>>
+<<PARAGRAPH>>3.6
+welded tube
+tube made by forming a hollow profile from a flat product and welding adjacent edges together, and which
+after welding can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.7
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by product standard or agreed on by the purchaser and manufacturer, this
+peripheral magnetic flux leakage inspection shall be carried out on tubes after completion of all the primary
+production process operations (rolling, heat treating, cold and hot working, sizing, primary straightening, etc.).<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+The tubes being tested shall be sufficiently straight to ensure the validity of the test. The surfaces shall
+be sufficiently free of foreign matter which can interfere with the validity of the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+This inspection shall be carried out by trained operators qualified in accordance with ISO 9712,
+ISO 11484 or equivalent, and supervised by competent personnel nominated by the manufacturer. In the case
+of third-party inspection, this shall be agreed on between the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. NDT operations
+shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate International Standards, e.g. ISO 9712 and
+ISO 11484.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Test method<<HEADING_END>>
+<<PARAGRAPH>>5.1
+The tubes shall be tested using the magnetic flux leakage technique for the detection of predominantly
+longitudinal imperfections (see Figure 1) and/or, by agreement, predominantly transverse imperfections
+(see Figure 2). No limits on thickness are specified; indications on the limits of the method are reported in
+Annex A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is recognized that there can be a short length at both tube ends which cannot be tested. Any untested ends
+shall be dealt with in accordance with the requirements of the appropriate product standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>5.2
+During testing, the tube and the transducer(s) shall be moved relative to each other such that the whole
+of the tube surface is scanned. The relative speed during testing shall not vary by more than  ± 10 %.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3
+The maximum width of each individual transducer, measured parallel to the major axis of defects being
+detected, shall be 30 mm.<<HEADING_END>>
+<<HEADING level=3>>5.4
+The equipment shall be capable of classifying tubes as either acceptable or suspect tubes by means of
+an automated trigger/alarm level combined with a marking and/or sorting system.<<HEADING_END>>
+<<HEADING level=3>>a)   Rotating magnetic transducer technique —
+Linear movement of the tube
+b)   Fixed magnetic transducer technique —
+Linear and rotary movement of the tube<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+flux leakage transducers
+2
+tube
+N
+north pole<<PARAGRAPH_END>>
+<<PARAGRAPH>>S
+south pole<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Direction of probe rotation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Direction of tube rotation.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Simplified diagram of magnetic flux leakage techniques
+for the detection of longitudinal imperfections<<HEADING_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+staggered array of transducers
+2
+power supply (d.c.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The magnetic transducers can take different forms, for example absolute and differential, depending on the
+equipment used and other factors. The means of introducing magnetic flux in a direction parallel to the major axis of the
+tube can be achieved by methods other than that shown in this figure.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 2 — Simplified diagram of magnetic flux leakage technique
+for the detection of transverse imperfections<<HEADING_END>>
+<<HEADING level=3>>6
+Reference tube<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>6.1.1
+The reference standards defined in this part of ISO 10893 are convenient standards for calibration of
+non-destructive testing equipment. The dimensions of these standards should not be considered as the
+minimum size of imperfections detectable by such equipment.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.2
+Each single probe of the magnetic flux leakage equipment shall be calibrated using a reference notch
+on the outside surface or notches on outside and inside surfaces of a reference tube.<<HEADING_END>>
+<<PARAGRAPH>>Alternatively, a circular reference hole drilled radially through the full thickness of the reference tube may be
+used for equipment calibration by agreement between the purchaser and the manufacturer. In this case, the
+maximum diameter of the reference hole for a specific acceptance level shall be agreed on and the
+manufacturer shall demonstrate that the test sensitivity achieved using the reference hole and the equipment
+settings is essentially equivalent to that obtained when using the specified external reference notch and the
+agreed internal reference notch depth.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The diameter of the holes can be specified based on factors involving intended service or other appropriate
+criteria. Typical holes diameter range is from 0,80 mm to 3,20 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>The internal surface of the reference tube may be dressed or machined prior to the preparation of the internal
+notch. The internal notch should not be used when the tube internal diameter is less than 20 mm, unless
+otherwise agreed on between the purchaser and the manufacturer or when the tube thickness is greater than
+20 mm since, due to technical limitations given in Annex A, the test at the tube bore is not adequate even after
+applying the maximum ratios given in Table A.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.3
+The reference tubes shall have the same specified diameter and thickness, same surface finish and
+delivery condition (e.g. as-rolled, normalized, quenched and tempered) and similar steel grade as the tubes
+being tested. For specified wall thickness exceeding 10 mm, the wall thickness of the reference tubes may be
+greater than the specified wall thickness of the pipe under inspection provided the notch depth is calculated on
+the specified wall thickness of the pipe being inspected. The manufacturer shall demonstrate, on request, the
+effectiveness of the adopted solution.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.4
+The external and the eventual internal notches and the reference hole shall be sufficiently separated
+from the ends of the reference tube and from each other (when both notches are used), such that clearly
+distinguishable signals are obtained.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Reference notches<<HEADING_END>>
+<<HEADING level=3>>6.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>a)
+The reference notch(es) shall be of the “N” type (see Figure 3) and shall lie parallel to the major axis of
+the tube; when transverse imperfection detection has been agreed on between the purchaser and
+manufacturer, the reference notch(es) shall lie transversally to the major axis of the tube (see Figure 4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+The sides shall be nominally parallel and the bottom shall be nominally square to the sides;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+The reference notch shall be formed by machining, spark erosion or other methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The bottom or the bottom corners of the notch can be rounded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>w
+width
+d
+depth<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 3 — “N” type notch<<HEADING_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=3>>a)   External partial circumferential notch
+b)   Internal partial circumferential notch<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>d
+depth<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 4 — Possible transverse notch forms<<HEADING_END>>
+<<HEADING level=3>>6.2.2 Dimensions of the reference notch<<HEADING_END>>
+<<PARAGRAPH>>a)
+Width,  w  (see Figure 3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The width of the reference notch shall not be greater than the depth of the reference notch depth or 1 mm
+whichever is greater.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Depth,  d  (see Figures 3 and 4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The depth of the external reference notch shall be as given in Table 1 with the following limitations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  minimum notch depth:
+0,30 mm for acceptance levels F2 and F3; 0,50 mm for acceptance levels F4
+and F5;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  maximum notch depth:
+1,5 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The internal notch depth shall be subject to agreement between the purchaser and manufacturer
+(see Annex A) but under no circumstance shall be less than the specified external notch depth or greater than
+that applying the maximum ratios given in Table A.1. The maximum internal notch depth shall be 3,0 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The tolerance on depth shall be  ± 15 % of the reference notch depth.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+Length<<PARAGRAPH_END>>
+<<PARAGRAPH>>Unless otherwise specified by product standard or agreed between purchaser and manufacturer, the length of
+the reference notch(es) shall be greater than the width of each individual transducer. In any case, the length of
+reference notch shall not exceed 50 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>In case of detection of transverse imperfections, the minimum length of circumferential notch(es)
+(see Figure 4) shall be 25 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.3 Verification of reference standards<<HEADING_END>>
+<<PARAGRAPH>>The reference notch dimensions and shape shall be verified by a suitable technique.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 1 — Acceptance levels and corresponding external reference notch depth<<HEADING_END>>
+<<HEADING level=3>>Acceptance level
+Notch depth of the specified thickness
+%<<HEADING_END>>
+<<PARAGRAPH>>F2
+5 % (min 0,30 mm)<<PARAGRAPH_END>>
+<<PARAGRAPH>>F3
+10 % (min 0,30 mm)<<PARAGRAPH_END>>
+<<PARAGRAPH>>F4
+12,5 % (min 0,50 mm)<<PARAGRAPH_END>>
+<<PARAGRAPH>>F5
+15 % (min 0,50 mm)<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The values of notch depth specified in this table are the same for the corresponding categories, in all International Standards
+concerning non-destructive testing of steel tubes where reference is made to different acceptance levels. Although the reference
+standards are identical, the various test methods involved can give different test results. Accordingly, the acceptance level designation
+prefix F (flux leakage) has been adopted to avoid any inferred direct equivalence with other test methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking<<HEADING_END>>
+<<PARAGRAPH>>7.1
+At the start of each inspection cycle, the equipment shall be calibrated to produce consistently
+(e.g. from three consecutive passes of the reference tube through the equipment), clearly identifiable signals
+from the reference standard(s). These signals shall be used to activate their respective trigger alarm of the
+equipment.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2
+During the calibration check, the relative speed of movement between the reference tube and the
+transducer assembly shall be the same as that used during the production test.<<HEADING_END>>
+<<PARAGRAPH>>7.3
+The calibration of the equipment shall be checked at regular intervals during the production testing of
+tubes of the same specified diameter, thickness and grade by passing the reference tube through the test
+equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The frequency of checking the calibration shall be at least every 4 h, but also whenever there is an equipment
+operator team changeover and at the start and end of production.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4
+The equipment shall be recalibrated if any of the parameters which were used during the initial
+calibration are changed.<<HEADING_END>>
+<<PARAGRAPH>>7.5
+If, on checking during production testing, the calibration requirements are not satisfied, all tubes tested
+since the previous acceptable equipment calibration shall be retested after the equipment has been
+recalibrated.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>8.1
+Any tube producing signals lower than the trigger/alarm level shall be deemed to have passed this
+test.<<HEADING_END>>
+<<PARAGRAPH>>8.2
+Any tube producing signals equal to or greater than the trigger/alarm level shall be designated
+suspect, or at the discretion of the manufacturer, may be retested. If, after two consecutive retests, all signals
+are lower than the trigger/alarm level, the tube shall be deemed to have passed this test; otherwise, the tube
+shall be designated as suspect.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Acceptance level                                                                                                                         | Notch depth of the specified thickness   |
+|                                                                                                                                          | %                                        |
+|:-----------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| F2                                                                                                                                       | 5 % (min 0,30 mm)                        |
+| F3                                                                                                                                       | 10 % (min 0,30 mm)                       |
+| F4                                                                                                                                       | 12,5 % (min 0,50 mm)                     |
+| F5                                                                                                                                       | 15 % (min 0,50 mm)                       |
+| NOTE The values of notch depth specified in this table are the same for the corresponding categories, in all International Standards     |                                          |
+| concerning non-destructive testing of steel tubes where reference is made to different acceptance levels. Although the reference         |                                          |
+| standards are identical, the various test methods involved can give different test results. Accordingly, the acceptance leveldesignation |                                          |
+| prefix F (flux leakage) has been adopted to avoid any inferred direct equivalence with other test methods.                               |                                          |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=3>>8.3
+For suspect tubes, one or more of the following actions shall be taken subject to the requirements of
+the product standard.<<HEADING_END>>
+<<PARAGRAPH>>a)
+The suspect area shall be dressed or explored using a suitable method. After checking that the remaining
+thickness is within tolerance, the tube shall be retested as previously specified. If no signals are obtained
+equal to or greater than trigger/alarm level, the tube shall be deemed to have passed this test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By agreement between the purchaser and manufacturer, the suspect area may be retested by other
+non-destructive techniques and test methods to agreed acceptance levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+The suspect area shall be cropped off.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+The tube shall be deemed not to have passed the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report including at least the following
+information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-3;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+type and details of inspection technique(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+equipment calibration method used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+description of the reference standard acceptance level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+date of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+operator identification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 8                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(normative)
+Limitations of magnetic flux leakage test method<<HEADING_END>>
+<<HEADING level=3>>A.1 General<<HEADING_END>>
+<<PARAGRAPH>>When using this method, the inspected products shall be magnetically saturated inserting them in an external
+strong magnetic field; the aim of this saturation is to cause flux leakage/flux diversion from imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>During the magnetic flux leakage testing of tubes, the sensitivity of the test is at maximum at the tube surface
+adjacent to the magnetic transducer and decreases with increasing tube thickness due to effective diminishing
+flux diversion from imperfection at the tube bore surface in relation to that at the external surface. The signal
+response from internal surface imperfection may thus be smaller than that from an external imperfection of the
+same size.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>As a result, it may be necessary for the internal notch depth to be increased in excess of that specified for the
+external notch depth by an amount agreed on by the purchaser and the manufacturer, being dependent, for
+example on the type of equipment in use and the surface condition of the tube being tested. For that reason,
+Table A.1 is generally applied.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.1 — Maximum ratio of internal notch depth and external notch depth
+with respect to tube thickness<<HEADING_END>>
+<<HEADING level=3>>Specified wall thickness<<HEADING_END>>
+<<HEADING level=3>>T
+Maximum ratio of internal notch depth/external notch depth<<HEADING_END>>
+<<PARAGRAPH>>mm
+F2
+F3/F4/F5<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  <   T   u  12
+2,0
+1,2<<PARAGRAPH_END>>
+<<PARAGRAPH>>12 <   T   u  15
+2,5
+1,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>15 <   T   u  20
+3,0
+2,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Minimum internal notch depth: 0,4 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2 Fixed or rotating magnetic transducer<<HEADING_END>>
+<<PARAGRAPH>>These test techniques use one or more magnetic transducers to describe a helical path over the tube surface.
+For this reason, these techniques detect longitudinal imperfections with a minimum length dependant on the
+width of the transducer and the inspection helical pitch. It is recognized that transverse imperfections are
+normally not detectable.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3 Multiple transducers technique<<HEADING_END>>
+<<PARAGRAPH>>This test technique uses multiple fixed magnetic transducers surrounding the tube during its linear movement.
+For this reason the technique detects predominantly transverse imperfections having a minimum length
+dependant on the circumferential dimension of the transducer. It is recognized that longitudinal imperfections
+are normally not detectable unless they have a significant transverse component (oblique).<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+9<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Specified wall thickness                   | Maximum ratio of internal notch depth/external notch depth   |     |
+| T                                          | F2 F3/F4/F5                                                  |     |
+| mm                                         |                                                              |     |
+|:-------------------------------------------|:-------------------------------------------------------------|:----|
+| 8 < T u 12                                 | 2,0                                                          | 1,2 |
+| 12< T u 15                                 | 2,5                                                          | 1,5 |
+| 15< T u 20                                 | 3,0                                                          | 2,0 |
+| NOTE Minimum internal notch depth: 0,4 mm. |                                                              |     |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 10893-3:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 9 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 16
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 19
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 2x1
+[TABLE_2] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_2] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_2] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 6x2
+[TABLE_2] Page: 13, Size: 3x1
+[TABLE_1] Page: 14, Size: 3x1
+[TABLE_1] Page: 15, Size: 5x3
+[TABLE_2] Page: 15, Size: 3x1
+[TABLE_1] Page: 16, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

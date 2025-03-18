@@ -1,0 +1,1457 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 10646 : 1991\n(Superseding IS 3860 and IS 4969)\n(Reaffirmed 1999)\nEdition 2.2\n(2000-09)",
+          "bbox": [
+            349.24,
+            55.29,
+            524.37,
+            120.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            102.64,
+            137.28,
+            492.4,
+            218.16
+          ],
+          "block_id": "img1_9"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            236.96,
+            368.3,
+            254.96
+          ],
+          "block_id": "b1_4",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "CANAL LININGS \u2014 CEMENT CONCRETE\nTILES \u2014 SPECIFICATION",
+          "bbox": [
+            90.16,
+            268.63,
+            510.36,
+            310.51
+          ],
+          "block_id": "b1_5",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            228.52,
+            322.88,
+            366.42,
+            340.88
+          ],
+          "block_id": "b1_6",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment Nos. 1 & 2)",
+          "bbox": [
+            207.28,
+            355.83,
+            387.71,
+            365.79
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC 626.823.914 : 666.972 - 431",
+          "bbox": [
+            221.8,
+            396.75,
+            373.27,
+            406.71
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2003",
+          "bbox": [
+            271.12,
+            673.83,
+            323.91,
+            683.79
+          ],
+          "block_id": "b1_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            705.69,
+            452.46,
+            746.25
+          ],
+          "block_id": "b1_1",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 1",
+          "bbox": [
+            451.24,
+            778.41,
+            523.59,
+            788.37
+          ],
+          "block_id": "b1_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_9",
+          "bbox": [
+            102.64,
+            137.28,
+            492.4,
+            218.16
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_9": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Irrigation Canals and Canal Linings Sectional Committee, RVD 13",
+          "bbox": [
+            70.72,
+            63.99,
+            380.05,
+            73.95
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.55,
+            132.23,
+            150.51
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the\ndraft finalized by the Irrigation Canals and Canal Linings Sectional Committee had been\napproved by the River Valley Division Council.",
+          "bbox": [
+            70.72,
+            161.55,
+            524.3,
+            193.47
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Lining of canals is considered as an important feature of irrigation projects as it not only\nminimises the loss of water due to seepage, but also results in achieving considerable economy in\nthe use of cultivable land which would otherwise be prone to water-logging due to rise in water\ntable. Further, the water thus saved can be usefully employed for the extension and improvement\nof irrigation facility. Lining of water courses in the area irrigated by tubewells assumed special\nsignificance as the pumped water supplied is relatively more costly.",
+          "bbox": [
+            70.72,
+            198.51,
+            524.35,
+            263.43
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Further, lining of canals permits the adoption of high velocities resulting in proportionate savings\nof the cross-sectional areas of the canal and land width required with corresponding saving in the\ncost of excavation and masonry works which in certain cases may offset completely the extra cost\nof lining. Also, the lining improves stability of channel sections thereby reducing the\nmaintenance/cost. The benefits that accrue from lining of canals generally justify the initial capital\ncost and because of this, there is now better appreciation of the need for lining of canals.",
+          "bbox": [
+            70.72,
+            268.47,
+            524.46,
+            333.51
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Judicious selection of serviceable and economical lining at the first instance and subsequently\nproper execution of the work while in laying the canal lining contributes considerably in achieving\noverall economy in the project. Guidance with regard to the selection of canal lining for any\nparticular canal is given in a separate standard IS 10430 : 1982 \u2018Criteria for Design of lined canals\nand guidance for selection of type of lining\u2019. One of the methods of cement concrete lining is by\nusing precast cement concrete tiles.",
+          "bbox": [
+            70.72,
+            338.55,
+            524.28,
+            403.47
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard has been formulated to cover specification of precast cement concrete tile which are\ncompressed mechanically at the time of manufacture so as to achieve higher strength stipulated in\nthis standard. This standard was issued in 1983. The revision covers additional sizes besides\nincorporating strength requirements and method of test thus covering requirement of\nIS 3860 : 1960 \u2018Specification for precast cement concrete slabs for canal lining\u2019 and IS 4969 : 1968\n\u2018Method of test for determining flexural strength of precast cement concrete slabs for canal lining\u2019\n(except of non-provision of bevelled sides type, with tongue and groove arrangement which are not\nused due to breakage in handling).",
+          "bbox": [
+            70.72,
+            408.51,
+            524.4,
+            495.51
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.2 incorporates Amendment No. 1 (June 1992) and Amendment No. 2\n(September 2000). Side bar indicates modification of the text as the result of incorporation of the\namendments.",
+          "bbox": [
+            70.72,
+            500.55,
+            524.3,
+            532.47
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular requirement of this standard is complied with,\nthe final value, observed or calculated, expressing the result of a test or analysis, shall be rounded\noff in accordance with IS 2 : 1960 \u2018Rules for rounding off numerical values (  revised  )\u2019. The number\nof significant places retained in the rounded off value should be the same as that of the specified\nvalue in this standard.",
+          "bbox": [
+            70.72,
+            537.51,
+            524.43,
+            591.51
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 10646 : 1991",
+          "bbox": [
+            435.4,
+            55.29,
+            524.37,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            83.0,
+            368.3,
+            101.0
+          ],
+          "block_id": "b3_2",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "CANAL LININGS \u2014 CEMENT CONCRETE\nTILES \u2014 SPECIFICATION",
+          "bbox": [
+            90.16,
+            114.55,
+            510.36,
+            156.55
+          ],
+          "block_id": "b3_3",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            228.52,
+            168.92,
+            366.42,
+            186.92
+          ],
+          "block_id": "b3_4",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "aggregate. The potable water shall be used for\nmixing concrete and curing. Concrete mix used\nin title shall conform to M-15 grade specified in\nIS 456.",
+          "bbox": [
+            304.6,
+            197.79,
+            524.3,
+            240.75
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            70.72,
+            197.85,
+            117.28,
+            207.81
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1.1  This standard lays down requirements of\nprecast cement concrete tiles for canal lining.",
+          "bbox": [
+            70.72,
+            213.27,
+            290.39,
+            234.27
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            70.72,
+            241.41,
+            155.98,
+            251.37
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4 DIMENSIONS",
+          "bbox": [
+            304.6,
+            247.89,
+            386.13,
+            257.85
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The\nIndian\nStandards\nlisted\nbelow\nare\nnecessary adjuncts to this standard:",
+          "bbox": [
+            70.72,
+            256.83,
+            290.36,
+            277.83
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1  The nominal dimension shall be as below:",
+          "bbox": [
+            304.6,
+            263.31,
+            514.37,
+            273.33
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "500 mm \u00d7 500 mm, 500 mm \u00d7 250 mm, 400 mm\n\u00d7 400 mm, 300 mm \u00d7 300 mm and 250 mm \u00d7\n250 mm.",
+          "bbox": [
+            304.6,
+            278.31,
+            524.33,
+            310.23
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle",
+          "bbox": [
+            91.48,
+            284.02,
+            226.58,
+            293.98
+          ],
+          "block_id": "b3_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "269 : 1989\nSpecification\nfor\n33\ngrade\nordinary\nportland\ncement\n(  fourth revision  )",
+          "bbox": [
+            70.72,
+            299.79,
+            290.48,
+            332.02
+          ],
+          "block_id": "b3_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1.1  Each of these shall be manufactured in\nthe thicknesses 60, 50 and 40 mm.",
+          "bbox": [
+            304.6,
+            315.27,
+            524.25,
+            336.27
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "383 : 1970\nSpecification for coarse and fine\naggregates from natural sources\nfor concrete (  second revision  )",
+          "bbox": [
+            70.72,
+            337.83,
+            290.48,
+            369.94
+          ],
+          "block_id": "b3_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 However other size than those given in  4.1\nmay also be manufactured if specifically required by the\nuser.",
+          "bbox": [
+            316.96,
+            340.67,
+            524.33,
+            366.59
+          ],
+          "block_id": "b3_16",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5 TOLERANCE",
+          "bbox": [
+            304.6,
+            373.41,
+            382.96,
+            383.37
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "455 : 1989\nSpecification for portland slag\ncement (  fourth revision  )",
+          "bbox": [
+            70.72,
+            375.87,
+            290.41,
+            396.94
+          ],
+          "block_id": "b3_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Tolerance in length and breadth shall be \u00b1 3\nmm and thickness + 2.0 mm.",
+          "bbox": [
+            304.6,
+            388.83,
+            524.35,
+            409.83
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "456 : 1978\nCode of practice for plain and\nreinforced\nconcrete\n(  third\nrevision  )",
+          "bbox": [
+            70.72,
+            402.87,
+            290.43,
+            434.98
+          ],
+          "block_id": "b3_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 SHAPE",
+          "bbox": [
+            304.6,
+            416.85,
+            351.28,
+            426.81
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The tile shall have its all sides at right angles\nto the faces.",
+          "bbox": [
+            304.6,
+            432.39,
+            524.2,
+            453.27
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1344 : 1981\nSpecification\nfor\ncalcined\npozzolana (  second revision  )",
+          "bbox": [
+            70.72,
+            440.79,
+            290.37,
+            461.98
+          ],
+          "block_id": "b3_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 FLEXURAL STRENGTH OF\nMANUFACTURED TILES",
+          "bbox": [
+            304.6,
+            460.41,
+            460.11,
+            481.89
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3812 : 1981\nSpecification for fly ash for use\nas pozzolana and admixture\n(  first revision  )",
+          "bbox": [
+            70.72,
+            467.79,
+            290.4,
+            500.02
+          ],
+          "block_id": "b3_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Samples for flexural shall be cured for 24 hours\nin shade and 21 days in water prior to testing.\nWhen tested according to the method given at\nAnnex A, minimum breaking load per cm\nweight of the tile shall not be less than 41 kg for\n60 mm, 29 kg for 50 mm and 18 kg for 40 mm\ntiles thickness.",
+          "bbox": [
+            304.6,
+            487.35,
+            524.44,
+            563.31
+          ],
+          "block_id": "b3_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1489 (Parts 1\nand 2) : 1991\nSpecification\nfor\nportland\npozzolana cement: Part 1 Fly\nash based and Part 2 Calcined\nclay based (  third revision  )",
+          "bbox": [
+            70.72,
+            505.83,
+            290.4,
+            548.98
+          ],
+          "block_id": "b3_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 MANUFACTURE",
+          "bbox": [
+            70.72,
+            558.93,
+            167.18,
+            568.89
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8 MARKING",
+          "bbox": [
+            304.6,
+            570.45,
+            367.98,
+            580.41
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The cement used in the manufacture of tiles\nshall conform to IS 269 : 1976, IS 455 : 1976 or\nIS 1489 : 1976. Fine aggregates and coarse\naggregates shall conform to IS 383 : 1970. The\nsize of the coarse aggregate shall be not more\nthan 20 mm. Pozzolana conforming to IS 1344 :\n1981 or IS 3812 : 1981 may also be used as",
+          "bbox": [
+            70.72,
+            574.35,
+            290.5,
+            650.31
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1  Each tile shall be suitably marked as under:\na) Source of manufacture, and\nb) Size with thickness.",
+          "bbox": [
+            304.6,
+            585.87,
+            524.34,
+            623.79
+          ],
+          "block_id": "b3_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.2  The tiles may also be marked with the\nStandard Mark.",
+          "bbox": [
+            304.6,
+            628.83,
+            524.27,
+            649.83
+          ],
+          "block_id": "b3_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 10646 : 1991",
+          "bbox": [
+            70.72,
+            55.29,
+            159.69,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A",
+          "bbox": [
+            267.88,
+            83.61,
+            327.26,
+            95.61
+          ],
+          "block_id": "b4_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Clause  7.1 )",
+          "bbox": [
+            267.4,
+            101.79,
+            327.6,
+            111.94
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TEST FOR FLEXURAL STRENGTH OF MANUFACTURED TILE",
+          "bbox": [
+            132.28,
+            117.93,
+            462.77,
+            127.89
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.2  The specimen shall be placed horizon-\ntally on roller bearers 150 mm apart with their\nlength parallel to bearers. The load shall be\napplied at mid-stand by means of steel bar\nparallel to the bearers. The length of the\nbearers and that of the loading bar shall be\nlonger than the length of the specimen and\ntheir contact shall be rounded to a diameter of\n25 mm. A plywood packing 3 mm thick and\n25 mm wide shall be placed between the\nspecimen and the bearers and between the\nspecimen and the loading bar. The loading bar\nand the bearers shall be self-aligning (  see\nFig. 1 ).",
+          "bbox": [
+            304.6,
+            138.87,
+            524.32,
+            291.75
+          ],
+          "block_id": "b4_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-1 SAMPLE",
+          "bbox": [
+            70.72,
+            138.93,
+            136.72,
+            148.89
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-1.1  For ascertaining the conformity to the\nrequirements for flexural strength test, one tile\nfrom each lot of 500 shall be selected at random\nand tested.",
+          "bbox": [
+            70.72,
+            159.27,
+            290.44,
+            202.23
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-1.2  Lot shall be considered conforming to the\nrequirements of the flexural strength test if the\nsample passes the requirements of the test. In\ncase it fails to satisfy the requirements of the\ntest, two more tiles shall be selected at random\nfrom the same lot and tested for the\nrequirements of flexural strength. If any of\nthese two tested fails to satisfy the strength\nrequirements the lot shall be rejected.",
+          "bbox": [
+            70.72,
+            211.35,
+            290.47,
+            309.27
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-2.3  Starting from zero, the load shall be\nincreased steadily and uniformly at a rate not\nexceeding 2 kg/cm length (measured along with\nthe bearers) per minute up to the load specified\nin  7 , which shall be maintained for at least 1\nminute. There shall not be any visual crack in\nthe tile.",
+          "bbox": [
+            304.6,
+            296.79,
+            524.32,
+            372.75
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-2 TEST",
+          "bbox": [
+            70.72,
+            320.37,
+            118.95,
+            330.33
+          ],
+          "block_id": "b4_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.1  The specimen shall be immersed in\npotable water for 24 hours and then taken out\nand wiped dry.",
+          "bbox": [
+            70.72,
+            339.87,
+            290.48,
+            371.79
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            118.96,
+            402.72,
+            477.04,
+            523.56
+          ],
+          "block_id": "img4_13"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 1\nM ETHOD   OF  T EST   FOR  F LEXURAL  S TRENGTH   OF  T ILE",
+          "bbox": [
+            159.88,
+            532.83,
+            435.12,
+            542.79
+          ],
+          "block_id": "b4_12",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_13",
+          "bbox": [
+            118.96,
+            402.72,
+            477.04,
+            523.56
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img4_13": 2
+      }
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Standard Mark",
+          "bbox": [
+            79.24,
+            630.93,
+            158.37,
+            640.89
+          ],
+          "block_id": "b5_0",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The use of the Standard Mark is governed by the provisions of the  Bureau of Indian\nStandards Act, 1986  and the Rules and Regulations made thereunder. The Standard Mark on\nproducts covered by an Indian Standard conveys the assurance that they have been produced\nto comply with the requirements of that standard under a well defined system of inspection,\ntesting and quality control which is devised and supervised by BIS and operated by the\nproducer. Standard marked products are also continuously checked by BIS for conformity to\nthat standard as a further safeguard. Details of conditions under which a licence for the use of\nthe Standard Mark may be granted to manufacturers or producers may be obtained from the\nBureau of Indian Standards.",
+          "bbox": [
+            79.24,
+            645.87,
+            515.89,
+            743.91
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b6_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.21,
+            524.37,
+            116.25
+          ],
+          "block_id": "b6_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b6_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.73,
+            524.33,
+            182.73
+          ],
+          "block_id": "b6_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b6_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.21,
+            524.42,
+            259.29
+          ],
+          "block_id": "b6_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. RVD 13 (71).",
+          "bbox": [
+            70.72,
+            267.21,
+            361.31,
+            276.21
+          ],
+          "block_id": "b6_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b6_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b6_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nJune 1992",
+          "bbox": [
+            70.72,
+            331.29,
+            264.86,
+            340.29
+          ],
+          "block_id": "b6_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 2\nSeptember 2000",
+          "bbox": [
+            70.72,
+            348.21,
+            289.05,
+            357.21
+          ],
+          "block_id": "b6_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b6_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.33,
+            131.08,
+            543.33
+          ],
+          "block_id": "b6_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.25,
+            524.32,
+            570.33
+          ],
+          "block_id": "b6_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.25,
+            524.38,
+            587.25
+          ],
+          "block_id": "b6_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            477.88,
+            593.57,
+            481.32,
+            614.64
+          ],
+          "block_id": "b6_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.28,
+            524.28,
+            614.25
+          ],
+          "block_id": "b6_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            620.57,
+            438.58,
+            641.64
+          ],
+          "block_id": "b6_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.28,
+            524.29,
+            641.25
+          ],
+          "block_id": "b6_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            484.6,
+            648.53,
+            488.04,
+            669.6
+          ],
+          "block_id": "b6_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.28,
+            524.17,
+            668.25
+          ],
+          "block_id": "b6_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            675.53,
+            438.58,
+            696.6
+          ],
+          "block_id": "b6_24",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.28,
+            524.29,
+            695.25
+          ],
+          "block_id": "b6_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            701.57,
+            438.58,
+            722.64
+          ],
+          "block_id": "b6_25",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.28,
+            524.29,
+            722.25
+          ],
+          "block_id": "b6_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.28,
+            521.28,
+            772.29
+          ],
+          "block_id": "b6_20",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "( ASG AAA OL\n\nASA pp 3164 \u2014\nAHS PwC Cleo \u2014 {dfalles\nSVAN sido",
+      "position": {
+        "x0": 102.64,
+        "y0": 137.28,
+        "x1": 492.4,
+        "y1": 218.16,
+        "width": 389.76,
+        "height": 80.88
+      },
+      "size": {
+        "width": 3248,
+        "height": 674
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "",
+      "position": {
+        "x0": 118.96,
+        "y0": 402.72,
+        "x1": 477.04,
+        "y1": 523.56,
+        "width": 358.08,
+        "height": 120.84
+      },
+      "size": {
+        "width": 2984,
+        "height": 1007
+      },
+      "format": "png"
+    }
+  ]
+}

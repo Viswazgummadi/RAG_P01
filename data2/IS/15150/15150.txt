@@ -1,0 +1,1620 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>Is 15150:2002<<HEADING_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>INFORMATION
+SECURITY
+MANAGEMENT
+SYSTEM — REQUIREMENTS<<HEADING_END>>
+<<HEADING level=3>>Ics
+35.040<<HEADING_END>>
+<<PARAGRAPH>>0
+BIS 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREASU
+OF
+INDIAN
+STANDARDS
+MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG
+NEW DELHI 110002<<HEADING_END>>
+<<PARAGRAPH>>Price Group 5<<PARAGRAPH_END>>
+<<HEADING level=3>>October
+2002<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Information System Security Sectional Committee, LTD 38<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard was adopted by the Bureau of Indian Standards, afler the draft finalized by the Information
+System Security Sectional Committee had been approved by the Electronics and Telecommunication
+Division
+Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The central theme of an Information Security Management System (ISMS) is to enable the implementing
+organization to enhance trust and confidence among its trading partners as well as within its own organization
+on its ability to protect the information and information processing assets.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Business needs of an organization can be broadly categorized into two types, one as ‘strategic needs’ and the
+other as ‘imperative needs’. It is recognized that the risks to a business in relation to imperative needs are
+significantly high as compared to strategic needs. The adoption of an Information Security Management System
+(lSMS) is an imperative need of an organization’s business.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The design and implementation of an organization’s Information Security Management System is influenced
+by the prevailing threat scenario, risks to its information and information processing assets, their effect on
+business processes, need for business continuity and the size and structure of the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is not the intent of this standard to imply uniformity in the structure of Information Security Management
+Systems or uniformity of documentation. This standard can be used by internal and external parties, including
+certification bodies, to assess the organization’s ability to meet stake holder’s, customer’s, regulatory and the
+organization’s own requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard promotes the adoption of a ‘risk based approach’ when developing, implementing and improving
+the effectiveness of the Information Security Management System, to enhance trust and confidence between the
+organization and its customers, trading partners and other external agencies as well as within the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For an organization to carry out its business in a safe and secure manner, it has to identify all critical information
+assets and manage numerous risks, threats and vulnerabilities associated with the information and informat ion
+processing facilities and mitigate the risks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The risk based approach enables the organization to systematically assess the risks, threats and vulnerabilityies
+associated with the critical information assets and related information processing facilities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When used within the Information Security Management System, such an approach emphasizes the importance
+of:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+awareness and understanding of risks, threats and vulnerabilities;
+b)
+selection and implementation of appropriate security controls;
+c)
+monitoring and reviewing the performance and effectiveness of the ISMS;
+d)
+keeping the security mechanism up-to-date; and
+e)
+continual improvement of the ISMS.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The model of a risk-based Information Security Management System is shown in Fig. 1.<<PARAGRAPH_END>>
+<<HEADING level=3>>(Continued
+on third cover)<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<PARAGRAPH>>Is 15150:2002<<PARAGRAPH_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>INFORMATION
+SECURITY
+MANAGEMENT
+SYSTEM — REQUIREMENTS<<HEADING_END>>
+<<PARAGRAPH>>1 SCOPE<<PARAGRAPH_END>>
+<<HEADING level=3>>IS No.
+Titie<<HEADING_END>>
+<<HEADING level=3>>14990
+Information technology — Security
+(Part 3): 2001
+techniques — Evaluation criteria of
+IT security: Part 3 Security assurance
+requirements<<HEADING_END>>
+<<PARAGRAPH>>1.1 General<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard specifies requirements
+for an Infor-
+mation
+Security
+Management
+System
+where
+an
+organization:<<PARAGRAPH_END>>
+<<PARAGRAPH>>3 TERMINOLOGY<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>needs to demonstrate its ability to reasonably
+protect all business critical information and
+related information processing assets from
+loss, damage or abuse,
+aims to enhance the trust and confidence
+between
+customers,
+trading
+partners
+and
+external
+agencies
+as well as within
+the
+organization, and
+needs to assure conformity
+to applicable
+contractual and regulatory requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose
+of this standard,
+the terms
+and
+definitions given below and those given in IS 14357
+shall apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1 Critical
+Information
+— Information which, in
+the absence of assurance
+in terms of availability,
+integrity and confidentiality, is likely to have an impact
+on the way business is intended to be carried out.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4 INFORMATION
+SECURITY
+MANAGEMENT
+SYSTEM<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2 Application<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1 General Requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>A11requirements
+of this standard are generic and
+are intended to be applicable
+to all organizations,
+regardless of the type and size of business. Where
+any requirement(s) of this standard cannot be applied
+due to the nature of an organization and its business
+critical
+information,
+this can be considered
+for
+exclusion.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall establish, document, implement
+and maintain an Information Security Management
+System and continually improve its effectiveness
+in
+accordance with the requirements of this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall:<<PARAGRAPH_END>>
+<<PARAGRAPH>>identifi all business critical information and
+classify them according
+to their business
+value,
+carry out a risk assessment on a continuous
+basis to determine the threats and vulner-
+abilities associated with the information and
+information processing assets,
+select and implement
+appropriate
+security
+controls to mitigate the risks,
+ensure the availability of resources necessary
+to implement these controls,
+monitor and review the implementation
+01’
+these controls, and
+continually
+improve
+the effectiveness
+of
+. overall ISMS.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where exclusions are made, claims of conformity to
+this standard are not acceptable unless these exclusions
+are limited to selection of controls (see 7.2.1) and such
+exclusions do not affect the organization’s ability, or
+responsibility,
+to protect
+all business
+critical
+information
+and related
+information
+processing
+facilities,
+and to assure conformity
+to applicable
+regu Iatory requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2 REFERENCES<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following
+Indian Standards contain provisions
+which
+through
+reference
+in this text,
+constitute
+provisions of this standard. At the time of publication,
+the editions indicated were valid. All standards are
+subject to revision and parties to agreements based on
+this standard
+are encouraged
+to investigate
+the
+possibility of applying the most recent editions of the
+standards indicated below:<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PARAGRAPH>>These steps shall be managed by the organization in
+accordance with the requirements of this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2 Documentation
+Requirements<<PARAGRAPH_END>>
+<<HEADING level=3>>IS No.
+Title
+14357:2002
+Code of practice for Information
+Security management system  @st
+revision]<<HEADING_END>>
+<<HEADING level=3>>4.2.1  General<<HEADING_END>>
+<<PARAGRAPH>>The Information
+Security
+documentation shall include:
+Management
+System<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>Is 15150:2002<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+documented
+statements
+of an information
+security policy,
+b)
+information security manual,
+c)
+documented
+procedures
+required
+by this
+standard,
+d)
+documents
+needed by the organization
+to
+ensure the effective implementation of ISMS,
+and
+e)
+information security records required by this
+standard (see 4.2.4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>fication to them if they are retained for any
+purpose.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.4 Control  of Information
+Security
+Recorck<<HEADING_END>>
+<<PARAGRAPH>>Information Security records shall be established and
+maintained
+to provide
+evidence
+of conformity
+to
+requirements
+and of the effective operation of the
+Information
+Security Management
+System. Infor-
+mation security records shall remain legible, readily
+identifiable and retrievable. Controls established shall
+provide for the identification,
+storage, protection,
+retrieval, retention time and disposition of information
+security records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTES
+I Where the term ‘documented procedure’ appears within this
+standard,this meansthat tireprocedureisestablishe~ documented,
+implemented and maintained.
+2 The extent of the Information Security Management System
+documentation can differ from one organization to another due
+to:
+a) the size of organization,
+b) the complexity of selected controls, and
+c) the competenceof personnel.
+3 The documentation can be in any form or type of medium.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5 MANAGEMENT
+RESPONSIBILITY<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1 Management
+Commitment<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top management
+shall provide
+evidence
+of its
+commitment to the development and implementation
+of the Information Security Management System and
+continually improving its effectiveness by:<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.2  Information
+Security
+Manual<<HEADING_END>>
+<<PARAGRAPH>>a)
+establishing the information security policy,
+b)
+conducting periodic reviews, and
+c)
+ensuring the availability of resources.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization
+shall establish
+and maintain
+an
+Information Security Manual that includes:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the scope
+of the Information
+Security
+Management System, including details of and
+justification for any exclusions (see 1.2), and
+b)
+the documented procedures established for
+the Information
+Security
+Management
+System, or reference to them.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2 Trust and Confidence<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top management shall ensure that the information
+security requirements are determined on a continuous
+basis and ii.dfilled with the aim of enhancing the trust
+and confidence
+between the organization
+and its
+customers, trading partners and external agencies as
+well as within the organization (see 7.2.1 and 8.2.1).<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.3  Control
+of Documents<<HEADING_END>>
+<<PARAGRAPH>>Documents
+required
+by the Information
+Security
+Management System shall be controlled. Information
+Security records are a special type of documents and
+shall be controlled according to the requirements given
+in 4.2.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Information
+Security
+Policy<<HEADING_END>>
+<<PARAGRAPH>>Top management shall ensure that the information
+security policy:<<PARAGRAPH_END>>
+<<PARAGRAPH>>is appropriate to the business environment
+of the organization,
+includes
+a commitment
+to comply
+with
+security
+requirements
+and continually
+improve the effectiveness of the Information
+Security Management System,
+is communicated and understood within the
+organization, and
+is reviewed for continuing suitability.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall establish the controls needed:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>to approve documents for adequacy prior to
+issue,
+to review
+and update
+as necessary
+and
+reapprove documents,
+to ensure
+that
+changes
+and the current
+revision status of documents are identified,
+to ensure that relevant versions of applicable
+documents are available at points of fise,
+to ensure that documents remain legible and
+readily identifiable,
+to ensure that documents of external origin
+are identified and their distribution control-
+led, and
+to prevent the unintended
+use of obsolete
+documents,
+and to apply suitable
+identi-<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4  Responsibility,
+Authority
+and Communication<<HEADING_END>>
+<<HEADING level=3>>5.4.1  Responsibility
+and Authority<<HEADING_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top management shall ensure that the responsibilities,
+authorities and their interrelations
+for information
+security are defined and communicated
+within the
+organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>Is 15150:2002<<HEADING_END>>
+<<PARAGRAPH>>a)
+improvement
+of the effectiveness
+of the
+Information Security Management
+System,
+and<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2  ManagementR epresentative<<HEADING_END>>
+<<PARAGRAPH>>Top management shall appoint a member of manage-
+ment who, irrespective of other responsibilities, shall
+have responsibility and authority that includes:<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+resource needs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+ensuring that steps needed for implement-
+ation of the Information Security Manage-
+ment System are established and maintained,
+b)
+reporting
+to the top management
+on the
+performance
+of the Information
+Security
+Management
+System
+and any need
+for
+improvement, and
+c)
+liaison
+with external
+parties
+on matters
+relating to the Information Security Manage-
+ment System.<<PARAGRAPH_END>>
+<<HEADING level=3>>6  RESOURCE
+MANAGEMENT<<HEADING_END>>
+<<HEADING level=3>>6.1  Human
+Resources<<HEADING_END>>
+<<HEADING level=3>>6.1.1  General<<HEADING_END>>
+<<PARAGRAPH>>Personnel performing
+work connected
+with infor-
+mation security shall be competent on the basis of
+appropriate education, training, skills and experience.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.2  Competence,
+Awareness
+and Training<<HEADING_END>>
+<<PARAGRAPH>>The organization shall :<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.3  Internal
+Communication<<HEADING_END>>
+<<PARAGRAPH>>determine
+the necessary
+competence
+for
+personnel performing work connected with
+information security,
+provide
+training
+or take other actions
+to
+satisfy these needs,
+evaluate the effectiveness of the actions taken,
+ensure that its personnel are aware of the
+relevance and importance of their activities.
+and
+maintain appropriate records of education,
+training, skills and experience (see 4.2.4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top management
+shall
+ensure
+that
+appropriate
+communication processes are established within the
+organization
+and that communication
+takes place
+regarding the effectiveness of the Information Security
+Management System.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.5 Provision of Resources<<PARAGRAPH_END>>
+<<PARAGRAPH>>The top management
+shall provide the resources
+needed to implement and maintain the Information
+Security Management System and continually improve
+its effectiveness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.L3  Security
+in Job Definition
+and Resourcing<<HEADING_END>>
+<<HEADING level=3>>5.6  Management
+Review<<HEADING_END>>
+<<HEADING level=3>>6.1.3.1
+Security
+in job
+responsibilities<<HEADING_END>>
+<<HEADING level=3>>5.6.1  General<<HEADING_END>>
+<<PARAGRAPH>>Security roles and responsibilities for implement ing
+and maintaining the security policy as well as any
+specific responsibilities for the protection of critical
+information and information processing assets shal I
+be documented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top management
+shall review the organization’s
+Information Security Management System, at planned
+intervals, to ensure its continuing suitability, adequacy
+and effectiveness. This review shall include assessing
+opportunities
+for improvement
+and the need for
+changes to the Information
+Security Management
+System,
+including
+the
+Information
+Security
+policy. Records from management reviews shall be
+maintained (see 4.2.4).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.3.2
+Personnel
+screening<<HEADING_END>>
+<<HEADING level=3>>The  organization shall establish necessary verification
+checks at the time of recruitment.<<HEADING_END>>
+<<HEADING level=3>>6.1.3.3
+Terms
+and conditions
+and
+confide ntia[i(v
+agreements<<HEADING_END>>
+<<HEADING level=3>>5.6.2  Review
+Input<<HEADING_END>>
+<<PARAGRAPH>>The input to management review shall include, as a
+Iminimum, the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>The terms and conditions of employment shall state
+the responsibility
+for information
+security.
+Where
+necessary,
+appropriate
+confidentiality
+or non-
+disclosure agreements shall be included.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+b)
+c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>results
+of audits,
+status of preventive and corrective actions,
+follow-up actions from previous management
+reviews,
+changes that could affect the Information
+Security Management System, and
+recommendations for improvement.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2  Infrastructure<<HEADING_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>The organization
+shall
+determine,
+provide
+and
+maintain
+the
+conformity
+to
+Infrastructure
+following<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>infrastructure
+needed
+to achieve
+information
+security
+requirements.
+includes
+but is not limited
+to the<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6.3  Review
+Output<<HEADING_END>>
+<<PARAGRAPH>>The output from the management review shall include
+any decisions and actions related to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>1s 15150:2002<<HEADING_END>>
+<<PARAGRAPH>>a)
+buildings, workspace andassociatedutilities,
+b)
+the integrity
+of the Information
+Security<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+information processing assets, both hardware
+Management
+System is maintained
+when
+and software, and
+changes to the Information Security Manage-<<PARAGRAPH_END>>
+<<PARAGRAPH>>C)
+supporting
+services
+such
+as network
+ment system are planned and implemented.<<PARAGRAPH_END>>
+<<HEADING level=3>>communication.
+7.1.2  Asset Classl~cation
+and Control<<HEADING_END>>
+<<HEADING level=3>>6.2.2  Information
+Security
+Infrastructure
+7.1.2.1
+Inventory
+and classification
+of assets
+6.2.2.1  Information
+securiy
+forum
+and coordination<<HEADING_END>>
+<<PARAGRAPH>>All critical information asse?tsand related information
+processing assets, including hardware, software and
+internal services, shall be identified and classified to
+indicate the need, priorities,
+impact and degree of
+protection required. Each of these assets shall have a
+nominated owner.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization
+shall
+establish
+a management
+framework to initiate and control the implementation
+of information
+security controls within the organi-
+zation. Where necessary, the organization shall set up
+cross-functional team(s) to coordinate the implement-
+ation of security controls.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1.2.2  Information
+Iabelling
+and handling<<HEADING_END>>
+<<HEADING level=3>>6.2.2.2  Allocation
+of securiy
+responsibilities<<HEADING_END>>
+<<PARAGRAPH>>Organization shall establish procedures for handling
+of critical information assets, including information
+assets in physical and electronic forms, according to
+their classification. All critical information assets that
+are classified as sensitive shall be suitably labelled.
+6.2.2.3
+Authorization
+process
+for
+information
+7. L3 Risk Assessment
+processing
+facilities<<PARAGRAPH_END>>
+<<PARAGRAPH>>Responsibilities
+for the protection
+of all critical
+information
+and information
+processing
+assets
+including
+business
+continuity
+planning
+shall be
+defined.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A management
+authorization
+process
+for new
+An appropriate risk assessment shall be undertaken.
+The risk assessment
+shall identify
+the threat and
+information processing facilities shall be established.
+The use of personal information processing facility
+vulnerabilities associated with the critical information<<PARAGRAPH_END>>
+<<PARAGRAPH>>for processing business information, which may cause
+and related information processing assets and shall<<PARAGRAPH_END>>
+<<PARAGRAPH>>new vulnerabilities, shall also be authorized.
+determine the extent of risks commensurate with the
+degree of information security assurance required. For
+6.2.2.4  Specialist
+information
+security
+advice<<PARAGRAPH_END>>
+<<PARAGRAPH>>degree
+of information
+security
+assurance
+levels
+(Evaluation Assurance Levels-EALs)
+[see IS 14990
+(Part 3)].<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization
+shall nominate
+an individual
+to
+coordinate knowledge and experience, in-house as well
+as outside, to ensure consistency and provide help in
+security decision making.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1.4  Risk Management<<HEADING_END>>
+<<PARAGRAPH>>Following
+risk assessment,
+the organization
+shal I
+identifi and manage the areas of risks, based on the
+organization’s
+information
+security policy and the
+degree of information security assurance required. For
+degrees
+of information
+security
+assurance
+levels
+(Evaluation Assurance Levels-EALs)
+[see IS 14990
+(Part 3)].<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.2.5  Cooperation
+between
+organizations<<HEADING_END>>
+<<PARAGRAPH>>Appropriate
+contacts
+with agencies
+such as law
+enforcement,
+regulatory bodies, information service
+providers,
+telecommunication
+operators
+shall be
+maintained to ensure that appropriate action can be
+quickly taken and advice obtained in the event of a
+security incident.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2  Implementation<<HEADING_END>>
+<<HEADING level=3>>6.3  Work
+Environment<<HEADING_END>>
+<<PARAGRAPH>>7.2.1 The  organization shall select and implement all
+applicable
+security controls from the list given in
+Table 1, with due consideration to the requirements
+arising out of risk assessment and legal and contractual<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization
+shall determine
+and manage the
+work environment
+needed to achieve conformity to
+information security requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+PLANNING
+AND IMPLEMENTATION
+obligation. Any exclusions shall be suitably justified
+and documented.
+Requirement
+for any additional
+7.1 Planning
+controls shall also be considered.<<HEADING_END>>
+<<PARAGRAPH>>7.1.1
+Information
+Security
+Management
+System
+7.2.2  The organization shall determine the need for
+Planning
+procedures for its ISMS and effectively implement the
+The organization shall ensure that:
+selected security controls. Monitoring and verification<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the planning
+of the Information
+Security
+arrangements necessary to establish conformance to<<PARAGRAPH_END>>
+<<PARAGRAPH>>Management System is carried out in order
+the security requirements
+shall be established
+and<<PARAGRAPH_END>>
+<<HEADING level=3>>to meet the requirements given in  4.1,  and
+appropriate records maintained.<<HEADING_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>Is 15150:2002<<HEADING_END>>
+<<HEADING level=3>>Table
+1 Applicable
+Security
+Controls<<HEADING_END>>
+<<HEADING level=3>>(Clause
+7.2.1)<<HEADING_END>>
+<<HEADING level=3>>Ref No.
+Information Security Controls<<HEADING_END>>
+<<HEADING level=3>>1
+Physical and environmental security<<HEADING_END>>
+<<HEADING level=3>>Secure Areas
+Physical securi~perirrreter—
+Organizations shall use security perimetersto protect areaswhich contain information processing
+facilities.<<HEADING_END>>
+<<HEADING level=3>>1.1
+1,1.1<<HEADING_END>>
+<<PARAGRAPH>>1.1.2<<PARAGRAPH_END>>
+<<HEADING level=3>>Physical entry control — Secore areas  shall be protected by appropriate eotry controls to ensure that only authorized persooncl
+are allowed access.<<HEADING_END>>
+<<PARAGRAPH>>1.1.3<<PARAGRAPH_END>>
+<<HEADING level=3>>Securing
+o@es,
+rooms arrdfacilities
+—  Secure areas shall be created in order to protect offices, rooms and facilities with
+special security requirements.<<HEADING_END>>
+<<HEADING level=3>>Working insecure
+areas —  Additional controls and guidelines for working in secure areasshall be used to enhance the security
+provided by the physical controls protecting the secure areas.<<HEADING_END>>
+<<PARAGRAPH>>1.1.4<<PARAGRAPH_END>>
+<<HEADING level=3>>lsolateddelivery
+arrd Ioadirrgareas—
+Delivery  and loading ar&s shall be eorstrolledand,  if possible, isolated from information
+processing facilities to avoid unauthorized access.
+Equipment Security<<HEADING_END>>
+<<PARAGRAPH>>1.1,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2
+1.2.1<<PARAGRAPH_END>>
+<<HEADING level=3>>Equipment siting arrdprotection
+—  Equipment shall be sited or protected to reduee the risks from environmental threats  and
+hazards, and opportunities for unauthorized access.<<HEADING_END>>
+<<PARAGRAPH>>I.2.2
+1.2.3<<PARAGRAPH_END>>
+<<HEADING level=3>>Power supplies—
+Equipment shall be protected from power failures and other electrical anomalies.<<HEADING_END>>
+<<PARAGRAPH>>Cabling security
+—  Power and telecommunication cabling canying data or supporting information services shall be protcctcd
+form interception or damage.
+Equipment maintenance
+—  Equipment shall be maintained in accordance with manufacturer’s instruction and/or documeotwl
+procedures to ensure its continued availability and integrity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2.4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Security
+of equipment
+off-premises
+—  Security procedures and controls shall be used to secure equipment used ootsidc
+organization’s premises.
+Secure  disposal
+or re-use of equipmerr—
+Information shall be erased from equipment prior to disposal or re-use.
+General Controls<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2.6
+1.3
+1.3.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Clear desk and clear screen policy—  Organizations shall have and implement a clear desk and a clear screen policy in order to
+reduce the risks of unauthorized access, loss of, and damage to information.<<PARAGRAPH_END>>
+<<HEADING level=3>>Removal
+of proper~
+—  Equipment, information or software belonging to the organization shall not be removed without
+authorization.<<HEADING_END>>
+<<PARAGRAPH>>1.3.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Communications
+and operations management<<PARAGRAPH_END>>
+<<PARAGRAPH>>Operational Procedures and Responsibilities<<PARAGRAPH_END>>
+<<HEADING level=3>>2.1<<HEADING_END>>
+<<HEADING level=3>>Documented
+operating
+procedures
+—  The operating procedures identified in the security policy shall be documented
+and
+maintained.<<HEADING_END>>
+<<HEADING level=3>>2.1.1<<HEADING_END>>
+<<HEADING level=3>>Operational
+change control—
+Changes to information processing facilities and systems shall be controlled.<<HEADING_END>>
+<<HEADING level=3>>2.1.2<<HEADING_END>>
+<<HEADING level=3>>Segregation
+of duties —  Duties and areas of responsibility shall be segregated in order to reduce opportunities for unauthorized
+modification or misuse of information or services.<<HEADING_END>>
+<<HEADING level=3>>2.1.3<<HEADING_END>>
+<<HEADING level=3>>Separatir?n of development
+and opera~iorsalfacilities
+—  Development and testing facilities shall be separated from operational
+facilities.<<HEADING_END>>
+<<HEADING level=3>>2,1.4<<HEADING_END>>
+<<PARAGRAPH>>Externalfacilities
+management
+—  Prior to using external facilities management services, the risks shall be identified and
+appropriate controls agreed with the contractor, and incorporated into the contract.
+System Planning and Acceptance<<PARAGRAPH_END>>
+<<HEADING level=3>>2.1.5<<HEADING_END>>
+<<HEADING level=3>>2.2<<HEADING_END>>
+<<HEADING level=3>>Capaci&p/arming—
+Capacity demands shall be monitored and projections of future capacity requirements made to ensure that
+adequate processing power and storage are available.<<HEADING_END>>
+<<HEADING level=3>>2.2.1<<HEADING_END>>
+<<PARAGRAPH>>System acceptance
+—  Acceptance criteria for new information systems, upgrades and new versions shall be established and
+suitable tests of the system carried out prior to acceptance.
+Protection Against Malicious Sotlwere<<PARAGRAPH_END>>
+<<HEADING level=3>>2.2.2<<HEADING_END>>
+<<HEADING level=3>>2.3<<HEADING_END>>
+<<HEADING level=3>>Controls against malicious soflware —  Detection end preventioncontrolsto protect against malicious sothvrrreand appropriate
+user awareness procedures shall be implemented.
+Housekeeping<<HEADING_END>>
+<<HEADING level=3>>2.3.1<<HEADING_END>>
+<<HEADING level=3>>2.4<<HEADING_END>>
+<<HEADING level=3>>hrformation
+back-up —  Back-up copies of essential business information and software shall be taken regularly.<<HEADING_END>>
+<<HEADING level=3>>2.4.1<<HEADING_END>>
+<<HEADING level=3>>Operator
+logs —  Operational staff shall maintain a log of their activities.<<HEADING_END>>
+<<HEADING level=3>>2.4.2<<HEADING_END>>
+<<HEADING level=3>>Fault logging
+—  Faults shall be reported and corrective action taken.
+Network Management<<HEADING_END>>
+<<HEADING level=3>>2.4,3
+2.5<<HEADING_END>>
+<<HEADING level=3>>Network controls —  A range of controls shall be implemented to achieve and maintain security in networks
+Media Handling and Security<<HEADING_END>>
+<<HEADING level=3>>2.5.1
+2.6<<HEADING_END>>
+<<HEADING level=3>>Management
+of removable
+computer media —  The management of removable computer media, such as tapes, disks, casscttcs
+and printed reports shall be controlled.<<HEADING_END>>
+<<HEADING level=3>>2.6.1<<HEADING_END>>
+<<PARAGRAPH>>Disposal
+of media —  Media shall be disposed off securely and safely when no longer required.
+Information
+lrandlingprocedures
+—  Procedures for the handling and storage of information shall be established in order to
+protect such information tlom unauthorized disclosure or misuse.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.6.2<<HEADING_END>>
+<<HEADING level=3>>2.6.3<<HEADING_END>>
+<<HEADING level=3>>5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>Is 15150:2002<<HEADING_END>>
+<<HEADING level=3>>Table 1 (Continued)<<HEADING_END>>
+<<HEADING level=3>>Ref No.
+Information Security Controls<<HEADING_END>>
+<<PARAGRAPH>>2.6.4
+Security o~sys~em documentation
+—  System documentation shall be protected from unauthorized access.
+2.7
+Exchanges oftnformation and Softwwe
+2.7.1
+Information
+and software
+exchange agreenrents —  Agreements, some of which maybe formal, shall be established for the
+electronic or manualexchange of informationand softwarebetween organization.
+2.7.2
+Securi@ of media in transit —  Media being transported shall be protected from unauthorized access, misuse or corruption,
+2.7.3
+Electronic commerce securi~ —  Electroniccommerceshallbeprotectedagainstfraudulentiwdvity,contractdisputeanddisclosure
+or modification of information.
+2,7,4
+Secrmify ofelectrorric
+mail —  A policy for the use of electronic mail shall be developed and controls out in place to redum!
+security risks created by electronic mail.
+2.7.5
+Securi& ojelectrorric
+ofjice sys(enrs —  Policies and guidelines shall be prepared and implemented to 60@rolthe business and
+security risks associatedwith electronic ot%eesystems,
+2.7.6
+Publicaly
+available systems —  There shall be a formal authorization process before information is made publicly available and
+the integrity of such information shall be protected to prevent unauthorized modification.
+2.7.7
+O/her forms
+of information
+exchange —  Procedures and controls shall be in place to protect the exchange of information
+through the use of voice, facsimile and video communicationsfacilities, mobile phones, satellite phones,wap devices, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Access  Control
+3.1
+3.1.1<<HEADING_END>>
+<<PARAGRAPH>>Business Requirements for Access Control<<PARAGRAPH_END>>
+<<PARAGRAPH>>Access controlpolicy—
+Businessrequirementsfor accesscontrolshallbe definedand documented,and accessshall be restricted
+to what is defined in the access control policy.
+UserAccess Management
+User  registration
+—  There shall be a formal user registratiomandthe de-registration procedure for granting access to all multi-
+user information systems and services.
+Privilege  management —  The allocation and use of privileges shall be restricted and controlled.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.2
+3.2.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.2.2
+3.2.3
+3.2.4
+3.3
+3.3.1
+3.3.2
+3.4
+3.4.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>User password
+management —  The allocation of passwords shall be controlled through a formal management process.
+Review of user access rights —  a formal process shall be conducted at regular intervals to review users’ access rights.
+User Responsibilities
+Password
+use —  Users shall be required to follow good security practices in the selection and use of passwords.<<PARAGRAPH_END>>
+<<HEADING level=3>>Unattended
+user equipment —  Users shall be required to ensure that unattended equipment has appropriate protection.
+Network Access Control<<HEADING_END>>
+<<PARAGRAPH>>Policy on use of nehvorkservices—
+Usersshall onlyhavedirectaccessto tbe servicesthat they have been specifically authorized
+to use.
+Enforcedpath
+—  The path from the user terminal to the computer service shall be controlled.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.4.2
+3.4.3
+3.4,4
+3.4.5
+3.4.6<<PARAGRAPH_END>>
+<<HEADING level=3>>User authentication
+for external connections —  Access by  remote users shall be subject to authentication.
+Node  authentication
+—  Connections to remote computersystems shall be authenticated.<<HEADING_END>>
+<<HEADING level=3>>Remote diagnosticportpratection
+—  Access to diagnostic parts shall be securely controlled.<<HEADING_END>>
+<<HEADING level=3>>Segregation
+in networks —  Controls shall be introduced in networks to segregate groups of information services, users and
+informationsystems.<<HEADING_END>>
+<<HEADING level=3>>Neiwork connection control—
+The connectioncapability of users shall be restricted in shared networks, in accordance with the
+access control policy.<<HEADING_END>>
+<<PARAGRAPH>>3.4.7<<PARAGRAPH_END>>
+<<HEADING level=3>>Network routing control—
+Shared networks shall have routing controls to ensure that computer connections and information
+flows do not breach the accesscontrol policy of the business applications.<<HEADING_END>>
+<<PARAGRAPH>>3.4,8<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.4.9<<PARAGRAPH_END>>
+<<PARAGRAPH>>Securi& of nerwork services —  A clear description of the security attributes of all network services used by the organization
+shall be provided.
+Operating System Access Control
+Automaric terminal identification
+—  Automatic terminal identifications shall be used to authenticate connections to specitic
+locations and to portable equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.5
+3.5.1<<PARAGRAPH_END>>
+<<HEADING level=3>>Terminal log-on procedures
+—  Access to information services shall use a secure log-on process.<<HEADING_END>>
+<<PARAGRAPH>>3.5.2
+3.5.3<<PARAGRAPH_END>>
+<<HEADING level=3>>User ident~jlcation and authentication
+—  All users shall have a unique identifier (user id) for their phonal
+and sole use so tlwt
+activities can be traced to the responsible individual.<<HEADING_END>>
+<<HEADING level=3>>Password
+management system —  A password management system shall be in place to provide an effective, interactive ftscilily
+which ensures quality passwords.<<HEADING_END>>
+<<PARAGRAPH>>3.5.4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Use of system utilities —  Use of system utility programmedshall be restricted and tightly controlled.
+Duress alarm to safeguard
+users —  Duress alarms shall be provided for users who might be the target of coercion.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.5.5
+3.5.6
+3.5.7<<PARAGRAPH_END>>
+<<HEADING level=3>>Terminal time-out —  Inactiveterminals in high risk locationsor servinghigh risk systemsshall shutdown after a defined period
+of inactivity to prevent accessby unauthorizedpersons.<<HEADING_END>>
+<<HEADING level=3>>Limitation
+of cmrneclion
+time —  Restrictions on connection times shall be used to provide additional security for high-risk
+applications.
+Application Access Control<<HEADING_END>>
+<<PARAGRAPH>>3.5.8<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.6
+3.6.1<<PARAGRAPH_END>>
+<<HEADING level=3>>Information access restriction —  Accessto information and application system functions shall be restricted in accordance with
+the accesscontrol policy.<<HEADING_END>>
+<<HEADING level=3>>Sensitive system isolation —  Sensitive systems shall have a dedicated (isolated) computing environment.<<HEADING_END>>
+<<PARAGRAPH>>3.6.2<<PARAGRAPH_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 15150:2002<<HEADING_END>>
+<<HEADING level=3>>Table 1 (Concluded)<<HEADING_END>>
+<<HEADING level=3>>Information Security Controls<<HEADING_END>>
+<<PARAGRAPH>>Ref No.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.7
+3.7.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Monitoring System Access and Use
+Event  logging—
+Audit logs recording exceptions and other security-relevant events shall be produced and kept for an agreed
+period to assi~ in fiture investigations and access control monitoring.<<PARAGRAPH_END>>
+<<HEADING level=3>>Monitoring
+system use —  Procedures  formonitoringuseofinformationprocessingfacilitiesshallbeestablishedandtheresult
+ofthemonitoringactivities reviewed regularly.<<HEADING_END>>
+<<PARAGRAPH>>3.7.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.7.3
+3.8
+3.8.1<<PARAGRAPH_END>>
+<<HEADING level=3>>Clock ~rrchrorrizatiorr —  Computer clocks shall be synchronized for accurate recording.
+Mobile Computing and Teleworking<<HEADING_END>>
+<<PARAGRAPH>>Mobile comprding
+—  A formal policy shall be in place and appropriate controls shall be adopted to protect against the risks 01’
+working with mobile computing facilities, in particular in unprotected environments.<<PARAGRAPH_END>>
+<<HEADING level=3>>Teleworking—
+Policies and procedures shall be developed to authorize and control teleworking activities.
+Security of Third Party access<<HEADING_END>>
+<<PARAGRAPH>>3.8.2
+3.9
+3.9.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>ldenrtfication
+ofrisksfrom
+flrirdpar~
+access —  The lisks associated with access to organizational information process ing
+facilities by third parties shall be assessed and appropriate security controls implemented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.9.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>Security
+requirements  in thirdpar~
+contracts
+—  Arrangements involving third party access to organizational information
+processing facilities shall be based on a formal contract containing all necessary security requirements.
+OutSourcing<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.10
+3.10.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Securi@ requirements
+in oulsourcing
+contracts—
+The security requirements of an organization orrtsourcingthe management
+and control of all or some of its information systems, networks and/or desk top environments shall be addressed in a contrac(
+agreed between the parties,<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Systems  Development  and Maintenance
+4.1
+4.1,1<<HEADING_END>>
+<<PARAGRAPH>>Control of Implementation of SothvrweandOperational System<<PARAGRAPH_END>>
+<<PARAGRAPH>>Securi& requirements
+analysis andspec@cation
+—  Businessrequirementsfornew systems,or enhaneemerrtsto existing systems
+shal1specify the requirements for controls.
+Security in Application Systems
+Input data validation
+—  Data input to application systems shall be validated to ensure that it is correct and appropriate.
+Control  ofinterrralprocessing—
+Validation checksshall be incorporatedinto systemsto detect corruption of the data processed.
+Message
+authentication
+—  Message authentication shall be used for applications where there is a security requirement to
+protect the integrity of the message content.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+4.2.1
+4,2,2
+4.2.3<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,2.4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Output data validation
+—  Data output from an application system shall be validated to ensure that the processing of stored
+information is correct and appropriate to the circumstances.
+Cryptographic Controls<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+4.3.1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Policy orI the use ofc~ptograplric
+controls —  A policy on the use of cryptographic controls for the protection of information
+shall be developed and followed.
+Encryption — Encryption shall be applied to protect the confidentiality of sensitive or critical information.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,3,2
+4.3.3
+4.3.4<<PARAGRAPH_END>>
+<<HEADING level=3>>Digits/signatures
+—  Digital signatures shall be applied to protect the authenticity and integrity of electronic information.<<HEADING_END>>
+<<PARAGRAPH>>Non-repudiation
+services —  Non-repudiation services shall be used to resolve disputes about occurrence or non-occurrence [~1’
+an event or action.
+Key management
+—  A key management system based on an agreed set of standards, procedures and methods shall be used 10
+support the use of cryptographic techniques.
+Security of System Files<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4
+4.4.1
+4.4,2
+4.4.3
+4.5
+4.5,1<<PARAGRAPH_END>>
+<<HEADING level=3>>Control ofoperationalsojhvure
+—  Control shall be applied to the implementation of sothvare on operational systems.<<HEADING_END>>
+<<HEADING level=3>>Protection
+ofsystem
+test  data —  Test data shall be protected and controlled.<<HEADING_END>>
+<<HEADING level=3>>Access control to program
+source library—
+Strict control shall be maintained over access to program source libraries.
+Security in Development and Support Processes<<HEADING_END>>
+<<HEADING level=3>>Change controlprocedures
+—  The implementation of changes shall be strictly controlled by the use of formal change control
+procedures to minimize the corruption of information systems,<<HEADING_END>>
+<<HEADING level=3>>Technical review ofoperating~$tem
+changes—
+Application systems shall be reviewed and tested when changes occur.<<HEADING_END>>
+<<PARAGRAPH>>4.5.2
+4.5.3<<PARAGRAPH_END>>
+<<PARAGRAPH>>Restrictions
+on changes to softwarepackages—
+Modifications to sotlware packagesshall be discouraged and essential chaogcs
+shall be made through control procedures.
+Covert  channels and trojan code —  The purchase, use and modification of software shall be controlled and checked to protect
+against possible covert channels and trojan code.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,5.4<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5.5<<PARAGRAPH_END>>
+<<HEADING level=3>>0utsourcedsoj2ware
+development
+—  Controls shall be applied to secure outsourced software development.<<HEADING_END>>
+<<HEADING level=3>>7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>Is 15150:2002<<HEADING_END>>
+<<PARAGRAPH>>An audit programme
+shall be planned taking
+into
+consideration the importance of the selected controls,
+result of risk assessment
+as well as the results of
+previous audits. The audit criteria, scope, frequency
+and methods shall be defined.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3  Business
+Continuity
+Management<<HEADING_END>>
+<<PARAGRAPH>>A business continuity management process shall be
+implemented
+to reduce the disruption
+caused by
+disasters and security failures to an acceptable level
+through a combination
+of preventive and recovery
+controls. This process shall include controIs to identify
+and reduce risks, limit the consequences of damaging
+incidents, and ensure timely resumption of essential
+operations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Selection of auditors and conduct of audits shall ensure
+objectivity and impartiality of the audit process.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Auditors shall not audit their own work.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The responsibilities and requirements for planning and
+conducting
+audits,
+and for reporting
+results
+and
+maintaining records (see 4.2.4) shall be documented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The consequences of disasters, security failures and
+. loss of service shall be suitably analyzed. Contingency
+plans, as necessary, shall be developed and imple-
+mented to ensure that the business operations can be
+restored within the required time scale. Such plans
+shall be maintained, practiced and kept up-to-date to
+ensure their continuing effectiveness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The management
+responsible
+for the area being
+audited shall ensure that actions are taken without
+undue delay to eliminate detected nonconformities and
+their causes. Follow-up activities shall include the
+verification of the actions taken and the reporting of
+verification results.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4  Compliance
+with
+Legal
+Requirements<<HEADING_END>>
+<<PARAGRAPH>>Organization shall identify all the applicable statutory,
+regulatory and contractual requirements concerning
+the design,
+operation,
+use and management
+of
+information systems, which may include the following:<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.2  Technical
+Compliance
+Checking<<HEADING_END>>
+<<PARAGRAPH>>The organization
+shall apply suitable methods
+for
+monitoring
+the technical compliance
+of the infor-
+mation processing facilities and operational systems.
+These methods shall demonstrate the ability of the
+information
+processing
+facilities
+and operationa I
+systems to perform as desired. When planned resu Its
+are not achieved, correction and corrective action shal I
+be taken, as appropriate.
+Audit requirements
+and
+activities involving checks on information process in:
+facilities and operational systems shall be carefully
+planned to minimize risk of disruptions
+to normal
+business. Access to operational system audit tools shalI
+be restricted
+to protect
+any possible
+misuse
+or
+compromise.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Intellectual property rights (IPR),
+b)
+Safeguarding of organizational records,
+c)
+Data protection
+and privacy
+of personal
+information,
+d)
+Prevention
+of misuse
+of
+information
+processing facilities,
+/
+e)
+Collection of evidence for legal action, and
+f)
+Regulation of cryptographic controls.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8 MONITORING, REVIEW AND IMPROVEMENT<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1  General<<HEADING_END>>
+<<HEADING level=3>>8.2.3  Incident Handling<<HEADING_END>>
+<<PARAGRAPH>>The organization
+shall plan and implement
+the
+monitoring, review and improvement steps needed:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Security incidents and malfunctions shall be monitored
+and appropriate action initiated. Incidents affect ing
+the security shall be reported through appropriate
+management
+channels as quickly as possible.
+AII
+personnel
+concerned
+shall be made aware of the
+procedures for reporting the different types of incidents
+(security breach, threat, weakness or malfunction) that
+might have an impact on the information security.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+to ensure conformity
+of the Information
+Security
+Management
+System to security
+requirements, and
+b)
+to continually improve the effectiveness of
+the
+Information
+Security
+Management
+System.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2  Monitoring<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish a formal disciplinary
+process
+for dealing
+with personnel
+who commit
+security breaches.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.1  Internal Audit of ISMS<<HEADING_END>>
+<<PARAGRAPH>>The organization shall conduct internal audits of the
+ISMS at planned intervals to determine its:<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3  Analysis
+of Data<<HEADING_END>>
+<<PARAGRAPH>>The organization shall determine, collect and analyze
+appropriate data to demonstrate the suitability and
+effectiveness of the Information Security Management
+System and to evaluate where continual improvement
+of the Information Security Management System can<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>conformance
+to the requirements
+of this
+standard
+and to the Information
+Security
+Management
+System
+requirements
+established by the organization, and
+effective implementation and maintenance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PARAGRAPH>>,<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS 15150:2002<<HEADING_END>>
+<<PARAGRAPH>>a)
+b)
+c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>teviewing security incidents,
+determining the causes of security incidents,
+evaluating the need for action to ensure that
+security incidents do not recur,
+determining
+and
+implementing
+action
+needed,
+records
+of the results
+of action
+taken
+(see 4.2.4), and
+reviewing corrective action taken.<<PARAGRAPH_END>>
+<<PARAGRAPH>>be made. This shall include data generated as a result
+of monitoring
+and review and from other relevant
+sources.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The analysis of data shall provide information relating
+to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+conformance to security requirements; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+trends
+such as user behaviour,
+capacity
+utilization,
+network
+traffic
+to determine
+opportunities for preventive action.<<PARAGRAPH_END>>
+<<PARAGRAPH>>o<<PARAGRAPH_END>>
+<<HEADING level=3>>&4.3  Preventive
+Action<<HEADING_END>>
+<<HEADING level=3>>8.4  Improvement<<HEADING_END>>
+<<PARAGRAPH>>The organization shall determine action to eliminate
+the causes of potential security incidents in order to
+prevent their occurrence. Preventive actions shall be
+appropriate to the effects of the potential problems.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4.1  Continual
+Improvement<<HEADING_END>>
+<<PARAGRAPH>>The organization
+shall continually
+improve
+the
+effectiveness of the Information Security Management
+System through the use of the information security
+policy, audit results, analysis of data, corrective and
+preventive actions and management review.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A documented procedure shall be established to define
+requirements for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>determining potential security incidents and
+their causes,
+evaluating
+the need for action to prevent
+occurrence of security incidents,
+determining
+and
+implementing
+action
+needed,<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4.2  Corrective
+Action<<HEADING_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization
+shall take action to eliminate the
+cause
+of security
+incidents
+in order to prevent
+recurrence. Corrective actions shall be appropriate to
+the effects of the security incidents encountered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>records
+of results
+of action
+taken
+(see  4.2.4),
+and
+reviewing preventive action taken.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A documented procedure shall be established to define
+requirements for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>(Continuedjiom
+second
+cover)<<HEADING_END>>
+<<HEADING level=3>>PLAN<<HEADING_END>>
+<<PARAGRAPH>>Threats,
+unforeseen
+events,
+incidents,<<PARAGRAPH_END>>
+<<PARAGRAPH>>Risk assessment
+and
+technological
+selection
+of controls
+changes
+etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>®<<PARAGRAPH_END>>
+<<PARAGRAPH>>DO
+Implement
+Update
+and
+ISMS
+improve
+ISMS<<PARAGRAPH_END>>
+<<HEADING level=3>>ACT<<HEADING_END>>
+<<HEADING level=1>>I
+review  ISMS
+w<<HEADING_END>>
+<<PARAGRAPH>>CHECK<<PARAGRAPH_END>>
+<<PARAGRAPH>>FIG. 1 MODEL OF A RISK-BASED INFORMATION SECURITY MANAGEMENT
+SYSTEM<<PARAGRAPH_END>>
+<<PARAGRAPH>>While
+preparing this standard, assistance has been taken from BS 7799 (Part 2) :1999 issued by the British
+Standards Institution. Extracts from BS 7799 (Part 2) :1999 are included and reproduced with the permission
+of the British Standards Institution under licence number 2002SK/O122. Hard copies of British Standards are
+available from BSI Customer Services, 389 Chiswick High Road, London W4 4AL, United Kingdom.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>Bureau
+of  Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutow institution established under the  Bureau of Indian Standards Act,  1986 to promote harmonious
+development of the activities of standardization,
+marking and quali~ certification of goods and attending to
+connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright of all its publications, No part of these publications may be reproduced in any form
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing
+the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to
+copyright be addressed to the Director (Publication), BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review
+of Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards
+shouid asccrtain that they are in possession of the latest.amendments or edition by referring to the latest issue of
+‘BlS Cataloguc’ and’ Standards: Monthly Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard has been developed from Dot: No. LTD 38 (1973).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments
+Issued Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU OF INDIAN STANDARDS
+Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002
+Telegrams: Manaksanstha
+Telephones: 3230131,
+3233375, 3239402
+(Common to all ofllces)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg
+3237617,3233841
+NEW DELHI 110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1/14 ,C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi
+{
+3378499,3378561
+KOLKATA 700054
+3378626,3379120<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>SCO 335-336, Sector 34-A, CHANDIGARH 160022
+{
+603843
+602025
+C.I.T. Campus, IV Cross Road, CHENNAI 600113
+{
+2541216,2541442
+2542519,2541315<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manakalaya, E9 MIDC, Marol, Andheri (East)
+{
+8329295,
+832785S
+MUMBAI 400093
+8327891,
+8327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD.
+GHAZIABAD.
+GUWAHATI. HYDERABAD.
+JAIPUR. KANPLIR. LUCKNOW.
+NAGPUR.
+NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Printed d
+Simco Printing Press, Delhi<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 13
+<<SECTION_END>>
+<<DOCUMENT_END>>

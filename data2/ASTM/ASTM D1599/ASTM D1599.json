@@ -1,0 +1,793 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            44.9,
+            40.41,
+            98.66,
+            92.25
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: D 1599 \u2013 99 (Reapproved 2005)\nAn American National Standard",
+          "bbox": [
+            104.77,
+            50.84,
+            565.81,
+            64.82
+          ],
+          "block_id": "b1_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Test Method for\nResistance to Short-Time Hydraulic Pressure of Plastic\nPipe, Tubing, and Fittings 1",
+          "bbox": [
+            101.78,
+            105.68,
+            471.78,
+            148.8
+          ],
+          "block_id": "b1_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation D 1599; the number immediately following the designation indicates the year of\noriginal adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A\nsuperscript epsilon ( e ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            101.78,
+            163.17,
+            508.91,
+            188.61
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard has been approved for use by agencies of the Department of Defense.",
+          "bbox": [
+            101.78,
+            196.02,
+            360.39,
+            203.5
+          ],
+          "block_id": "b1_4",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope\n1.1 This test method covers the determination of the resis-\ntance of either thermoplastic or reinforced thermosetting resin\npipe, tubing, or \ufb01ttings to hydraulic presssure in a short time\nperiod. Procedure A is used to determine burst pressure of a\nspecimen if the mode of failure is to be determined. Procedure\nB is used to determine that a specimen complies with a\nminimum burst requirement.\n1.2 This test method is suitable for establishing laboratory\ntesting requirements for quality control purposes or for pro-\ncurement speci\ufb01cations.\n1.3 The values given in parentheses are provided for infor-\nmation purposes only.\n1.4  This standard does not purport to address all of the\nsafety concerns, if any, associated with its use. It is the\nresponsibility of whoever uses this standard to consult and\nestablish appropriate safety and health practices and deter-\nmine the applicability of regulatory limitations prior to use.",
+          "bbox": [
+            44.9,
+            224.74,
+            296.4,
+            432.78
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Summary of Test Method\n3.1 This test method consists of loading a specimen to\nfailure, or a predetermined minimum level, in short-time\ninterval by means of continuously increasing internal\nhydraulic-pressure while immersed in a controlled-temperature\nenvironment.",
+          "bbox": [
+            314.31,
+            224.74,
+            565.78,
+            295.18
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4. Signi\ufb01cance and Use\n4.1 This test method establishes the short-time hydraulic\nfailure pressure of thermoplastic or reinforced thermosetting\nresin pipe, tubing, or \ufb01ttings. Data obtained by this test method\nare of use only in predicting the behavior of pipe, tubing, and\n\ufb01ttings under conditions of temperature, time, method of\nloading, and hoop stress similar to those used in the actual test.\nThey are generally not indicative of the long-term strength of\nthermoplastic or reinforced thermosetting resin pipe, tubing,\nand \ufb01ttings.\n4.2 Procurement speci\ufb01cations utilizing this test method\nmay stipulate a minimum and maximum time for failure other\nthan the 60 to 70 s listed in  9.1.3 . Either the internal hydraulic\npressure or the hoop stress may be listed in the requirements.",
+          "bbox": [
+            314.31,
+            304.56,
+            565.8,
+            466.8
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents\n2.1  ASTM Standards:   2",
+          "bbox": [
+            44.9,
+            442.26,
+            156.38,
+            466.8
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 2122  Test Method for Determining Dimensions of Ther-\nmoplastic Pipe and Fittings\nD 3517  Speci\ufb01cation\nfor\n\u201cFiberglass\u201d\n(Glass-Fiber-\nReinforced Thermosetting-Resin) Pressure Pipe\nD 3567  Practice for Determining Dimensions of Fiberglass\n(Glass-Fiber-Reinforced Thermosetting Resin) Pipe and\nFittings",
+          "bbox": [
+            54.88,
+            468.3,
+            296.38,
+            547.13
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  1\u2014Many thermoplastics give signi\ufb01cantly different burst\nstrengths depending on the time to failure. For instance, signi\ufb01cant\ndifferences have been observed between failure times of 65 and 85 s.\n4.3 This test method is also used as a short-term pressur-\nization validation procedure, where the specimens are pressur-\nized to a predetermined minimum pressure requirement.",
+          "bbox": [
+            314.31,
+            474.43,
+            565.79,
+            541.14
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Failure\n5.1 Any instantaneous or rapid loss of pressure shall con-\nstitute failure.\n5.2 Any visible passage of \ufb02uid through the wall of the\nspecimen shall constitute failure.\n5.3 Any loss of pressure that interrupts the continuous and\nuniform pressure increase, described in  9.1.3 , shall constitute\nfailure.",
+          "bbox": [
+            314.3,
+            550.52,
+            565.79,
+            643.91
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This test method is under the jurisdiction of ASTM Committee F-17 on Plastic\nPiping Systems and is the direct responsibility of Subcommittee F17.40 on Test\nMethods.\nCurrent edition approved May 1, 2005. Published May 2005. Originally\napproved in 1962. Last previous edition approved in 1999 as D 1599 \u2013 99 e 1 .\n2  For referenced ASTM standards, visit the ASTM website, www.astm.org, or\ncontact ASTM Customer Service at service@astm.org. For  Annual Book of ASTM\nStandards  volume information, refer to the standard\u2019s Document Summary page on\nthe ASTM website.",
+          "bbox": [
+            44.9,
+            566.99,
+            296.38,
+            649.31
+          ],
+          "block_id": "b1_12",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.",
+          "bbox": [
+            44.9,
+            729.98,
+            379.84,
+            735.97
+          ],
+          "block_id": "b1_14",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            303.08,
+            756.71,
+            307.57,
+            765.69
+          ],
+          "block_id": "b1_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            44.9,
+            40.41,
+            98.66,
+            92.25
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img1_0": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            242.79,
+            36.17,
+            271.59,
+            61.37
+          ],
+          "block_id": "img2_10"
+        },
+        {
+          "type": "text",
+          "content": "D 1599 \u2013 99 (2005)",
+          "bbox": [
+            272.72,
+            43.62,
+            367.89,
+            54.59
+          ],
+          "block_id": "b2_11",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4 Leakage at the end closure or fracture of the specimen in\nthe immediate vicinity of the end closure shall be considered as\nan invalid test item, not a failure.",
+          "bbox": [
+            44.9,
+            65.22,
+            296.38,
+            98.15
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\ufb01ttings, a metal band not extending more than one third of the threaded or\nsocket depth, may be used: When the mode of failure of a piping system\nis to be determined, no reinforcement shall be used.",
+          "bbox": [
+            314.31,
+            65.37,
+            565.76,
+            93.8
+          ],
+          "block_id": "b2_6",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Test Specimen\n7.1  Pipe or Tubing :\n7.1.1  Specimen Size\u2014 For pipe sizes of 6 in. (150 mm) or\nless, the specimen length between the end closures shall be not\nless than \ufb01ve times the outside diameter of the pipe, but in no\ncase less than 12 in. (300 mm). For larger sizes, the minimum\nlength shall be not less than three times the outside diameter,\nbut in no case less than 30 in. (760 mm).\n7.1.2  Sample Size \u2014Unless otherwise speci\ufb01ed \ufb01ve speci-\nmens shall be tested.\n7.1.3  Measurements \u2014Dimensions shall be determined in\naccordance with Test Method  D 2122  or Practice  D 3567 .\n7.2  Fittings :\n7.2.1  Specimen Size\u2014 Specimens shall consist of complete\n\ufb01ttings without alteration.\n7.2.2  Sample Size \u2014Unless otherwise speci\ufb01ed \ufb01ve speci-\nmens shall be tested.\n7.2.3  Specimen Surface \u2014All surfaces of the specimens\nshall be free of visible \ufb02aws, scratches, or other imperfections,\nexcept for the usual marks common on good extrusions and\nmolding, unless these imperfections are being investigated, in\nwhich case the purpose shall be included in the report along\nwith a description of the imperfections.\n7.3  Systems (Pipe, Fittings, and Joints) :\n7.3.1 Systems shall be prepared from pipe and \ufb01ttings\nmeeting the requirements of  7.1  and  7.2 , unless otherwise\nspeci\ufb01ed.\n7.3.2 The pipe and \ufb01ttings shall be joined as recommended\nby the manufacturer using solvent cement, heat fusion, or other\ntechniques. When solvent cements are used they shall meet the\nrequirements of the relevant solvent cement speci\ufb01cation.",
+          "bbox": [
+            314.3,
+            103.04,
+            565.78,
+            460.35
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6. Apparatus\n6.1  Constant-Temperature Bath \u2014A water bath or other\n\ufb02uid bath equipped so that uniform temperature is maintained\nthroughout the bath. This may require agitation. If an air or\nother gaseous environment is used, provisions shall be made\nfor adequate circulation. Unless otherwise stated, the tests shall\nbe conducted at 23  6  2\u00b0C (73 6  3.6\u00b0F). The tolerance on other\ntest temperatures shall be  6  2\u00b0C (3.6\u00b0F). Fluid environments\nthat chemically attack the specimens shall not be used unless\nthis effect is being studied. In that case, the purpose of the test\nshall be included in the report.",
+          "bbox": [
+            44.9,
+            106.84,
+            296.39,
+            234.65
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  2\u2014Reinforced thermosetting resin pipe and \ufb01ttings may show\nincreasing failure pressures as temperature is raised above 23\u00b0C in this\ntest.\n6.2  Pressurizing System \u2014A device capable of applying an\nessentially continuously increasing internal hydraulic pressure\nto the test specimen. Suggested equipment for this test may\ninclude the following:\n6.2.1  Nitrogen Supply (Cylinder Gas)  with a pressure regu-\nlator and hydraulic accumulator, or\n6.2.1.1  Pump , capable of applying essentially continuously\nincreasing internal hydraulic pressure to the test specimen.\n6.3  Pressure Gage , having a precision of not less than 1 %\nof full-scale de\ufb02ection with a maximum indicating hand. The\npressure gage shall be selected such that the \ufb01nal readings are\nin the mid-60 % of the scale. The gage should be equipped with\na surge protection device.\n6.3.1 The gage shall be located in the test system at a\nlocation such that it only indicates pressure on the specimen\nand not indicate pressure built up by water \ufb02owing in the\nsupply lines to the specimen.",
+          "bbox": [
+            44.9,
+            242.28,
+            296.39,
+            469.64
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8. Conditioning\n8.1 Test specimens shall be conditioned at the test tempera-\nture for a minimum of 1 h in a liquid bath or 16 h in a gaseous\nmedium before pressurizing, unless otherwise speci\ufb01ed. Unless\notherwise agreed upon, the test temperature shall be 23  6  2\u00b0C\n(73  6  3.6\u00b0F) for thermoplastic pipe. For thermosets, test at 23\n6  2\u00b0C or at maximum rated temperature depending on\nintended service.",
+          "bbox": [
+            314.3,
+            471.81,
+            565.79,
+            565.21
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  3\u2014When testing materials such as Polyole\ufb01ns that change in\nvolume greatly before rupture, a large diameter water supply line or\nlocation of the gage on the specimen should be used to eliminate\nerroneous readings caused by the pressure drop in the water supply line.\n6.4  Timing Device \u2014Stop watch or equivalent.\n6.5  Specimen End Closures :\n6.5.1  Pipe or Tubing \u2014Either free-end or restrained-end\nclosures, that will withstand the maximum test pressures, may\nbe used. Closures shall be designed so that they do not cause\nfailure of the specimen. Free-end closures shall be used for\nreferee tests.",
+          "bbox": [
+            44.9,
+            477.26,
+            296.39,
+            599.85
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9. Procedure\n9.1  Procedure A :\n9.1.1 Attach the end closures to the specimen and \ufb01ll it\ncompletely with test \ufb02uid which is maintained at the test\ntemperature. Attach specimen to the pressuring device, making\ncertain no gas is entrapped when using liquids. The specimen\nshall be completely immersed in the conditioning medium.\n9.1.2 Condition the specimen as speci\ufb01ed in  8.1 .\n9.1.3 Increase the pressure uniformly and continuously until\nthe specimen fails, measuring the time with a stop watch. If\nfailure time is less than 60 s, reduce the rate of loading and\nrepeat the test. The time to failure for all specimens shall be\nbetween 60 and 70 s.\n9.1.4 Record the pressure and time-to-failure.",
+          "bbox": [
+            314.3,
+            576.67,
+            565.79,
+            738.91
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  4\u2014Free-end closures fasten to the specimen so that internal\npressure produces longitudinal tensile stresses in addition to hoop and\nradial stesses in the pipe wall. Restrained-end closures rely on a rod\nthrough the specimen or an external structure to resist the end thrust.\nStresses in the wall of restrained-end specimens act in the hoop and radial\ndirections only. Because of this difference in loading, the expected hoop\nstress at failure in free-end specimens of solid-wall thermoplastic pipes are\napproximately 11 % lower than in restrained-end specimens. The test\nresults will re\ufb02ect this difference in test method.\n6.5.2  Fittings \u2014Caps and plugs for \ufb01ttings shall not extend\nbeyond the bottom thread or the bottom of the socket.",
+          "bbox": [
+            44.9,
+            607.48,
+            296.39,
+            722.58
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  5\u2014For purposes of determining the ultimate rupture strength of",
+          "bbox": [
+            52.88,
+            730.2,
+            296.36,
+            738.69
+          ],
+          "block_id": "b2_5",
+          "font_size": 7.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            303.08,
+            756.71,
+            307.57,
+            765.69
+          ],
+          "block_id": "b2_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_10",
+          "bbox": [
+            242.79,
+            36.17,
+            271.59,
+            61.37
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img2_10": 2
+      }
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            242.79,
+            36.17,
+            271.59,
+            61.37
+          ],
+          "block_id": "img3_17"
+        },
+        {
+          "type": "text",
+          "content": "D 1599 \u2013 99 (2005)",
+          "bbox": [
+            272.72,
+            43.62,
+            367.89,
+            54.59
+          ],
+          "block_id": "b3_18",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11.1.3 Pipe dimensions, including nominal size, minimum\nwall thickness, and average outside diameter. For reinforced\nthermosetting pipe, wall thickness and outside diameter shall\nbe reinforced dimensions only. Unreinforced thicknesses shall\nalso be reported. For \ufb01ttings, report nominal size and schedule,\nor pressure rating.\n11.1.4 Type of end closure used, that is, free or restrained,\n11.1.5 Number of specimens tested.\n11.1.6 Test temperature.\n11.1.7 Test environment, including conditioning time.\n11.1.8 Purpose of the tests. Refer also to  6.1  and  7.2.3 .\n11.1.9 Failure pressure and failure time (Procedure A or B)\nor minimum pressure reached and time to reach minimum\npressure (Procedure B) for each specimen.\n11.1.10 For pipe, calculate the average maximum stress and\nthe standard deviation.\n11.1.11 Type of failure for Procedure A (bursting, cracking,\nsplitting, weeping, leaking).\n11.1.12 Date of test.",
+          "bbox": [
+            314.3,
+            65.22,
+            565.79,
+            281.75
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  6\u2014If additional data can be obtained by continued pressurization\nafter failure (as de\ufb01ned in Section  5 ), it is the tester\u2019s prerogative to do so\nbut is beyond the scope of this method.\n9.2  Procedure B :\n9.2.1 Prepare the test specimen in the same way as de-\nscribed in Procedure A ( 9.1.1  to  9.1.2 ).\n9.2.2 Increase the pressure uniformly and continuously,\nmeasuring the time. To determine that the specimen complies\nwith a minimum burst requirement the specimen shall burst\nbetween 60 and 70 s, or the minimum burst pressure shall be\nreached or exceeded between 60 and 70 s.",
+          "bbox": [
+            44.9,
+            65.37,
+            296.38,
+            189.45
+          ],
+          "block_id": "b3_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10. Calculation\n10.1 Calculate the pipe hoop stress as follows:",
+          "bbox": [
+            44.9,
+            198.83,
+            246.97,
+            223.38
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "S  5  P  ~ D  2  t ! /2 t  for outside diameter controlled pipe",
+          "bbox": [
+            79.12,
+            229.21,
+            262.15,
+            237.83
+          ],
+          "block_id": "b3_2",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "or",
+          "bbox": [
+            166.47,
+            243.17,
+            174.78,
+            253.15
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S  5  P  ~ d  1  t ! /2 t  for inside diameter controlled pipe",
+          "bbox": [
+            83.24,
+            258.98,
+            258.02,
+            267.6
+          ],
+          "block_id": "b3_4",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where:",
+          "bbox": [
+            47.89,
+            276.94,
+            75.04,
+            286.92
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12. Precision and Bias   3",
+          "bbox": [
+            314.3,
+            289.74,
+            419.03,
+            301.1
+          ],
+          "block_id": "b3_10",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "S\n= hoop stress, psi (or MPa),\nP\n= internal pressure, psi (or MPa),\nD  = average outside diameter, in. (or mm). For reinforced\nthermosetting pipe, outside diameter shall not include\nnonreinforced covers,\nd\n= average inside diameter, in. (or mm), and\nt\n= minimum wall thickness, in. (or mm). For reinforced\nthermosetting pipe use minimum reinforced wall thick-\nness.",
+          "bbox": [
+            47.89,
+            299.04,
+            293.38,
+            397.92
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12.1  Precision 3 \u2014Based on a mini laboratory round-robin\nconducted on 2-in. medium density polyethylene pipe, the\nprecision (one standard deviation) of this test method for\nmedium density polyethylene pipe is as follows:\n12.1.1 Within-laboratory,  6 3 % (repeatability).\n12.1.2 Between-laboratory,  6 6 % (reproducibility).\n12.2  Bias \u2014Data obtained using this test method are be-\nlieved to be reliable, since accepted techniques of analysis are\nused. However, because no referee method is available, no bias\nstatement can be made.",
+          "bbox": [
+            314.3,
+            304.28,
+            565.78,
+            418.94
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N OTE  7\u2014An alternative method for calculating the hoop stress of\nreinforced pipe is given in the Annex of Speci\ufb01cation  D 3517 .",
+          "bbox": [
+            44.9,
+            405.8,
+            296.38,
+            424.26
+          ],
+          "block_id": "b3_7",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13. Keywords\n13.1 burst pressure; plastic \ufb01ttings; plastic pipe; plastic\ntubing; short-term hydrostatic pressure",
+          "bbox": [
+            314.31,
+            428.22,
+            565.8,
+            464.24
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11. Report\n11.1 The report shall include the following:\n11.1.1 Complete identi\ufb01cation of the specimens, including\nmaterial, manufacturer\u2019s name and code number, type, source,\nand previous history.\n11.1.2 Procedure used, either A or B.",
+          "bbox": [
+            44.9,
+            433.49,
+            296.37,
+            503.94
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3  Supporting data have been \ufb01led at ASTM International Headquarters and may\nbe obtained by requesting Research Report RR: F 17-1038.",
+          "bbox": [
+            314.31,
+            483.91,
+            565.75,
+            503.37
+          ],
+          "block_id": "b3_16",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned\nin this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk\nof infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            101.78,
+            518.85,
+            509.15,
+            542.8
+          ],
+          "block_id": "b3_13",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the\nresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should\nmake your views known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            101.78,
+            556.27,
+            509.13,
+            597.18
+          ],
+          "block_id": "b3_14",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,\nUnited States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above\naddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website\n(www.astm.org).",
+          "bbox": [
+            101.78,
+            610.65,
+            509.13,
+            643.08
+          ],
+          "block_id": "b3_15",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            303.08,
+            756.71,
+            307.57,
+            765.69
+          ],
+          "block_id": "b3_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_17",
+          "bbox": [
+            242.79,
+            36.17,
+            271.59,
+            61.37
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {
+        "img3_17": 3
+      }
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "ar be\nINTERNATIONAL",
+      "position": {
+        "x0": 44.9,
+        "y0": 40.41,
+        "x1": 98.66,
+        "y1": 92.25,
+        "width": 53.76,
+        "height": 51.84
+      },
+      "size": {
+        "width": 224,
+        "height": 216
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 2,
+      "path": "pdf_images/p2_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 242.79,
+        "y0": 36.17,
+        "x1": 271.59,
+        "y1": 61.37,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 3,
+      "page": 3,
+      "path": "pdf_images/p3_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 242.79,
+        "y0": 36.17,
+        "x1": 271.59,
+        "y1": 61.37,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    }
+  ]
+}

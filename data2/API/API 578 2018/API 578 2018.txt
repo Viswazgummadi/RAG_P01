@@ -1,0 +1,1024 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>Guidelines for a Material Verification
+Program (MVP) for New and
+Existing Assets<<HEADING_END>>
+<<HEADING level=2>>API RECOMMENDED PRACTICE 578
+THIRD EDITION, FEBRUARY 2018<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>Special Notes<<HEADING_END>>
+<<PARAGRAPH>>API publications necessarily address problems of a general nature. With respect to particular circumstances, local,
+state, and federal laws and regulations should be reviewed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Neither API nor any of API's employees, subcontractors, consultants, committees, or other assignees make any
+warranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the
+information contained herein, or assume any liability or responsibility for any use, or the results of such use, of any
+information or process disclosed in this publication. Neither API nor any of API’s employees, subcontractors,
+consultants, or other assignees represent that use of this publication would not infringe upon privately owned rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications may be used by anyone desiring to do so. Every effort has been made by the Institute to assure the
+accuracy and reliability of the data contained in them; however, the Institute makes no representation, warranty, or
+guarantee in connection with this publication and hereby expressly disclaims any liability or responsibility for loss or
+damage resulting from its use or for the violation of any authorities having jurisdiction with which this publication may
+conflict.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications are published to facilitate the broad availability of proven, sound engineering and operating
+practices. These publications are not intended to obviate the need for applying sound engineering judgment
+regarding when and where these publications should be utilized. The formulation and publication of API publications
+is not intended in any way to inhibit anyone from using any other practices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard
+is solely responsible for complying with all the applicable requirements of that standard. API does not represent,
+warrant, or guarantee that such products do in fact conform to the applicable API standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Classified areas may vary depending on the location, conditions, equipment, and substances involved in any given
+situation. Users of this recommended practice should consult with the appropriate authorities having jurisdiction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Users of this recommended practice should not rely exclusively on the information contained in this document. Sound
+business, scientific, engineering, and safety judgment should be used in employing the information contained herein.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API is not undertaking the meet the duties of employers, manufacturers, or suppliers to warn and properly train and
+equip their employees, and others exposed, concerning health and safety risks and precautions, nor undertaking their
+obligations to comply with authorities having jurisdiction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Information concerning safety and health risks and proper precautions with respect to particular materials and
+conditions should be obtained from the employer, the manufacturer, or supplier of that material, or the material safety
+data sheet.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Work sites and equipment operations may differ. Users are solely responsible for assessing their specific equipment
+and premises in determining the appropriateness of applying the recommended practice. At all times users should
+employ sound business, scientific, engineering, and judgment safety when using this recommended practice.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights reserved. No part of this work may be reproduced, translated, stored in a retrieval system, or transmitted by any means,
+electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher. Contact the
+Publisher, API Publishing Services, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright © 2018 American Petroleum Institute<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the
+manufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything
+contained in the publication be construed as insuring anyone against liability for infringement of letters patents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shall: As used in a standard, “shall” denotes a minimum requirement in order to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Should: As used in a standard, “should” denotes a recommendation or that which is advised but not required in order
+to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>May: As used in a standard, “may” denotes a course of action permissible within the limits of a standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Can: As used in a standard, “can” denotes a statement of possibility or capability.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document was produced under API standardization procedures that ensure appropriate notification and
+participation in the developmental process and is designated as an API standard. Questions concerning the
+interpretation of the content of this publication or comments and questions concerning the procedures under which
+this publication was developed should be directed in writing to the Director of Standards, American Petroleum
+Institute, 1220 L Street, NW, Washington, D.C. 20005. Requests for permission to reproduce or translate all or any
+part of the material published herein should also be addressed to the director.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Generally, API standards are reviewed and revised, reaffirmed, or withdrawn at least every five years. A one-time
+extension of up to two years may be added to this review cycle. Status of the publication can be ascertained from the
+API Standards Department, telephone (202) 682-8000. A catalog of API publications and materials is published
+annually and updated quarterly by API, 1220 L Street, NW, Washington, D.C. 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Suggested revisions are invited and should be submitted to the Standards Department, API, 1220 L Street, NW,
+Washington, D.C. 20005,   standards@api.org .<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1
+Purpose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2
+About this Document . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.3
+Supersedes Notice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1<<HEADING_END>>
+<<PARAGRAPH>>3
+Terms, Definitions, and Acronyms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.1
+Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3.2
+Acronyms. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Considerations and General Concerns. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.1
+Carbon Steel Substitutions in Low-alloy Steel Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.2
+Alloy Substitutions for Carbon Steel. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.3
+Stainless Steel and Nonferrous Substitutions Within High-alloy Systems. . . . . . . . . . . . . . . . . . . . . . . 4
+4.4
+Residual Elements in Carbon Steels in Hydrofluoric Acid Alkylation Units . . . . . . . . . . . . . . . . . . . . . . 4
+4.5
+Process Units Susceptible to Sulfidation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.6
+Gasket Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.7
+Refractory Installation Systems (Anchors). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Material Verification Programs  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+5.1
+General. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+5.2
+Asset Components Included in a Material Verification Program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+5.3
+Mill Test Reports and Usage in an MVP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.4
+Roles and Responsibilities  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.5
+New Construction MVP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5.6
+Existing Installed Assets MVP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.7
+MVP as an Element of Maintenance Systems  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+PMI Methodology and Technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.1
+General. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.2
+MVP Test Method Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.3
+PMI Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.4
+Personnel Qualifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.5
+Chemical Analysis Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.6
+Sorting Analysis Techniques. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+6.7
+Spectrometer Technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+6.8
+Safety Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Evaluation of Testing Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+7.1
+Material Acceptance Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+7.2
+Follow-up PMI after Discovery of a Nonconformity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+Materials Identification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+8.1
+Identification Process. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+8.2
+Color Coding/Marking. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+8.3
+Marking of Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+Documentation and Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+9.1
+Shop and Field PMI Documentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+9.2
+New and Existing Equipment or System Documentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+9.3
+PMI Records  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A (informative) Statistical Terminology. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17<<HEADING_END>>
+<<HEADING level=3>>Bibliography. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18<<HEADING_END>>
+<<PARAGRAPH>>vi<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=1>>Guidelines for a Material Verification Program (MVP)
+for New and Existing Assets<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<HEADING level=3>>1.1 Purpose<<HEADING_END>>
+<<PARAGRAPH>>The purpose of this recommended practice (RP) is to provide guidelines for an owner/user to develop and
+implement a material verification program (MVP) as part of an asset integrity program. The MVP uses
+positive material identification and other methods to verify that the nominal composition of an asset, an asset
+component, or weldment within the pressure envelope is consistent with the selected or specified
+construction materials.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A well-designed and well-implemented MVP is an important management system used to minimize the
+potential for release of hazardous substances due to nonconforming materials of construction.<<PARAGRAPH_END>>
+<<HEADING level=3>>1.2 About this Document<<HEADING_END>>
+<<PARAGRAPH>>This recommended practice provides the guidelines for material verification programs involving ferrous and
+nonferrous alloys during the construction, installation, maintenance, and inspection of new and existing
+process equipment. It applies to metallic materials purchased for use either directly by the owner/user or
+indirectly through distributors, fabricators, or contractors, and includes the supply, fabrication, and installation
+of these materials.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This recommended practice is applicable to all refining and petrochemical industries, and may be applied in
+other industries and or businesses at the discretion of the owner/user. It is intended to be applied by any
+owner/user wishing to verify and/or validate that the materials of construction received, fabricated, and/or
+installed are in accordance with material and/or company specification(s).<<PARAGRAPH_END>>
+<<HEADING level=3>>1.3 Supersedes Notice<<HEADING_END>>
+<<PARAGRAPH>>This version of API RP 578 (third edition) supersedes and wholly replaces the second edition (2010) of API
+RP 578 ( Material Verification Program for New and Existing Alloy Piping Systems ). The third edition contains
+many of the same paragraphs and language of the second edition, but it has been revised, reformatted, and
+re-visualized into a more encompassing document for all types of assets that may have an applicable
+material verification program.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative References<<HEADING_END>>
+<<PARAGRAPH>>There are no documents considered to be normative for the application of this document. A bibliography can
+be found at the end of this document.<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms, Definitions, and Acronyms<<HEADING_END>>
+<<HEADING level=3>>3.1 Definitions<<HEADING_END>>
+<<PARAGRAPH>>3.1.1
+alloy material
+Any metallic material (including welding filler materials) that contains alloying elements, such as chromium,
+nickel, or molybdenum, that are intentionally added to enhance mechanical or physical properties and/or
+corrosion resistance. Alloys may be ferrous or nonferrous.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>2
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1.2
+asset
+Property or equipment owned by a company that is either directly or indirectly involved with the
+manufacturing process.<<HEADING_END>>
+<<HEADING level=3>>3.1.3
+distributor
+A warehousing supplier for manufacturers or suppliers of materials or components.<<HEADING_END>>
+<<HEADING level=3>>3.1.4
+extent of examination
+The specified percentage of the number of items to be examined in an inspection lot.<<HEADING_END>>
+<<HEADING level=3>>3.1.5
+fabricator
+An organization that utilizes the materials of construction affected by this recommended practice in order to
+create an asset.<<HEADING_END>>
+<<HEADING level=3>>3.1.6
+heat
+A batch of metal made at the same time, able to be traced from its original constituents and manufacturing
+process.<<HEADING_END>>
+<<HEADING level=3>>3.1.7
+inspection lot
+A group of items or materials of the same type from a common source from which a sample is to be drawn
+for examination.<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+An inspection lot does not include items from more than one heat.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1.8
+lot size
+The number of items available in the inspection lot at the time a representative sample is selected.<<HEADING_END>>
+<<HEADING level=3>>3.1.9
+material certifications (certificates of compliance)
+See “mill test report.”<<HEADING_END>>
+<<PARAGRAPH>>3.1.10
+material manufacturer
+An organization that performs or supervises and directly controls one or more of the operations that affect
+the chemical composition or mechanical properties of a metallic material.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1.11
+material nonconformance
+A positive material identification (PMI) result that does not conform with material specified.<<HEADING_END>>
+<<PARAGRAPH>>3.1.12
+material supplier
+An organization that supplies material furnished and certified by a material manufacturer, but does not
+perform any operation intended to alter the material properties required by the applicable material
+specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1.13
+mill test report (MTR)
+A quality assurance document used in the steelmaking industry that certifies a material’s compliance with
+appropriate standards, including physical and chemical specifications, and applicable dimensions. The MTR
+also includes a date of production and testing, and may include notation about method of fabrication.  A mill<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>test report is also known as: certified mill test report, certified material test report, mill test certificate (MTC),
+inspection certificate, certificate of test, and by other names. However, MTR is the term that is used in this
+document.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1.14
+owner/user
+The organization that exercises control over the operation, engineering, inspection, repair, alteration,
+pressure testing, and rating of the assets.<<HEADING_END>>
+<<HEADING level=3>>3.1.15
+pressure-containing components
+Items that form the pressure-containing envelope of the equipment system.<<HEADING_END>>
+<<PARAGRAPH>>3.1.16
+positive material identification (PMI)
+A physical evaluation or test of a material performed to confirm that the material that has been or will be
+placed into service is consistent with what is specified by the owner/user. These evaluations or tests may
+provide either qualitative or quantitative information that is sufficient to verify the composition.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1.17
+random
+Selection process by which choices are made in an arbitrary and unbiased manner.<<HEADING_END>>
+<<HEADING level=3>>3.1.18
+representative sample
+One or more items selected at random from the inspection lot that are to be examined to determine
+acceptability of the inspection lot.<<HEADING_END>>
+<<HEADING level=3>>3.1.19
+standard reference materials
+Sample materials for which laboratory chemical analysis data are available and are used in demonstrating
+the accuracy and reliability of a test instrument.<<HEADING_END>>
+<<HEADING level=3>>3.1.20
+weld button (button)
+a sample of welding filler material deposited on relevant base metal in order to provide basis for PMI of the
+filler.<<HEADING_END>>
+<<HEADING level=3>>3.2 Acronyms<<HEADING_END>>
+<<PARAGRAPH>>API
+American Petroleum Institute<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME American Society of Mechanical Engineers<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASTM  American Society of Testing and Materials<<PARAGRAPH_END>>
+<<PARAGRAPH>>LOQ
+limit of quantitation<<PARAGRAPH_END>>
+<<PARAGRAPH>>MTR
+mill test report<<PARAGRAPH_END>>
+<<PARAGRAPH>>MVP
+material verification program<<PARAGRAPH_END>>
+<<PARAGRAPH>>NACE National Association of Corrosion Engineers<<PARAGRAPH_END>>
+<<PARAGRAPH>>NCR
+nonconformance report<<PARAGRAPH_END>>
+<<PARAGRAPH>>PFI
+Pipe Fabrication Institute<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>4
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<PARAGRAPH>>PIP
+Process Industry Practices<<PARAGRAPH_END>>
+<<PARAGRAPH>>PMI
+positive material identification<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Considerations and General Concerns<<HEADING_END>>
+<<HEADING level=3>>4.1 Carbon Steel Substitutions in Low-alloy Steel Systems<<HEADING_END>>
+<<PARAGRAPH>>When considering the likelihood of material nonconformances, it is worth noting that, historically, the greatest
+number of material nonconformances with serious consequences have involved placing unapproved carbon
+steel components into low-alloy steel (e.g. 1¼Cr-½Mo, 2¼Cr-1Mo, 5Cr-½Mo, 9Cr-1Mo) piping systems.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2 Alloy Substitutions for Carbon Steel<<HEADING_END>>
+<<PARAGRAPH>>When determining the need to perform material verification on carbon steel, the owner/user should evaluate
+the effect that the process stream could have on substituted materials. In some cases, the substitution of
+hardenable alloy materials for carbon steel has resulted in failure and loss of containment. Examples of such
+systems include those handling wet hydrogen sulfide (H 2 S), hydrofluoric acid (HF), or sulfuric acid (H 2 SO 4 ).
+Where material substitution could lead to failure and/or loss of containment, the extent of verification should
+be planned and/or increased in order to foster effectiveness, as well as validate the materials specified for
+use.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3 Stainless Steel and Nonferrous Substitutions Within High-alloy Systems<<HEADING_END>>
+<<PARAGRAPH>>There is an assortment of stainless steels with varying compositions and varying corrosion resistances to
+different process streams. PMI should be considered by the owner/user depending upon the level of risk
+(probability and consequence of failure) based upon the potential damage mechanisms and damage rates
+associated with the installation of an unapproved high alloy during fabrication and installation. Examples of
+these situations include the substitution of stainless steels for Alloy 400 in HF Alkylation services, the
+substitution of a nonstabilized grade of stainless steel for a stabilized grade in a high-temperature service, or
+substitution of Type 304 SS for Type 316 SS where the molybdenum content is important for corrosion
+resistance.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4 Residual Elements in Carbon Steels in Hydrofluoric Acid Alkylation Units<<HEADING_END>>
+<<PARAGRAPH>>Carbon steels in some specific locations in HF acid service can experience increased corrosion rates based
+on the residual element (RE) content in the steels; e.g. Cr, Ni, Cu  (refer to  API RP 751). PMI methods can
+be used to assess the suitability of materials for HF service. Consideration should be given to the ability
+and/or accuracy of the PMI method to detect the various elemental concentrations, which are miniscule in
+comparison to the bulk analysis.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5 Process Units Susceptible to Sulfidation<<HEADING_END>>
+<<PARAGRAPH>>Carbon steels with low silicon (Si < 0.10%) content can corrode at a greater rate than carbon steels with
+higher silicon (Si > 0.10%) content when exposed to hydrogen ‐ free sulfidation conditions. These phenomena
+are discussed more extensively in API RP 571 and API RP 939-C. Owner/users with assets at risk from this
+type of degradation should consider the risks and the requirements needed to apply PMI material control in
+order to verify silicon levels and the effect on predicted corrosion rate. Alternatively, the owner/user may
+want to consider locating and conducting thickness measurements on all potentially susceptible carbon steel
+materials in a circuit exposed to hot sulfidation in order to determine if low-silicon components originally
+installed may be resulting in higher corrosion rates than the rest of a piping circuit.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6 Gasket Materials<<HEADING_END>>
+<<PARAGRAPH>>Gaskets in incompatible service may result in premature failures. The principles outlined in this document
+can be applied to gasket materials. The owner/user should define the material control methods to be used.
+The actual test procedures may be complex due to the construction of the gasket.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+5<<PARAGRAPH_END>>
+<<HEADING level=3>>4.7 Refractory Installation Systems (Anchors)<<HEADING_END>>
+<<PARAGRAPH>>Testing to verify that the refractory anchors match specifications should be considered by the owner/user.
+Material specifications and maximum design temperatures for selected materials are discussed in API
+Std 560.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Material Verification Programs<<HEADING_END>>
+<<HEADING level=3>>5.1 General<<HEADING_END>>
+<<PARAGRAPH>>The owner/user shall establish a written material verification program indicating the extent and type of PMI to
+be conducted during the construction of new assets, retroactively on existing assets, and during the
+maintenance, repair, or alteration of existing assets.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For higher-risk systems, the owner/user should consider the need for employing a higher extent of in-process
+and final examination (up to 100 %) rather than random sampling, which may be more appropriate for lower-
+risk systems. The owner/user should also consider the need to conduct examinations after fabrication is
+complete at the point-of installation, to provide assurance that inadvertent substitutions did not occur.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Asset Components Included in a Material Verification Program<<HEADING_END>>
+<<PARAGRAPH>>Examples of pressure-containing components exposed to process conditions that are found in equipment
+and systems that may require an MVP or PMI include but are not limited to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— pipe lengths;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— pipe fittings, such as tees, elbows, reducers, caps, special pipe components, blinds, and plugs;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— flanges;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— forgings;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— valves—process valves, control valves, relief valves;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— pressure-containing welds;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— instrumentation (all pressure-containing parts);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— weld overlays, liners, and cladding;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— bolting;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— expansion joints and bellows;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— gaskets;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— rotating equipment pressure-containing components.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Mill Test Reports and Usage in an MVP<<HEADING_END>>
+<<PARAGRAPH>>Mill test reports should not be considered a substitute for PMI because these type of documents have
+historically not always been accurate. However, mill test reports are an important part of an overall material
+quality assurance program.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>6
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Roles and Responsibilities<<HEADING_END>>
+<<PARAGRAPH>>A material verification program may involve participation of several groups within the operating plant or the
+shop of a contractor, distributor, or fabricator. When establishing a material verification program,
+consideration should be given to the roles and responsibilities that each group has within the specific
+organization. These roles and responsibilities should be clearly defined and documented. In the operating
+plant, this can include those groups responsible for purchasing, engineering, warehousing/receiving,
+operations, reliability, maintenance, and inspection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The owner/user or designee should specify the:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+extent of examination of new construction and existing assets, with consideration for the number of
+items to be examined;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+acceptable method(s) of examination;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+locations for examination, if applicable;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+examination results acceptance criteria;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+timing of examination in the work process;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+process for managing material nonconformances;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+qualification requirements for personnel performing PMI;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+method of documenting/identifying items that are acceptable for service.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5 New Construction MVP<<HEADING_END>>
+<<HEADING level=3>>General
+5.5.1<<HEADING_END>>
+<<PARAGRAPH>>This section addresses the fabrication stage, either in the shop or in the field, prior to the items being placed
+into service.<<PARAGRAPH_END>>
+<<HEADING level=3>>Material Verification Test Procedure Review
+5.5.2<<HEADING_END>>
+<<PARAGRAPH>>The owner/user or designee should review and approve the material verification program and the testing
+procedure(s) of the fabricator, material supplier, or third-party agency prior to testing.<<PARAGRAPH_END>>
+<<HEADING level=3>>Timing of Material Verification Testing
+5.5.3<<HEADING_END>>
+<<PARAGRAPH>>PMI should be performed at the point in time that helps ensure proper materials have been used in the
+fabrication of an assembly.<<PARAGRAPH_END>>
+<<HEADING level=3>>PMI of Components Supplied by a Distributor
+5.5.4<<HEADING_END>>
+<<PARAGRAPH>>A higher degree of PMI should be conducted on materials supplied by stocking distributors due to the
+potential for unapproved material substitutions as a result of frequent handling by a number of parties.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6 Existing Installed Assets MVP<<HEADING_END>>
+<<HEADING level=3>>General
+5.6.1<<HEADING_END>>
+<<PARAGRAPH>>This section addresses assets that are already in service where the material verification program procedures
+for the construction are not documented or not completed according to this RP. It is important to recognize<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+7<<PARAGRAPH_END>>
+<<PARAGRAPH>>that previous maintenance activities, as well as new construction practices, may influence the likelihood of
+unapproved materials substitutions.<<PARAGRAPH_END>>
+<<HEADING level=3>>Prioritizing Assets for Retroactive PMI
+5.6.2<<HEADING_END>>
+<<HEADING level=3>>5.6.2.1
+General Factors to Consider<<HEADING_END>>
+<<PARAGRAPH>>If the owner/user elects to prioritize equipment or systems for the material verification program or needs to
+determine whether PMI is needed at all, the owner/user should consider the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Likelihood of unapproved material substitutions during previous projects and maintenance activities: The
+effectiveness of the material verification program when these activities occurred is an important
+consideration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Consequences of a failure due to improper material being installed: Flammability and potential for
+spreading fire, toxicity, proximity to other equipment or community, temperature, pressure, mode of
+failure, and size of release should be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+Reason for a specific material specification (i.e. corrosion resistance or product purity): This refers to the
+criticality of the material of choice.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+Historical data relating to unapproved material substitutions: This may be related to previous experience
+with material nonconformities in the process unit/operating plant or within published information
+available within the company and industry.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Taken together, these factors can be used to determine the risk associated with possible material
+nonconformances in an asset.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The owner/user should establish a methodology for estimating the relative priority for PMI within a given unit.
+This methodology may be based on a qualitative or quantitative risk analysis. API RP 580 discusses risk-
+based approaches and what should be considered when conducting a risk analysis (such as material,
+service conditions, service fluid, and mode of failure). The owner/user may also want to consider the
+opportunity to conduct PMI relative to upcoming planned maintenance opportunities (e.g. outages,
+turnarounds).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6.2.2
+Site-specific Factors to Consider<<HEADING_END>>
+<<PARAGRAPH>>Site-specific and/or experienced-based factors should be considered when prioritizing equipment or piping
+systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Construction and maintenance practices: In assessing the likelihood of material nonconformances, the
+owner/user should also consider the materials handling, material control, and any PMI procedures
+followed during construction of the process unit. Process-unit maintenance procedures are also
+important. Process units in which rigorous procedures for material verification are used would be
+expected to have a lower likelihood of nonconformances.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Reason for alloy specification: In some cases, alloys are used in equipment systems for reasons other
+than corrosion resistance or structural integrity. In these cases, the mechanical integrity of the system
+may not be compromised by material nonconformances. A material verification program may not be
+necessary in these systems. Two examples would be stainless steel lube oil systems in which stainless
+steel is used for maintaining oil purity, or stainless steel in a chemical manufacturing process where
+corrosion of carbon steel might cause product discoloration where any grade of stainless steel would be
+an acceptable substitution.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Based on experience, some types of components can have a higher likelihood of unapproved substitution of
+a nonspecified material. This can provide a basis for prioritizing specific equipment in a given system or
+process unit. Examples are:<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>8
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<PARAGRAPH>>— warm-up and bypass lines on pumps or check valves;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— small bore piping (2 NPS and below);<<PARAGRAPH_END>>
+<<PARAGRAPH>>— valves, valve assemblies, and valve bonnets, and removable devices such as rupture disks, spacer
+blinds, blind flanges, plugs, or ring joint gaskets;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— thermowells;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— bolting;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— piping as a part of a packaged system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— components without recognized marking;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— process systems with history of frequent maintenance requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— welds;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— threaded components.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6.2.3
+Factors to Consider When Determining the Extent of PMI<<HEADING_END>>
+<<PARAGRAPH>>Factors to consider when determining the extent of PMI for existing assets include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+historical inspection and material verification program records;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+number of plant modifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+materials control during original construction, equipment modifications, and maintenance activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+material verification program quality during construction and fabrication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+failure mode and consequence of a loss of containment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+likelihood of corrosion/degradation.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.7 MVP as an Element of Maintenance Systems<<HEADING_END>>
+<<HEADING level=3>>General
+5.7.1<<HEADING_END>>
+<<PARAGRAPH>>The principles associated with materials verification as part of an installation of new equipment should also
+be applied to provide confidence that proper materials are being installed as part of maintenance activities.
+The concepts noted in 5.4 should be reviewed and applied as applicable to the maintenance function.<<PARAGRAPH_END>>
+<<HEADING level=3>>Responsibilities
+5.7.2<<HEADING_END>>
+<<PARAGRAPH>>It shall be the responsibility of the owner/user to evaluate maintenance systems so that material verification
+programs can be designed and implemented to effectively support the mechanical integrity needs of assets.
+The owner/user should establish a written procedure for the material verification program to be used for
+repair of assets during maintenance and turnaround activities.<<PARAGRAPH_END>>
+<<HEADING level=3>>Control of Incoming Materials and Warehousing
+5.7.3<<HEADING_END>>
+<<PARAGRAPH>>A material verification program should be directly applied to activities associated with receiving materials into
+a warehouse system. PMI may be performed as part of this receiving function, or, when appropriate, may be
+performed at the supplier’s location as a condition of release for shipment. The material verification program<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+9<<PARAGRAPH_END>>
+<<PARAGRAPH>>that is adopted should provide for proper documentation and methods for indicating which materials have
+been tested and are approved for use.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The use of material verification program principles to check materials received into a warehouse system
+should be regarded as a quality assurance practice to minimize the potential for discovering an alloy material
+discrepancy during subsequent PMI. PMI within the warehouse should not be regarded as an alternative to
+PMI of the fabricated assets when PMI is specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>Maintenance Activities
+5.7.4<<HEADING_END>>
+<<PARAGRAPH>>There are a number of in-service maintenance activities where material verification should be established.
+Some examples include, but are not limited to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Temporary removal of piping spool pieces, including the removal of blind flanges used for access: These
+activities need to be properly managed to minimize the potential for unapproved material substitutions.
+Incidents have occurred when same-size spool pieces were removed and reinstalled in the wrong
+locations. Consideration should be given to a material control system, such as “tagging” spools as they
+are removed, or the use of PMI prior to reinstallation to prevent these incidences from occurring<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Replacement of small bore threaded pipe nipples and plugs, frequently found as drains and vents in
+process areas: An immediate need may necessitate the installation of nonconforming materials in a
+temporary repair; it is important to recognize even small changes need to be documented and reported
+for possible future follow-up.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+Replacement of welded-in valves:  Manufacturers/distributors may substitute low-alloy valves for carbon
+steel valves in higher-temperature/pressure services, and if this is not communicated, the craftsmen
+may end up using the incorrect welding procedure during installation. This error may produce cracks in
+the new welds.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+In turnaround situations where many heat exchangers in varying services are disassembled for cleaning,
+inspection, and repair: It is essential that all original components, or correct replacement components,
+are returned to the same exchanger during reassembly. An adequate marking and tracking system, as
+well as PMI, can be utilized to assure the proper components are returned to the correct service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+When tower internals, such as tray parts (e.g. clips, tray flapper valves or bubble caps, and fasteners)
+are replaced, one may consider performing point-of-installation PMI (or other material control program)
+to assure the replacement parts are as specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is important that repair procedures include consideration of PMI. Much of this can be controlled through
+awareness of the issues at all levels within the repair process. Consulting with those involved with
+implementing the programs where the repair will be performed, prior to commencement of work, can help
+ensure that systems, processes, and activities are in place to provide material control and verification.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+PMI Methodology and Technology<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>A variety of PMI methods are available to determine the identity of alloy materials. The primary methods
+include portable spectroscopy and laboratory chemical analysis. A description of several test methods is
+listed below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In addition to these methods, there are a variety of alloy sorting techniques that may be appropriate for the
+purposes of this RP, including magnetic testing to differentiate between ferritic and austenitic materials. It is
+important that users define the objectives and accuracies required of the PMI tool they wish to apply. All of
+the tools have benefits and limitations on the elements that can be detected, in addition to the accuracy and
+ability to differentiate between different material grades that have only slight variations in alloying elements.
+(See Annex A.)<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>10
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 MVP Test Method Objectives<<HEADING_END>>
+<<PARAGRAPH>>The test methods outlined in this document are intended to identify materials and are not intended to
+establish the exact conformance of a material to a particular specification. Depending on the test method
+selected, the method may only identify the nominal composition of materials. Identification of materials by
+visual stamps/markings alone should not be considered as a substitute for PMI but may be an important
+component of an overall quality assurance program.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 PMI Procedure<<HEADING_END>>
+<<PARAGRAPH>>The PMI procedure should identify and include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— the techniques to be applied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— equipment calibration;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— qualification requirements for personnel conducting the PMI;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— surface preparation requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— testing methodology applied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— acceptance criteria; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>— documentation requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 Personnel Qualifications<<HEADING_END>>
+<<PARAGRAPH>>Person(s) performing PMI should be knowledgeable about all aspects of operation of the PMI equipment and
+the test method being applied. Qualifications of the person performing the test, including training and
+experience, should be submitted for review and approval by the owner/user.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The owner/user is responsible to assure that all individuals performing PMI are trained and qualified in
+accordance with the applicable procedure used during the examination. Certification and qualification are two
+of the most effective methods to prove requirements are met.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5 Chemical Analysis Techniques<<HEADING_END>>
+<<HEADING level=3>>Laboratory Chemical Analysis
+6.5.1<<HEADING_END>>
+<<PARAGRAPH>>Owner/user-approved material analysis laboratories using X-ray emission spectrometry, optical emission
+spectrometry, or wet chemical analysis can provide the most accurate analytical results for all elements. The
+accuracy is typically much higher than is normally needed for PMI. Laboratory analysis may involve the
+removal of significant amounts of material, and is typically slower than field PMI techniques.<<PARAGRAPH_END>>
+<<HEADING level=3>>Chemical Spot Testing
+6.5.2<<HEADING_END>>
+<<PARAGRAPH>>The chemical spot test is typically accomplished by electrochemically removing a minute amount of surface
+metal and depositing it onto moistened filter paper. Reagents dropped onto the paper produce distinct colors
+that are indicative of the presence of specific elements in the sample tested. Chemical spot testing is much
+slower than the other field PMI methods, and interpretation is subjective.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+11<<PARAGRAPH_END>>
+<<HEADING level=3>>6.6 Sorting Analysis Techniques<<HEADING_END>>
+<<HEADING level=3>>Resistivity Testing
+6.6.1<<HEADING_END>>
+<<PARAGRAPH>>The principle employed in this test method is known as the Seebeck effect, or thermoelectric principle. A
+heated junction of dissimilar metal is created when the heated probe [300 °F (150 °C)] and the metal being
+tested are in contact with each other. The voltage generated at this junction is representative of the
+chemistry and crystalline structure of the metal being tested. Every alloy of a given crystalline structure will
+generate the same voltage regardless of the geometry or size of the piece being tested or the pressure
+applied. By references to known standards, these instruments are capable of sorting and identifying a wide
+range of ferrous and nonferrous materials. Alloy sorters have not proved to be consistently capable of sorting
+low-alloy (< 5 % Cr) and austenitic stainless steels.<<PARAGRAPH_END>>
+<<HEADING level=3>>Other Techniques
+6.6.2<<HEADING_END>>
+<<PARAGRAPH>>Techniques such as eddy-current sorting, electromagnetic alloy sorting, triboelectric testing (e.g. ferrite
+meters), and thermoelectric testing are qualitative and as such may only be appropriate for limited sorting
+applications and not for specific alloy identification.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.7 Spectrometer Technology<<HEADING_END>>
+<<HEADING level=3>>Portable X-ray Fluorescence
+6.7.1<<HEADING_END>>
+<<PARAGRAPH>>There are several variants of portable X-ray fluorescence (XRF) spectrometers available. The principle of
+operation is that one or more gamma ray or X-ray sources are used to generate a beam of low-energy
+radiation to excite the material under analysis. The material under analysis then emits a characteristic
+radiation spectrum that can be analyzed both qualitatively and quantitatively to determine which elements
+are present and in what quantity. The results of this analysis can be reported in either of the following
+formats:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— as a match against one of many reference spectra stored in the instrument ( i.e. “316 Stainless Steel” or
+“5 Cr –½Mo Steel”); and/or<<PARAGRAPH_END>>
+<<PARAGRAPH>>— each element present reported as a percentage (i.e. “Iron = 87.5 %” or “Iron = 0.875” as part of an entire
+elemental list that should be normalized against 100 %).<<PARAGRAPH_END>>
+<<PARAGRAPH>>A number of PMI instruments are available. These instruments can have the sensitivity to determine the
+elemental levels that meet the ASTM limits. Advancements in XRF technology, such as 50KV, X-ray tubes,
+and silica drift detectors (SDD), allow the user to detect light elements down to very low concentrations in
+steel substrates. For example, the latest generation of handheld X-ray fluorescence analyzers now measure
+light elements (Mg, Al, Si, P, and S) to very low limits of detection (see Annex A) and can provide for field
+measurement of silicon in steel down to very low concentrations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>These advancements in technology allow for accurate, nondestructive measurements to be conducted.
+However, to get this near-laboratory-quality measurement, significant care regarding surface preparation and
+cleanliness is required, as contamination of the prepared surface can lead to inaccurate results. Most assets
+are exposed to environments that promote surface corrosion and contamination, which can interfere with the
+analysis. Typically, a small test area is prepared with a portable grinding disk (60 to 80 grit, minimum
+zirconium aluminum oxide disposable abrasive disk) to properly clean the sample location prior to analysis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The inherent limitations of the technique mean it is not possible to detect all elements. XRF analyzers are
+capable of detecting elements from magnesium (Mg) to Uranium (U) in the periodic tables. This excludes
+some of the important elements in carbon steels, such as carbon and boron. It is important to define exactly
+what elemental analysis is required and select an appropriate instrument.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>12
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<HEADING level=3>>Portable Optical Emission Spectrometry
+6.7.2<<HEADING_END>>
+<<PARAGRAPH>>In optical emission spectrometry (OES), an electric arc, spark, or laser stimulates atoms in the test sample to
+emit a characteristic spectrum of light for each element in the sample. The combined light spectra from
+different elements are passed through a light guide to the optical analyzer. In the analyzer, the light is
+dispersed into its spectral components, and then measured and evaluated against stored calibration curves.<<PARAGRAPH_END>>
+<<PARAGRAPH>>These devices fall into three groups:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+The first is a lightweight, portable, and operator-evaluated device that can typically identify up to 16
+elements but depends upon operator evaluation of the light spectra. These devices do not directly
+indicate alloy grade or composition, but produce an output in the form of visible light spectra that permits
+semi-qualitative alloy identification. This technique is highly sensitive to operator skill and experience.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+The second group refers to field-portable, laboratory grade analyzers. These were originally difficult to
+use due to their size and weight; however, modern units are now available that can be considered
+lightweight, including the small argon cylinders required for operation. Some of these analyzers operate
+in a pure arc mode for routine PMI applications, while the more sophisticated units have a spark mode
+allowing laboratory quality analysis. The significant advantage of these instruments is the expansion of
+elements that can be analyzed, including carbon. Another advantage of these advanced instruments is
+that they are not subject to operator interpretation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Similar to X-ray fluorescence devices, results can be reported in either a spectral match or elemental
+percentage mode. As these techniques generate arcs and sparks, a potential ignition source occurs
+during their operation; therefore, prior to use of this technique in the field, a review shall be conducted in
+order to determine if gas testing and hot work permits are required.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+The third group is known as laser-induced breakdown spectroscopy (LIBS), in which an atomic emission
+spectroscopy technique uses highly energetic laser pulses. The laser is focused to form plasma, which
+atomizes and excites samples. Plasma light emissions provide the spectral signature of chemical
+composition for practically any material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When calibrated for metal analysis, LIBS can provide both qualitative and quantitative information to
+determine which elements are present and in what quantity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Considerable progress has been made during the past few years in LIBS technology. Handheld LIBS
+metal analyzers are becoming available that can provide fast in situ chemical analysis with appropriate
+precision and detection limits (Annex A). The significant advantage of LIBS technology is its wide
+element range. In principle, LIBS can detect all elements, limited by the power of the laser as well as the
+sensitivity and wavelength range of the spectrograph and detector. The LIBS technology also can
+provide low-level carbon analysis, which, in principle, enables LIBS to positively identify a wide range of
+ferrous alloys.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This technique generates a laser during operation, which is a potential ignition source. Therefore, before
+using this technique in the field, a review shall be conducted in order to determine if gas testing and hot
+work permits are required.<<PARAGRAPH_END>>
+<<HEADING level=3>>Equipment Calibration
+6.7.3<<HEADING_END>>
+<<PARAGRAPH>>Persons performing PMI should calibrate and/or verify the test equipment performance as specified by the
+equipment manufacturer. The PMI procedure should provide the frequency interval for this
+calibration/verification. If calibration procedures are not provided by the equipment manufacturer, they should
+be established by the owner/user. Typically, these procedures should include calibration/verification using
+certified standards. The owner/user may consider requirement of equipment verification checks on a routine
+(e.g. once per shift) using certified standards of the same alloy family.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+13<<PARAGRAPH_END>>
+<<HEADING level=3>>Equipment Precision
+6.7.4<<HEADING_END>>
+<<PARAGRAPH>>The precision of the test equipment should be consistent with the established test objectives (see 5.2). When
+elemental composition is desired, the owner/user should establish the acceptable precision and repeatability.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Accuracy and the method in which it is determined need to be understood (reference Annex A). For example,
+in some tools the sensitivity may depend on duration of the test in order to improve signal averaging
+algorithms. Failure to understand these issues may produce inaccurate results.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8 Safety Issues<<HEADING_END>>
+<<HEADING level=3>>General
+6.8.1<<HEADING_END>>
+<<PARAGRAPH>>The specific requirements for each PMI technique should be clearly reviewed as to the amount of
+mechanical preparation. Consideration should be given to the anticipated thickness of the sample before
+mechanical methods are used to prepare the sample. In addition, considerations for electrical arcing and “hot
+spots” should be considered, as well as appropriate electrical and hot work permits. Chemical spot testing
+involves the use of a variety of chemicals. Appropriate safety precautions should be taken when handling
+these chemicals.<<PARAGRAPH_END>>
+<<HEADING level=3>>XRF Analyzers
+6.8.2<<HEADING_END>>
+<<HEADING level=3>>6.8.2.1
+Intrinsic Safety<<HEADING_END>>
+<<PARAGRAPH>>XRF analyzers  are not  intrinsically safe. Pertinent hot-work procedures should be followed in areas where
+non-intrinsically-safe equipment is to be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8.2.2
+Radiation Safety<<HEADING_END>>
+<<PARAGRAPH>>The user should be aware of potential radiation exposure hazards when operating an XRF device. The user
+is expected to observe local jurisdictional requirements that govern radiation safety, and consult the
+manufacturer’s instructions for safe operation.<<PARAGRAPH_END>>
+<<HEADING level=3>>PMI of Welding Consumables
+6.8.3<<HEADING_END>>
+<<PARAGRAPH>>Performing PMI of a weld cap does not assure the root pass or subsequent weld passes are made with the
+specified chemistry. An acceptable method to address in-process PMI during welding is explained here:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Prior to use in fabrication, sample “buttons” should be welded using each heat of bare wire, lot of
+covered electrodes, or flux-cored electrodes. PMI can then be used to confirm that weld metal meets
+specification. The size of the weld button should be adequate to assure accurate test results.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Some weld rods have the alloying elements contained in the flux, and do not meet the alloy specification
+until welded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— It is not necessary to test a button of bare wire if the test chosen can identify the composition of the wire
+before welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8.3.1
+Longitudinal Pipe and Fitting Welds<<HEADING_END>>
+<<PARAGRAPH>>Where there is reason to suspect problems, longitudinally welded alloy pipe and fittings should receive PMI
+verification of the base metal and weld metal.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8.3.2
+Autogenous Welds<<HEADING_END>>
+<<PARAGRAPH>>If the owner/user determines that material verification testing is required on autogenous-welded (with no
+added filler metal) alloy pipe or fittings, it is necessary to conduct testing on only the base metal. If repairs<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>14
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<PARAGRAPH>>are made during original fabrication, the fabricator is to conduct testing on the base metal and the weld metal
+if a filler metal was used for the repair.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8.3.3
+Dissimilar Metal Welds and Weld Overlays<<HEADING_END>>
+<<PARAGRAPH>>Results from testing dissimilar metal welds should take into account the effects of dilution, which occurs
+during weld deposition. The owner/user should establish the minimum compositional requirements of the as-
+deposited weld metal necessary for the intended service.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Evaluation of Testing Results<<HEADING_END>>
+<<HEADING level=3>>7.1 Material Acceptance Methods<<HEADING_END>>
+<<PARAGRAPH>>The owner/user may elect any one of the following methods of material acceptance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Materials can be confirmed to contain the nominal amounts of alloying elements specified in the relevant
+materials specification (e.g. ASME Section II or ASTM specifications).<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Materials can be classified through a qualitative sorting technique (see 6.7) to establish the conformance
+with the intended material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+When PMI indicates that alloying elements are outside the ranges indicated in the material specification,
+the owner/user may still choose to allow the use of the tested materials in situations where a person
+knowledgeable of the appropriate damage mechanisms confirms that the material will perform
+satisfactorily in the service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+If testing using one of the portable or qualitative analysis methods leads to the potential rejection of a
+component, a more accurate analysis may be used to determine component acceptance (see
+Section 6).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2 Follow-up PMI after Discovery of a Nonconformity<<HEADING_END>>
+<<PARAGRAPH>>If any one of a representative sample is rejected, all items of that inspection lot should be considered
+suspect. A more extensive inspection of the remaining lot should be considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Materials Identification<<HEADING_END>>
+<<HEADING level=3>>8.1 Identification Process<<HEADING_END>>
+<<PARAGRAPH>>Alloy materials should be identified by their alloy designation or nominal composition. Examples of some
+acceptable identification methods are:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+color coding by alloy;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+a low-stress stamp marking indicating that the test has been performed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+documentation showing both the PMI results and the PMI locations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Test locations should be shown on appropriate drawings so that each test site can be traceable to the
+fabricated components.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2 Color Coding/Marking<<HEADING_END>>
+<<PARAGRAPH>>8.2.1
+If the material verification program procedure established by the owner/user requires a visual
+identification such as color coding or marking, the owner/user should maintain a record of the alloy
+material/color code combinations. PFI Standard  ES22  is an example of one such system. Materials<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>identification by color coding is not a substitute for permanent manufacturers’ markings required by
+applicable ASTM or other materials specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.2
+Where reliance on color marking is used, persons responsible for reading the colors should be
+confirmed as being able to distinguish the difference between the colors being used.<<HEADING_END>>
+<<HEADING level=3>>8.3 Marking of Components<<HEADING_END>>
+<<PARAGRAPH>>If the owner/user’s documentation process requires physical marking of equipment components, it should
+specify one of the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— whether or not the marking system should remain legible for the expected life of the component without
+deterioration due to corrosion or elevated temperature;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— whether or not the marking system is only temporary to facilitate proper handling and identification from
+the point of PMI to final installation. This marking can be semi-permanent paint applied to each item. The
+markers should not contain additives such as metallic pigments (Al, Pb, or Zn), sulfur, or chlorides.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Documentation and Recordkeeping<<HEADING_END>>
+<<HEADING level=3>>9.1 Shop and Field PMI Documentation<<HEADING_END>>
+<<PARAGRAPH>>Those individuals performing PMI should obtain and follow the PMI procedure approved by the owner/user.
+This procedure should include the technique used, equipment calibration, the qualification requirements of
+PMI personnel, the testing methodology, and documentation requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When documentation, such as drawings, is used in lieu of physical marking, the documentation should allow
+the owner/user to identify which components were tested.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2 New and Existing Equipment or System Documentation<<HEADING_END>>
+<<PARAGRAPH>>When PMI is conducted on new or existing assets and systems, records of the results should be kept as long
+as the equipment exists in its original location. If equipment or a portion of an equipment system that has not
+received material verification is relocated, the owner/user should consider the need for PMI prior to placing
+the relocated components into service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where applicable, some owner/users have created master PMI piping isometric drawings to track the
+components that were tested and test results. These drawings are maintained and updated as piping
+modifications occur from projects or process changes. A single documentation system eliminates the need to
+search for data in multiple locations.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3 PMI Records<<HEADING_END>>
+<<PARAGRAPH>>Typical PMI records should contain the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>— reference to the PMI procedure(s) used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— date of testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— test instrument identification number or serial number, where appropriate;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— name of each person performing the tests, with identification of their respective employer;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— results of the tests;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>16
+API   R ECOMMENDED  P RACTICE  578<<PARAGRAPH_END>>
+<<PARAGRAPH>>— basis and action for resolving and documenting PMI nonconformances, including those that have been
+left in service;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— documentation of the criteria used for prioritization of equipment or systems and extent of PMI
+performed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The information listed should be reported in such a manner that it is traceable to the point of installation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alternatively, the owner/user may choose to include this within the written material verification procedure.
+When included in the owner/user’s written material verification procedure, the date and edition number of the
+written procedure should be documented in the test record.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<HEADING level=2>>Annex A
+(informative)<<HEADING_END>>
+<<HEADING level=3>>Statistical Terminology<<HEADING_END>>
+<<PARAGRAPH>>Below are some of the terms regarding statistics that may be encountered when using the methodology
+and/or technology discussed within this document.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Accuracy: The closeness of agreement between the test result and the accepted reference value.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Precision: The closeness of agreement between independent test results. The precision depends only on
+the distribution of random errors and does not relate to the accepted standard certified value.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Bias: The difference between the expectation of the test results and an accepted reference value. Bias is
+a systematic error, in contrast to a random error. There may be one or more systematic error
+components contributing to the bias.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Limit of detection (LOD): The lowest concentration of analyte that can be reliably distinguished from zero
+concentration in a sample by defining a 99 % confidence to show that the analyte concentration is
+greater than zero. Therefore, 3-sigma calculations must be used to determine LOD (see definition for
+standard deviation (SD) below).<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Instrument detection limit (IDL): The lowest (best) detection limit generated by an instrument in a clean
+matrix (blank).<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Method detection limit (MDL): The typical detection limit obtained when running a typical sample. It is
+matrix dependent, and will vary from matrix to matrix.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Limit of quantitation (LOQ): The lowest concentration that can be reliably measured to allow quantitative
+readings. It is typically defined as 10-sigma (or 3.33 times the LOD).<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Standard deviation (SD): The standard deviation is a statistic that defines how tightly all the data is
+clustered around the mean in a dataset. It essentially measures the variability (spread or dispersion)
+from the mean (average) and is defined mathematically. For “normal” distributions, we can apply an
+empirical rule that states that 68 % of the data is within one standard deviation of the mean; 95 % of the
+data is within two standard deviations of the mean; and 99.7 % of the data is within three standard
+deviations of the mean.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Relative standard deviation (RSD): The standard deviation is divided by the mean of the data and
+multiplied by 100 to give a % value. The bigger the % value, the “noisier” the signal and less confidence
+in the final value.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Repeatability: The duplicate (or more) analysis within the shortest possible time, performed by the same
+person using the same method. The standard of many analyses using repeatability conditions indicates
+the minimum deviation achievable in the particular conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>— Reproducibility: This is a duplicate (or more) analysis performed by a different person, preferably using a
+different method or (different instrument).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>The following documents may reference this recommended practice, and have been used during its
+development.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[1]
+API 510,  Pressure Vessel Inspection Code: Maintenance Inspection, Rating, Repair, and Alteration<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+API Standard 560,  Fired Heaters for General Refinery Services<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+API 570,  Piping Inspection Code: In-service Inspection, Repair, and Alteration of Piping Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+API Recommended Practice 571,  Damage Mechanisms Affecting Fixed Equipment In the Refining
+Industry<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+API Recommended Practice 572,  Inspection of Pressure Vessels<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+API Recommended Practice 573,  Inspection of Fired Boilers and Heaters<<PARAGRAPH_END>>
+<<PARAGRAPH>>[7]
+API Recommended Practice 574,  Inspection Practices for Piping System Components<<PARAGRAPH_END>>
+<<PARAGRAPH>>[8]
+API Recommended Practice 575,  Inspection of Existing Atmospheric and Low-pressure Storage
+Tanks<<PARAGRAPH_END>>
+<<PARAGRAPH>>[9]
+API Recommended Practice 576,  Inspection of Pressure-Relieving Devices<<PARAGRAPH_END>>
+<<PARAGRAPH>>[10]
+API Recommended Practice 577,  Welding Inspection and Metallurgy<<PARAGRAPH_END>>
+<<PARAGRAPH>>[11]
+API 579-1/ASME FFS-1,  Fitness-For-Service<<PARAGRAPH_END>>
+<<PARAGRAPH>>[12]
+API Recommended Practice 580,  Risk-Based Inspection<<PARAGRAPH_END>>
+<<PARAGRAPH>>[13]
+API Recommended Practice 583,  Corrosion Under Insulation and Fireproofing<<PARAGRAPH_END>>
+<<PARAGRAPH>>[14]
+API Recommended Practice 751,  Safe Operation of Hydrofluoric Acid Alkylation Units<<PARAGRAPH_END>>
+<<PARAGRAPH>>[15]
+API RP 939-C,  Guidelines for Avoiding Sulfidation (Sulfidic) Corrosion Failures in Oil Refineries<<PARAGRAPH_END>>
+<<PARAGRAPH>>[16]
+ASME  1  B31.3,  Process Piping<<PARAGRAPH_END>>
+<<PARAGRAPH>>[17]
+ASME Boiler and Pressure Vessel Code: Section II Materials (Part A: Ferrous Material Specifications,
+Part B: Nonferrous Material Specifications, Part C: Specifications for Welding Rods, Electrodes, and
+Filler Metals, Part D: Properties – Materials)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[18]
+ASME PCC-2,  Repair of Pressure Equipment and Piping<<PARAGRAPH_END>>
+<<PARAGRAPH>>[19]
+ASTM  2  E1476-97,  Standard Guide for Metals Identification, Grade Verification, and Sorting<<PARAGRAPH_END>>
+<<PARAGRAPH>>[20]
+Center for Chemical Process Safety  3 ,  Guidelines for Mechanical Integrity Systems , Appendix 7C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1  ASME International, 3 Park Avenue, New York, New York 10016, www.asme.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2  ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, Pennsylvania 19428, www.astm.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3  Center for Chemical Process Safety, 120 Wall Street, Floor 23, New York, New York 10005, www.aiche.org/ccps.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>G UIDELINES FOR A  M ATERIAL  V ERIFICATION  P ROGRAM  (MVP)  FOR  N EW AND  E XISTING  A SSETS
+19<<PARAGRAPH_END>>
+<<PARAGRAPH>>[21]
+CSB  4  Bulletin 2005-04-B, “Positive Material Verification: Prevent Errors During Alloy Steel Systems
+Maintenance”<<PARAGRAPH_END>>
+<<PARAGRAPH>>[22]
+NACE  5  International, Paper No. 03651, “Specification for Carbon Steel Materials for Hydrofluoric
+Acid Alkylation Units”<<PARAGRAPH_END>>
+<<PARAGRAPH>>[23]
+Process Industry Practices  6 , "Positive Material Identification Specification," VESPMI01, April 2011.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[24]
+PFI  7  Standard ES22,  Recommended Practice for Color Coding of Piping Materials<<PARAGRAPH_END>>
+<<PARAGRAPH>>4  Chemical Safety Board, 1750 Pennsylvania Avenue, NW, Suite 910, Washington, DC 20006, www.csb.gov.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5  National Association of Corrosion Engineers, 15835 Park Ten Place, Houston, Texas 77084, www.nace.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6  Process Industry Practices, 3925 West Braker Lane (R4500), Austin, Texas 78759, www.pip.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7  Pipe Fabrication Institute, 511 Avenue of the Americas, #601, New York, New York 10011. www.pfi-institute.org.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<HEADING level=3>>Product No.  C5780 3<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 28
+<<SECTION_END>>
+<<DOCUMENT_END>>

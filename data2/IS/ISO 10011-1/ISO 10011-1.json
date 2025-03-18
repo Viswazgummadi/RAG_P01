@@ -1,0 +1,3932 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO\n10011-1",
+          "bbox": [
+            473.2,
+            59.0,
+            561.26,
+            110.53
+          ],
+          "block_id": "b1_0",
+          "font_size": 24.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "First edition\n1990-12-15",
+          "bbox": [
+            513.76,
+            122.43,
+            561.26,
+            141.33
+          ],
+          "block_id": "b1_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Guidelines for auditing quality systems \u2014",
+          "bbox": [
+            229.61,
+            318.11,
+            555.86,
+            334.11
+          ],
+          "block_id": "b1_3",
+          "font_size": 16.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Part 1:\nAuditing",
+          "bbox": [
+            229.61,
+            344.22,
+            288.29,
+            377.82
+          ],
+          "block_id": "b1_4",
+          "font_size": 16.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Lignes directrices pour l'audit des syst\u00e8mes qualit\u00e9 \u2014",
+          "bbox": [
+            229.61,
+            408.73,
+            477.28,
+            418.73
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Partie 1: Audit",
+          "bbox": [
+            229.6,
+            425.4,
+            295.03,
+            435.4
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            229.61,
+            721.25,
+            296.44,
+            783.42
+          ],
+          "block_id": "img1_7"
+        },
+        {
+          "type": "text",
+          "content": "Reference number\nISO 10011-1:1990(E)",
+          "bbox": [
+            477.71,
+            765.48,
+            561.26,
+            784.38
+          ],
+          "block_id": "b1_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_7",
+          "bbox": [
+            229.61,
+            721.25,
+            296.44,
+            783.42
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_7": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            28.35,
+            39.54,
+            132.89,
+            50.54
+          ],
+          "block_id": "b2_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Contents\nPage",
+          "bbox": [
+            28.35,
+            113.1,
+            360.0,
+            136.94
+          ],
+          "block_id": "b2_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1\nScope ..............................................................................................   1",
+          "bbox": [
+            28.35,
+            149.15,
+            358.33,
+            159.15
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2\nNormative reference\n.................................................................   1",
+          "bbox": [
+            28.35,
+            171.15,
+            358.33,
+            181.15
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3\nDefinitions\n.................................................................................   1",
+          "bbox": [
+            28.35,
+            193.15,
+            358.33,
+            203.15
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4\nAudit objectives and responsibilities\n.........................................   2",
+          "bbox": [
+            28.35,
+            215.15,
+            358.33,
+            225.15
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5\nAuditing\n.....................................................................................   4",
+          "bbox": [
+            28.35,
+            237.15,
+            358.33,
+            247.15
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6\nAudit completion\n.......................................................................   6",
+          "bbox": [
+            28.35,
+            259.15,
+            358.33,
+            269.15
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7\nCorrective action follow-up\n.......................................................   6",
+          "bbox": [
+            28.35,
+            281.15,
+            358.33,
+            291.15
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Annex",
+          "bbox": [
+            28.35,
+            308.15,
+            58.91,
+            318.15
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A\nBibliography\n..............................................................................   7",
+          "bbox": [
+            28.35,
+            330.15,
+            358.33,
+            340.15
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\n1990\nAll rights reserved. No part of this publication may be reproduced or utilized in any form or\nby any means, electronic or mechanical, including photocopying and microfilm, without per-\nmission in writing from the publisher.\nInternational Organization for Standardization\nCase Postale 56 \u2022 CH-1211 Gen\u00e8ve 20 \u2022 Switzerland\nPrinted in Switzerland",
+          "bbox": [
+            28.35,
+            711.47,
+            360.02,
+            778.83
+          ],
+          "block_id": "b2_11",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ii",
+          "bbox": [
+            28.35,
+            808.61,
+            32.79,
+            818.61
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            462.38,
+            39.54,
+            566.93,
+            50.54
+          ],
+          "block_id": "b3_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Foreword",
+          "bbox": [
+            235.28,
+            215.1,
+            299.84,
+            229.1
+          ],
+          "block_id": "b3_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ISO (the International Organization for Standardization) is a worldwide\nfederation of national standards bodies (ISO member bodies). The work\nof preparing International Standards is normally carried out through ISO\ntechnical committees. Each member body interested in a subject for\nwhich a technical committee has been established has the right to be\nrepresented on that committee. International organizations, governmental\nand non-governmental, in liaison with ISO, also take part in the work. ISO\ncollaborates closely with the International Electrotechnical Commission\n(IEC) on all matters of electrotechnical standardization.",
+          "bbox": [
+            235.28,
+            243.25,
+            566.97,
+            341.25
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Draft International Standards adopted by the technical committees are\ncirculated to the member bodies for voting. Publication as an International\nStandard requires approval by at least 75 % of the member bodies casting\na vote.",
+          "bbox": [
+            235.28,
+            350.5,
+            566.93,
+            393.5
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "International Standard ISO 10011-1 was prepared by Technical Committee\nISO/TC 176, Quality management and quality assurance.",
+          "bbox": [
+            235.28,
+            402.75,
+            566.91,
+            423.75
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ISO 10011 consists of the following parts, under the general title Guide-\nlines for auditing quality systems:",
+          "bbox": [
+            235.27,
+            433.0,
+            568.45,
+            454.0
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Part 1: Auditing",
+          "bbox": [
+            245.28,
+            466.0,
+            332.9,
+            476.0
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Part 2: Qualification criteria for quality systems auditors",
+          "bbox": [
+            245.28,
+            488.0,
+            512.31,
+            498.0
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 Part 3: Management of audit programmes",
+          "bbox": [
+            245.28,
+            510.0,
+            452.91,
+            520.0
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Annex A of this part of ISO 10011 is for information only.",
+          "bbox": [
+            235.28,
+            529.25,
+            493.63,
+            539.25
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iii",
+          "bbox": [
+            560.27,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            28.35,
+            39.54,
+            132.89,
+            50.54
+          ],
+          "block_id": "b4_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Introduction",
+          "bbox": [
+            28.35,
+            215.1,
+            110.79,
+            229.1
+          ],
+          "block_id": "b4_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The ISO 9000 series emphasizes the importance of quality audit as a key\nmanagement tool for achieving the objectives set out in an organization's\npolicy.",
+          "bbox": [
+            28.35,
+            243.25,
+            360.0,
+            275.25
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Audits should be carried out in order to determine that the various el-\nements within a quality system are effective and suitable for achieving the\nstated quality objectives.",
+          "bbox": [
+            28.35,
+            284.5,
+            360.0,
+            316.5
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This part of ISO 10011 provides guidelines for performing an audit of a\nquality system of an organization. It allows users to adjust the guidelines\ndescribed to suit their needs.",
+          "bbox": [
+            28.35,
+            325.75,
+            360.01,
+            357.75
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The quality system audit also provides objective evidence concerning the\nneed for the reduction, elimination and, especially, prevention of noncon-\nformities.",
+          "bbox": [
+            28.35,
+            367.0,
+            360.0,
+            399.0
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The results of these audits can be used by management to improve the\nperformance of the organization.",
+          "bbox": [
+            28.35,
+            408.25,
+            360.05,
+            429.25
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iv",
+          "bbox": [
+            28.35,
+            808.61,
+            35.57,
+            818.61
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "INTERNATIONAL STANDARD\nISO 10011-1:1990(E)",
+          "bbox": [
+            56.69,
+            46.19,
+            566.92,
+            57.19
+          ],
+          "block_id": "b5_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Guidelines for auditing quality systems \u2014",
+          "bbox": [
+            56.69,
+            185.32,
+            423.73,
+            203.32
+          ],
+          "block_id": "b5_1",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Part 1:\nAuditing",
+          "bbox": [
+            56.69,
+            224.92,
+            122.72,
+            262.72
+          ],
+          "block_id": "b5_2",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1\nquality audit:  A systematic and independent\nexamination to determine whether quality activities\nand related results comply with planned arrange-\nments and whether these arrangements are im-\nplemented effectively and are suitable to achieve\nobjectives.",
+          "bbox": [
+            325.98,
+            318.72,
+            566.94,
+            383.72
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1 Scope",
+          "bbox": [
+            56.69,
+            320.14,
+            110.71,
+            332.14
+          ],
+          "block_id": "b5_3",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This part of ISO 10011 establishes basic audit princi-\nples, criteria and practices, and provides guidelines for\nestablishing, planning, carrying out and documenting\naudits of quality systems.",
+          "bbox": [
+            56.69,
+            344.13,
+            297.87,
+            387.13
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            325.98,
+            393.69,
+            376.54,
+            404.81
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "It provides guidelines for verifying the existence and\nimplementation of elements of a quality system and\nfor verifying the system's ability to achieve defined\nquality objectives. It is sufficiently general in nature to\npermit it to be applicable or adaptable to different\nkinds of industries and organizations. Each organiz-\nation should develop its own specific procedures for\nimplementing these guidelines.",
+          "bbox": [
+            56.69,
+            396.8,
+            297.66,
+            483.8
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            325.98,
+            416.6,
+            355.49,
+            425.6
+          ],
+          "block_id": "b5_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nThe quality audit typically applies to, but is not limited to,\na quality system or elements thereof, to processes, to pro-\nducts, or to services. Such audits are often called \u201cquality\nsystem audit\u201d, \u201cprocess quality audit\u201d, \u201cproduct quality au-\ndit\u201d, \u201cservice quality audit\u201d.",
+          "bbox": [
+            325.98,
+            436.6,
+            566.95,
+            485.59
+          ],
+          "block_id": "b5_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3\nQuality audits are carried out by staff not having direct\nresponsibility in the areas being audited but, preferably,\nworking in cooperation with the relevant personnel.",
+          "bbox": [
+            325.98,
+            496.59,
+            566.96,
+            525.59
+          ],
+          "block_id": "b5_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 Normative reference",
+          "bbox": [
+            56.69,
+            511.7,
+            193.4,
+            523.7
+          ],
+          "block_id": "b5_6",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The following standard contains provisions which,\nthrough reference in this text, constitute provisions\nof this part of ISO 10011. At the time of publication,\nthe edition indicated was valid. All standards are sub-\nject to revision, and parties to agreements based on\nthis part of ISO 10011 are encouraged to investigate\nthe possibility of applying the most recent edition of\nthe standard indicated below. Members of IEC and\nISO maintain registers of currently valid International\nStandards.",
+          "bbox": [
+            56.69,
+            535.7,
+            297.66,
+            644.7
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4\nOne purpose of the quality audit is to evaluate the need\nfor improvement or corrective action. An audit should not\nbe confused with \u201csurveillance\u201d or \u201cinspection\u201d activities\nperformed for the sole purpose of process control or prod-\nuct acceptance.",
+          "bbox": [
+            325.98,
+            536.59,
+            566.93,
+            585.58
+          ],
+          "block_id": "b5_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nQuality audits can be conducted for internal or external\npurposes.",
+          "bbox": [
+            325.98,
+            596.58,
+            566.91,
+            615.58
+          ],
+          "block_id": "b5_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.2\nquality system:  The organizational structure,\nresponsibilities, procedures, processes and resources\nfor implementing quality management.",
+          "bbox": [
+            325.98,
+            635.17,
+            566.92,
+            667.17
+          ],
+          "block_id": "b5_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ISO 8402:1986, Quality \u2014 Vocabulary.",
+          "bbox": [
+            56.69,
+            654.36,
+            228.92,
+            664.37
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            325.98,
+            677.14,
+            376.54,
+            688.26
+          ],
+          "block_id": "b5_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 Definitions",
+          "bbox": [
+            56.69,
+            692.27,
+            137.37,
+            704.27
+          ],
+          "block_id": "b5_9",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            325.98,
+            700.05,
+            355.49,
+            709.05
+          ],
+          "block_id": "b5_21",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purposes of this part of ISO 10011, the defi-\nnitions given in ISO 8402, together with the following\ndefinitions, apply.",
+          "bbox": [
+            56.69,
+            716.26,
+            297.66,
+            748.26
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6\nThe quality system should only be as comprehensive as\nis needed to meet the quality objectives.",
+          "bbox": [
+            325.98,
+            720.05,
+            566.96,
+            739.05
+          ],
+          "block_id": "b5_22",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7\nFor contractual, mandatory and assessment purposes,\ndemonstration of the implementation of identified elements\nin the system may be required.",
+          "bbox": [
+            325.98,
+            750.04,
+            566.94,
+            779.04
+          ],
+          "block_id": "b5_23",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE 1\nSome terms in ISO 8402 are repeated here and\nthe source is indicated in brackets.",
+          "bbox": [
+            56.69,
+            760.05,
+            297.66,
+            779.05
+          ],
+          "block_id": "b5_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            561.37,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b5_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            28.35,
+            34.72,
+            132.89,
+            45.72
+          ],
+          "block_id": "b6_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.3\nauditor (quality):  A person who has the quali-\nfication to perform quality audits.",
+          "bbox": [
+            28.35,
+            89.03,
+            269.28,
+            110.03
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to determine the effectiveness of the im-\nplemented quality system in meeting specified\nquality objectives;",
+          "bbox": [
+            297.64,
+            89.03,
+            538.6,
+            121.03
+          ],
+          "block_id": "b6_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            28.35,
+            121.82,
+            57.85,
+            130.82
+          ],
+          "block_id": "b6_2",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to provide the auditee with an opportunity to im-\nprove the quality system;",
+          "bbox": [
+            297.64,
+            133.03,
+            538.59,
+            154.03
+          ],
+          "block_id": "b6_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8\nTo perform a quality audit, the auditor must be auth-\norized for that particular audit.",
+          "bbox": [
+            28.35,
+            141.82,
+            269.28,
+            160.81
+          ],
+          "block_id": "b6_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to meet regulatory requirements;",
+          "bbox": [
+            297.64,
+            166.03,
+            461.55,
+            176.03
+          ],
+          "block_id": "b6_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9\nAn auditor designated to manage a quality audit is called\na \u201clead auditor\u201d.",
+          "bbox": [
+            28.35,
+            171.81,
+            269.27,
+            190.81
+          ],
+          "block_id": "b6_4",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to permit the listing of the audited organization's\nquality system in a register.",
+          "bbox": [
+            297.64,
+            188.03,
+            538.61,
+            209.03
+          ],
+          "block_id": "b6_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.4\nclient:  A person or organization requesting the\naudit.",
+          "bbox": [
+            28.35,
+            204.47,
+            269.31,
+            225.47
+          ],
+          "block_id": "b6_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Audits are generally initiated for one or more of the\nfollowing reasons:",
+          "bbox": [
+            297.64,
+            219.45,
+            538.59,
+            240.45
+          ],
+          "block_id": "b6_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE 10\nThe client may be:",
+          "bbox": [
+            28.35,
+            237.26,
+            153.93,
+            246.26
+          ],
+          "block_id": "b6_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to initially evaluate a supplier where there is a de-\nsire to establish a contractual relationship;",
+          "bbox": [
+            297.64,
+            252.45,
+            538.6,
+            273.45
+          ],
+          "block_id": "b6_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nthe auditee wishing to have its own quality system\naudited against some quality system standard;",
+          "bbox": [
+            28.35,
+            258.26,
+            269.29,
+            277.26
+          ],
+          "block_id": "b6_7",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to verify that an organization's own quality system\ncontinues to meet specified requirements and is\nbeing implemented;",
+          "bbox": [
+            297.64,
+            285.45,
+            538.6,
+            317.45
+          ],
+          "block_id": "b6_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\na customer wishing to audit the quality system\nof a\nsupplier using his own auditors or a third party;",
+          "bbox": [
+            28.35,
+            289.25,
+            269.29,
+            308.25
+          ],
+          "block_id": "b6_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nan independent agency authorized to determine\nwhether the quality system provides adequate control\nof the products or services being provided (such as\nfood, drug, nuclear, or other regulatory bodies);",
+          "bbox": [
+            28.35,
+            320.25,
+            269.31,
+            359.25
+          ],
+          "block_id": "b6_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 within the framework of a contractual relationship,\nto verify that the supplier's quality system contin-\nues to meet specified requirements and is being\nimplemented;",
+          "bbox": [
+            297.64,
+            329.45,
+            538.58,
+            372.45
+          ],
+          "block_id": "b6_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nan independent agency assigned to carry out an audit in\norder to list the audited organization's quality system in\na register.",
+          "bbox": [
+            28.35,
+            371.24,
+            269.29,
+            400.24
+          ],
+          "block_id": "b6_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to evaluate an organization's own quality system\nagainst a quality system standard.",
+          "bbox": [
+            297.64,
+            384.45,
+            538.56,
+            405.45
+          ],
+          "block_id": "b6_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.5\nauditee:  An organization to be audited.",
+          "bbox": [
+            28.35,
+            413.91,
+            228.4,
+            423.91
+          ],
+          "block_id": "b6_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "These audits may be routine, or may be prompted by\nsignificant changes in the organization's quality sys-\ntem, process, product or service quality, or by a need\nto follow up on corrective action.",
+          "bbox": [
+            297.64,
+            415.87,
+            538.6,
+            458.87
+          ],
+          "block_id": "b6_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.6\nobservation:  A statement of fact made during\nan audit and substantiated by objective evidence.",
+          "bbox": [
+            28.35,
+            437.35,
+            269.29,
+            458.35
+          ],
+          "block_id": "b6_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            297.64,
+            467.9,
+            327.14,
+            476.9
+          ],
+          "block_id": "b6_31",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.7\nobjective evidence:  Qualitative or quantitative\ninformation, records or statements of fact pertaining\nto the quality of an item or service or to the existence\nand implementation of a quality system element,\nwhich is based on observation, measurement or test\nand which can be verified.",
+          "bbox": [
+            28.35,
+            471.79,
+            269.31,
+            536.79
+          ],
+          "block_id": "b6_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12\nQuality audits should not result in a transfer of the re-\nsponsibility to achieve quality from operating staff to the\nauditing organization.",
+          "bbox": [
+            297.64,
+            487.9,
+            538.6,
+            516.9
+          ],
+          "block_id": "b6_32",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13\nQuality audits should not lead to an increase in the\nscope of quality functions over and above those necessary\nto meet quality objectives.",
+          "bbox": [
+            297.64,
+            527.9,
+            538.59,
+            556.9
+          ],
+          "block_id": "b6_33",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.8\nnonconformity:  The nonfulfilment of specified\nrequirements.",
+          "bbox": [
+            28.35,
+            550.23,
+            269.29,
+            571.23
+          ],
+          "block_id": "b6_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            28.35,
+            579.73,
+            78.91,
+            590.84
+          ],
+          "block_id": "b6_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2\nRoles and responsibilities",
+          "bbox": [
+            297.64,
+            594.68,
+            459.01,
+            605.68
+          ],
+          "block_id": "b6_34",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE 11\nThe definition covers the departure or absence\nof one or more quality characteristics or quality system el-\nements from specified requirements.",
+          "bbox": [
+            28.35,
+            602.64,
+            269.27,
+            631.64
+          ],
+          "block_id": "b6_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.1 Auditors",
+          "bbox": [
+            297.64,
+            635.99,
+            370.99,
+            645.99
+          ],
+          "block_id": "b6_35",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4\nAudit objectives and responsibilities",
+          "bbox": [
+            28.35,
+            658.11,
+            256.38,
+            670.11
+          ],
+          "block_id": "b6_17",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2.1.1 Audit team",
+          "bbox": [
+            297.64,
+            670.67,
+            392.11,
+            680.67
+          ],
+          "block_id": "b6_36",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1 Audit objectives",
+          "bbox": [
+            28.35,
+            691.11,
+            140.21,
+            702.11
+          ],
+          "block_id": "b6_18",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Whether an audit is carried out by a team or an indi-\nvidual, a lead auditor should be placed in overall\ncharge.",
+          "bbox": [
+            297.64,
+            693.84,
+            538.59,
+            725.84
+          ],
+          "block_id": "b6_37",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Audits are normally designed for one or more of the\nfollowing purposes:",
+          "bbox": [
+            28.35,
+            714.26,
+            269.32,
+            735.26
+          ],
+          "block_id": "b6_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Depending upon the circumstances, the audit team\nmay include experts with specialized background,\nauditor trainees or observers who are acceptable to\nthe client, auditee and lead auditor.",
+          "bbox": [
+            297.64,
+            736.26,
+            538.6,
+            779.26
+          ],
+          "block_id": "b6_38",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 to determine the conformity or nonconformity of\nthe quality system elements with specified re-\nquirements;",
+          "bbox": [
+            28.35,
+            747.26,
+            269.29,
+            779.26
+          ],
+          "block_id": "b6_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            28.35,
+            808.61,
+            33.91,
+            818.61
+          ],
+          "block_id": "b6_39",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            462.38,
+            34.72,
+            566.93,
+            45.72
+          ],
+          "block_id": "b7_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2.1.2 Auditor's responsibilities",
+          "bbox": [
+            56.69,
+            89.03,
+            216.33,
+            99.03
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2.1.5 Auditor's activities",
+          "bbox": [
+            325.98,
+            89.03,
+            456.18,
+            99.03
+          ],
+          "block_id": "b7_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The lead auditor should",
+          "bbox": [
+            325.98,
+            112.25,
+            431.01,
+            122.25
+          ],
+          "block_id": "b7_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Auditors are responsible for",
+          "bbox": [
+            56.69,
+            113.3,
+            181.15,
+            123.3
+          ],
+          "block_id": "b7_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 define the requirements of each audit assignment,\nincluding the required auditor qualifications;",
+          "bbox": [
+            325.98,
+            134.25,
+            566.94,
+            155.25
+          ],
+          "block_id": "b7_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 complying with the applicable audit requirements;",
+          "bbox": [
+            56.69,
+            135.3,
+            295.61,
+            145.3
+          ],
+          "block_id": "b7_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 communicating and clarifying audit requirements;",
+          "bbox": [
+            56.69,
+            157.3,
+            292.83,
+            167.3
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 comply with applicable auditing requirements and\nother appropriate directives;",
+          "bbox": [
+            325.98,
+            167.25,
+            566.94,
+            188.25
+          ],
+          "block_id": "b7_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 planning and carrying out assigned responsibilities\neffectively and efficiently;",
+          "bbox": [
+            56.69,
+            179.3,
+            297.63,
+            200.3
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 plan the audit, prepare working documents and\nbrief the audit team;",
+          "bbox": [
+            325.98,
+            200.25,
+            566.94,
+            221.25
+          ],
+          "block_id": "b7_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 documenting the observations;",
+          "bbox": [
+            56.69,
+            212.3,
+            210.62,
+            222.3
+          ],
+          "block_id": "b7_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 review documentation on existing quality system\nactivities to determine their adequacy;",
+          "bbox": [
+            325.98,
+            233.25,
+            566.91,
+            254.25
+          ],
+          "block_id": "b7_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 reporting the audit results;",
+          "bbox": [
+            56.69,
+            234.3,
+            190.59,
+            244.3
+          ],
+          "block_id": "b7_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 verifying the effectiveness of corrective actions\ntaken as a result of the audit (if requested by the\nclient);",
+          "bbox": [
+            56.69,
+            256.3,
+            297.63,
+            288.3
+          ],
+          "block_id": "b7_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 report critical nonconformities to the auditee im-\nmediately;",
+          "bbox": [
+            325.98,
+            266.25,
+            566.91,
+            287.25
+          ],
+          "block_id": "b7_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 report any major obstacles encountered in per-\nforming the audit;",
+          "bbox": [
+            325.98,
+            299.25,
+            566.93,
+            320.25
+          ],
+          "block_id": "b7_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 retaining and safeguarding documents pertaining\nto the audit:",
+          "bbox": [
+            56.69,
+            300.3,
+            297.63,
+            321.3
+          ],
+          "block_id": "b7_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 report on the audit results clearly, conclusively and\nwithout undue delay.",
+          "bbox": [
+            325.98,
+            332.25,
+            566.95,
+            353.25
+          ],
+          "block_id": "b7_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2022\nsubmitting such documents as required,",
+          "bbox": [
+            71.69,
+            333.3,
+            267.84,
+            343.3
+          ],
+          "block_id": "b7_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2022\nensuring such documents remain confidential,",
+          "bbox": [
+            71.69,
+            355.3,
+            293.96,
+            365.3
+          ],
+          "block_id": "b7_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Auditors should",
+          "bbox": [
+            325.98,
+            363.72,
+            396.0,
+            373.72
+          ],
+          "block_id": "b7_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2022\ntreating privileged information with discretion;",
+          "bbox": [
+            71.69,
+            377.3,
+            292.81,
+            387.3
+          ],
+          "block_id": "b7_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 remain within the audit scope;",
+          "bbox": [
+            325.98,
+            385.72,
+            477.66,
+            395.72
+          ],
+          "block_id": "b7_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 cooperating with and supporting the lead auditor.",
+          "bbox": [
+            56.69,
+            399.3,
+            292.84,
+            409.3
+          ],
+          "block_id": "b7_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 exercise objectivity;",
+          "bbox": [
+            325.98,
+            407.72,
+            429.32,
+            417.72
+          ],
+          "block_id": "b7_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 collect and analyse evidence that is relevant and\nsufficient to permit the drawing of conclusions re-\ngarding the audited quality system;",
+          "bbox": [
+            325.98,
+            429.72,
+            566.9,
+            461.72
+          ],
+          "block_id": "b7_36",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.1.3\nLead auditor's responsibilities",
+          "bbox": [
+            56.69,
+            444.99,
+            240.79,
+            454.99
+          ],
+          "block_id": "b7_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The lead auditor is ultimately responsible for all\nphases of the audit. The lead auditor should have\nmanagement capabilities and experience and should\nbe given authority to make final decisions regarding\nthe conduct of the audit and any audit observations.",
+          "bbox": [
+            56.69,
+            469.26,
+            297.65,
+            523.26
+          ],
+          "block_id": "b7_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 remain alert to any indications of evidence that can\ninfluence the audit results and possibly require\nmore extensive auditing;",
+          "bbox": [
+            325.98,
+            473.72,
+            567.1,
+            505.72
+          ],
+          "block_id": "b7_37",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 be able to answer such questions as",
+          "bbox": [
+            325.98,
+            517.72,
+            506.56,
+            527.72
+          ],
+          "block_id": "b7_38",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The lead auditor's responsibilities also cover:",
+          "bbox": [
+            56.69,
+            534.78,
+            257.83,
+            544.78
+          ],
+          "block_id": "b7_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2022\n\u201care the procedures, documents and other in-\nformation describing or supporting the required\nelements of the quality system known, avail-\nable, understood and used by the auditee's\npersonnel?\u201d",
+          "bbox": [
+            340.98,
+            539.72,
+            566.94,
+            593.72
+          ],
+          "block_id": "b7_39",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 assisting with the selection of other audit team\nmembers;",
+          "bbox": [
+            56.69,
+            556.78,
+            297.63,
+            577.78
+          ],
+          "block_id": "b7_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 preparation of the audit plan;",
+          "bbox": [
+            56.69,
+            589.78,
+            201.15,
+            599.78
+          ],
+          "block_id": "b7_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2022\n\u201care all the documents and other information\nused to describe the quality system adequate\nto achieve the required quality objectives?\u201d",
+          "bbox": [
+            340.98,
+            605.72,
+            566.91,
+            637.72
+          ],
+          "block_id": "b7_40",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 representing the audit team with the auditee's\nmanagement;",
+          "bbox": [
+            56.69,
+            611.78,
+            297.65,
+            632.78
+          ],
+          "block_id": "b7_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 submitting the audit report.",
+          "bbox": [
+            56.69,
+            644.78,
+            194.48,
+            654.78
+          ],
+          "block_id": "b7_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 act in an ethical manner at all times.",
+          "bbox": [
+            325.98,
+            649.72,
+            504.3,
+            659.72
+          ],
+          "block_id": "b7_41",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.1.4\nIndependence of the auditor",
+          "bbox": [
+            56.69,
+            690.47,
+            233.39,
+            700.47
+          ],
+          "block_id": "b7_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2.2 Client",
+          "bbox": [
+            325.98,
+            691.04,
+            386.01,
+            701.04
+          ],
+          "block_id": "b7_42",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The client",
+          "bbox": [
+            325.98,
+            714.26,
+            369.88,
+            724.26
+          ],
+          "block_id": "b7_43",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Auditors should be free from bias and influences\nwhich could affect objectivity.",
+          "bbox": [
+            56.69,
+            714.74,
+            297.66,
+            735.74
+          ],
+          "block_id": "b7_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 determines the need for and the purpose of the\naudit and initiates the process;",
+          "bbox": [
+            325.98,
+            736.26,
+            566.9,
+            757.26
+          ],
+          "block_id": "b7_44",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "All persons and organizations involved with an audit\nshould respect and support the independence and in-\ntegrity of the auditors.",
+          "bbox": [
+            56.69,
+            747.26,
+            297.61,
+            779.26
+          ],
+          "block_id": "b7_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 determines the auditing organization;",
+          "bbox": [
+            325.98,
+            769.26,
+            507.12,
+            779.26
+          ],
+          "block_id": "b7_45",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            561.37,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b7_46",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            28.35,
+            34.72,
+            132.89,
+            45.72
+          ],
+          "block_id": "b8_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1.2 Audit frequency",
+          "bbox": [
+            297.64,
+            89.01,
+            406.55,
+            99.01
+          ],
+          "block_id": "b8_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 determines the general scope of the audit, such\nas what quality system standard or document it is\nto be conducted against;",
+          "bbox": [
+            28.35,
+            89.03,
+            269.3,
+            121.03
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The need to perform an audit is determined by the\nclient, taking account of specified or regulatory re-\nquirements and any other pertinent factors. Signif-\nicant changes in management, organization, policy,\ntechniques or technologies that could affect the qual-\nity system, or changes to the system itself and the\nresults of recent previous audits, are typical of the\ncircumstances to be considered when deciding audit\nfrequency. Within an organization, internal audits may\nbe organized on a regular basis for management or\nbusiness purposes.",
+          "bbox": [
+            297.64,
+            111.59,
+            538.61,
+            231.59
+          ],
+          "block_id": "b8_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 receives the audit report;",
+          "bbox": [
+            28.35,
+            133.03,
+            156.14,
+            143.03
+          ],
+          "block_id": "b8_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 determines what follow-up action, if any, is to be\ntaken, and informs the auditee of it.",
+          "bbox": [
+            28.35,
+            155.03,
+            269.27,
+            176.03
+          ],
+          "block_id": "b8_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.3 Auditee",
+          "bbox": [
+            28.35,
+            196.57,
+            97.82,
+            206.57
+          ],
+          "block_id": "b8_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The auditee's management should",
+          "bbox": [
+            28.35,
+            219.07,
+            183.96,
+            229.07
+          ],
+          "block_id": "b8_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 inform relevant employees about the objectives\nand scope of the audit;",
+          "bbox": [
+            28.35,
+            241.07,
+            269.28,
+            262.07
+          ],
+          "block_id": "b8_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1.3\nPreliminary review of auditee's quality\nsystem description",
+          "bbox": [
+            297.64,
+            264.24,
+            515.08,
+            285.24
+          ],
+          "block_id": "b8_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 appoint responsible members of staff to ac-\ncompany members of the audit team;",
+          "bbox": [
+            28.35,
+            274.07,
+            269.27,
+            295.07
+          ],
+          "block_id": "b8_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "As a basis for planning the audit, the auditor should\nreview for adequacy the auditee's recorded de-\nscription of the methods for meeting the quality sys-\ntem requirements (such as the quality manual or\nequivalent).",
+          "bbox": [
+            297.64,
+            297.82,
+            538.62,
+            351.82
+          ],
+          "block_id": "b8_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 provide all resources needed for the audit team in\norder to ensure an effective and efficient audit\nprocess;",
+          "bbox": [
+            28.35,
+            307.07,
+            269.26,
+            339.07
+          ],
+          "block_id": "b8_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 provide access to the facilities and evidential ma-\nterial as requested by the auditors;",
+          "bbox": [
+            28.35,
+            351.07,
+            269.3,
+            372.07
+          ],
+          "block_id": "b8_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If this review reveals that the system described by the\nauditee is not adequate to meet the requirements,\nfurther resources should not be expended on the au-\ndit until such concerns are resolved to the satisfaction\nof the client, the auditor and, where applicable, the\nauditee.",
+          "bbox": [
+            297.64,
+            361.65,
+            538.6,
+            426.65
+          ],
+          "block_id": "b8_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 cooperate with the auditors to permit the audit\nobjectives to be achieved;",
+          "bbox": [
+            28.35,
+            384.07,
+            269.31,
+            405.07
+          ],
+          "block_id": "b8_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 determine and initiate corrective actions based on\nthe audit report.",
+          "bbox": [
+            28.35,
+            417.07,
+            269.31,
+            438.07
+          ],
+          "block_id": "b8_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2\nPreparing the audit",
+          "bbox": [
+            297.64,
+            463.41,
+            426.0,
+            474.41
+          ],
+          "block_id": "b8_25",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5 Auditing",
+          "bbox": [
+            28.35,
+            468.57,
+            96.35,
+            480.57
+          ],
+          "block_id": "b8_12",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2.1 Audit plan",
+          "bbox": [
+            297.64,
+            495.86,
+            379.88,
+            505.86
+          ],
+          "block_id": "b8_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1\nInitiating the audit",
+          "bbox": [
+            28.35,
+            504.42,
+            153.04,
+            515.42
+          ],
+          "block_id": "b8_13",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The audit plan should be approved by the client and\ncommunicated to the auditors and auditee.",
+          "bbox": [
+            297.64,
+            518.44,
+            538.59,
+            539.44
+          ],
+          "block_id": "b8_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1.1 Audit scope",
+          "bbox": [
+            28.35,
+            535.74,
+            117.81,
+            545.74
+          ],
+          "block_id": "b8_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The audit plan should be designed to be flexible in\norder to permit changes in emphasis based on infor-\nmation gathered during the audit, and to permit ef-\nfective use of resources. The plan should include:",
+          "bbox": [
+            297.64,
+            549.27,
+            538.6,
+            592.27
+          ],
+          "block_id": "b8_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The client makes the final decisions on which quality\nsystem elements, physical locations and organiz-\national activities are to be audited within a specified\ntime frame. This should be done with the assistance\nof the lead auditor. If appropriate, the auditee should\nbe contacted when determining the scope of the au-\ndit.",
+          "bbox": [
+            28.35,
+            558.24,
+            269.3,
+            634.24
+          ],
+          "block_id": "b8_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the audit objectives and scope;",
+          "bbox": [
+            297.64,
+            604.27,
+            452.67,
+            614.27
+          ],
+          "block_id": "b8_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 identification of the individuals having significant\ndirect responsibilities regarding the objectives and\nscope;",
+          "bbox": [
+            297.64,
+            626.27,
+            538.57,
+            658.27
+          ],
+          "block_id": "b8_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The scope and depth of the audit should be designed\nto meet the client's specific information needs.",
+          "bbox": [
+            28.35,
+            643.99,
+            269.27,
+            664.99
+          ],
+          "block_id": "b8_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 identification of reference documents (such as the\napplicable quality system standard and the\nauditee's quality manual);",
+          "bbox": [
+            297.64,
+            670.27,
+            538.57,
+            702.27
+          ],
+          "block_id": "b8_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The standards or documents with which the auditee's\nquality system is required to comply should be speci-\nfied by the client.",
+          "bbox": [
+            28.35,
+            674.74,
+            269.27,
+            706.74
+          ],
+          "block_id": "b8_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 identification of audit team members;",
+          "bbox": [
+            297.64,
+            714.27,
+            481.54,
+            724.27
+          ],
+          "block_id": "b8_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sufficient objective evidence should be available to\ndemonstrate the operation and effectiveness of the\nauditee's quality system.",
+          "bbox": [
+            28.35,
+            716.49,
+            269.31,
+            748.49
+          ],
+          "block_id": "b8_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the language of the audit;",
+          "bbox": [
+            297.64,
+            736.27,
+            428.22,
+            746.27
+          ],
+          "block_id": "b8_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The resources committed to the audit should be suf-\nficient to meet its intended scope and depth.",
+          "bbox": [
+            28.35,
+            758.24,
+            269.29,
+            779.24
+          ],
+          "block_id": "b8_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the date and place where the audit is to be con-\nducted;",
+          "bbox": [
+            297.64,
+            758.27,
+            538.59,
+            779.27
+          ],
+          "block_id": "b8_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            28.35,
+            808.62,
+            33.91,
+            818.62
+          ],
+          "block_id": "b8_35",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            462.38,
+            34.72,
+            566.93,
+            45.72
+          ],
+          "block_id": "b9_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 identification of the organizational units to be\naudited;",
+          "bbox": [
+            56.69,
+            89.03,
+            297.62,
+            110.03
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3\nExecuting the audit",
+          "bbox": [
+            325.98,
+            89.24,
+            455.56,
+            100.24
+          ],
+          "block_id": "b9_17",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.1 Opening meeting",
+          "bbox": [
+            325.98,
+            115.68,
+            441.56,
+            125.68
+          ],
+          "block_id": "b9_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the expected time and duration for each major\naudit activity;",
+          "bbox": [
+            56.69,
+            122.03,
+            297.61,
+            143.03
+          ],
+          "block_id": "b9_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The purpose of an opening meeting is to",
+          "bbox": [
+            325.98,
+            137.86,
+            509.92,
+            147.86
+          ],
+          "block_id": "b9_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the schedule of meetings to be held with auditee\nmanagement;",
+          "bbox": [
+            56.69,
+            155.03,
+            297.63,
+            176.03
+          ],
+          "block_id": "b9_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 introduce the members of the audit team to the\nauditee's senior management;",
+          "bbox": [
+            325.98,
+            159.86,
+            566.95,
+            180.86
+          ],
+          "block_id": "b9_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 confidentiality requirements;",
+          "bbox": [
+            56.69,
+            188.03,
+            198.93,
+            198.03
+          ],
+          "block_id": "b9_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 review the scope and the objectives of the audit;",
+          "bbox": [
+            325.98,
+            192.86,
+            562.12,
+            202.86
+          ],
+          "block_id": "b9_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 audit report distribution and the expected date of\nissue.",
+          "bbox": [
+            56.69,
+            210.03,
+            297.66,
+            231.03
+          ],
+          "block_id": "b9_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 provide a short summary of the methods and pro-\ncedures to be used to conduct the audit;",
+          "bbox": [
+            325.98,
+            214.86,
+            566.89,
+            235.86
+          ],
+          "block_id": "b9_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If the auditee objects to any provisions in the audit\nplan, such objections should immediately be made\nknown to the lead auditor. They should be resolved\nbetween the lead auditor and the auditee and, if\nnecessary, the client before executing the audit.",
+          "bbox": [
+            56.69,
+            242.01,
+            297.66,
+            296.01
+          ],
+          "block_id": "b9_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 establish the official communication links between\nthe audit team and the auditee;",
+          "bbox": [
+            325.98,
+            247.86,
+            566.92,
+            268.86
+          ],
+          "block_id": "b9_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 confirm that the resources and facilities needed\nby the audit team are available;",
+          "bbox": [
+            325.98,
+            280.86,
+            566.92,
+            301.86
+          ],
+          "block_id": "b9_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Specific details of the audit plan should only be com-\nmunicated to the auditee throughout the audit if their\npremature disclosure does not compromise the col-\nlecting of objective evidence.",
+          "bbox": [
+            56.69,
+            306.99,
+            297.66,
+            349.99
+          ],
+          "block_id": "b9_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 confirm the time and date for the closing meeting\nand any interim meetings of the audit team and\nthe auditee's senior management;",
+          "bbox": [
+            325.98,
+            313.86,
+            566.93,
+            345.86
+          ],
+          "block_id": "b9_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 clarify any unclear details of the audit plan.",
+          "bbox": [
+            325.98,
+            357.86,
+            533.2,
+            367.86
+          ],
+          "block_id": "b9_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.2 Examination",
+          "bbox": [
+            325.98,
+            383.51,
+            418.23,
+            393.51
+          ],
+          "block_id": "b9_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2.2\nAudit team assignments",
+          "bbox": [
+            56.69,
+            399.92,
+            206.71,
+            409.92
+          ],
+          "block_id": "b9_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.2.1 Collecting evidence",
+          "bbox": [
+            325.98,
+            408.28,
+            459.92,
+            418.28
+          ],
+          "block_id": "b9_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Each auditor should be assigned specific quality sys-\ntem elements or functional departments to audit.\nSuch assignments should be made by the lead auditor\nin consultation with the auditors concerned.",
+          "bbox": [
+            56.69,
+            423.65,
+            297.84,
+            466.65
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Evidence should be collected through interviews, ex-\namination of documents, and observation of activities\nand conditions in the areas of concern. Clues sug-\ngesting nonconformities should be noted if they seem\nsignificant, even though not covered by check-lists,\nand should be investigated. Information gathered\nthrough interviews should be tested by acquiring the\nsame information from other independent sources,\nsuch as physical observation, measurements and\nrecords.",
+          "bbox": [
+            325.98,
+            430.46,
+            567.14,
+            539.46
+          ],
+          "block_id": "b9_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2.3 Working documents",
+          "bbox": [
+            56.69,
+            516.58,
+            186.15,
+            526.58
+          ],
+          "block_id": "b9_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The documents required to facilitate the auditor's in-\nvestigations, and to document and report results, may\ninclude:",
+          "bbox": [
+            56.69,
+            540.31,
+            297.66,
+            572.31
+          ],
+          "block_id": "b9_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "During the audit, the lead auditor may make changes\nto the auditors' work assignments, and to the audit\nplan with the client's approval and the auditee's\nagreement, if this is necessary to ensure the optimal\nachievement of the audit objectives.",
+          "bbox": [
+            325.98,
+            548.89,
+            566.95,
+            602.89
+          ],
+          "block_id": "b9_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 check-lists used for evaluating quality system el-\nements (normally prepared by the auditor assigned\nto audit that specific element);",
+          "bbox": [
+            56.69,
+            584.31,
+            297.8,
+            616.31
+          ],
+          "block_id": "b9_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If the audit objectives appear to become unattainable,\nthe lead auditor should report the reasons to the client\nand the auditee.",
+          "bbox": [
+            325.98,
+            612.32,
+            567.17,
+            644.32
+          ],
+          "block_id": "b9_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 forms for reporting audit observations;",
+          "bbox": [
+            56.69,
+            628.31,
+            244.48,
+            638.31
+          ],
+          "block_id": "b9_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 forms for documenting supporting evidence for\nconclusions reached by the auditors.",
+          "bbox": [
+            56.69,
+            650.31,
+            297.61,
+            671.31
+          ],
+          "block_id": "b9_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.2.2 Audit observations",
+          "bbox": [
+            325.98,
+            659.09,
+            457.68,
+            669.09
+          ],
+          "block_id": "b9_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "All audit observations should be documented. After\nall activities have been audited, the audit team should\nreview all of their observations to determine which\nare to be reported as nonconformities. The audit team\nshould then ensure that these are documented in a\nclear, concise manner and are supported by evidence.\nNonconformities should be identified in terms of the\nspecific requirements of the standard or other related\ndocuments against which the audit has been con-",
+          "bbox": [
+            325.98,
+            681.27,
+            566.95,
+            779.27
+          ],
+          "block_id": "b9_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Working documents should be designed so that they\ndo not restrict additional audit activities or investi-\ngations which may become necessary as a result of\ninformation gathered during the audit.",
+          "bbox": [
+            56.69,
+            682.29,
+            297.65,
+            725.29
+          ],
+          "block_id": "b9_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Working documents involving confidential or pro-\nprietary information shall be suitably safeguarded by\nthe auditing organization.",
+          "bbox": [
+            56.69,
+            736.27,
+            297.63,
+            768.27
+          ],
+          "block_id": "b9_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            561.37,
+            808.62,
+            566.93,
+            818.62
+          ],
+          "block_id": "b9_34",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            28.35,
+            34.72,
+            132.89,
+            45.72
+          ],
+          "block_id": "b10_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ducted. Observations should be reviewed by the lead\nauditor with the responsible auditee manager. All ob-\nservations of nonconformities should be acknowl-\nedged by the auditee management.",
+          "bbox": [
+            28.35,
+            89.03,
+            269.31,
+            132.03
+          ],
+          "block_id": "b10_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the system's ability to achieve defined quality ob-\njectives;",
+          "bbox": [
+            297.64,
+            89.03,
+            538.59,
+            110.03
+          ],
+          "block_id": "b10_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the audit report distribution list.",
+          "bbox": [
+            297.64,
+            122.03,
+            453.75,
+            132.03
+          ],
+          "block_id": "b10_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Any communication made between the time of the\nclosing meeting and the issue of the report should be\nby the lead auditor.",
+          "bbox": [
+            297.64,
+            141.28,
+            538.59,
+            173.28
+          ],
+          "block_id": "b10_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3.3\nClosing meeting with auditee",
+          "bbox": [
+            28.35,
+            145.03,
+            202.83,
+            155.03
+          ],
+          "block_id": "b10_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "At the end of the audit, prior to preparing the audit\nreport, the audit team should hold a meeting with the\nauditee's senior management and those responsible\nfor the functions concerned. The main purpose of this\nmeeting is to present audit observations to the senior\nmanagement in such a manner so as to ensure that\nthey clearly understand the results of the audit.",
+          "bbox": [
+            28.35,
+            167.03,
+            269.32,
+            243.03
+          ],
+          "block_id": "b10_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.3 Report distribution",
+          "bbox": [
+            297.64,
+            186.28,
+            421.0,
+            196.28
+          ],
+          "block_id": "b10_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The audit report should be sent to the client by the\nlead auditor. It is the client's responsibility to provide\nthe auditee's senior management with a copy of the\naudit report. Any additional distribution should be de-\ntermined in consultation with the auditee. Audit re-\nports containing confidential or proprietary information\nshall be suitably safeguarded by the auditing organiz-\nation and the client.",
+          "bbox": [
+            297.64,
+            208.28,
+            538.61,
+            295.28
+          ],
+          "block_id": "b10_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The lead auditor should present observations, taking\ninto account their perceived significance.",
+          "bbox": [
+            28.35,
+            252.28,
+            269.28,
+            273.28
+          ],
+          "block_id": "b10_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The lead auditor should present the audit team's\nconclusions regarding the quality system's effective-\nness in ensuring that quality objectives will be met.",
+          "bbox": [
+            28.35,
+            282.53,
+            269.29,
+            314.53
+          ],
+          "block_id": "b10_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The audit report should be issued as soon as possible.\nIf it cannot be issued within an agreed time period,\nthe reasons for the delay should be given to both the\nclient and the auditee and a revised issue date estab-\nlished.",
+          "bbox": [
+            297.64,
+            304.53,
+            538.83,
+            358.53
+          ],
+          "block_id": "b10_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Records of the closing meeting should be kept.",
+          "bbox": [
+            28.35,
+            323.78,
+            242.29,
+            333.78
+          ],
+          "block_id": "b10_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE 14\nIf requested, the auditor may also make rec-\nommendations to the auditee for improvements to the\nquality system. Recommendations are not binding on the\nauditee. It is up to the auditee to determine the extent, the\nway and means of actions to improve the quality system.",
+          "bbox": [
+            28.35,
+            345.57,
+            269.28,
+            394.56
+          ],
+          "block_id": "b10_7",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.4 Record retention",
+          "bbox": [
+            297.64,
+            371.53,
+            410.45,
+            381.53
+          ],
+          "block_id": "b10_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Audit documents should be retained by agreement\nbetween the client, the auditing organization and the\nauditee, and in accordance with any regulatory re-\nquirements.",
+          "bbox": [
+            297.64,
+            393.53,
+            538.61,
+            436.53
+          ],
+          "block_id": "b10_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4 Audit documents",
+          "bbox": [
+            28.35,
+            408.99,
+            145.68,
+            419.99
+          ],
+          "block_id": "b10_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.1\nAudit report preparation",
+          "bbox": [
+            28.35,
+            432.78,
+            178.38,
+            442.78
+          ],
+          "block_id": "b10_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The audit report is prepared under the direction of the\nlead auditor, who is responsible for its accuracy and\ncompleteness.",
+          "bbox": [
+            28.35,
+            454.78,
+            269.29,
+            486.78
+          ],
+          "block_id": "b10_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 Audit completion",
+          "bbox": [
+            297.64,
+            462.95,
+            416.3,
+            474.95
+          ],
+          "block_id": "b10_26",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The audit is completed upon submission of the audit\nreport to the client.",
+          "bbox": [
+            297.64,
+            486.53,
+            538.59,
+            507.53
+          ],
+          "block_id": "b10_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.2 Report content",
+          "bbox": [
+            28.35,
+            499.78,
+            132.82,
+            509.78
+          ],
+          "block_id": "b10_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The audit report should faithfully reflect both the tone\nand content of the audit. It should be dated and\nsigned by the lead auditor. It should contain the fol-\nlowing items, as applicable:",
+          "bbox": [
+            28.35,
+            521.78,
+            269.33,
+            564.78
+          ],
+          "block_id": "b10_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7\nCorrective action follow-up",
+          "bbox": [
+            297.64,
+            533.95,
+            472.99,
+            545.95
+          ],
+          "block_id": "b10_28",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The auditee is responsible for determining and initiat-\ning corrective action needed to correct a noncon-\nformity or to correct the cause of a nonconformity.\nThe auditor is only responsible for identifying the\nnonconformity.",
+          "bbox": [
+            297.64,
+            557.53,
+            538.61,
+            611.53
+          ],
+          "block_id": "b10_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the scope and objectives of the audit;",
+          "bbox": [
+            28.35,
+            576.78,
+            213.38,
+            586.78
+          ],
+          "block_id": "b10_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 details of the audit plan, the identification of audit\nteam members and auditee's representative, audit\ndates, and identification of the specific organiz-\nation audited;",
+          "bbox": [
+            28.35,
+            598.78,
+            269.31,
+            641.78
+          ],
+          "block_id": "b10_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Corrective action and subsequent follow-up audits\nshould be completed within a time period agreed to\nby the client and the auditee in consultation with the\nauditing organization.",
+          "bbox": [
+            297.64,
+            620.78,
+            538.61,
+            663.78
+          ],
+          "block_id": "b10_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 identification of the reference documents against\nwhich the audit was conducted (quality system\nstandard, auditee's quality manual, etc.);",
+          "bbox": [
+            28.35,
+            653.78,
+            269.29,
+            685.78
+          ],
+          "block_id": "b10_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE 15\nThe auditing organization should keep the client\ninformed of the status of corrective action activities and\nfollow-up audits. After verification of corrective action im-\nplementation, the auditing organization may prepare a\nfollow-up report and distribute it in a manner similar to the\noriginal audit report.",
+          "bbox": [
+            297.64,
+            675.57,
+            538.6,
+            734.56
+          ],
+          "block_id": "b10_31",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 observations of nonconformities;",
+          "bbox": [
+            28.35,
+            697.78,
+            190.6,
+            707.78
+          ],
+          "block_id": "b10_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 audit team's judgement of the extent of the\nauditee's compliance with the applicable quality\nsystem standard and related documentation;",
+          "bbox": [
+            28.35,
+            719.78,
+            269.29,
+            751.78
+          ],
+          "block_id": "b10_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            28.35,
+            808.61,
+            33.91,
+            818.61
+          ],
+          "block_id": "b10_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            462.38,
+            34.72,
+            566.93,
+            45.72
+          ],
+          "block_id": "b11_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Annex A\n(informative)",
+          "bbox": [
+            272.81,
+            120.88,
+            350.59,
+            150.88
+          ],
+          "block_id": "b11_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Bibliography",
+          "bbox": [
+            269.29,
+            167.87,
+            354.09,
+            181.87
+          ],
+          "block_id": "b11_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "[ 1 ]  ISO 9000:1987, Quality management and quality\nassurance standards \u2014 Guidelines for selection\nand use.",
+          "bbox": [
+            62.81,
+            201.91,
+            299.18,
+            235.03
+          ],
+          "block_id": "b11_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 3 ]  ISO 9002:1987, Quality systems \u2014 Model for\nquality assurance in production and installation.",
+          "bbox": [
+            332.1,
+            201.91,
+            568.47,
+            224.03
+          ],
+          "block_id": "b11_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 4 ]  ISO 9003:1987, Quality systems \u2014 Model for\nquality assurance in final inspection and test.",
+          "bbox": [
+            332.11,
+            234.91,
+            568.47,
+            257.03
+          ],
+          "block_id": "b11_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 2 ]  ISO 9001:1987, Quality systems \u2014 Model for\nquality assurance in design/development, pro-\nduction, installation and servicing.",
+          "bbox": [
+            62.81,
+            245.91,
+            299.18,
+            279.03
+          ],
+          "block_id": "b11_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 5 ]  ISO 9004:1987, Quality management and quality\nsystem elements \u2014 Guidelines.",
+          "bbox": [
+            332.1,
+            267.91,
+            568.37,
+            290.03
+          ],
+          "block_id": "b11_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            561.36,
+            808.61,
+            566.92,
+            818.61
+          ],
+          "block_id": "b11_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10011-1:1990(E)",
+          "bbox": [
+            28.35,
+            34.72,
+            132.89,
+            45.72
+          ],
+          "block_id": "b12_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ICS 658.56",
+          "bbox": [
+            28.35,
+            730.16,
+            88.38,
+            742.16
+          ],
+          "block_id": "b12_1",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Descriptors:   quality assurance,  quality assurance programme,  quality audit.",
+          "bbox": [
+            28.35,
+            752.22,
+            311.48,
+            760.22
+          ],
+          "block_id": "b12_2",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price based on 7 pages",
+          "bbox": [
+            28.35,
+            772.48,
+            112.81,
+            780.48
+          ],
+          "block_id": "b12_3",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "\u2014\u2014\n1so\nSRS \u2014",
+      "position": {
+        "x0": 229.61,
+        "y0": 721.25,
+        "x1": 296.44,
+        "y1": 783.42,
+        "width": 66.83,
+        "height": 62.16
+      },
+      "size": {
+        "width": 315,
+        "height": 293
+      },
+      "format": "png"
+    }
+  ]
+}

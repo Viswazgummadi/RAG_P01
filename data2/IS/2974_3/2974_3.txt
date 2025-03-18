@@ -1,0 +1,1673 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS 2974 ( Part 3 ) : 1992<<HEADING_END>>
+<<HEADING level=3>>( Reaffirmed 1995 )<<HEADING_END>>
+<<HEADING level=1>>hdian Standard
+DESIGN AND CONSTRUCTION OF MACHINE
+FOUNDATIONS -CODE OF PRACTICE<<HEADING_END>>
+<<HEADING level=3>>PART 3
+FOUNDATIONS
+FOR
+ROTARY
+TYPE
+MACHINES
+(MEDIUM
+AND
+HIGH
+FREQUENCY)<<HEADING_END>>
+<<HEADING level=3>>(  Second Revision )<<HEADING_END>>
+<<PARAGRAPH>>First Reprint NOVEMBER
+1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>UDC
+624’159’1  :  621’313-218’2<<PARAGRAPH_END>>
+<<PARAGRAPH>>0
+BIS 1992<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF
+INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG<<PARAGRAPH_END>>
+<<PARAGRAPH>>NEW
+DELHI
+110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>August
+1992
+Price Group
+4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Foundation
+Engineering
+Sectional
+Committee,
+CED 43<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian
+Standard
+was adopted
+by the Bureau
+of Indian
+Standards,
+after
+the
+draft
+finalized
+by
+the Foundation
+Engineering
+Sectional
+Committee
+had
+been
+approved
+by the
+Civil
+Engineering
+Division
+Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The installation
+of heavy rotary
+machines,
+namely.
+steam turbo-generators,
+turbo-compressors
+and
+blowers,
+involves
+design
+of their
+foundations
+taking
+into considerations
+the
+vibration
+characteristics
+of
+the
+foundarions
+system.
+While
+many
+of the
+special
+features
+relating
+to the
+design
+and
+construction
+of such machine
+foundations
+are guided
+by the manufacturers,
+slill a large
+part
+of the
+details
+shall
+have
+to be according
+to
+certain
+general
+principles
+of design
+covering
+machine
+foundations.
+This code of practice
+for design and construction
+of machine
+foundations
+( IS 2974 )
+is being published
+in parts.
+This part lays down the general
+principles
+for
+frame
+foundations
+for
+rotary
+machines
+of medium
+to high frequencies.
+The other parts of this code are:<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 2974 Code of practice
+for design and construction
+of machine
+foundatians:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part  1 :  1982 Foundations
+for reciprocating
+type machines<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 2  :  1980 Foundations
+for impact
+type machines
+( hammer
+foundations
+)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 4  :  1979 Foundations
+for rotary
+type machines
+of low frequency<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 5  :  1987 Foundations
+for impact
+type of machines
+other than
+hammers
+( forging
+and
+stamping
+press, pig breakers,
+drop crusher
+and jolter )<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the  design and construction
+of foundations
+for rotary
+machines,
+a proper
+coordinations
+between
+the different
+branches
+of engineering,
+including
+those
+dealing
+with
+erection
+and
+commissioning
+is
+essential.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Coordinated
+efforts by the different
+branches
+would result in satisfactory
+performance,
+convenience
+of operation,
+economy
+and a good general
+appearance
+of the complete
+unit.
+The
+main
+unit
+with
+all its auxiliaries
+and adjacent
+piping
+must be provided
+for, when making
+the foundation
+plans
+and
+al1 the details
+should
+be well worked out, before going ahead with the design.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard
+first published
+in the year 1967 and subsequently
+revised in 1975.
+This
+revision
+has
+been prepared,
+based on a numbers
+of comments
+received
+on
+this
+standard,
+keeping
+in
+view
+the
+current
+design practices
+followed
+in India and abroad.
+The sizes and capacities
+of turbo-generators
+have increased
+( up to 500 MW ) since the last revision
+of the code.
+There
+have been
+fundamental
+changes
+in the design philosophy
+of turbogenerator
+foundations,
+for example
+use of slender
+columns,
+long and flexible top decks, etc.
+With the advent
+of powerful
+computers
+and finite element
+analysis
+computer
+programmes
+the use of three-dimensional
+space
+frame
+models
+for static
+and
+dynamic
+analysis
+has become common
+in design offices.
+The code has been made
+more
+relevant
+to design
+office use.
+Aspects such as preliminary
+sizing
+of the
+foundations
+and
+loading
+combinations
+are
+expected
+to be useful to the less experienced
+designers.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For large sized foundations
+with complex
+structural
+arrangement,
+it has
+been
+observed
+that
+two-
+dimensional
+plane frame models are nof possible
+to use.
+For
+such
+foundations
+three-dimensional
+space frame model is recommended
+for analysis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose
+of deciding
+whether
+a particular
+require,ment
+of this standard
+is complied
+with, the
+final value,
+observed
+or calculated,
+expressing
+the result of a test, shall be rounded
+o!t in accordance
+with IS 2  :  1960 ‘Rules for rounding
+off numerical
+values
+(  revised )‘.
+The
+number
+of significant
+places retained
+in the rounded
+off value should
+be the same as that
+of the
+specified
+value
+in this
+standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=1>>IS2974(Part3)
+:  1992
+Indian Standard<<HEADING_END>>
+<<HEADING level=1>>DESIGNANDCONSTRUCTIONOF
+MACHINEFOUNDATIONS -CODEOFPRACTICE<<HEADING_END>>
+<<HEADING level=3>>PART 3
+FOUNDATIONS
+FOR ROTARY TYPE MACHINES
+(MEDIUM AND HIGH FREQUENCY)<<HEADING_END>>
+<<HEADING level=2>>( Second Revision )<<HEADING_END>>
+<<HEADING level=3>>3.6 Mode  of Vibration<<HEADING_END>>
+<<HEADING level=3>>1 SCOPE<<HEADING_END>>
+<<PARAGRAPH>>In a system undergoing
+vibration,
+a mode of vibration
+is a characteristic
+pattern
+assumed
+by the system
+in which
+the motion
+of every
+particle
+is simple
+harmonic
+with the same frequency.
+Two or more
+modes may exist concurrently
+in a multi-degree
+free-
+dom system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.1 This  code is primarily
+meant fordesigningframed
+type
+foundations
+for turbo-generators
+machinery.
+However,
+the provisions
+of this code may be used
+suitably for other machine foundations of similar types,
+for example, foundations
+of turbo-compressors,
+boiler
+feed pumps, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4 NOMENCLATURE
+OF FOUNDATION
+COMPONENTS<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2 The
+following
+classification
+shall
+apply
+to
+machines
+based on their operating
+speeds:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Medium frequency
+25 Hz <fi
+c 50 Hz
+High frequency
+3 50 hz<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.0 The following
+nomenclature
+shall apply to the
+components
+of the foundation
+in this
+code
+(set
+Fig. 1).<<PARAGRAPH_END>>
+<<HEADING level=3>>2  REFERENCES<<HEADING_END>>
+<<HEADING level=3>>4.1  Top Deck<<HEADING_END>>
+<<HEADING level=3>>2.1 The  Indian Standards listed in Annex Aare neces-
+sary adjuncts to this standard.<<HEADING_END>>
+<<HEADING level=3>>The  top portion of the machine foundation
+consisting
+of transverse
+and longitudinal
+beams.<<HEADING_END>>
+<<HEADING level=3>>3  TERMINOLOGY<<HEADING_END>>
+<<HEADING level=3>>4.2  Transverse
+Beams<<HEADING_END>>
+<<HEADING level=3>>3.0 The  common
+terminology
+used in structural
+dy-
+namics and machine foundation
+design is given below
+for reference.
+For a more comprehensive
+list of terms,
+refer to IS 2974 (Parts 1 and 2).<<HEADING_END>>
+<<HEADING level=3>>The  members
+that support the turbine-generator
+that
+are transverse
+to the axis of the machine.<<HEADING_END>>
+<<HEADING level=3>>4.3  Longitudinal
+Beams<<HEADING_END>>
+<<HEADING level=3>>3.1  Natural Frequency<<HEADING_END>>
+<<HEADING level=3>>The  members
+that support the turbine-generator
+that
+are parallel to the axis of the machine.<<HEADING_END>>
+<<HEADING level=3>>The  dynamic
+property of an elastic body or system by
+which it oscillates
+repeatedly
+from a fixed reference
+point when the external
+force is removed.<<HEADING_END>>
+<<HEADING level=3>>4.4  Columns<<HEADING_END>>
+<<HEADING level=3>>The  vertical members
+that support the top deck.<<HEADING_END>>
+<<HEADING level=3>>3.2  Free Vibration<<HEADING_END>>
+<<HEADING level=3>>4.5 Base  Mat<<HEADING_END>>
+<<PARAGRAPH>>Vibration
+process of a system excited initially,
+which
+may be in the form of initial displacement
+or velocity,
+but no more time-varying
+force acting on it.<<PARAGRAPH_END>>
+<<HEADING level=3>>The  part of the foundation
+which supports the columns
+and rests on soil/piles.<<HEADING_END>>
+<<PARAGRAPH>>4.6 Foundation<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3 Forced Vibration<<HEADING_END>>
+<<PARAGRAPH>>The entire structure,
+including
+the deck, columns
+and
+mat.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vibration
+process
+of a system
+which is caused by
+external
+time-varying
+loads acting on it.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4  Damping<<HEADING_END>>
+<<PARAGRAPH>>5 ISOLATION
+FROM ADJOINING
+STRUCTURES<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dampingis
+dissipationofenergy
+ina vibratingsystem.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The foundation
+structure
+shall be isolated
+from the
+main building
+and also from other structures
+in the
+plant. An air gap shall be provided between the foun-
+dation and adjoining
+structures
+at all levels above the
+base mat to avoid the transfer
+of vibrations
+to the
+adjoining
+structures.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5  Resonance<<HEADING_END>>
+<<PARAGRAPH>>Resonance
+of a system in forced vibration
+is a condi-
+tion whenany
+change, howeversmall,
+in the frequency
+of excitation
+causes a decrease in the response of the
+system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS2974(Part3)
+:1992<<HEADING_END>>
+<<HEADING level=3>>8 SIZING
+OF THE FOUNDATION<<HEADING_END>>
+<<HEADING level=3>>6 NECESSARY
+DATA<<HEADING_END>>
+<<HEADING level=3>>8.1 The  preliminary
+sizing of the various elements
+of
+the TG foundation
+are to be done
+to arrive
+at a
+foundation configuration
+which will need least changes
+after detailed analysis
+and design.<<HEADING_END>>
+<<HEADING level=3>>6.1 Machine Data<<HEADING_END>>
+<<HEADING level=3>>The  following
+data shall be made available
+to the
+designer
+by the machine manufacturer
+(see Fig. 2):<<HEADING_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Loading diagram of the machine showing the
+location,
+magnitude
+and direction of all loads
+including
+dynamic
+loads;<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is convenient
+and preferable
+to provide
+the same
+soffit level for all the girders from the point of view of
+design and detailing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Speed of the machine;<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2
+The geometric layout ofthe fou’ftdation, the shape
+of the girder
+cross sections
+and columns
+shall be
+arranged,
+as fast as possible,
+symmetrically
+with
+respect to the vertical plane passing through the longi-
+tudinal axis of the machine.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Critical speeds of the machine;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Outline dimensions
+of the foundation;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mass moment of inertia of the machine com-
+ponents;<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3  Sizing of the Top Deck<<HEADING_END>>
+<<HEADING level=3>>The  proportioning
+of the deck is basically
+governed
+by the machine
+manufacturer’s
+drawing
+giving
+the
+sole plate locations and opening details for the various
+parts of the machine.<<HEADING_END>>
+<<HEADING level=3>>f-l
+s)<<HEADING_END>>
+<<PARAGRAPH>>Details of inserts and embedments;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Layout of piping, ducting, etc, and their sup-
+porting details;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Temperatures
+in various
+zones during op-
+eration;
+and<<PARAGRAPH_END>>
+<<HEADING level=3>>While fixing the depth of the girders the following
+guidelines
+may generally
+be  used:<<HEADING_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PARAGRAPH>>Allowable
+displacements
+at the machine bear-
+ing points during normal operation.<<PARAGRAPH_END>>
+<<HEADING level=3>>Girders Supporting the Turbine:<<HEADING_END>>
+<<PARAGRAPH>>Clear span-to-depth
+ratio
+= ranging
+from 2 to 3<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2  Geotechnical
+Data<<HEADING_END>>
+<<PARAGRAPH>>Depth to width ratio
+= ranging
+from 1 to 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>Investigation
+of the site where the foundation
+is to
+be located
+shall be. done to evaluate
+the following
+parameters:<<PARAGRAPH_END>>
+<<HEADING level=3>>Girders Supporting the Generator:<<HEADING_END>>
+<<PARAGRAPH>>Clear span-to-depth
+ratio
+= ranging from 2.5 to 3.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>Depth to width ratio
+= ranging
+from 1 to 1.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Allowable
+bearing pressure/pile
+capacities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) In-site
+dynamic
+soil
+properties
+as per
+IS 5249  :  1992.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4  Sizing of Columns<<HEADING_END>>
+<<HEADING level=3>>The  following guidelines
+may be followed for column
+sizing:<<HEADING_END>>
+<<HEADING level=3>>7  LOADING
+ON THE FOUNDATION<<HEADING_END>>
+<<PARAGRAPH>>As far as possible pairs of columns
+should be
+provided under each transverse
+girder;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<HEADING level=2>>The
+following
+loads
+shall
+be considered
+for the
+foundation
+design (see Annex B):
+a>
+Dead loads which include the self weight of
+the foundation
+and dead weight of the ma-
+chine;<<HEADING_END>>
+<<PARAGRAPH>>Compressive
+stresses
+and elastic
+shortening
+should be kept uniform
+in all the columns
+as
+far as possible;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The first two natural
+frequencies
+of column
+with its top and bottom
+ends fixed shall be
+away from the operating
+frequency
+of the
+turbo-generator
+by at least 20 percent.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Operation
+loads
+supplied
+by the machine
+manufacturer
+which include
+friction
+forces,
+power
+torque,
+thermal
+elongation
+forces,
+vacuum
+in
+the
+condenser,
+piping
+forces,
+etc;<<PARAGRAPH_END>>
+<<HEADING level=3>>8.5  Sizing of Base Mat<<HEADING_END>>
+<<HEADING level=3>>4
+4<<HEADING_END>>
+<<PARAGRAPH>>Unbalance
+forces during normal operation;<<PARAGRAPH_END>>
+<<HEADING level=3>>The  base,mat shall be sufficiently
+rigid to preserve the
+shaft alignment.
+Following
+are some guidelines
+forthe
+base mat sizing:<<HEADING_END>>
+<<PARAGRAPH>>Temperature
+forces caused by uniform
+tem-
+perature change and gradient temperature;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) The mass of the machine
+plus top deck,<<PARAGRAPH_END>>
+<<HEADING level=3>>e)
+fl<<HEADING_END>>
+<<PARAGRAPH>>Short circuit breaker;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) The ratio of the bending
+stiffness
+of the base
+raft and largest
+columns
+in the transverse
+direction
+should be at least two, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>Loss of blade unbalance
+forces/bearing
+failure
+load;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)  Seismic forces; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) The thickness
+of the base raft should not be
+less than 0’07 L4’j in which L is the average of<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)  Erection
+loads.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>IS2974(Part3)
+:1992<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>the two adjacent
+clear spans. This is appli-
+cable to rafts supported
+directly on soil. This
+shall not be used for piled foundations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Untracked
+sections may be used for calculat-
+ing moments
+of inertia of the members.
+The
+rotational
+inertia may be disregarded.
+Shear
+rigidity shall be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.5.1
+The guidelines
+given in 8.5 shall be used for the
+initial
+sizing
+of the raft. The final raft thickness,
+however, would depend on the design forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Young’s
+modulus
+shall be co
+IS 456  :  1978. (E = 5 700
+ck) for static
+?Ip
+uted as per<<PARAGRAPH_END>>
+<<PARAGRAPH>>analysis.
+For dynamic
+analysis
+the following
+range of elastic modulus
+may be used:<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.6 As far as possible,
+the foundation
+shall be so
+dimensioned
+that the resultant force due to the weight
+of the machine,
+the deck, intermediate
+slabs (if any)
+and the base mat together
+with the weight of the
+columns
+passes through the centre of gravity of the
+base area in contact with the base mat. In cases, where
+small
+eccentricities
+are unavoidable,
+an eccentricity
+of up to 3 percent of the base dimension
+along which
+the centre of gravity gets displaced
+may be allowed.<<PARAGRAPH_END>>
+<<HEADING level=3>>Grade of
+Dynamic  Elastic  h4adulus
+Concrete
+Nbd<<HEADING_END>>
+<<PARAGRAPH>>M20
+25590
+-
+30000<<PARAGRAPH_END>>
+<<PARAGRAPH>>M25
+28500
+-
+34000<<PARAGRAPH_END>>
+<<PARAGRAPH>>M 30
+31200
+-
+37000<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Damping shall be assumed to be 2 percent of
+critical damping under normal operating loads.
+A higher damping
+of 5 percent may be used
+under emergency loads like blade failure, short-
+circuit, bearing
+failure, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9 STRUCTURAL
+ANALYSIS<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.1 Modelling<<PARAGRAPH_END>>
+<<PARAGRAPH>>The analysis
+shall be done using a simulated
+mathe-
+matical model of linear-elastic
+properties.
+For turbo-
+generator foundations
+of more than 100 MW capacity,
+a three-dimensional
+space frame model
+is recom-
+mended.
+The modelling
+should take into account the
+basic characteristics
+of the system, that is, mass, stiff-
+ness
+and
+damping.
+Special
+attention
+is required
+while idealing
+the points
+of excitation.
+The model
+should
+simulate
+the vibration
+characteristics
+of the
+machine
+foundation
+system to a sufficient
+degree of
+accuracy
+(see Fig. 3).<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.2 Free Vibration
+Analysis<<PARAGRAPH_END>>
+<<PARAGRAPH>>Free vibration analysis shall be carried out to calculate
+the natural frequenciesand
+modeshapesofthe
+founda-
+tion. The highest natural frequency
+calculated
+should
+be at least 10 percent higher than the operating
+fre-
+quencyofthe
+machine. Damping may be neglected
+for
+the purpose of free vibration
+analysis.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2.1
+Frequency Criteria<<HEADING_END>>
+<<HEADING level=3>>The  following
+frequency
+criteria shall be checked:<<HEADING_END>>
+<<PARAGRAPH>>For smaller foundations
+(for example,
+turbo-genera-
+tor foundations
+of less than 100 MW capacity) with
+a regular framing
+arrangement,
+plane frame models
+may
+be used
+in the transverse
+and
+longitudinal
+direction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The fundamental
+natural
+frequency
+shall be at
+least 20perccnt
+away from the machine operating
+speed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>that is, fi < 0.8 fm<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.1.1 The following
+points shall be considered
+while
+constructing
+the model for dynamic
+analysis:<<PARAGRAPH_END>>
+<<PARAGRAPH>>or<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The foundation
+shall be modelled as a three-
+dimensional
+space frame in which the col-
+umns and beams are idealised
+as 3-D beam
+elements
+with six degrees of freedom at each
+node.
+Slabs and walls,
+if present,
+may be
+modelled
+using thin shell (plate bending)
+ele-
+ments. The columns
+shall be assumed
+to be
+fixed at the base, disregarding
+the base mat.<<PARAGRAPH_END>>
+<<HEADING level=3>>fi >  1.2fin<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>fn
+= fundamental
+natural frequency
+of the
+foundation,
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>fm = operating
+speed of the machine.<<PARAGRAPH_END>>
+<<PARAGRAPH>>However, it is preferable
+to maintain
+a frequency
+separation
+of 50 percent.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nodes shall be specified to all bearing points,
+beam-columnjunctions,
+mid-points
+and quar-
+ter points ofbeams
+and columns and wherever
+the member cross-sections change significantly.
+Generally,
+the number of modes specified on
+any member should be sufficient
+to calculate
+all the modes having frequencies
+less than or
+equal to the operating
+speed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.3
+Forced
+Vibration
+Analysis<<PARAGRAPH_END>>
+<<PARAGRAPH>>Forced vibration
+analysis
+shall be performed
+at the
+operating  speed  and also at irequencies
+corresponding
+to certain selected modes for transient
+resonance.
+The
+calculated
+displacement
+shall be checked against the
+specified criteria.<<PARAGRAPH_END>>
+<<PARAGRAPH>>cl<<PARAGRAPH_END>>
+<<PARAGRAPH>>Lumped-mass
+approachshall
+be used forcom-
+puting modal masses of the foundation.
+The
+machine
+shall be modelled
+to lump its mass
+together with the mass of the foundation.
+The
+stiffness and damping of the shaft and casing
+shall generally
+be disregarded.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3.1  Forcing Function<<HEADING_END>>
+<<PARAGRAPH>>Generally,
+the unbalance
+forces are furnished
+by the
+machine manufacturer
+at each bearing location
+under
+different operating
+conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS2974(Part3)
+:1992<<HEADING_END>>
+<<HEADING level=3>>11 BASE MAT ANALYSIS<<HEADING_END>>
+<<HEADING level=3>>A  sinusoidal
+forcing function of the form<<HEADING_END>>
+<<HEADING level=3>>The base  mat may generally
+be modelled
+with plate
+bending elements or as a grillage of beams. The soil or
+piles beneath the base raft shall be idealised
+as spring
+elements.<<HEADING_END>>
+<<PARAGRAPH>>F(t) =  F,  sin (tot  t $)<<PARAGRAPH_END>>
+<<PARAGRAPH>>shall be used for analysis.
+In the absence of data from
+the manufacturer
+the unbalance
+forces may be derived
+from the balance
+quality
+grade of the machine
+(see
+Annex C).<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1 The  bearing pressure on soil or the load on the
+heaviest
+loaded
+pile shall not exceed 80 percent of
+the net allowable
+bearing
+pressure
+or the safe load
+capacity of piles respectively.<<HEADING_END>>
+<<HEADING level=3>>9.4  Seismic Analysis<<HEADING_END>>
+<<PARAGRAPH>>Response spectrum analysis shall be carried out as per
+IS 1893  :  1984. At least the first five modes shall be
+considered
+for mode superposition.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12 DESIGN<<PARAGRAPH_END>>
+<<HEADING level=3>>12.1  Working  stress  method as per IS 456  :  1978 shall
+be used.<<HEADING_END>>
+<<HEADING level=3>>9.5  Static Analysis<<HEADING_END>>
+<<PARAGRAPH>>A detailed
+static analysis
+of the foundation
+shall be
+performed
+to ensure that the foundation
+carries all the
+loads safely. The same model which has been used for
+dynamic
+analysis
+may be used for static analysis.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2  Increase in Permissible
+Stresses<<HEADING_END>>
+<<PARAGRAPH>>Where stresses due to either earthquake,
+short-circuit
+or loss of blade unbalance
+forces/bearing
+failure loads
+are combined
+with those due to dead and permanent
+load, the permissible
+stresses as specified
+in  IS  456  :
+1978  may be increased
+by 25 percent.<<PARAGRAPH_END>>
+<<HEADING level=2>>9.5.1
+Load Cases
+a>
+b)
+cl
+d)<<HEADING_END>>
+<<PARAGRAPH>>Dead loads (DL)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Operating
+loads (OL)<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3
+Fatique Factor<<HEADING_END>>
+<<PARAGRAPH>>Normal machine unbalance
+load (NUL)<<PARAGRAPH_END>>
+<<PARAGRAPH>>A fatique factor of 2 shall be used for the dynamic
+forces caused by normal unbalance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Temperature
+loads in the foundation
+(I’LF)<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) Uniform
+temperature
+change<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4  Grade of Concrete<<HEADING_END>>
+<<PARAGRAPH>>2) Temperature
+gradients
+across members<<PARAGRAPH_END>>
+<<HEADING level=3>>The  following
+grades of concrete shall be used:<<HEADING_END>>
+<<PARAGRAPH>>Short circuit forces (SCF)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top deck
+:  M 20 or higher grade<<PARAGRAPH_END>>
+<<PARAGRAPH>>Loss of blade unbalance
+(LBL) or bearing
+failure load (BFL)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Columns
+:  M 20 or higher grade<<PARAGRAPH_END>>
+<<PARAGRAPH>>Seismic loads (SL)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Base mat
+:  M 20 or higher grade<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.5.2
+Loads Combinations<<PARAGRAPH_END>>
+<<PARAGRAPH>>For turbo-generator
+foundations
+of capacities
+higher
+than 100 MW, the minimum
+grade of concrete for the
+end columns shall be M 25.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Operating
+condition<<PARAGRAPH_END>>
+<<PARAGRAPH>>DLtOL+NUL+TLF<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.5 Reinforcement
+Steel<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Short circuit condition<<PARAGRAPH_END>>
+<<PARAGRAPH>>125.1
+Mild steel bars conforming
+to IS 432 (Parts 1
+and 2)  :  1982 or high yield strength
+deformed
+bars
+conforming
+to IS 1786  :  1985 may be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>DLtOL+NULtTLFtSCF<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Loss
+of
+blade
+condition/Bearing
+failure
+condition<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.5.2 Minimum
+dia of reinforcement
+bars used as
+main reinforcement
+shall be 12 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>DL + OL + TLF t LBL/BFL<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Seismic condition<<PARAGRAPH_END>>
+<<PARAGRAPH>>125.3
+Minimum Reinforcement<<PARAGRAPH_END>>
+<<PARAGRAPH>>DL+OL+NUL+TLFtEQL<<PARAGRAPH_END>>
+<<PARAGRAPH>>Beams of top deck<<PARAGRAPH_END>>
+<<HEADING level=3>>10  SOIL-STRUCTURE
+INTERACTION<<HEADING_END>>
+<<PARAGRAPH>>Top and bottom
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.25 percent (each) of gross sec-
+tional area<<PARAGRAPH_END>>
+<<PARAGRAPH>>The effects of soil-structure
+interaction
+on the dy-
+namic response of the TG foundation
+may be ignored
+under steady state dynamic
+loading.
+However,
+if the
+TG foundation
+is located in zones of high seismicily,
+soil-structure
+interaction
+shall be considered
+for seis-
+mic analysis.
+No soil-structure
+interaction
+need be
+considered
+for static analysis .and it is sufficient
+to
+model the foundation
+fixed at the base raft level.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sides<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.1 percent gross sectional area on
+tach side<<PARAGRAPH_END>>
+<<PARAGRAPH>>Columns<<PARAGRAPH_END>>
+<<PARAGRAPH>>Longitudinal
+:
+reinforcement<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.8 percent of gross sectional
+area<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS2974(Part3)
+:1992<<HEADING_END>>
+<<HEADING level=3>>12.7  Reinforcement
+Detailing<<HEADING_END>>
+<<HEADING level=3>>Base  mat<<HEADING_END>>
+<<PARAGRAPH>>0.12 percent (each) of gross sec-
+tional area in each direction<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top and bottom
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Care should betaken while detailing to facilitate ease
+of concreting. The clear spacing between bars should
+be at least 5 mm more than the sum of aggregate size
+and the largest bar diameter used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shrinkage reinforcement of 0.06
+percent ineach direction if the raft
+thickness is more than two metres<<PARAGRAPH_END>>
+<<PARAGRAPH>>Intermediate
+:
+layer<<PARAGRAPH_END>>
+<<HEADING level=3>>12.8  Construction
+Joints<<HEADING_END>>
+<<PARAGRAPH>>12.5.4 The maximum spacing of the reinforcement
+bars shall not exceed 300 mm and the minimum
+spacing shall not be less than 150 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>128.1 The base  mat shall be cast in a single uninter-
+rupted operation.
+Properly
+designed construction
+joints shall be provided between the base mat and
+columns and between columns and the top deck.
+Construction joint may also be provided approxi-
+mately at the mid-height of columns if the length of the
+column exceeds 8 me&es.<<PARAGRAPH_END>>
+<<PARAGRAPH>>125.5
+Splices in the reinforcement bars shall be stag-
+gered and shall be given in the compression zone as far
+as possible.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.6 Concrete  Cover<<HEADING_END>>
+<<PARAGRAPH>>128.2 The top deck shall be cast in a single uninter-
+rupted operation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Minimum clear cover to reinforcement shall be 5Omm
+fortopdeckandcolumnsand
+100mmforthebasemat.<<PARAGRAPH_END>>
+<<PARAGRAPH>>-COLUMNS<<PARAGRAPH_END>>
+<<PARAGRAPH>>EASE MAT<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG.  1 TYPICAL  FRAMED FOUNLIA-IION FOR A ~IIRESO-GENERATOR<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS2974( Part3)
+:  1992<<HEADING_END>>
+<<HEADING level=3>>D<3
+-
+LOAD
+POINT<<HEADING_END>>
+<<HEADING level=3>>FIG.  2 ‘~PKAL  LOADING DIAGRAM<<HEADING_END>>
+<<PARAGRAPH>>I<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG.  3  SPACE FRAME MODEL OF IHE FOUNDATION
+SHOWN IN FIG. 1<<HEADING_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>IS2974(Part3)
+:1992<<PARAGRAPH_END>>
+<<HEADING level=3>>ANNEX A
+(Chse2.1)<<HEADING_END>>
+<<PARAGRAPH>>LIST OF REFERRED
+INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Title<<PARAGRAPH_END>>
+<<PARAGRAPH>>Title<<PARAGRAPH_END>>
+<<HEADING level=3>>IS  No.<<HEADING_END>>
+<<HEADING level=3>>IS  No.<<HEADING_END>>
+<<PARAGRAPH>>concrete
+reinforcement
+(  third
+revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specification
+for mild steel and
+medium
+tensile
+steel bats and
+hard-drawn
+steel
+wire
+for
+concrete
+reinforcement:
+Part 1
+Mild steel and medium tensile steel
+bars (  third revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>432
+(Part 1)  :  1982<<PARAGRAPH_END>>
+<<PARAGRAPH>>Criteria
+for earthquake
+resistant
+design
+of
+structures
+(fourth
+revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>1893  :  1984<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specification
+for mild steel and
+medium tensile steel bars and hard-
+drawn
+steel
+wire
+for concrete
+reinforcement
+:  Part 2 Hard-drawn
+steel wire (  third revision)<<PARAGRAPH_END>>
+<<PARAGRAPH>>432
+(Part 2)  :  1982<<PARAGRAPH_END>>
+<<PARAGRAPH>>2974
+(Part 1)  :  1982<<PARAGRAPH_END>>
+<<PARAGRAPH>>Code
+of
+practice
+for design
+and
+construction
+of
+machine
+foundations:
+Part 1 Foundations
+for reciprocating
+type machine
+( second  revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Code of practice
+for plain
+and
+reinforced
+concrete
+( second
+revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>456  :  1978<<PARAGRAPH_END>>
+<<PARAGRAPH>>Code of practice
+for design and
+construction
+of
+machine
+foundations:
+Part 2 Foundations
+for impact type machine ( hammer
+foundations
+)  (first revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>2974
+(Part 2)  :  1980<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specification
+for high
+strength
+deformed steel bars and wires for<<PARAGRAPH_END>>
+<<PARAGRAPH>>1786  :  1985<<PARAGRAPH_END>>
+<<HEADING level=3>>ANNEX B<<HEADING_END>>
+<<HEADING level=3>>(Clause 7)<<HEADING_END>>
+<<PARAGRAPH>>ABNORMAL
+LOADING<<PARAGRAPH_END>>
+<<PARAGRAPH>>M(t) = Ae -vo.4 sin cot - Be +m4 sin 2mt + Ce MJJ~<<PARAGRAPH_END>>
+<<PARAGRAPH>>B-l
+LOSS OF BLADE
+UNBALANCE<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+turbine
+rotor
+is balanced
+dynamically
+to
+enable
+smooth
+operation
+of the machine.
+An emer-
+gency condition
+can occur when one or more turbine
+blades
+break loose from the rotor, which would im-
+pose a large dynamic
+force on the foundation
+at the
+bearing
+locations.
+The forces corresponding
+to a
+massing
+last-row
+blade for each turbine
+section are
+supplied
+by the machine
+manufacturer
+in the form
+of
+unbalance
+forces
+or
+equivalent
+static forces.
+Since the turbo-generator
+is tripped in such a condition
+these forces occur for a short time required
+for the
+coasting
+down time of the machine.
+It is sufficient
+to
+check the foundation
+for strength under these forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>w
+=
+angular frequency
+of the mains.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A, B, C
+=
+coefficients
+specific to generator
+design.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The forcing
+function
+is generally
+supplied
+by the
+Machine
+Manufacturer.
+It is advisable
+to perform a
+dynamic analysis of the foundation.
+Sometimes,
+only
+the equivalent
+static force is supplied which assumes
+an infinitely
+rigid foundation
+and can make the foun-
+dation  design  highly conservative.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the absence of vendor supplied data, the following
+information
+may be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the short circuit equation,
+the coefficient
+A, B, and
+C may be assumed as:<<PARAGRAPH_END>>
+<<PARAGRAPH>>B-2 SHORT
+CIRCUIT
+FORCE<<PARAGRAPH_END>>
+<<PARAGRAPH>>When
+a line-to-line
+or line-to-ground
+short circuit
+occurs at the generator
+terminal,
+it imposes
+a huge
+torque on the TG foundation.
+The short-circuit
+mo-
+ment has the form (see Fig. 4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+=
+10 times normal power torque
+B
+=  5 times normal power torque
+c
+=
+normal power torque<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS2974(
+Part3)
+: 1992<<HEADING_END>>
+<<HEADING level=2>>ii  z
+!ip<<HEADING_END>>
+<<HEADING level=3>>is
+-
+50 Hr. OSCILLATING<<HEADING_END>>
+<<HEADING level=3>>h
+-100th
+OSCILLATING<<HEADING_END>>
+<<HEADING level=3>>rLg
+-----
+UNIF’OLAR TOROUE<<HEADING_END>>
+<<HEADING level=3>>a+-
+a1<<HEADING_END>>
+<<HEADING level=3>>&  4a  I
+TIME(SEC) -<<HEADING_END>>
+<<HEADING level=3>>FIG. 4
+SHORT-CIRCUIT
+MOMENT  DIACJRAM<<HEADING_END>>
+<<HEADING level=3>>ANNEX C
+(Clause 9.3.1)<<HEADING_END>>
+<<HEADING level=3>>NORMAL
+UNBALANCE
+FORCE ON TURBO-GENERATOR
+FOUNDATION<<HEADING_END>>
+<<HEADING level=3>>e
+=
+eccentricity
+of rotating mass in mm, and
+0
+=
+operating
+speed of the machine
+in rad/
+sec.<<HEADING_END>>
+<<PARAGRAPH>>The unbalance
+forces caused by the machine during
+tbe normal
+operating
+condition
+are supplied
+by the
+machine
+manufacturer.
+However,
+in the absence
+of
+such information,
+the following
+method may be used
+to calculate
+the unbalance
+forces.<<PARAGRAPH_END>>
+<<HEADING level=3>>Example :<<HEADING_END>>
+<<HEADING level=3>>G
+=
+6.3  mm/set
+0
+=
+3 000  ‘pm or 314.16 rad/sec<<HEADING_END>>
+<<PARAGRAPH>>Turbo-generator
+and other similar machines are clas-
+sified undertbe
+balance quality grade of G2.5. Consid-
+ering one grade higher for the foundation
+design, that
+is, G6.3, the eccentricity
+of the rotor mass can be
+obtained
+from<<PARAGRAPH_END>>
+<<PARAGRAPH>>consequently,<<PARAGRAPH_END>>
+<<PARAGRAPH>>e
+=
+0.02 mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>unbalance
+force = meor sin ot<<PARAGRAPH_END>>
+<<PARAGRAPH>>G
+=
+eo<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>nr
+=
+mass of the rotor<<PARAGRAPH_END>>
+<<PARAGRAPH>>G
+=
+balance quality grade in mm/set,<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>Standard Mark<<HEADING_END>>
+<<PARAGRAPH>>The use of the Standard
+Mark is governed by the provisions
+of the
+Bureau
+of Indian
+Standards
+Act, 1986  and the Rules and Regulations
+made thereunder.
+The Standard
+Mark on
+products covered by an IndianStandard
+conveys the assurance that they have been produced
+to comply with the requirements
+of that standard under a well defined system of inspection,
+testing and quality control which is devised and supervised by BIS and operated
+by the pro-
+ducer.
+Standard marked products are also continuously
+checked by BIS for conformity
+to
+that standard as a further safeguard.
+Details of conditions
+under which a licence for the use
+of the Standard Mark may be granted to manufacturers
+or producers
+may be obtained from
+the Bureau of Indian Standards.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote harmonious
+development of the activities of standardization, marking and quality certification of goods and attending to
+connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without
+the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the
+standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to
+copyright be addressed to the Director (Publication), BIS<<PARAGRAPH_END>>
+<<HEADING level=3>>Revision of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of
+‘BIS Handbook’ and ‘Standards Monthly Additions’. Comments on this Indian Standard may be sent to BIS
+giving the following reference:<<PARAGRAPH_END>>
+<<PARAGRAPH>>DOG : No, CED 43 (4898)<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments Issued  Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>Amend No.<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU OF INDIAN STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002
+Telephones  :  33101 31,331 13 75<<PARAGRAPH_END>>
+<<PARAGRAPH>>Telegrams  :  Manaksanstha
+Common
+to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices  :<<PARAGRAPH_END>>
+<<PARAGRAPH>>331 01 31
+331 13 75<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI 110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+37 84 99, 37 85 61
+37 86 26, 37 86 62<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>l/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola
+CALCUTTA 700054<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+53 38 43, 53 16 40
+53 23 84<<PARAGRAPH_END>>
+<<PARAGRAPH>>SC0 445-446, Sector 35-C, CHANDIGARH 160036<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>C.I.T. Campus, IV Cross Road, MADRAS 600113
+f
+35 02 16, 235 04 42
+235 15 19, 235 23 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manakalaya, E9 MIDC, Marol, Andheri (East)
+1
+632 92 95, 632 78 58
+BOMBAY 400093
+6327891,
+6327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>AHMADABAD. BANGALORE. BHOPAL. BHUBANESWAR. COIMBATORE. FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD. JAIPUR. KANPUR. LUCKNOW.
+PATNA.
+THIRUVANANTHAPURAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branch
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Printed at Dee Kay Printers, New Delhi-110015,
+India<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 12
+<<SECTION_END>>
+<<DOCUMENT_END>>

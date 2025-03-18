@@ -1,0 +1,1291 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-7<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 7:
+Digital radiographic testing of the weld
+seam of welded steel tubes for
+the detection of imperfections<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 7: Contrôle radiographique numérique du cordon de soudure
+des tubes en acier soudés pour la détection des imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-7:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`--<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                                    |
+| Copyright International Organization for Standardization `-`-         |
+|:----------------------------------------------------------------------|
+| Provided by IHS under license with ISO `,,                            |
+| No reproduction or networking permitted without license from IHS `,,` |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>Introduction.........................................................................................................................................................v<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>5
+Equipment ..............................................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>6
+Test method ...........................................................................................................................................3<<HEADING_END>>
+<<HEADING level=3>>7
+Image quality..........................................................................................................................................5<<HEADING_END>>
+<<HEADING level=3>>8
+Image processing................................................................................................................................10<<HEADING_END>>
+<<HEADING level=3>>9
+Classification of indications...............................................................................................................11<<HEADING_END>>
+<<HEADING level=3>>10
+Acceptance limits................................................................................................................................11<<HEADING_END>>
+<<HEADING level=3>>11
+Acceptance ..........................................................................................................................................11<<HEADING_END>>
+<<HEADING level=3>>12
+Image storage and display .................................................................................................................12<<HEADING_END>>
+<<HEADING level=3>>13
+Test report............................................................................................................................................12<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A  (informative)   Examples of distribution of imperfections...............................................................14<<HEADING_END>>
+<<HEADING level=3>>Bibliography......................................................................................................................................................17<<HEADING_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-7 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tubes for the verification of hydraulic leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged arc-
+welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+surface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged arc-
+welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>Digital radiography has been used for the testing of longitudinal weld seams in submerged arc-welded steel
+tubes for some years. Digital radiography can be automated, and is considered to be more environmentally
+friendly than film-based radiographic techniques.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Digital radiography maintains the levels of security and availability afforded by X-ray film testing, which have
+been in place for many years. Images can be made available in a fraction of the time previously taken by film-
+based techniques, and usually at a lower exposure level and increased detector unsharpness when compared
+to film.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The storage and handling of digital images maintain the same levels of integrity available from film-based
+techniques, yet gain all the benefits associated with comprehensive data storage and retrieval systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Imaging systems are constantly under development, and an important aspect of this part of ISO 10893 is to
+qualify the use of those alternative systems currently available. This part of ISO 10893 describes the steps
+required to deliver these benefits.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 7:
+Digital radiographic testing of the weld seam of welded steel
+tubes for the detection of imperfections<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies the requirements for digital radiographic X-ray testing by either computed
+radiography (CR) or radiography with digital detector arrays (DDA) of the longitudinal or helical weld seams of
+automatic fusion arc-welded steel tubes for the detection of imperfections. This part of ISO 10893 specifies
+acceptance levels and calibration procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 can also be applicable to the testing of circular hollow sections.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5576,  Non-destructive testing — Industrial X-ray and gamma-ray radiology — Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer's qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17636,  Non-destructive testing of welds — Radiographic testing of fusion-welded joints<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 19232-1,  Non-destructive testing — Image quality of radiographs — Part 1: Image quality indicators (wire
+type) — Determination of image quality value<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 19232-2,  Non-destructive testing — Image quality of radiographs — Part 2: Image quality indicators
+(step/hole type) — Determination of image quality value<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 19232-5,  Non-destructive testing — Image quality of radiographs — Part 5: Image quality indicators
+(duplex wire type) — Determination of image unsharpness value<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 5576 and ISO 11484 and the
+following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<PARAGRAPH>>3.2
+welded tube
+tube made by forming a hollow profile from a flat product and welding adjacent edges together, and which
+after welding can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>3.3
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by the product standard or agreed on by the purchaser and manufacturer, a
+radiographic inspection inspection shall be carried out on welded tubes after completion of all the primary
+manufacturing process operations (rolling, heat treating, cold and hot working, sizing and primary
+straightening, etc.).<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+This inspection shall be carried out by trained operators qualified in accordance with ISO 9712,
+ISO 11484 or equivalent. Competent personnel, nominated by the manufacturer, shall supervise all inspection.
+In the case of third-party inspection, this shall be agreed on between the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. Non-destructive
+testi n g (NDT) operations shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate standards, e.g. ISO 9712 and ISO 11484.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+The tubes under test shall be sufficiently straight and free of foreign matter as to ensure the validity of
+the test. The surfaces of the weld seam and adjacent parent metal shall be sufficiently free of such foreign
+matter and surface irregularities which would interfere with the interpretation of the radiographs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Surface grinding is permitted in order to achieve an acceptable surface finish.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4
+In cases where the weld reinforcement is removed, markers, usually in the form of lead arrows, shall be
+placed on each side of the weld such that its position can be identified on the radiographic image. Alternatively,
+an integrated automatic positioning system may be used to identify the position of the weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5
+Identification symbols, usually in the form of lead letters, shall be placed on each section of the weld
+seam radiograph such that the projection of these symbols appears in each radiographic image to ensure
+unequivocal identification of the section. Alternatively, an integrated automatic positioning system may be
+used to identify the position of each radiographic image along the pipe weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.6
+Markings shall be displayed on the recorded radiographic images to provide reference points for the
+accurate relocation of the position of each radiograph. Alternatively, the automated measured image position
+may be displayed on the digital image viewing screen by software for accurate position relocation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.7
+When carrying out radiography on a continuous length of a weld, the pipe or pipe wall shall pass
+between the X-ray tube and detector at a speed which is sufficient to allow accurate defect detection, or the
+pipe shall move in start-stop mode and digital radiographs shall be taken when the pipe is not moving.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Equipment<<HEADING_END>>
+<<PARAGRAPH>>The following digital imaging methods can be used in replacement of radiographic film:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+computed radiography (CR) with storage phosphor imaging plates (e.g. EN 14784-1 and EN 14784-2);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+radiology with digital detector arrays (e.g. ASTM E2597);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+digital radioscopy with image integration (e.g. EN 13068-1, EN 13068-2 and EN 13068-3).<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>6
+Test method<<HEADING_END>>
+<<HEADING level=3>>6.1
+The weld seam shall be tested by a digital radiographic technique, corresponding to 5 a) to 5 c).<<HEADING_END>>
+<<HEADING level=3>>6.2
+Two image quality classes, A and B, conforming to ISO 17636, shall be specified as:<<HEADING_END>>
+<<PARAGRAPH>>⎯  class A: radiographic examination technique with standard sensitivity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  class B: radiographic technique with enhanced sensitivity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Image quality class A is used for most applications. Image quality class B is intended for applications where
+increased sensitivity is required to reveal all the imperfections being detected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The required image quality class should be stated in the relevant product standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3
+The digital image displayed shall meet the required quality class A or B.<<HEADING_END>>
+<<HEADING level=3>>6.4
+The beam of radiation shall be directed at the centre of the section of the weld seam under examination
+and shall be normal to the tube surface at that point.<<HEADING_END>>
+<<PARAGRAPH>>6.5
+The diagnostic length shall be such that the increase in penetrated thickness at the ends of the useful
+length of the sensitive detector input screen shall not exceed the penetrated thickness at the centre of the
+detector by more than 10 % for image quality class B or by more than 20 % for image quality class A, provided
+the specific requirements of 6.9 and Clause 7 are satisfied.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.6
+The single wall penetration technique shall be used. When the single wall technique is impracticable for
+dimensional reasons, the use of the double wall penetration technique may be used, by agreement, if the
+required sensitivities can be shown to be achievable.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.7
+The separation between the detector and the weld surface shall be as small as possible for contact
+technique (no magnification).<<HEADING_END>>
+<<PARAGRAPH>>The minimum value of the source-to-weld distance,  f , shall be selected such that the ratio of this distance to
+the effective focal spot size,  d , i.e.  f / d , conforms to the values given by the following formulae (contact
+technique):<<PARAGRAPH_END>>
+<<PARAGRAPH>>for image quality class A:<<PARAGRAPH_END>>
+<<PARAGRAPH>>2/ 3
+7,5
+f
+b
+d
+×
+W
+(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>for image quality class B:<<PARAGRAPH_END>>
+<<PARAGRAPH>>2/ 3
+15
+f
+b
+d
+×
+W
+(2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>where  b  is the distance between the source side of the weld and the sensitive surface of the detector, in
+millimetres.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+These relationships are presented graphically in Figure 1.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                                   |
+| Copyright International Organization for Standardization ,,`          |
+|:----------------------------------------------------------------------|
+| Provided by IHS under license with ISO ``,                            |
+| No reproduction or networking permitted without license from IHS ,,,` |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>a
+Effective focal spot size,  d , in millimetres.
+b
+Minimum source to weld distance,  f , for class B, in millimetres.
+c
+Minimum source to weld distance,  f , for class A, in millimetres.
+d
+Weld-to-detector distance,  b , in millimetres.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Nomogram for determination of minimum source-to-weld distance,  f ,
+in relation to weld-to-detector distance,  b , and the effective focal spot size,  d<<HEADING_END>>
+<<PARAGRAPH>>6.8
+An obstacle to the implementation of DDA systems is the large ( >  50 μm) pixel size of the array
+compared to the small grain size in film (which leads to film having very high spatial resolution).<<PARAGRAPH_END>>
+<<PARAGRAPH>>It can, therefore, not be possible to achieve the required geometric resolution with a setup typically used for
+film radiography. This difficulty may be circumvented by using geometric magnification to achieve the required
+geometric resolution or by making use of the compensation principle [increasing the signal-to-noise ratio
+(SNR) in the image] described in 7.1. Any combination of these measures is allowed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>6.9
+Exposure conditions, including X-ray tube voltage, shall achieve the image quality indicator (IQI)
+requirements in Clause 7. Image contrast and brightness may be adjusted as required for digital image
+viewing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.10  To maintain sufficient contrast sensitivity, the X-ray tube voltage should not exceed the maximum
+values given in Figure 2. A voltage above the values shown is allowed, as long as the minimum sensitivity is
+obtained.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key
+X
+penetrated thickness, mm
+Y
+X-ray voltage, kV<<HEADING_END>>
+<<HEADING level=3>>Figure 2 — Maximum X-ray voltage for X-ray devices up to  500 kV
+as a function of penetrated thickness<<HEADING_END>>
+<<HEADING level=3>>7
+Image quality<<HEADING_END>>
+<<PARAGRAPH>>7.1
+The image quality shall be determined by the use of IQIs of the type specified in ISO 19232-1,
+ISO 19232-2 and ISO 19232-5, and agreed on between the purchaser and manufacturer. The appropriate IQI
+shall be placed on the source side of the weld on the base material adjacent to the weld. In the case of a wire
+type IQI, at least 10 mm of the wires shall be visible on the parent material (see Figures 3 and 4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>When the source side is inaccessible, the IQIs may be placed on the detector side of the object. In these
+circumstances a letter “F” shall be placed near the IQIs and this procedural change shall be recorded in the
+test report. Detector-side positions typically show 1 or 2 more wires, or holes, than if the same IQI was on the
+source side. Customers may ask for a trial exposure to be carried out on a sample piece of pipe, with IQIs
+placed on both source and detector sides as a comparison.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When the tubes under inspection have the same dimensions and grade, it is sufficient to use the IQI only
+every 4 h, or twice a shift, to check image sensitivity. When carrying out the sensitivity checks, though, the IQI
+shall be placed on the source side.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The parameters used with the trial exposures (settings of X-ray source, detector and geometry) shall not be
+changed for the subsequent images acquired with detector-side IQIs. For stable systems and processes, such
+as automated testing systems using DDAs, it is sufficient to prove the image quality once per shift as long as
+tube dimension, tube material and testing parameters remain unchanged. In this case, the image quality proof
+should be performed only with source side IQIs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By usage of the duplex wire IQI, conforming to ISO 19232-5, the image unsharpness,  U g , shall be measured.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The read-out unsharpness,  U g , value for the duplex wire IQI is the smallest wire pair element number (largest
+wire diameter) with a dip separation below 20 %, measured with a profile plot across the duplex wire in the
+digital image.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The duplex wire IQI should be positioned at an approximately 5° angle towards the pixel orientation in order to
+avoid aliasing effects.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The basic spatial resolution, SR b , of the detector which is fixed by the construction and hardware parameters
+shall be determined by placing the duplex wire IQI directly in front of the detector. In this case, SR b  is given by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>SR b  = 0,5  U g
+(3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Compensation principle<<PARAGRAPH_END>>
+<<PARAGRAPH>>If both IQI sensitivities of Tables 1 and 2 (wire or hole and duplex wire IQI) cannot be achieved by the detector
+system used, an increase in single wire visibility can compensate too high unsharpness values.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EXAMPLE
+For 10 mm wall thickness, class B; it is necessary to use wire number W14 and duplex D11. If D11
+cannot be reached, compensation is possible: two steps down from D11 to D9, but increasing two steps up from W14
+to W16.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The contrast sensitivity for digital detectors depends on the integration time and tube current (mA) used for the
+acquisition of the radiographic images for a given distance and tube voltage, so the single wire visibility can be
+increased by an increased exposure time and mA setting.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2
+The two image quality classes are defined in Tables 1 and 2. The minimum normalized SNR norm  in the
+base material should be  >  70 for testing class A and  >  100 for testing class B. The normalized SNR norm  shall
+be calculated from the measured SNR in the image at base material adjacent to the welding seam and
+normalized by the basic spatial resolution of the detector system:<<PARAGRAPH_END>>
+<<PARAGRAPH>>SNR norm  = SNR  ×  88,6 μm/SR b
+(4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For details of SNR measurement, see, for example, EN 14784-1, ASTM E2446 or ASTM E2597. IQI quality for
+larger wall thicknesses is available in ISO 17636.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>a)   Wire type<<HEADING_END>>
+<<HEADING level=3>>b)   Plaque and step/hole types<<HEADING_END>>
+<<HEADING level=3>>c)   Duplex type — For use with wire or step/hole type<<HEADING_END>>
+<<PARAGRAPH>>Key
+1
+centre of beam
+5
+plaque type IQI, with shim stock
+2
+wire type IQI, thinnest wire away from the centre of the beam
+6
+outer weld reinforcement
+3
+duplex type IQI, approx. 5° tilted
+7
+tube wall
+4
+step/hole type IQI, thinnest step away from the centre of the beam
+8
+inner weld reinforcement<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Mapped weld length (DDA) or image plate length (CR).<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 3 — Positioning of IQIs — Basic requirements<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                             |
+| Copyright International Organization for Standardization        |
+|:----------------------------------------------------------------|
+| Provided by IHS under license with ISO                          |
+| No reproduction or networking permitted without license from IH |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>7.3
+For the double wall penetration technique, the image quality value for use shall be taken as that
+corresponding to twice the specified wall thickness.<<HEADING_END>>
+<<PARAGRAPH>>7.4
+Where available, the performance of the digital system should also be measured, using representative
+quality indicators (RQIs). RQIs should be of the same dimensions and grade as the tubes under inspection.
+RQIs containing actual or simulated linear defects, such as lack of penetration, lack of fusion and cracks, are
+advised in order to ensure digital set-up is capable of meeting inspection specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)   Wire type<<HEADING_END>>
+<<HEADING level=3>>b)   Step/hole type<<HEADING_END>>
+<<HEADING level=3>>c)   Plaque type<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>d)   Duplex type<<HEADING_END>>
+<<HEADING level=3>>Figure 4 — Types of image quality indicator<<HEADING_END>>
+<<HEADING level=3>>8
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_4>>
+| Provided by IHS under license with ISO                      |
+|:------------------------------------------------------------|
+| No reproduction or networking permitted without license fro |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 1 — Single wall techniques — Class A<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<HEADING level=3>>Specified wall
+thickness
+Wire number
+Specified wall
+thickness
+Hole number
+Specified wall
+thickness
+Duplex IQI ab<<HEADING_END>>
+<<HEADING level=3>>T
+Diameter
+T
+Diameter
+T
+Unsharpness
+Wire diameter
+and spacing<<HEADING_END>>
+<<PARAGRAPH>>T   u  1,2
+W18<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,063
+T   u  2
+H3<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+T   u  2
+D11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+0,080<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,2  <   T   u  2
+W17<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,08
+2  <   T   u  3,5
+H4<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,25
+2  <   T   u  5
+D10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+0,100<<PARAGRAPH_END>>
+<<PARAGRAPH>>2  <   T   u  3,5
+W16<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10
+3,5  <   T   u  6
+H5<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,32
+5  <   T   u  10
+D9<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,26
+0,130<<PARAGRAPH_END>>
+<<PARAGRAPH>>3,5  <   T   u  5
+W15<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,13
+6  <   T   u  10
+H6<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,40
+10  <   T   u  25
+D8<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,32
+0,160<<PARAGRAPH_END>>
+<<PARAGRAPH>>5  <   T   u  7
+W14<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+10  <   T   u  15
+H7<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,50
+25  <   T   u  55
+D7<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,40
+0,200<<PARAGRAPH_END>>
+<<PARAGRAPH>>7  <   T   u  10
+W13<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+15  <   T   u  24
+H8<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,64
+55  <   T
+D6<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,50
+0,250<<PARAGRAPH_END>>
+<<PARAGRAPH>>10  <   T   u  15
+W12<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,25
+24  <   T   u  30
+H9<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,80<<PARAGRAPH_END>>
+<<PARAGRAPH>>15  <   T   u  25
+W11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,32
+30  <   T   u  40
+H10<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,00<<PARAGRAPH_END>>
+<<PARAGRAPH>>25  <   T   u  32
+W10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,40
+40  <   T   u  60
+H11<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,25<<PARAGRAPH_END>>
+<<PARAGRAPH>>32  <   T   u  40
+W9<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,50
+60  <   T
+H12<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,60<<PARAGRAPH_END>>
+<<PARAGRAPH>>40  <   T   u  55
+W8<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,63<<PARAGRAPH_END>>
+<<PARAGRAPH>>55  <   T
+W7<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,80<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Duplex IQI should be used in conjunction with either a wire or step/hole IQI.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Duplex IQI should be examined using a profile display; the smallest wires which have a dip separation below 20 % between the
+wire pair determine the unsharpness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+9<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Specified wall                                                                                                                 | Wire number   | Specified wall   | Hole number   | Specified wall   | Duplex IQIab    |       |
+| thickness                                                                                                                      | Diameter      | thickness        | Diameter      | thickness        | Wire diameter   |       |
+| T                                                                                                                              |               | T                |               | T                | Unsharpness     |       |
+|                                                                                                                                |               |                  |               |                  | and spacing     |       |
+|:-------------------------------------------------------------------------------------------------------------------------------|:--------------|:-----------------|:--------------|:-----------------|:----------------|:------|
+| T u 1,2                                                                                                                        | W18           | T u 2            | H3            | T u 2            | D11             | 0,080 |
+|                                                                                                                                | 0,063         |                  | 0,20          |                  | 0,16            |       |
+| 1,2 < T u 2                                                                                                                    | W17           | 2 < T u 3,5      | H4            | 2 < T u 5        | D10             | 0,100 |
+|                                                                                                                                | 0,08          |                  | 0,25          |                  | 0,20            |       |
+| 2 < T u 3,5                                                                                                                    | W16           | 3,5 < T u 6      | H5            | 5 < T u 10       | D9              | 0,130 |
+|                                                                                                                                | 0,10          |                  | 0,32          |                  | 0,26            |       |
+| 3,5 < T u 5                                                                                                                    | W15           | 6 < T u 10       | H6            | 10 < T u 25      | D8              | 0,160 |
+|                                                                                                                                | 0,13          |                  | 0,40          |                  | 0,32            |       |
+| 5 < T u 7                                                                                                                      | W14           | 10 < T u 15      | H7            | 25 < T u 55      | D7              | 0,200 |
+|                                                                                                                                | 0,16          |                  | 0,50          |                  | 0,40            |       |
+| 7 < T u 10                                                                                                                     | W13           | 15 < T u 24      | H8            | 55 < T           | D6              | 0,250 |
+|                                                                                                                                | 0,20          |                  | 0,64          |                  | 0,50            |       |
+| 10 < T u 15                                                                                                                    | W12           | 24 < T u 30      | H9            |                  |                 |       |
+|                                                                                                                                | 0,25          |                  | 0,80          |                  |                 |       |
+| 15 < T u 25                                                                                                                    | W11           | 30 < T u 40      | H10           |                  |                 |       |
+|                                                                                                                                | 0,32          |                  | 1,00          |                  |                 |       |
+| 25 < T u 32                                                                                                                    | W10           | 40 < T u 60      | H11           |                  |                 |       |
+|                                                                                                                                | 0,40          |                  | 1,25          |                  |                 |       |
+| 32 < T u 40                                                                                                                    | W9            | 60 < T           | H12           |                  |                 |       |
+|                                                                                                                                | 0,50          |                  | 1,60          |                  |                 |       |
+| 40 < T u 55                                                                                                                    | W8            |                  |               |                  |                 |       |
+|                                                                                                                                | 0,63          |                  |               |                  |                 |       |
+| 55 < T                                                                                                                         | W7            |                  |               |                  |                 |       |
+|                                                                                                                                | 0,80          |                  |               |                  |                 |       |
+| a Duplex IQI should be used in conjunction with either a wire or step/hole IQI.                                                |               |                  |               |                  |                 |       |
+| b Duplex IQI should be examined using a profile display; the smallest wires which have a dip separation below 20 % between the |               |                  |               |                  |                 |       |
+| wire pair determine the unsharpness.                                                                                           |               |                  |               |                  |                 |       |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All rig                                             |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 2 — Single wall techniques — Class B<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<HEADING level=3>>Specified wall
+thickness
+Wire number
+Specified wall
+thickness
+Hole number
+Specified wall
+thickness
+Duplex IQI ab<<HEADING_END>>
+<<HEADING level=3>>T
+Diameter
+T
+Diameter
+T
+Unsharpness
+Wire diameter
+and spacing<<HEADING_END>>
+<<PARAGRAPH>>T   u  1,5
+W19<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,05
+T   u  2,5
+H2<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+T   u  1,5
+D13+<<PARAGRAPH_END>>
+<<PARAGRAPH>><   0,10
+<   0,05<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,5  <   T   u  2,5
+W18<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,063
+2,5  <   T   u  4
+H3<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+1,5  <   T   u  4
+D13<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10
+0,05<<PARAGRAPH_END>>
+<<PARAGRAPH>>2,5  <   T   u  4
+W17<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,08
+4  <   T   u  8
+H4<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,25
+4  <   T   u  8
+D12<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,13
+0,065<<PARAGRAPH_END>>
+<<PARAGRAPH>>4  <   T   u  6
+W16<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10
+8  <   T   u  12
+H5<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,32
+8  <   T   u  12
+D11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+0,080<<PARAGRAPH_END>>
+<<PARAGRAPH>>6  <   T   u  8
+W15<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,13
+12  <   T   u  20
+H6<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,40
+12  <   T   u  40
+D10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+0,100<<PARAGRAPH_END>>
+<<PARAGRAPH>>8  <   T   u  12
+W14<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+20  <   T   u  30
+H7<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,50
+40  <   T
+D9<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,26
+0,130<<PARAGRAPH_END>>
+<<PARAGRAPH>>12  <   T   u  20
+W13<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+30  <   T   u  40
+H8<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,64<<PARAGRAPH_END>>
+<<PARAGRAPH>>20  <   T   u  30
+W12<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,25
+40  <   T   u  60
+H9<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,80<<PARAGRAPH_END>>
+<<PARAGRAPH>>30  <   T   u  35
+W11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,32
+60  <   T
+H10<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,00<<PARAGRAPH_END>>
+<<PARAGRAPH>>35  <   T   u  45
+W10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,40<<PARAGRAPH_END>>
+<<PARAGRAPH>>45  <   T   u  65
+W9<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,50<<PARAGRAPH_END>>
+<<PARAGRAPH>>65  <   T
+W8<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,63<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+“D13+” is achieved if the duplex wire pair D13 is resolved with a dip  >  20 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Duplex IQI should be used in conjunction with either a wire or step/hole IQI.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Duplex IQI should be examined using a profile display; the smallest wires which have a dip separation below 20 % between the
+wire pair determine the unsharpness.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Image processing<<HEADING_END>>
+<<PARAGRAPH>>8.1
+The digital data of the radiographic detector shall be evaluated proportional to the radiation dose. This
+shall be the prerequisite for correct measurements of SNR for evaluation of image quality. For optimal image
+display, contrast and brightness should be interactively adjustable. Optional filter functions, profile plots and
+the SNR tool should be integrated into the software for image display and evaluation.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2
+Further means of image processing applied on the stored raw data (e.g. high pass filtering for image
+display) shall be documented, repeatable and agreed on by the purchaser and manufacturer.<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Specified wall                                                                                                                 | Wire number   | Specified wall   | Hole number   | Specified wall   | Duplex IQIab    |        |
+| thickness                                                                                                                      | Diameter      | thickness        | Diameter      | thickness        | Wire diameter   |        |
+| T                                                                                                                              |               | T                |               | T                | Unsharpness     |        |
+|                                                                                                                                |               |                  |               |                  | and spacing     |        |
+|:-------------------------------------------------------------------------------------------------------------------------------|:--------------|:-----------------|:--------------|:-----------------|:----------------|:-------|
+| T u 1,5                                                                                                                        | W19           | T u 2,5          | H2            | T u 1,5          | D13+            | < 0,05 |
+|                                                                                                                                | 0,05          |                  | 0,16          |                  | < 0,10          |        |
+| 1,5 < T u 2,5                                                                                                                  | W18           | 2,5 < T u 4      | H3            | 1,5 < T u 4      | D13             | 0,05   |
+|                                                                                                                                | 0,063         |                  | 0,20          |                  | 0,10            |        |
+| 2,5 < T u 4                                                                                                                    | W17           | 4 < T u 8        | H4            | 4 < T u 8        | D12             | 0,065  |
+|                                                                                                                                | 0,08          |                  | 0,25          |                  | 0,13            |        |
+| 4 < T u 6                                                                                                                      | W16           | 8 < T u 12       | H5            | 8 < T u 12       | D11             | 0,080  |
+|                                                                                                                                | 0,10          |                  | 0,32          |                  | 0,16            |        |
+| 6 < T u 8                                                                                                                      | W15           | 12 < T u 20      | H6            | 12 < T u 40      | D10             | 0,100  |
+|                                                                                                                                | 0,13          |                  | 0,40          |                  | 0,20            |        |
+| 8 < T u 12                                                                                                                     | W14           | 20 < T u 30      | H7            | 40 < T           | D9              | 0,130  |
+|                                                                                                                                | 0,16          |                  | 0,50          |                  | 0,26            |        |
+| 12 < T u 20                                                                                                                    | W13           | 30 < T u 40      | H8            |                  |                 |        |
+|                                                                                                                                | 0,20          |                  | 0,64          |                  |                 |        |
+| 20 < T u 30                                                                                                                    | W12           | 40 < T u 60      | H9            |                  |                 |        |
+|                                                                                                                                | 0,25          |                  | 0,80          |                  |                 |        |
+| 30 < T u 35                                                                                                                    | W11           | 60 < T           | H10           |                  |                 |        |
+|                                                                                                                                | 0,32          |                  | 1,00          |                  |                 |        |
+| 35 < T u 45                                                                                                                    | W10           |                  |               |                  |                 |        |
+|                                                                                                                                | 0,40          |                  |               |                  |                 |        |
+| 45 < T u 65                                                                                                                    | W9            |                  |               |                  |                 |        |
+|                                                                                                                                | 0,50          |                  |               |                  |                 |        |
+| 65 < T                                                                                                                         | W8            |                  |               |                  |                 |        |
+|                                                                                                                                | 0,63          |                  |               |                  |                 |        |
+| NOTE “D13+” is achieved if the duplex wire pair D13 is resolved with a dip > 20 %.                                             |               |                  |               |                  |                 |        |
+| a Duplex IQI should be used in conjunction with either a wire or step/hole IQI.                                                |               |                  |               |                  |                 |        |
+| b Duplex IQI should be examined using a profile display; the smallest wires which have a dip separation below 20 % between the |               |                  |               |                  |                 |        |
+| wire pair determine the unsharpness.                                                                                           |               |                  |               |                  |                 |        |
+<<TABLE_END>>
+<<TABLE_2>>
+| 10                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>9
+Classification of indications<<HEADING_END>>
+<<HEADING level=3>>9.1
+All indications found on the radiograph shall be classified as weld imperfections or defects, as described
+in 9.2 and 9.3.<<HEADING_END>>
+<<PARAGRAPH>>9.2
+Imperfections are discontinuities in the weld seam detectable by the radiographic testing method
+described in this part of ISO 10893. Imperfections with a size and/or population density that are within the
+specified acceptance limits are considered to have no practical implications on the intended use of the tubes.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3
+Defects are imperfections with a size and/or population density greater than the specified acceptance
+limits. Defects are considered to adversely affect or limit the intended use of the tubes.<<HEADING_END>>
+<<HEADING level=3>>10 Acceptance limits<<HEADING_END>>
+<<HEADING level=3>>10.1  Acceptance limits are applicable to radiographic examination of the weld seam and specified in 10.2 to
+10.6, unless alternative requirements are specified in the product standards.<<HEADING_END>>
+<<HEADING level=3>>10.2  Cracks, incomplete penetration and lack of fusion are not acceptable.<<HEADING_END>>
+<<HEADING level=3>>10.3  Individual circular slag inclusions and gas pockets up to 3,0 mm or  T /3 in diameter ( T  = specified wall
+thickness), whichever is the smaller, are acceptable.<<HEADING_END>>
+<<PARAGRAPH>>The sum of the diameters of all such permitted individual imperfections in any 150 mm or 12 T  of weld length,
+whichever is the smaller, shall not exceed 6,0 mm or 0,5 T , whichever is the smaller, where the separation
+between individual inclusions is less than 4 T .<<PARAGRAPH_END>>
+<<HEADING level=3>>10.4  Individual elongated slag inclusions up to 12,0 mm or  T  in length, whichever is the smaller, or up to
+1,5 mm in width are acceptable.<<HEADING_END>>
+<<PARAGRAPH>>The accumulated length of such permitted individual imperfections in any 150 mm or 12 T  of weld length,
+whichever is the smaller, shall not exceed 12,0 mm where the separation between individual inclusions is less
+than 4 T .<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For information, the criteria specified in 10.3 and 10.4 are shown diagrammatically in Annex A.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.5  Individual undercuts of any length having a maximum depth of 0,4 mm and not encroaching on the
+minimum wall thickness shall be acceptable.<<HEADING_END>>
+<<PARAGRAPH>>Individual undercuts of a maximum length of  T /2 having a maximum depth of 0,5 mm and not exceeding 10 %
+of the specified wall thickness shall be acceptable, provided there are not more than two such undercuts in
+any 300 mm of the weld length, and all such undercuts are dressed out.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.6  Undercuts on the inside and outside welds, which are coincident in the longitudinal direction, shall not
+be acceptable.<<HEADING_END>>
+<<HEADING level=3>>11 Acceptance<<HEADING_END>>
+<<HEADING level=3>>11.1  Any tubes not showing indications in excess of that permitted by the corresponding acceptance limits
+shall be deemed to have passed the test.<<HEADING_END>>
+<<HEADING level=3>>11.2  Any tubes showing indications in excess of that permitted by the corresponding acceptance limits shall
+be deemed suspect.<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+11<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>11.3  For suspect tubes one or more of the following actions shall be taken, subject to the requirements of the
+product standard:<<HEADING_END>>
+<<PARAGRAPH>>a)
+the suspect area shall be removed by dressing. Complete removal of the defect shall be verified by either
+liquid penetrant or magnetic particle testing, and the dressed area shall be retested by radiography. The
+remaining wall thickness shall be measured by an appropriate technique to verify compliance with the
+specified tolerances;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the suspect area shall be repaired by welding carried out to an approved welding procedure. The repaired
+area shall then be subject to radiographic examination in accordance with the requirements of this part of
+ISO 10893 and the product standard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the suspect area shall be cropped off. The remaining length of the tube shall be measured to verify
+conformance to the specified tolerances;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+the tube shall be rejected.<<PARAGRAPH_END>>
+<<HEADING level=3>>1 2  Image storage and display<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>The original images shall be stored in full resolution as delivered by the detector system. Only image
+processing connected with the detector calibration [e.g. off-set correction, gain calibration for detector
+equalization and bad pixel correction (see ASTM E2597) to provide artefact-free detector images] shall be
+applied before storage of these raw data.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The display for image evaluation should fulfil the following minimum requirements:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  minimal brightness of 250 cd/m 2 ;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  display of minimal 256 shades of grey;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  minimum displayable light intensity ratio of 1:250;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  display of minimal 1 000  ×  1 000 pixels of a size  <  0,30 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The image evaluation shall be carried out in a dimly lit room. The monitor setup shall be verified with a
+suitable test image.<<PARAGRAPH_END>>
+<<HEADING level=3>>13 Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report including at least the following
+information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-7;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+radiation source, type and effective focal spot size and equipment used, tube voltage and current;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+detector and software used for image acquisition and display;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+time of exposure per image, date of last detector calibration;<<PARAGRAPH_END>>
+<<HEADING level=3>>12
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 12                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>h)
+geometrical set-up, magnification and source-to-pipe distance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+types and positions of IQI;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+IQI readings and minimum SNR at base material;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+the image quality class achieved;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+file name and storage location of raw data acquired;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m) date of exposure and report;<<PARAGRAPH_END>>
+<<PARAGRAPH>>n)
+operator identification and name, certification and signature of the responsible persons.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+13<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(informative)
+Examples of distribution of imperfections<<HEADING_END>>
+<<HEADING level=3>>a)   Example 1: one  12,0 mm  imperfection<<HEADING_END>>
+<<HEADING level=3>>b)   Example 2: two  6,0 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>c)   Example 3: three  4,0 mm  imperfections<<HEADING_END>>
+<<PARAGRAPH>>a
+Weld length 150 mm or 12 T  ( T  = specified wall thickness), whichever is the smaller.<<PARAGRAPH_END>>
+<<HEADING level=3>>Fi gure A.1 — Example of maximum distribution patterns of indicated elongated slag imperfections
+for specified wall thickness above  12 mm<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>14
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| 14                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>a)   Example 1: two  3,0 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>b)   Example 2: one  3,0 mm , one  1,5 mm , one  1,0 mm  and one  0,5 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>c)   Example 3: one  3,0 mm , one  1,0 mm  and five  0,5 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>d)   Example 4: four  1,5 mm  imperfections<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>e)   Example 5: two  1,5 mm , three  1,0 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>Figure A.2  ( continued )<<HEADING_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+15<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=3>>f)   Example 6: six  1,0 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>g)   Example 7: twelve  0,5 mm  imperfections<<HEADING_END>>
+<<HEADING level=3>>h)   Example 8: three  1,0 mm , six  0,5 mm  imperfections (scattered)<<HEADING_END>>
+<<PARAGRAPH>>a
+Weld length 150 mm or 12 T  ( T  = specified wall thickness), whichever is the smaller.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.2 — Examples of maximum distribution patterns of gas pocket type imperfections
+for specified wall thickness above  9 mm<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>16
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 16                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 5579,  Non-destructive testing — Radiographic examination of metallic materials by X- and gamma
+rays — Basic rules<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO 11699-1,  Non-destructive testing — Industrial radiographic films — Part 1: Classification of film
+systems for industrial radiography<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+ISO 14096-1,  Non-destructive testing — Qualification of radiographic film digitisation systems —
+Part 1: Definitions, quantitative measurements of image quality parameters, standard reference film
+and qualitative control<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+ISO 14096-2,  Non-destructive testing — Qualification of radiographic film digitisation systems —
+Part 2: Minimum requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+ISO 19232-3,  Non-destructive testing — Image quality of radiographs — Part 3: Image quality classes
+for ferrous metals<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+EN 13068-1,  Non-destructive testing — Radioscopic testing — Part 1: Quantitative measurement of
+imaging properties<<PARAGRAPH_END>>
+<<PARAGRAPH>>[7]
+EN 13068-2,  Non-destructive testing — Radioscopic testing — Part 2: Check of long term stability of
+imaging devices<<PARAGRAPH_END>>
+<<PARAGRAPH>>[8]
+EN 13068-3,  Non-destructive testing — Radioscopic testing — Part 3: General principles of
+radioscopic testing of metallic materials by X- and gamma rays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[9]
+EN 14784-1,  Non-destructive testing — Industrial computed radiography with storage phosphor
+imaging plates — Part 1: Classification of systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[10]
+EN 14784-2,  Non-destructive testing — Industrial computed radiography with storage phosphor
+imaging plates — Part 2: General principles for testing of metallic materials using X-rays and gamma
+rays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[11]
+ASTM E2597-07,  Standard Practice for Manufacturing Characterization of Digital Detector Arrays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[12]
+ASTM E2445-05,  Standard Practice for Qualification and Long-Term Stability of Computed Radiology
+Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[13]
+ASTM E2446-05,  Standard Practice for Classification of Computed Radiology Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+17<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<HEADING level=3>>ISO 10893-7:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 17 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 24
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 26
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_2] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 3x1
+[TABLE_4] Page: 14, Size: 2x1
+[TABLE_1] Page: 15, Size: 14x7
+[TABLE_2] Page: 15, Size: 3x1
+[TABLE_1] Page: 16, Size: 15x7
+[TABLE_2] Page: 16, Size: 3x1
+[TABLE_1] Page: 17, Size: 3x1
+[TABLE_1] Page: 18, Size: 3x1
+[TABLE_1] Page: 19, Size: 3x1
+[TABLE_2] Page: 20, Size: 3x1
+[TABLE_2] Page: 21, Size: 3x1
+[TABLE_1] Page: 22, Size: 3x1
+[TABLE_1] Page: 23, Size: 3x1
+[TABLE_1] Page: 24, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

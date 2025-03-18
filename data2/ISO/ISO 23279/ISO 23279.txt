@@ -1,0 +1,803 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+23279<<HEADING_END>>
+<<PARAGRAPH>>Second edition
+2010-03-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of welds —
+Ultrasonic testing — Characterization of
+indications in welds<<HEADING_END>>
+<<PARAGRAPH>>Contrôle non destructif des assemblages soudés — Contrôle par
+ultrasons — Caractérisation des indications dans les assemblages
+soudés<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 23279:2010(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2010<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2010<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2010 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Principle..................................................................................................................................................1<<HEADING_END>>
+<<PARAGRAPH>>4
+Criteria ....................................................................................................................................................2
+4.1
+General ...................................................................................................................................................2
+4.2
+Echo amplitude criteria (stages 1 and 2) ............................................................................................3
+4.3
+Directional reflectivity criteria (stage 3)..............................................................................................3
+4.4
+Echostatic pattern criteria (stage 4) ....................................................................................................4
+4.5
+Transverse echodynamic pattern criteria (stage 5) ...........................................................................4
+4.6
+Complementary examination ...............................................................................................................4<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A  (normative)   Classification of internal indications in welds — Flowchart procedure...................5<<HEADING_END>>
+<<HEADING level=3>>Annex B  (informative)   Directional reflectivity ..................................................................................................8<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex C  (informative)   Basic echodynamic patterns of reflectors.................................................................9<<HEADING_END>>
+<<HEADING level=3>>Bibliography......................................................................................................................................................14<<HEADING_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 23279 was prepared by the European Committee for Standardization (CEN) Technical Committee
+TC 121,  Welding , in collaboration with ISO Technical Committee TC 44,  Welding and allied processes ,
+Subcommittee SC 5,   Testing and inspection of welds , in accordance with the Agreement on technical
+cooperation between ISO and CEN (Vienna Agreement).<<PARAGRAPH_END>>
+<<PARAGRAPH>>This second edition cancels and replaces the first edition (ISO 23279:2007), which has been technically
+revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Requests for official interpretations of any aspect of this International Standard should be directed to the
+Secretariat of ISO/TC 44/SC 5 via your national standards body. A complete listing of these bodies can be
+found at  www.iso.org .<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2010 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of welds — Ultrasonic testing —
+Characterization of indications in welds<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This International Standard specifies how to characterize embedded indications by classifying them as planar
+or non-planar.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This procedure is also suitable for indications that break the surface after removal of the weld reinforcement.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17640,  Non-destructive testing of welds — Ultrasonic testing — Techniques, testing levels, and
+assessment<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Principle<<HEADING_END>>
+<<PARAGRAPH>>Classification of indications as planar or non-planar is based on several parameters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) welding techniques;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) geometrical position of the indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) maximum echo amplitude;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) directional reflectivity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) echostatic pattern (i.e. A-scan);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+echodynamic pattern.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The process of classification involves examining each of the parameters against all the others in order to
+arrive at an accurate conclusion.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For guidance, Figure A.1 gives the classification of internal weld indications suitable for general applications.
+Figure A.1 should be applied in conjunction with the two first parameters listed above and not taken in
+isolation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The classification procedure specified in this International Standard is also suitable for indications that are
+surface breaking after removal of the weld reinforcement (see Figure 1).<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<HEADING level=3>>Key
+A
+ground weld<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Location of indications in a weld<<HEADING_END>>
+<<HEADING level=3>>4
+Criteria<<HEADING_END>>
+<<HEADING level=3>>4.1 General<<HEADING_END>>
+<<PARAGRAPH>>The classification is carried out by the successive application of several discriminatory criteria to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) echo amplitude;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) directional reflectivity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) echostatic pattern (A-scan);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) echodynamic pattern.<<PARAGRAPH_END>>
+<<PARAGRAPH>>These criteria are applied using a flowchart procedure (see Annex A).<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is recommended that the same probes be used for detection of indications and for classification. The
+flowchart procedure standardizes a system of classification. Several thresholds are defined in decibels by a
+comparison with the distance amplitude curve (DAC) or by a comparison between the maximum echo heights
+from the discontinuity when tested from different directions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Proposed thresholds for the different stages in the flowchart procedure are given in Table A.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The flowchart procedure calls for five stages:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) stage 1: to avoid the classification of indications with very low echo amplitudes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) stage 2: to classify all indications with high echo amplitude as planar;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) stage 3: primarily to classify lack of fusion;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) stage 4: primarily to classify inclusions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) stage 5: primarily to classify cracks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Indications resulting from a combination of an inclusion and lack of fusion are classified as planar by the
+flowchart procedure. An example of this type of flaw is given in Figure A.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_3>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>4.2 Echo amplitude criteria (stages 1 and 2)<<HEADING_END>>
+<<HEADING level=3>>4.2.1
+Low amplitudes (stage 1)<<HEADING_END>>
+<<PARAGRAPH>>It is accepted that an indication with an echo amplitude lower than the evaluation level as specified in
+ISO 11666  [1]  (defined as  T 1  in Figure A.1) is not significant and shall not be characterized.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For special applications, this value  T 1  may be lowered, if defined by specification.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2.2
+High amplitudes (stage 2)<<HEADING_END>>
+<<PARAGRAPH>>It is assumed that an indication with an echo amplitude that is at least equal to the reference level plus 6 dB
+(defined as  T 2  in Figure A.1) is a planar indication.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3 Directional reflectivity criteria (stage 3)<<HEADING_END>>
+<<HEADING level=3>>4.3.1
+Applicability based on length<<HEADING_END>>
+<<PARAGRAPH>>Stage 3 of the flowchart procedure shall be applied only to those indications exceeding:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+t  for the range of thicknesses 8 mm  u   t  u  15 mm;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+t /2 or 15 mm, whichever is the larger, for thicknesses over 15 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For indications not exceeding the specified length proceed to stage 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3.2
+Application conditions<<HEADING_END>>
+<<PARAGRAPH>>The following application conditions apply:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+echoes compared shall be obtained from the same reflector;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the comparison shall be made at the position where echo height,  H d, max , is the highest along the
+indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+when a straight beam probe and an angle beam probe are used, their frequencies shall be chosen to give
+similar wavelengths (e.g. 4 MHz for longitudinal waves and 2 MHz for shear waves);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+when two or more probe angles are used, the differences between the nominal refraction angles shall be
+equal to or greater than 10°;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+if the comparison is made between a beam passing through the weld and a beam passing through the
+base material only, the attenuation of the weld shall be taken into account.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3.3
+Criteria<<HEADING_END>>
+<<PARAGRAPH>>The highest echo amplitude,  H d, max , obtained from the indication is compared to the minimum echo amplitude,
+H d, min , obtained from all the other directions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To satisfy the directional reflectivity, the following conditions shall be fulfilled simultaneously:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+H d, max  is greater than or equal to  T 3  (the reference level minus 6 dB);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the modulus of the difference in indication echo amplitudes, | H d, max   −   H d, min |, from two different
+directions is at least:<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<PARAGRAPH>>1)
+9 dB using shear wave angle beam probes only, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+15 dB using one shear wave angle beam probe and one longitudinal wave normal beam probe.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The directional reflectivities depend on refraction angle and examination conditions (half skip, full skip).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Examples of different directions of examination are given in Figure B.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>An example of the application of these criteria is given in Figure B.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4 Echostatic pattern criteria (stage 4)<<HEADING_END>>
+<<PARAGRAPH>>At this stage, the echostatic pattern (i.e. A-scan) of the indication is compared with that obtained from the
+reference reflector (3 mm diameter side drilled hole).<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the echostatic pattern is single and smooth, the indication is classified as non-planar.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the echostatic pattern is not both single and smooth, proceed to stage 5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This criteria shall be fulfilled for at least two directions of examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5 Transverse echodynamic pattern criteria (stage 5)<<HEADING_END>>
+<<PARAGRAPH>>The transverse echodynamic pattern of an indication is the envelope of the resulting echoes when the
+ultrasonic probe is moved perpendicular to the indication, in accordance with ISO 17640. The analysis takes
+into account not only the envelope, but also the behaviour of the echoes inside it.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Classification of indications depends on the patterns observed:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+pattern 1: single non-planar;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+pattern 2: excluded by previous stage;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+pattern 3 and pattern 4: planar, if observed for the two highest reflectivity directions — if only observed for
+one reflectivity direction, use complementary examination (see 4.6);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+pattern 5: cluster of non-planar.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The patterns used for classification are given in Annex C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This criteria shall be fulfilled for at least two directions of examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6 Complementary examination<<HEADING_END>>
+<<PARAGRAPH>>In case of doubt, carry out additional examinations, for example:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+use of additional reflectivity directions or probes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+analysis of echodynamic pattern when the probe is moved parallel to the indication [see Figures C.1 c),
+C.2 c), C.3 c), C.4 c), C.5 c)].<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+results from other non-destructive testing (e.g. radiography).<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>This list is not restrictive.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(normative)
+Classification of internal indications in welds — Flowchart procedure<<HEADING_END>>
+<<PARAGRAPH>>The flowchart procedure is defined in Figure A.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>H d
+indication echo amplitude
+H d, max
+maximum echo amplitude<<PARAGRAPH_END>>
+<<PARAGRAPH>>H d, min
+minimum echo amplitude
+L
+length<<PARAGRAPH_END>>
+<<PARAGRAPH>>L spec
+specified length
+T 1 ,  T 2 ,  T 3 ,  T 4
+see Table A.1<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.1 — Flowchart procedure<<HEADING_END>>
+<<HEADING level=3>>6
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>Table A.1 — Different thresholds used in the flowchart procedure<<HEADING_END>>
+<<HEADING level=3>>Threshold
+T 1
+T 2
+T 3
+T 4<<HEADING_END>>
+<<PARAGRAPH>>Threshold values
+Evaluation level
+Reference level plus 6 dB
+Reference level minus 6 dB
+9 dB a  or 15 dB b<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Shear waves.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Between reflections obtained with a shear wave and a longitudinal wave.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stage 1   ( T 1 , i.e. evaluation level): All indications  u   T 1  are not classified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stage 2 ( T 2 , i.e. reference level plus 6 dB): An indication being at least twice as reflective as the reference is
+classified as planar.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stage 3 ( T 3 , i.e. reference level minus 6 dB): If the indication echo amplitude is at least half of the reference
+echo and, if the imbalance in reflectivity is greater than or equal to  T 4 , the indication is classified as planar:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  with  T 4  = 9 dB for shear waves;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  with  T 4  = 15 dB between reflections obtained with shear waves and longitudinal waves.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The angles at which the ultrasonic beam is incident upon the indication shall have a difference of at least 10°.
+The comparison shall be made upon the same area of the indication.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stages 4 and 5: These criteria shall be fulfilled for at least two directions of examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stage 5: If the echodynamic pattern does not match pattern 3, the indication is classified as non-planar.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The echo patterns are those defined in Annex C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Indications resulting from a combination of an inclusion and lack of fusion are classified as planar by the
+flowchart procedure. An example of this type of flaw is given in Figure A.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.2 — Example of a combination of inclusion and lack of fusion<<HEADING_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Threshold                                                                 | T                | T                         | T                          | T               |
+|                                                                           | 1                | 2                         | 3                          | 4               |
+|:--------------------------------------------------------------------------|:-----------------|:--------------------------|:---------------------------|:----------------|
+| Threshold values                                                          | Evaluation level | Reference level plus 6 dB | Reference level minus 6 dB | 9 dBa or 15 dBb |
+| a Shear waves.                                                            |                  |                           |                            |                 |
+| b Between reflections obtained with a shear wave and a longitudinal wave. |                  |                           |                            |                 |
+<<TABLE_END>>
+<<TABLE_3>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=2>>Annex B
+(informative)
+Directional reflectivity<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>a)   transverse wave, T
+b)   longitudinal wave, L<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>A, B, C
+probe positions
+L
+longitudinal wave<<PARAGRAPH_END>>
+<<PARAGRAPH>>T
+transverse wave
+1
+local grinding<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure B.1 — Examples of directions of examination<<HEADING_END>>
+<<HEADING level=3>>Key
+1
+position 1
+2
+position 2
+3
+reference level
+4
+reference level minus 9 dB
+d
+sound path
+H
+amplitude<<HEADING_END>>
+<<HEADING level=3>>Figure B.2 — Example of application of directional reflectivity criteria<<HEADING_END>>
+<<HEADING level=3>>8
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_3>>
+| Provided by IHS under license with ISO                           |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=2>>Annex C
+(informative)
+Basic echodynamic patterns of reflectors<<HEADING_END>>
+<<HEADING level=3>>C.1 Pattern 1<<HEADING_END>>
+<<PARAGRAPH>>A point-like reflector response is shown in Figure C.1. At any probe position, the A-scan shows a single sharp
+echo. As the probe is moved, this rises in amplitude smoothly to a single maximum before falling smoothly to
+noise level.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)   probe position of A-scan and variation in signal amplitude<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>b)   typical occurrence in through thickness direction
+c)   typical occurrence in lateral (length) direction<<HEADING_END>>
+<<HEADING level=3>>Key
+1
+A-scan<<HEADING_END>>
+<<PARAGRAPH>>2
+variation in peak signal amplitude
+3
+reflector<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+weld
+d
+range<<PARAGRAPH_END>>
+<<PARAGRAPH>>H
+amplitude
+x
+probe position<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.1 — Pattern 1 ultrasonic response<<HEADING_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+9<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>C.2 Pattern 2<<HEADING_END>>
+<<PARAGRAPH>>An extended smooth reflector response is shown in Figure C.2. At any probe position, the A-scan shows a
+single sharp echo. When the ultrasonic beam is moved over the reflector, the echo rises smoothly to a plateau
+and is maintained, with minor variations in amplitude of up to 4 dB, until the beam moves off the reflector,
+when the echo falls smoothly to noise level.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)   probe position of A-scan and variation in signal amplitude<<HEADING_END>>
+<<HEADING level=3>>b)   typical occurrence in through thickness direction
+c)   typical occurrence in lateral (length) direction<<HEADING_END>>
+<<HEADING level=3>>Key
+1
+A-scan<<HEADING_END>>
+<<PARAGRAPH>>2
+variation in peak signal amplitude
+3
+reflector<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+range
+H
+amplitude<<PARAGRAPH_END>>
+<<PARAGRAPH>>x
+probe position<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.2 — Pattern 2 ultrasonic response<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>C.3 Pattern 3<<HEADING_END>>
+<<PARAGRAPH>>There are two variants of an extended rough reflector response, depending upon the angle of incidence of the
+probe beam on the reflector.<<PARAGRAPH_END>>
+<<PARAGRAPH>>One variant, at near normal incidence, is shown in Figure C.3. At any probe position, the A-scan shows a
+single but ragged echo. As the probe is moved, this may undergo large (greater than  ± 6 dB) random
+fluctuations in amplitude. The fluctuations are caused by reflection from different facets of the reflector, and by
+random interference of waves scattered from groups of facets.<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| Provided by IHS under license with ISO                           |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>a)   probe position of A-scan and variation in signal amplitude<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>b)   typical occurrence in through thickness direction
+c)   typical occurrence in lateral (length) direction<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+A-scan
+2
+variation in peak signal amplitude
+3
+reflector
+d
+range
+H
+amplitude
+x
+probe position<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.3 — Pattern 3 ultrasonic response<<HEADING_END>>
+<<HEADING level=3>>C.4 Pattern 4<<HEADING_END>>
+<<PARAGRAPH>>The second variant of an extended rough reflector response, oblique incidence, “travelling echo pattern”, is
+shown in Figure C.4. At any probe position the A-scan shows an extended train of signals (“subsidiary peaks”)
+within a bell-shaped pulse envelope. As the probe is moved, each subsidiary peak travels through the pulse
+envelope, rising to its own maximum towards the centre of the envelope, and then falling. The overall signal
+may show large (greater than  ± 6 dB) random fluctuations in amplitude.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+11<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2010 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>a)   probe position of A-scan and variation in signal amplitude<<HEADING_END>>
+<<HEADING level=3>>b)   typical occurrence in through thickness direction
+c)   typical occurrence in lateral (length) direction<<HEADING_END>>
+<<HEADING level=3>>Key
+1
+A-scan<<HEADING_END>>
+<<PARAGRAPH>>2
+pulse envelope
+3
+variation in peak signal amplitude<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+reflector
+d
+range<<PARAGRAPH_END>>
+<<PARAGRAPH>>H
+amplitude
+x
+probe position<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.4 — Pattern 4 ultrasonic response<<HEADING_END>>
+<<HEADING level=3>>12
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| 12                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=3>>C.5 Pattern 5<<HEADING_END>>
+<<PARAGRAPH>>A multiple reflector response is shown in Figure C.5. At any probe position, the A-scan shows a cluster of
+signals which may or may not be well resolved in range. As the probe is moved, the signals rise and fall at
+random, but the signal from each separate reflector element, if resolved, shows a pattern 1 response.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)    probe position of A-scan and variation in signal amplitude<<HEADING_END>>
+<<HEADING level=3>>b)   pattern 5 ultrasonic response  through thickness
+direction
+c)   pattern 5 ultrasonic response  in lateral (length)
+direction<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+A-scan
+2
+variation in peak signal amplitude<<PARAGRAPH_END>>
+<<PARAGRAPH>>continuous lines: long-range echoes
+dashed lines: short-range echoes<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+range
+H
+amplitude<<PARAGRAPH_END>>
+<<PARAGRAPH>>x
+probe position<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.5 — Pattern 5 ultrasonic response<<HEADING_END>>
+<<HEADING level=3>>© ISO 2010 – All rig hts reserved
+13<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_2>>
+| © ISO 2010 – All ri                                        |
+| Copyright International Organization for Standardization   |
+|:-----------------------------------------------------------|
+| Provided by IHS under license with ISO                     |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 11666,  Non-destructive testing of welds — Ultrasonic testing of welded joints — Acceptance
+levels<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>14
+© ISO 2010 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 14                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>ISO 23279:2010(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  25.160.40<<HEADING_END>>
+<<PARAGRAPH>>Price based on 14 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2010 – All rights reser ved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2010 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 20
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 21
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_3] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_1] Page: 11, Size: 3x5
+[TABLE_3] Page: 11, Size: 3x1
+[TABLE_3] Page: 12, Size: 2x1
+[TABLE_2] Page: 13, Size: 3x1
+[TABLE_2] Page: 14, Size: 2x1
+[TABLE_2] Page: 15, Size: 3x1
+[TABLE_2] Page: 16, Size: 3x1
+[TABLE_2] Page: 17, Size: 2x1
+[TABLE_1] Page: 18, Size: 3x1
+[TABLE_1] Page: 19, Size: 3x1
+[TABLE_1] Page: 20, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

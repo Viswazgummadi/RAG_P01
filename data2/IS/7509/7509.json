@@ -1,0 +1,2264 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 7509 : 1993\n(Reaffirmed 1999)\nEdition 2.1\n(1999-04)",
+          "bbox": [
+            432.04,
+            55.29,
+            524.37,
+            108.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            177.04,
+            120.72,
+            417.04,
+            204.24
+          ],
+          "block_id": "img1_9"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            218.96,
+            368.3,
+            236.96
+          ],
+          "block_id": "b1_4",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "THERMAL INSULATING CEMENTS \u2014\nSPECIFICATION",
+          "bbox": [
+            107.08,
+            250.63,
+            493.5,
+            292.51
+          ],
+          "block_id": "b1_5",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            228.52,
+            304.88,
+            366.42,
+            322.88
+          ],
+          "block_id": "b1_6",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            219.28,
+            337.83,
+            375.87,
+            347.79
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC\n662.998 : 666.946",
+          "bbox": [
+            240.64,
+            378.75,
+            354.42,
+            388.71
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2003",
+          "bbox": [
+            271.12,
+            673.83,
+            323.91,
+            683.79
+          ],
+          "block_id": "b1_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            705.69,
+            452.46,
+            746.25
+          ],
+          "block_id": "b1_1",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 2",
+          "bbox": [
+            451.24,
+            778.41,
+            523.59,
+            788.37
+          ],
+          "block_id": "b1_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_9",
+          "bbox": [
+            177.04,
+            120.72,
+            417.04,
+            204.24
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_9": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Thermal Insulation Materials Sectional Committee, CHD 027",
+          "bbox": [
+            70.72,
+            63.99,
+            355.98,
+            73.95
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.55,
+            132.23,
+            150.51
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by\nthe Thermal Insulation Materials Sectional Committee had been approved by the Chemical\nDivision Council.",
+          "bbox": [
+            70.72,
+            161.55,
+            524.48,
+            193.47
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The material covered by this standard is in the form of dry powder, intended to be mixed with a\nsuitable proportion of water, applied as a plastic mass, and dried in place, for use as insulation and\nnot as a finishing cement.",
+          "bbox": [
+            70.72,
+            198.51,
+            524.3,
+            230.43
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The standard covers the specification of thermal insulating cements for use at limiting\ntemperatures up to 350\u00b0C, 750\u00b0C and 950\u00b0C. Typical materials used are:\nTYPE 350\na) Hydrated magnesium carbonate and/or hydrated calcium silicate with suitable reinforcing\nfibres.\nb) Predominantly mineral wool fibres with suitable proportion of heat resistant binders.\nTYPE 750\nHydrated calcium silicate and/or diatomaceous earth (silica) with suitable proportion of heat\nresistant binders and reinforcing fibres.\nTYPE 950\nExfoliated vermiculite and/or diatomaceous earth (silica) with suitable proportion of heat\nresistant binders.",
+          "bbox": [
+            70.72,
+            235.47,
+            524.41,
+            387.51
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "After the publication of IS 7509 : 1974 Thermal insulating cement (type 750), IS 7510 : 1974\nThermal insulating cement (type 350) and IS 9350 : 1980 Thermal insulating cement (type 950)\ncovering thermal insulating cements for the range from 350\u00b0C to 950\u00b0C \u2014 the Committee decided\nto amalgamate the three standards into one.",
+          "bbox": [
+            70.72,
+            392.55,
+            524.34,
+            435.51
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The Committee responsible for the preparation of this standard is given at Annex B.",
+          "bbox": [
+            70.72,
+            440.55,
+            460.09,
+            450.51
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (April 1999). Side bar indicates modification of the\ntext as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            455.55,
+            524.3,
+            476.43
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular requirement of this standard is complied with,\nthe final value, observed or calculated, expressing the result of a test or analysis, shall be rounded\noff in accordance with IS 2 : 1960 \u2018Rules for rounding off numerical values (  revised  )\u2019. The number\nof significant places retained in the rounded off value should be the same as that of the specified\nvalue in this standard.",
+          "bbox": [
+            70.72,
+            481.47,
+            524.43,
+            535.47
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 7509 : 1993",
+          "bbox": [
+            442.24,
+            55.29,
+            524.37,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard\nTHERMAL INSULATING CEMENTS \u2014\nSPECIFICATION\n( First Revision )",
+          "bbox": [
+            107.08,
+            71.96,
+            493.5,
+            165.92
+          ],
+          "block_id": "b3_2",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE\nThis standard prescribes requirements and\nmethod of sampling and test for thermal\ninsulating cements for use at temperatures up\nto 950\u00b0C.",
+          "bbox": [
+            70.72,
+            174.93,
+            290.48,
+            230.79
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3 TERMINOLOGY\n3.1  For the purpose of this standard, the\ndefinitions of terms, symbols and units given in\nIS 3069 : 1965 and the following shall apply.\n3.1.1  Consistency\nof\nWet\nMixed\nThermal\nInsulating Cement\nThe degree at which it resists deformation due\nto the application of outside force.",
+          "bbox": [
+            304.6,
+            174.93,
+            524.32,
+            268.23
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES\nThe following Indian Standards are the\nnecessary adjuncts to this standard:",
+          "bbox": [
+            70.72,
+            236.37,
+            290.41,
+            270.75
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4 TYPES\nThe material shall be of three types,  viz ,",
+          "bbox": [
+            304.6,
+            273.93,
+            490.61,
+            297.94
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle\n3069 : 1965\nGlossary of terms, symbols and\nunits\nrelating\nto\nthermal\ninsulation materials\n3346 : 1980\nMethod for the determination of\nthermal conductivity of thermal\ninsulation materials (two slab\nguarded\nhot\nplate\nmethod)\n(  first revision  )\n4905 : 1968\nMethods for random sampling\n5724 : 1970\nMethods of test for thermal\ninsulating cements\n9490 : 1980\nMethod for determination of\nthermal\nconductivity\nof\ninsulation\nmaterials\n(water\ncolorimeter method)",
+          "bbox": [
+            70.72,
+            275.5,
+            290.46,
+            457.35
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Type 350\nfor use of temperatures up to\n350\u00b0C,\nType 750\nfor use of temperatures up to\n750\u00b0C, and\nType 950\nfor use of temperatures up to\n950\u00b0C.",
+          "bbox": [
+            316.96,
+            302.31,
+            523.96,
+            369.75
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 REQUIREMENTS\n5.1  The material shall be in the form of dry\npowder and/or granulated aggregate.\n5.2  The\nmaterial\nshall\nconform\nto\nthe\nrequirements given in Table 1 when tested in\naccordance with the methods referred to in col 6\nof the table.",
+          "bbox": [
+            304.6,
+            376.89,
+            524.37,
+            456.27
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 1\nRequirements of Thermal Insulating Cements",
+          "bbox": [
+            154.84,
+            468.45,
+            440.12,
+            478.41
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Sl No.\nCharacteristic\nRequirements\nMethod of Test, Ref\nto Cl in IS 5724 : 1970\nType 350\nType 750\nType 950\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)",
+          "bbox": [
+            72.76,
+            484.77,
+            524.19,
+            518.51
+          ],
+          "block_id": "b3_11",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\uf8fc\uf8f4\n\uf8f4\uf8fd\n\uf8f4\uf8fe",
+          "bbox": [
+            220.3,
+            495.35,
+            431.14,
+            499.8
+          ],
+          "block_id": "b3_28",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "i)\nService temperature\n350\u00b0C\n750\u00b0C\n950\u00b0C\n\u2014\nii)\nConsistency, percent\na) Method A\nb) Method B\n35 to  45\n175 to 230\n35 to 45\n175 to 235\n\u2014\n\u2014",
+          "bbox": [
+            82.84,
+            522.59,
+            484.46,
+            559.91
+          ],
+          "block_id": "b3_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            480.16,
+            534.0,
+            484.56,
+            541.92
+          ],
+          "block_id": "b3_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iii)\nDry covering capacity m 2 ,\n1 cm, in thickness per\n100 kg of dry cement,  Min",
+          "bbox": [
+            80.32,
+            561.29,
+            196.52,
+            589.39
+          ],
+          "block_id": "b3_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "17.5\n20.0\n14.0\n6",
+          "bbox": [
+            242.2,
+            563.39,
+            484.56,
+            571.31
+          ],
+          "block_id": "b3_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iv)\nCompressive strength at 5\npercent deformation,\nkg/cm 2 ,  Min",
+          "bbox": [
+            81.16,
+            592.79,
+            198.73,
+            618.79
+          ],
+          "block_id": "b3_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.5\n3.5\n5.0\n7",
+          "bbox": [
+            245.32,
+            592.79,
+            484.56,
+            600.71
+          ],
+          "block_id": "b3_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "v)\nVolume change (shrinkage)\nupon drying, percent,  Max\n25\n25\n30\n6",
+          "bbox": [
+            83.68,
+            622.19,
+            484.56,
+            639.19
+          ],
+          "block_id": "b3_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "vi)\nLinear shrinkage (length)\nafter heat soaking at service\ntemperature, percent,  Max",
+          "bbox": [
+            81.16,
+            642.59,
+            206.01,
+            668.59
+          ],
+          "block_id": "b3_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.0\n3.0\n3.0\n9",
+          "bbox": [
+            245.32,
+            642.59,
+            484.56,
+            650.51
+          ],
+          "block_id": "b3_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "vii)\nDry adhesion to steel,\nkg/cm 2 ,  Min\n0.35\n0.35\n0.50\n10",
+          "bbox": [
+            78.64,
+            671.99,
+            484.56,
+            688.99
+          ],
+          "block_id": "b3_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "viii)\nThermal conductivity\nW/mK,  Max\nMean Temp, \u00b0C",
+          "bbox": [
+            76.12,
+            692.39,
+            178.29,
+            718.31
+          ],
+          "block_id": "b3_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS 9490 : 1980/IS 3346\n: 1980",
+          "bbox": [
+            439.48,
+            692.39,
+            522.0,
+            709.32
+          ],
+          "block_id": "b3_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "100\n200\n300\n400",
+          "bbox": [
+            147.28,
+            721.8,
+            160.56,
+            756.72
+          ],
+          "block_id": "b3_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.09\n0.11\n\u2014\n\u2014",
+          "bbox": [
+            242.2,
+            721.8,
+            257.64,
+            756.72
+          ],
+          "block_id": "b3_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.07\n0.09\n0.11\n\u2014",
+          "bbox": [
+            317.32,
+            721.8,
+            332.76,
+            756.72
+          ],
+          "block_id": "b3_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0.14\n0.16\n0.18\n0.20",
+          "bbox": [
+            392.44,
+            721.8,
+            407.88,
+            756.72
+          ],
+          "block_id": "b3_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 7509 : 1993",
+          "bbox": [
+            70.72,
+            55.29,
+            152.85,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b) Net mass of the contents;",
+          "bbox": [
+            316.96,
+            83.79,
+            445.58,
+            93.75
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 PACKING AND MARKING",
+          "bbox": [
+            70.72,
+            83.85,
+            216.32,
+            93.81
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1 Packing",
+          "bbox": [
+            70.72,
+            99.33,
+            130.46,
+            109.29
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c) Name and type of the material;",
+          "bbox": [
+            316.96,
+            99.87,
+            472.09,
+            109.83
+          ],
+          "block_id": "b4_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The material shall be packed as agreed to\nbetween the purchaser and the supplier.\nHowever, polyethylene bonded hessian bags or\npaper lined hessian bags are generally used.",
+          "bbox": [
+            70.72,
+            114.87,
+            290.54,
+            157.83
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d) Amount and method of adding water,\nmethod of curing and drying; and",
+          "bbox": [
+            316.96,
+            115.83,
+            524.31,
+            136.83
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e) Batch number and year of manufacture.",
+          "bbox": [
+            316.96,
+            142.83,
+            513.44,
+            152.79
+          ],
+          "block_id": "b4_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 SAMPLING",
+          "bbox": [
+            304.6,
+            161.85,
+            373.15,
+            171.81
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2 Marking",
+          "bbox": [
+            70.72,
+            162.93,
+            132.25,
+            172.89
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Packages shall be legibly and indelibly marked\nwith the following information:\na) Indication of the source of manufacture;",
+          "bbox": [
+            70.72,
+            178.35,
+            290.38,
+            213.27
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The method of drawing representative samples\nof the material and criteria for their conformity\nshall be as prescribed in Annex A.",
+          "bbox": [
+            304.6,
+            180.27,
+            524.29,
+            212.31
+          ],
+          "block_id": "b4_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n(  Clause  7 )",
+          "bbox": [
+            266.56,
+            264.21,
+            328.47,
+            290.5
+          ],
+          "block_id": "b4_13",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SAMPLING OF THERMAL INSULATING CEMENTS",
+          "bbox": [
+            163.0,
+            301.41,
+            432.09,
+            311.37
+          ],
+          "block_id": "b4_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-1 SCALE OF SAMPLING",
+          "bbox": [
+            70.72,
+            322.41,
+            208.26,
+            332.37
+          ],
+          "block_id": "b4_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2 PREPARATION OF TEST SAMPLE\nAND NUMBER OF TESTS",
+          "bbox": [
+            304.6,
+            322.41,
+            508.82,
+            343.89
+          ],
+          "block_id": "b4_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-1.1 Lot",
+          "bbox": [
+            70.72,
+            341.85,
+            116.38,
+            351.81
+          ],
+          "block_id": "b4_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.1  From each of the bags selected according\nto  A-1.3  approximately equal quantity of the\nmaterial shall be taken and thoroughly mixed\nto form a composite sample weighing not less\nthan 45 kg which would be sufficient for\ncarrying out triplicate determination of all\ncharacteristics given in Table 1.",
+          "bbox": [
+            304.6,
+            349.35,
+            524.32,
+            425.31
+          ],
+          "block_id": "b4_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "All bags of insulating cement belonging to the\nsame batch of manufacture, in a single\nconsignment, shall be grouped together and\neach such group shall constitute a lot.",
+          "bbox": [
+            70.72,
+            361.35,
+            290.42,
+            404.31
+          ],
+          "block_id": "b4_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-1.2  For ascertaining the conformity of the lot\nto the requirements of this specification tests\nshall be carried out on each lot separately.",
+          "bbox": [
+            70.72,
+            413.31,
+            290.49,
+            445.35
+          ],
+          "block_id": "b4_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.1.1  The composite sample shall be divided\ninto three equal parts, one for the purchaser,\nanother for the supplier and the third to be\nused as the referee sample.",
+          "bbox": [
+            304.6,
+            430.35,
+            524.42,
+            473.31
+          ],
+          "block_id": "b4_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-1.3  The number of bags to be selected (  n  )\nshall depend on the lot size (  N  ) and shall be in\naccordance with Table 2.",
+          "bbox": [
+            70.72,
+            454.35,
+            290.41,
+            486.27
+          ],
+          "block_id": "b4_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.1.2  These three parts of the composite\nsample shall be transferred to separate sample\nbags. These bags shall be properly stitched and\nlabelled with full identification particulars.",
+          "bbox": [
+            304.6,
+            478.35,
+            524.28,
+            521.31
+          ],
+          "block_id": "b4_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-1.3.1  These bags shall be selected at random.\nIn order to ensure the randomness of selection,\nrandom sampling procedures given in IS 4905 :\n1968 may be adopted.",
+          "bbox": [
+            70.72,
+            495.39,
+            290.47,
+            538.35
+          ],
+          "block_id": "b4_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.1.3  The referee test sample shall bear the\nseal of both the purchaser and the supplier. It\nshall be kept at a place agreed to between the\npurchaser and the supplier to be used in case of\nany dispute between the two.",
+          "bbox": [
+            304.6,
+            526.35,
+            524.35,
+            580.35
+          ],
+          "block_id": "b4_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 2\nNumber of Bags to be Selected\nfor Sampling\n(  Clause  A-1.3 )",
+          "bbox": [
+            77.8,
+            553.4,
+            286.36,
+            589.53
+          ],
+          "block_id": "b4_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A-2.2  Tests\nfor\ndetermination\nof\nall\ncharacteristics given in Table 1 shall be\nconducted on the composite sample.",
+          "bbox": [
+            304.6,
+            585.39,
+            524.34,
+            617.31
+          ],
+          "block_id": "b4_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Lot Size\nNo. of Bags to be Selected",
+          "bbox": [
+            93.64,
+            599.73,
+            273.44,
+            607.65
+          ],
+          "block_id": "b4_30",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  N  )\n(  n  )",
+          "bbox": [
+            102.28,
+            614.63,
+            227.56,
+            622.63
+          ],
+          "block_id": "b4_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-3 CRITERIA FOR CONFORMITY",
+          "bbox": [
+            304.6,
+            624.44,
+            485.68,
+            634.4
+          ],
+          "block_id": "b4_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Up to 25\n1",
+          "bbox": [
+            91.96,
+            630.47,
+            222.48,
+            638.39
+          ],
+          "block_id": "b4_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-3.1  The lot shall be declared as conforming to\nthe requirements of this specification if all the\ntest results on the composite sample satisfy the\ncorresponding requirements given in Table 1.",
+          "bbox": [
+            304.6,
+            639.87,
+            524.33,
+            682.83
+          ],
+          "block_id": "b4_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "26 to 50\n2",
+          "bbox": [
+            93.4,
+            644.03,
+            222.49,
+            651.95
+          ],
+          "block_id": "b4_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "51 to 100\n3",
+          "bbox": [
+            93.4,
+            657.59,
+            222.49,
+            665.51
+          ],
+          "block_id": "b4_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "101 and above\n4",
+          "bbox": [
+            93.4,
+            671.27,
+            222.5,
+            679.19
+          ],
+          "block_id": "b4_35",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 7509 : 1993",
+          "bbox": [
+            442.24,
+            55.29,
+            524.37,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX B\n(  Foreword  )",
+          "bbox": [
+            266.44,
+            77.61,
+            328.58,
+            104.02
+          ],
+          "block_id": "b5_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "COMMITTEE COMPOSITION",
+          "bbox": [
+            220.6,
+            114.93,
+            374.46,
+            124.89
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Thermal Insulation Materials Sectional Committee, CHD 027",
+          "bbox": [
+            154.84,
+            135.39,
+            440.08,
+            145.35
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Chairman",
+          "bbox": [
+            278.44,
+            149.95,
+            316.4,
+            157.87
+          ],
+          "block_id": "b5_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  B. C. R AYCHAUDHURI\nB-138, Sarita Vihar, New Delhi-110044",
+          "bbox": [
+            224.68,
+            161.87,
+            370.32,
+            178.79
+          ],
+          "block_id": "b5_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members\nRepresenting\nS HRI  K. N. A GARWAL\nCentral Building Research Institute, Roorkee\nS HRI  S. C. A GARWAL\nS HRI  J. P. K ARDAM  (  Alternate  )\nMinistry of Energy, Dept of Power, New Delhi",
+          "bbox": [
+            70.72,
+            185.23,
+            439.34,
+            222.55
+          ],
+          "block_id": "b5_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. P. C HITRE\nS HRI  S OVNATH  (  Alternate  )\nIndian Oil Corporation (R & P Division), New Delhi",
+          "bbox": [
+            70.72,
+            223.67,
+            459.84,
+            240.67
+          ],
+          "block_id": "b5_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. K. C HOURASIA\nMetallurgical and Engineering Consultants (India) Ltd, Ranchi\nS HRI  A. K. D ASGUPTA\nS HRI  M. S. M UKHOPADHYAY  (  Alternate  )\nSteel Authority of India Ltd, Ranchi",
+          "bbox": [
+            70.72,
+            241.91,
+            503.31,
+            268.15
+          ],
+          "block_id": "b5_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  T APAN  D UTTA\nS HRI  K. K. B HATNAGAR  (  Alternate  )\nPetroleum Conservation and Research Assn, Dehra Dun",
+          "bbox": [
+            70.72,
+            269.39,
+            477.31,
+            286.39
+          ],
+          "block_id": "b5_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. N. G ANJOO\nS HRI  B. J OSHI  (  Alternate  )\nBASF India Ltd, Bombay",
+          "bbox": [
+            70.72,
+            287.51,
+            362.73,
+            304.51
+          ],
+          "block_id": "b5_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. G HOSH\nS HRI  S. A. B OHRA  (  Alternate  )\nNuclear Power Corpn, Bombay",
+          "bbox": [
+            70.72,
+            305.75,
+            383.49,
+            322.75
+          ],
+          "block_id": "b5_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. K. G UPTA\nHyderabad Industries Ltd, Hyderabad\nS HRI  A JAY  G UPTA\nS HRI  S. B ANSAL  (  Alternate  )\nU. P. Twiga Fibreglass Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            323.99,
+            412.21,
+            350.11
+          ],
+          "block_id": "b5_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. C. P ANDIT\nS HRI  L. N. B ADRUKA  (  Alternate  )\nMinwool Insulation Ltd, Bombay",
+          "bbox": [
+            70.72,
+            351.35,
+            391.03,
+            368.35
+          ],
+          "block_id": "b5_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. P. P UNJ\nS HRI  J. K. C HOPRA  (  Alternate  )\nPunj Sons Pvt Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            369.59,
+            380.31,
+            386.59
+          ],
+          "block_id": "b5_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. R. R AJAGOPALAN\nEngineers India Ltd, New Delhi\nS HRI  R. V. R AMACHANDRAN\nS HRI  D. P ADMANABHA  (  Alternate  )\nTata Consulting Engineers, Bombay",
+          "bbox": [
+            70.72,
+            387.71,
+            403.7,
+            413.95
+          ],
+          "block_id": "b5_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R EPRESENTATIVE\nDesein Consultants Pvt Ltd, New Delhi\nR EPRESENTATIVE\nMinistry of Energy (Dept of Coal), New Delhi\nD R  H. C. R OY\nD R . S. P. S. K HALSA  (  Alternate  )\nProjects & Development India Ltd, Sindri",
+          "bbox": [
+            70.72,
+            415.19,
+            436.08,
+            450.55
+          ],
+          "block_id": "b5_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. R OY\nS HRI  B. D UARI  (  Alternate  )\nBakelite Hylam Ltd, Bombay",
+          "bbox": [
+            70.72,
+            451.79,
+            377.23,
+            468.79
+          ],
+          "block_id": "b5_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. S ACHDEVA\nS HRI  K. V. S INGH  (  Alternate  )\nDirectorate General of Technical Development, New Delhi",
+          "bbox": [
+            70.72,
+            469.91,
+            484.36,
+            486.91
+          ],
+          "block_id": "b5_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. S ANKARAN\nS HRI  S. K. K UNDU  (  Alternate  )\nS HRI  S. S. P HOGAT  (  Alternate  )",
+          "bbox": [
+            70.72,
+            488.15,
+            197.32,
+            514.15
+          ],
+          "block_id": "b5_20",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BHEL, Hyderabad",
+          "bbox": [
+            269.2,
+            488.15,
+            338.2,
+            496.07
+          ],
+          "block_id": "b5_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. S HARIF\nS HRI  R. S RINIVASAN  (  Alternate  )\nFPG Ltd, Bombay",
+          "bbox": [
+            70.72,
+            515.39,
+            335.85,
+            532.39
+          ],
+          "block_id": "b5_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. K. S INGHAL\nS HRI  J ADAV  D ATTA  (  Alternate  )\nNTPC, New Delhi",
+          "bbox": [
+            70.72,
+            533.51,
+            335.66,
+            550.51
+          ],
+          "block_id": "b5_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  N. S RINIVAS\nS HRI  C. P. K HANNA  (  Alternate  )\nLloyd Insulations (India) Pvt Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            551.75,
+            434.95,
+            568.75
+          ],
+          "block_id": "b5_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  N IMISH  V. S URA\nS HRI  V. A. S URA  (  Alternate  )\nNewkem Products Corporation, Bombay",
+          "bbox": [
+            70.72,
+            569.99,
+            417.79,
+            586.99
+          ],
+          "block_id": "b5_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  T. U DAYA  K UMAR\nS HRI  A. K. S EN  (  Alternate  )\nPIBCO Limited, New Delhi",
+          "bbox": [
+            70.72,
+            588.11,
+            370.46,
+            605.11
+          ],
+          "block_id": "b5_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  C. V. V ENKATAKRISHNAN\nBeardsell Ltd, Madras\nS HRI  V. P. W ASON\nS HRI  K. N. B HATNAGAR  (  Alternate  )\nNational Physical Laboratory, New Delhi",
+          "bbox": [
+            70.72,
+            606.35,
+            422.05,
+            632.59
+          ],
+          "block_id": "b5_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  R. K. S INGH ,\nDirector (Chem)\nDirector General, BIS (  Ex-officio Member  )",
+          "bbox": [
+            70.72,
+            633.71,
+            428.56,
+            650.63
+          ],
+          "block_id": "b5_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Member Secretary",
+          "bbox": [
+            270.4,
+            655.03,
+            336.76,
+            662.95
+          ],
+          "block_id": "b5_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S ANJAY  G UPTA\nAssistant Director (Chem), BIS",
+          "bbox": [
+            245.92,
+            666.95,
+            361.49,
+            683.87
+          ],
+          "block_id": "b5_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Thermal Insulating Cements, Castable and Performed Thermal Insulation Products\nSubcommittee, CHD 027 : 03",
+          "bbox": [
+            103.24,
+            694.83,
+            494.47,
+            715.83
+          ],
+          "block_id": "b5_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Convener",
+          "bbox": [
+            113.32,
+            723.43,
+            147.56,
+            731.35
+          ],
+          "block_id": "b5_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  V. A. S URA\nNewkem Products Corporation, Bombay",
+          "bbox": [
+            70.72,
+            735.59,
+            417.79,
+            743.51
+          ],
+          "block_id": "b5_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(  Continued on page   4  )",
+          "bbox": [
+            430.72,
+            747.71,
+            515.8,
+            755.71
+          ],
+          "block_id": "b5_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 7509 : 1993",
+          "bbox": [
+            70.72,
+            55.29,
+            152.85,
+            67.29
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Continued from page   3  )",
+          "bbox": [
+            70.72,
+            93.11,
+            164.32,
+            101.11
+          ],
+          "block_id": "b6_2",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members\nRepresenting",
+          "bbox": [
+            113.32,
+            106.15,
+            401.86,
+            114.07
+          ],
+          "block_id": "b6_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  K. N. A GARWAL\nD R  V. V. V ERMA  (  Alternate  )\nCentral Building Research Institute (CSIR), Roorkee",
+          "bbox": [
+            70.72,
+            118.07,
+            464.41,
+            135.07
+          ],
+          "block_id": "b6_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  C. S. A THITHYAN\nS HRI  S. K. K UNDU  (  Alternate  )\nS HRI  S. K ANNAN  (  Alternate  )",
+          "bbox": [
+            70.72,
+            137.15,
+            195.88,
+            163.15
+          ],
+          "block_id": "b6_5",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BHEL (Corporate R & D), Hyderabad",
+          "bbox": [
+            269.2,
+            137.15,
+            407.93,
+            145.07
+          ],
+          "block_id": "b6_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. P. C HITRE\nS HRI  S OVNATH  (  Alternate  )\nIndian Oil Corporation Ltd (Refineries & Pipelines Division),\nNew Delhi\nS HRI  A. K. G UPTA\nS HRI  D INESH  K UMAR  (  Alternate  )\nHyderabad Industries Ltd, Hyderabad",
+          "bbox": [
+            70.72,
+            165.11,
+            496.65,
+            201.07
+          ],
+          "block_id": "b6_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. K ARKUN\nPDIL, Sindri\nS HRI  P RANNAVASOURBAN\nS HRI  N. R AMANATHAN  (  Alternate  )\nMurugappa Morganite Ceramic Fibres Ltd, Madras",
+          "bbox": [
+            70.72,
+            203.15,
+            459.82,
+            230.11
+          ],
+          "block_id": "b6_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. P. P UNJ\nS HRI  J. K. C HOPRA  (  Alternate  )\nPunj Sons Pvt Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            232.07,
+            380.31,
+            249.19
+          ],
+          "block_id": "b6_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. S. V. R AO\nS HRI  V. N. P ANGAL  (  Alternate  )\nKarnataka Explosives Ltd, Bangalore",
+          "bbox": [
+            70.72,
+            251.15,
+            408.64,
+            268.15
+          ],
+          "block_id": "b6_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R EPRESENTATIVE\nLloyd Insulations (India) Pvt Ltd, New Delhi\nS HRI  N IMISH  S URA\nNewkem Products Corporation, Bombay\nS HRI  T. U DAYAKUMAR\nS HRI  A. K. S EN  (  Alternate  )\nPIBCO Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            270.11,
+            434.95,
+            307.15
+          ],
+          "block_id": "b6_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Standard Mark",
+          "bbox": [
+            79.24,
+            630.93,
+            158.37,
+            640.89
+          ],
+          "block_id": "b7_0",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The use of the Standard Mark is governed by the provisions of the  Bureau of Indian\nStandards Act, 1986  and the Rules and Regulations made thereunder. The Standard Mark on\nproducts covered by an Indian Standard conveys the assurance that they have been produced\nto comply with the requirements of that standard under a well defined system of inspection,\ntesting and quality control which is devised and supervised by BIS and operated by the\nproducer. Standard marked products are also continuously checked by BIS for conformity to\nthat standard as a further safeguard. Details of conditions under which a licence for the use of\nthe Standard Mark may be granted to manufacturers or producers may be obtained from the\nBureau of Indian Standards.",
+          "bbox": [
+            79.24,
+            645.87,
+            515.89,
+            743.91
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b8_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.21,
+            524.37,
+            116.25
+          ],
+          "block_id": "b8_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b8_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.73,
+            524.33,
+            182.73
+          ],
+          "block_id": "b8_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b8_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.21,
+            524.42,
+            259.29
+          ],
+          "block_id": "b8_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. CHD 02 (79539)",
+          "bbox": [
+            70.72,
+            267.21,
+            374.79,
+            276.21
+          ],
+          "block_id": "b8_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b8_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b8_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nApril 1999",
+          "bbox": [
+            70.72,
+            331.29,
+            265.69,
+            340.29
+          ],
+          "block_id": "b8_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b8_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.33,
+            131.08,
+            543.33
+          ],
+          "block_id": "b8_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.25,
+            524.32,
+            570.33
+          ],
+          "block_id": "b8_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.25,
+            524.38,
+            587.25
+          ],
+          "block_id": "b8_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.28,
+            524.28,
+            614.25
+          ],
+          "block_id": "b8_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.28,
+            524.29,
+            641.25
+          ],
+          "block_id": "b8_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.28,
+            524.17,
+            668.25
+          ],
+          "block_id": "b8_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.28,
+            524.29,
+            695.25
+          ],
+          "block_id": "b8_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.28,
+            524.29,
+            722.25
+          ],
+          "block_id": "b8_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.28,
+            521.28,
+            772.29
+          ],
+          "block_id": "b8_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "(AGG AAS ON)\nUdit det Hel-C \u2014 follaltes\nAMAA A silos",
+      "position": {
+        "x0": 177.04,
+        "y0": 120.72,
+        "x1": 417.04,
+        "y1": 204.24,
+        "width": 240.0,
+        "height": 83.52
+      },
+      "size": {
+        "width": 2000,
+        "height": 696
+      },
+      "format": "png"
+    }
+  ]
+}

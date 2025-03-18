@@ -1,0 +1,904 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-5<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 5:
+Magnetic particle inspection of seamless
+and welded ferromagnetic steel tubes for
+the detection of surface imperfections<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 5: Contrôle par magnétoscopie des tubes en acier
+ferromagnétique sans soudure et soudés pour la détection des
+imperfections de surface<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-5:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Test method ...........................................................................................................................................3
+5.1
+General ...................................................................................................................................................3
+5.2
+Testing the tube body ...........................................................................................................................3
+5.3
+Testing the end/bevel face....................................................................................................................4<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Evaluation of indications......................................................................................................................4
+6.1
+General ...................................................................................................................................................4
+6.2
+Special requirements for evaluation of indications in the pipe body..............................................5<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Acceptance ............................................................................................................................................7
+7.1
+Tube body ..............................................................................................................................................7
+7.2
+End/bevel face .......................................................................................................................................7<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Test report..............................................................................................................................................7<<HEADING_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-5 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition cancels and replaces ISO 13664:1997 and ISO 13665:1997, which have been technically
+revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tubes for the verification of hydraulic leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged arc-
+welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+surface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged
+arc-welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 5:
+Magnetic particle inspection of seamless and welded
+ferromagnetic steel tubes for the detection of surface
+imperfections<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies requirements for magnetic particle inspection of seamless and welded
+ferromagnetic steel tubes for the detection of surface imperfections on the tube body and the end/bevel face
+at the ends.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the tube body, it specifies requirements for the detection of surface imperfections on all or part of the
+outside surface of tubes. However, by agreement between the purchaser and manufacturer, it can be
+applicable to the inside surface over a limited length from the ends of tubes, dependent on the tube diameter.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In addition, this part of ISO 10893 can be used, as appropriate, to locate the position of external surface
+imperfections detected by another non-destructive testing method (e.g. ultrasonic) prior to dressing of the tube
+surface, and to ensure complete removal of the imperfection after dressing is complete.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the end/bevel face at the ends of plain-end and beveled-end tubes,   this part of ISO 10893 specifies
+requirements for the detection of laminar imperfections which can interfere with subsequent fabrication and
+inspection operations (e.g. welding and ultrasonic inspection of the welds).<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 is applicable to the detection of imperfections, other than laminar imperfections, on the
+end/bevel face. In this case, magnetization is applied in the direction essentially perpendicular to the
+orientation of the particular imperfections being detected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It can also be applicable to the testing of hollow sections.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9934-1,  Non-destructive testing — Magnetic particle testing — Part 1: General principles<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9934-2,  Non-destructive testing — Magnetic particle testing — Part 2: Detection media<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9934-3,  Non-destructive testing — Magnetic particle testing — Part 3: Equipment<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-8,  Non-destructive testing of steel tubes — Part 8: Automated ultrasonic testing of seamless and
+welded steel tubes for the detection of laminar imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer's qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright Internation al  Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,```<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                                  |
+| Copyright International Organization for Standardization             |
+|:---------------------------------------------------------------------|
+| Provided by IHS under license with ISO --`,                          |
+| No reproduction or networking permitted without license from IHS ,`` |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 9934-1 and ISO 11484 and the
+following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<HEADING level=3>>3.2
+seamless tube
+tube  m ade by piercing a solid product to obtain a tube hollow, which is further processed, either hot or cold,
+into its final dimensions<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.3
+welded tube
+tube, made by forming a hollow profile from a flat product and welding adjacent edges together, and which
+after welding can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.4
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by the product standard or agreed on by the purchaser and manufacturer, a
+magnetic particle inspection shall be carried out on tubes after completion of all the primary production
+process operations (rolling,  heat treating, cold and hot working, sizing, primary straightening, etc.).<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+The surface of the tube and of the end/bevel face at both tube ends being tested shall be sufficiently
+clean and free of oil, grease, sand or scale or any other foreign matter which can interfere with the correct
+interpretation of the indications obtained from the magnetic particle inspection. The type of indications, as well
+as the minimum dimension of the surface imperfections being detected, depends on the specific tube
+manufacturing process and the surface finish.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+This inspection shall be carried out by trained operators qualified in accordance with ISO 9712,
+ISO 11484 or equivalent, and supervised by competent personnel nominated by the manufacturer. In the case
+of third-party inspection, this shall be agreed on between the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. NDT operations
+shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate International Standards, e.g. ISO 9712 and
+ISO 11484.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>5
+Test method<<HEADING_END>>
+<<HEADING level=3>>5.1 General<<HEADING_END>>
+<<HEADING level=3>>5.1.1
+Inspection area (the tube body or end/bevel face) and inspection direction (longitudinal or transverse)
+shall be as specified in the product standards or purchaser order.<<HEADING_END>>
+<<PARAGRAPH>>5.1.2
+The entire outside surface of each tube or part of it, as required, shall be inspected using the
+magnetic particle method, for the detection of longitudinal and/or transverse surface imperfections, using a.c.
+or d.c. magnetization, as appropriate to the magnetic particle technique adopted. In the case of end/bevel
+testing, the use of dry magnetic powder is only permitted by prior agreement between the purchaser and
+manufacturer. Otherwise, the requirements given in ISO 9934-1, ISO 9934-2 and ISO 9934-3 shall apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1.3
+The detecting media shall be applied simultaneously with magnetization to reveal the presence of
+surface imperfections, using an illumination of not less than 500 lux.<<HEADING_END>>
+<<PARAGRAPH>>The use of residual magnetism, i.e. application of magnetic particles after initial tube magnetization, is only
+permitted after prior agreement between the purchaser and manufacturer, but generally not permitted in the
+case of end/bevel face testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In cases where there is insufficient sensitivity due, for instance, either to poor contrast between the detecting
+media and the part of the tube surface under inspection or as a result of the magnetization technique adopted,
+the tube area being tested shall, prior to inspection, be coated with a white background paint to aid contrast.
+Alternatively, fluorescent particles shall be used and the inspection carried out in a darkened area using a
+UV-A radiation source, with a background white light level not exceeding 20 lux and a black light intensity of at
+least 10 W/m 2 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1.4
+It is outside the scope of this part of ISO 10893 to specify the levels of magnetization required, and
+current levels required to achieve such levels of magnetization, to reveal the presence of unacceptable
+surface imperfections. However, in all cases, the magnetization requirements together with the use of
+detecting media (with the exception in 5.1.2) given in ISO 9934-1, ISO 9934-2 and ISO 9934-3 shall apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1.5
+During the production testing of tubes, the level of magnetization achieved using the adopted
+technique and equipment shall be checked at regular intervals, not exceeding 4 h, for example using a
+magnetic field strength meter, as appropriate. In the case of end/bevel testing, alternatively, a reference tube
+containing either an artificial simulation of, or a naturally occurring laminar imperfection on, the end/bevel face
+may be used, where the manufacturer shall demonstrate the presence of a consistent indication of the
+imperfection.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Testing the tube body<<HEADING_END>>
+<<HEADING level=3>>5.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>During the production testing of tubes, magnetization shall be applied in the circumferential direction for the
+detection of longitudinal surface imperfections or in the direction parallel to the major axis of the tube for the
+detection of transverse surface imperfections.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.2 Magnetization methods<<HEADING_END>>
+<<PARAGRAPH>>For testing the tube body one of the following magnetization methods shall be applied.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Method A — Current flow method<<PARAGRAPH_END>>
+<<PARAGRAPH>>The current derived from a d.c., a.c., full or half-wave rectified a.c. external power source is passed between
+two contact areas on the surface of the tube. This method is intended for the detection of imperfections which
+lie generally parallel to the major axis of the tube.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>b)
+Method B — Threaded bar/cable method<<PARAGRAPH_END>>
+<<PARAGRAPH>>The current (as in method A) is passed through a rigid bar or flexible cable placed within the tube bore and
+approximately concentric with it. This method is intended (as in method A) for the detection of imperfections
+which lie generally parallel to the major axis of the tube.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+Method C — Encircling coil method<<PARAGRAPH_END>>
+<<PARAGRAPH>>A rigid or semi-rigid current-carrying coil is placed around the tube and the surface of the tube within the
+influence of the coil is magnetized in the direction parallel to the major axis of the tube, favouring the detection
+of generally transverse imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+Method D — Magnetic flow method<<PARAGRAPH_END>>
+<<PARAGRAPH>>The tube, or part of it, forms part of the magnetic circuit of an electromagnet which carries current from an
+external power source (as in method A). This method favours the detection of imperfections lying at right
+angles to an imaginary line connecting the poles pieces of the electromagnet.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other magnetization techniques or combinations of the techniques given in 5.2.2 a) to 5.2.2 d) may be used
+provided the requirements for field strength and direction are met.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Testing the end/bevel face<<HEADING_END>>
+<<PARAGRAPH>>5.3.1
+During the production testing of the end/bevel face at both ends, magnetization shall, at the discretion
+of the manufacturer, be applied either parallel to the major axis of the tube or radially through the tube
+thickness; simultaneously, the detecting media shall be applied to the end/bevel face, to reveal the presence
+of laminar imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3.2
+When using magnetization parallel to the major axis of the tube, this shall be achieved using a rigid
+concentric coil surrounding or inside the tube, positioned close to the tube end. The coil shall be energized
+using an alternating or a half- or full-wave rectified or direct current source. In this case, it shall be
+demonstrated by a measuring device that the induced currents in the tube wall produce a magnetic flux
+perpendicular to the surface.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alternatively, the current flow method may be used by passing current around the tube circumference using
+clamps on the tube end that are 180° apart. After inspection, the test shall be repeated after rotating the
+clamps by 90° with respect to their initial position. In this case, but only by agreement between the purchaser
+and manufacturer, it is permissible to conduct the test using residual magnetization and fluorescent particles.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3.3
+When using magnetization applied radially through the thickness of the tube at the ends, this shall be
+achieved using an a.c. or d.c. yoke, with the pole pieces applied radially between the inner and outer surface
+of the tube across the tube thickness at the ends. By agreement between the purchaser and manufacturer,
+the use of a permanent magnet of sufficient power is permitted. Other methods of applying radial
+magnetization may be adopted, provided the manufacturer can demonstrate their equivalence to the method
+described above.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Evaluation of indications<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<HEADING level=3>>The inspection shall be carried out visually without image   magnification.<<HEADING_END>>
+<<PARAGRAPH>>A remote inspection technique, such as using television camera is permitted, provided the manufacturer can
+demonstrate that the acceptance criteria are not affected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>6.2 Special requirements for evaluation of indications in the pipe body<<HEADING_END>>
+<<PARAGRAPH>>The magnetic particle inspection method does not make it possible to determine the nature, shape, orientation
+and, more particularly, the depth of surface imperfections revealed as indications. The dimensions and extent
+of magnetic particle “build-up” of indications do not directly represent the actual dimensions of the surface
+imperfection causing the indication. For these reasons, the classification/evaluation of magnetic particle
+indications shall be as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+linear indications: indications where the length of the indication is equal to or more than three times the
+width of the indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+rounded indications: indications which are circular or elliptical in shape, where the length of the indication
+is less than three times the width of the indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+accumulated indications: indications which are linear or rounded and are aligned or clustered with a
+separation of not more than the length of the smallest indication   and consisting of at least three indications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+non-relevant indications: indications which may result from localized surface irregularities to a particular
+tube-making process, for example machining marks, scratches and sizing/straightening marks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The minimum dimension of indications that shall be considered during the evaluation shall be as given in
+Table 1, in relation to the acceptance level specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Minimum dimension of indications that shall be considered during evaluation<<HEADING_END>>
+<<HEADING level=3>>Diameter,  D ,   or length,  L ,   of the smallest<<HEADING_END>>
+<<HEADING level=3>>indication that shall be considered<<HEADING_END>>
+<<HEADING level=3>>Acceptance level<<HEADING_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>M1
+1,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>M2
+2,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>M3
+3,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>M4
+5,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>Only relevant indications with their major dimension equal to or greater than that given in Table 1 shall be
+taken into account when determining the incidence of such indications, according to the appropriate
+acceptance level. Non-relevant indications are not to be considered during evaluation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Relevant indications obtained by magnetic particle inspection in accordance with this part of ISO 10893 shall
+be evaluated and classified as follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+For general testing of tube surfaces, either of the entire surface or a localized area, an imaginary frame
+aperture of 100 mm  ×  150 mm shall be placed over the area with the highest incidence of relevant
+indications. The indications shall be classified with regard to the type, number and dimensions of the
+indications within the frame, according to the appropriate acceptance level given in Table 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+For testing the weld seam of a welded tube, an imaginary frame aperture of 50 mm  ×  150 mm, with the
+weld centred on the 50 mm dimension of the frame aperture, shall be placed over the area with the
+highest incidence of relevant indications. The indications shall be classified with regard to the type,
+number and dimensions of the indications within the frame, according to the appropriate acceptance level
+given in Table 3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+For calculating the cumulative length of accumulated indications, the length along the major axis of linear
+and rounded indications shall be used, and in cases where the separation between two adjacent
+indications is less than the length or the diameter of the larger of the two indications, the indications shall
+be considered as one and the sum of the individual lengths or diameters plus the separation shall be
+used to calculate the overall length.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+|                  | Diameter, D, or length, L, of the smallest   |
+|:-----------------|:---------------------------------------------|
+| Acceptance level | indication that shall be considered          |
+|                  | mm                                           |
+| M1               | 1,5                                          |
+| M2               | 2,0                                          |
+| M3               | 3,0                                          |
+| M4               | 5,0                                          |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 2 — Tube surface — Maximum permissible number of indications and dimensions
+(diameter or length) within a frame aperture of  100 mm  ×  150 mm<<HEADING_END>>
+<<HEADING level=3>>Types of indication<<HEADING_END>>
+<<HEADING level=3>>Nominal
+wall-
+thickness<<HEADING_END>>
+<<HEADING level=3>>Rounded
+Linear
+Accumulated
+Acceptance
+level<<HEADING_END>>
+<<HEADING level=3>>T
+Number
+Diameter
+Number
+Length
+Number
+Sum of
+dimensions<<HEADING_END>>
+<<PARAGRAPH>>mm
+mm
+mm
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+5
+3,0
+3
+1,5
+1
+4,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+5
+3,0
+3
+3,0
+1
+6,0
+M1<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+5
+3,0
+3
+5,0
+1
+10,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+8
+4,0
+4
+3,0
+1
+6,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+8
+4,0
+4
+6,0
+1
+12,0
+M2<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+8
+4,0
+4
+10,0
+1
+20,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+10
+6,0
+5
+6,0
+1
+10,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+10
+6,0
+5
+9,0
+1
+18,0
+M3<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+10
+6,0
+5
+15,0
+1
+30,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+12
+10,0
+6
+10,0
+1
+18,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+12
+10,0
+6
+15,0
+1
+25,0
+M4<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+12
+10,0
+6
+25,0
+1
+35,0<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 — Weld seam — Maximum permissible number of indications and dimensions
+(diameter or length) within a frame aperture of  150 mm  ×  50 mm  (width centred on the weld seam)<<HEADING_END>>
+<<HEADING level=3>>Types of indication<<HEADING_END>>
+<<HEADING level=3>>Nominal
+wall-
+thickness<<HEADING_END>>
+<<HEADING level=3>>Rounded
+Linear
+Accumulated
+Ac ce ptance
+level<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>T
+Number
+Diameter
+Number
+Length
+Number
+Sum of
+dimensions<<HEADING_END>>
+<<PARAGRAPH>>mm
+mm
+mm
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>u   16
+1
+3,0
+1
+1,5
+1
+4,0
+M1
+>  16
+1
+3,0
+1
+3,0
+1
+6,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>u   16
+2
+4,0
+2
+3,0
+1
+6,0
+M2
+>  16
+2
+4,0
+2
+6,0
+1
+12,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>u   16
+3
+6,0
+3
+6,0
+1
+10,0
+M3
+>  16
+3
+6,0
+3
+9,0
+1
+18,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>u   16
+4
+10,0
+4
+10,0
+1
+18,0
+M4
+>  16
+4
+10,0
+4
+18,0
+1
+27,0<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Acceptance   | Nominal     | Types of indication   |          |        |        |             |            |
+| level        | wall-       |                       |          |        |        |             |            |
+|              | thickness   |                       |          |        |        |             |            |
+|              | T           |                       |          |        |        |             |            |
+|              | mm          |                       |          |        |        |             |            |
+|:-------------|:------------|:----------------------|:---------|:-------|:-------|:------------|:-----------|
+|              |             | Rounded               |          | Linear |        | Accumulated |            |
+|              |             | Number                | Diameter | Number | Length | Number      | Sum of     |
+|              |             |                       | mm       |        | mm     |             | dimensions |
+|              |             |                       |          |        |        |             | mm         |
+| M1           | T u 16      | 5                     | 3,0      | 3      | 1,5    | 1           | 4,0        |
+|              | 16 < T u 50 | 5                     | 3,0      | 3      | 3,0    | 1           | 6,0        |
+|              | T > 50      | 5                     | 3,0      | 3      | 5,0    | 1           | 10,0       |
+| M2           | T u 16      | 8                     | 4,0      | 4      | 3,0    | 1           | 6,0        |
+|              | 16 < T u 50 | 8                     | 4,0      | 4      | 6,0    | 1           | 12,0       |
+|              | T > 50      | 8                     | 4,0      | 4      | 10,0   | 1           | 20,0       |
+| M3           | T u 16      | 10                    | 6,0      | 5      | 6,0    | 1           | 10,0       |
+|              | 16 < T u 50 | 10                    | 6,0      | 5      | 9,0    | 1           | 18,0       |
+|              | T > 50      | 10                    | 6,0      | 5      | 15,0   | 1           | 30,0       |
+| M4           | T u 16      | 12                    | 10,0     | 6      | 10,0   | 1           | 18,0       |
+|              | 16 < T u 50 | 12                    | 10,0     | 6      | 15,0   | 1           | 25,0       |
+|              | T > 50      | 12                    | 10,0     | 6      | 25,0   | 1           | 35,0       |
+<<TABLE_END>>
+<<TABLE_2>>
+| Acceptance                       | Nominal     | Types of indication   |          |        |        |             |            |
+| --`,,```,,,,````-`-`,,`,,`,`,,   | wall-       |                       |          |        |        |             |            |
+| level                            | thickness   |                       |          |        |        |             |            |
+|                                  | T           |                       |          |        |        |             |            |
+|                                  | mm          |                       |          |        |        |             |            |
+|:---------------------------------|:------------|:----------------------|:---------|:-------|:-------|:------------|:-----------|
+|                                  |             | Rounded               |          | Linear |        | Accumulated |            |
+|                                  |             | Number                | Diameter | Number | Length | Number      | Sum of     |
+|                                  |             |                       | mm       |        | mm     |             | dimensions |
+|                                  |             |                       |          |        |        |             | mm         |
+| `---                             | u 16        | 1                     | 3,0      | 1      | 1,5    | 1           | 4,0        |
+| M1                               |             |                       |          |        |        |             |            |
+|                                  | > 16        | 1                     | 3,0      | 1      | 3,0    | 1           | 6,0        |
+| M2                               | u 16        | 2                     | 4,0      | 2      | 3,0    | 1           | 6,0        |
+|                                  | > 16        | 2                     | 4,0      | 2      | 6,0    | 1           | 12,0       |
+| M3                               | u 16        | 3                     | 6,0      | 3      | 6,0    | 1           | 10,0       |
+|                                  | > 16        | 3                     | 6,0      | 3      | 9,0    | 1           | 18,0       |
+| M4                               | u 16        | 4                     | 10,0     | 4      | 10,0   | 1           | 18,0       |
+|                                  | > 16        | 4                     | 10,0     | 4      | 18,0   | 1           | 27,0       |
+<<TABLE_END>>
+<<TABLE_3>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>7
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>7.1 Tube body<<HEADING_END>>
+<<PARAGRAPH>>Tubes or parts of tubes not showing indications in excess of those permitted by the corresponding acceptance
+level shall be deemed to have passed the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tubes or parts of tubes showing indications in excess of those permitted by the corresponding acceptance
+level shall be designated suspect.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For suspect tubes, one or more of the following actions shall be taken:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the suspect area shall be dressed or explored using a suitable method. After checking that the remaining
+thickness is within the tolerance limits, the tube shall be retested as previously specified. If no indications are
+obtained equal to or greater than the acceptance Ievel, the tube shall be deemed to have passed this test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By agreement between the purchaser and manufacturer the suspect area may be retested by other non-
+destructive techniques and test methods to agreed acceptance levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the suspect area shall be cropped off;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the tube shall be deemed not to have passed the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2 End/bevel face<<HEADING_END>>
+<<PARAGRAPH>>Any tube producing either no indication at all or an individual indication of laminar imperfections on the end/bevel
+face at both ends of the tube, less than 6 mm in circumference, shall be deemed to have passed the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any tube producing an individual indication of a laminar imperfection on the end/bevel face at either end of the
+tube, equal to or greater than 6 mm in circumference, shall be designated suspect.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For a suspect tube, the manufacturer may either reject the tube or machine the end/bevel face(s). In the latter
+case, the manufacturer shall ensure that, as a result of re-machining the tube end(s), the detected laminar
+imperfection(s) has (have) been removed, and shall subject the re-machined end/bevel face to a repeat test
+as specified above, using the same magnetic particle technique, etc. as in the original test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To facilitate the determination of how far the detected laminar imperfection(s) on the end/face bevel extend
+along the length of the tube from the tube end, the manufacturer may carry out an ultrasonic test over the tube
+end zone, in accordance with ISO 10893-8.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report including at least the following
+information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-5;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+type and details of the magnetization technique adopted, including the magnetic material used and the
+level of magnetization/current achieved;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+description of the acceptance level and the magnetic field indicator, if used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+date of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+operator identification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10893-5:2011(E)<<HEADING_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 7 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 14
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 17
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_1] Page: 11, Size: 7x2
+[TABLE_2] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 15x8
+[TABLE_2] Page: 12, Size: 11x8
+[TABLE_3] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 3x1
+[TABLE_1] Page: 14, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

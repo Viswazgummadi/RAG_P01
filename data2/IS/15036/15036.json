@@ -1,0 +1,5805 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            389.4,
+            38.58,
+            454.89,
+            49.13
+          ],
+          "block_id": "b1_0",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard\nDEPENDABILITY\nMANAGEMENT\n\u2014\nAPPLICATION\nGUIDE ANALYSIS\nDEPENDABILITY\n\u2014 GUIDE ON\nTECHNIQUES\nFOR\nMETHODOLOGY",
+          "bbox": [
+            38.04,
+            174.57,
+            458.24,
+            260.98
+          ],
+          "block_id": "b1_1",
+          "font_size": 17.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ICS 03.100.40; 03.120.01",
+          "bbox": [
+            198.84,
+            309.3,
+            301.07,
+            322.1
+          ],
+          "block_id": "b1_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0\nBIS 2001",
+          "bbox": [
+            227.16,
+            660.43,
+            276.83,
+            673.23
+          ],
+          "block_id": "b1_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDARDS\nMANAK\nBHAVAN,\n9 BAHADUR\nSHAH\nZAFAR\nMARG\nNEW DELHI 110002",
+          "bbox": [
+            104.76,
+            681.96,
+            396.29,
+            717.39
+          ],
+          "block_id": "b1_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "December\n2001\nPrice Group\n5",
+          "bbox": [
+            27.0,
+            740.95,
+            477.98,
+            752.91
+          ],
+          "block_id": "b1_5",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 502.3680114746094,
+        "height": 771.447998046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Reliability of Electronic and Electrical Components and Equipment Sectional Committee, LTD 3",
+          "bbox": [
+            31.3,
+            33.7,
+            431.14,
+            46.5
+          ],
+          "block_id": "b2_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            30.82,
+            123.47,
+            84.78,
+            136.27
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by the Reliability\nof Electronic and Electrical Components and Equipment Sectional Committee had been approved by the Electronic\nand Telecommunication\nDivision Council.",
+          "bbox": [
+            30.82,
+            141.23,
+            482.26,
+            178.03
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dependability\nanalysis techniques\nare used for the review and prediction\nof the reliability,\navailability,\nmaintainability and safety measures of a system. Dependability analyses are conducted mainly during the concept\nand definition phase, the design and development phase and the operation and maintenance phase at various\nsystem levels and degrees of detail to order to evaluate and determine the dependability measures of a system or\nan installation. They are also used to compare the results of the analysis with specified requirements.",
+          "bbox": [
+            30.82,
+            182.99,
+            483.5,
+            243.79
+          ],
+          "block_id": "b2_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "While preparing\nthis standard,\nassistance has been derived from IEC 60300-3-1\n(1991) \u2018Dependability\nmanagement\n\u2013 Part 3: Application\nguide \u2013 Section\n1: Analysis techniques\nfor dependability:\nGuide on\nmethodology\u2019, published by International Electrotechnical Commission.",
+          "bbox": [
+            31.06,
+            248.99,
+            482.74,
+            285.55
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The technical Committee responsible for preparation of this standard has reviewed the provisions of following\nIEC publication and decided that it may be used in conjunction with this standard till Indian Standard on this\nsubject is published:",
+          "bbox": [
+            31.06,
+            290.51,
+            482.49,
+            327.31
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "lEC 1025(1990) Fault tree analysis (FTA)",
+          "bbox": [
+            68.5,
+            332.27,
+            239.43,
+            345.07
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The composition of the Committee responsible for formulation of this standard is given in Annex B.",
+          "bbox": [
+            31.3,
+            350.51,
+            443.82,
+            363.31
+          ],
+          "block_id": "b2_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In reporting the results of a test or analysis made in accordance with this standard, if the final value, observed\nor calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960 \u2018Rules for rounding off\nnumerical values (revised)\u2019.",
+          "bbox": [
+            31.06,
+            368.51,
+            482.55,
+            405.31
+          ],
+          "block_id": "b2_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 514.3280029296875,
+        "height": 769.1119995117188
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "lS 15036:2001",
+          "bbox": [
+            415.94,
+            29.81,
+            470.42,
+            41.77
+          ],
+          "block_id": "b3_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            195.62,
+            53.58,
+            310.97,
+            74.38
+          ],
+          "block_id": "b3_1",
+          "font_size": 17.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "DEPENDABILITY\nMANAGEMENT\n\u2014\nAPPLICATION\nGUIDE ANALYSIS\nTECHNIQUES\nFOR\nDEPENDABILITY\n\u2014 GUIDE ON METHODOLOGY",
+          "bbox": [
+            43.22,
+            81.18,
+            463.91,
+            145.52
+          ],
+          "block_id": "b3_2",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "all the possible model complexities required to evaluate\nthe features\nof practical\nsystems\n(hardware\nand\nsoftware, complex fictional\nstructures, etc). It may\nbe necessary to consider several additional analysis\nmethods to ensure proper treatment of complex or\nmulti-functional systems.",
+          "bbox": [
+            266.19,
+            161.43,
+            483.19,
+            233.99
+          ],
+          "block_id": "b3_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            32.42,
+            163.01,
+            68.66,
+            174.97
+          ],
+          "block_id": "b3_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l%is standard gives a general overview of commonly\nused dependability analysis procedures. It describes\nthe\nusual\nmethodologies,\nthe\nadvantages\nand\ndisadvantages, data input and other requirements for\nthe various techniques.",
+          "bbox": [
+            31.7,
+            179.92,
+            248.0,
+            240.72
+          ],
+          "block_id": "b3_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nBASIC\nAPPROACH\nTO\nSYSTEM\nDEPENDABILITY\nANALYSIS",
+          "bbox": [
+            266.9,
+            242.31,
+            474.98,
+            267.13
+          ],
+          "block_id": "b3_21",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This\nguide\nis an introduction\nto the available\nmethodology and is intended to provide the analyst\nwith the necessary information in order to choose the\nanalysis method most appropriate to the system.",
+          "bbox": [
+            31.7,
+            245.68,
+            248.42,
+            294.0
+          ],
+          "block_id": "b3_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Specific procedures for analysis are contained in the\nstandards describing each analysis method. General\nprocedures,\napproaches\nand requirements\nare\ndescribed hereinafter.",
+          "bbox": [
+            267.14,
+            271.84,
+            483.13,
+            320.4
+          ],
+          "block_id": "b3_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            31.94,
+            303.17,
+            98.41,
+            315.13
+          ],
+          "block_id": "b3_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The Indian Standards listed in Annex A are necessary\nadjuncts to this standard.",
+          "bbox": [
+            32.42,
+            319.84,
+            247.89,
+            344.88
+          ],
+          "block_id": "b3_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1  General\nProcedure",
+          "bbox": [
+            267.62,
+            328.48,
+            359.06,
+            341.53
+          ],
+          "block_id": "b3_23",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The procedure\nconsists of the following\nsteps (as\napplicable):",
+          "bbox": [
+            267.62,
+            346.48,
+            483.6,
+            371.28
+          ],
+          "block_id": "b3_24",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 DEFINITIONS",
+          "bbox": [
+            32.9,
+            354.05,
+            98.17,
+            366.01
+          ],
+          "block_id": "b3_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of this standard, the terms and defin-\nitions given in IS 1885 (Part 39) shall apply in addi-\ntion to the following.",
+          "bbox": [
+            33.14,
+            370.72,
+            249.15,
+            407.52
+          ],
+          "block_id": "b3_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Step  1",
+          "bbox": [
+            267.62,
+            376.48,
+            294.02,
+            389.38
+          ],
+          "block_id": "b3_25",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "List all system reliability and availability requirements,\ncharacteristics\nand features, together with environ-\nmental and operating conditions,\nand maintenance\nrequirements. Define the system to be analyzed, its\nmodes of operation, the functional relationships\nto\nhigher levels and to interfacing systems of processes.",
+          "bbox": [
+            267.86,
+            394.0,
+            485.05,
+            466.8
+          ],
+          "block_id": "b3_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1 System",
+          "bbox": [
+            33.38,
+            416.69,
+            75.86,
+            428.65
+          ],
+          "block_id": "b3_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Item on the highest level considered in the analysis.",
+          "bbox": [
+            33.62,
+            433.36,
+            246.23,
+            446.16
+          ],
+          "block_id": "b3_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.2 Component",
+          "bbox": [
+            33.62,
+            455.57,
+            92.42,
+            467.53
+          ],
+          "block_id": "b3_12",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Item on the lowest level considered in the analysis.",
+          "bbox": [
+            33.86,
+            472.24,
+            242.39,
+            485.04
+          ],
+          "block_id": "b3_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Step  2",
+          "bbox": [
+            268.1,
+            473.33,
+            293.06,
+            485.29
+          ],
+          "block_id": "b3_27",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Define system fault, fault criteria and conditions based\non system tlmction\u201dalrequirements, expected operation\nand operating environment.\nSoftware performance\nshould also be considered.",
+          "bbox": [
+            268.58,
+            490.0,
+            484.3,
+            538.8
+          ],
+          "block_id": "b3_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.3 Allocation",
+          "bbox": [
+            33.62,
+            494.45,
+            87.62,
+            506.41
+          ],
+          "block_id": "b3_14",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A procedure\napplied during the design of an item\nintended\nto\napportion\nthe\nrequirements\nfor\nperformance\nmeasures for an item to its sub items\naccording to given criteria.",
+          "bbox": [
+            33.62,
+            511.36,
+            250.09,
+            559.68
+          ],
+          "block_id": "b3_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Step  3",
+          "bbox": [
+            268.58,
+            544.85,
+            293.78,
+            556.81
+          ],
+          "block_id": "b3_29",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When\nnumerical\nresults\nare\nrequired,\nit\nis\nrecommended to carry out an allocation based on a\npreliminary design (assignment of a portion of the\ntotal permitted system failure rate or unavailability to\neach sub-system).",
+          "bbox": [
+            269.06,
+            561.52,
+            485.73,
+            622.08
+          ],
+          "block_id": "b3_30",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014  \u2018System\u2019maybe replacedby \u2018sub-system\u2019,etc,as\napplicable.",
+          "bbox": [
+            45.86,
+            562.96,
+            252.66,
+            585.36
+          ],
+          "block_id": "b3_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4  GENERAL",
+          "bbox": [
+            34.34,
+            592.48,
+            85.46,
+            605.53
+          ],
+          "block_id": "b3_17",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The analysis\nmethods\nallow\nthe evaluation\nof\nqualitative characteristics and estimation of measures\n(for example, failure rate, MTTF, MTBF, reliability,\nsteady state availability) which describe the predicated\nlong-term operating behaviour of a system. In order\nto perform\na systematic\nand reproducible\nsystem\nanalysis, use of a consistent procedure is essential.",
+          "bbox": [
+            34.58,
+            610.48,
+            250.62,
+            694.56
+          ],
+          "block_id": "b3_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Step  4",
+          "bbox": [
+            269.06,
+            627.04,
+            294.5,
+            639.94
+          ],
+          "block_id": "b3_31",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Analysis of the system as follows:",
+          "bbox": [
+            269.54,
+            644.8,
+            406.1,
+            657.6
+          ],
+          "block_id": "b3_32",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1  Qualitative\nanalysis\n(deductive/inductive\nmethodology)\nAnalyze, the functional\nsystem structure,\ndetermine system/component\nfault modes,\nfailure mechanisms, effects and consequences",
+          "bbox": [
+            287.3,
+            662.8,
+            484.77,
+            725.28
+          ],
+          "block_id": "b3_33",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "However, no single dependability analysis method is\nsufficiently comprehensive and flexible to deal with",
+          "bbox": [
+            35.06,
+            699.52,
+            251.99,
+            724.32
+          ],
+          "block_id": "b3_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            259.7,
+            733.36,
+            264.5,
+            746.16
+          ],
+          "block_id": "b3_34",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 516.6959838867188,
+        "height": 766.6240234375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            30.26,
+            19.46,
+            88.57,
+            32.26
+          ],
+          "block_id": "b4_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\ninductive\nmethodology\n(bottom-up),\nfor\nexample fault mode and effects analysis.\nHowever, in practice, an iterative approach is more\nusual\nwith\ndeductive\nand\ninductive\nanalysis\ncomplementing one another.",
+          "bbox": [
+            265.23,
+            43.21,
+            481.04,
+            106.17
+          ],
+          "block_id": "b4_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "of failures, consider item maintainability,\nconstruct\nreliability\nand/or\navailability\nmodels, determine possible maintenance and\nrepair strategies, etc.",
+          "bbox": [
+            66.5,
+            43.95,
+            246.48,
+            92.51
+          ],
+          "block_id": "b4_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2",
+          "bbox": [
+            48.02,
+            93.63,
+            60.02,
+            106.43
+          ],
+          "block_id": "b4_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Quantitative\nanalysis\n(analytical\nor event\nsimulation\nmethods)\nObtain or identify item reliability data (for\nexample,\nfailure\nrates), construct\nmathe-\nmatical reliability and/or availability model,\nperform\nnumerical\nevaluations\nof mathe-\nmatical model, perform component criticality\nand sensitivity\nanalyses, evaluate improv-\nement\nof system\nperformance\ndue\nto\nredundant\nsubstructures\nand maintenance\nstrategies, etc.",
+          "bbox": [
+            66.5,
+            95.33,
+            246.32,
+            227.15
+          ],
+          "block_id": "b4_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3  Deductive\nAnalysis",
+          "bbox": [
+            265.47,
+            114.25,
+            358.34,
+            127.31
+          ],
+          "block_id": "b4_17",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The essence of the deductive approach is to proceed\nfrom the highest level of interest, that is, the system\nor sub-system level, to successively lower levels in\norder to identify undesirable system operation.",
+          "bbox": [
+            265.46,
+            132.02,
+            482.44,
+            180.82
+          ],
+          "block_id": "b4_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The analysis is performed at the next lower system\nlevel to identify, any fault and its associated fault mode\nwhich could result in the fault effect as originally\nidentified. For each of these second level faults, the\nanalysis\nis repeated\nby tracing\nback\nalong\nthe\nfunctional paths and relationships to the next lower\nlevel using logical gates. This process is continued as\nfar as the lowest level desired.",
+          "bbox": [
+            265.46,
+            186.03,
+            482.34,
+            282.35
+          ],
+          "block_id": "b4_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Step 5",
+          "bbox": [
+            30.5,
+            228.03,
+            56.18,
+            240.83
+          ],
+          "block_id": "b4_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Evaluation of results, comparison with requirements\nandlor alternative designs. Additional activities may\ninclude:",
+          "bbox": [
+            30.5,
+            245.79,
+            246.73,
+            282.11
+          ],
+          "block_id": "b4_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Reviewing\nsystem\ndesign,\ndetermining\nweaknesses,\nunbalances,\ncritical/high\nrisk\nfault modes and items, considering system\ninterface\nproblems,\nfail-safe\nfeatures and\nmechanisms, etc.\nDeveloping alternative ways for improving\ndependability\n(for example\nredundancy\nallocation,\nperformance\nmonitoring,\nfault\ndetection, system reconfiguration procedures,\nmaintainability,\ncomponent replaceability,\nand repair procedures).\nPerforming trade-off studies and evaluating\nthe cost of alternative designs.\nThe relationships between the general analysis proce-\ndure and the specific methods and procedures are given\nin Table 1 (note that Table 1 is not exhaustive). The\nmethods are explained further in 5.2 to 5.5.",
+          "bbox": [
+            30.98,
+            287.07,
+            247.48,
+            496.19
+          ],
+          "block_id": "b4_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1",
+          "bbox": [
+            49.22,
+            287.31,
+            61.22,
+            300.11
+          ],
+          "block_id": "b4_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The deductive method is an event-oriented\nmethod\nwhich is useful during the early conceptual phase of\nsystem design when the details of the system are not\nyet fully defined. It is also used for evaluating multiple\nfailures including sequentially\nrelated failures, the\nexistence of faults due to a common-cause, or wherever\nsystem complexity makes it more convenient to begin\nby listing system faults or system success.",
+          "bbox": [
+            266.18,
+            287.31,
+            482.22,
+            384.11
+          ],
+          "block_id": "b4_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2",
+          "bbox": [
+            49.22,
+            348.99,
+            61.22,
+            361.79
+          ],
+          "block_id": "b4_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In all cases the undesirable\nsingle event or system\nsuccess at the highest level of interest (the top event),\nshould be given. The contributory causes of that event\nat all levels are then identified and analyzed.",
+          "bbox": [
+            266.18,
+            389.31,
+            481.68,
+            438.11
+          ],
+          "block_id": "b4_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3",
+          "bbox": [
+            49.46,
+            422.19,
+            61.46,
+            434.99
+          ],
+          "block_id": "b4_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4  Inductive\nAnalysis",
+          "bbox": [
+            266.18,
+            446.43,
+            356.42,
+            459.48
+          ],
+          "block_id": "b4_22",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The essence of the inductive method is to identi& fault\nmodes at the component level. For each fault mode\nthe corresponding effect on performance is deduced\nfor the next higher system level. The resulting fault\neffect becomes the fault mode at the next higher system\nlevel, and the fault effects of each fault mode are\nanalyzed at this level. Successive iterations result in\nthe eventual identification of the fault effects at all\nfi.mctional levels up to the system level. This \u2018bottom-\nup\u2019 method is rigorous in identifying all single fault\nmodes. Because component\nfault modes must be\nidentified. This method is normally used during the\nlater stages of design where equipment has become\nmature.",
+          "bbox": [
+            266.18,
+            464.42,
+            482.92,
+            632.51
+          ],
+          "block_id": "b4_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2  Analysis\nof Functional\nStructure",
+          "bbox": [
+            31.46,
+            504.03,
+            183.14,
+            517.08
+          ],
+          "block_id": "b4_10",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In order to analyze the long-term operating behaviour\nof a system with confidence, the precise way a system\nis required to function, as well as its operational and\nenvironmental\nconditions should be determined and\ndescribed\nin detail.\nA separate\nanalysis\nof the\nfunctional\nsystem structure\nmay be necessary\nto\nidentify and departure from the required function.",
+          "bbox": [
+            31.22,
+            521.78,
+            247.68,
+            605.87
+          ],
+          "block_id": "b4_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The system function may be represented by functional\nblock diagrams, signal flow diagrams, state-transition\ndiagrams, event sequences, tables, etc.",
+          "bbox": [
+            31.22,
+            611.07,
+            246.26,
+            647.39
+          ],
+          "block_id": "b4_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5\nMaintenance\nand\nRepair\nAnalysis\nand\nConsiderations",
+          "bbox": [
+            266.18,
+            640.59,
+            479.55,
+            665.63
+          ],
+          "block_id": "b4_24",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Finally, the qualitative failure or success analysis may\nbe conducted in accordance with either of the following\ntwo formal methods:",
+          "bbox": [
+            31.46,
+            652.35,
+            247.45,
+            688.67
+          ],
+          "block_id": "b4_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The long-term operating behaviour\nof a repairable\nsystem\nis\ngreatly\ninfluenced\nby\nthe\nsystem\nmaintainability as well as the repair or maintenance\nstrategies\nemployed.\nAn availability\nperformance",
+          "bbox": [
+            266.42,
+            670.34,
+            479.99,
+            718.9
+          ],
+          "block_id": "b4_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\ndeductive\nmethodology\n(top-down),\nfor\nexample fault tree analysis; and",
+          "bbox": [
+            49.94,
+            693.87,
+            247.04,
+            718.67
+          ],
+          "block_id": "b4_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            254.91,
+            724.83,
+            259.71,
+            737.63
+          ],
+          "block_id": "b4_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 516.6400146484375,
+        "height": 747.6239624023438
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            406.03,
+            24.05,
+            460.5,
+            36.01
+          ],
+          "block_id": "b5_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "measure is the appropriate measure for evaluating the\nredundant\ncomponents.\nIf so,\nthen\nrepair\nor\ninfluence\nof maintenance\nand repair\non system\nreplacement increase system reliability performance\ndependability.\nand availability performance.",
+          "bbox": [
+            20.59,
+            47.2,
+            471.6,
+            84.24
+          ],
+          "block_id": "b5_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Repair\nof a system\nduring\noperation\nwithout\nIt is usually necessary to perform a separate analysis\ninterruption of its function is normally possible only\nto evaluate repair and maintenance aspects of a system\nfor a redundant\nsystem structure\nwith accessible\n(see IS 9692 series).",
+          "bbox": [
+            21.07,
+            89.2,
+            471.52,
+            126.24
+          ],
+          "block_id": "b5_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 1 Correspondence\nof Methods\nto General\nAnalysis\nProcedure",
+          "bbox": [
+            100.75,
+            167.33,
+            386.11,
+            179.29
+          ],
+          "block_id": "b5_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Clause\n5.1)",
+          "bbox": [
+            221.48,
+            181.25,
+            269.96,
+            193.21
+          ],
+          "block_id": "b5_4",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Steps of  General\nAnalysis\nMethods\nProcedure",
+          "bbox": [
+            40.03,
+            210.88,
+            318.17,
+            232.48
+          ],
+          "block_id": "b5_5",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "No.\nActivity\nFMEAIFWECA\nFTA\nRBD\nMA\nPc",
+          "bbox": [
+            32.11,
+            236.88,
+            413.0,
+            247.84
+          ],
+          "block_id": "b5_6",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Fault mode and\nFault tree\nReliability block\nMarkov analysis\nParts count\neffectdcritically\nanalysis\ndiagram\nreliability\nanalysis",
+          "bbox": [
+            116.59,
+            252.0,
+            441.24,
+            281.05
+          ],
+          "block_id": "b5_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\nRequirements\nComponent\nFunctional\nSystem and sub-\nComponent\nComponent\nand system\nspecification and\nsystem structure\nsystem operation\nfunction, timctional\ndefinitions\noperation\nspecification and\nsystem structure\nfailure data",
+          "bbox": [
+            32.83,
+            285.85,
+            460.17,
+            314.89
+          ],
+          "block_id": "b5_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nDefinition of\nFailure of first\nUndesired (top)\nCriteria of system\nCriteria of system\nFailure of first\nsystem fault\norder functional\nevent\nsuccess (failure)\nsuccess and failure\nlevel\norder functional\nlevel",
+          "bbox": [
+            32.35,
+            334.81,
+            456.39,
+            363.85
+          ],
+          "block_id": "b5_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3\nReliability\nIfapplicableto\nIfapplicable to\nIfapplicableto\nIfapplicableto sub-\nlf applicable to\napportionment\ncomponents\nsub-systems\nsub-systems\nsystems\ncomponents",
+          "bbox": [
+            32.59,
+            367.12,
+            453.51,
+            388.81
+          ],
+          "block_id": "b5_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1\nQualitative\nInductive (table)\nDeductive (fault\nDeductive (block\nInductive/deductive\nAssume series\nanalysis,\ntree)\ndiagram)\n(state transition\nsystem structure,\nmaintenance\ndiagram)\nlist and evaluate\nstrategy\ncomponents",
+          "bbox": [
+            32.34,
+            393.61,
+            459.52,
+            432.01
+          ],
+          "block_id": "b5_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2\nQuantitative\nFault\nCalculation of\nCalculation of\nCrdculation of\nCalculation of\nanalysis\ncritically/probabi1-\nsystem reliability\nsystem reliability\nsystem reliability\n(numerical\ncomponents and\nity analysis\nand availtillity\nand availahlity\nand availability\nsystem failure\nevaluation)\nmeasures\nmeasures\nmeasures\nrates",
+          "bbox": [
+            32.1,
+            436.81,
+            457.52,
+            475.21
+          ],
+          "block_id": "b5_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nRequirements\nCriticality of\nProbability of\nReliability/availati\nReliability/availaM1\nDoes estimated\nmet (terminate\nfailures and fiilu~\nundesired even\nIity requirement\nity requirements\nsystem failure rate\nprocedure)\nprobabilities\nwithin\nmet?\nmet?\nmeet\nwithhr limits\nrequirement\nrequirements?",
+          "bbox": [
+            32.1,
+            479.77,
+            464.32,
+            518.41
+          ],
+          "block_id": "b5_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1\nReview\nComponent failure\nSub-system/\nSub-system\nComponenthrb-\nDetermine highest\ndesign,\nmodes, failure\ncomponent\nreliability/\ndetermine\nsystem/system\ncomponent failure\nrates, etc\nfailure modes,\navailability, sub-\nreliability and\nrates\nweaknesses\nfailure rates,\nsystem/ component\navailability,\nsystem structure,\nfailure rates,\nmaintenance and\netc\nsystem stmctrrre,\nrepair policy,\netc\nsystem structure",
+          "bbox": [
+            31.86,
+            522.97,
+            464.05,
+            588.74
+          ],
+          "block_id": "b5_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2\nDevelop\nComponent\nSystem structure,\nSystem structure,\nSystem structure,\nRe-evrduate choke\nalternative\nselection and\nredundancy\nredundancy\nredundancy\nof weakest\ndesigns\nmaintenance, etc\nallocation, fault\nallocation,\nallocation,\ncomponents\ndetection,\ncomponent\ncomponent\nmaintenance, etc\nselection,\nselection, repair\nmaintenance, etc\npolicy, system\nreconfiguration, etc",
+          "bbox": [
+            31.86,
+            593.29,
+            464.25,
+            659.06
+          ],
+          "block_id": "b5_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3\nPerform trade-\nDetermine most\nDetermine most\nDetermine most\nDetermine most\nEstimate cost\noff studies and\neconomical\neconomical\neconomical\neconomical\ncost evaluation\nsolution\nsolution\nsolution\nsolution",
+          "bbox": [
+            31.62,
+            663.37,
+            447.02,
+            692.9
+          ],
+          "block_id": "b5_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            242.83,
+            727.84,
+            247.63,
+            740.64
+          ],
+          "block_id": "b5_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 501.50396728515625,
+        "height": 754.7440185546875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            31.7,
+            13.66,
+            89.77,
+            26.46
+          ],
+          "block_id": "b6_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6\nCHARACTERISTICS\nOF\nVARIOUS\nDEPENDABILITY\nANALYSIS\nMETHODS",
+          "bbox": [
+            31.46,
+            37.67,
+            238.82,
+            62.71
+          ],
+          "block_id": "b6_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "the occurrence of a defined undesirable\nevent and\nwhich significantly affect system performance, safety,\neconomy or other specified characteristics.",
+          "bbox": [
+            266.67,
+            38.13,
+            483.13,
+            74.93
+          ],
+          "block_id": "b6_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.1  Selecting  the Appropriate\nAnalysis\nMethod",
+          "bbox": [
+            31.46,
+            70.54,
+            231.86,
+            83.59
+          ],
+          "block_id": "b6_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Starting with the top event, the possible causes or fault\nmodes on the next lowest functional system level are\nidentified\nusing logical gates. Following\nstepwise\nidentification\nof undesirable\nsystem operation\nto\nsuccessively lower system level will lead to the desired\nlowest system level. Causes at this level are usually\nthe component fault modes. The results of the analysis\nare portrayed as a fault tree.",
+          "bbox": [
+            266.43,
+            80.13,
+            482.9,
+            176.69
+          ],
+          "block_id": "b6_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In order to enable a system dependability evaluation\nto be economically\nperformed,\nan analysis method\nshould be chosen which:",
+          "bbox": [
+            31.22,
+            88.54,
+            246.74,
+            125.34
+          ],
+          "block_id": "b6_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            49.46,
+            130.55,
+            56.91,
+            143.35
+          ],
+          "block_id": "b6_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "models\nand evaluates\na wide range\nof\ndependability problems;\nallows\na straightforward,\nsystematic,\nqualitative\nand quantitative\nanalysis to be\nperformed\nby\ntrained\ndesign\nand\ndependability engineers; and\npredicts measures of the dependability char-\nacteristics numerically, if data are available.",
+          "bbox": [
+            67.7,
+            130.79,
+            248.16,
+            230.95
+          ],
+          "block_id": "b6_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            49.7,
+            156.47,
+            57.66,
+            169.27
+          ],
+          "block_id": "b6_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The quantitative analysis is performed on the basis of\nthe fault tree. In order to estimate system reliability\nand availability, methods such as Boolean reduction\nand cut set analysis are employed.\nThe basic data\nrequired are component\nfailure rates, repair rates,\nprobability of occurrence of fault modes, etc.",
+          "bbox": [
+            266.43,
+            181.65,
+            483.43,
+            254.21
+          ],
+          "block_id": "b6_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            49.46,
+            206.15,
+            56.91,
+            218.95
+          ],
+          "block_id": "b6_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A dependability analysis method should be selected\nwhich will give the desired results and encompass all\nrelevant attributes.",
+          "bbox": [
+            31.22,
+            235.91,
+            248.43,
+            272.71
+          ],
+          "block_id": "b6_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.3  Reliability\nBlock Diagram\nAnalysis",
+          "bbox": [
+            266.67,
+            259.41,
+            432.02,
+            272.33
+          ],
+          "block_id": "b6_19",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Reliability\nblock\ndiagram\n(RBD)\nanalysis\nis a\ndeductive (top-down) system dependability analysis\nmethod. An RBD is the graphical representation of a\nsystem\u2019s logical structure in terms of sub-systems and/\nor components. This allows the system success paths\nto be represented by the way in which the blocks (sub-\nsystems/components) are logically connected.",
+          "bbox": [
+            266.42,
+            277.18,
+            483.57,
+            361.75
+          ],
+          "block_id": "b6_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 2 gives an overview of various dependability\nanalysis methods and their characteristics and features.\nMore than one method may be required to provide a\ncomplete analysis of the system.",
+          "bbox": [
+            31.46,
+            277.67,
+            248.61,
+            326.47
+          ],
+          "block_id": "b6_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2  Short Descriptions\nof Analysis\nMethods",
+          "bbox": [
+            31.46,
+            334.55,
+            214.82,
+            347.6
+          ],
+          "block_id": "b6_10",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2.1  Failure\nMode and Efects\nAnalysis",
+          "bbox": [
+            31.46,
+            353.63,
+            194.66,
+            365.59
+          ],
+          "block_id": "b6_11",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Various\nqualitative\nanalysis\ntechniques\nmay be\nemployed to construct an RBD. The first step is to\nestablish the definition of system success. The next\nstep is to divide the system in functional\nblocks\nappropriate to the purpose of the reliability analysis.\nSome blocks may represent\nsystem substructures,\nwhich in turn may be represented\nby other RBDs\n(system reduction).",
+          "bbox": [
+            266.66,
+            366.95,
+            483.16,
+            463.75
+          ],
+          "block_id": "b6_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Failure\nmode and effect\nanalysis\n(FMEA)\nis an\ninductive\n(bottom-up),\nqualitative\ndependability\nanalysis method, which is particularly suited to the\nstudy of material, component and equipment faults\nand their effects and mechanisms on the next higher\nfunctional\nsystem\nlevel.\nIterations\nof the step\n(identification of single fault modes and the evaluation\nof their effects on the next higher system level) result\nin the eventual identification of all the system single\nfault modes. FMEA lends itself to the analysis of\nsystems\nof different\ntechnologies\n(electrical,\nmechanical,\nhydraulic,\nsoftware,\netc) with simple\nfunctional structures.",
+          "bbox": [
+            31.7,
+            370.3,
+            248.22,
+            526.63
+          ],
+          "block_id": "b6_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the quantitative evaluation of an RBD, various\nmethods are available.\nDepending\non the type of\nstructure (reducible or irreducible)\nsimple Boolean\ntechniques, truth tables and/or path and cut set analysis\nmay be employed for the prediction of system reliability\nand availability\nvalues\ncalculated\nfrom\nbasic\ncomponent data.",
+          "bbox": [
+            266.42,
+            468.71,
+            482.94,
+            553.51
+          ],
+          "block_id": "b6_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FMECA extends the FMEA to include criticality\nanalysis\nby quantifying\nfault effects\nin terms of\nprobability\nof occurrence\nand the severity of any\neffects. Estimates of the probability\nof failure are\ncalculated directly from a reliability prediction using\nthe data assessed\nby the FMEA (probability\nof\noccurrence of a fault mode, failure rates, etc). The\nseverity of effects is assessed by reference to a specified\nscale.",
+          "bbox": [
+            31.46,
+            531.83,
+            248.16,
+            640.39
+          ],
+          "block_id": "b6_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.4  Markov Analysis",
+          "bbox": [
+            266.66,
+            558.47,
+            354.5,
+            571.37
+          ],
+          "block_id": "b6_23",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Markov analysis is mainly an inductive (bottom-up)\nanalysis\nmethod\nsuitable\nfor the evaluation\nof\nfunctionally complex system structures and complex\nrepair and maintenance strategies.",
+          "bbox": [
+            266.66,
+            576.46,
+            482.22,
+            625.02
+          ],
+          "block_id": "b6_24",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The method is based on the theory of Markov chains.\nIn principle\nthe probabilities\nof system elements\n(components,\nsub-systems)\nbeing\nin a particular\n(functional) state, or events to occur, at specific points\nor intervals of time are evaluated by mathematical\nmodels.",
+          "bbox": [
+            266.42,
+            630.23,
+            481.67,
+            702.31
+          ],
+          "block_id": "b6_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.2  Fault Tree Analysis",
+          "bbox": [
+            31.94,
+            645.35,
+            131.78,
+            658.25
+          ],
+          "block_id": "b6_14",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Fault tree analysis (FTA) is a deductive (top-down)\nmethod\nfor analyzing\nsystem dependability.\nIt is\nconcerned\nwith the identification\nand analysis of\nconditions and factors which cause, or contribute to,",
+          "bbox": [
+            31.7,
+            663.1,
+            248.39,
+            711.66
+          ],
+          "block_id": "b6_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            254.9,
+            719.03,
+            259.7,
+            731.83
+          ],
+          "block_id": "b6_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 516.6400146484375,
+        "height": 746.6239624023438
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Table 2 Characteristics\nof AnaIysis\nMethods",
+          "bbox": [
+            298.16,
+            33.95,
+            483.92,
+            45.92
+          ],
+          "block_id": "b7_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Clause  6.1)",
+          "bbox": [
+            368.72,
+            46.54,
+            417.71,
+            59.45
+          ],
+          "block_id": "b7_1",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Analysis\nI\nCharacteristics\n. ...-->\nI\nIvletnuu  I",
+          "bbox": [
+            72.82,
+            84.03,
+            435.65,
+            122.88
+          ],
+          "block_id": "b7_2",
+          "font_size": 15.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ability of method to handle model characteristics\nas:\nAttributes\nIndian\nStandard\nT",
+          "bbox": [
+            199.06,
+            91.44,
+            706.14,
+            244.03
+          ],
+          "block_id": "b7_3",
+          "font_size": 110.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Approach\nvarying\nmainte-\non",
+          "bbox": [
+            297.7,
+            121.27,
+            511.93,
+            141.67
+          ],
+          "block_id": "b7_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Number of\nRedu-\ncomponents\nndmrt\nStroct\nUres",
+          "bbox": [
+            129.93,
+            121.75,
+            209.8,
+            160.15
+          ],
+          "block_id": "b7_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Time\nI Complex\nI Simulati\nSymbolic\nrepresen-\ntation",
+          "bbox": [
+            301.54,
+            121.75,
+            455.09,
+            150.55
+          ],
+          "block_id": "b7_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Irredu-\nFaihrre/\ncible\nevent\nstruc-\ncombin-\ntures\nations\nand\ndepend-\nencies",
+          "bbox": [
+            222.82,
+            121.99,
+            285.43,
+            188.0
+          ],
+          "block_id": "b7_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "failurel\nnarrce\nof\nstrategies\nfunctio-\nevent\nrates\nnal\nprocess\nquail-\nquao-\nquail-\nquan-\ntative\ntitative\ntative\ntitative\ndedu-\ninduc-\ntive\ntive",
+          "bbox": [
+            298.42,
+            139.99,
+            661.54,
+            180.08
+          ],
+          "block_id": "b7_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\n1\nyes\nno\nno\nList\nT  =FFF",
+          "bbox": [
+            304.42,
+            148.36,
+            668.49,
+            250.12
+          ],
+          "block_id": "b7_10",
+          "font_size": 41.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Is 11137\n(Part 2)\nIs  11137\n(Part 2)",
+          "bbox": [
+            679.3,
+            190.39,
+            709.41,
+            232.87
+          ],
+          "block_id": "b7_11",
+          "font_size": 8.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "no\n(no)",
+          "bbox": [
+            229.54,
+            190.63,
+            278.19,
+            201.44
+          ],
+          "block_id": "b7_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FMEA\nUp to several\nI",
+          "bbox": [
+            65.6,
+            190.87,
+            188.95,
+            215.04
+          ],
+          "block_id": "b7_13",
+          "font_size": 23.3,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(no)\nthousands",
+          "bbox": [
+            119.13,
+            190.87,
+            206.19,
+            210.79
+          ],
+          "block_id": "b7_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "List\nT\nFMECA\nUp to several\nI",
+          "bbox": [
+            65.62,
+            202.03,
+            488.17,
+            241.33
+          ],
+          "block_id": "b7_15",
+          "font_size": 28.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(no)\nthousands\nno  I",
+          "bbox": [
+            118.89,
+            205.82,
+            256.46,
+            235.33
+          ],
+          "block_id": "b7_16",
+          "font_size": 14.2,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(no)",
+          "bbox": [
+            264.82,
+            214.74,
+            276.99,
+            224.38
+          ],
+          "block_id": "b7_17",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "#\n1\n1\nc\nc\nhigh\nmedium\nFault\ntree\nUp to several\nI\nyes\nanalysis\nthousands\nFault tree\nyes\nI\nno\nI\nno\nClnc\nT",
+          "bbox": [
+            65.61,
+            225.92,
+            664.34,
+            295.13
+          ],
+          "block_id": "b7_18",
+          "font_size": 37.4,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IEC 1025\n(1990)",
+          "bbox": [
+            678.1,
+            235.99,
+            710.13,
+            255.67
+          ],
+          "block_id": "b7_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(c)\nI\nc\nI medium I medium\nIs 15037",
+          "bbox": [
+            537.7,
+            258.79,
+            709.18,
+            269.83
+          ],
+          "block_id": "b7_22",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c\nnc",
+          "bbox": [
+            477.7,
+            259.03,
+            512.97,
+            269.74
+          ],
+          "block_id": "b7_24",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Reliability\nUp to several\nyes\nblock\nthousands\ndiagram",
+          "bbox": [
+            65.62,
+            259.27,
+            204.5,
+            288.55
+          ],
+          "block_id": "b7_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I\nno\nReliability\nblock\ndiagram",
+          "bbox": [
+            372.1,
+            259.27,
+            452.48,
+            288.31
+          ],
+          "block_id": "b7_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(yes)\nno",
+          "bbox": [
+            301.78,
+            259.51,
+            354.29,
+            270.22
+          ],
+          "block_id": "b7_20",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1\nI\nMarkov\n2to 100$\nyes w",
+          "bbox": [
+            65.38,
+            267.76,
+            240.22,
+            321.92
+          ],
+          "block_id": "b7_27",
+          "font_size": 23.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(no) w=\n=FFF",
+          "bbox": [
+            192.58,
+            281.37,
+            709.39,
+            393.59
+          ],
+          "block_id": "b7_34",
+          "font_size": 74.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014",
+          "bbox": [
+            689.38,
+            288.08,
+            698.01,
+            299.95
+          ],
+          "block_id": "b7_29",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "System state\ndiagram",
+          "bbox": [
+            418.9,
+            291.43,
+            459.67,
+            311.11
+          ],
+          "block_id": "b7_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(nc)\nc",
+          "bbox": [
+            473.14,
+            292.03,
+            511.27,
+            301.66
+          ],
+          "block_id": "b7_25",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "+\n+-=--t=",
+          "bbox": [
+            296.01,
+            300.56,
+            535.3,
+            313.87
+          ],
+          "block_id": "b7_26",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "+",
+          "bbox": [
+            470.74,
+            305.84,
+            475.78,
+            317.71
+          ],
+          "block_id": "b7_23",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "List\nnclc\n\u2014\nT\nyes\nCause/conse\nquenti chart",
+          "bbox": [
+            193.78,
+            310.88,
+            698.01,
+            356.53
+          ],
+          "block_id": "b7_35",
+          "font_size": 28.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Parts count\n1to thousands",
+          "bbox": [
+            65.38,
+            313.99,
+            165.61,
+            324.79
+          ],
+          "block_id": "b7_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014\nE",
+          "bbox": [
+            209.62,
+            316.01,
+            697.77,
+            463.75
+          ],
+          "block_id": "b7_36",
+          "font_size": 107.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Cause/conse-\nUp to several\nquence\nhundreds",
+          "bbox": [
+            65.14,
+            327.91,
+            161.8,
+            347.83
+          ],
+          "block_id": "b7_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "T\nyes\nAny\n\u2014\nY",
+          "bbox": [
+            193.54,
+            340.27,
+            697.77,
+            414.38
+          ],
+          "block_id": "b7_41",
+          "font_size": 40.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "yes\nyes",
+          "bbox": [
+            227.86,
+            350.71,
+            276.5,
+            361.27
+          ],
+          "block_id": "b7_37",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Event\nUp to several\nsimulation\nhundreds 8)",
+          "bbox": [
+            65.14,
+            350.95,
+            161.8,
+            370.64
+          ],
+          "block_id": "b7_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Clo)\nmedium\nmedium\nyes\n--1--",
+          "bbox": [
+            193.52,
+            360.54,
+            664.1,
+            433.06
+          ],
+          "block_id": "b7_43",
+          "font_size": 52.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014\nblock\n-\ndiagram",
+          "bbox": [
+            418.9,
+            370.4,
+            697.77,
+            403.03
+          ],
+          "block_id": "b7_46",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "nc\nc",
+          "bbox": [
+            475.3,
+            373.51,
+            511.45,
+            384.31
+          ],
+          "block_id": "b7_44",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "System\nUp to several\nreduction\nthousands 9)",
+          "bbox": [
+            64.9,
+            373.75,
+            161.8,
+            393.82
+          ],
+          "block_id": "b7_33",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "no\n(yes)",
+          "bbox": [
+            229.06,
+            373.75,
+            279.17,
+            384.31
+          ],
+          "block_id": "b7_38",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Reliability\n(nc)",
+          "bbox": [
+            418.9,
+            373.75,
+            548.45,
+            384.55
+          ],
+          "block_id": "b7_42",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10)\nI\nI\nI",
+          "bbox": [
+            539.14,
+            382.23,
+            633.93,
+            401.68
+          ],
+          "block_id": "b7_48",
+          "font_size": 14.2,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014\nEvent tree\n2t050\nyes",
+          "bbox": [
+            64.9,
+            402.8,
+            697.53,
+            416.71
+          ],
+          "block_id": "b7_49",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "yes\n(yes)",
+          "bbox": [
+            227.62,
+            405.91,
+            279.17,
+            416.48
+          ],
+          "block_id": "b7_39",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c\nc",
+          "bbox": [
+            477.22,
+            405.91,
+            511.45,
+            416.47
+          ],
+          "block_id": "b7_45",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Event tree",
+          "bbox": [
+            418.9,
+            405.91,
+            451.26,
+            416.47
+          ],
+          "block_id": "b7_47",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Truth table 3)\n2 to 505)\nyes\nTable\nnclc\n\u2014",
+          "bbox": [
+            64.9,
+            416.48,
+            697.53,
+            430.63
+          ],
+          "block_id": "b7_50",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "yes\nyes 6)",
+          "bbox": [
+            227.38,
+            419.83,
+            281.8,
+            430.4
+          ],
+          "block_id": "b7_40",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014  Forabbreviationsandremarkssee6.3.3.",
+          "bbox": [
+            67.78,
+            451.18,
+            232.65,
+            463.98
+          ],
+          "block_id": "b7_51",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 756.9119873046875,
+        "height": 515.552001953125
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            30.02,
+            18.78,
+            84.5,
+            30.75
+          ],
+          "block_id": "b8_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Initially\nall the states of interest shall be defined\ntogether with the probabilities of transition from one\nstate to another (component\nfailure or repair rates,\nevent rates, etc). Transition rates (failure rates, event\nrates) are normally assumed to be constant, that is\nindependent of time or previous history.",
+          "bbox": [
+            30.02,
+            41.94,
+            248.15,
+            114.5
+          ],
+          "block_id": "b8_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "All these methods are capable of analyzing:",
+          "bbox": [
+            266.19,
+            42.16,
+            443.29,
+            54.96
+          ],
+          "block_id": "b8_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nb)",
+          "bbox": [
+            283.95,
+            60.16,
+            291.91,
+            86.88
+          ],
+          "block_id": "b8_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "series structures;\nreducible structures if redundant structures\nare applicable;\nindependent components (two-state model);\nsingle faults;\nexponential distribution of times to failure;\nconstant repair or event rates; and\nindependent component repair.",
+          "bbox": [
+            301.95,
+            60.16,
+            480.49,
+            168.01
+          ],
+          "block_id": "b8_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nd)\ne)",
+          "bbox": [
+            283.95,
+            99.77,
+            291.91,
+            140.41
+          ],
+          "block_id": "b8_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The qualitative anaIysis requires the determination of\nall the possible\nsystem\nstates, preferably\nshown\ndiagrammatical\nIy in a state-transition\ndiagram.\nA\nmajor supporting analysis technique is the truth table.",
+          "bbox": [
+            30.26,
+            119.46,
+            247.92,
+            168.02
+          ],
+          "block_id": "b8_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0\ng)",
+          "bbox": [
+            283.95,
+            143.21,
+            291.91,
+            170.17
+          ],
+          "block_id": "b8_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The transition probabilities and the way in which the\nstates are related, represented by the state-transition\ndiagram,\nallow\nthe construction\nof the desired\ntransition matrix (mathematical model) for the purpose\nof system reliability/availability\ncalculations.\nThe\nevaluation of other measures of interest may also be\naccomplished.",
+          "bbox": [
+            30.26,
+            172.98,
+            247.68,
+            257.54
+          ],
+          "block_id": "b8_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3,2  Table 2 Headings",
+          "bbox": [
+            266.19,
+            173.21,
+            356.42,
+            186.12
+          ],
+          "block_id": "b8_19",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.1\nNumber of components",
+          "bbox": [
+            265.94,
+            192.93,
+            386.18,
+            204.12
+          ],
+          "block_id": "b8_20",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The  number of components of the system which can\nbe handled by a particular analysis method is basically\nlimited by the number of combinations (system states)\nwhich arise from the possible component states or fault\nmodes considered. The number of combinations is also\nheavily dependent on the specific system structure and\nmaintenance considerations.",
+          "bbox": [
+            265.7,
+            209.22,
+            482.86,
+            293.54
+          ],
+          "block_id": "b8_21",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.2.5  Parts\nCount Reliability\nPrediction",
+          "bbox": [
+            30.5,
+            262.5,
+            191.06,
+            275.4
+          ],
+          "block_id": "b8_4",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Parts count\nreliability\nprediction\nis basically\nan\ninductive\n(bottom-up)\nmethod\napplicable\nmostly\nduring\nthe proposal\nand early design phases,\nto\nestimate an approximate system failure rate.",
+          "bbox": [
+            30.5,
+            280.26,
+            247.44,
+            329.06
+          ],
+          "block_id": "b8_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.2  Redundant\nstructures",
+          "bbox": [
+            266.18,
+            298.74,
+            379.7,
+            311.64
+          ],
+          "block_id": "b8_22",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The basis capability to handling redundant\nsystem\nstructures.",
+          "bbox": [
+            265.94,
+            316.5,
+            481.42,
+            341.3
+          ],
+          "block_id": "b8_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The components of the system need to be listed and\nthe appropriate failure rates determined according to\ntheir stress levels.",
+          "bbox": [
+            30.26,
+            334.26,
+            247.48,
+            370.82
+          ],
+          "block_id": "b8_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.3  Irreducible\nstructures",
+          "bbox": [
+            265.94,
+            346.5,
+            381.14,
+            359.4
+          ],
+          "block_id": "b8_24",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A structure is called irreducible if straight forward\nreduction techniques are not possible.",
+          "bbox": [
+            265.94,
+            364.26,
+            480.76,
+            389.06
+          ],
+          "block_id": "b8_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The method is based upon the assumption that the\ncomponents are logically connected in series. This is\noften a worst case estimate. Where redundancies at\nthe higher levels of assembly are known, their effects\nmay be taken into account.",
+          "bbox": [
+            30.26,
+            376.02,
+            248.15,
+            433.7
+          ],
+          "block_id": "b8_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.4  Failure/event\ncombinations\nand dependencies",
+          "bbox": [
+            265.94,
+            394.02,
+            475.7,
+            406.92
+          ],
+          "block_id": "b8_26",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The  capability of the method to handle failure or event\ncombinations.\nThese\ninclude\ncommon\ncause\nbr\ncommon mode failures, multiple failure effects and\nstatistically dependent fault modes or sequential failure\neffects and mechanisms, or events caused by adverse\nenvironmental effects.",
+          "bbox": [
+            265.94,
+            411.3,
+            482.46,
+            478.82
+          ],
+          "block_id": "b8_27",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A parts count reliability prediction of a system with a\nseries type of structure will yield predictions at an\nacceptable precision level, provided a thorough \u2018Parts\nStress Analysis\u2019 is carried out. Use of the parts stress\nanalysis gives more realistic component failure rates.",
+          "bbox": [
+            30.5,
+            437.7,
+            247.89,
+            494.66
+          ],
+          "block_id": "b8_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.5  Time vatying failure/event\nrates",
+          "bbox": [
+            265.94,
+            483.06,
+            425.79,
+            495.96
+          ],
+          "block_id": "b8_28",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Non-constant\nfailure\nand event\nrates\n(or non-\nexponential distribution of times to failure).",
+          "bbox": [
+            265.46,
+            499.86,
+            479.8,
+            523.7
+          ],
+          "block_id": "b8_29",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3  Explanations\nto Table 2",
+          "bbox": [
+            30.74,
+            502.26,
+            149.07,
+            515.31
+          ],
+          "block_id": "b8_9",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.1\nGeneral",
+          "bbox": [
+            30.74,
+            521.34,
+            83.78,
+            533.31
+          ],
+          "block_id": "b8_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.6  Complex\nmaintenance\nstrategies",
+          "bbox": [
+            265.94,
+            527.7,
+            425.54,
+            540.6
+          ],
+          "block_id": "b8_30",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "On the left hand side of Table 2, the analysis methods\nare listed.\nIn order\nto facilitate\nevaluation\nand\ncomparison, their characteristics, attributes, flexibility,\netc, are stated.",
+          "bbox": [
+            30.5,
+            538.02,
+            246.51,
+            585.86
+          ],
+          "block_id": "b8_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The capability of the method to handle statistically\ndependent repair and maintenance situations. These\ninclude cases where renewal processes (repair queues)\nshould be considered, as compared to the assumption\nthat,\nfor each component\nfailure,\nrepair\nbegins\nimmediately after failure, independent of whether a\ncomponent is accessible or not (independent repair).",
+          "bbox": [
+            265.7,
+            544.5,
+            482.85,
+            626.66
+          ],
+          "block_id": "b8_31",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For each analysis method the matrix thus gives an\nindication as to which additional characteristics each\nmethod can handle as indicated by \u2018yes\u2019 and \u2018no\u2019\nentries, Further, the analysis methods are distinguished\nby particular attributes or techniques. These are listed\nand rated on the right hand side of Table 2.",
+          "bbox": [
+            30.5,
+            589.86,
+            247.44,
+            657.38
+          ],
+          "block_id": "b8_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.7  Simulation\nof functional\nprocess",
+          "bbox": [
+            265.94,
+            631.86,
+            424.58,
+            644.76
+          ],
+          "block_id": "b8_32",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The capability of a method to simulate discrete events;\nthat is, the failure and renewal processes are simulated\nand the particular system states evaluated according\nto the influence which they exert on any higher-level\nsystem or on the total environment (interrelation).",
+          "bbox": [
+            265.46,
+            649.62,
+            481.2,
+            710.18
+          ],
+          "block_id": "b8_33",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 2 indicates that there is no single, comprehensive\ndependability\nanalysis method. The analyst should\nchoose the method which best fits the particular system\nor analysis objective.",
+          "bbox": [
+            30.74,
+            662.1,
+            247.42,
+            710.66
+          ],
+          "block_id": "b8_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            254.18,
+            721.86,
+            258.98,
+            734.66
+          ],
+          "block_id": "b8_34",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 524.6400146484375,
+        "height": 766.7359619140625
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            418.03,
+            29.57,
+            472.5,
+            41.53
+          ],
+          "block_id": "b9_20",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Therefore,\nit is also necessary\nto simulate\nthe\nfictional\nbehaviour of the higher-level system along\nwith processes\nwithin the total environment\nwhile\nanalyzing the operating and failure processes of the\nsystem itself.",
+          "bbox": [
+            32.59,
+            52.96,
+            249.3,
+            114.0
+          ],
+          "block_id": "b9_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "dependability\nanalysis\nmethod\nmay\nbe\nemployed\nfor the evaluation\nof the relevant\ncomponents.\n10) Mainly calculation of system dependability\nmeasures\nby the reduction\n(substitution)\nmethod of a given reliability block diagram.",
+          "bbox": [
+            287.23,
+            53.81,
+            483.55,
+            127.44
+          ],
+          "block_id": "b9_21",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.8  Deductive/inductive\napproach",
+          "bbox": [
+            33.07,
+            119.2,
+            184.27,
+            132.1
+          ],
+          "block_id": "b9_1",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4  Advantages\nand Disadvantages\nof Methods",
+          "bbox": [
+            268.51,
+            135.52,
+            464.83,
+            148.57
+          ],
+          "block_id": "b9_22",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "See 5.3  and 5.4.",
+          "bbox": [
+            32.83,
+            136.96,
+            98.83,
+            149.86
+          ],
+          "block_id": "b9_2",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A  comparison of some of the commonly used methods\nfollows.",
+          "bbox": [
+            268.51,
+            153.52,
+            483.77,
+            178.32
+          ],
+          "block_id": "b9_23",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.9  Qualitative/quantitative\nanalysis",
+          "bbox": [
+            33.31,
+            154.96,
+            196.51,
+            167.86
+          ],
+          "block_id": "b9_3",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The  capability of a method to handle qualitative and/\nor quantitative analysis.",
+          "bbox": [
+            33.55,
+            172.96,
+            250.02,
+            197.76
+          ],
+          "block_id": "b9_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.1  Failure Mode and Eflects Analysis",
+          "bbox": [
+            268.75,
+            183.52,
+            430.51,
+            196.42
+          ],
+          "block_id": "b9_24",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.2.10  Qualitative/qtiantitative\nanalysis eflort (cost)",
+          "bbox": [
+            33.79,
+            202.96,
+            247.63,
+            215.86
+          ],
+          "block_id": "b9_5",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.1.1\nAdvantages",
+          "bbox": [
+            268.99,
+            203.23,
+            341.22,
+            214.42
+          ],
+          "block_id": "b9_25",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            286.99,
+            219.28,
+            294.44,
+            232.08
+          ],
+          "block_id": "b9_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "identifies systematically the cause and effect\nrelationships;\ngives an initial indication of those fault modes\nwhich are likely to be critical,\nespecially\nsingle faults which may propagate;\nsearches for possible outcomes not previously\nor precisely known;\nidentifies\noutcomes\narising from specific\ncauses or initiating events which are believed\nto be important;\nhighlights\nspurious\noutcomes\nas well as\ndeviations\nfrom\nnormal\nfunctional\nperformance; and\nuseful in the preliminary analysis of new or\nuntried systems or components.",
+          "bbox": [
+            304.75,
+            219.28,
+            486.71,
+            409.92
+          ],
+          "block_id": "b9_38",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The entries\ngive relative\nestimates\nof the cost of\napplying a particular analysis method to a particular\nproblem. The effective analysis effort is dependent on\nthe system complexity, the depth of analysis, the skill\nof the analyst, the availability of basic system and\ncomponent\ndata, and the availability\nof suitable\ncomputing resources.",
+          "bbox": [
+            34.03,
+            220.96,
+            250.75,
+            305.28
+          ],
+          "block_id": "b9_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            286.99,
+            245.2,
+            294.95,
+            258.0
+          ],
+          "block_id": "b9_27",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            287.47,
+            283.12,
+            294.92,
+            295.92
+          ],
+          "block_id": "b9_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            287.71,
+            309.04,
+            295.67,
+            321.84
+          ],
+          "block_id": "b9_29",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3.3  Remarks\nwith reference\nto Table 2",
+          "bbox": [
+            34.99,
+            310.48,
+            198.92,
+            323.38
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Capable.\nNot capable, or not applicable\nWith restrictions/exceptions",
+          "bbox": [
+            70.99,
+            328.72,
+            192.89,
+            369.36
+          ],
+          "block_id": "b9_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c\nNc",
+          "bbox": [
+            52.75,
+            330.43,
+            63.98,
+            355.2
+          ],
+          "block_id": "b9_8",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e)",
+          "bbox": [
+            287.95,
+            346.96,
+            295.4,
+            359.76
+          ],
+          "block_id": "b9_30",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "()",
+          "bbox": [
+            55.87,
+            360.15,
+            61.68,
+            370.71
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "With cut sets or logical reduction.\nBy event simulation, numerical integration\nor renewal theory.\nA basic, systematic method (combinatorics)\nto support qualitative\nsystem analysis,\nin\nparticular for Markov and event simulation\nto determine the possible system states. Low\nfor event\nrate,\nhigh\nfor unavailability\n(diagrams with loops).\nLow for event rate, high for unavailability\n(diagrams with loops).\nDepends on system complexity (stochastic\nprocess\nto be simulated)\nand possible\napproximations\n(truncation\nof\nevent\nsequences).\nEspecially\ndependent events, for example,\nparallel\nstructures\nwith passive (standby)\ncomponents.\nSpecial Erlang distribution (introduction of\nvirtual \u2013 \u2018dummy\u2019 states) or semi-Markov\nprocess.\nSystem size and complexity which can be\nhandled are mainly dependent on available\ncomputing means, efficiency of event (Monte\nCarlo) simulation\nprocedure\nand required\naccuracy of measures to be estimated.\nIndependent components at each reduction\nlevel\nare\nassumed.\nTherefore,\nany",
+          "bbox": [
+            71.47,
+            376.48,
+            253.19,
+            727.93
+          ],
+          "block_id": "b9_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1)\n2)",
+          "bbox": [
+            53.23,
+            376.72,
+            62.39,
+            403.2
+          ],
+          "block_id": "b9_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)",
+          "bbox": [
+            288.19,
+            386.8,
+            294.51,
+            399.6
+          ],
+          "block_id": "b9_31",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.1.2",
+          "bbox": [
+            270.43,
+            415.13,
+            296.82,
+            427.93
+          ],
+          "block_id": "b9_32",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3)",
+          "bbox": [
+            53.71,
+            416.56,
+            61.67,
+            429.36
+          ],
+          "block_id": "b9_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Disadvantages",
+          "bbox": [
+            302.11,
+            416.83,
+            353.94,
+            428.02
+          ],
+          "block_id": "b9_39",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            288.43,
+            432.89,
+            295.88,
+            445.69
+          ],
+          "block_id": "b9_33",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "the output\ndata may be large\neven\nfor\nrelatively simple systems;\nmay become complicated and unmanageable\nunless there is a fairly direct (of \u2018single-\nchain\u2019) relationship between cause and effect,\nthat is, cannot conveniently deal with parallel\nor complex relationship;\nmay not easily deal with time sequences,\nrestoration\nprocesses,\nenvironmental\nconditions, maintenance aspects, etc;\ndoes not, in itself, directly produce a model\nfor quantitative evaluation; and\nmay not easily portray multiple dependen-\ncies or complex interactions between faults\nin different parts of the system.",
+          "bbox": [
+            306.19,
+            433.12,
+            487.14,
+            621.6
+          ],
+          "block_id": "b9_40",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            288.43,
+            459.05,
+            296.39,
+            471.85
+          ],
+          "block_id": "b9_34",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4)",
+          "bbox": [
+            54.43,
+            490.48,
+            62.39,
+            503.28
+          ],
+          "block_id": "b9_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5)",
+          "bbox": [
+            54.91,
+            516.4,
+            62.87,
+            529.2
+          ],
+          "block_id": "b9_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            288.91,
+            520.73,
+            296.36,
+            533.53
+          ],
+          "block_id": "b9_35",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            289.15,
+            558.89,
+            297.11,
+            571.69
+          ],
+          "block_id": "b9_36",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6)",
+          "bbox": [
+            54.67,
+            566.09,
+            62.63,
+            578.89
+          ],
+          "block_id": "b9_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)",
+          "bbox": [
+            289.39,
+            584.57,
+            296.84,
+            597.37
+          ],
+          "block_id": "b9_37",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7)",
+          "bbox": [
+            55.15,
+            604.25,
+            63.11,
+            617.05
+          ],
+          "block_id": "b9_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.2  Fault Tree Analysis",
+          "bbox": [
+            271.63,
+            626.81,
+            370.27,
+            639.71
+          ],
+          "block_id": "b9_41",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8)",
+          "bbox": [
+            55.39,
+            641.93,
+            63.35,
+            654.73
+          ],
+          "block_id": "b9_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.2.1\nAdvantages",
+          "bbox": [
+            271.63,
+            646.27,
+            344.1,
+            657.46
+          ],
+          "block_id": "b9_42",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nidentifies\nand records\nsystematically\nthe\nlogical fault paths from a specific effect, back\nto the prime causes;\nb)\ndeals with parallel, redundant or alternative\nfault paths;",
+          "bbox": [
+            289.87,
+            662.32,
+            487.6,
+            724.8
+          ],
+          "block_id": "b9_43",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9)",
+          "bbox": [
+            55.39,
+            703.37,
+            63.35,
+            716.17
+          ],
+          "block_id": "b9_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            260.83,
+            734.8,
+            265.63,
+            747.6
+          ],
+          "block_id": "b9_44",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 523.823974609375,
+        "height": 754.7440185546875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            26.18,
+            15.99,
+            80.9,
+            27.95
+          ],
+          "block_id": "b10_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            44.42,
+            38.9,
+            51.87,
+            51.7
+          ],
+          "block_id": "b10_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "deals with most forms of combinatorial events\nand some forms of dependencies as well;\ndeals with systems which have several cross-\nIinked sub-systems;\nprovide for fairly easy manipulation of the\nfault paths to give minimal logical models\n(for example by using Boolean algebra);\ncapable of sensitivity analysis to indicate the\nitems dominantly\ncontributing\nto overall\nsystem reliability;\ncapable\nof setting\nup models\nfor the\nevaluation of overall system reliability and\navailability in probabilistic terms; and\nresults in compact and concise diagrams for\na total system.",
+          "bbox": [
+            62.66,
+            38.9,
+            243.19,
+            229.07
+          ],
+          "block_id": "b10_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "capable\nof setting\nup models\nfor\nthe\nevaluation of overall system reliability and\navailability in probabilistic terms; and\nresults in compact and concise diagrams for\na total system.",
+          "bbox": [
+            297.14,
+            39.14,
+            477.92,
+            101.62
+          ],
+          "block_id": "b10_33",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": ".!9",
+          "bbox": [
+            279.38,
+            42.98,
+            291.8,
+            53.53
+          ],
+          "block_id": "b10_26",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            44.66,
+            65.07,
+            52.62,
+            77.86
+          ],
+          "block_id": "b10_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "h)",
+          "bbox": [
+            279.38,
+            77.06,
+            287.34,
+            89.86
+          ],
+          "block_id": "b10_27",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)",
+          "bbox": [
+            44.9,
+            90.75,
+            52.35,
+            103.55
+          ],
+          "block_id": "b10_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Disadvantages",
+          "bbox": [
+            297.38,
+            108.29,
+            349.21,
+            119.49
+          ],
+          "block_id": "b10_34",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.3.2",
+          "bbox": [
+            261.62,
+            108.53,
+            285.38,
+            119.73
+          ],
+          "block_id": "b10_28",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            279.62,
+            124.58,
+            287.07,
+            137.38
+          ],
+          "block_id": "b10_29",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "does not, in inself, provide for a specific fault\nanalysis \u2013 that is the cause-effect(s) paths or\nthe effect-cause(s) paths are not specifically\nhighlighted;\nrequires a probabilistic model of performance\nfor each element in the diagram;\nwill not show spurious  or  unintended outputs\nunless the analyst takes deliberate steps to\nthis end; and\nis primarily directed towards success analy-\nsis and does not deal effectively with com-\nplex repair and maintenance\nstrategies\nor\ngeneral availability analysis.",
+          "bbox": [
+            297.62,
+            124.58,
+            478.86,
+            286.91
+          ],
+          "block_id": "b10_35",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)",
+          "bbox": [
+            45.14,
+            130.35,
+            51.46,
+            143.15
+          ],
+          "block_id": "b10_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "g)",
+          "bbox": [
+            44.66,
+            168.75,
+            52.62,
+            181.55
+          ],
+          "block_id": "b10_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            279.62,
+            174.51,
+            287.58,
+            187.31
+          ],
+          "block_id": "b10_30",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            279.86,
+            200.67,
+            287.31,
+            213.47
+          ],
+          "block_id": "b10_31",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "h)",
+          "bbox": [
+            44.42,
+            204.51,
+            52.38,
+            217.31
+          ],
+          "block_id": "b10_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.2.2",
+          "bbox": [
+            26.42,
+            234.27,
+            52.81,
+            247.07
+          ],
+          "block_id": "b10_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Disadvantages",
+          "bbox": [
+            58.82,
+            235.97,
+            110.65,
+            247.17
+          ],
+          "block_id": "b10_21",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            279.86,
+            238.35,
+            287.82,
+            251.15
+          ],
+          "block_id": "b10_32",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "does not, in itself, provide for a specific fault\nanalysis \u2013 that is the cause-effect(s) paths or\nthe effect-cause(s) paths are not specifically\nhighlighted;\nrequires a probabilistic model of performance\nfor each element in the diagram;\nwi 11not show spurious or unintended outputs\nunless the analyst takes deliberate steps to\nthis end; and\nis primarily directed towards success analy-\nsis and does not deal effectively with com-\nplex repair and maintenance\nstrategies or\ngeneral availability analysis.",
+          "bbox": [
+            62.9,
+            252.02,
+            243.66,
+            414.11
+          ],
+          "block_id": "b10_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            44.66,
+            252.03,
+            52.11,
+            264.83
+          ],
+          "block_id": "b10_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.4  A4arkov Analysis",
+          "bbox": [
+            261.86,
+            292.11,
+            350.18,
+            305.01
+          ],
+          "block_id": "b10_36",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            44.66,
+            301.95,
+            52.62,
+            314.75
+          ],
+          "block_id": "b10_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.4.1\nAdvantages",
+          "bbox": [
+            262.1,
+            311.81,
+            334.58,
+            323.01
+          ],
+          "block_id": "b10_37",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            280.1,
+            327.62,
+            287.55,
+            340.42
+          ],
+          "block_id": "b10_38",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "provides\na direct probabilistic\nmodel for\nsystem state behaviour based on the system\nlogic;\nprovides the probabilistic solutions for sub-\nsets of other models such as logic diagrams\nand fault trees;\ndeals readily with multi-state situations and\noutcomes, right down to the component level;\nrepresents event sequences with a specific\npattern or order of occurrence;\nvaluable\nin\ncomputing\navailability\nperformance measures of the system; and\ndeals with complex, dependent repair situa-\ntions.",
+          "bbox": [
+            297.86,
+            327.62,
+            478.82,
+            506.03
+          ],
+          "block_id": "b10_44",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            44.9,
+            327.87,
+            52.35,
+            340.67
+          ],
+          "block_id": "b10_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            45.14,
+            365.31,
+            53.1,
+            378.11
+          ],
+          "block_id": "b10_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            280.1,
+            365.31,
+            288.06,
+            378.11
+          ],
+          "block_id": "b10_39",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            280.1,
+            403.23,
+            287.55,
+            416.03
+          ],
+          "block_id": "b10_40",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.3",
+          "bbox": [
+            27.14,
+            419.31,
+            46.34,
+            432.11
+          ],
+          "block_id": "b10_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Reliability\nBlock Diagram",
+          "bbox": [
+            63.62,
+            421.01,
+            168.74,
+            432.21
+          ],
+          "block_id": "b10_23",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            280.34,
+            429.39,
+            288.3,
+            442.19
+          ],
+          "block_id": "b10_41",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.3.1",
+          "bbox": [
+            27.38,
+            437.31,
+            53.77,
+            450.11
+          ],
+          "block_id": "b10_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Advantages",
+          "bbox": [
+            63.38,
+            439.01,
+            104.66,
+            450.21
+          ],
+          "block_id": "b10_24",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Often constructed almost directly from the\nsystem\nfunctional\ndiagram;\nthis has the\nfurther advantages of reducing constructional\nerrors\nand/or\nsystematic\ndepiction\nof\nfunctional paths relevant to system reliability;\ndeals with most types of system configuration\nincluding parallel, redundant, standby and\nalternative functional paths;\ndeals with most forms of combinational\nevents and some forms of dependencies;\ncapable of complete analysis of variations and\ntrade-offs with regard to changes in system\nperformance parameters;\nprovide\n(in the two-state\napplication)\nfor\nfairly easy manipulation of functional or non-\nfunctional\npaths to give minimal\nlogical\nmodels\n(for example,\nby using Boolean\nalgebra);\ncapable of sensitivity analysis to indicate the\nitems dominantly\ncontributing\nto over-all\nsystem reliability;",
+          "bbox": [
+            63.86,
+            455.3,
+            244.32,
+            709.07
+          ],
+          "block_id": "b10_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)",
+          "bbox": [
+            280.34,
+            455.31,
+            287.79,
+            468.11
+          ],
+          "block_id": "b10_42",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            45.38,
+            455.32,
+            52.83,
+            468.12
+          ],
+          "block_id": "b10_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "o",
+          "bbox": [
+            280.34,
+            482.67,
+            285.14,
+            495.47
+          ],
+          "block_id": "b10_43",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.4.2  Disadvantages",
+          "bbox": [
+            262.58,
+            511.23,
+            345.85,
+            524.13
+          ],
+          "block_id": "b10_45",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            45.62,
+            515.8,
+            53.58,
+            528.6
+          ],
+          "block_id": "b10_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "may become\nvery\ncomplex\nfor models\ninvolving a large number of system states;\nmay not help in the logical solution\nof a\nproblem;\ndepends normally upon the assumption that\ntransition rates are constant; and\ncan only represent\ncombinatorial\nevents\nby creating\na new state for each combi-\nnation.",
+          "bbox": [
+            298.1,
+            528.74,
+            479.49,
+            643.07
+          ],
+          "block_id": "b10_50",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            280.58,
+            528.98,
+            288.03,
+            541.78
+          ],
+          "block_id": "b10_46",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            45.62,
+            552.04,
+            53.07,
+            564.84
+          ],
+          "block_id": "b10_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            280.34,
+            554.91,
+            288.3,
+            567.7
+          ],
+          "block_id": "b10_47",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            45.86,
+            577.0,
+            53.82,
+            589.8
+          ],
+          "block_id": "b10_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)",
+          "bbox": [
+            280.58,
+            580.83,
+            288.03,
+            593.63
+          ],
+          "block_id": "b10_48",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            280.58,
+            606.51,
+            288.54,
+            619.31
+          ],
+          "block_id": "b10_49",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)",
+          "bbox": [
+            45.86,
+            613.24,
+            53.31,
+            626.04
+          ],
+          "block_id": "b10_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.5  Parts Count Reliability\nPrediction",
+          "bbox": [
+            262.82,
+            648.27,
+            421.46,
+            661.17
+          ],
+          "block_id": "b10_51",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.5.1\nAdvantages",
+          "bbox": [
+            262.82,
+            667.73,
+            335.06,
+            678.93
+          ],
+          "block_id": "b10_52",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "o",
+          "bbox": [
+            46.1,
+            674.2,
+            50.9,
+            687.0
+          ],
+          "block_id": "b10_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\ntime and cost of analysis are very low;",
+          "bbox": [
+            280.82,
+            683.78,
+            455.31,
+            696.58
+          ],
+          "block_id": "b10_53",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            251.78,
+            719.79,
+            256.58,
+            732.59
+          ],
+          "block_id": "b10_54",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 516.6400146484375,
+        "height": 747.6239624023438
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            420.91,
+            28.57,
+            475.14,
+            40.53
+          ],
+          "block_id": "b11_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "considered,\nand therefore\nonly\nsimple\nstructures\nlend themselves\nto parts count\nanalysis;\nb)\nthe precision\nlevel of the predictions\nis\nnormally\nlow, especially\nfor small\nsub-\nsystems, due to the wide spread in values of\nmost published data;\nc)\nrepair and maintenance cannot be considered;\nd)\nthe\nevaluation\nof\nfault\nmodes\nand\nmechanisms and their effects is not possible;\nand\ne)\ntime-sequential failure and event behaviour\ncannot be considered.",
+          "bbox": [
+            288.19,
+            51.72,
+            487.36,
+            215.72
+          ],
+          "block_id": "b11_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe necessary input information and data are\nsmall and suiting to the situation in the early\ndesign and development phase;\nc)\nbasic information on component reliability\nis gained in the early design and development\nphase;\nd)\nadapted to computerized calculations;\ne)\nlittle training is necessary;\nf)\napplied to parts of any complexity, provided\nreliability data are available.",
+          "bbox": [
+            52.75,
+            52.68,
+            251.94,
+            180.68
+          ],
+          "block_id": "b11_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.5.2  Disadvantages",
+          "bbox": [
+            36.19,
+            185.88,
+            119.94,
+            198.79
+          ],
+          "block_id": "b11_1",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nthe functional structure (for example lower\nlevel redundancies)\nof a system cannot be",
+          "bbox": [
+            54.19,
+            203.64,
+            252.4,
+            228.2
+          ],
+          "block_id": "b11_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nA",
+          "bbox": [
+            235.39,
+            318.76,
+            286.8,
+            328.36
+          ],
+          "block_id": "b11_5",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Clause  2)",
+          "bbox": [
+            237.55,
+            335.99,
+            286.01,
+            350.05
+          ],
+          "block_id": "b11_6",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "LIST OF REFERRED\nINDIAN\nSTANDARDS",
+          "bbox": [
+            162.91,
+            356.41,
+            354.43,
+            368.37
+          ],
+          "block_id": "b11_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle",
+          "bbox": [
+            59.71,
+            387.27,
+            189.79,
+            398.7
+          ],
+          "block_id": "b11_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Title",
+          "bbox": [
+            407.47,
+            387.51,
+            423.79,
+            398.7
+          ],
+          "block_id": "b11_17",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS No.",
+          "bbox": [
+            294.67,
+            387.75,
+            318.67,
+            398.94
+          ],
+          "block_id": "b11_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Maintenance\nand\nmaintenance\nsupport planning, Section 2 Main-\ntenance support analysis\nMaintenance \u2014 maintenance support\nsupport\nplanning,\nSection\n3\nMaintenance planning analysis\nMaintenance\nand\nmaintenance\nsupporting\nplanning,\nSection\n4\nMaintenance\nsupport\nresources\nrequirements\nAnalysis\ntechniques\nfor system\nreliability:\nPart 2 Procedure\nfor\nfailure mode and effects analysis\n(FMEA) and failure modes, effects\nand criticality analysis (FMECA)\nAnalysis\ntechniques\nfor\ndependability \u2014 Reliability block\ndiagram method",
+          "bbox": [
+            343.15,
+            407.4,
+            488.59,
+            623.73
+          ],
+          "block_id": "b11_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(Part 8/See  2):\n1988",
+          "bbox": [
+            276.67,
+            407.64,
+            333.79,
+            432.69
+          ],
+          "block_id": "b11_11",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1885  (Part 39) : Electrotechnical vocabulary: Part 39\n1999\nReliability\nof\nelectronic\nand\nelectrical items  (second revision)\n9692\nGuide\non\nmaintainability\nof\nequipment\n(Part 1) :1980\nIntroduction to maintainability\n(Part 2) :1980\nMaintainability\nrequirements\nin\nspecifications and contracts\n(Part 3) :1981\nMaintainability programme\n(Part 4) :1987\nTest and diagnostic procedures\n(Part 5) :1985\nMaintainability\nstudies during the\ndesign phase\n(Part 6) :1983\nMaintainability verification\n(Part 7) :1984\nCollection, analysis and presentation\nof data related to maintainability\n(Part 8/See 1) : Maintenance\nand\nmaintenance\n1988\nsupport planning, Section 1 General",
+          "bbox": [
+            36.67,
+            407.88,
+            253.41,
+            611.96
+          ],
+          "block_id": "b11_9",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(Part 8/See  3):\n1988",
+          "bbox": [
+            276.67,
+            443.64,
+            332.59,
+            468.45
+          ],
+          "block_id": "b11_12",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Part 8/See 4):\n1988",
+          "bbox": [
+            276.91,
+            479.4,
+            334.3,
+            503.96
+          ],
+          "block_id": "b11_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ll137(Part2):",
+          "bbox": [
+            273.07,
+            527.16,
+            321.8,
+            539.96
+          ],
+          "block_id": "b11_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1984",
+          "bbox": [
+            278.11,
+            540.25,
+            295.39,
+            552.21
+          ],
+          "block_id": "b11_15",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "15037:2001",
+          "bbox": [
+            273.07,
+            587.16,
+            318.9,
+            599.96
+          ],
+          "block_id": "b11_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9",
+          "bbox": [
+            261.07,
+            731.88,
+            265.87,
+            744.68
+          ],
+          "block_id": "b11_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 521.823974609375,
+        "height": 753.7440185546875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 15036:2001",
+          "bbox": [
+            29.78,
+            16.91,
+            84.02,
+            28.87
+          ],
+          "block_id": "b12_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX\nB",
+          "bbox": [
+            229.46,
+            42.87,
+            282.23,
+            52.46
+          ],
+          "block_id": "b12_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(f\u2019oreword)",
+          "bbox": [
+            230.18,
+            63.27,
+            277.73,
+            72.86
+          ],
+          "block_id": "b12_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "COMMITTEE\nCOMPOSITION",
+          "bbox": [
+            185.54,
+            80.99,
+            317.29,
+            92.95
+          ],
+          "block_id": "b12_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Reliability of Electronic and Electrical Components and Equipment Sectional Committee, LTD 3",
+          "bbox": [
+            56.66,
+            98.14,
+            455.79,
+            110.94
+          ],
+          "block_id": "b12_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Representative(s)",
+          "bbox": [
+            316.82,
+            119.01,
+            366.46,
+            128.02
+          ],
+          "block_id": "b12_27",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Organization",
+          "bbox": [
+            81.14,
+            119.97,
+            119.26,
+            128.98
+          ],
+          "block_id": "b12_5",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PROFK. B.  MISW (Chairman)",
+          "bbox": [
+            287.3,
+            139.66,
+            378.45,
+            152.46
+          ],
+          "block_id": "b12_28",
+          "font_size": 8.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Institute ofTechnology, Khamgpur",
+          "bbox": [
+            30.5,
+            142.39,
+            163.86,
+            152.95
+          ],
+          "block_id": "b12_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Srrsu A. B.MAWR\nSsrroJ. P. Tsr.wm (Alternate)",
+          "bbox": [
+            287.3,
+            151.66,
+            388.55,
+            174.54
+          ],
+          "block_id": "b12_29",
+          "font_size": 8.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "All India Radio, New Delhi",
+          "bbox": [
+            30.5,
+            154.39,
+            117.83,
+            164.95
+          ],
+          "block_id": "b12_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Srmu D. tiO\nSmr  R.K. SARAF (Alternate)",
+          "bbox": [
+            287.3,
+            175.51,
+            387.35,
+            196.38
+          ],
+          "block_id": "b12_30",
+          "font_size": 8.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Bhabha Atomic Research Cerrtre,Mumbai",
+          "bbox": [
+            30.5,
+            176.23,
+            164.62,
+            186.79
+          ],
+          "block_id": "b12_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sara RUDRAMANUEL\nSHRrMATJ\nMEENAPmmm mv,mm  (Alternate)",
+          "bbox": [
+            287.54,
+            197.35,
+            440.87,
+            217.99
+          ],
+          "block_id": "b12_31",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Bharat Electronics Ltd, Bangalore",
+          "bbox": [
+            30.98,
+            198.31,
+            139.16,
+            208.88
+          ],
+          "block_id": "b12_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "DrREaOR(TUCCMWNJCATJOt$\nDEPUTYDJRSeTGR\n(Tele) PTCC (Alternate)",
+          "bbox": [
+            287.54,
+            219.19,
+            431.27,
+            240.3
+          ],
+          "block_id": "b12_32",
+          "font_size": 8.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Central Electricity Authority,New Delhi",
+          "bbox": [
+            30.98,
+            220.39,
+            159.11,
+            230.96
+          ],
+          "block_id": "b12_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SmuY.  K.Pmmsv\nSmr A. K. AHUJA (Alternate)",
+          "bbox": [
+            287.54,
+            241.27,
+            387.83,
+            261.7
+          ],
+          "block_id": "b12_33",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Centre for Development of Telematics (C-DOT),New Delhi",
+          "bbox": [
+            30.98,
+            241.99,
+            222.24,
+            252.56
+          ],
+          "block_id": "b12_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "!%roN. G.  NANOA\nSrrwA. K. SW\n!%rraS.K. KrMo_mr (Ar\u2019rernafe)\n%mlv.  A. RAMA~0\nDIRECTOR\n(Alternate)",
+          "bbox": [
+            287.78,
+            263.11,
+            406.09,
+            317.38
+          ],
+          "block_id": "b12_34",
+          "font_size": 8.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Consumer Electronics &TV ManufacturersAssociation,New Delhi",
+          "bbox": [
+            30.98,
+            263.83,
+            245.04,
+            274.4
+          ],
+          "block_id": "b12_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Department of Electronics (STQC),New Delhi",
+          "bbox": [
+            31.22,
+            275.83,
+            179.27,
+            286.4
+          ],
+          "block_id": "b12_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Department of Telecommunication(TEC),New Delhi",
+          "bbox": [
+            31.22,
+            297.67,
+            201.35,
+            308.24
+          ],
+          "block_id": "b12_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SW  V.K.Smm[\nSmuR.11.mmv\nSmrB.Bmsw MO (Alternate)",
+          "bbox": [
+            288.02,
+            316.78,
+            402.71,
+            351.66
+          ],
+          "block_id": "b12_35",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ElectronicComponents IndustriesAssociation,New Delhi",
+          "bbox": [
+            31.7,
+            319.51,
+            213.83,
+            330.08
+          ],
+          "block_id": "b12_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Electronics Corporation of India Ltd, Hyderabad",
+          "bbox": [
+            31.7,
+            331.51,
+            184.74,
+            342.08
+          ],
+          "block_id": "b12_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sm  V.M Mowl&+o\nSsuoS.C.H. JAGNANAWIho  (Alternate)",
+          "bbox": [
+            288.26,
+            350.86,
+            429.83,
+            373.5
+          ],
+          "block_id": "b12_36",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Hindustan Aeronautics Ltd, Hyderabad",
+          "bbox": [
+            31.7,
+            353.35,
+            156.18,
+            363.92
+          ],
+          "block_id": "b12_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MAJORGrmYmmv.mrDEVA\nMAJORGENK. B.JwrvM\n(Alternute)",
+          "bbox": [
+            288.26,
+            374.47,
+            421.93,
+            394.9
+          ],
+          "block_id": "b12_37",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "lETE, New Delhi",
+          "bbox": [
+            32.18,
+            375.2,
+            87.35,
+            385.76
+          ],
+          "block_id": "b12_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Swu  A.P.PAOmrm\nSaruILwv SRIVASTAVA\n(Alternate)",
+          "bbox": [
+            288.26,
+            396.31,
+            404.63,
+            416.98
+          ],
+          "block_id": "b12_38",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Instrumentation [.td, Ko@",
+          "bbox": [
+            32.18,
+            397.04,
+            115.68,
+            407.6
+          ],
+          "block_id": "b12_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Swo S.  SATJSH\nSmuG. L.UCWMWATHI\n(Alternate)\nSmV.Murww\nSmiK.L. CtruG",
+          "bbox": [
+            288.5,
+            418.39,
+            402.23,
+            463.26
+          ],
+          "block_id": "b12_39",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ISRO (Department of Space), Bangalore",
+          "bbox": [
+            32.42,
+            418.88,
+            160.04,
+            429.44
+          ],
+          "block_id": "b12_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "lTILtd,Bangalore\nMhsistryotDefence(DGQA)(L),Bangalore",
+          "bbox": [
+            32.18,
+            439.42,
+            178.56,
+            463.98
+          ],
+          "block_id": "b12_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Smr  KALYAN  ROY (Alternate)",
+          "bbox": [
+            302.66,
+            461.83,
+            390.47,
+            472.42
+          ],
+          "block_id": "b12_40",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Swu  T.C. GOSALJA\nSsiru P. D. SHASTJU\n(Alternate)",
+          "bbox": [
+            288.74,
+            472.3,
+            392.39,
+            494.94
+          ],
+          "block_id": "b12_41",
+          "font_size": 8.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ONIDA,Mumbai",
+          "bbox": [
+            32.18,
+            473.27,
+            93.83,
+            486.07
+          ],
+          "block_id": "b12_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Snm  R.A. Wkmrvrs",
+          "bbox": [
+            288.74,
+            494.38,
+            345.15,
+            507.18
+          ],
+          "block_id": "b12_42",
+          "font_size": 7.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Philips India Ltd, Loni-Kalbhor",
+          "bbox": [
+            32.42,
+            496.63,
+            132.21,
+            507.19
+          ],
+          "block_id": "b12_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SsrwB.DEVJCHARAN\n(Alternde)",
+          "bbox": [
+            302.9,
+            505.99,
+            396.23,
+            516.58
+          ],
+          "block_id": "b12_43",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "JOJNrDIRECTOR\nS~ANDARDS\n(Ltms)\nJorm DIRECTOR\nSTANDARDS\n(Alternate)",
+          "bbox": [
+            288.5,
+            517.99,
+            419.27,
+            538.42
+          ],
+          "block_id": "b12_44",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Research, Design andStandards Organization,Lucknow",
+          "bbox": [
+            32.42,
+            518.71,
+            210.18,
+            529.27
+          ],
+          "block_id": "b12_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Starr R. DE\nSm D. Wumr  (Akernde)",
+          "bbox": [
+            288.98,
+            538.06,
+            382.29,
+            560.26
+          ],
+          "block_id": "b12_45",
+          "font_size": 8.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Variable EnergyCyclotronCentre, Kolkata",
+          "bbox": [
+            32.42,
+            540.55,
+            168.93,
+            551.11
+          ],
+          "block_id": "b12_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Smu  VIJ.wDhector& Head (Electronicsand\nTelecommunication)\n~epresenting DirectorGeneral  (Er-oflcio)]",
+          "bbox": [
+            288.74,
+            561.67,
+            428.08,
+            591.94
+          ],
+          "block_id": "b12_46",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS Directorate General",
+          "bbox": [
+            32.66,
+            562.39,
+            109.41,
+            572.96
+          ],
+          "block_id": "b12_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Member-Secretary",
+          "bbox": [
+            228.74,
+            606.93,
+            282.44,
+            615.94
+          ],
+          "block_id": "b12_47",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Smu I%vrmKw",
+          "bbox": [
+            227.78,
+            615.82,
+            282.28,
+            628.62
+          ],
+          "block_id": "b12_48",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "AssistantDhector (ElectronicsandTelecommunication),BIS",
+          "bbox": [
+            163.94,
+            629.59,
+            354.06,
+            640.15
+          ],
+          "block_id": "b12_49",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10",
+          "bbox": [
+            255.38,
+            719.5,
+            264.98,
+            732.3
+          ],
+          "block_id": "b12_50",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 516.6400146484375,
+        "height": 746.6239624023438
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau\nof Indian Standards",
+          "bbox": [
+            37.63,
+            44.65,
+            153.31,
+            56.61
+          ],
+          "block_id": "b13_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory\ninstitution\nestablished\nunder the  Bureau\nof Indian\nStandards\nAct,\n1986  to promote\nharmonious\ndevelopment\nof the activities of standardization,\nmarking and quality certification\nof goods\nand attending to connected matters in the country.",
+          "bbox": [
+            37.38,
+            67.56,
+            488.08,
+            104.36
+          ],
+          "block_id": "b13_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            37.87,
+            116.65,
+            75.78,
+            128.61
+          ],
+          "block_id": "b13_2",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout\nthe prior permission\nin writing of BIS. This does not preclude\nthe free use, in the course of\nimplementing\nthe standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            38.11,
+            139.32,
+            489.84,
+            188.12
+          ],
+          "block_id": "b13_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review\nof Indian\nStandards",
+          "bbox": [
+            38.59,
+            200.41,
+            154.03,
+            212.37
+          ],
+          "block_id": "b13_4",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed\nperiodically; a standard along with amendments is reaffirmed when such review indicates that no changes are\nneeded; if the review indicates that changes are needed, it is taken  up  for revision. Users of Indian Standards\nshould ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of\n\u2018BIS Catalogue\u2019 and \u2018Standards: Monthly Additions\u2019.",
+          "bbox": [
+            38.35,
+            223.08,
+            490.31,
+            283.64
+          ],
+          "block_id": "b13_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No.\nLTD 3 (18 15).",
+          "bbox": [
+            38.82,
+            294.36,
+            341.01,
+            307.16
+          ],
+          "block_id": "b13_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments\nIssued Since Publication",
+          "bbox": [
+            183.31,
+            331.21,
+            340.51,
+            343.17
+          ],
+          "block_id": "b13_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue\nText Affected",
+          "bbox": [
+            63.55,
+            357.24,
+            489.55,
+            371.24
+          ],
+          "block_id": "b13_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            188.35,
+            437.64,
+            341.21,
+            450.44
+          ],
+          "block_id": "b13_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Headquarters :",
+          "bbox": [
+            39.79,
+            456.12,
+            100.54,
+            468.92
+          ],
+          "block_id": "b13_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002\nTelegrams : Manaksanstha\nTelephones :3230131,3233375,323\n9402\n(Common to all offices)",
+          "bbox": [
+            39.79,
+            473.4,
+            490.03,
+            498.92
+          ],
+          "block_id": "b13_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices :\nTelephone",
+          "bbox": [
+            39.79,
+            509.16,
+            490.02,
+            522.68
+          ],
+          "block_id": "b13_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3237617\nNEW DELHI 110002\n3233841",
+          "bbox": [
+            94.27,
+            527.16,
+            484.27,
+            552.68
+          ],
+          "block_id": "b13_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\n{",
+          "bbox": [
+            39.79,
+            527.88,
+            444.72,
+            554.84
+          ],
+          "block_id": "b13_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C.I.T. Scheme VII M, V. I. P. Road, Kankurgachi\n{\n3378499,\n3378561\nKOLKATA 700054\n3378626,\n3379120",
+          "bbox": [
+            40.27,
+            557.16,
+            484.51,
+            583.64
+          ],
+          "block_id": "b13_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "603843\n602025",
+          "bbox": [
+            455.96,
+            587.4,
+            484.75,
+            612.2
+          ],
+          "block_id": "b13_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern\n: SCO 335-336, Sector 34-A, CHANDIGARH 160022",
+          "bbox": [
+            39.55,
+            587.64,
+            309.06,
+            600.44
+          ],
+          "block_id": "b13_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "{",
+          "bbox": [
+            445.4,
+            602.76,
+            450.0,
+            615.56
+          ],
+          "block_id": "b13_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2541216,2541442\n2542519,\n2541315",
+          "bbox": [
+            404.36,
+            616.93,
+            484.51,
+            641.73
+          ],
+          "block_id": "b13_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern\n: C.I.T. Campus, IV Cross Road, CHENNAI 600113",
+          "bbox": [
+            40.27,
+            617.65,
+            300.66,
+            630.44
+          ],
+          "block_id": "b13_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "{",
+          "bbox": [
+            394.04,
+            633.01,
+            398.64,
+            645.81
+          ],
+          "block_id": "b13_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\n{\n8329295,\n8327858\nMUMBAI 400093\n8327891,\n8327892",
+          "bbox": [
+            40.27,
+            646.93,
+            484.75,
+            673.41
+          ],
+          "block_id": "b13_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AH MEDABAD.\nBAN GALORE.\nBHOPAL.\nBHUBANESHWAR.\nCOIMBATORE.\nFARIDABAD.\nGHAZIABAD.\nGUWAHAT1.\nHYDERABAD.\nJAIPUR.\nKANPUR:\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPIJRAM.",
+          "bbox": [
+            40.51,
+            677.17,
+            472.22,
+            713.73
+          ],
+          "block_id": "b13_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Printed at  PMIIIIaLOffset Press, New Lklhi-2",
+          "bbox": [
+            351.07,
+            727.88,
+            490.19,
+            738.45
+          ],
+          "block_id": "b13_24",
+          "font_size": 7.4,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 521.823974609375,
+        "height": 753.7440185546875
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

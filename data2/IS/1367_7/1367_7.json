@@ -1,0 +1,917 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 1367 (Part VII) - 1980\n(Reaffirmed 1998)\nEdition 3.1\n(1984-12)\nUDC 621.882.3 : 669.14 : 620.17",
+          "bbox": [
+            71.2,
+            32.61,
+            552.12,
+            83.85
+          ],
+          "block_id": "b1_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            264.52,
+            96.57,
+            358.82,
+            108.57
+          ],
+          "block_id": "b1_4",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TECHNICAL SUPPLY CONDITIONS FOR\nTHREADED STEEL FASTENERS",
+          "bbox": [
+            170.2,
+            119.25,
+            453.11,
+            150.21
+          ],
+          "block_id": "b1_5",
+          "font_size": 13.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART VII MECHANICAL PROPERTIES AND TEST METHODS\nFOR NUTS WITHOUT SPECIFIED PROOF LOADS",
+          "bbox": [
+            149.8,
+            158.85,
+            473.64,
+            179.85
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( Second Revision )",
+          "bbox": [
+            259.48,
+            187.65,
+            363.98,
+            199.65
+          ],
+          "block_id": "b1_7",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            233.44,
+            210.75,
+            390.03,
+            220.71
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Bolts, Nuts and Fasteners Accessories Sectional Committee, EDC 27 [Ref : Doc : EDC 27 (3240)]",
+          "bbox": [
+            56.43,
+            236.29,
+            64.35,
+            591.24
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope \u2014  Covers the mechanical properties of nuts and similar threaded parts without specified\nproof load values which are not covered by the scope of IS : 1367 (Part VI)-1980 \u2018Technical supply\nconditions for threaded steel fasteners: Part VI Mechanical properties and test methods for nuts with\nspecified proof loads (  second revision  )\u2019.",
+          "bbox": [
+            79.24,
+            241.83,
+            544.28,
+            285.05
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.1  This standard does not apply to nuts requiring special properties, such as:\na) Weldability,\nb) Corrosion resistance, and\nc) Ability to withstand temperature above + 300\u00b0C or below \u2013 50\u00b0C.",
+          "bbox": [
+            79.24,
+            289.83,
+            438.56,
+            341.79
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Note  \u2014 Nuts made from free cutting steel should not be used above 250\u00b0C.",
+          "bbox": [
+            91.6,
+            346.07,
+            369.38,
+            354.09
+          ],
+          "block_id": "b1_11",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2. Designation System  \u2014 The property classes of such nuts are designated by a number suffixed by\nletter \u2018H\u2019. The number indicates 1/10th of the minimum Vickers Hardness and the letter \u2018H\u2019 refers to\nthe hardness (  see  Table 1 ).",
+          "bbox": [
+            79.24,
+            361.83,
+            544.25,
+            394.01
+          ],
+          "block_id": "b1_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "TABLE 1\nDESIGNATION SYSTEM OF PROPERTY CLASSES",
+          "bbox": [
+            183.76,
+            418.17,
+            439.37,
+            426.09
+          ],
+          "block_id": "b1_15",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Property Class\n14 H\n17 H\n22 H",
+          "bbox": [
+            115.0,
+            442.17,
+            486.68,
+            450.09
+          ],
+          "block_id": "b1_16",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Vickers hardness,\nHV ,  Min\n140\n170\n220",
+          "bbox": [
+            112.84,
+            466.07,
+            484.08,
+            482.17
+          ],
+          "block_id": "b1_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Raw Material",
+          "bbox": [
+            79.24,
+            507.81,
+            161.09,
+            517.77
+          ],
+          "block_id": "b1_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1  Forged and Machined Nuts  \u2014 The chemical composition for forged nuts shall be as given in\nTable 2. This may also be used for machined nuts if they are not made of free cutting steel.",
+          "bbox": [
+            79.24,
+            523.35,
+            544.07,
+            544.23
+          ],
+          "block_id": "b1_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "TABLE 2\nCHEMICAL COMPOSITION OF FORGED AND MACHINED\n(FROM OTHER THAN FREE CUTTING STEEL) NUTS",
+          "bbox": [
+            167.32,
+            564.69,
+            457.5,
+            582.57
+          ],
+          "block_id": "b1_18",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Property\nClass\nChemical Composition Limits (Check Analysis)",
+          "bbox": [
+            116.2,
+            592.65,
+            454.34,
+            609.57
+          ],
+          "block_id": "b1_19",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Carbon,\nMax , percent\nManganese,\nMin , percent\nPhosphorus\nMax , percent\nSulphur,\nMax , percent",
+          "bbox": [
+            199.6,
+            610.55,
+            513.96,
+            627.6
+          ],
+          "block_id": "b1_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "14H\n0.50\n\u2014\n0.110\n0.150",
+          "bbox": [
+            127.12,
+            637.55,
+            499.68,
+            645.47
+          ],
+          "block_id": "b1_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "17H\n0.58\n0.30\n0.060\n0.150",
+          "bbox": [
+            127.12,
+            655.55,
+            499.68,
+            663.47
+          ],
+          "block_id": "b1_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "22H*\n0.58\n0.30\n0.048\n0.058",
+          "bbox": [
+            127.6,
+            673.55,
+            499.68,
+            681.47
+          ],
+          "block_id": "b1_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "*Nuts of property class 22H must be hardened and tempered in order to achieve the mechanical properties given in\nTable 4. If required, alloy steel may also be used.",
+          "bbox": [
+            93.64,
+            691.55,
+            531.21,
+            708.47
+          ],
+          "block_id": "b1_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Adopted 28 May 1980\n\u00a9 BIS 2002\nPrice Group 1",
+          "bbox": [
+            105.64,
+            741.75,
+            515.51,
+            752.13
+          ],
+          "block_id": "b1_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            158.92,
+            760.77,
+            468.66,
+            801.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 1367 (Part VII) - 1980",
+          "bbox": [
+            70.72,
+            55.29,
+            223.95,
+            67.29
+          ],
+          "block_id": "b2_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.2  Machined Nuts  (  with Free Cutting Steel  )",
+          "bbox": [
+            70.72,
+            83.79,
+            280.08,
+            94.01
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "TABLE 3\nCHEMICAL COMPOSITION FOR NUTS MADE OUT OF FREE CUTTING STEEL",
+          "bbox": [
+            109.12,
+            111.21,
+            484.38,
+            119.13
+          ],
+          "block_id": "b2_10",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Property Class\nChemical Composition Limits (Check Analysis)",
+          "bbox": [
+            94.24,
+            133.17,
+            437.43,
+            141.09
+          ],
+          "block_id": "b2_11",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Carbon\nMax  percent\nPhosphorus\nMax  percent\nLead\nMax  percent\nSulphur\nMax  percent",
+          "bbox": [
+            187.96,
+            155.15,
+            491.64,
+            172.21
+          ],
+          "block_id": "b2_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "14H, 17H\n0.50\n0.12\n0.35\n0.34",
+          "bbox": [
+            107.32,
+            186.11,
+            476.54,
+            194.03
+          ],
+          "block_id": "b2_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4. Mechanical Properties",
+          "bbox": [
+            70.72,
+            221.85,
+            199.9,
+            231.81
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "TABLE 4\nMECHANICAL PROPERTIES",
+          "bbox": [
+            213.88,
+            246.69,
+            381.05,
+            254.61
+          ],
+          "block_id": "b2_14",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mechanical\nProperties\nProperty Class",
+          "bbox": [
+            112.0,
+            262.77,
+            382.0,
+            279.69
+          ],
+          "block_id": "b2_15",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "14H\n17H\n22H",
+          "bbox": [
+            235.84,
+            278.63,
+            466.72,
+            286.55
+          ],
+          "block_id": "b2_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "140\n170\n220",
+          "bbox": [
+            236.92,
+            294.59,
+            465.6,
+            302.51
+          ],
+          "block_id": "b2_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Vickers\nMin\nhardness  HV 5  Max",
+          "bbox": [
+            85.12,
+            297.59,
+            159.92,
+            315.73
+          ],
+          "block_id": "b2_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "220*\n250\n300",
+          "bbox": [
+            237.28,
+            310.67,
+            465.6,
+            318.59
+          ],
+          "block_id": "b2_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "*260 Max for cold-forged nuts.",
+          "bbox": [
+            97.36,
+            326.63,
+            209.26,
+            334.55
+          ],
+          "block_id": "b2_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Test Method for Mechanical Properties",
+          "bbox": [
+            70.72,
+            347.85,
+            285.29,
+            357.81
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1  Hardness Test  \u2014 The Vickers Hardness test shall be carried out in accordance with the\nprovisions of IS : 1501-1968 \u2018Method for Vickers hardness test for steel (  first revision  )\u2019.",
+          "bbox": [
+            70.72,
+            363.27,
+            524.29,
+            384.53
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "E X P L A N A T O R Y\nN O T E",
+          "bbox": [
+            204.64,
+            400.15,
+            390.41,
+            412.15
+          ],
+          "block_id": "b2_5",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Consequent to the decision to revise IS : 1367-1967 \u2018Technical supply conditions for threaded steel\nfasteners\u2019 due to the work at international level, separate parts have been formulated for technical\nand drafting reasons alike. The different parts in the revision are listed in Part I Introduction and\ngeneral information. The requirements for nuts, which are not amenable to proof loading either\ndue to their geometry or application, are covered in this standard.",
+          "bbox": [
+            70.72,
+            417.39,
+            524.38,
+            471.27
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Although work is yet to be initiated at the international level on nuts without specified proof loads,\nthe need for a national standard on the subject has been felt in view of a large number of nut-like\nthreaded and formed products which are in use. Such products cannot be classified according to\ndefinite test loads or loading capacities, but only according to their hardness values. For this\nreason the minimum hardness has been adopted as the characteristic feature. Maximum values\nhave also been specified to guard against a drop in the transverse toughness due to excessive\nhardness.",
+          "bbox": [
+            70.72,
+            476.31,
+            524.33,
+            552.27
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The property classes covered in this standard are applicable for nuts with one or more of the\nfollowing characteristics:\na) With nominal heights less than 0.5  d ;\nb) With lesser across flats than those specified in IS : 9519-1980 \u2018Dimensions for width across\nflats for hexagon head bolts and nuts\u2019;\nc) With threads other than triangular ISO metric threads;\nd) With nominal thread sizes above M39; and\ne) With special configuration.",
+          "bbox": [
+            70.72,
+            557.31,
+            524.23,
+            659.31
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The property class designation system based on hardness values is applicable to the type of\nproducts covered in the following Indian Standards:\nIS : 3468-1975 Specification for pipe nuts\nIS : 5368-1969 Specification for thin slotted and castle nuts (dia range 6 to 52 mm)\nIS : 6731-1972 Specification for locknuts, narrow series and lockwashers with straight inner tab\nfor rolling bearings (  first revision  )",
+          "bbox": [
+            70.72,
+            664.35,
+            524.39,
+            738.52
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 1367 (Part VII) - 1980",
+          "bbox": [
+            371.08,
+            55.29,
+            524.34,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "While the above Indian Standards presently specify property class 4, 6, 8, etc, the same would be\nmodified in their revisions.",
+          "bbox": [
+            70.72,
+            83.79,
+            524.36,
+            104.79
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the preparation of the standard, assistance has been derived from DIN 267 sheet 4-1971\nSchrauben, Mutten Und ahuliche Gewinde \u2014 und Formterte (Bolts, screws, nuts and similar\nthreaded and formed parts \u2014 technical supply conditions of delivery \u2014 property classes and test\nmethods for nuts of unalloyed or low alloy steels) issued by Deutsches Institut f\u00fcr Normung (DIN).",
+          "bbox": [
+            70.72,
+            109.83,
+            524.36,
+            152.79
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 3.1 incorporates Amendment No. 1 (December 1984). Side bar indicates modification\nof the text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            157.83,
+            524.28,
+            178.83
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "table_1_1",
+      "page": 1,
+      "rows": 3,
+      "columns": 3,
+      "has_header": true,
+      "data": [
+        [
+          "Indian Standard\nTECHNICAL SUPPLY CONDITIONS FOR\nTHREADED STEEL FASTENERS\nPART VII MECHANICAL PROPERTIES AND TEST METHODS\nFOR NUTS WITHOUT SPECIFIED PROOF LOADS\n( Second Revision )\n(Incorporating Amendment No. 1)",
+          "",
+          ""
+        ],
+        [
+          "1.Scope\u2014Covers the mechanical properties of nuts and similar threaded parts without specified\nproof load values which are not covered by the scope of IS:1367 (Part VI)-1980 \u2018Technical supply\nconditions for threaded steel fasteners: Part VI Mechanical properties and test methods for nuts with\nspecified proof loads ( second revision )\u2019.\n1.1This standard does not apply to nuts requiring special properties, such as:\na)Weldability,\nb)Corrosion resistance, and\nc)Ability to withstand temperature above +300\u00b0C or below \u201350\u00b0C.\nNote\u2014Nuts made from free cutting steel should not be used above 250\u00b0C.\n2.Designation System\u2014The property classes of such nuts are designated by a number suffixed by\nletter \u2018H\u2019. The number indicates 1/10th of the minimum Vickers Hardness and the letter \u2018H\u2019 refers to\nthe hardness ( see Table 1 ).\nTABLE 1 DESIGNATION SYSTEM OF PROPERTY CLASSES\nProperty Class 14H 17H 22H\nVickers hardness, 140 170 220\nHV,Min\n3.Raw Material\n3.1Forged and Machined Nuts\u2014The chemical composition for forged nuts shall be as given in\nTable2. This may also be used for machined nuts if they are not made of free cutting steel.\nTABLE 2 CHEMICAL COMPOSITION OF FORGED AND MACHINED\n(FROM OTHER THAN FREE CUTTING STEEL) NUTS\nProperty Chemical Composition Limits (Check Analysis)\nClass\nCarbon, Manganese, Phosphorus Sulphur,\nMax, percent Min, percent Max, percent Max, percent\n14H 0.50 \u2014 0.110 0.150\n17H 0.58 0.30 0.060 0.150\n22H* 0.58 0.30 0.048 0.058\n*Nuts of property class 22H must be hardened and tempered in order to achieve the mechanical properties given in\nTable 4. If required, alloy steel may also be used.",
+          "",
+          ""
+        ],
+        [
+          "Adopted 28 May 1980",
+          "\u00a9 BIS 2002",
+          "Price Group 1"
+        ]
+      ],
+      "markdown": "| Indian Standard                                                                                                  |            |               |\n| TECHNICAL SUPPLY CONDITIONS FOR                                                                                  |            |               |\n| THREADED STEEL FASTENERS                                                                                         |            |               |\n| PART VII MECHANICAL PROPERTIES AND TEST METHODS                                                                  |            |               |\n| FOR NUTS WITHOUT SPECIFIED PROOF LOADS                                                                           |            |               |\n| ( Second Revision )                                                                                              |            |               |\n| (Incorporating Amendment No. 1)                                                                                  |            |               |\n|:-----------------------------------------------------------------------------------------------------------------|:-----------|:--------------|\n| 1.Scope\u2014Covers the mechanical properties of nuts and similar threaded parts without specified                    |            |               |\n| proof load values which are not covered by the scope of IS:1367 (Part VI)-1980 \u2018Technical supply                 |            |               |\n| conditions for threaded steel fasteners: Part VI Mechanical properties and test methods for nuts with            |            |               |\n| specified proof loads ( second revision )\u2019.                                                                      |            |               |\n| 1.1This standard does not apply to nuts requiring special properties, such as:                                   |            |               |\n| a)Weldability,                                                                                                   |            |               |\n| b)Corrosion resistance, and                                                                                      |            |               |\n| c)Ability to withstand temperature above +300\u00b0C or below \u201350\u00b0C.                                                  |            |               |\n| Note\u2014Nuts made from free cutting steel should not be used above 250\u00b0C.                                           |            |               |\n| 2.Designation System\u2014The property classes of such nuts are designated by a number suffixed by                    |            |               |\n| letter \u2018H\u2019. The number indicates 1/10th of the minimum Vickers Hardness and the letter \u2018H\u2019 refers to             |            |               |\n| the hardness ( see Table 1 ).                                                                                    |            |               |\n| TABLE 1 DESIGNATION SYSTEM OF PROPERTY CLASSES                                                                   |            |               |\n| Property Class 14H 17H 22H                                                                                       |            |               |\n| Vickers hardness, 140 170 220                                                                                    |            |               |\n| HV,Min                                                                                                           |            |               |\n| 3.Raw Material                                                                                                   |            |               |\n| 3.1Forged and Machined Nuts\u2014The chemical composition for forged nuts shall be as given in                        |            |               |\n| Table2. This may also be used for machined nuts if they are not made of free cutting steel.                      |            |               |\n| TABLE 2 CHEMICAL COMPOSITION OF FORGED AND MACHINED                                                              |            |               |\n| (FROM OTHER THAN FREE CUTTING STEEL) NUTS                                                                        |            |               |\n| Property Chemical Composition Limits (Check Analysis)                                                            |            |               |\n| Class                                                                                                            |            |               |\n| Carbon, Manganese, Phosphorus Sulphur,                                                                           |            |               |\n| Max, percent Min, percent Max, percent Max, percent                                                              |            |               |\n| 14H 0.50 \u2014 0.110 0.150                                                                                           |            |               |\n| 17H 0.58 0.30 0.060 0.150                                                                                        |            |               |\n| 22H* 0.58 0.30 0.048 0.058                                                                                       |            |               |\n| *Nuts of property class 22H must be hardened and tempered in order to achieve the mechanical properties given in |            |               |\n| Table 4. If required, alloy steel may also be used.                                                              |            |               |\n| Adopted 28 May 1980                                                                                              | \u00a9 BIS 2002 | Price Group 1 |"
+    },
+    {
+      "table_id": "table_1_2",
+      "page": 1,
+      "rows": 3,
+      "columns": 4,
+      "has_header": true,
+      "data": [
+        [
+          "TABLE 1 DESIGNATION SYSTEM OF PROPERTY CLASSES",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Property Class",
+          "14H",
+          "17H",
+          "22H"
+        ],
+        [
+          "Vickers hardness,\nHV,Min",
+          "140",
+          "170",
+          "220"
+        ]
+      ],
+      "markdown": "| TABLE 1 DESIGNATION SYSTEM OF PROPERTY CLASSES   |     |     |     |\n|:-------------------------------------------------|:----|:----|:----|\n| Property Class                                   | 14H | 17H | 22H |\n| Vickers hardness,                                | 140 | 170 | 220 |\n| HV,Min                                           |     |     |     |"
+    },
+    {
+      "table_id": "table_1_3",
+      "page": 1,
+      "rows": 7,
+      "columns": 5,
+      "has_header": true,
+      "data": [
+        [
+          "TABLE 2 CHEMICAL COMPOSITION OF FORGED AND MACHINED\n(FROM OTHER THAN FREE CUTTING STEEL) NUTS",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Property\nClass",
+          "Chemical Composition Limits (Check Analysis)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Carbon,\nMax, percent",
+          "Manganese,\nMin, percent",
+          "Phosphorus\nMax, percent",
+          "Sulphur,\nMax, percent"
+        ],
+        [
+          "14H",
+          "0.50",
+          "\u2014",
+          "0.110",
+          "0.150"
+        ],
+        [
+          "17H",
+          "0.58",
+          "0.30",
+          "0.060",
+          "0.150"
+        ],
+        [
+          "22H*",
+          "0.58",
+          "0.30",
+          "0.048",
+          "0.058"
+        ],
+        [
+          "*Nuts of property class 22H must be hardened and tempered in order to achieve the mechanical properties given in\nTable 4. If required, alloy steel may also be used.",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| TABLE 2 CHEMICAL COMPOSITION OF FORGED AND MACHINED                                                              |                                              |              |              |              |\n| (FROM OTHER THAN FREE CUTTING STEEL) NUTS                                                                        |                                              |              |              |              |\n|:-----------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:-------------|:-------------|:-------------|\n| Property                                                                                                         | Chemical Composition Limits (Check Analysis) |              |              |              |\n| Class                                                                                                            |                                              |              |              |              |\n|                                                                                                                  | Carbon,                                      | Manganese,   | Phosphorus   | Sulphur,     |\n|                                                                                                                  | Max, percent                                 | Min, percent | Max, percent | Max, percent |\n| 14H                                                                                                              | 0.50                                         | \u2014            | 0.110        | 0.150        |\n| 17H                                                                                                              | 0.58                                         | 0.30         | 0.060        | 0.150        |\n| 22H*                                                                                                             | 0.58                                         | 0.30         | 0.048        | 0.058        |\n| *Nuts of property class 22H must be hardened and tempered in order to achieve the mechanical properties given in |                                              |              |              |              |\n| Table 4. If required, alloy steel may also be used.                                                              |                                              |              |              |              |"
+    },
+    {
+      "table_id": "table_2_1",
+      "page": 2,
+      "rows": 3,
+      "columns": 5,
+      "has_header": true,
+      "data": [
+        [
+          "PropertyClass",
+          "Chemical Composition Limits (Check Analysis)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Carbon\nMax percent",
+          "Phosphorus\nMax percent",
+          "Lead\nMax percent",
+          "Sulphur\nMax percent"
+        ],
+        [
+          "14H, 17H",
+          "0.50",
+          "0.12",
+          "0.35",
+          "0.34"
+        ]
+      ],
+      "markdown": "| PropertyClass   | Chemical Composition Limits (Check Analysis)   |             |             |             |\n|:----------------|:-----------------------------------------------|:------------|:------------|:------------|\n|                 | Carbon                                         | Phosphorus  | Lead        | Sulphur     |\n|                 | Max percent                                    | Max percent | Max percent | Max percent |\n| 14H, 17H        | 0.50                                           | 0.12        | 0.35        | 0.34        |"
+    },
+    {
+      "table_id": "table_2_2",
+      "page": 2,
+      "rows": 4,
+      "columns": 4,
+      "has_header": true,
+      "data": [
+        [
+          "Mechanical\nProperties",
+          "Property Class",
+          "",
+          ""
+        ],
+        [
+          "",
+          "14H",
+          "17H",
+          "22H"
+        ],
+        [
+          "Vickers Min\nhardness HV5Max",
+          "140",
+          "170",
+          "220"
+        ],
+        [
+          "",
+          "220*",
+          "250",
+          "300"
+        ]
+      ],
+      "markdown": "| Mechanical      | Property Class   |     |     |\n| Properties      |                  |     |     |\n|:----------------|:-----------------|:----|:----|\n|                 | 14H              | 17H | 22H |\n| Vickers Min     | 140              | 170 | 220 |\n| hardness HV5Max |                  |     |     |\n|                 | 220*             | 250 | 300 |"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,2778 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 2096 : 1992\n(Reaffirmed 1997)\nEdition 2.1\n(1997-08)",
+          "bbox": [
+            432.04,
+            55.29,
+            524.37,
+            108.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            127.6,
+            120.6,
+            467.44,
+            207.48
+          ],
+          "block_id": "img1_6"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            227.96,
+            368.3,
+            245.96
+          ],
+          "block_id": "b1_1",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ASBESTOS CEMENT FLAT SHEETS \u2014\nSPECIFICATION",
+          "bbox": [
+            106.24,
+            259.82,
+            494.24,
+            301.7
+          ],
+          "block_id": "b1_2",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            228.52,
+            313.88,
+            366.39,
+            331.88
+          ],
+          "block_id": "b1_3",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            219.28,
+            346.93,
+            375.87,
+            356.89
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC 691.328.5-415",
+          "bbox": [
+            252.28,
+            387.85,
+            342.54,
+            397.81
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2002",
+          "bbox": [
+            271.12,
+            673.93,
+            323.91,
+            683.89
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            704.61,
+            452.46,
+            746.38
+          ],
+          "block_id": "b1_8",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 3",
+          "bbox": [
+            447.88,
+            778.41,
+            523.24,
+            788.37
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_6",
+          "bbox": [
+            127.6,
+            120.6,
+            467.44,
+            207.48
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_6": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cement and Concrete Sectional Committee, CED 2",
+          "bbox": [
+            70.72,
+            64.09,
+            306.06,
+            74.05
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.65,
+            132.23,
+            150.61
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the\ndraft finalized by the Cement and Concrete Sectional Committee had been approved by the Civil\nEngineering Division Council.",
+          "bbox": [
+            70.72,
+            158.65,
+            524.32,
+            190.57
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the past several years asbestos cement flat sheets are being manufactured and used in India.\nThese sheets are either water cured or humid cured.",
+          "bbox": [
+            70.72,
+            195.61,
+            524.3,
+            216.61
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "These sheets are mainly used for external wall claddings, partitions, false ceilings, panelling,\nfurniture and dado work.",
+          "bbox": [
+            70.72,
+            221.65,
+            524.31,
+            242.53
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Asbestos cement flat sheets are different from asbestos cement building boards which are more\nporous and flexible and are intended mainly for internal use. Asbestos building boards are covered\nseparately in IS 2098 : 1964 \u2018Specification for asbestos cement building boards\u2019.",
+          "bbox": [
+            70.72,
+            247.57,
+            524.27,
+            279.61
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard was originally published in 1966. The present revision has been taken up in the\nlight of experience gained during its use. In this revision frost cracking test, test for resistance to\nacidified waters, and test for water absorption and impermeability have been deleted, since it has\nbeen found that sheets fulfilling requirements for density and bending strength are weather-proof.\nClassification and strength of sheets have also been modified in this revision.",
+          "bbox": [
+            70.72,
+            284.65,
+            524.28,
+            338.52
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In formulation of this standard due weightage has been given to international co-ordination\namong the standards and practices prevailing in different countries in addition to relating it to the\npractices in the field in this country. Assistance has been derived from BS 690 (Part 2) : 1981\n\u2018Asbestos cement slates and sheets, Part 2 Specification for asbestos cement and cellulose asbestos\ncement flat sheets\u2019.",
+          "bbox": [
+            70.72,
+            343.56,
+            524.31,
+            397.56
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The composition of the Committee responsible for the formulation of this standard is given in\nAnnex B.",
+          "bbox": [
+            70.72,
+            402.6,
+            524.27,
+            423.6
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (August 1997). Side bar indicates modification of\nthe text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            428.64,
+            524.21,
+            449.52
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular requirement of this standard is complied with,\nthe final value, observed or calculated, expressing the result of a test or analysis, shall be rounded\noff in accordance with IS 2 : 1960 \u2018Rules for rounding off numerical values (  revised  )\u2019. The number\nof significant places retained in the rounded off value should be the same as that of the specified\nvalue in this standard.",
+          "bbox": [
+            70.72,
+            454.56,
+            524.43,
+            508.56
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 2096 : 1992",
+          "bbox": [
+            442.24,
+            55.29,
+            524.37,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            83.0,
+            368.3,
+            101.0
+          ],
+          "block_id": "b3_2",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ASBESTOS CEMENT FLAT SHEETS \u2014\nSPECIFICATION",
+          "bbox": [
+            106.24,
+            114.74,
+            494.24,
+            156.74
+          ],
+          "block_id": "b3_3",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            228.52,
+            168.92,
+            366.41,
+            186.92
+          ],
+          "block_id": "b3_4",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE\nThis standard lays down the requirements\nregarding composition, dimensions and tests of\nasbestos cement flat sheets (semi-compressed\nand\nfully-compressed).\nThese\nsheets\nare\ndifferent\nfrom\nautoclaved\nsilica\nasbestos\ncement flat sheets which are covered in\nIS 13000 : 1990.",
+          "bbox": [
+            70.72,
+            195.93,
+            290.46,
+            286.33
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "appearance or serviceability. The surface of the\nsheets shall be flat rectangular and shall have\nneatly trimmed straight and regular edges and\nshall be square at the corners.",
+          "bbox": [
+            304.6,
+            195.96,
+            524.27,
+            238.92
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Table 1\nClassification of Asbestos\nCement Flat Sheets\n(  Clause  5 )",
+          "bbox": [
+            325.12,
+            242.84,
+            507.73,
+            278.02
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Class\nof\nSheet",
+          "bbox": [
+            306.4,
+            285.21,
+            332.07,
+            309.21
+          ],
+          "block_id": "b3_17",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Description of\nSheet\nMinimum Bending\nStrength in N/mm 2\nMinimum\nDensity",
+          "bbox": [
+            335.68,
+            285.21,
+            524.39,
+            303.33
+          ],
+          "block_id": "b3_18",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES\nThe Indian Standards listed in Annex A are\nnecessary adjuncts to this standard.",
+          "bbox": [
+            70.72,
+            291.33,
+            290.35,
+            326.89
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\uf8fc\uf8f4\n\uf8f4\n\uf8fd\n\uf8f4\n\uf8f4\n\uf8fe",
+          "bbox": [
+            397.72,
+            307.63,
+            482.36,
+            313.56
+          ],
+          "block_id": "b3_29",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Loading\nParallel to\nthe Fibre\nof Sheet",
+          "bbox": [
+            399.16,
+            317.95,
+            439.05,
+            349.87
+          ],
+          "block_id": "b3_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Loading at\nRight\nAngles to\nthe Fibre of\nSheet\ng/cc",
+          "bbox": [
+            439.24,
+            317.95,
+            511.16,
+            357.91
+          ],
+          "block_id": "b3_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 COMPOSITION\nAsbestos cement flat sheets shall be made from\na thorough and homogeneous mixture of\nordinary Portland cement, conforming to\nIS 269 : 1989\nor\nIS 8112 : 1989\nor\nIS 12269 : 1987 or rapid hardening Portland\ncement\nconforming\nto\nIS 8041 : 1990\nor\nPortland\nslag\ncement\nconforming\nto\nIS 455 : 1989 or Portland pozzolana cement\nconforming to IS 1489 (Parts 1 and 2) : 1991\nand asbestos fibre to which other suitable fibres\nmay be added. Pozzolanic materials, pigments\nand fillers which are compatible with asbestos\ncement may be added.",
+          "bbox": [
+            70.72,
+            331.89,
+            290.52,
+            488.4
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(1)\n(2)\n(3)\n(4)\n(5)",
+          "bbox": [
+            313.24,
+            361.99,
+            509.22,
+            369.91
+          ],
+          "block_id": "b3_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\nSemi-compressed\n13\n16\n1.2",
+          "bbox": [
+            315.88,
+            376.03,
+            510.03,
+            383.95
+          ],
+          "block_id": "b3_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nFully compressed\n20\n28\n1.6",
+          "bbox": [
+            315.88,
+            388.03,
+            510.0,
+            395.95
+          ],
+          "block_id": "b3_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014  In case where the direction of the fibre is difficult\nto identify, the lower value obtained shall be m ore than the\nvalue of the third colum n and the higher value shall be not\nless than the corresponding value of the fourth colum n.",
+          "bbox": [
+            316.96,
+            402.59,
+            525.0,
+            436.69
+          ],
+          "block_id": "b3_24",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7 DlMENSIONS AND TOLERANCES",
+          "bbox": [
+            304.6,
+            451.64,
+            491.61,
+            461.6
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1  The nominal thickness of asbestos cement\nflat sheets shall conform to those value\nspecified below:",
+          "bbox": [
+            304.6,
+            467.12,
+            524.35,
+            499.08
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 In case of Portland pozzolana cement and\nPortland slag cement, addition of pozzolanic materials\nshall not be permitted.\n4 COLOURING MATTER\nThe sheets may be left in their natural colour or\ncolouring matter may be added in the\ncomposition. They may receive coloured or\nuncoloured coating on their surface. Pigments\nwhich are embodied in asbestos cement for\ncolouring purpose shall be of permanent colour\nand shall conform to the relevant Indian\nStandards. For guidance in ascertaining the\ncolour and staining power of the pigments\nIS 5913 : 1989 may be referred to.",
+          "bbox": [
+            70.72,
+            492.67,
+            290.57,
+            646.93
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3, 4, 5, 6, 8, 10, 12 and 15 mm.",
+          "bbox": [
+            328.24,
+            504.12,
+            469.01,
+            514.08
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2  The nominal lengths and widths of asbestos\ncement flat sheets shall conform to the values\nspecified in Table 2.",
+          "bbox": [
+            304.6,
+            519.2,
+            524.3,
+            551.16
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table 2\nNominal Dimensions of Asbestos\nCement Sheets",
+          "bbox": [
+            306.4,
+            556.17,
+            524.98,
+            577.17
+          ],
+          "block_id": "b3_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Length\nWidth",
+          "bbox": [
+            325.96,
+            584.01,
+            463.39,
+            591.93
+          ],
+          "block_id": "b3_26",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\uf8fc\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8fd\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8f4\n\uf8fe",
+          "bbox": [
+            395.08,
+            595.92,
+            502.26,
+            600.84
+          ],
+          "block_id": "b3_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1 200\n1 220\n600\n\u00d7\n610\n\u00d7\n1200\n\u00d7\n1220\n\u00d7\n1800\n\u00d7\n1830\n\u00d7\n2400\n\u00d7\n2440\n\u00d7\n3000\n\u00d7\n3050\n\u00d7",
+          "bbox": [
+            330.88,
+            602.47,
+            496.92,
+            715.39
+          ],
+          "block_id": "b3_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 CLASSIFICATION\nAsbestos cement flat sheets shall be classified\nin two types according to the value of minimum\nbending strength and density as given in\nTable 1.",
+          "bbox": [
+            70.72,
+            651.93,
+            290.45,
+            709.44
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6 GENERAL APPEARANCE AND FINISH\nThe finished product when delivered, shall be\nfree from visible defects that impair its",
+          "bbox": [
+            70.72,
+            714.45,
+            290.53,
+            749.88
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 By mutual agreement between the purchaser\nand the manufacturer the sheets may be supplied in\ndimensions other than specified in  7.1  and  7.2 .",
+          "bbox": [
+            316.96,
+            719.95,
+            524.76,
+            745.89
+          ],
+          "block_id": "b3_28",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 2096 : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            152.83,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.3 Tolerances",
+          "bbox": [
+            70.72,
+            83.85,
+            144.83,
+            93.81
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "means of a steel rule, the greatest separation\nbetween the edge of the sheet and the arm of\nthe square. This shall not be more than the\nvalue specified in  7.3.3.1 .",
+          "bbox": [
+            304.6,
+            83.88,
+            524.31,
+            126.84
+          ],
+          "block_id": "b4_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.3.1  Tolerance on Thickness\nFrom 3 mm to 5 mm \u2014 \u00b1 0.5 mm",
+          "bbox": [
+            70.72,
+            99.33,
+            235.66,
+            124.33
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "From 6 mm and above \u2014 \u00b1 0.1  e  mm",
+          "bbox": [
+            83.08,
+            129.37,
+            251.9,
+            139.42
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.5 Squareness of Edges",
+          "bbox": [
+            304.6,
+            131.84,
+            428.12,
+            141.8
+          ],
+          "block_id": "b4_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "where \u2018 e \u2019 is nominal thickness of sheet.",
+          "bbox": [
+            83.08,
+            144.37,
+            261.92,
+            154.42
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Place each of the four corners of the sheet in\nsuccession between the arms of the square\nkeeping on the one hand the large side against\nthe large arm and on the other hand the small\nside in contact with the small arm. In this\nposition, measure the distance of the apex of\nthe corner from the small arm of the square.\nThis shall not be more than the value specified\nin  7.3.3.2 .",
+          "bbox": [
+            304.6,
+            147.36,
+            524.42,
+            245.4
+          ],
+          "block_id": "b4_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The maximum difference between extreme\nvalues of the thickness measurements within a\nsheet shall not exceed 10 percent of the\nmaximum measured value.",
+          "bbox": [
+            70.72,
+            159.37,
+            290.52,
+            202.33
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.2  Tolerance on Length and Width\nAsbestos cement flat sheets shall not vary from\nthe nominal dimensions for length and width\nspecified in  7.2  by more than \u00b1 5 mm.",
+          "bbox": [
+            70.72,
+            207.33,
+            290.42,
+            254.41
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.6 Density",
+          "bbox": [
+            304.6,
+            250.4,
+            361.69,
+            260.36
+          ],
+          "block_id": "b4_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.3.3  Tolerance on Shape\n7.3.3.1  Straightness of edges\nThe tolerance on the straightness of edges shall\nbe not more than 2 mm/m for the relevant\ndimension (length or width).",
+          "bbox": [
+            70.72,
+            259.41,
+            290.51,
+            321.36
+          ],
+          "block_id": "b4_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The density of the sheets shall be not less than\nthe values specified in Table 1, when tested in\naccordance with  13  of IS 5913 : 1989.",
+          "bbox": [
+            304.6,
+            265.92,
+            524.36,
+            297.84
+          ],
+          "block_id": "b4_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9 SAMPLING",
+          "bbox": [
+            304.6,
+            304.88,
+            373.15,
+            314.84
+          ],
+          "block_id": "b4_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The sampling, inspection and acceptance shall\nbe in accordance with IS 7639 : 1975. Unless\notherwise agreed to between the manufacturer\nand\nthe\npurchaser,\nthe\nmaximum\nand\nminimum inspection lots shall be 3 000 and 400\nsheets respectively.",
+          "bbox": [
+            304.6,
+            320.4,
+            524.37,
+            385.32
+          ],
+          "block_id": "b4_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.3.2  Squareness of edges\nThe tolerance on squareness of the edge shall\nbe not more than 3 mm/m.",
+          "bbox": [
+            70.72,
+            326.37,
+            290.46,
+            362.4
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8 TESTS",
+          "bbox": [
+            70.72,
+            369.33,
+            114.7,
+            379.29
+          ],
+          "block_id": "b4_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1  The samples of sheets taken as described\nin  9  and tested for the various characteristics\nshall conform to the requirements specified\nin  8.2  to  8.4 .",
+          "bbox": [
+            70.72,
+            384.93,
+            290.51,
+            427.92
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10 MANUFACTURER\u2019S CERTIFICATE",
+          "bbox": [
+            304.6,
+            392.36,
+            503.96,
+            402.32
+          ],
+          "block_id": "b4_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The manufacturer shall satisfy himself that the\nsheets conform to the requirements of this\nstandard and, if required, shall furnish a\ncertificate to this effect to the purchaser or his\nrepresentative clearly stating class of the sheet.",
+          "bbox": [
+            304.6,
+            407.87,
+            524.39,
+            461.87
+          ],
+          "block_id": "b4_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2 Bending Strength Test",
+          "bbox": [
+            70.72,
+            432.92,
+            205.41,
+            442.88
+          ],
+          "block_id": "b4_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The values of bending stress which determine\nClass of sheet shall be not less than the values\ngiven in Table 1, when tested in accordance\nwith  7.2  of IS 5913 : 1989.",
+          "bbox": [
+            70.72,
+            448.44,
+            290.48,
+            491.4
+          ],
+          "block_id": "b4_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11 MARKING",
+          "bbox": [
+            304.6,
+            468.91,
+            373.73,
+            478.87
+          ],
+          "block_id": "b4_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11.1  Each sheet shall be stamped or marked by\nany suitable method on the surface not exposed\nto the weather with the following information:\na) Class of sheet,\nb) Indication of the source of manufacture,\nc) Nominal thickness of sheet,\nd) Pictorial\nwarning\nsign\nas\ngiven\nin\nIS 12081 (Part 2) : 1987, and\ne) Year and date of manufacture.",
+          "bbox": [
+            304.6,
+            484.39,
+            524.35,
+            597.35
+          ],
+          "block_id": "b4_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.3 Thickness",
+          "bbox": [
+            70.72,
+            496.4,
+            140.39,
+            506.36
+          ],
+          "block_id": "b4_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Carry out three measurements at one end cover\nwidth at approximately 20 mm from the edge\nby means of a gauge having a flat anvil of not\nless than 9 mm diameter accurate to measure\n0.1 mm as shown in Fig. 1. The average of the\nthree measurements shall correspond to the\nnominal thickness and the tolerance specified\nin  7.1  and  7.3  respectively.",
+          "bbox": [
+            70.72,
+            511.92,
+            290.46,
+            598.92
+          ],
+          "block_id": "b4_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.2  Each sheet may also be marked with the\nStandard Mark.",
+          "bbox": [
+            304.6,
+            602.35,
+            524.22,
+            623.39
+          ],
+          "block_id": "b4_30",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The maximum difference between extreme\nvalues of the measurement shall be inside the\ntolerance given in  7.3.1 .",
+          "bbox": [
+            70.72,
+            603.96,
+            290.43,
+            635.88
+          ],
+          "block_id": "b4_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "12 SAFETY RULES SHEET",
+          "bbox": [
+            304.6,
+            630.43,
+            443.91,
+            640.39
+          ],
+          "block_id": "b4_31",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.4 Straightness and Squareness of Edges",
+          "bbox": [
+            70.72,
+            640.88,
+            285.41,
+            650.84
+          ],
+          "block_id": "b4_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "All deliveries of asbestos cement flat sheets\nshall be accompanied by a safety rules sheet as\ngiven in IS 11769 (Part 1) : 1987.",
+          "bbox": [
+            304.6,
+            645.95,
+            524.28,
+            677.87
+          ],
+          "block_id": "b4_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Apply the edge to the relevant arm of the\nsquare. Measure to the nearest 0.5 mm, by",
+          "bbox": [
+            70.72,
+            656.4,
+            290.44,
+            677.4
+          ],
+          "block_id": "b4_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 2096 : 1992",
+          "bbox": [
+            442.24,
+            55.29,
+            524.37,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            153.28,
+            97.8,
+            437.44,
+            228.96
+          ],
+          "block_id": "img5_5"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 1\nL OCATION   FOR  M EASURING  T HICKNESS",
+          "bbox": [
+            190.6,
+            237.85,
+            404.39,
+            247.81
+          ],
+          "block_id": "b5_4",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n(  Clause  2 )",
+          "bbox": [
+            266.56,
+            288.57,
+            328.47,
+            314.98
+          ],
+          "block_id": "b5_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "LIST OF REFERRED INDIAN STANDARDS",
+          "bbox": [
+            184.72,
+            325.89,
+            410.35,
+            335.85
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle\n269 : 1989\nOrdinary\nPortland\ncement,\nGrade 33 (  fourth revision  )",
+          "bbox": [
+            70.72,
+            362.02,
+            291.54,
+            397.9
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle",
+          "bbox": [
+            329.56,
+            362.02,
+            465.13,
+            371.98
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8112 : 1989\nOrdinary\nPortland\ncement,\nGrade 43 (  first revision  )",
+          "bbox": [
+            304.6,
+            378.36,
+            524.82,
+            399.46
+          ],
+          "block_id": "b5_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "455 : 1976\nPortland slag cement (  fourth\nrevision  )",
+          "bbox": [
+            70.72,
+            402.85,
+            291.37,
+            423.94
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11769\n(Part 1) : 1987\nGuidelines for safe use of\nproducts containing asbestos:\nPart\n1\nAsbestos\ncement\nproducts",
+          "bbox": [
+            304.6,
+            405.84,
+            524.84,
+            448.8
+          ],
+          "block_id": "b5_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1489\n(Part 1) : 1991\n(Part 2) : 1991",
+          "bbox": [
+            70.72,
+            428.89,
+            141.05,
+            460.81
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Portland\npozzolana\ncement:\nFly ash based (  third revision  )\nCalcined\nclay\nbased\n(  third\nrevision  )",
+          "bbox": [
+            142.12,
+            428.89,
+            291.54,
+            471.94
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12082\n(Part 2) : 1987\nRecommendations\nfor\npictorial warning signs and\nprecautionary\nnotices\nfor\nasbestos\nand\nproducts\ncontaining asbestos: Part 2\nAsbestos and its products",
+          "bbox": [
+            304.6,
+            455.4,
+            524.78,
+            520.32
+          ],
+          "block_id": "b5_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5913 : 1989\nMethod of tests for asbestos\ncement products (  first revision  )",
+          "bbox": [
+            70.72,
+            476.89,
+            291.57,
+            497.98
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7639 : 1975\nMethods of sampling of asbestos\ncement products",
+          "bbox": [
+            70.72,
+            502.93,
+            291.58,
+            523.81
+          ],
+          "block_id": "b5_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13000 : 1991\nSilica asbestos cement flat\nsheets",
+          "bbox": [
+            304.6,
+            526.92,
+            524.73,
+            547.8
+          ],
+          "block_id": "b5_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8041 : 1978\nRapid\nhardening\nPortland\ncement (  second revision  )",
+          "bbox": [
+            70.72,
+            528.85,
+            291.5,
+            549.94
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img5_5",
+          "bbox": [
+            153.28,
+            97.8,
+            437.44,
+            228.96
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img5_5": 2
+      }
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 2096 : 1992",
+          "bbox": [
+            70.72,
+            55.29,
+            152.83,
+            67.29
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX B\n(  Foreword  )",
+          "bbox": [
+            266.44,
+            83.61,
+            328.58,
+            110.02
+          ],
+          "block_id": "b6_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "CEMENT AND CONCRETE SECTIONAL COMMITTEE, CED 2",
+          "bbox": [
+            137.68,
+            120.93,
+            457.24,
+            130.89
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Chairman\nRepresenting",
+          "bbox": [
+            105.76,
+            139.15,
+            383.37,
+            147.07
+          ],
+          "block_id": "b6_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  H. C. V ISVESVARAYA\nIn personal capacity (  University of Roorkee, Roorkee  247 667 )",
+          "bbox": [
+            70.72,
+            151.15,
+            490.72,
+            159.07
+          ],
+          "block_id": "b6_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            105.76,
+            163.15,
+            139.04,
+            171.07
+          ],
+          "block_id": "b6_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  H. B HATTACHARYA\nOrissa Cement Limited, New Delhi\nS HRI  G. R. B HARTIKAR\nB. G. Shirke & Co, Pune\nS HRI  U. N. R ATH  (  Alternate  )\nD R  A. K. C HATTERJEE\nS HRI  S. H. S UBRAMANIAN  (  Alternate  )\nThe Associated Cement Companies Ltd, Bombay",
+          "bbox": [
+            70.72,
+            175.15,
+            440.79,
+            222.07
+          ],
+          "block_id": "b6_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C HIEF  E NGINEER  (D ESIGN )\nS UPERINTENDING  E NGINEER  (S & S) (  Alternate  )\nCentral Public Works Department, New Delhi",
+          "bbox": [
+            70.72,
+            224.23,
+            431.54,
+            241.15
+          ],
+          "block_id": "b6_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C HIEF  E NGINEER , N AVAGAM  D AM\nSardar Sarovar Narmada Nigam Ltd, Gandhinagar\nS UPERINTENDING  E NGINEER , QCC (  Alternate  )\nC HIEF  E NGINEER  (R ESEARCH - CUM -D IRECTOR )\nIrrigation and Power Research Institute, Amritsar\nR ESEARCH  O FFICER  (C ONCRETE  T ECHNOLOGY  (  Alternate  )\nD EPUTY  D IRECTOR  (I)\nA SSISTANT  D IRECTOR  (EH) (  Alternate  )\nNational Buildings Organization, New Delhi",
+          "bbox": [
+            70.72,
+            243.19,
+            451.27,
+            300.19
+          ],
+          "block_id": "b6_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D IRECTOR\nJ OINT  D IRECTOR  (  Alternat e )\nA. P. Engineering Research Laboratories, Hyderabad",
+          "bbox": [
+            70.72,
+            302.23,
+            457.36,
+            319.15
+          ],
+          "block_id": "b6_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D IRECTOR  (CMDD) (N & W)\nCentral Water Commission, New Delhi\nD EPUTY  D IRECTOR  (CMDD) (NW & S) (  Alternate  )\nS HRI  K . H. G ANGWAL\nS HRI  V. P ATTABHI  (  Alternate  )\nHyderabad Industries Limited, Hyderabad",
+          "bbox": [
+            70.72,
+            321.19,
+            419.16,
+            358.15
+          ],
+          "block_id": "b6_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  V. K. G HANEKAR\nStructural Engineering Research Centre (CSIR), Ghaziabad\nS HRI  S. G OPINATH\nS HRI  R. T AMILAKARAN  (  Alternate  )\nThe India Cements Ltd, Madras",
+          "bbox": [
+            70.72,
+            360.19,
+            482.66,
+            387.19
+          ],
+          "block_id": "b6_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. K. G UHA  T HAKURTA\nS HRI  S. P. S ANKARANARAYANAN  (  Alternate  )\nGannon Dunkerley & Company Limited, Bombay",
+          "bbox": [
+            70.72,
+            389.23,
+            443.56,
+            406.15
+          ],
+          "block_id": "b6_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  I RSHAD  M ASOOD\nD R  M OHAMMED  K HALID  (  Alternate  )\nCentral Building Research Institute (CSIR), Roorkee",
+          "bbox": [
+            70.72,
+            408.19,
+            456.17,
+            425.11
+          ],
+          "block_id": "b6_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  N. C. J AIN\nD R  S. P. G HOSH  (  Alternate  )\nCement Corporation of India, New Delhi",
+          "bbox": [
+            70.72,
+            427.27,
+            410.79,
+            444.19
+          ],
+          "block_id": "b6_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "J OINT  D IRECTOR , S TANDARDS  (B & S) (CB-I)\nResearch, Designs & Standards Organization (Ministry of Railways),\nLucknow\nJ OINT  D IRECTOR  S TANDARDS  (B & S) (CB-II) (  Alternate  )\nS HRI  N. G. J OSHI\nS HRI  P. D. K ELKAR  (  Alternate  )\nIndian Hume Pipes Co Ltd, Bombay",
+          "bbox": [
+            70.72,
+            446.23,
+            524.7,
+            492.19
+          ],
+          "block_id": "b6_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  D. K. K ANUNGO\nS HRI  B. R. M EENA  (  Alternate  )\nNational Test House, Calcutta",
+          "bbox": [
+            70.72,
+            494.23,
+            373.47,
+            511.15
+          ],
+          "block_id": "b6_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. K RISHNAMURTHY\nS HRI  S. C HAKRAVARTHY  (  Alternate  )\nS HRI  C. R EDDY  (  Alternate  )",
+          "bbox": [
+            70.72,
+            513.19,
+            216.16,
+            539.11
+          ],
+          "block_id": "b6_18",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Larsen & Toubro Limited, Bombay",
+          "bbox": [
+            260.92,
+            513.19,
+            389.84,
+            521.11
+          ],
+          "block_id": "b6_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  A. G. M ADHAVA  R AO\nS HRI  K. M ANI  (  Alternate  )\nStructural Engineering Research Centre (CSIR), Madras",
+          "bbox": [
+            70.72,
+            541.27,
+            471.1,
+            558.19
+          ],
+          "block_id": "b6_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. K. M AJUMDAR\nS HRI  S. O. R ANGARI  (  Alternate  )\nHospital Services Consultancy Corporation (India) Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            560.23,
+            506.28,
+            577.15
+          ],
+          "block_id": "b6_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. K. M UKHERJEE\nS HRI  M. K. G HOSH  (  Alternate  )\nMinistry of Transport, Department of Surface Transport (Roads Wing),\nNew Delhi\nM EMBER  S ECRETARY\nD IRECTOR  (C IVIL ) (  Alternate  )\nCentral Board of Irrigation and Power, New Delhi",
+          "bbox": [
+            70.72,
+            579.19,
+            524.73,
+            615.19
+          ],
+          "block_id": "b6_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  N IRMAL  S INGH\nS HRI  S. S. M IGLANI  (  Alternate  )\nDevelopment Commissioner for Cement Industry (Ministry of\nIndustry), New Delhi\nS HRI  R. C. P ARATE\nC OL  R. K. S INGH  (  Alternate  )\nEngineer-in-Chief\u2019s Branch, Army Headquarters, New Delhi",
+          "bbox": [
+            70.72,
+            617.23,
+            524.61,
+            653.11
+          ],
+          "block_id": "b6_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  Y. R. P HULL\nS HRI  S. S. S EEHRA  (  Alternate  )\nCentral Road Research Institute (CSIR), New Delhi",
+          "bbox": [
+            70.72,
+            655.27,
+            452.11,
+            672.19
+          ],
+          "block_id": "b6_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  Y. R. P HULL\nS HRI  N. K. S INHA  (  Alternate  )\nIndian Roads Congress, New Delhi",
+          "bbox": [
+            70.72,
+            674.23,
+            389.97,
+            691.15
+          ],
+          "block_id": "b6_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  C. R AJKUMAR\nD R  S. C. A HLUWALIA  (  Alternate  )\nNational Council for Cement and Building Materials, New Delhi",
+          "bbox": [
+            70.72,
+            693.19,
+            499.25,
+            710.11
+          ],
+          "block_id": "b6_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. R AMDAS\nS HRI  R. C. S HARMA  (  Alternate  )\nDirectorate General of Supplies and Disposals, New Delhi",
+          "bbox": [
+            70.72,
+            712.27,
+            474.96,
+            729.19
+          ],
+          "block_id": "b6_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. A. R EDDI\nS HRI  N. P RABHAKAR  (  Alternate  )\nGammon Indian Ltd, Bombay",
+          "bbox": [
+            70.72,
+            731.23,
+            371.28,
+            748.15
+          ],
+          "block_id": "b6_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 2096 : 1992",
+          "bbox": [
+            442.24,
+            55.29,
+            524.37,
+            67.29
+          ],
+          "block_id": "b7_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Members\nRepresenting",
+          "bbox": [
+            105.76,
+            93.19,
+            383.37,
+            101.11
+          ],
+          "block_id": "b7_2",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R EPRESENTATIVE\nBuilders Association of India, Bombay\nS HRI  J. S. S ANGANERIA\nS HRI  L. N. A GARWAL  (  Alternate  )\nGeological Survey of India, Calcutta",
+          "bbox": [
+            70.72,
+            108.19,
+            402.15,
+            135.07
+          ],
+          "block_id": "b7_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B. S URI\nS HRI  N. C HANDRASEKARAN  (  Alternate  )\nCentral Soil and Materials Research Station, New Delhi",
+          "bbox": [
+            70.72,
+            137.23,
+            468.66,
+            154.15
+          ],
+          "block_id": "b7_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPERINTENDING  E NGINEER  (D ESIGN )\nPublic Works Department, Government of Tamilnadu, Madras\nE XECUTIVE  E NGINEER  (S. M. R. D IVISION ) (  Alternate  )\nS HRI  T ARWINDER  S INGH\nS HRI  A LOK  A GARWAL  (  Alternate  )\nHindustan Prefab Limited, New Delhi",
+          "bbox": [
+            70.72,
+            156.19,
+            492.49,
+            193.15
+          ],
+          "block_id": "b7_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  H. C. V ISVESVARAYA\nS HRI  D. C. C HATTURVEDI  (  Alternate  )\nThe Institution of Engineers (India), Calcutta",
+          "bbox": [
+            70.72,
+            195.19,
+            429.49,
+            212.11
+          ],
+          "block_id": "b7_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  Y. R. T ANEJA ,\nDirector (Civ Engg)\nDirector General, BIS (  Ex-officio Member  )",
+          "bbox": [
+            70.72,
+            214.15,
+            420.28,
+            231.07
+          ],
+          "block_id": "b7_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Secretary",
+          "bbox": [
+            280.48,
+            238.15,
+            314.92,
+            246.07
+          ],
+          "block_id": "b7_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  J. K. P RASAD\nJoint Director (Civ Engg), BIS",
+          "bbox": [
+            241.84,
+            250.27,
+            353.63,
+            267.19
+          ],
+          "block_id": "b7_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Fibre Reinforced Cement Products Subcommittee, CED 2 : 3",
+          "bbox": [
+            158.56,
+            288.97,
+            437.01,
+            298.93
+          ],
+          "block_id": "b7_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Convener",
+          "bbox": [
+            105.76,
+            306.19,
+            140.12,
+            314.11
+          ],
+          "block_id": "b7_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  C. R AJKUMAR\nNational Council for Cement and Building Materials, New Delhi",
+          "bbox": [
+            70.72,
+            321.19,
+            499.25,
+            329.11
+          ],
+          "block_id": "b7_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            105.76,
+            336.19,
+            139.04,
+            344.11
+          ],
+          "block_id": "b7_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. K. B ANERJEE\nNational Test House, Calcutta\nS HRI  N. G. B ASAK\nS HRI  P. K. J AIN  (  Alternate  )\nDirectorate General of Technical Development, New Delhi",
+          "bbox": [
+            70.72,
+            351.19,
+            476.07,
+            378.19
+          ],
+          "block_id": "b7_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. N. B ASU\nS HRI  T. N. U BOVEJA  (  Alternate  )\nDirectorate General of Supplies and Disposals, New Delhi",
+          "bbox": [
+            70.72,
+            380.23,
+            474.96,
+            397.15
+          ],
+          "block_id": "b7_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D EPUTY  D IRECTOR  (I)\nS HRI  A. G. D HONGADE  (  Alternate  )\nNational Buildings Organization, New Delhi",
+          "bbox": [
+            70.72,
+            399.19,
+            425.64,
+            416.11
+          ],
+          "block_id": "b7_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. G ANAPATHY\nRamco Industries Limited, Madras\nS HRI  K. P. G OENKA\nS HRI  I. P. G OENKA  (  Alternate  )\nSarbamangala Industries, Calcutta",
+          "bbox": [
+            70.72,
+            418.27,
+            391.67,
+            445.15
+          ],
+          "block_id": "b7_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "J OINT  D IRECTOR  S TANDARDS  (B & S)/CB-I\nResearch, Designs and Standards Organization, Lucknow\nJ OINT  D IRECTOR  (S TANDARDS ) (B & S)/CB-II (  Alternate  )\nD R  K ALYAN  D AS\nS HRI  K. D. D HARIYAL  (  Alternate  )\nCentral Building Research Institute (CSIR), Roorkee",
+          "bbox": [
+            70.72,
+            447.19,
+            474.22,
+            484.15
+          ],
+          "block_id": "b7_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. S. K ALANI\nS HRI  T. S. S UMMI  (  Alternate  )\nKalani Asbestos Cement Pvt Ltd, Indore",
+          "bbox": [
+            70.72,
+            486.19,
+            410.62,
+            503.11
+          ],
+          "block_id": "b7_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "L T -C OL  K AMLESH  P RAKASH\nL T -C OL  A. K. B ANGIA  (  Alternate  )\nEngineer-in-Chief\u2019s Branch, Army Headquarters, New Delhi",
+          "bbox": [
+            70.72,
+            505.27,
+            484.32,
+            522.19
+          ],
+          "block_id": "b7_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. N. M EHTA\nS HRI  V. K. K ASLIWAL  (  Alternate  )\nGeological Survey of India, Calcutta",
+          "bbox": [
+            70.72,
+            524.23,
+            394.35,
+            541.15
+          ],
+          "block_id": "b7_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M OTWANI  G URBUX\nS HRI  H. R. O ZA  (  Alternate  )\nAll India Small Scale A. C. Pressure Pipe Manufacturer\u2019s Association,\nHyderabad\nS HRI  V. P ATTABHI\nS HRI  A. K. G UPTA  (  Alternate  )\nThe Hyderabad Industries Limited, Hyderabad",
+          "bbox": [
+            70.72,
+            543.19,
+            524.74,
+            579.19
+          ],
+          "block_id": "b7_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. P RAKASH\nMunicipal Corporation, Delhi\nD R  N. R AGHAVENDRA\nNational Council for Cement and Building Materials, New Delhi\nS HRI  R AJ  K UMAR\nS HRI  S. C. K UMAR  (  Alternate  )\nDevelopment Commissioner, Small Scale Industries, New Delhi",
+          "bbox": [
+            70.72,
+            581.23,
+            499.25,
+            618.19
+          ],
+          "block_id": "b7_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R EPRESENTATIVE\nIndian Institute of Science, Bangalore\nS HRI  S RINIVASAN  N. I YER\nD R  V. G. U PADHYAYA  (  Alternate  )\nEternit Everest Limited, Bombay",
+          "bbox": [
+            70.72,
+            620.23,
+            401.19,
+            647.11
+          ],
+          "block_id": "b7_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPERINTENDING  S URVEYOR   OF  W ORKS  (CZ)\nS URVEYOR   OF  W ORKS  (CZ) (  Alternate  )\nCentral Public Works Department, New Delhi",
+          "bbox": [
+            70.72,
+            649.27,
+            431.54,
+            666.19
+          ],
+          "block_id": "b7_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B. S URI\nS HRI  N. C HANDRASEKARAN  (  Alternate  )\nCentral Soil and Materials Research Station, New Delhi",
+          "bbox": [
+            70.72,
+            668.23,
+            468.66,
+            685.15
+          ],
+          "block_id": "b7_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  U. N. V ENKATESH\nS HRI  K. S. R AMAKRISHNAN  (  Alternate  )\nShri Digvijay Cement Company Limited, Bombay",
+          "bbox": [
+            70.72,
+            687.19,
+            444.4,
+            704.11
+          ],
+          "block_id": "b7_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Standard Mark",
+          "bbox": [
+            79.24,
+            630.93,
+            158.37,
+            640.89
+          ],
+          "block_id": "b8_0",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The use of the Standard Mark is governed by the provisions of the  Bureau of Indian\nStandards Act, 1986  and the Rules and Regulations made thereunder. The Standard Mark on\nproducts covered by an Indian Standard conveys the assurance that they have been produced\nto comply with the requirements of that standard under a well defined system of inspection,\ntesting and quality control which is devised and supervised by BIS and operated by the\nproducer. Standard marked products are also continuously checked by BIS for conformity to\nthat standard as a further safeguard. Details of conditions under which a licence for the use of\nthe Standard Mark may be granted to manufacturers or producers may be obtained from the\nBureau of Indian Standards.",
+          "bbox": [
+            79.24,
+            645.97,
+            515.89,
+            744.01
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b9_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.28,
+            524.37,
+            116.33
+          ],
+          "block_id": "b9_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b9_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.81,
+            524.33,
+            182.81
+          ],
+          "block_id": "b9_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b9_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.29,
+            524.42,
+            259.37
+          ],
+          "block_id": "b9_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. CED 2 (4916)",
+          "bbox": [
+            70.72,
+            267.29,
+            363.85,
+            276.29
+          ],
+          "block_id": "b9_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b9_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nAugust 1997",
+          "bbox": [
+            70.72,
+            331.37,
+            274.34,
+            340.37
+          ],
+          "block_id": "b9_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b9_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.41,
+            131.08,
+            543.41
+          ],
+          "block_id": "b9_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.33,
+            524.32,
+            570.41
+          ],
+          "block_id": "b9_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.33,
+            524.38,
+            587.33
+          ],
+          "block_id": "b9_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            477.88,
+            593.52,
+            481.32,
+            614.59
+          ],
+          "block_id": "b9_20",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.37,
+            524.28,
+            614.33
+          ],
+          "block_id": "b9_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            620.52,
+            438.58,
+            641.59
+          ],
+          "block_id": "b9_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.37,
+            524.29,
+            641.33
+          ],
+          "block_id": "b9_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            484.6,
+            648.48,
+            488.04,
+            669.55
+          ],
+          "block_id": "b9_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.37,
+            524.17,
+            668.33
+          ],
+          "block_id": "b9_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            675.48,
+            438.58,
+            696.55
+          ],
+          "block_id": "b9_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.37,
+            524.29,
+            695.33
+          ],
+          "block_id": "b9_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            701.52,
+            438.58,
+            722.59
+          ],
+          "block_id": "b9_24",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.37,
+            524.29,
+            722.33
+          ],
+          "block_id": "b9_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.37,
+            521.28,
+            772.37
+          ],
+          "block_id": "b9_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "(AGG AAS ON)\nHAAHSIH HIG oY HdlG cfla4 \u2014 follalfes\nAMAA A silos",
+      "position": {
+        "x0": 127.6,
+        "y0": 120.6,
+        "x1": 467.44,
+        "y1": 207.48,
+        "width": 339.84,
+        "height": 86.88
+      },
+      "size": {
+        "width": 2832,
+        "height": 724
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 5,
+      "path": "pdf_images/p5_i1.png",
+      "text": "VII qruenelove 10 WITJIDIEsLE2\n| | $0 35\nS A\n~ ew ]",
+      "position": {
+        "x0": 153.28,
+        "y0": 97.8,
+        "x1": 437.44,
+        "y1": 228.96,
+        "width": 284.16,
+        "height": 131.16
+      },
+      "size": {
+        "width": 2368,
+        "height": 1093
+      },
+      "format": "png"
+    }
+  ]
+}

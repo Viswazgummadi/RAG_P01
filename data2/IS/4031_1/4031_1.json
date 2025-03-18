@@ -1,0 +1,2911 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS4031(Part1):1996",
+          "bbox": [
+            359.38,
+            52.31,
+            454.95,
+            64.55
+          ],
+          "block_id": "b1_0",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            198.82,
+            234.23,
+            311.98,
+            252.23
+          ],
+          "block_id": "b1_2",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHOD OF PHYSICAL TESTS FOR\nHYDRAULIC CEMENT",
+          "bbox": [
+            112.42,
+            255.95,
+            403.18,
+            297.96
+          ],
+          "block_id": "b1_3",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 1 DETERMINATION OF FINENESS BY DRY SIEVING",
+          "bbox": [
+            119.62,
+            304.23,
+            397.8,
+            315.35
+          ],
+          "block_id": "b1_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Second\nRevision )",
+          "bbox": [
+            185.14,
+            322.79,
+            332.38,
+            340.79
+          ],
+          "block_id": "b1_5",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "KS 91.100.10",
+          "bbox": [
+            229.06,
+            389.04,
+            289.86,
+            399.11
+          ],
+          "block_id": "b1_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8BIS 1996",
+          "bbox": [
+            260.02,
+            615.36,
+            311.7,
+            625.43
+          ],
+          "block_id": "b1_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF INDIAN\nSTANDARDS\nMANAK  BHAVAN, 9 BAHADUR SHAH ZAFAR MARG",
+          "bbox": [
+            164.98,
+            635.99,
+            405.06,
+            661.67
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NEW DELHI 110002",
+          "bbox": [
+            240.1,
+            666.96,
+            331.38,
+            677.03
+          ],
+          "block_id": "b1_9",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 2",
+          "bbox": [
+            436.42,
+            690.72,
+            501.54,
+            700.79
+          ],
+          "block_id": "b1_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mgy  1996",
+          "bbox": [
+            52.42,
+            690.84,
+            97.14,
+            701.72
+          ],
+          "block_id": "b1_1",
+          "font_size": 8.3,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 528.2959594726562,
+        "height": 727.1919555664062
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cement and Concrete Sectional Committee, CED 2",
+          "bbox": [
+            70.42,
+            42.88,
+            289.78,
+            55.69
+          ],
+          "block_id": "b2_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            69.94,
+            119.44,
+            126.34,
+            132.25
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (Second Revision) was adopted by the Bureau of Indian Standards, after the draft\nfinalized by Cement and Concrete Sectional Committee had been approved by Civil Engineering Division\nCouncil.",
+          "bbox": [
+            69.94,
+            138.16,
+            513.94,
+            170.65
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Standard methods of testing cement are essential adjunct to the cement specifications.\nThis standard in\ndifferent parts lays down the procedure for the tests to evaluate physical properties of different types.\nof hydraulic cements.\nThe procedure for conducting chemical tests of hydraulic cement is covered in\nIS 4032  :  1985 \u2018Methods of chemical analysis of hydraulic cement ( first revision )\u2018. Originally all the\ntests to evaluate the physical properties of hydraulic cement were covered in one standard but for facilitating\nthe use of this standard and future revisions, the revised standard was brought out in different parts, each\npart covering different tests. This part covers determination of fineness of cement by dry sieving.",
+          "bbox": [
+            69.7,
+            174.16,
+            516.58,
+            246.01
+          ],
+          "block_id": "b2_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The second revision of this standard has been prepared with a view to align this test method with European\nS!andard EN 196 (Part 6) Method of testing cements: Determination of fineness.",
+          "bbox": [
+            69.7,
+            250.24,
+            511.54,
+            272.89
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The composition of the Committee responsible for the formulation of this standard is given at Annex A.",
+          "bbox": [
+            69.7,
+            276.64,
+            515.62,
+            289.45
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular requirement of this standard is complied, the final value,\nobserved or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with\nIS 2  :  1960 \u2018Rules for rounding off numerical values (  revised\n)\u2018.\nThe number of significant places\nretained in the rounded off value should be the same as that of the specified value in this standard.",
+          "bbox": [
+            69.46,
+            293.44,
+            514.42,
+            335.77
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 531.8720092773438,
+        "height": 777.47998046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS  4031  (Part  1) : 1996",
+          "bbox": [
+            384.58,
+            63.84,
+            487.83,
+            76.65
+          ],
+          "block_id": "b3_0",
+          "font_size": 8.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            207.22,
+            85.47,
+            324.7,
+            103.47
+          ],
+          "block_id": "b3_1",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHOD OF PHYSICAL TESTS F<OR\nHYDRAULIC\nCEMENT",
+          "bbox": [
+            120.58,
+            106.71,
+            424.06,
+            149.2
+          ],
+          "block_id": "b3_2",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 1 DETERMINATION OF FINENESS BY DRY SIEVING",
+          "bbox": [
+            133.06,
+            157.15,
+            404.52,
+            168.27
+          ],
+          "block_id": "b3_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Second Revision )",
+          "bbox": [
+            197.62,
+            176.91,
+            343.42,
+            194.91
+          ],
+          "block_id": "b3_4",
+          "font_size": 12.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1  SCOPE",
+          "bbox": [
+            45.7,
+            214.08,
+            88.66,
+            226.89
+          ],
+          "block_id": "b3_5",
+          "font_size": 8.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "cylindrical frame of 150 mm to 200 mm nominal\ndiameter and 40 mm to 100 mm depth, fitted with 90\npm mesh sieve cloth of woven stainless steel, or other\nabrasion-resisting and non-corrodible metal wire.",
+          "bbox": [
+            277.54,
+            214.32,
+            492.82,
+            256.65
+          ],
+          "block_id": "b3_29",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.1  This standard (Part 1) covers the procedure for\ndetermining the fineness of cement by dry sieving as\nrepresented by the mass of residue left on a standard\n90 w IS Sieve.",
+          "bbox": [
+            45.22,
+            230.64,
+            261.94,
+            272.97
+          ],
+          "block_id": "b3_6",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The sieve cloth shall comply with the requirements\nof IS 460 ( Part 1)  :  1985 and IS 460 ( Part 3 )  :  1985\nand shall be free of visible irregularities in mesh size\nwhen inspected optically by the methods of IS 460\n( Part 3 )  :  1985. A tray fitting beneath the sieve frame\nand a lid fitting above it shall be provided to avoid\nloss of material during sieving.",
+          "bbox": [
+            277.54,
+            260.88,
+            493.54,
+            332.97
+          ],
+          "block_id": "b3_30",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            45.46,
+            277.2,
+            118.42,
+            290.01
+          ],
+          "block_id": "b3_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.1 The following Indian Standards are necessary\nadjuncts to this standard:",
+          "bbox": [
+            45.46,
+            294.0,
+            259.78,
+            316.89
+          ],
+          "block_id": "b3_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS  No.",
+          "bbox": [
+            80.5,
+            322.37,
+            109.06,
+            332.91
+          ],
+          "block_id": "b3_9",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Title",
+          "bbox": [
+            224.74,
+            323.51,
+            242.74,
+            333.32
+          ],
+          "block_id": "b3_15",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.2  Balance",
+          "bbox": [
+            278.02,
+            336.96,
+            335.38,
+            349.77
+          ],
+          "block_id": "b3_31",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "460",
+          "bbox": [
+            45.7,
+            337.44,
+            62.5,
+            350.25
+          ],
+          "block_id": "b3_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Specification\nfor test sieves:",
+          "bbox": [
+            131.14,
+            337.92,
+            254.98,
+            350.73
+          ],
+          "block_id": "b3_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Capable of weighing up to 10 g to the nearest 10 mg.",
+          "bbox": [
+            278.26,
+            354.0,
+            493.3,
+            366.81
+          ],
+          "block_id": "b3_32",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( Part 1 )  :  1985",
+          "bbox": [
+            45.94,
+            354.72,
+            115.54,
+            367.53
+          ],
+          "block_id": "b3_11",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Wire cloth test sieves  (third\nrevision)",
+          "bbox": [
+            130.42,
+            354.96,
+            258.34,
+            377.0
+          ],
+          "block_id": "b3_17",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.3  Brush",
+          "bbox": [
+            278.02,
+            371.04,
+            327.7,
+            383.85
+          ],
+          "block_id": "b3_33",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( Part 3 )  :  1985",
+          "bbox": [
+            45.94,
+            381.36,
+            115.54,
+            394.17
+          ],
+          "block_id": "b3_12",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Methods\nof examination\nof\napertures of test sieves  (third\nrevision)",
+          "bbox": [
+            130.42,
+            381.84,
+            260.74,
+            413.72
+          ],
+          "block_id": "b3_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A nylone or pure bristle brush, preferably with 25 to\n40 mm bristle, for cleaning the sieve.",
+          "bbox": [
+            278.02,
+            388.32,
+            493.3,
+            410.73
+          ],
+          "block_id": "b3_34",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.3 Material for Checking the Sieve",
+          "bbox": [
+            278.26,
+            414.96,
+            440.74,
+            427.77
+          ],
+          "block_id": "b3_35",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3535  :  1986",
+          "bbox": [
+            46.42,
+            417.84,
+            99.94,
+            430.65
+          ],
+          "block_id": "b3_13",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Methods of sampling hydraulic\ncements  (f?rst revision)",
+          "bbox": [
+            130.9,
+            418.56,
+            258.34,
+            440.97
+          ],
+          "block_id": "b3_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A Standard reference material of known sieve residue\nshall be used for checking the sieve.",
+          "bbox": [
+            278.26,
+            432.0,
+            493.3,
+            454.65
+          ],
+          "block_id": "b3_36",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5165  :  1969",
+          "bbox": [
+            46.42,
+            444.96,
+            99.94,
+            457.77
+          ],
+          "block_id": "b3_14",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Interchangeable conical ground\n- glass joints",
+          "bbox": [
+            131.14,
+            445.44,
+            259.54,
+            467.85
+          ],
+          "block_id": "b3_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The material shall be stored in sealed, airtight\ncontainers to avoid changes in its characteristics due\nto absorption or deposition from the atmosphere.  The\ncontainers shall be marked with the sieve residue of\nthe reference material.",
+          "bbox": [
+            278.26,
+            458.64,
+            493.78,
+            510.81
+          ],
+          "block_id": "b3_37",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3  SAMPLING\nAND SELECTION\nOF TEST\nSPECIMENS",
+          "bbox": [
+            46.18,
+            471.6,
+            258.1,
+            494.25
+          ],
+          "block_id": "b3_21",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1 The samples of the cement  shall  be  taken according\nto the requirements of IS 3535:1986 (see 2.1) and\nthe relevant standard specification for the type of\ncement being tested. The representative sample of\nthe cement selected as above shall be thoroughly mixed\nbefore testing.",
+          "bbox": [
+            46.18,
+            498.72,
+            262.42,
+            560.97
+          ],
+          "block_id": "b3_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.4 Procedure",
+          "bbox": [
+            278.5,
+            514.8,
+            339.7,
+            527.61
+          ],
+          "block_id": "b3_38",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.4.1  Determination\nof the Cement Residue",
+          "bbox": [
+            278.5,
+            531.84,
+            461.86,
+            544.65
+          ],
+          "block_id": "b3_39",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Agitate the sample of cement to be tested by shaking\nfor 2 min in a stoppered jar to disperse agglomerates.\nWait 2 min. Stir the resulting powder gently using  a\nclean dry rod in order to distribute the fines throughout\nthe cement.",
+          "bbox": [
+            278.5,
+            549.12,
+            493.35,
+            601.53
+          ],
+          "block_id": "b3_40",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4 SIEVING METHOD",
+          "bbox": [
+            46.66,
+            565.2,
+            143.38,
+            578.01
+          ],
+          "block_id": "b3_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1 Principle",
+          "bbox": [
+            46.9,
+            582.24,
+            104.26,
+            595.05
+          ],
+          "block_id": "b3_24",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The fineness of cement is measured by sieving it on\nstandard sieve. The proportion of cement of which\nthe grain sizes are larger than the specified mesh size\nis thus determined.",
+          "bbox": [
+            46.9,
+            599.76,
+            262.9,
+            642.33
+          ],
+          "block_id": "b3_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Fit the tray under the sieve, weigh approximately 10  g\nof cement to the nearest 0.01 g and place it on the\nsieve, being careful to avoid loss.\nDisperse any\nagglomerates. Fit the lid over the sieve. Agitate the\nsieve by swirling, planetary and linear movement until\nno more fine material passes through it. Remove and\nweigh the residue. Express its mass as a percentage,\nR,, of the quantity first placed in the sieve to the nearest\n0.1 percent. Gently brush all the fine material off the\nbase of the sieve into the tray.",
+          "bbox": [
+            278.98,
+            606.0,
+            494.98,
+            707.85
+          ],
+          "block_id": "b3_41",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A reference sample having a known proportion of\nmaterial coarser than the specified mesh size is used\nfor checking the specified sieve.",
+          "bbox": [
+            47.14,
+            646.56,
+            263.38,
+            679.29
+          ],
+          "block_id": "b3_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2 Apparatus",
+          "bbox": [
+            47.38,
+            683.28,
+            107.38,
+            696.09
+          ],
+          "block_id": "b3_27",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2.1  Test Sieve\nIt comprises\na firm,\ndurable,\nnon-corrodible,\ni\n1",
+          "bbox": [
+            47.38,
+            700.08,
+            274.9,
+            745.05
+          ],
+          "block_id": "b3_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Repeat the whole procedure using a fresh 10 g sample",
+          "bbox": [
+            279.22,
+            712.08,
+            494.5,
+            724.89
+          ],
+          "block_id": "b3_42",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 534.9119873046875,
+        "height": 785.47998046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS  4031 (Part 1) : 1996",
+          "bbox": [
+            75.46,
+            57.2,
+            176.74,
+            70.01
+          ],
+          "block_id": "b4_0",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "repeat determination of residue to yield two values p,\nand P, expressed to the nearest 0.1 percent.",
+          "bbox": [
+            299.86,
+            73.76,
+            514.42,
+            96.17
+          ],
+          "block_id": "b4_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "to obtain 5. Then calculate the residue of the cement\nR as the mean of R, and R, as a percentage, expressed\nto the nearest 0.1 percent.",
+          "bbox": [
+            68.5,
+            74.48,
+            282.82,
+            106.25
+          ],
+          "block_id": "b4_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The two values of P, and P, for a satisfactory sieve\nshould differ by not more than 0.3 percent. Their mean\nP  characterizes the state of the sieve.",
+          "bbox": [
+            300.1,
+            99.92,
+            514.66,
+            132.41
+          ],
+          "block_id": "b4_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "When the results differ by more than 1 percent\nabsolute, carry out a third sieving and calculate the\nmean of the three values.",
+          "bbox": [
+            69.22,
+            110.24,
+            284.02,
+            142.49
+          ],
+          "block_id": "b4_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Given the known residue on the 90 m mesh of the\nreference material, R, calculate R/P as the sieve\nfactor, F, expressed to the nearest 0.0 1. The residue,\nR, determined\nas in 4.4.1 shall be corrected by\nmultiplying by F, which may have a value of 1.00 +\n0.20",
+          "bbox": [
+            300.58,
+            135.92,
+            515.62,
+            197.69
+          ],
+          "block_id": "b4_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The sieving process is carried out manually by a skilled\nand experienced operator.",
+          "bbox": [
+            69.22,
+            146.48,
+            284.5,
+            169.13
+          ],
+          "block_id": "b4_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE - Alternatively a sieving machine may be\nused provided that it can be shown to give the same\nresults as the manual operation.",
+          "bbox": [
+            86.98,
+            172.88,
+            285.22,
+            205.37
+          ],
+          "block_id": "b4_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Check the sieve after every 100 sievings.",
+          "bbox": [
+            301.06,
+            201.44,
+            469.54,
+            214.25
+          ],
+          "block_id": "b4_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.4.2  Checking\nthe Sieve",
+          "bbox": [
+            68.98,
+            212.48,
+            172.66,
+            225.29
+          ],
+          "block_id": "b4_5",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE - Any other checking procedure, such as the optical\nmethods described in IS 460 ( Part 3 )  :  1985 may be used. All\nsieves will wear slowly and consequently their sieve factor, F,\nwill slowly change.",
+          "bbox": [
+            318.58,
+            221.39,
+            516.16,
+            258.73
+          ],
+          "block_id": "b4_12",
+          "font_size": 7.5,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Agitate the sample of cemem LO be tested by shaking\nfor 2 min in a stoppered jar to disperse agglomerates.\nWait 2 min. Stir the resulting powder gently using a\nclean dry rod in order to distribute the fines throughout\nthe cement.",
+          "bbox": [
+            69.22,
+            232.88,
+            285.46,
+            285.05
+          ],
+          "block_id": "b4_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5  EXPRESSION\nOF RESULTS",
+          "bbox": [
+            301.06,
+            266.14,
+            435.22,
+            276.28
+          ],
+          "block_id": "b4_13",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "%\neport the value of R, to the nearest 0. Ipercent, as\nt e residue on the 90 pm sieve for the cement tested.",
+          "bbox": [
+            301.06,
+            280.64,
+            516.82,
+            303.29
+          ],
+          "block_id": "b4_14",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Fit the tray under the sieve. Weigh approximately 10\ng of the reference material to the nearest 0.01 g and\nplace it in the sieve, being careful to avoid loss. Carry\nout the sieving procedure as in 4.4.1 including the",
+          "bbox": [
+            69.46,
+            288.8,
+            286.42,
+            330.89
+          ],
+          "block_id": "b4_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The standard deviation of the repeatability is about 0.2\npercent and of the reproducibility is about 0.3 percent.",
+          "bbox": [
+            301.06,
+            307.28,
+            516.34,
+            329.93
+          ],
+          "block_id": "b4_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n(  Foreword )",
+          "bbox": [
+            264.34,
+            386.75,
+            326.74,
+            413.55
+          ],
+          "block_id": "b4_16",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "COMMITTEE\nCOMPOSITION",
+          "bbox": [
+            224.5,
+            422.38,
+            355.78,
+            432.39
+          ],
+          "block_id": "b4_17",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Cement  and  Concrete Sectional Committee,  CED 2",
+          "bbox": [
+            181.06,
+            437.36,
+            407.38,
+            450.17
+          ],
+          "block_id": "b4_18",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Represenfing",
+          "bbox": [
+            331.06,
+            456.29,
+            376.96,
+            465.31
+          ],
+          "block_id": "b4_23",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Chairman",
+          "bbox": [
+            106.66,
+            457.01,
+            142.48,
+            466.03
+          ],
+          "block_id": "b4_19",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In personal capacity (  University of Roorkee# Roorkee\n247 667 )",
+          "bbox": [
+            266.26,
+            472.61,
+            496.0,
+            482.35
+          ],
+          "block_id": "b4_24",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "DR\nH.C. VISVESVARVA",
+          "bbox": [
+            70.66,
+            474.83,
+            156.64,
+            482.89
+          ],
+          "block_id": "b4_20",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            105.94,
+            491.09,
+            138.88,
+            500.11
+          ],
+          "block_id": "b4_21",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Orissa Cement Limited,\nNew Delhi\nB.G. Shirke & Co, Pune\nThe Associated\nCement Companies\nLtd, Bombay",
+          "bbox": [
+            266.5,
+            508.19,
+            433.36,
+            535.93
+          ],
+          "block_id": "b4_25",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRI H. BHATTACHARYA\nSHRI G. R. BHARTIKAR\nDR A. K. CHAITERJEE\nSHRI S. H. SUBRAMANIAN\n(  Alternaie )\nCHIEF ENGINEER (DESIGN )\nSUPERI~JTENDMG\nENGINEER, ( S&S ) (  Alternate )\nCHIEF ENGINEER, NAVAGAM DALU(\nSUPER~NTENDMG\nENGINEER, QCC (Alternate\n)\nCHIEF ENGINEER , RESEARCH-CUM-DIRECTOR\nRESEARCH OFFICER , CONCRETE TECHNOLOGY\n(  Alternate )\nDIRECTOR\nJOINT DIRECTOR (  AItemate )\nDIRECTOR (CMDD) ( N&W )\nDEPUTY DIRECTOR ( CMDD ) ( NW&S\n)\n(  Alternate )\nSHRI K. H. GANGWAL\nSHRI V. P~ABHI (  Alternate )\nSHRI V. K. GHANEKAR",
+          "bbox": [
+            70.9,
+            508.91,
+            255.28,
+            694.81
+          ],
+          "block_id": "b4_22",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central Public Works Department,\nNew Delhi",
+          "bbox": [
+            266.74,
+            547.55,
+            425.44,
+            555.61
+          ],
+          "block_id": "b4_26",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Sardar Sarovar Narmada Nigam\nLtd, Gandhinagar",
+          "bbox": [
+            267.22,
+            567.47,
+            438.4,
+            575.53
+          ],
+          "block_id": "b4_27",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Irrigation and Power\nResearch Institute, Amritsar",
+          "bbox": [
+            267.22,
+            587.15,
+            438.64,
+            595.21
+          ],
+          "block_id": "b4_28",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A.P. Engineering Research\nLaboratories,\nHyderabad",
+          "bbox": [
+            267.7,
+            616.91,
+            444.88,
+            624.97
+          ],
+          "block_id": "b4_29",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Central Water Commission,\nNew Delhi",
+          "bbox": [
+            268.42,
+            636.83,
+            402.88,
+            644.89
+          ],
+          "block_id": "b4_30",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Hyderabad Industries Ltd, Hyderabad",
+          "bbox": [
+            268.18,
+            666.11,
+            394.0,
+            674.17
+          ],
+          "block_id": "b4_31",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Structural Engineering Research Centre (CSIR), Ghaziabad",
+          "bbox": [
+            268.42,
+            686.27,
+            467.92,
+            694.33
+          ],
+          "block_id": "b4_32",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Continued on page 3 )",
+          "bbox": [
+            428.26,
+            700.85,
+            519.52,
+            709.87
+          ],
+          "block_id": "b4_33",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            293.14,
+            722.86,
+            299.62,
+            732.87
+          ],
+          "block_id": "b4_34",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 544.9119873046875,
+        "height": 793.47998046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 4031 (Part 1) : 1996",
+          "bbox": [
+            381.7,
+            64.33,
+            487.83,
+            74.8
+          ],
+          "block_id": "b5_23",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( Continued from  page  2 )",
+          "bbox": [
+            46.9,
+            85.85,
+            142.0,
+            94.87
+          ],
+          "block_id": "b5_0",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Repnzsenting",
+          "bbox": [
+            327.7,
+            99.29,
+            373.84,
+            108.31
+          ],
+          "block_id": "b5_24",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            79.54,
+            100.73,
+            112.48,
+            109.75
+          ],
+          "block_id": "b5_1",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The India Cements\nLtd, Madras",
+          "bbox": [
+            239.38,
+            115.78,
+            344.32,
+            125.07
+          ],
+          "block_id": "b5_25",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI\ns. &PlNATH\nSHRI  R.  TAMILAKARAN\n(  Alternate )",
+          "bbox": [
+            44.74,
+            119.99,
+            185.44,
+            135.63
+          ],
+          "block_id": "b5_2",
+          "font_size": 7.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Gannon\nDunkerley\n& Co Ltd, Bombay",
+          "bbox": [
+            239.38,
+            135.22,
+            366.88,
+            144.51
+          ],
+          "block_id": "b5_26",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI\nS. K.  GUHA THAKURTA\nSHR~ S. P.  SANKARANARAYANAN\n(  Alternate )",
+          "bbox": [
+            44.74,
+            135.94,
+            222.88,
+            154.83
+          ],
+          "block_id": "b5_3",
+          "font_size": 7.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Central Building\nResearch\nInstitute\n( CSIR ), Roorkee",
+          "bbox": [
+            239.86,
+            154.42,
+            420.16,
+            163.71
+          ],
+          "block_id": "b5_27",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI N. S. BHAL\nDR IRSHAD MASOOD (  Alternate )\nDR IRSHAD MASOOD\nSHRI  N. C.  J~JN  (Alternate)",
+          "bbox": [
+            44.74,
+            157.06,
+            178.48,
+            193.47
+          ],
+          "block_id": "b5_4",
+          "font_size": 7.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Cement Corporation\nof India, New Delhi",
+          "bbox": [
+            239.62,
+            173.86,
+            377.44,
+            183.15
+          ],
+          "block_id": "b5_28",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Research,\nDesigns\n& Standards\nOrganization\n( Ministry\nof Railway\n).\nLucknow",
+          "bbox": [
+            239.62,
+            193.3,
+            489.52,
+            212.19
+          ],
+          "block_id": "b5_29",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "JOINT  Drsscro~\nSTANDARDS\n( B&S )( CB-I )",
+          "bbox": [
+            44.74,
+            194.02,
+            196.53,
+            203.31
+          ],
+          "block_id": "b5_5",
+          "font_size": 6.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "JOINT,,DIRECTOR STANDARDS ( B&S )( CB-II )\n(  Alternate )\nSHRI N. G. JOSHI\nSHRI P. D. KELKAR (  Alternate )",
+          "bbox": [
+            44.98,
+            213.22,
+            217.12,
+            251.79
+          ],
+          "block_id": "b5_6",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Hume Pipes Co Ltd, Bombay",
+          "bbox": [
+            239.62,
+            232.18,
+            358.72,
+            241.47
+          ],
+          "block_id": "b5_30",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "National\nTest House, Calcutta",
+          "bbox": [
+            239.62,
+            251.62,
+            336.88,
+            260.91
+          ],
+          "block_id": "b5_31",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHR,  D. K.  KANUNGO\nSHRI B. R. MEENA (  Alternate )",
+          "bbox": [
+            44.74,
+            252.58,
+            170.08,
+            271.23
+          ],
+          "block_id": "b5_7",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Larsen and Toubro Limited, Bombay",
+          "bbox": [
+            240.1,
+            270.82,
+            361.12,
+            280.11
+          ],
+          "block_id": "b5_32",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI  P.  KRISHNAMURTHY\nSHRI S. CHAKRAVARTHY\n(  Alternate )",
+          "bbox": [
+            44.74,
+            271.78,
+            186.64,
+            290.67
+          ],
+          "block_id": "b5_8",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Structural\nEngineering\nResearch\nCentre ( CSIR ), Madras",
+          "bbox": [
+            240.1,
+            290.5,
+            433.84,
+            299.79
+          ],
+          "block_id": "b5_33",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "DR  A. G. MADHAVA RAO\nSHRI K. MANI  (Alternate )",
+          "bbox": [
+            44.74,
+            291.22,
+            154.96,
+            310.11
+          ],
+          "block_id": "b5_9",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Hospital\nServices Consultancy\nCorporation\n(India) Ltd, New Delhi",
+          "bbox": [
+            240.1,
+            309.94,
+            468.64,
+            319.23
+          ],
+          "block_id": "b5_34",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI  G. K.  MAJIJMDAR\nSHRI J.  SARIJP (  Alternate )",
+          "bbox": [
+            44.74,
+            311.14,
+            159.76,
+            329.79
+          ],
+          "block_id": "b5_10",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ministry\nof Transport,\nDepartment\nof Surface\nTransport\nRoads Wing,\nNew Delhi\nCentral\nBoard of Irrigation\nand Power, New Delhi",
+          "bbox": [
+            239.38,
+            329.38,
+            481.12,
+            358.35
+          ],
+          "block_id": "b5_35",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI  PUFULLA KUMAR\nSHRI P. P NAIR (  Alternate )\nMEMBER  SECRETARY\nDIRECTOR\n( CIVIL ) (  Alternate )\nSHRI S. K. NATHANI, SO I\nDR A. S. GOEL, EE (Alternate\n)",
+          "bbox": [
+            44.74,
+            330.58,
+            177.52,
+            388.59
+          ],
+          "block_id": "b5_11",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Engineer-in-Chiefs\nBranch,\nArmy Headquarters,\nNew Delhi",
+          "bbox": [
+            240.34,
+            368.74,
+            444.64,
+            378.03
+          ],
+          "block_id": "b5_36",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\nRoad Research\nInstitute\n( CSIR ), New Delhi",
+          "bbox": [
+            240.34,
+            388.18,
+            421.12,
+            397.47
+          ],
+          "block_id": "b5_37",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI y. R. PHULL",
+          "bbox": [
+            44.98,
+            390.82,
+            108.45,
+            398.1
+          ],
+          "block_id": "b5_12",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRI S. S. SEEHRA (  Alternate )\nShRl Y.R.  PHULL\nSHRI  A.K. SHARMA (  Alternate )\nDR C. RAJKUMAR\nDR S. C.  AHLWALIA (  Alternate )",
+          "bbox": [
+            45.22,
+            399.05,
+            182.32,
+            447.39
+          ],
+          "block_id": "b5_13",
+          "font_size": 7.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Roads Congress,\nNew Delhi",
+          "bbox": [
+            240.82,
+            407.86,
+            359.68,
+            417.15
+          ],
+          "block_id": "b5_38",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "National\nCouncil for Cement and\nBuilding\nMaterials,\nNew Delhi",
+          "bbox": [
+            240.34,
+            427.06,
+            463.84,
+            436.59
+          ],
+          "block_id": "b5_39",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Directorate\nGeneral\nof Supplies\nand Disposals,\nNew Delhi",
+          "bbox": [
+            240.82,
+            446.98,
+            437.68,
+            456.27
+          ],
+          "block_id": "b5_40",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI G.  hMDAS",
+          "bbox": [
+            45.22,
+            449.38,
+            92.71,
+            456.66
+          ],
+          "block_id": "b5_14",
+          "font_size": 5.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRI R. C. &ARM\n(Alternate  )",
+          "bbox": [
+            62.74,
+            457.61,
+            175.36,
+            466.63
+          ],
+          "block_id": "b5_15",
+          "font_size": 7.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Gammon\nIndia Ltd, Bombay\nBuilder\u2019s\nAssociation\nof India, Bombay\nGeological\nSurvey of India, Calcutta",
+          "bbox": [
+            240.58,
+            466.66,
+            370.24,
+            495.39
+          ],
+          "block_id": "b5_41",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI S.  A.  REDDI\nREPRESENTATIVE",
+          "bbox": [
+            44.98,
+            467.62,
+            106.72,
+            486.27
+          ],
+          "block_id": "b5_16",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRI J. S. SANGANEW",
+          "bbox": [
+            45.22,
+            488.26,
+            123.33,
+            495.54
+          ],
+          "block_id": "b5_17",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRI  L. N. AGARWAL (  Alternate )",
+          "bbox": [
+            62.98,
+            496.66,
+            179.44,
+            505.95
+          ],
+          "block_id": "b5_18",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Central Soil and Materials,\nResearch\nStation, New Delhi",
+          "bbox": [
+            240.34,
+            505.78,
+            432.88,
+            515.07
+          ],
+          "block_id": "b5_42",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI S. B. SURl\nSHRI N. CHANDRASEKARAN (  Alternate )",
+          "bbox": [
+            45.46,
+            507.94,
+            202.96,
+            525.39
+          ],
+          "block_id": "b5_19",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Public Works Department,\nGovernment\nof Tamil Nadu,\nMadras",
+          "bbox": [
+            240.58,
+            525.46,
+            454.0,
+            534.75
+          ],
+          "block_id": "b5_43",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SUPERINTENDING\nENGINEER\n( DESIGN )\nEXECUTIVE ENGINEER\n(S. M. R. DMSION )\n(Alternate)",
+          "bbox": [
+            45.7,
+            527.62,
+            206.85,
+            554.71
+          ],
+          "block_id": "b5_20",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Hindustan\nPrefab Ltd, New Delhi",
+          "bbox": [
+            240.58,
+            554.74,
+            352.96,
+            564.03
+          ],
+          "block_id": "b5_44",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI  A. K.  CHADHA\nSHRI J. R. SIL (Alternate\n)\nDR H. C. VISVESVARAYA\nSHRI D. C.  CHATURVEDI\n(  Alternate )",
+          "bbox": [
+            45.7,
+            555.7,
+            189.04,
+            594.51
+          ],
+          "block_id": "b5_21",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The Institution\nof Engineers\n( India ), Calcutta",
+          "bbox": [
+            241.06,
+            574.42,
+            396.4,
+            583.71
+          ],
+          "block_id": "b5_45",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Director\nGeneral,\nBIS (  Ex-officio Member )",
+          "bbox": [
+            241.06,
+            594.34,
+            395.92,
+            603.63
+          ],
+          "block_id": "b5_46",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRI VINOD  KUMAR\nDirector\n( Civ Engg )",
+          "bbox": [
+            45.94,
+            595.06,
+            128.8,
+            614.19
+          ],
+          "block_id": "b5_22",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "MemberSecretary",
+          "bbox": [
+            236.5,
+            628.25,
+            297.52,
+            637.27
+          ],
+          "block_id": "b5_47",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "SHRL  J.K. PRASAD\nJoint Director (Civil Engg), BIS",
+          "bbox": [
+            213.7,
+            639.7,
+            322.0,
+            659.31
+          ],
+          "block_id": "b5_48",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( Continued on page 4 )",
+          "bbox": [
+            400.18,
+            706.25,
+            492.88,
+            715.27
+          ],
+          "block_id": "b5_49",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            265.06,
+            726.36,
+            271.58,
+            737.24
+          ],
+          "block_id": "b5_50",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 534.9119873046875,
+        "height": 784.47998046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 4031 (Part 1)  :  1996",
+          "bbox": [
+            73.78,
+            71.42,
+            178.95,
+            83.3
+          ],
+          "block_id": "b6_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Continued  from  page  3 )",
+          "bbox": [
+            67.54,
+            89.9,
+            162.4,
+            101.78
+          ],
+          "block_id": "b6_1",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Composition of Cement, Pozzolana and Cement Additives Subcommittee, CED 2  : 1",
+          "bbox": [
+            116.02,
+            107.32,
+            463.3,
+            120.13
+          ],
+          "block_id": "b6_2",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Representing",
+          "bbox": [
+            331.06,
+            134.65,
+            376.48,
+            143.67
+          ],
+          "block_id": "b6_7",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Convener",
+          "bbox": [
+            102.34,
+            137.02,
+            135.28,
+            145.33
+          ],
+          "block_id": "b6_3",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In personal\ncapacity\n(  University ofRoorkee, Roorkee 247 667 )",
+          "bbox": [
+            261.94,
+            151.86,
+            486.64,
+            161.15
+          ],
+          "block_id": "b6_8",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "DR H. C. VISVESVARAYA",
+          "bbox": [
+            67.06,
+            152.58,
+            157.84,
+            161.87
+          ],
+          "block_id": "b6_4",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            102.82,
+            176.41,
+            135.76,
+            185.43
+          ],
+          "block_id": "b6_5",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "National\nTest House, Calcutta",
+          "bbox": [
+            261.7,
+            192.42,
+            358.48,
+            201.71
+          ],
+          "block_id": "b6_9",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SHRI. B. R. MEENA\nSHFL B. K. &NDAL  (  AJtemate )\nSHRI N. G. BASAK\nSHIU T. MADNESHEAR (Alternate\n)\nSHRI  SOMN~H BANERIEE\nCHIEF ENGINEER ( RESEARCH-CUM-DIRECTOR )\nRESEARCH OFFICER (CONCRETE TECHNOLOGY)\n(Alternate)\nDIRECTOR\nSHRI J. K. PANEL (  Alternate )\nDIRECTOR\nRESEARCH OFFICER (  Alternate )\nDIRECTOR (CLMDD\nII)\n,DEPUT~ DIRECTOR ( CLMDD\nII ) (  Alternate )\nSHRI R. K. G.XITANI\nDR R. K. &ID (  AJtemate )\nDR A.  K.  CH~UTERJEE\nSHRI C. H. PAGE (  AJtemate )\nDEPUTY DIRECTOR ( B&F )\nASSISTANT DESIGN ENGINEER (  Alternate )\nSHR~ V K. MEHTA\nSHRI U. B. DANGI (  Alternate )\nSHRI G. K. MAJUMDAR\nDR IRSHAD MASSED\nSHRI S. K. GARG (  Alternate )\nSHRI  R.  KUNJITHAP~~\nEXEC~I-I~E ENGINEER\nSHRI K. NARANAPPA\nSHR~ D. P. KEWALRAGMANI (Alternate\n)\nDR S. C. AHLUWALIA\nSHRI K. H. BABU (  AJtemate )\nSHRI M.  K.  MUKHERJEE\nSHRI N. K. S~HA (  AJtemate )\nSHRI J .D. DESAI\nSHIU B. K. JAG-\n(  AJtemate )\nSHRI y. R. PHULL\nSHRI S. S. SEEHRA (  Alternate )\nDR K. C. NARANG\nSHRI C. S. SHARMA (Alternate\n)\nSHlu PuRAM MAL\nSHRI K. M. NAMB~AR  (  AJtemate )\nSHRI S. A. REDDI\nPROJECT DIRECTOR\nSHRI M. P. SINGH\nSUPERRJTENDMG\nENGINEER (  D )\nSENIOR DEPIJIY CHIEF ENGINEER ( GENERAL )\n(Alternate\n)\nSHRl S. B. SURI\nSHRI N. CHANDRASEKARAN\n(  AJtemate )\nSHRI L. SWA~XIP\nSHRI H. BHATTACHARYE\n(  Alternate )\nSHRI  D. P.  CHAKRAWAKtl\nSHRI RAJAN C. M~~~HAw (  AJtemate )",
+          "bbox": [
+            67.06,
+            193.14,
+            245.92,
+            710.03
+          ],
+          "block_id": "b6_6",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Directorate\nGeneral\nof\nTechnical\nDevelopment,\nNew Delhi",
+          "bbox": [
+            261.94,
+            211.62,
+            464.56,
+            220.91
+          ],
+          "block_id": "b6_10",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Cement Manufacturer\u2019s\nAssociation,Bombay\nIrrigation\nDepartment,Government\nof Punjab",
+          "bbox": [
+            261.7,
+            230.58,
+            410.56,
+            249.71
+          ],
+          "block_id": "b6_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Gujarat\nEngineering\nResearch\nInstitute,\nBaroda",
+          "bbox": [
+            261.7,
+            269.7,
+            419.68,
+            278.99
+          ],
+          "block_id": "b6_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Maharashtra\nEngineering\nResearch\nInstitute,\nNasik",
+          "bbox": [
+            261.7,
+            288.9,
+            433.6,
+            298.19
+          ],
+          "block_id": "b6_13",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central Water Commission,\nNew Delhi",
+          "bbox": [
+            261.7,
+            308.82,
+            392.32,
+            318.11
+          ],
+          "block_id": "b6_14",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Shree Digvijay Cement Co Ltd, Bombay",
+          "bbox": [
+            261.94,
+            328.02,
+            394.0,
+            337.31
+          ],
+          "block_id": "b6_15",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The Associated\nCement Company\nLtd, Bombay",
+          "bbox": [
+            261.7,
+            347.46,
+            419.68,
+            356.75
+          ],
+          "block_id": "b6_16",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Research,\nDesigns\nand Standards\nOrganization,\nLucknow",
+          "bbox": [
+            261.7,
+            367.14,
+            453.04,
+            376.43
+          ],
+          "block_id": "b6_17",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The Hindustan\nConstruction\nCo Ltd, Bombay",
+          "bbox": [
+            261.7,
+            386.58,
+            412.0,
+            395.87
+          ],
+          "block_id": "b6_18",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Hospital\nServices Consultancy\nCorporation\n(India) Ltd, New Delhi\nCentral Building\nResearch\nInstitute\n(CSIR), Roorkee",
+          "bbox": [
+            261.7,
+            406.02,
+            487.36,
+            425.15
+          ],
+          "block_id": "b6_19",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Vishnu Cement Ltd, Hyderabad\nCentral Warehousing\nCorporation,\nNew Delhi\nCentral Electricity\nAuthority,\nNew Delhi",
+          "bbox": [
+            261.46,
+            435.3,
+            414.88,
+            464.27
+          ],
+          "block_id": "b6_20",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "National\nCouncil for Cement and Building\nMaterials,\nNew Delhi",
+          "bbox": [
+            261.22,
+            474.18,
+            476.56,
+            483.47
+          ],
+          "block_id": "b6_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Road Wing, Department\nof\nSurface\nTransport,\nNew Delhi",
+          "bbox": [
+            261.46,
+            493.14,
+            463.84,
+            502.67
+          ],
+          "block_id": "b6_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Gujarat Ambuja Cement, Ahmedabad",
+          "bbox": [
+            261.46,
+            513.06,
+            380.56,
+            522.35
+          ],
+          "block_id": "b6_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central  Road Research Institute, New Delhi",
+          "bbox": [
+            261.22,
+            531.73,
+            411.76,
+            542.3
+          ],
+          "block_id": "b6_24",
+          "font_size": 7.4,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dalmia Cement (Bharat) Ltd, New Delhi",
+          "bbox": [
+            261.22,
+            551.17,
+            399.52,
+            561.74
+          ],
+          "block_id": "b6_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Engineer-in-Chiefs\nBranch, Army Headquarters, New Delhi",
+          "bbox": [
+            261.22,
+            570.85,
+            467.44,
+            581.42
+          ],
+          "block_id": "b6_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Gammon India Ltd, Bombay\nCement Corporation of India Ltd, New Delhi\nFederation of Mini Cement Plants, New Delhi\nPublic Works Department, Government of Tamil Nadu",
+          "bbox": [
+            261.22,
+            590.53,
+            448.24,
+            630.62
+          ],
+          "block_id": "b6_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central Soil L Materials Research Station, New Delhi",
+          "bbox": [
+            261.46,
+            649.81,
+            445.6,
+            660.38
+          ],
+          "block_id": "b6_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Orissa Cement Ltd. New Delhi",
+          "bbox": [
+            261.46,
+            669.49,
+            367.84,
+            680.06
+          ],
+          "block_id": "b6_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Bhilai Steel Plant. Bhilai",
+          "bbox": [
+            261.7,
+            689.41,
+            342.4,
+            699.98
+          ],
+          "block_id": "b6_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            286.18,
+            730.12,
+            293.38,
+            742.93
+          ],
+          "block_id": "b6_31",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 527.27197265625,
+        "height": 786.47998046875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            53.38,
+            56.56,
+            176.98,
+            67.69
+          ],
+          "block_id": "b7_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau oflndian StandardsAct.  1986to promote harmonious\ndevelopment of the activities of standardization,\nmarking and quality certification of goods and attending to\nconnected matters in the country.",
+          "bbox": [
+            52.9,
+            77.48,
+            517.54,
+            112.61
+          ],
+          "block_id": "b7_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            53.38,
+            123.28,
+            97.06,
+            134.41
+          ],
+          "block_id": "b7_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without\nthe prior permission in writing of BIS. This does not preclude the free  use,  in the course of implementing the\nstandard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to\ncopyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            52.66,
+            144.2,
+            517.3,
+            190.37
+          ],
+          "block_id": "b7_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            52.9,
+            201.04,
+            175.78,
+            212.17
+          ],
+          "block_id": "b7_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendmehts are issued to standards as the need arises on the basis of comments. Standards are also reviewed\nperiodically; a standard along with amendments is reaffirmed when such review indicates that no changes are\nneeded; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards\nshould ascertain that they are in possession of the latest amendments or edition.",
+          "bbox": [
+            52.42,
+            222.2,
+            516.58,
+            268.37
+          ],
+          "block_id": "b7_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Dot No. CED 2 ( 5168 ).",
+          "bbox": [
+            51.46,
+            278.6,
+            361.78,
+            291.41
+          ],
+          "block_id": "b7_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            198.58,
+            312.64,
+            366.58,
+            323.77
+          ],
+          "block_id": "b7_7",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue\nText Affected",
+          "bbox": [
+            67.06,
+            337.16,
+            512.98,
+            350.21
+          ],
+          "block_id": "b7_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDARDS",
+          "bbox": [
+            157.54,
+            438.1,
+            396.58,
+            450.71
+          ],
+          "block_id": "b7_9",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters  :",
+          "bbox": [
+            52.18,
+            454.28,
+            113.38,
+            467.09
+          ],
+          "block_id": "b7_10",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002\nTelephones  :  323 01 31,323 94 02, 323 83 75\nTelegrams: Manaksanstha\n( Common to\nall offices )",
+          "bbox": [
+            52.18,
+            472.28,
+            517.78,
+            507.41
+          ],
+          "block_id": "b7_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            52.18,
+            512.84,
+            511.78,
+            525.89
+          ],
+          "block_id": "b7_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central  :  Manak Bhavan, 9 Bahadur Shah Zafar Marg\n32376 17\nNEW DELHI 110002\n323 3841",
+          "bbox": [
+            52.42,
+            530.84,
+            518.26,
+            554.93
+          ],
+          "block_id": "b7_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3378499,3378561\n337 86 26,337 86 62",
+          "bbox": [
+            423.94,
+            568.04,
+            516.34,
+            592.13
+          ],
+          "block_id": "b7_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern  :  l/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola\nCALCUTTA 700054",
+          "bbox": [
+            51.94,
+            568.52,
+            319.3,
+            592.61
+          ],
+          "block_id": "b7_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "60 38 43\n60 20 25",
+          "bbox": [
+            477.46,
+            593.96,
+            516.58,
+            618.05
+          ],
+          "block_id": "b7_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SC0 335-336, Sector 34-A, CHANDIGARH 160022",
+          "bbox": [
+            52.18,
+            594.92,
+            323.62,
+            607.73
+          ],
+          "block_id": "b7_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I",
+          "bbox": [
+            467.86,
+            608.6,
+            473.38,
+            621.41
+          ],
+          "block_id": "b7_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113\n235 02 16,235 04 42\n235 15 19,235 23 15",
+          "bbox": [
+            52.66,
+            621.56,
+            518.5,
+            645.65
+          ],
+          "block_id": "b7_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8329295,8327858\nMUMBAI 400093\n8327891,8327892",
+          "bbox": [
+            94.42,
+            649.16,
+            500.5,
+            673.97
+          ],
+          "block_id": "b7_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western  :  Manakalaya, E9 MIDC, Marol, Andheri (East)\n1",
+          "bbox": [
+            52.42,
+            649.88,
+            425.38,
+            676.85
+          ],
+          "block_id": "b7_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches  :  AHMADABAD.\nBANGALORE.\nBHOPAL.\nBHUBANESHWAR.\nCOIMBATORE.\nFARIDABAD.\nGHAZIABAD.\nGUWAHATI.\nHYDERABAD.\nJAIPUR.\nKANPUR.\nLUCKNOW.\nPATNA.\nTHIRUVANANTHAPURAM.\ni\nPnnted at New India Printing Press,  Khur~a,  India",
+          "bbox": [
+            52.18,
+            684.2,
+            515.74,
+            737.35
+          ],
+          "block_id": "b7_22",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 541.9119873046875,
+        "height": 790.47998046875
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

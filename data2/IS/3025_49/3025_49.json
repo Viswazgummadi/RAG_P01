@@ -1,0 +1,3835 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994\n(Reaffirmed 1999)\nEdition 2.1\n(2000-10)",
+          "bbox": [
+            384.52,
+            55.29,
+            524.36,
+            108.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            124.24,
+            120.72,
+            469.84,
+            261.96
+          ],
+          "block_id": "img1_6"
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            276.92,
+            368.3,
+            294.92
+          ],
+          "block_id": "b1_1",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST\n(PHYSICAL AND CHEMICAL) FOR WATER\nAND WASTE WATER",
+          "bbox": [
+            85.96,
+            308.78,
+            514.53,
+            372.74
+          ],
+          "block_id": "b1_2",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 49\nZINC\n( First Revision )",
+          "bbox": [
+            228.52,
+            382.89,
+            366.41,
+            420.92
+          ],
+          "block_id": "b1_3",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No 1)",
+          "bbox": [
+            220.6,
+            435.97,
+            374.41,
+            445.93
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "UDC 628.1.032 : 628.3 : 543.3 [546.47]",
+          "bbox": [
+            208.96,
+            476.89,
+            386.05,
+            486.85
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00a9 BIS 2002",
+          "bbox": [
+            271.12,
+            673.93,
+            323.91,
+            683.89
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            142.72,
+            704.61,
+            452.46,
+            745.3
+          ],
+          "block_id": "b1_8",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price Group 4",
+          "bbox": [
+            451.24,
+            778.41,
+            523.55,
+            788.37
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_6",
+          "bbox": [
+            124.24,
+            120.72,
+            469.84,
+            261.96
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_6": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Environmental Protection Sectional Committee, CHD 012",
+          "bbox": [
+            70.72,
+            64.09,
+            338.53,
+            74.05
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            70.72,
+            140.65,
+            132.23,
+            150.61
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard (First Revision) was adopted by the Bureau of Indian Standards, after the\ndraft finalized by the Environmental Protection Sectional Committee had been approved by the\nChemical Division Council.",
+          "bbox": [
+            70.72,
+            161.65,
+            524.31,
+            193.57
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zinc is an essential and beneficial element in body growth. Concentration above 5 mg/l may cause\na bitter astringent taste and opalescence in alkaline water. Zinc most commonly enters the\ndomestic water supply from deterioration of galvanized iron and dezincification of brass. Zinc in\nwater may also come from industrial water pollution. In the preparation of this standard\nconsiderable assistance has been derived from American Standard Test Methods (ASTM Annual\nBook Section 11, 1983) and Analytica Chimica Acta, 164 (1984) pp 1-21. The assistance so derived\nis thankfully acknowledged. This standard supersedes  17  of IS 2488 (Part 2) : 1968 and  39  of\nIS 3025 : 1964.",
+          "bbox": [
+            70.72,
+            198.61,
+            524.4,
+            285.61
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (October 2000). Side bar indicates modification of\nthe text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            290.65,
+            524.29,
+            311.53
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In reporting the result of a test or analysis made in accordance with this standard, if the final\nvalue, observed or calculated, is to be rounded off, it shall be done in accordance with IS 2 : 1960\n\u2018Rules for rounding off numerical values (  revised  )\u2019.",
+          "bbox": [
+            70.72,
+            316.57,
+            524.22,
+            348.7
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The composition of the technical committee responsible for the formulation of this Indian Standard\nis given in Annex A.",
+          "bbox": [
+            70.72,
+            353.64,
+            524.32,
+            374.52
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.27,
+            67.29
+          ],
+          "block_id": "b3_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            226.72,
+            83.0,
+            368.3,
+            101.0
+          ],
+          "block_id": "b3_2",
+          "font_size": 18.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST\n(PHYSICAL AND CHEMICAL) FOR WATER\nAND WASTE WATER",
+          "bbox": [
+            85.96,
+            111.74,
+            514.53,
+            175.7
+          ],
+          "block_id": "b3_3",
+          "font_size": 19.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 49\nZINC\n( First Revision )",
+          "bbox": [
+            228.52,
+            185.85,
+            366.41,
+            221.0
+          ],
+          "block_id": "b3_4",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE",
+          "bbox": [
+            70.72,
+            231.93,
+            117.28,
+            241.89
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "thoroughly with dilute nitric acid (6 N) prior to\nthe final rinsing with water. The water samples\nshould be collected and stored preferably in\npolypropylene or chemically resistant glass\ncontainers. For preservation, the samples\nshould be acidified with concentrated nitric\nacid (2 ml of AR grade of nitric acid in 1 litre\njust to bring down the  p H below 2). Unacidified\nsamples should be analysed the same day while\nthe acidified samples can be stored for a few\ndays (5 days) in a refrigerator.",
+          "bbox": [
+            304.6,
+            231.96,
+            524.29,
+            351.84
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This\nstandard\nprescribes\nfollowing\nfour\nmethods for determination of zinc:\na) Zincon Method,\nb) Atomic Absorption Method (Direct),\nc) Atomic Absorption Method (Chelation and\nExtraction), and\nd) Differential\nPulse\nAnodic\nStripping\nVoltammetry (DPASV).",
+          "bbox": [
+            70.72,
+            247.45,
+            290.44,
+            346.33
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Depending upon the concentration range and\ninterference levels, choice of the method is\nmade. When the concentration levels are below\n200  \u00b5 g/l, preconcentration is carried out either\nby chelation and extraction prior to atomic\nabsorption spectrophotometer (AAS) or by\ndeposition on a mercury drop electrode as in\nDPASV method. For dissolved zinc content,\nfiltration through 0.45  \u00b5 m membrane filter is\nrequired.",
+          "bbox": [
+            70.72,
+            351.37,
+            290.5,
+            460.44
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4 PURITY OF THE REAGENTS",
+          "bbox": [
+            304.6,
+            360.92,
+            465.23,
+            370.88
+          ],
+          "block_id": "b3_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1  Unless otherwise indicated, only AR/GR\ngrade chemicals should be used for all the tests.",
+          "bbox": [
+            304.6,
+            376.4,
+            524.34,
+            397.32
+          ],
+          "block_id": "b3_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2  Double distilled water, with a specific\nconductivity of less than 1.0  \u00b5 mho/cm should be\nused for preparing the standards and reagent\nsolutions.",
+          "bbox": [
+            304.6,
+            402.44,
+            524.33,
+            445.44
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5 ZINCON METHOD",
+          "bbox": [
+            304.6,
+            454.4,
+            409.86,
+            464.36
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            70.72,
+            467.37,
+            155.98,
+            477.33
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1 Principle",
+          "bbox": [
+            304.6,
+            469.88,
+            370.21,
+            479.84
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1  The Indian Standards listed below contain\nprovisions which through reference in this text,\nconstitute provision of this standard. At the\ntime of publication, the editions indicated were\nvalid. All standards are subject to revision and\nparties to agreements based on this standards\nare encouraged to investigate the possibility of\napplying the most recent editions of the\nstandards indicated below:",
+          "bbox": [
+            70.72,
+            482.85,
+            290.53,
+            580.92
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zinc (II) forms a soluble blue complex with\n2-carboxy-2-hydroxy-5-sulfoform-azyl benzene\n(zincon) at  p H 9.0. The coloured complex obeys\nBeer\u2019s law and is suitable for spectropho-\ntometric measurements.",
+          "bbox": [
+            304.6,
+            485.4,
+            524.28,
+            539.4
+          ],
+          "block_id": "b3_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This method is applicable in the range from\n0.02 - 5 mg/l of zinc.",
+          "bbox": [
+            304.6,
+            544.44,
+            524.3,
+            565.44
+          ],
+          "block_id": "b3_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2 Interferences",
+          "bbox": [
+            304.6,
+            570.44,
+            391.92,
+            580.4
+          ],
+          "block_id": "b3_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS No.\nTitle\n3025 (Part 1) :\n1986\nMethods of sampling and test\n(physical\nand\nchemical)\nfor\nwater and wastewater : Part 1\nSampling (  first revision  )\n7022 (Part 1) :\n1973\nGlossary of terms relating to\nwater, sewage and industrial\neffluents : Part 1\n7022 (Part 2) :\n1979\nGlossary of terms relating to\nwater, sewage and industrial\neffluents : Part II",
+          "bbox": [
+            70.72,
+            585.57,
+            290.78,
+            711.36
+          ],
+          "block_id": "b3_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Though many heavy metals react with zincon\nand interfere in the analysis, treatment of the\nsample as given in  5.5.1  with cyanide and\nchlorohexanone masks many of the interfering\nmetal ions. The following ions interfere beyond\nthe concentrations given against each:",
+          "bbox": [
+            304.6,
+            585.96,
+            524.31,
+            650.88
+          ],
+          "block_id": "b3_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sl No.\nIon\nConcentration, mg / l",
+          "bbox": [
+            319.84,
+            656.4,
+            524.76,
+            666.45
+          ],
+          "block_id": "b3_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "i)\nCd 2+\n1\nii)\nAl 3+\n5\niii)\nMn 2+\n5\niv)\nFe 3+\n7\nv)\nFe 2+\n9\nvi)\nCr 3+\n10",
+          "bbox": [
+            328.24,
+            669.55,
+            476.58,
+            744.37
+          ],
+          "block_id": "b3_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 SAMPLING AND PRESERVATION",
+          "bbox": [
+            70.72,
+            719.84,
+            258.42,
+            729.8
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The\nsampling\nbottles\nshall\nbe\ncleaned",
+          "bbox": [
+            70.72,
+            735.48,
+            290.38,
+            745.44
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.48,
+            67.29
+          ],
+          "block_id": "b4_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "vii)\nNi 2+\n20\nviii)\nCu 2+\n30\nix)\nCo 2+\n30\nx)\nCrO 4\n50",
+          "bbox": [
+            89.08,
+            82.99,
+            242.58,
+            132.85
+          ],
+          "block_id": "b4_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "flask. Add 0.5 g of sodium ascorbate, 1 ml of\ncyanide solution, 5 m of buffer solution, 3 ml of\nzincon solution and 1 ml of cyclohexanone\nsolution in the above order with sufficient\nprecaution. Make up the solution to 500 ml.\nPrepare a reagent blank by treating 50 ml of\ndouble distilled water in the same way as\ndescribed above.",
+          "bbox": [
+            304.6,
+            83.89,
+            524.44,
+            170.88
+          ],
+          "block_id": "b4_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3 Apparatus",
+          "bbox": [
+            70.72,
+            139.89,
+            142.3,
+            149.85
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3.1  Spectrophotometer  \u2014 for use at 620 nm\nwith 1 cm cells.",
+          "bbox": [
+            70.72,
+            155.37,
+            290.42,
+            176.41
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.5.2  Measure the optical density of the sample\nsolution at 620 nm against the reagent blank\ncontaining added zinc and prepared in the\nsame way except for the addition of 3 ml of\nchloral hydrate.",
+          "bbox": [
+            304.6,
+            175.89,
+            524.35,
+            229.92
+          ],
+          "block_id": "b4_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4 Reagents",
+          "bbox": [
+            70.72,
+            183.33,
+            135.83,
+            193.29
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.1  Sodium Hydroxide Solution  \u2014 40 g/l.",
+          "bbox": [
+            70.72,
+            198.93,
+            268.13,
+            209.02
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 40 g of sodium hydroxide (NaOH) in\n500 ml of water and make up to 1 litre.",
+          "bbox": [
+            70.72,
+            213.97,
+            290.42,
+            234.85
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5.3  Calibration\nTreat 50 ml portions of standard solutions\ncontaining 0.02, 0.05, 0.1, 0.5, 1.0, and 5.0 mg/l\nof zinc and treat as above and measure the\nabsorbance. Plot absorbance versus milligram\nof zinc for the standards to get a calibration\ngraph. Read the concentration of zinc in the\nsample from the calibration graph.",
+          "bbox": [
+            304.6,
+            234.92,
+            524.37,
+            325.92
+          ],
+          "block_id": "b4_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.2  Sodium Hydroxide Solution  \u2014 240 g/l.",
+          "bbox": [
+            70.72,
+            239.85,
+            273.65,
+            249.94
+          ],
+          "block_id": "b4_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 24 g of sodium hydroxide (NaOH) in\n25 ml of water. Dilute to 100 ml with water.",
+          "bbox": [
+            70.72,
+            254.89,
+            290.42,
+            275.89
+          ],
+          "block_id": "b4_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.3  Potassium Cyanide Solution\nDissolve 1 g of potassium cyanide (KCN) in\n50 ml of water and dilute to 100 ml.",
+          "bbox": [
+            70.72,
+            280.89,
+            290.44,
+            316.93
+          ],
+          "block_id": "b4_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 Potassium cyanide is a deadly poison. Avoid\nskin contact or inhalation of vapours. Do not pipette by\nmouth or bring in contact with acids.\n5.4.4  Cyclohexanone Solution",
+          "bbox": [
+            70.72,
+            321.19,
+            290.39,
+            362.02
+          ],
+          "block_id": "b4_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.6 Calculation",
+          "bbox": [
+            304.6,
+            330.92,
+            382.09,
+            340.88
+          ],
+          "block_id": "b4_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "M\nV\n-----\n1 000\n\u00d7",
+          "bbox": [
+            375.28,
+            348.34,
+            420.42,
+            370.54
+          ],
+          "block_id": "b4_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zinc, mg/l =",
+          "bbox": [
+            316.96,
+            354.12,
+            374.06,
+            364.08
+          ],
+          "block_id": "b4_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Dissolve 1 ml of purified cyclohexanone in\n50 ml of water.",
+          "bbox": [
+            70.72,
+            366.97,
+            290.44,
+            387.85
+          ],
+          "block_id": "b4_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where\nM  = mass of zinc present in mg in the\nsample, and\nV  = volume of sample in ml.",
+          "bbox": [
+            304.6,
+            376.68,
+            524.33,
+            425.73
+          ],
+          "block_id": "b4_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.5  Zincon Solution\nDissolve 0.325 g of zincon reagent in 100 ml of\nmethanol by heating gently. Cool. Dilute to\n250 ml with methanol in a 250 ml standard\nflask. Store the reagent in a brown coloured\nbottle.",
+          "bbox": [
+            70.72,
+            392.85,
+            290.4,
+            461.89
+          ],
+          "block_id": "b4_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6 ATOMIC ABSORPTION METHOD\n(DIRECT)",
+          "bbox": [
+            304.6,
+            432.68,
+            491.3,
+            454.04
+          ],
+          "block_id": "b4_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1 Principle",
+          "bbox": [
+            304.6,
+            459.68,
+            370.21,
+            469.64
+          ],
+          "block_id": "b4_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.6  Sodium Ascorbate\nNeeded only when manganese content is more\nthan 0.2 ppm.",
+          "bbox": [
+            70.72,
+            466.89,
+            290.43,
+            502.93
+          ],
+          "block_id": "b4_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The zinc content of the sample is determined by\natomic\nabsorption\nspectrophotometry.\nFor\ndissolved zinc, the filtered sample is directly\naspirated to the atomizer. For total recoverable\nzinc, an acid digestion procedure is done prior\nto aspiration of the sample.",
+          "bbox": [
+            304.6,
+            475.2,
+            524.4,
+            540.12
+          ],
+          "block_id": "b4_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.7  Borate Buffer Solution\nDilute 213 ml of 1M NaOH solution to 500 ml\nwith water and dissolve 37.3 g of potassium\nchloride and 31 g of boric acid. Make up to\n1 litre in a standard flask.",
+          "bbox": [
+            70.72,
+            507.93,
+            290.46,
+            565.92
+          ],
+          "block_id": "b4_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This method is applicable in the range from\n0.01 to 2.0 mg/l. However, the concentration\nrange will vary with the sensitivity of the\ninstrument used.",
+          "bbox": [
+            304.6,
+            545.16,
+            524.3,
+            588.12
+          ],
+          "block_id": "b4_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4.8  Hydrochloric Acid  \u2014 Concentrated.",
+          "bbox": [
+            70.72,
+            570.93,
+            260.61,
+            581.02
+          ],
+          "block_id": "b4_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4.9  Zinc  (  II  )  Solutions\nDissolve\n0.274 5\ng\nof\nzinc\nsulphate\n(ZnSO 4 . 7 H 2 O) in 200 ml of water and dilute to\n1 litre. 1 ml = 0.1 mg of Zn.",
+          "bbox": [
+            70.72,
+            585.93,
+            290.37,
+            632.89
+          ],
+          "block_id": "b4_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2 Interferences",
+          "bbox": [
+            304.6,
+            593.12,
+            391.92,
+            603.08
+          ],
+          "block_id": "b4_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Cadmium, lead, copper, nickel, cobalt and\nchromium up to 10 mg/l do not interfere. Alkali\nand alkaline earth metals can be tolerated up\nto 4 000 mg/l. Iron interferes at concentrations\nof 50 mg/l and above by suppressing the zinc\nabsorption.",
+          "bbox": [
+            304.6,
+            608.64,
+            524.36,
+            673.68
+          ],
+          "block_id": "b4_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5 Procedure",
+          "bbox": [
+            70.72,
+            639.93,
+            142.44,
+            649.89
+          ],
+          "block_id": "b4_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.5.1  For dissolved zinc, filter the sample\nthrough 0.45  \u00b5 m membrane filter paper. For\ntotal\nzinc,\nadd\n1 ml\nof\nconcentrated\nhydrochloric acid to 50 ml of sample and boil for\n5 minutes. Cool the solution and adjust the  p H\nto 7 with sodium hydroxide solution ( 5.4.2 ).\nMake up the solution to 50 ml in a standard\nflask. Take 10 ml of this solution or the filtrate\n(in the case of dissolved zinc) in an Erlenmeyer",
+          "bbox": [
+            70.72,
+            655.41,
+            290.47,
+            753.37
+          ],
+          "block_id": "b4_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3 Apparatus",
+          "bbox": [
+            304.6,
+            678.68,
+            376.18,
+            688.64
+          ],
+          "block_id": "b4_31",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3.1  Atomic\nAbsorption\nSpectrophotometer\nwith Air-Acetylene Flame\n6.3.2  Multi-element hollow-cathode lamps or\nelectrodeless discharge lamps for use at\n213.8 nm.",
+          "bbox": [
+            304.6,
+            694.16,
+            524.37,
+            752.16
+          ],
+          "block_id": "b4_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b4_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.27,
+            67.29
+          ],
+          "block_id": "b5_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4 Reagents",
+          "bbox": [
+            70.72,
+            83.85,
+            135.82,
+            93.81
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This method is applicable for the concentration\nrange from 1-200  \u00b5 g/l.",
+          "bbox": [
+            304.6,
+            83.88,
+            524.29,
+            104.97
+          ],
+          "block_id": "b5_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4.1  Hydrochloric Acid  \u2014 Concentrated.",
+          "bbox": [
+            70.72,
+            99.33,
+            260.61,
+            109.42
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 The lower range of determination to the\nextent of 0.001 mg/l may be obtained by graphite\nsystem.\n7.2 Interferences  \u2014 Same as in  6.2 .",
+          "bbox": [
+            304.6,
+            109.15,
+            524.39,
+            149.89
+          ],
+          "block_id": "b5_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.2  Nitric Acid  \u2014 Concentrated.",
+          "bbox": [
+            70.72,
+            114.33,
+            227.93,
+            124.42
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.3  Nitric Acid  \u2014 Diluted (1 : 499).",
+          "bbox": [
+            70.72,
+            129.33,
+            240.29,
+            139.42
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.4  Zinc  (  II  )  Solutions\n6.4.4.1  Stock zinc  (  II  )  solution\nDissolve 1 g of acid washed and rinsed zinc\ngranules or 1.245 g of zinc oxide (ZnO) in 20 ml\nof 1 : 1 nitric acid. Dilute to 1 : 1 with water.\n1 ml = 1.0 mg of Zn.",
+          "bbox": [
+            70.72,
+            144.33,
+            290.52,
+            217.33
+          ],
+          "block_id": "b5_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3 Apparatus  \u2014 Same as in  6.3 .",
+          "bbox": [
+            304.6,
+            154.89,
+            462.29,
+            164.89
+          ],
+          "block_id": "b5_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4 Reagents",
+          "bbox": [
+            304.6,
+            169.89,
+            369.7,
+            179.85
+          ],
+          "block_id": "b5_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.1  Hydrochloric Acid  \u2014 Concentrated.",
+          "bbox": [
+            304.6,
+            185.37,
+            494.47,
+            195.46
+          ],
+          "block_id": "b5_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.2  Hydrochloric Acid  \u2014 Diluted (1 : 2).",
+          "bbox": [
+            304.6,
+            200.37,
+            495.77,
+            210.46
+          ],
+          "block_id": "b5_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.3  Hydrochloric Acid  \u2014 Diluted (1 : 49).",
+          "bbox": [
+            304.6,
+            215.37,
+            501.42,
+            225.46
+          ],
+          "block_id": "b5_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.4.4.2  Standard zinc  (  II  )  solution\nDilute 100 ml of zinc stock solution and 1 ml of\nnitric acid to 1 litre with water.",
+          "bbox": [
+            70.72,
+            222.33,
+            290.4,
+            258.37
+          ],
+          "block_id": "b5_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.4  Nitric Acid  \u2014 Concentrated.",
+          "bbox": [
+            304.6,
+            230.37,
+            461.71,
+            240.46
+          ],
+          "block_id": "b5_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.5  Pyrrolidine Dithio Carbamic Acid  \u2014\nChloroform reagent:",
+          "bbox": [
+            304.6,
+            245.37,
+            524.32,
+            266.41
+          ],
+          "block_id": "b5_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.5 Procedure",
+          "bbox": [
+            70.72,
+            263.37,
+            142.44,
+            273.33
+          ],
+          "block_id": "b5_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "36 ml of pyrrolidine is mixed with 1 litre of\nchloroform. The solution is cooled and 30 ml of\ncarbon disulphide is added in small fractions\nwith continuous stirring. Dilute with 1 litre of\nchloroform and store in a cool and dark place.\nThe reagent is stable for at least six months.",
+          "bbox": [
+            304.6,
+            271.45,
+            524.43,
+            336.37
+          ],
+          "block_id": "b5_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.5.1  Add 0.5 ml of nitric acid to 100 ml of the\nsample\n(filtered\nor\nunfiltered).\nIf\ntotal\nrecoverable zinc is to be determined, add 5 ml\nof concentrated hydrochloric acid and filter the\nsample through acid washed filter paper. Make\nup to 100 ml in a volumetric flask, aspirate the\nsolution and measure the absorbance at\n213.8 nm. Aspirate nitric acid (1 : 499) prior to\nsample aspiration.",
+          "bbox": [
+            70.72,
+            278.85,
+            290.57,
+            376.92
+          ],
+          "block_id": "b5_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 As components of this mixture are highly toxic\nand flammable, prepare and use in a fume hood.\n7.4.6  Sodium Hydroxide Solution\nDissolve 100 g of sodium hydroxide in water\nand dilute to 1 litre with water.",
+          "bbox": [
+            304.6,
+            340.75,
+            524.32,
+            398.41
+          ],
+          "block_id": "b5_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.5.2  Prepare a reagent blank and sufficient\nstandards containing 0.01, 0.05, 0.1, 0.5, 1.0\nand 2.0 mg/l of zinc by diluting suitable volume\nof the standard solution with nitric acid\n(1 : 499) and repeat as above. Aspirate the\nsolutions and measure the absorbance.",
+          "bbox": [
+            70.72,
+            381.92,
+            290.47,
+            446.88
+          ],
+          "block_id": "b5_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4.7  Chloroform\n7.4.8  Bromophenol Blue Indicator Solution\nDissolve 0.1 g of bromophenol blue in 100 ml of\n50 percent ethanol or isopropanol.",
+          "bbox": [
+            304.6,
+            403.41,
+            524.34,
+            454.45
+          ],
+          "block_id": "b5_29",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.6 Calculations",
+          "bbox": [
+            70.72,
+            451.88,
+            153.23,
+            461.84
+          ],
+          "block_id": "b5_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.4.9  Stock Zinc  (  II  )  Solution\nDissolve 1 g of acid washed and rinsed zinc\ngranules or 1.245 g of zinc oxide (ZnO) in 20 ml\nof 1 : 1 HNO 3 . Dilute to 1 litre with water.\n1 ml = 1.0 mg of zinc.",
+          "bbox": [
+            304.6,
+            459.45,
+            524.38,
+            517.45
+          ],
+          "block_id": "b5_30",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.6.1  Construct a standard calibration graph by\nplotting\nthe\nabsorbance\nversus\nstandard\nconcentration for each standard. Read the\nconcentration of the samples from the graph.",
+          "bbox": [
+            70.72,
+            467.36,
+            290.42,
+            510.36
+          ],
+          "block_id": "b5_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "M\nV\n-----\n1 000\n\u00d7",
+          "bbox": [
+            141.4,
+            517.3,
+            186.54,
+            539.62
+          ],
+          "block_id": "b5_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4.10  Intermediate Zinc Solution\nDilute 100 ml of zinc stock solution and 1 ml of\nnitric acid to 1 litre with water.",
+          "bbox": [
+            304.6,
+            522.45,
+            524.25,
+            558.37
+          ],
+          "block_id": "b5_31",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Zinc, mg/l =",
+          "bbox": [
+            83.08,
+            523.08,
+            140.17,
+            533.04
+          ],
+          "block_id": "b5_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where\nM  = mass of zinc present in mg in the\nsample, and\nV  = volume of sample in ml.",
+          "bbox": [
+            70.72,
+            545.64,
+            290.42,
+            594.7
+          ],
+          "block_id": "b5_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4.11  Standard Zinc Solution\nDilute 10 ml of zinc intermediate solution and\n1 ml of nitric acid to 1 litre with water. This\nsolution should be prepared just before use.",
+          "bbox": [
+            304.6,
+            563.37,
+            524.2,
+            610.45
+          ],
+          "block_id": "b5_32",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7 ATOMIC ABSORPTION METHOD\n(CHELATION \u2014 EXTRACTION)",
+          "bbox": [
+            70.72,
+            601.64,
+            257.44,
+            623.12
+          ],
+          "block_id": "b5_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.5 Procedure",
+          "bbox": [
+            304.6,
+            615.45,
+            376.32,
+            625.41
+          ],
+          "block_id": "b5_33",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.1 Scope and Application",
+          "bbox": [
+            70.72,
+            628.64,
+            204.68,
+            638.6
+          ],
+          "block_id": "b5_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.5.1  For dissolved zinc, filter 100 ml of the\nsample through 0.45  \u00b5 m membrane filter\npaper. For total zinc, add 5 ml of concentrated\nnitric acid and evaporate the solution to 15 to\n20 ml. Cool and filter the sample through acid\nwashed filter paper. Make up to 100 ml in a\nvolumetric flask. Add to this solution or the\nfiltrate (in case of dissolved zinc) 2 drops of\nbromophenol blue indicator solution and mix.\nAdjust the  p H by adding sodium hydroxide",
+          "bbox": [
+            304.6,
+            630.93,
+            524.33,
+            740.02
+          ],
+          "block_id": "b5_34",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zinc\nis\nchelated\nwith\npyrrolidine\ndithio\ncarbamic acid and extracted with chloroform.\nThe extract is treated with hot nitric acid after\nevaporating\nto\ndryness,\ndissolved\nin\nhydrochloric acid and diluted with water. An\naliquot is aspirated into the air-acetylene flame\nof the spectrophotometer. For total recoverable\nzinc an acid digestion procedure is done prior to\naspiration of the sample.",
+          "bbox": [
+            70.72,
+            644.16,
+            290.43,
+            742.2
+          ],
+          "block_id": "b5_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b5_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.48,
+            67.29
+          ],
+          "block_id": "b6_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "selenium metal. Iron (III) interferes when\npresent at levels greater than zinc. However\nthis can be overcome by warming the solution\nwith hydroxylamine. Also, the presence of any\nother neighbouring stripping peaks which is\nless than 100 mV from that of the zinc will\ninterfere.",
+          "bbox": [
+            304.6,
+            83.88,
+            524.36,
+            159.84
+          ],
+          "block_id": "b6_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "solution till a blue colour persists. Add diluted\nhydrochloric acid (1 : 50) drop by drop until the\ncolour just disappears; then add 2.5 ml in\nexcess to bring the  p H to 2.3-2.5. Add 10 ml of\npyrroline dithio carbamic acid \u2014 chloroform\nreagent and shake well. After the phases\nseparate out, collect the chloroform phase by\ntaking care to avoid any trace of water in a\nflask. Repeat the extraction till the chloroform\nlayer becomes colourless with fresh 10 ml\nportions of chloroform and combine the\nextracts. Evaporate the solution just to dryness\nand dissolve the residue by dropwise addition of\n2 ml of concentrated nitric acid by holding the\nbeaker at an angle. Again evaporate to dryness\nand add 2 ml of hydrochloric acid (1 : 2) and\nheat for 1 minute. Cool and make up the\nsolution in a 10 ml standard flask. Aspirate the\nsample and measure the absorbance.",
+          "bbox": [
+            70.72,
+            83.89,
+            290.57,
+            291.84
+          ],
+          "block_id": "b6_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.3 Apparatus",
+          "bbox": [
+            304.6,
+            164.84,
+            376.18,
+            174.8
+          ],
+          "block_id": "b6_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.3.1  Polarographic Instrumentation Capable\nof Performing Differential Pulse Work\n8.3.2  Hanging Mercury Drop Electrode\n8.3.3  Platinum Counter Electrode\n8.3.4  Saturated Calomel Reference Electrode\n8.3.5  Magnetic Stirrer Control Unit, Stirring\nBar\n8.4 Reagents",
+          "bbox": [
+            304.6,
+            180.32,
+            524.34,
+            287.36
+          ],
+          "block_id": "b6_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.4.1  Hydrochloric Acid  \u2014 Concentrated.",
+          "bbox": [
+            304.6,
+            292.88,
+            494.47,
+            302.97
+          ],
+          "block_id": "b6_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.5.2  Prepare a reagent blank and sufficient\nstandards containing 10, 20, 50, 100 and\n200  \u00b5 g/l of zinc by diluting a suitable volume of\nthe standard solution with 100 ml of water and\nrepeat as above. Aspirate the solution and\nmeasure the absorbance.",
+          "bbox": [
+            70.72,
+            296.85,
+            290.46,
+            361.92
+          ],
+          "block_id": "b6_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.4.2  Nitric Acid  \u2014 Concentrated.",
+          "bbox": [
+            304.6,
+            307.88,
+            461.71,
+            317.97
+          ],
+          "block_id": "b6_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.4.3  Nitric Acid  \u2014 Diluted (1 : 1).",
+          "bbox": [
+            304.6,
+            322.87,
+            462.99,
+            332.97
+          ],
+          "block_id": "b6_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.4.4  Zinc Solutions\n8.4.4.1  Stock zinc solution  \u2014 Prepare as\nin  7.4.9 .",
+          "bbox": [
+            304.6,
+            337.87,
+            524.23,
+            373.91
+          ],
+          "block_id": "b6_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.6 Calculation",
+          "bbox": [
+            70.72,
+            366.92,
+            148.23,
+            376.88
+          ],
+          "block_id": "b6_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.4.4.2  Intermediate zinc solution  \u2014 Prepare as\nin  7.4.10 .",
+          "bbox": [
+            304.6,
+            378.91,
+            524.13,
+            399.83
+          ],
+          "block_id": "b6_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.6.1  Construct a standard calibration graph by\nplotting the absorbance versus the micrograms\nof zinc. Read the concentration of the samples\nfrom the curve.",
+          "bbox": [
+            70.72,
+            382.4,
+            290.5,
+            425.4
+          ],
+          "block_id": "b6_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.4.4.3  Zinc standard solution  \u2014 Prepare as\nin  7.4.11 .",
+          "bbox": [
+            304.6,
+            404.83,
+            524.14,
+            425.87
+          ],
+          "block_id": "b6_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.4.5  Amalgamated Zinc\nCover 10 g of granular zinc with water and add\n2 drops of concentrated hydrochloric acid. Then\nadd 5-8 drops of mercury with continuous\nshaking.",
+          "bbox": [
+            304.6,
+            430.87,
+            524.37,
+            488.87
+          ],
+          "block_id": "b6_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "M\nV\n-----\n1 000\n\u00d7",
+          "bbox": [
+            184.6,
+            432.32,
+            229.74,
+            454.52
+          ],
+          "block_id": "b6_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zinc,  \u00b5 g/l =",
+          "bbox": [
+            129.4,
+            438.12,
+            183.29,
+            448.18
+          ],
+          "block_id": "b6_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            70.72,
+            460.68,
+            99.1,
+            470.64
+          ],
+          "block_id": "b6_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "M  = mass of zinc present in the sample\n(in  \u00b5 g), and\nV  = volume of sample in ml.",
+          "bbox": [
+            83.08,
+            476.64,
+            290.38,
+            511.78
+          ],
+          "block_id": "b6_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.4.6  Purified Nitrogen\nBoil 2 g of ammonium meta vanadate with\n25 ml of concentrated hydrochloric acid. Dilute\nto 250 ml and transfer to the scrubber. Add\n10-15 g of amalgamated zinc. Pass nitrogen gas\nthrough the scrubber for removal of traces of\noxygen and through distilled water for washing\nany traces of scrubber chemicals (Fig. 1).",
+          "bbox": [
+            304.6,
+            493.87,
+            524.32,
+            584.87
+          ],
+          "block_id": "b6_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8 DIFFERENTIAL PULSE ANODIC\nSTRIPPING VOLTAMMETRY (DPASV)",
+          "bbox": [
+            70.72,
+            518.6,
+            272.48,
+            540.08
+          ],
+          "block_id": "b6_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.1 Principle",
+          "bbox": [
+            70.72,
+            545.6,
+            136.33,
+            555.56
+          ],
+          "block_id": "b6_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Zinc is deposited on a hanging mercury drop at\na negative potential of \u2013 1.2 V vs saturated\ncalomel electrode (SCE). Then the zinc is\nstripped back into the solution by applying a\n+ve potential scan. The anodic current peak\nwhich is measured is representative of the zinc\nconcentration in the sample. For total dissolved\nzinc the sample is filtered through a 0.45  \u00b5 m\nmembrane filter paper prior to acidification and\nanalysis.",
+          "bbox": [
+            70.72,
+            561.12,
+            290.56,
+            670.08
+          ],
+          "block_id": "b6_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.5 Procedure",
+          "bbox": [
+            304.6,
+            589.87,
+            376.32,
+            599.83
+          ],
+          "block_id": "b6_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8.5.1  Clean\nall\nthe\nglasswares\nand\nthe\nvoltammetric cells by soaking them overnight\nin concentrated nitric acid and rinsing them\nthoroughly with distilled water. If total\ndissolved zinc alone is to be determined, the\nsample should be filtered through 0.45  \u00b5 m\nmembrane filter paper. For total recoverable\nzinc, digest the sample with 3 ml each of\nconcentrated hydrochloric acid and nitric acid.\nEvaporate the solution to 15-20 ml. Cool and\nmake up to 100 ml in a volumetric flask. Take\n10 ml of the sample in the polarographic cell\nand deaerate for 15 minutes. The cell should be",
+          "bbox": [
+            304.6,
+            605.35,
+            524.34,
+            747.35
+          ],
+          "block_id": "b6_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This method is applicable in the concentration\nrange 1.0-100  \u00b5 g/l of zinc.",
+          "bbox": [
+            70.72,
+            675.12,
+            290.39,
+            696.21
+          ],
+          "block_id": "b6_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.2 Interferences",
+          "bbox": [
+            70.72,
+            701.12,
+            158.06,
+            711.08
+          ],
+          "block_id": "b6_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Selenium interferes when it is present in excess\nof 50  \u00b5 g/l. This can be overcome by adding\nascorbic acid which reduces selenium (IV) to",
+          "bbox": [
+            70.72,
+            716.64,
+            290.64,
+            748.68
+          ],
+          "block_id": "b6_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.27,
+            67.29
+          ],
+          "block_id": "b7_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "covered\nwith\nnitrogen\ngas\nduring\nthe\nexperiment (Fig. 2).",
+          "bbox": [
+            70.72,
+            83.89,
+            290.43,
+            104.89
+          ],
+          "block_id": "b7_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 minutes. Repeat as above. Measure the\ncurrent peak height (  I 2  ).",
+          "bbox": [
+            304.6,
+            83.89,
+            524.27,
+            106.99
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Generate a new droplet of mercury and put the\nstirrer on. Connect the cell and deposit at\n\u2013 1.2 V versus SCE for 3 minutes. Stop the\nstirrer and wait for 30 seconds. Start the anodic\nscan with the following settings:",
+          "bbox": [
+            70.72,
+            109.93,
+            290.42,
+            163.93
+          ],
+          "block_id": "b7_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.6 Calculation",
+          "bbox": [
+            304.6,
+            113.85,
+            382.09,
+            123.81
+          ],
+          "block_id": "b7_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I 1 V C std\n1 000\n\u00d7",
+          "bbox": [
+            413.44,
+            129.02,
+            487.86,
+            144.19
+          ],
+          "block_id": "b7_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C sample ,  mg / 1  =",
+          "bbox": [
+            338.92,
+            139.09,
+            412.25,
+            151.15
+          ],
+          "block_id": "b7_7",
+          "font_size": 9.7,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I 2  v  +\nI 2\nI 1\n\u2013\n(\n) V\n--------------------------------------------",
+          "bbox": [
+            413.44,
+            139.09,
+            487.8,
+            159.63
+          ],
+          "block_id": "b7_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where\nInitial potential\n\u2013 1.2 V vs SCE\nScan rate\n5 mV/s\nScan direction\n+ ve\nModulation amplitude\n25 mV\nCurrent range\n1-10  \u00b5 A\nDrop time\n0.5 s\nDisplay direction\n\u2013 ve\nLow pass filter\nOff position\nMode\nDifferential pulse\nScan range\n\u2013 1.2 to \u2013 0.6 V",
+          "bbox": [
+            83.08,
+            161.41,
+            345.22,
+            282.13
+          ],
+          "block_id": "b7_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I 1  = current peak height for the\nsample,\nI 2  = current peak height for the\nsample + standard,\nv  = volume\nof\nstandard\nadded\n(20  \u00b5 l),\nV  = volume of the sample solution,\nC std  = concentration of the standard\nsolution added, and\nC sample  = concentration of zinc in the\nsample.",
+          "bbox": [
+            328.72,
+            177.37,
+            525.32,
+            312.37
+          ],
+          "block_id": "b7_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Measure the current peak height (  I 1  ). Add\n20  \u00b5 l of standard zinc solution and deaerate for",
+          "bbox": [
+            70.72,
+            290.89,
+            290.42,
+            311.98
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            155.68,
+            330.12,
+            436.96,
+            468.84
+          ],
+          "block_id": "img7_13"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 1\nS CRUBBER  A SSEMBLY FOR  N ITROGEN  P URIFICATION",
+          "bbox": [
+            161.8,
+            481.93,
+            433.21,
+            491.91
+          ],
+          "block_id": "b7_12",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img7_13",
+          "bbox": [
+            155.68,
+            330.12,
+            436.96,
+            468.84
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img7_13": 2
+      }
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.48,
+            67.29
+          ],
+          "block_id": "b8_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            151.84,
+            88.92,
+            441.76,
+            346.2
+          ],
+          "block_id": "img8_3"
+        },
+        {
+          "type": "text",
+          "content": "F IG . 2\nV OLTAMMETRIC  C ELL  A SSEMBLY",
+          "bbox": [
+            205.12,
+            358.09,
+            389.86,
+            368.07
+          ],
+          "block_id": "b8_2",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img8_3",
+          "bbox": [
+            151.84,
+            88.92,
+            441.76,
+            346.2
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img8_3": 3
+      }
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            384.52,
+            55.29,
+            524.27,
+            67.29
+          ],
+          "block_id": "b9_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n(  Foreword  )",
+          "bbox": [
+            266.56,
+            83.61,
+            328.47,
+            110.02
+          ],
+          "block_id": "b9_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "COMMITTEE COMPOSITION",
+          "bbox": [
+            220.6,
+            115.89,
+            374.46,
+            125.85
+          ],
+          "block_id": "b9_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Environmental Protection Sectional Committee, CHD 012",
+          "bbox": [
+            163.72,
+            135.25,
+            431.35,
+            145.21
+          ],
+          "block_id": "b9_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Chairman\nRepresenting",
+          "bbox": [
+            94.36,
+            153.79,
+            337.65,
+            161.71
+          ],
+          "block_id": "b9_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  D. K. B ISWAS\nCentral Pollution Control Board, Delhi",
+          "bbox": [
+            70.72,
+            168.07,
+            398.54,
+            175.99
+          ],
+          "block_id": "b9_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            94.36,
+            182.35,
+            127.63,
+            190.27
+          ],
+          "block_id": "b9_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  K. R. R ANGANATHAN  (  Alternate  to\nProf D. K. Biswas )",
+          "bbox": [
+            83.08,
+            196.75,
+            221.92,
+            213.67
+          ],
+          "block_id": "b9_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A DVISER  (PHE)\nA DDL  A DVISER  (PHE) (  Alternate  )\nMinistry of Rural Development",
+          "bbox": [
+            70.72,
+            217.99,
+            370.32,
+            234.91
+          ],
+          "block_id": "b9_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B. C. A GARWALA\nS HRI  S. B ALAGURUNATHAN  (  Alternate  I )\nS HRI  A. K. G UPTA  (  Alternate  II )",
+          "bbox": [
+            70.72,
+            239.35,
+            232.48,
+            265.27
+          ],
+          "block_id": "b9_10",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Bharat Heavy Electricals Ltd, Hyderabad",
+          "bbox": [
+            255.04,
+            239.35,
+            409.21,
+            247.27
+          ],
+          "block_id": "b9_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  A. L. A GGARWAL\nD R  T. C HAKRABARTI  (  Alternate  )\nNational Environmental Engineering Research Institute (CSIR), Nagpur",
+          "bbox": [
+            70.72,
+            269.59,
+            524.2,
+            286.51
+          ],
+          "block_id": "b9_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  A. A LAM\nIndian Council of Agricultural Research, New Delhi",
+          "bbox": [
+            70.72,
+            290.95,
+            446.31,
+            298.87
+          ],
+          "block_id": "b9_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. C. A HLUWALIA\nS HRI  A. D. A GNIHOTRI  (  Alternate  )\nNational Council for Cement & Building Materials, New Delhi",
+          "bbox": [
+            70.72,
+            303.19,
+            485.93,
+            320.11
+          ],
+          "block_id": "b9_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. K. B ANERJEE\nS HRI  P. K. M AIR  (  Alternate  )\nShriram Institute for Industrial Research, Delhi",
+          "bbox": [
+            70.72,
+            324.55,
+            433.72,
+            341.47
+          ],
+          "block_id": "b9_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  B. B ASU\nD R  S. M UKHERJEE  (  Alternate  )\nNational Thermal Power Corporation Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            345.79,
+            452.24,
+            362.71
+          ],
+          "block_id": "b9_16",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  V. S. B HATNAGAR\nD R  M. S. N. S RINIVAS  (  Alternate  )\nCentral Scientific Instruments Organization (CSIR), Chandigarh",
+          "bbox": [
+            70.72,
+            367.15,
+            495.38,
+            384.07
+          ],
+          "block_id": "b9_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. C HAKRAVORTI",
+          "bbox": [
+            70.72,
+            388.39,
+            151.07,
+            396.31
+          ],
+          "block_id": "b9_18",
+          "font_size": 7.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Directorate General Factory Advice Service & Labour Institutes,\nBombay",
+          "bbox": [
+            255.04,
+            388.39,
+            524.21,
+            405.31
+          ],
+          "block_id": "b9_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  M. H. F ULEKAR  (  Alternate  )",
+          "bbox": [
+            83.08,
+            406.39,
+            198.88,
+            414.31
+          ],
+          "block_id": "b9_19",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. D AS\nS HRI  M. K. P RABHUDESAI  (  Alternate  )\nIndian Petrochemicals Corporation Ltd, Vadodara",
+          "bbox": [
+            70.72,
+            418.75,
+            440.26,
+            435.67
+          ],
+          "block_id": "b9_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  V. S. G UPTA\nS HRI  D. N. P. S INGH  (  Alternate  )\nNational Test House, Calcutta",
+          "bbox": [
+            70.72,
+            439.99,
+            367.59,
+            456.91
+          ],
+          "block_id": "b9_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  H ARISH  C HANDRA\nIndustrial Toxicology Research Centre (CSIR), Lucknow",
+          "bbox": [
+            70.72,
+            461.35,
+            462.57,
+            469.27
+          ],
+          "block_id": "b9_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  B. K. J AIN\nD R  (M S ) B. S WAMINATHAN  (  Alternate  )\nThe Fertilizer Association of India, New Delhi",
+          "bbox": [
+            70.72,
+            473.59,
+            425.16,
+            490.51
+          ],
+          "block_id": "b9_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  G. K. G UREJA\nD R  A. K. W AGLE  (  Alternate  )\nThermax Ltd, Pune",
+          "bbox": [
+            70.72,
+            494.95,
+            327.4,
+            511.87
+          ],
+          "block_id": "b9_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. L AHIRI\nS HRI  B. B. D AVE  (  Alternate  )\nHindustan Lever Ltd, Bombay",
+          "bbox": [
+            70.72,
+            516.19,
+            367.78,
+            533.11
+          ],
+          "block_id": "b9_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  W. M ADHAVAKRISHNA\nS HRI  S. R AJAMANI  (  Alternate  )\nCentral Leather Research Institute (CSIR), Madras",
+          "bbox": [
+            70.72,
+            537.55,
+            445.78,
+            554.47
+          ],
+          "block_id": "b9_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. K. M AIRA\nS HRI  A. S AHA  (  Alternate  )\nFlakt India Ltd, Calcutta",
+          "bbox": [
+            70.72,
+            558.79,
+            348.64,
+            575.71
+          ],
+          "block_id": "b9_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. K. M ALHOTRA\nS HRI  S. K. J AIN  (  Alternate  )\nIndian oil Corporation Ltd (R & D Centre), Faridabad",
+          "bbox": [
+            70.72,
+            580.15,
+            453.52,
+            597.07
+          ],
+          "block_id": "b9_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. N. K ALE\nS HRI  V. S. M AHAJAN  (  Alternate  )\nMunicipal Corporation of Greater Bombay",
+          "bbox": [
+            70.72,
+            601.39,
+            411.34,
+            618.31
+          ],
+          "block_id": "b9_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. K. M ATHUR\nBhabha Atomic Research Centre (IGCAR), Kalpakkam (TN)",
+          "bbox": [
+            70.72,
+            622.75,
+            477.3,
+            630.67
+          ],
+          "block_id": "b9_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. M. M ODAK\nP ROF  H. V EERAMANI  (  Alternate  )\nIndian Institute of Technology, Bombay",
+          "bbox": [
+            70.72,
+            634.99,
+            401.7,
+            651.91
+          ],
+          "block_id": "b9_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  K. P. N YATI\nS HRI  L. P ANEERSELVAM  (  Alternate  )\nNational Productivity Council, New Delhi",
+          "bbox": [
+            70.72,
+            656.35,
+            409.32,
+            673.27
+          ],
+          "block_id": "b9_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  B. P ADMANABHAMURTHY\nJawaharlal Nehru University, New Delhi",
+          "bbox": [
+            70.72,
+            677.59,
+            408.14,
+            685.51
+          ],
+          "block_id": "b9_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  T. S. P ATEL\nS HRI  C. V. R AIYANI  (  Alternate  )\nNational Institute of Occupational Health (ICMR), Ahmadabad",
+          "bbox": [
+            70.72,
+            689.95,
+            488.86,
+            706.87
+          ],
+          "block_id": "b9_35",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  V. V . R AO\nD R  M. A TCHAYYA  (  Alternate  )\nDharmsi Morarji Chemical Co Ltd, Bombay",
+          "bbox": [
+            70.72,
+            711.19,
+            416.36,
+            728.11
+          ],
+          "block_id": "b9_36",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(  Continued on page  8 )",
+          "bbox": [
+            439.12,
+            737.47,
+            524.32,
+            745.39
+          ],
+          "block_id": "b9_37",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 3025 (Part 49) : 1994",
+          "bbox": [
+            70.72,
+            55.29,
+            210.48,
+            67.29
+          ],
+          "block_id": "b10_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  Continued from page  7 )",
+          "bbox": [
+            70.72,
+            84.19,
+            164.32,
+            92.11
+          ],
+          "block_id": "b10_2",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members\nRepresenting",
+          "bbox": [
+            94.36,
+            99.91,
+            337.65,
+            107.83
+          ],
+          "block_id": "b10_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. S. R AMANATHAN\nPesticides Association of India, New Delhi\nS HRI  D. N. V. R AO\nS HRI  R. J. B UCH  (  Alternate  )\nTata Chemicals Ltd, Bombay",
+          "bbox": [
+            70.72,
+            112.27,
+            410.74,
+            138.67
+          ],
+          "block_id": "b10_4",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  S. R OUTH\nD R  J. C. N IJHAWAN  (  Alternate  )\nNational Test House, Calcutta",
+          "bbox": [
+            70.72,
+            140.11,
+            367.59,
+            157.03
+          ],
+          "block_id": "b10_5",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  P. R. S AMADDAR\nS HRI  P. K. S EN  (  Alternate  )\nCentral Mechanical Engg Research Institute (CSIR), Durgapur",
+          "bbox": [
+            70.72,
+            158.47,
+            488.48,
+            175.39
+          ],
+          "block_id": "b10_6",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. C. S HARMA\nS HRI  R. N. G UPTA  (  Alternate  )\nIndia Meteorological Department, New Delhi",
+          "bbox": [
+            70.72,
+            176.95,
+            421.7,
+            193.87
+          ],
+          "block_id": "b10_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. P. S INGH\nS HRI  N. C. T IWARI  (  Alternate  )\nDirectorate General of Technical Development, New Delhi",
+          "bbox": [
+            70.72,
+            195.31,
+            470.19,
+            212.23
+          ],
+          "block_id": "b10_8",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. S UBBA  R AO\nD R  T. C HANDINI  (  Alternate  )\nMinistry of Environment & Forests",
+          "bbox": [
+            70.72,
+            213.67,
+            385.54,
+            230.59
+          ],
+          "block_id": "b10_9",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. M. S UNDARAM\nS HRI  C. K RISHNA  R AO  (  Alternate  )\nNational Malaria Eradication Programme (DGHS), Delhi",
+          "bbox": [
+            70.72,
+            232.15,
+            466.54,
+            249.07
+          ],
+          "block_id": "b10_10",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S URENDER  K UMAR\nS HRI  R. P ARTHASARTHY  (  Alternate  )\nIndian Chemical Manufacturers Association, New Delhi",
+          "bbox": [
+            70.72,
+            250.51,
+            462.0,
+            267.43
+          ],
+          "block_id": "b10_11",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPERINTENDING  E NGINEER\nE XECUTIVE  E NGINEER  (  Alternate  )\nPanchayat Raj Department, Government of Andhra Pradesh, Hyderabad",
+          "bbox": [
+            70.72,
+            268.87,
+            524.28,
+            285.79
+          ],
+          "block_id": "b10_12",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  J. M. T ULI\nS HRI  S. N. C HAKRABARTI  (  Alternate  )\nEngineers India Ltd, New Delhi",
+          "bbox": [
+            70.72,
+            287.35,
+            373.35,
+            304.27
+          ],
+          "block_id": "b10_13",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  R. K. S INGH ,\nDirector (Chem)\nDirector General, BIS (  Ex-officio Member  )",
+          "bbox": [
+            70.72,
+            305.71,
+            414.4,
+            322.63
+          ],
+          "block_id": "b10_14",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Member Secretary\nS HRI  T. R ANGASAMY\nJoint Director (Chem), BIS",
+          "bbox": [
+            247.72,
+            326.11,
+            347.16,
+            354.07
+          ],
+          "block_id": "b10_15",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Water Environment Subcommittee, CHD 012 : 01",
+          "bbox": [
+            182.8,
+            366.25,
+            412.26,
+            376.21
+          ],
+          "block_id": "b10_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Convener",
+          "bbox": [
+            94.36,
+            383.95,
+            128.6,
+            391.87
+          ],
+          "block_id": "b10_17",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  Y. P. K AKAR\nMinistry of Environment & Forests",
+          "bbox": [
+            70.72,
+            396.31,
+            385.54,
+            404.23
+          ],
+          "block_id": "b10_18",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Members",
+          "bbox": [
+            94.36,
+            408.67,
+            127.63,
+            416.59
+          ],
+          "block_id": "b10_19",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. B. C. A GARWALA\nS HRI  A. K. G UPTA  (  Alternate  )\nBharat Heavy Electricals Ltd, Hyderabad",
+          "bbox": [
+            70.72,
+            421.15,
+            409.21,
+            439.03
+          ],
+          "block_id": "b10_20",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  A. B ASU\nS HRI  A. K. J INDAL  (  Alternate  )\nThermax Ltd, Pune",
+          "bbox": [
+            70.72,
+            440.47,
+            327.4,
+            458.47
+          ],
+          "block_id": "b10_21",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  M. S. D HINGRA\nS HRI  V. G. K. N AIR  (  Alternate  )\nShriram Institute for Industrial Research, Delhi",
+          "bbox": [
+            70.72,
+            459.91,
+            433.72,
+            477.79
+          ],
+          "block_id": "b10_22",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  E. K. J AYANARAYANAN\nS HRI  K. K. M ITTU  (  Alternate  )\nMohan Meakin Ltd, Mohan Nagar",
+          "bbox": [
+            70.72,
+            479.35,
+            382.01,
+            497.23
+          ],
+          "block_id": "b10_23",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. I SLAM\nCentral Pulp and Paper Research Institute, Saharanpur\nS HRI  F. L AL  K ANSAL\nS HRI  S. S. S ANGHA  (  Alternate  )\nPunjab Pollution Control Board, Patiala",
+          "bbox": [
+            70.72,
+            498.67,
+            463.15,
+            526.03
+          ],
+          "block_id": "b10_24",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  D. D. K UMTA\nD R  K. C. P ATHAK  (  Alternate  )\nTata Chemicals Ltd, Bombay",
+          "bbox": [
+            70.72,
+            527.47,
+            362.89,
+            545.47
+          ],
+          "block_id": "b10_25",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P ROF  K. J. N ATH\nP ROF  A. K. A DHYA  (  Alternate  )\nAll India Institute of Hygiene & Public Health, Calcutta",
+          "bbox": [
+            70.72,
+            546.91,
+            462.54,
+            564.79
+          ],
+          "block_id": "b10_26",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  R. N ATH\nD R  S. R ATAN  (  Alternate  )\nBanaras Hindu University, Varanasi",
+          "bbox": [
+            70.72,
+            566.35,
+            391.82,
+            584.23
+          ],
+          "block_id": "b10_27",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  S. R. P ANDE\nD R  M. V. N ANOTI  (  Alternate  )\nNational Environment Engineering Research Institute (CSIR), Nagpur",
+          "bbox": [
+            70.72,
+            585.67,
+            517.62,
+            603.67
+          ],
+          "block_id": "b10_28",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R  P. M. P HIRKE\nD R  S. R. J OSHI  (  Alternate  )\nNational Environment Engineering Research Institute (CSIR), Nagpur",
+          "bbox": [
+            70.72,
+            605.11,
+            517.62,
+            622.99
+          ],
+          "block_id": "b10_29",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. P RAKASH\nS HRI  S. S. R AMRAKHYANI  (  Alternate  )\nDelhi Water Supply & Sewage Disposal Undertaking, New Delhi",
+          "bbox": [
+            70.72,
+            624.55,
+            494.69,
+            642.43
+          ],
+          "block_id": "b10_30",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  R. V. R AO\nS HRI  D. K. K AUSHIK  (  Alternate  )\nCentral Water Commission, New Delhi",
+          "bbox": [
+            70.72,
+            643.87,
+            399.49,
+            661.87
+          ],
+          "block_id": "b10_31",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "R EPRESENTATIVE\nMinistry of Rural Development\nR EPRESENTATIVE\nU. P. Jal Nigam, Lucknow\nD R  B. S ENGUPTA\nD R  R. C. T RIVEDI  (  Alternate  )\nCentral Pollution Control Board, Delhi",
+          "bbox": [
+            70.72,
+            663.31,
+            398.54,
+            700.03
+          ],
+          "block_id": "b10_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S UPERINTENDING  E NGINEER\nE XECUTIVE  E NGINEER  (  Alternate  )\nPanchayat Raj Department, Government of Andhra Pradesh, Hyderabad",
+          "bbox": [
+            70.72,
+            701.47,
+            524.28,
+            719.47
+          ],
+          "block_id": "b10_33",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "S HRI  S. R. T AMTA\nS HRI  K. R AJAGOPALAN  (  Alternate  )\nCentral Ground Water Board, New Delhi",
+          "bbox": [
+            70.72,
+            720.91,
+            406.95,
+            738.79
+          ],
+          "block_id": "b10_34",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D R . P. N. V ISWANATHAN\nIndustrial Toxicology Research Centre (CSIR), Lucknow",
+          "bbox": [
+            70.72,
+            740.35,
+            462.57,
+            748.27
+          ],
+          "block_id": "b10_35",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            294.76,
+            764.29,
+            300.3,
+            774.25
+          ],
+          "block_id": "b10_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            70.72,
+            69.88,
+            201.43,
+            78.88
+          ],
+          "block_id": "b11_0",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote\nharmonious development of the activities of standardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            70.72,
+            87.28,
+            524.37,
+            116.33
+          ],
+          "block_id": "b11_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            70.72,
+            126.28,
+            118.23,
+            135.28
+          ],
+          "block_id": "b11_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            70.72,
+            143.81,
+            524.33,
+            182.81
+          ],
+          "block_id": "b11_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            70.72,
+            192.88,
+            201.26,
+            201.88
+          ],
+          "block_id": "b11_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also\nreviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no\nchanges are needed; if the review indicates that changes are needed, it is taken up for revision. Users of\nIndian Standards should ascertain that they are in possession of the latest amendments or edition by\nreferring to the latest issue of \u2018BIS Catalogue\u2019 and \u2018Standards : Monthly Additions\u2019.",
+          "bbox": [
+            70.72,
+            210.29,
+            524.42,
+            259.37
+          ],
+          "block_id": "b11_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Doc : No. CHD 012 (172).",
+          "bbox": [
+            70.72,
+            267.29,
+            372.29,
+            276.29
+          ],
+          "block_id": "b11_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            207.76,
+            297.28,
+            387.09,
+            306.28
+          ],
+          "block_id": "b11_7",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue",
+          "bbox": [
+            70.72,
+            314.32,
+            282.29,
+            323.32
+          ],
+          "block_id": "b11_8",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amd. No. 1\nOctober 2000",
+          "bbox": [
+            70.72,
+            331.37,
+            276.83,
+            340.37
+          ],
+          "block_id": "b11_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS",
+          "bbox": [
+            203.2,
+            516.21,
+            391.74,
+            526.17
+          ],
+          "block_id": "b11_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:",
+          "bbox": [
+            70.72,
+            534.41,
+            131.08,
+            543.41
+          ],
+          "block_id": "b11_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.\nTelephones: 323 01 31, 323 33 75, 323 94 02\nTelegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            70.72,
+            551.33,
+            524.32,
+            570.41
+          ],
+          "block_id": "b11_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:\nTelephone",
+          "bbox": [
+            70.72,
+            578.33,
+            524.38,
+            587.33
+          ],
+          "block_id": "b11_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            477.88,
+            593.53,
+            481.32,
+            614.6
+          ],
+          "block_id": "b11_20",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n: Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002\n323 76 17\n323 38 41",
+          "bbox": [
+            70.72,
+            595.37,
+            524.28,
+            614.33
+          ],
+          "block_id": "b11_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            620.53,
+            438.58,
+            641.6
+          ],
+          "block_id": "b11_21",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi\nKOLKATA 700054\n337 84 99, 337 85 61\n337 86 26, 337 91 20",
+          "bbox": [
+            70.72,
+            622.37,
+            524.29,
+            641.33
+          ],
+          "block_id": "b11_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            484.6,
+            648.49,
+            488.04,
+            669.56
+          ],
+          "block_id": "b11_22",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022\n60 38 43\n60 20 25",
+          "bbox": [
+            70.72,
+            649.37,
+            524.17,
+            668.33
+          ],
+          "block_id": "b11_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            675.49,
+            438.58,
+            696.56
+          ],
+          "block_id": "b11_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113\n235 02 16, 235 04 42\n235 15 19, 235 23 15",
+          "bbox": [
+            70.72,
+            676.37,
+            524.29,
+            695.33
+          ],
+          "block_id": "b11_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\uf8f3\n\uf8f2\n\uf8f1",
+          "bbox": [
+            432.88,
+            701.53,
+            438.58,
+            722.6
+          ],
+          "block_id": "b11_24",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n: Manakalaya, E9 MIDC, Marol, Andheri (East)\nMUMBAI 400093\n832 92 95, 832 78 58\n832 78 91, 832 78 92",
+          "bbox": [
+            70.72,
+            703.37,
+            524.29,
+            722.33
+          ],
+          "block_id": "b11_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.\nFARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.\nLUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.\nVISHAKHAPATNAM.",
+          "bbox": [
+            70.72,
+            730.37,
+            521.28,
+            772.37
+          ],
+          "block_id": "b11_19",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "(AGG AAS ON)\nsilal TO fatop\nfh 44 4 all\nlol / / / wv 4) Stal\nBd Hd fales Act (aller Gol 4il alltel)\nSMAANA silos",
+      "position": {
+        "x0": 124.24,
+        "y0": 120.72,
+        "x1": 469.84,
+        "y1": 261.96,
+        "width": 345.6,
+        "height": 141.24
+      },
+      "size": {
+        "width": 2880,
+        "height": 1177
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 7,
+      "path": "pdf_images/p7_i1.png",
+      "text": "AIMC\nVAVICYNVIED Fee ree\nMV LE\neps = =\nAVVVDVLE \u00ae HCI =\nVAW WELV\n\u2014<_-\u2014\u2014\n10 CET , 2CbNBBES y yy\nq ns\nWAN \u2014__",
+      "position": {
+        "x0": 155.68,
+        "y0": 330.12,
+        "x1": 436.96,
+        "y1": 468.84,
+        "width": 281.28,
+        "height": 138.72
+      },
+      "size": {
+        "width": 2344,
+        "height": 1156
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 3,
+      "page": 8,
+      "path": "pdf_images/p8_i1.png",
+      "text": "= : ETECINODE\n\u2014 : q tt CONMIEL\ni= AS\nQQ\naw | : 4a 1 seve",
+      "position": {
+        "x0": 151.84,
+        "y0": 88.92,
+        "x1": 441.76,
+        "y1": 346.2,
+        "width": 289.92,
+        "height": 257.28
+      },
+      "size": {
+        "width": 2416,
+        "height": 2144
+      },
+      "format": "png"
+    }
+  ]
+}

@@ -1,0 +1,2670 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>lS/lSO~R
+10013:2001<<HEADING_END>>
+<<HEADING level=1>>Wfk?fl RIG-m<<HEADING_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>GUIDELINES
+FOR QUALITY
+MANAGEMENT
+SYSTEM
+DOCUMENTATION<<HEADING_END>>
+<<HEADING level=2>>(First Revision)<<HEADING_END>>
+<<PARAGRAPH>>ICS 03.120.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>@ BIS 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF
+IN
+DIANST
+AN
+DARDS
+MANAK
+BHAVAN,
+9
+BAHADUR
+SHAH
+ZAFAR
+MARG
+NEW
+DELHI
+110002<<HEADING_END>>
+<<PARAGRAPH>>May 2002
+Price
+Group
+7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Quality
+Management
+Sectional
+Committee,
+MSD 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>NATIONAL
+FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard
+(First Revision)
+which is identical
+with lSO/TR
+10013:2001
+‘Guidelines
+for quality
+management
+system documentation’
+issued by the International
+Organization
+for Standardization
+(ISO)
+was adopted
+by the Bureau
+of Indian Standards
+on the recommendation
+of the Quality
+Management
+Sectional
+Committee
+(MSD 2) and approval
+of the Management
+and Systems
+Division
+Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This
+is the
+first
+revision
+of 1S/1S0 10013:1995,
+which
+was
+published
+in 1996,
+In this
+revision,
+ISO~R
+10013:2001
+has been adopted
+so as to make Indian Standard
+identical
+with the International
+Technical
+Report. Therefore,
+this standard
+cancels
+and replaces
+1S/1S0 10013:1995.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The text of the ISO Standard
+has been approved
+as suitable
+for publication
+as Indian Standard
+without
+deviations.
+Certain
+conventions
+are, however, not identical
+to those used in Indian Standards.
+Attention
+is particularly
+drawn to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wherever
+the words ‘International
+Standard’
+appear
+referring
+to this standard,
+they should
+be
+read as ‘Indian
+Standard’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In this adopted
+standard,
+normative
+reference
+appears
+to the following
+International
+Standard,
+for
+which an Indian Standard
+also exists. The corresponding
+Indian Standard,
+which is to be substituted
+in
+its place, is listed below along with its degree
+of equivalence
+for the edition
+indicated:<<PARAGRAPH_END>>
+<<PARAGRAPH>>International
+Corresponding
+Degree
+of
+Standard
+Indian Standard
+Equivalence<<PARAGRAPH_END>>
+<<PARAGRAPH>>1s0 9000:2000
+1S/1S0
+9000:2000
+Quality
+management
+systems
+—
+Identical
+Fundamentals
+and vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>in the adopted
+standard,
+informative
+references
+appear
+to certain
+International
+Standards
+for which
+Indian Standards
+also exist. The corresponding
+Indian Standards,
+which
+are to be substituted
+in their
+place, are listed below along with their degree
+of equivalence
+for the editions
+indicated:<<PARAGRAPH_END>>
+<<PARAGRAPH>>International
+Corresponding
+Degree
+of
+Standard
+Indian Standard
+Equivalence<<PARAGRAPH_END>>
+<<PARAGRAPH>>1s0 9001:2000
+1s/1s0
+9001
+: 2000
+Quality
+management
+systems
+—
+Identical
+Requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>1s0 9004:2000
+1S/1S0
+9004:2000
+Quality
+management
+system
+—
+do
+Guidelines
+for performance
+improvements<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=2>>lndian Standard<<HEADING_END>>
+<<HEADING level=2>>GUIDELINES
+FOR QUALITY MANAGEMENT
+SYSTEM DOCUMENTATION
+(First Revision)<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This Technical
+Report
+provides
+guidelines
+for the development
+and maintenance
+of the documentation
+necessary
+to ensure
+an effective
+quality
+management
+system,
+tailored
+to the specific
+needs
+of the organization.
+The use of
+these
+guidelines
+will aid in establishing
+a documented
+system
+as requirti
+by the applicable
+quality
+management
+system standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Technical
+Report
+may be used to document
+management
+systems
+other than that of the ISO 9000 family,
+for
+example
+environmental
+management
+systems
+and safety management
+systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+When a procedure is documented, the term “written procedure”
+or “documented procedure” is frequently used.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative
+reference<<HEADING_END>>
+<<PARAGRAPH>>The following
+normative
+document
+contains
+provisions
+which, through
+reference
+in this text, constitute
+provisions
+of
+this Technical
+Report.
+For dated
+references,
+subsequent
+amendments
+to, or revisions
+of, any of these
+publications
+do not apply.
+However,
+parties
+to agreements
+based
+on this Technical
+Report
+are encouraged
+to investigate
+the
+possibility
+of applying
+the most recent edition
+of the normative
+document
+indicated
+below.
+For undated
+references,
+the latest
+edition
+of the
+normative
+document
+refered
+to applies.
+Members
+of ISO and
+IEC maintain
+registers
+of
+currently
+valid International
+Standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 9000:2000,
+Quality management
+systems — Fundamentals
+and vocabulary<<HEADING_END>>
+<<HEADING level=3>>3
+Terms
+and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes
+of this Technical
+Report,
+the terms and definitions
+given in ISO 9000 and the following
+apply.
+An
+organization’s
+quality
+management
+system
+may use different
+terminology
+for the defined
+types of documentation.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+work instructions
+detailed
+descriptions
+of how to perform
+and record tasks<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1
+Work instructions may be documented or not.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+Work Instructions may be, for example, detailed written descriptions, flowcharts, templates, models, technical notes
+incorporated into drawings, specifications, equipment instruction manuals, pictures, videos, checklists, or combinations thereof.
+Work instructions should describe any materials, equipment and documentation to be used. When relevant, work instructions
+include acceptance criteria.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2
+form
+document
+used to record data required
+by the quality
+management
+system<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+A form becomes a record when data are entered.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>iS/lSO/TR
+10013:2001<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Quality
+management
+system
+d~,cumentation<<HEADING_END>>
+<<HEADING level=3>>4.1
+General<<HEADING_END>>
+<<PARAGRAPH>>The
+arrangement
+of quality
+management
+system
+documentation
+typically
+follows
+either
+the
+processes
+of the
+organization
+or the structure
+of the applicable
+quality
+standard,
+or a combination
+of both.
+Any other
+arrangement
+that satisfies
+the organization’s
+needs may also be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The structure
+of the documentation
+used in the quality
+management
+system
+maybe
+described
+as a hierarchy.
+This
+structure
+facilitates
+the distribution,
+maintenance
+and
+understanding
+of the documentation.
+Annex
+A illustrates
+a
+typical
+hierarchy
+of quality
+management
+system
+documentation.
+The development
+of a hierarchy
+depends
+on the
+circumstances
+of the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The extent
+of the quality
+management
+~ystem documentation
+can differ from one organization
+to another
+due to<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the size of the organization
+and type of activities,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the complexity
+of processes
+and their interactions,
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the competence
+of personnel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+quality
+management
+system
+documentation
+may
+include
+definitions.
+The
+vocabulary
+used
+should
+be
+in
+accordance
+with standard
+definitions
+and terms, which are referenced
+in ISO 9000 or in general
+dictionary
+usage.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality
+management
+system
+documentation
+usually includes
+the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>quality
+policy and its objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>quality
+manual;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>documented
+procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>work instructions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>forms;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>quality
+plans;
+,<<PARAGRAPH_END>>
+<<PARAGRAPH>>specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>9)<<PARAGRAPH_END>>
+<<PARAGRAPH>>external
+documents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Quality
+management
+system documentation
+may be in any type of media,
+such as hard copy or electronic
+media.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Some advantages of using electronic media are the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>appropriate personnel have access to the same up-to-date information at all times;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>access and changes are easily made and controlled;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>distribution is immediate and easily controlled with the option of printing hard copies;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>there is access to documents from remote locations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>withdrawal of obsolete documents is simple and effective.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=3>>4.2
+Purposes and benefits<<HEADING_END>>
+<<PARAGRAPH>>The purposes
+and benefits
+of having
+quality
+management
+system
+documentation
+for an organization
+include,
+but
+are not limited to, the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>describing
+the quality
+management
+system
+of the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+information
+for cross-functional
+groups
+so that they may better understand
+interrelationships;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>communicating
+to employees
+management’s
+commitment
+to quality;<<PARAGRAPH_END>>
+<<PARAGRAPH>>helping
+employees
+to understand
+their
+role within
+the organization,
+thus
+giving
+them
+an increased
+sense
+of
+purpose
+and importance
+of their work;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+mutual
+understanding
+between
+employees
+and management;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a basis for expectations
+of work performance;
+\<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>stating how things
+are to be done in order to achieve
+specified
+requirements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>9)<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+objective
+evidence
+that specified
+requirements
+have been achieved;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a clear, efficient
+framework
+of operation;<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a basis for training
+new employees
+and periodic
+restraining
+of current
+employees;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a basis for order and balance
+within the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+consistency
+in operations
+based on documented
+processes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a basis for continual
+improvement;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m)<<PARAGRAPH_END>>
+<<PARAGRAPH>>n)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+customer
+confidence
+based on documented
+systems;<<PARAGRAPH_END>>
+<<PARAGRAPH>>o)<<PARAGRAPH_END>>
+<<PARAGRAPH>>demonstrating
+to interested
+parties
+the capabilities
+within the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a clear framework
+of requirements
+for suppliers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>P)<<PARAGRAPH_END>>
+<<PARAGRAPH>>providing
+a basis for auditing
+the quality
+management
+system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>@ -<<PARAGRAPH_END>>
+<<PARAGRAPH>>r)
+providing
+a basis for evaluating
+the effectiveness
+and continuing
+suitability
+of the quality
+management
+system.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3
+Quality
+policy and its objectives<<HEADING_END>>
+<<PARAGRAPH>>The quality
+policy and its objectives
+should
+be documented
+and may be an independent
+document
+or be included
+in the quality
+manual.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4
+Quality
+manual<<HEADING_END>>
+<<HEADING level=3>>4.4.1
+Contents<<HEADING_END>>
+<<PARAGRAPH>>A quality
+manual
+is unique to each organization.
+This Technical
+Report allows for flexibility
+in defining
+the structure,
+format,
+content,
+or
+method
+of presentation
+for
+documenting
+the
+quality
+management
+system
+for
+all
+types
+of
+organizations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A small
+organization
+may find
+it appropriate
+to include
+the description
+of its
+within
+a single
+manual,
+including
+all
+the
+documented
+procedures
+required
+entire
+quality
+management
+system
+by
+ISO 9001.
+Large,
+multinational<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>lS/lSO/TR
+10013:2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>organizations
+may need several
+manuals
+at the global,
+national
+or regional
+level,
+documentation.
+and a more complex
+hierarchy
+of<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality
+manual
+should
+include
+the scope
+of the quality
+management
+system,
+the details
+of and justification
+for
+any exclusion,
+the documented
+procedures
+or reference
+to them,
+and a description
+of the processes
+of the quality
+management
+system
+and their interactions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Information
+about the organization,
+such as name,
+location
+and means
+of communication,
+should
+be included
+in the
+quality
+manual.
+Additional
+information
+such as its line of business,
+a brief description
+of its background,
+history
+and
+size may also be included.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A quality
+manual
+should
+contain
+the elements
+described
+in 4.4.2 to 4.4.9, but not necessarily
+in the same order.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.2
+Title
+and scope<<HEADING_END>>
+<<PARAGRAPH>>The
+title
+and/or
+scoc)e of the aualitv
+manual
+should
+define
+the
+organization
+to which
+the
+manual
+applies.
+The
+manual
+should
+make
+reference
+to’ the
+specific
+quality
+manage~ent
+system
+standard
+on
+which
+“the
+management
+system
+is based.<<PARAGRAPH_END>>
+<<PARAGRAPH>>quality<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.3
+Table of contents<<HEADING_END>>
+<<PARAGRAPH>>The table
+of contents
+of the quality
+manual
+should
+list the number
+and title of each section
+and its location.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.4
+Review,
+approval and revision<<HEADING_END>>
+<<PARAGRAPH>>Evidence
+of the review,
+approval,
+revision
+status and date of the quality
+manual
+should
+be clearly
+indicated
+in the
+manual.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where
+practicable,
+the nature of the change
+should
+be identified
+in the document
+or the appropriate
+attachments.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.5
+Quality policy and objectives<<HEADING_END>>
+<<PARAGRAPH>>Where
+the organization
+elects to include
+the quality
+policy
+in the quality
+manual,
+the quality
+manual
+may include
+a
+statement
+of the quality
+policy and the objectives
+for quality.
+The actual quality
+goals to meet these
+objectives
+may
+be specified
+in another
+part of the quality
+management
+system
+documentation
+as determined
+by the organization.
+The
+quality
+policy
+should
+include
+a commitment
+to
+comply
+with
+requirements
+and
+continually
+improve
+the
+effectiveness
+of the quality
+management
+system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Objectives
+are typically
+derived
+from the organization’s
+quality
+policy and are to be achieved.
+When
+the objectives
+are quantified
+they become
+goals and are measurable.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.6
+Organization, responsibility and authority<<HEADING_END>>
+<<PARAGRAPH>>The quality
+manual
+should
+provide
+a description
+of the structure
+of the organization.
+Responsibility,
+authority
+and
+interrelation
+may
+be indicated
+by such means
+as organization
+charts,
+flow charts
+and/or
+job descriptions.
+These
+may be included
+or referenced
+in the quality
+manual.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.7
+References<<HEADING_END>>
+<<PARAGRAPH>>The quality
+manual
+should
+contain
+a list of documents
+referred
+to but not included
+in the manual.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.8
+Quality  management
+system description<<HEADING_END>>
+<<PARAGRAPH>>The
+quality
+manual
+should
+provide
+a description
+of the quality
+management
+system
+and its implementation
+in the
+organization.
+Descriptions
+of the
+processes
+and
+their
+“interactions
+‘should
+be
+included
+Documented
+procedures
+or references
+to them should
+be included
+in the quality
+manual.<<PARAGRAPH_END>>
+<<PARAGRAPH>>in the
+quality
+manual.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<PARAGRAPH>>The organization
+should
+document
+its specific
+quality
+management
+system
+following
+the sequence
+of the process
+flow or the structure
+of the selected
+standard
+or any sequencing
+appropriate
+to the organization.
+Cross-referencing
+between
+the se!ected
+standard
+and the quality
+manual
+maybe
+useful.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality
+manual
+should
+reflect the methods
+used by the organization
+to satisfy
+its policy and objectives.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.9
+Appendices<<HEADING_END>>
+<<PARAGRAPH>>Appendices
+containing
+information
+supportive
+to the manual
+maybe
+included.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5
+Documented
+procedures<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5,1
+Structure and format<<HEADING_END>>
+<<PARAGRAPH>>The structure
+and format
+of the documented
+procedures
+(hard copy or electronic
+media)
+should
+be defined
+by the
+organization
+in the
+following
+ways:
+text,
+flow
+charts,
+tables,
+a combination
+of the
+above,
+or any
+other
+suitable
+method
+in accordance
+with
+the
+needs
+of the
+organization.
+The
+documented
+procedures
+should
+contain
+the
+necessary
+information
+(see 4.5.2) and should contain
+a unique
+identification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Documented
+procedures
+may
+make
+reference
+to work
+instructions
+that
+define
+how
+an
+activity
+is performed.
+Documented
+procedures
+generally
+describe
+activities
+that
+cross
+different
+functions,
+while
+work
+instructions
+generally
+apply to tasks within one function.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2
+Contents<<HEADING_END>>
+<<HEADING level=3>>4.5.2.1
+Title<<HEADING_END>>
+<<PARAGRAPH>>The title should clearly
+identify
+the documented
+procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5.2.2
+Purpose<<PARAGRAPH_END>>
+<<PARAGRAPH>>The purpose
+of the documented
+procedure
+should
+be defined.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2.3
+Scope<<HEADING_END>>
+<<PARAGRAPH>>The scope of the documented
+procedure,
+including
+the areas to be covered
+and areas not to be covered,
+should
+be
+described.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2.4
+Responsibility and authority<<HEADING_END>>
+<<PARAGRAPH>>The responsibility
+and authority
+of people
+and/or
+organizational
+functions,
+as well as their interrelations
+associated
+with the processes
+and activities
+described
+in the procedure,
+should
+be identified.
+These
+may be described
+in the
+procedure
+in the form of flow charts and descriptive
+text as appropriate
+for clarity.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2.5
+Description of activities<<HEADING_END>>
+<<PARAGRAPH>>The level of detail may vary depending
+on the complexity
+of the activities,
+the methods
+used, and the levels of skills
+and training
+of people
+that is necessary
+in order for them
+to accomplish
+the activities.
+Irrespective
+of the level of
+detail, the following
+aspects
+should
+be considered
+as applicable:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+defining
+the needs of the organization,
+its customers
+and suppliers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+describing
+the processes
+in terms of text and/or flow charts related to the required
+activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+establishing
+what is to be done, by whom or by which organizational
+function;
+why, when, where and how;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+describing
+process
+controls
+and controls
+of the identified
+activities;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<PARAGRAPH>>e)
+defining
+the
+necessary
+resources
+for the
+accomplishment
+of the
+activities
+(in terms
+of personnel,
+training,
+equipment
+and materials);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+defining
+the appropriate
+documentation
+related to the required
+activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+defining
+the input and output of the process;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+defining
+the measurements
+to be taken.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization
+may decide that some of the above
+information
+is more appropriate
+in a work instruction.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2.6
+Records<<HEADING_END>>
+<<PARAGRAPH>>The
+records
+related
+to the
+activities
+in the
+documented
+procedure
+should
+be
+defined
+in this
+section
+of the
+documented
+procedure
+or in other related section(s).
+The forms to be used for these
+records
+should
+be identifiedas
+applicable.
+The method
+required
+to complete,
+file and keep the records
+should
+be stated.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2.7
+Appendices<<HEADING_END>>
+<<PARAGRAPH>>Appendices
+containing
+information
+supportive
+to the
+documented
+procedure
+may
+be included,
+such
+as tables,
+graphs,
+flow charts and forms.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.3
+Review, approval and revision<<HEADING_END>>
+<<PARAGRAPH>>Evidence
+of review and approval,
+status and date of revision
+of the documented
+procedure
+should
+be indicated.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.4
+Identification of changes<<HEADING_END>>
+<<PARAGRAPH>>Where
+practicable,
+the
+nature
+of the
+change
+should
+be
+identified
+either
+in the
+document
+or the
+appropriate
+attach ments.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.6
+Work
+instructions<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6.1
+Structure and format<<HEADING_END>>
+<<PARAGRAPH>>Work
+instructions
+should
+be developed
+and
+maintained
+to describe
+the
+performance
+of all work
+that
+would
+be
+adversely
+affected
+by lack of such instructions.
+There are many ways of preparing and presenting instructions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Work
+instructions
+should contain
+the title and a unique
+identification.
+(This information
+is stated
+in 4.6.4.)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+structure,
+format
+and
+level
+of detail
+used
+in the
+work
+instructions
+should
+be tailored
+to the
+needs
+of the
+organization’s
+personnel
+and depends
+on the complexity
+of the work, the methods
+used, training
+undertaken,
+and
+the skills and qualifications
+of such personnel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The structure
+of the work instructions
+may vary from that of documented
+procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The work instructions
+may be included
+in the documented
+procedures
+or referenced
+in them.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.6.2
+Contents<<PARAGRAPH_END>>
+<<PARAGRAPH>>Work
+instructions
+should
+describe
+critical
+activities.
+Details which do not give more control
+of the activity
+should
+be
+avoided.
+Training
+can
+reduce
+the
+need
+for
+detailed
+instructions,
+provided
+the
+persons
+concerned
+have
+the
+information
+necessary
+to do their jobs correctly.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001
+.<<HEADING_END>>
+<<HEADING level=3>>4.6,3
+Types of work instructions<<HEADING_END>>
+<<PARAGRAPH>>Although
+there
+is no required
+structure
+or format
+for work
+instructions,
+they generally
+should
+convey
+the purpose
+and scope of the work and the objectives,
+and make reference
+to the pertinent
+documented
+procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Whichever
+format
+or combination
+is chosen,
+the
+work
+instructions
+should
+be
+in the
+order
+or sequence
+of the
+operations,
+accurately
+reflecting
+the requirements
+and relevant
+activities.
+To reduce
+confusion
+and uncertainty,
+a
+consistent
+format
+or structure
+should
+be established
+and maintained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>An example
+of work instructions
+is given in annex
+B.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6.4
+Review, approval and revision<<HEADING_END>>
+<<PARAGRAPH>>The organization
+should
+provide
+clear evidence
+of review
+and approval
+of work instructions
+and their revision
+level
+and date of revision.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6.5
+Records<<HEADING_END>>
+<<PARAGRAPH>>Where
+applicable,
+the records
+specified
+in the work instruction
+should
+be defined
+in this section
+or in other
+related
+section(s).
+The
+minimu,m
+records
+required
+are identified
+in ISO 9001.
+The
+method
+required
+to complete,
+file and
+keep the records
+should
+be stated. The forms to be used for these records should
+be identified
+as applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6.6
+Identification of changes<<HEADING_END>>
+<<PARAGRAPH>>Where
+practicable,
+the
+nature
+of the
+change
+should
+be
+identified
+either
+in the
+document
+or the
+appropriate
+attachments,<<PARAGRAPH_END>>
+<<HEADING level=3>>4.7
+Forms<<HEADING_END>>
+<<PARAGRAPH>>Forms
+are developed
+and
+maintained
+to record
+the data
+demonstrating
+compliance
+to the
+requirements
+of the
+quality management
+system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Forms should contain
+a title, identification
+number,
+revision
+level and date of revision.
+Forms
+should
+be referenced
+in, or attached
+to, the quality
+manual,
+documented
+procedures
+and/or work instructions.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.8
+Quality plans<<HEADING_END>>
+<<PARAGRAPH>>A quality plan is a part of quality
+management
+system
+documentation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The quality
+plan needs to refer only to the documented
+quality
+management
+system,
+showing
+how it is to be applied
+to
+the
+specific
+situation
+in
+question,
+and
+identify
+and
+document
+how
+the
+organization
+will
+achieve
+those
+requirements
+that are unique to the particular
+product,
+process,
+project or contract.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+scope
+of
+the
+quality
+plan
+should
+be
+defined.
+The
+quality
+plan
+may
+include
+unique
+procedures,
+work
+instructions,
+and/or
+records.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.9
+Specifications<<HEADING_END>>
+<<PARAGRAPH>>Specifications
+are documents
+stating
+requirements.
+Specifications
+are not further
+detailed
+in this Technical
+Report
+because
+they are unique
+to the product/organization.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.10
+External
+documents<<HEADING_END>>
+<<PARAGRAPH>>The
+organization
+should
+address
+external
+documents
+and
+their
+control
+in its documented
+quality
+management
+system.
+External
+documents
+can include
+customer
+drawings,
+specifications,
+statutory
+and regulatory
+requirements,
+standards,
+codes and maintenance
+manuals.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=3>>4.11
+Records<<HEADING_END>>
+<<PARAGRAPH>>Quality
+management
+system
+records
+state
+results
+achieved
+or
+provide
+evidence
+indicating
+that
+the
+activities
+indicated
+in the
+documented
+procedures
+and
+work
+instructions
+are
+performed.
+The
+records
+should
+indicate
+the
+compliance
+with
+the
+requirements
+of the
+quality
+management
+system
+and
+the
+specified
+requirements
+for
+the
+product.
+The
+responsibilities
+for preparation
+of records
+should
+be addressed
+in the quality
+management
+system
+documentation,<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Records are not generally under revision control as records are not subject to change.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Process
+of preparing
+quality
+management
+system
+documentation<<HEADING_END>>
+<<HEADING level=3>>5.1
+Responsibility
+for preparation<<HEADING_END>>
+<<PARAGRAPH>>Quality
+management
+system
+documentation
+should
+be developed
+by those
+persons
+involved
+with the processes
+and
+activities.
+This
+will
+lead
+to a better
+understanding
+of the
+necessary
+requirements
+and
+provide
+a sense
+of
+involvement
+and ownership
+by personnel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+review
+and utilization
+of existing
+documents
+and references
+can significantly
+shorten
+the quality
+management
+system
+documentation
+development
+time,
+as
+well
+as
+being
+an
+aid
+in
+identifying
+those
+areas
+where
+quality
+management
+system
+inadequacies
+need to be addressed
+and corrected.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2
+Method
+of preparation
+of quality
+management
+system
+documentation<<HEADING_END>>
+<<PARAGRAPH>>Organizations
+that are in the process
+of implementing,
+or have
+yet to implement,
+a quality
+management
+system
+should<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+identify
+the processes
+necessary
+for the effective
+implementation
+of the quality
+management
+system,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+understand
+the interactions
+between
+these processes,
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+document
+the processes
+to the extent necessary
+to assure their effective
+operation
+and control.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Analysis
+of the processes
+should
+be the driving
+force
+for defining
+the amount
+of documentation
+needed
+for the
+quality
+management
+system.
+It should
+not be the documentation
+that drives the processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+sequence
+of
+preparation
+of quality
+management
+system
+documentation
+does
+not
+necessarily
+follow
+the
+hierarchy
+illustrated
+in annex
+A, since documented
+procedures
+and work
+instructions
+are often
+prepared
+prior to
+finalizing
+of the quality
+manual.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following
+represents
+examples
+of actions
+which maybe
+initiated,
+as applicable:<<PARAGRAPH_END>>
+<<PARAGRAPH>>decide
+which
+quality
+management
+system
+documentation
+requirements
+apply according
+to the selected
+quality
+management
+system
+standard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>obtain
+data
+about
+the
+existing
+quality
+management
+system
+and
+processes
+by
+various
+means,
+such
+as
+questionnaires
+and interviews;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>establish
+and list existing
+applicable
+quality
+management
+system
+documents
+and analyse
+them
+to determine
+their usefulness;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>train
+the
+individuals
+involved
+regarding
+the
+preparation
+of
+documentation
+and
+the
+applicable
+quality
+management
+system
+standard
+requirements
+or other selected
+criteria;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>request
+and obtain
+additional
+source documentation
+or references
+from operational
+units;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>determine
+the structure
+and format
+for the intended
+documents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<HEADING level=3>>8<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=3>>g)
+prepare
+flowchads
+coveting
+processes
+within thescope
+of thequality
+system;
+seeannex
+B;<<HEADING_END>>
+<<PARAGRAPH>>h)
+analyse
+the flowcharts
+for possible
+improvements
+and implement
+these improvements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+validate
+the documentation
+through
+trial implementation;<<PARAGRAPH_END>>
+<<PARAGRAPH>>management
+system<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+use
+any
+other
+method
+suitable
+within
+the
+organization
+to
+complete
+the
+quality
+documentation;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+review and approve
+documentation
+before
+release.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3
+Use of references<<HEADING_END>>
+<<PARAGRAPH>>Whenever
+appropriate,
+and
+to
+limit
+the
+size
+of
+the
+documentation,
+reference
+to
+existing
+recognized
+quality
+management
+system
+standards
+or documents
+available
+to the document
+user should
+be incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When
+using
+references,
+specifying
+the
+revision
+status
+should
+be
+avoided
+in order
+to
+preclude
+changing
+the
+referencing
+document
+when revision
+status of the referenced
+document
+is changed.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Process
+of approval,
+issue and control
+of quality
+management
+system
+documents<<HEADING_END>>
+<<HEADING level=3>>6.1
+Review and approval<<HEADING_END>>
+<<PARAGRAPH>>Prior to issue, the documents
+should
+be reviewed
+by authorized
+individuals
+to ensure
+clarity,
+accuracy,
+adequacy
+and proper structure.
+The intended
+users should
+also have the opportunity
+to assess
+and comment
+on the usability
+of the
+documents
+and
+on
+whether
+the
+documents
+reflect
+actual
+practices.
+Release
+of documents
+should
+be
+approved
+by the
+management
+responsible
+for
+their
+implementation.
+Each
+copy
+should
+have
+evidence
+of this
+release authorization.
+Evidence
+of approval
+of documents
+should
+be retained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2
+Distribution<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+method
+of distribution
+of the
+documents
+by authorized
+personnel
+should
+ensure
+that
+pertinent
+issues
+of
+appropriate
+documents
+are available
+to all personnel
+who
+will need
+the
+information
+included
+in the
+documents.
+Proper
+distribution
+and
+control
+may
+be aided,
+for example,
+by using
+serial
+numbers
+of individual
+copies
+of the
+documents
+for
+recipients.
+Distribution
+of documents
+sudh
+as the
+quality
+manual
+and
+quality
+plan
+may
+include
+external
+parties
+(e.g. customers,
+certification
+bodies
+and regulatory
+authorities).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3
+Incorporation of changes<<HEADING_END>>
+<<PARAGRAPH>>A process for the initiation,
+development,
+review,
+control
+and incorporation
+of changes
+to the documents
+should
+be
+provided.
+The same
+review
+and approval
+process
+used in developing
+the original
+documents
+should
+apply
+when
+processing
+changes.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4
+Issue and change control<<HEADING_END>>
+<<PARAGRAPH>>Document
+issue
+and
+change
+control
+are
+essential
+to ensure
+that
+the
+contents
+of the
+documents
+are
+properly
+approved
+by the authorized
+personnel
+and that the approval
+is readily identifiable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Various
+methods
+may be considered
+for facilitating
+the physical
+process
+of making
+changes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A process
+should
+be
+established
+to
+ensure
+that
+only
+the
+appropriate
+documents
+are
+in use.
+Under
+cettain
+circumstances,
+the appropriate
+document
+to be used
+may
+not be the
+latest
+revision
+of the document.
+Revised
+documents
+should
+be replaced
+by the latest
+revision.
+A document
+master
+list with
+revision
+level may be used
+to
+assure the users that they have the correct
+issue of authorized
+documents.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<PARAGRAPH>>recording
+the history
+of changes
+to the documents
+for legal
+and/or
+knowledge<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+organization
+should
+consider
+preservation
+purposes.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5
+Uncontrolled
+copies<<HEADING_END>>
+<<PARAGRAPH>>For the
+purpose
+of tenders,
+customer
+off-site
+usage
+and
+other
+special
+distribution
+of documents
+where
+change
+control
+is not intended,
+such distributed
+documents
+should
+be clearly
+identified
+as uncontrolled
+copies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Failure to provide assurance of this process can cause unintended usage of obsolete documents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=3>>Annex A<<HEADING_END>>
+<<HEADING level=3>>Typical quality management
+system documentation
+hierarchy<<HEADING_END>>
+<<PARAGRAPH>>Document
+contents<<PARAGRAPH_END>>
+<<PARAGRAPH>>A:
+Describes the quality management
+system in accordance
+with the stated
+quality policy and objectives
+(see 4.3
+and 4.4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>B:
+Describes
+the
+interrelated
+pro-
+cesses
+and
+activities
+required
+to
+implement
+the
+quality
+management
+system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Work instructions
+and other documents
+for quality
+management
+system
+C:
+Consists
+of detailed
+work
+docu-
+ments.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+The number of levels maybe adjusted to meet the organization’s needs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+Forms may be applicable at all levels of the hierarchy.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=3>>Annex B<<HEADING_END>>
+<<HEADING level=3>>Example of structured text work instructions
+i<<HEADING_END>>
+<<HEADING level=3>>B.1
+Work
+instructions
+for sterilization
+of instruments<<HEADING_END>>
+<<PARAGRAPH>>Number:
+Ttv 2.6
+Date: Sept. 15, 1997
+Revision:
+O<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2
+Disposable
+instruments<<HEADING_END>>
+<<PARAGRAPH>>Place
+disposable
+instruments
+(e.g.
+syringes,
+needles,
+knives
+and
+stitch-removal
+instruments)
+into
+a
+special
+container.
+The container
+shall be destroyed
+according
+to the waste disposal
+programme.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3
+Hot-air
+sterilized
+instruments<<HEADING_END>>
+<<HEADING level=3>>B.2.1
+Wipe
+secretions
+by using disposable
+tissue.<<HEADING_END>>
+<<PARAGRAPH>>B.2.2
+Dip instruments
+into a 10%
+chlorine
+solution
+(1 dl Klorilli
+liquid and 9 dl water).
+The liquid shall be replaced
+twice
+a week.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.2.3
+Soak the instruments
+for at least 2 h.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.2.4
+Wash
+the instruments
+with a brush using protection
+gloves.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.5
+Rinse and dry the instruments.<<HEADING_END>>
+<<PARAGRAPH>>B.2.6
+Check that the instruments
+are in good condition.
+Damaged
+instruments
+shall be sent for service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.2.7
+Sterilization
+in a bag:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>place the instruments
+into a hot-air
+resistant
+bag;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>protect
+the sharp edges with gauze;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>fold the bag edge several times to obtain a tight seal;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>seal the bag with heat-resistant
+tape;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>mark the date and set a hot-air
+indicator
+onto the bag;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>put the bag into the hot air oven and leave it for 30 min at a temperature
+of 180 “C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The instruments
+are usable one month after sterilization
+if they are stored
+in a properly
+sealed
+bag.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.2.8
+Sterilization
+in a metal containec<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+place a hot-air-resistant
+tissue at the bottom
+of the container
+to protect the instruments;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+put the instruments
+at the bottom
+of the containeu<<PARAGRAPH_END>>
+<<PARAGRAPH>>—
+set a hot-air
+indicator
+into the containen<<PARAGRAPH_END>>
+<<PARAGRAPH>>12<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<PARAGRAPH>>allow the container stay for 30 min at a temperature of 180 ‘C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>One  out of  the  two containers is used in turn everyday.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.4 Other instruments
+(e.g.  otoscopes)<<HEADING_END>>
+<<PARAGRAPH>>Rinse the instruments after soaking in chlorine solution for 2 h.<<PARAGRAPH_END>>
+<<HEADING level=3>>13<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>lS/lSO/TR
+10013:2001<<HEADING_END>>
+<<HEADING level=3>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 9001:2000,
+C?ua/ity management
+systems
+—  Requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO 9004:2000,
+Quality management
+systems
+— Guicf/ines  for  performance improvements<<PARAGRAPH_END>>
+<<HEADING level=3>>14<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>Bureau
+of Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a  statutory
+institution
+established
+under
+the  Bureau
+of hndian Standards
+Act,
+1986 to promote
+harmonious
+development
+of the activities
+of standardization,
+marking
+and quality certification
+of goods
+and attending
+to connected
+matters
+in the country.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright<<PARAGRAPH_END>>
+<<PARAGRAPH>>6[S has the copyright
+of all its publications.
+No part of these
+publications
+may be reproduced
+in any
+form without
+the prior permission
+in writing
+of 61S. This does not preclude
+the free use, in the course
+of implementing
+the
+standard,
+of necessary
+details,
+such
+as symbols
+and
+sizes,
+type
+or grade
+designations.
+Enquiries
+relating
+to copyright
+be addressed
+to the Director
+(Publications),
+61S.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review
+of Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments
+are issued
+to standards
+as the need arises
+on the basis
+of comments.
+Standards
+are
+also
+reviewed
+periodically;
+a standard
+along
+with amendments
+is reaffirmed
+when
+such
+review
+indi-
+cates that no changes
+are needed;
+if the review indicates
+that changes
+are needed,
+it is taken
+up for
+revision.
+Users
+of Indian Standards
+should
+ascertain
+that they are in possession
+of the latest amend-
+ments
+or edition
+by referring
+to the latest issue of ‘BIS Catalogue’
+and ‘Standards:
+Monthly
+Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This
+Indian
+Standard
+has been developed
+from Doc : No.
+MSD 2 (255).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments
+Issued
+Since
+Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend
+No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg, New Delhi 110002
+Telegrams
+: Manaksanstha
+Telephones
+:3230131,
+3233375,
+3239402
+(Common
+to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional
+Offices
+:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>3237617
+NEW DELHI
+110002
+3233841<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+: Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+: 1/14 C.I.T. Scheme
+VI! M, V. 1.P. Road, Kankurgachi<<PARAGRAPH_END>>
+<<PARAGRAPH>>3378499,
+3378561
+KOLKATA 700054
+3378626,
+3379120<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+: SCO 335-336,
+Sector
+34-A, CHANDIGARH
+160022
+f6038
+43<<PARAGRAPH_END>>
+<<PARAGRAPH>>-i
+602025<<PARAGRAPH_END>>
+<<PARAGRAPH>>2541216,2541442
+2542519,2541315<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>C.I.T. Campus,
+IV Cross
+Road, CHENNAI
+600113<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manakalaya,
+E9 MlDC,
+Marol, Andheri
+(East)<<PARAGRAPH_END>>
+<<PARAGRAPH>>8329295,
+8327858
+MUMBAI
+400093
+8327891,
+8327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>AH ME DABAD.
+BAN GALORE.
+BHOPAL.
+BHUBANESHWAR.
+CO IMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD.
+JAIPUR.
+KANPUR.
+LUCKNOW.
+NAGPUR.
+NALAGARH.
+PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.-.
+—
+Printed
+at Prabhat
+Offset
+press,
+New Delhi.2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 17
+<<SECTION_END>>
+<<DOCUMENT_END>>

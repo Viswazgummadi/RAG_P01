@@ -1,0 +1,1075 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS 12966 (Part
+2) : 1990<<HEADING_END>>
+<<HEADING level=3>>( Reaffirmed 1997 )<<HEADING_END>>
+<<HEADING level=1>>Indian Standard
+CODE OF PRACTICE FOR GALLERIES
+AND OTHER OPENINGS IN DAMS<<HEADING_END>>
+<<HEADING level=3>>PART
+2
+STRUCTURAL
+DESIGN<<HEADING_END>>
+<<PARAGRAPH>>UDC 627’8’068 : 624’04<<PARAGRAPH_END>>
+<<PARAGRAPH>>0
+BIS 1991<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF
+INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG<<PARAGRAPH_END>>
+<<PARAGRAPH>>NEW DELHI
+110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<HEADING level=3>>February
+I99 1<<HEADING_END>>
+<<HEADING level=3>>Price Group  4<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Dams ( Overflow and Non-overflow ) Sectional Committee, RVD 9<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard was adopted by the Bureau of Indian Standards on 22 February
+1990, after
+the draft finalized by the Dams ( Overflow and Non-overflow ) Sectional
+Committee
+had been
+approved by the River Valley Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A large number of galleries and other openings are provided in practically
+all modern
+high dams.
+The galleries are required for access, grouting, inspection, drainage and for the operation
+of gates.
+Other major openings include sluices, temporary
+diversion
+conduits,
+river outlets
+and penstock
+openings.
+In addition there are openings for stairwells, shafts, air vents; drainage holes etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To enable the designing of gallery it is necessary to determine the general stress field to which the
+opening is subjected and subsequently to analyse the local alteration in it due to the particular shape
+of the opening.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In this standard only small openings such as foundation gallery, inspection gallery,
+adit to gallery
+etc have been considered.
+The openings such as sluices, penstocks
+and other similar openings
+have been excluded from this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose of deciding whether a particular requirement of this standard is complied
+with the
+final value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in
+accordance with IS 2  :  1960 ‘Rules for rounding of numerical
+values (  revised )‘.
+The number
+of
+significant places retained in the rounded off value should be the same as that of the specified value
+in this standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS 12966 ( Part 2 )  :  1990<<HEADING_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>CODEOFPRACTICEFORGALLERIES
+ANDOTHEROPENINGSINDAMS<<HEADING_END>>
+<<HEADING level=3>>PART
+2
+STRUCTURAL
+DESIGN<<HEADING_END>>
+<<PARAGRAPH>>the most significant stresses in the structure under
+consideration.<<PARAGRAPH_END>>
+<<HEADING level=3>>1 SCOPE<<HEADING_END>>
+<<PARAGRAPH>>1.1  This standard lays down method of determining
+reinforcement around openings in solid gravity dams
+constructed either in concrete or in masonry, and are
+applicable to openings which can be analysed as two
+dimensional problems.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4  Diversion Conduit<<HEADING_END>>
+<<PARAGRAPH>>A conduit used for the temporary diversion of water
+from the reservoir.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2 The design of openings which are large in com-
+parison with the size of the dam is not considered in
+this standard. If  d  is the maximum cross-sectional di-
+mension of the gallery of the opening, it is considered
+large when either of the following is complied with  :<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5  Drainage Hole<<HEADING_END>>
+<<PARAGRAPH>>Openings for ensuring proper drainage of the structure.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.6 Gate  Gallery<<HEADING_END>>
+<<PARAGRAPH>>a)  d 2  6m,or
+b) concrete or masonry cover any where around it is
+less than  d.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gallery, made in a dam, to provide access to and room
+for, the mechanical equipment required for the opera-
+tion of gates in outlet conduits or powerpenstocks, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>2  REFERENCES<<HEADING_END>>
+<<HEADING level=3>>3.7  Penstock Opening<<HEADING_END>>
+<<HEADING level=3>>2.1  The following Indian Standards are necessary
+adjunct to this standard:<<HEADING_END>>
+<<PARAGRAPH>>Openings for pipes which convey water from intake to
+turbine in hydroelectric schemes.<<PARAGRAPH_END>>
+<<HEADING level=3>>IS  No.<<HEADING_END>>
+<<PARAGRAPH>>Title<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8  Plumbline Shaft<<HEADING_END>>
+<<PARAGRAPH>>Code of practice for plain and rein-
+forced concrete (  third revision
+)<<PARAGRAPH_END>>
+<<PARAGRAPH>>A shaft located in a dam in order to make observations
+of the deflection of the dam with respect to the base.<<PARAGRAPH_END>>
+<<PARAGRAPH>>456  :  1978<<PARAGRAPH_END>>
+<<PARAGRAPH>>457  :  1957<<PARAGRAPH_END>>
+<<PARAGRAPH>>Code of practice for general con-
+struction of plain and reinforced
+concrete for dams and other massive
+structures
+Glossary of terms relating to river
+valley projects: Part 8 Dams and
+dam sections<<PARAGRAPH_END>>
+<<HEADING level=3>>3.9  Reservoir Empty Condition<<HEADING_END>>
+<<PARAGRAPH>>The condition in which no water load is assumed to be
+present on upstream side of the dam.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4410
+( Part 8)  :  1968<<PARAGRAPH_END>>
+<<HEADING level=3>>3.10 Reservoir  Full Condition<<HEADING_END>>
+<<PARAGRAPH>>The condition in which the water level is at F.R.L. on
+upstream side of the dam.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6512: 1984<<PARAGRAPH_END>>
+<<PARAGRAPH>>Criteria for design of solid gravity
+dams (  first  revision )<<PARAGRAPH_END>>
+<<HEADING level=3>>3.11  Stair Well<<HEADING_END>>
+<<PARAGRAPH>>8605  :  1977<<PARAGRAPH_END>>
+<<PARAGRAPH>>Code of practice for construction of
+masonry in dams<<PARAGRAPH_END>>
+<<PARAGRAPH>>A vertical opening provided in the body of the dam to
+accommodate staircase.<<PARAGRAPH_END>>
+<<HEADING level=3>>3  TERMINOLOGY<<HEADING_END>>
+<<HEADING level=3>>3.12  Total Tension<<HEADING_END>>
+<<HEADING level=3>>3.0  For the purpose of this code, the following defini-
+tions shall apply.<<HEADING_END>>
+<<PARAGRAPH>>Integral of the tensile stress normal to the section from
+the boundary, of zero tensile stress.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1  Air Vent<<HEADING_END>>
+<<PARAGRAPH>>3.13 Transverse Gallery<<PARAGRAPH_END>>
+<<PARAGRAPH>>An opening provided for the entry/escape of air.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A gallery in the direction perpendicular to that of
+longitudinal axis of the dam.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2  Boundary Stress<<HEADING_END>>
+<<PARAGRAPH>>The normal stress on a plane perpendicular to a free
+boundary.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.14 Uniaxial  Stress Field<<HEADING_END>>
+<<PARAGRAPH>>If a thin plate is loaded by forces applied ai the
+boundary only in one direction a state of uniaxial stress
+field is said to exist.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3  Critical Load<<HEADING_END>>
+<<PARAGRAPH>>A loading condition which will produce maximum or<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS  12966 ( Part 2 )  :  1990<<HEADING_END>>
+<<HEADING level=3>>6.2  The analysis has to be conducted in two stages:<<HEADING_END>>
+<<HEADING level=3>>4 SYMBOLS<<HEADING_END>>
+<<PARAGRAPH>>a) Determination of overall stress field in the centre
+of openings, aud
+b) Detailed determination of the stress distribution
+around openings and determination
+of total
+tension therefrom.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1  For the purpose of this code and unless otherwise
+defined  in the text, the following letter symbols shall
+have the meaning indicated against each:<<HEADING_END>>
+<<HEADING level=3>>A,
+=  Cross-sectional area of steel in tension<<HEADING_END>>
+<<HEADING level=3>>a
+=
+Semi-major axis of elliptic openings<<HEADING_END>>
+<<PARAGRAPH>>6.3 Overall Stress Field<<PARAGRAPH_END>>
+<<HEADING level=3>>b
+=  Semi-minor axis of elliptic opening<<HEADING_END>>
+<<PARAGRAPH>>The stress field at the center line of the opening is
+determined by one of the following methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>F
+=  Total tensile force across the section<<HEADING_END>>
+<<HEADING level=3>>A
+=  Height of rectangular opening<<HEADING_END>>
+<<HEADING level=3>>6.3.1  Approximate Analytical Method<<HEADING_END>>
+<<HEADING level=3>>B
+=  Width of rectangular opening<<HEADING_END>>
+<<PARAGRAPH>>“Gravity Method of Analysis”, which assumes linear
+distribution of vertical stresses on horizontal planes, is
+generally used. The method provides a two-dimen-
+sional solution and idealizes the dam as composed of
+a number of vertical elements, each of which carries its
+load to the foundation without any transfer of the load
+to adjacent vertical elements. The shear stress distribu-
+tion is parabolic and horizontal stress distribution is
+cubic. This method is used to determine, for each
+loading combination ( see IS 65 12  :  1984 ), the normal
+stresses on horizontal and vertical planes. The details
+of the method are given in Annex A.<<PARAGRAPH_END>>
+<<HEADING level=3>>r
+=  Radius of circle<<HEADING_END>>
+<<HEADING level=3>>r,O
+=  Polar co-ordinates<<HEADING_END>>
+<<HEADING level=3>>9,0e
+=  Radial and tangential normal stresses in
+polar co-ordinates<<HEADING_END>>
+<<HEADING level=3>>7,
+=  Shear stress in polar co-ordinates<<HEADING_END>>
+<<HEADING level=3>>CT
+=
+x
+Normal stress on vertical plane<<HEADING_END>>
+<<HEADING level=3>>CT,
+=  Normal stress on horizontal plane<<HEADING_END>>
+<<PARAGRAPH>>0,“. Q =  Normal stress on horizontal plane at the
+upstream/downstream face of the dam (cal-
+culated by stability analysis at the level of
+consideration )
+7
+ZZ
+*u
+Shear stress on xy plane at the upstream
+face of dam
+‘Iti
+=  Shear stress on xy plane at the downstream
+face of dam<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4 Stress Distribution Around Openings<<PARAGRAPH_END>>
+<<PARAGRAPH>>Distribution of stress field due to opening is generally
+determined by one of the following methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.1  Theory of Elasticity<<HEADING_END>>
+<<HEADING level=3>>P,
+=  Pressure (water + silt, if  any )at  the u/s face
+of dam at the level of consideration<<HEADING_END>>
+<<HEADING level=3>>Where a closed form analytical solution is available it
+may be  used for analysis.<<HEADING_END>>
+<<HEADING level=3>>Pd
+=  Pressure (water + silt, if any)at the d/s face
+of dam at the level of consideration
+T
+=  Total base width of the dam at the level of
+consideration<<HEADING_END>>
+<<HEADING level=3>>6.4.1.1  Circular openings<<HEADING_END>>
+<<PARAGRAPH>>For a circular hole of radius ‘rO’ in an infinite plate
+subjected to uniform uniaxial stress (  p  )  in the vertical
+direction, using polar co-ordinates (  r, 8 ),  the stress
+coefficients are given by  :<<PARAGRAPH_END>>
+<<PARAGRAPH>>X
+=
+Distance of centre of gallery from toe<<PARAGRAPH_END>>
+<<PARAGRAPH>>cp
+=
+Total horizontal force at the level of con-
+sideration<<PARAGRAPH_END>>
+<<PARAGRAPH>>cw
+=
+Total vertical force at the level of con-
+sidemtion<<PARAGRAPH_END>>
+<<PARAGRAPH>>CM
+=
+Total moment about c.g. of the Section of
+the base of dam i.e. middle of the Section
+assuming the dam base as 1 m wide strip.<<PARAGRAPH_END>>
+<<PARAGRAPH>>;
+= $+)-;(l+
+F)
+cos28<<PARAGRAPH_END>>
+<<PARAGRAPH>>5 MATERIALS<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1 Concrete<<HEADING_END>>
+<<PARAGRAPH>>Plain and
+reinforced
+concrete
+shall conform to
+IS 456
+:  1978. Mass concrete shall conform to
+IS 457  :  1957,<<PARAGRAPH_END>>
+<<PARAGRAPH>>where 8 = angle from the crown as  shown  in Fig. 2. At
+a distance of ( \/3 - 1)  r  from the crown the tensile
+stress reduces to zero and then charges to compressive.
+If the distance is approximately assumed as O-5  rO  and
+stress distribution taken as linear, total tension at top
+and bottom works out to approximately 025  pro  for
+which reinforcement shall be provided in the absence
+of more detailed analysis,<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2 Masonry<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stone masonry shall conform to IS 8605  :  1977.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6 BASIS OF DESIGN<<PARAGRAPH_END>>
+<<PARAGRAPH>>Along the contour the normal stress coefficient is
+given by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1 Openings in structure develop a discontinuity in
+the stress field and may develop zones of tensile stress
+and high compressive stress and in general weaken the
+structure. Reinforcement,
+has, therefore, to be pro-
+vided in many cases.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(33
+-
+= (1 - 2 cos 20)
+P<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS 12966 ( Part 2 )  :  1990<<HEADING_END>>
+<<HEADING level=3>>RESERVOIR<<HEADING_END>>
+<<HEADING level=3>>WATER
+LEVEL
+v
+_
+t-z--
+=: = =A_ -----_
+==
+3
+-_--__
+_fT--L---
+1 I<<HEADING_END>>
+<<HEADING level=3>>1A
+VERTICAL
+CROSS
+SECTION<<HEADING_END>>
+<<HEADING level=3>>ml
+Poxz-l+<<HEADING_END>>
+<<HEADING level=3>>=YX
+Y
+MOMENTS<<HEADING_END>>
+<<HEADING level=3>>19
+HORIZONTAL
+CROSS
+SECTION
+FIG. 1
+SIGN CONVENTION
+FOR THE  FORCES ACHNG ON THE DAM  SECTION<<HEADING_END>>
+<<HEADING level=3>>6.4.2  Stress  Coefficients<<HEADING_END>>
+<<HEADING level=3>>6.4.1.2
+Elliptic openings<<HEADING_END>>
+<<PARAGRAPH>>For elliptic opening with major and minor axes 2a and
+2b, in a plate, subjected to uniform uniaxial stress field
+(p) tangential stress coefficient along the contour is
+given by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stress coefficient for rectangular openings of various
+width and height ratio, for normal stress perpendicular
+to the centre line of opening, due to uniform stress
+fields parallel to or perpendicular to the line, can be
+obtained from the curves given in Fig,  3  and 4.<<PARAGRAPH_END>>
+<<HEADING level=3>>(J,
+sin28 + 2Ksin20 - Kz cos2c)
+-_=
+where  K = a
+P
+sin26 + Kz cos20
+b<<HEADING_END>>
+<<HEADING level=3>>6.4.3  Photoelastic Method<<HEADING_END>>
+<<PARAGRAPH>>For more complex forms and load conditions photo-
+elastic method is preferred. Numerous applications of
+photoelastic method have been made in the design of
+various types of openings required in Civil, Mechani-
+cal and Aeronautical structures. Using photoelastic
+method extensive work has been done to obtain stress
+distribution around openings of various shapes such
+as square, :ectangular with semi-circular roof and
+rectangular.<<PARAGRAPH_END>>
+<<HEADING level=3>>For 8 = 0, 5
+= 1 and for 8 = ’
+P<<HEADING_END>>
+<<PARAGRAPH>>The data is available for the following cases  :<<PARAGRAPH_END>>
+<<PARAGRAPH>>1. Openings in uniform uniaxial compressive stress
+field.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2. Openings in uniform bi-axial stress field.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3. Square openings close to a free boundary.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.4  Finite Element Method<<HEADING_END>>
+<<HEADING level=3>>c<<HEADING_END>>
+<<PARAGRAPH>>Finite element method has been used for obta:ning
+elastic-plastic analysis of openings. This method is<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG.  2 STRESSES
+IN CIRCULAR
+OPENINGI
+DUE TO
+UNIFORM
+UNIAXIAL
+STRESS<<HEADING_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS 12966 (Part 2)  :  1990<<HEADING_END>>
+<<PARAGRAPH>>c>
+Concrete is assumed to behave as a linear and
+elastic material. Tension upto the values permitted
+in IS 6512  :  1984  may be allowed. Gallery rein-
+forcement is required if tension exceeds these per-
+missible values; and
+4  Total tensile force is taken by steel reinforcement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>particularly useful in investigation of the behaviour of
+openings in non-linear range and to study the propaga-
+tion of cracks near the openings.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<HEADING level=3>>9  PERMISSIBLE
+STRESSES<<HEADING_END>>
+<<HEADING level=3>>9.1  The permissible stresses for reinforcement shall
+be taken in accordance with the relevant standards.<<HEADING_END>>
+<<HEADING level=3>>10 DESIGN OF REINFORCEMENT<<HEADING_END>>
+<<PARAGRAPH>>10.1  The following design procedure will apply to
+both concrete and masonry dams. In case of masonry
+dams, a portion around an opening which is rein-
+forced is .constructed in concrete. The thickness of
+concrete around vertical openings like air vents is
+generally 300 mm. For other opening, the thickness
+varies from 750 mm to 1 500 mm. The design proce-
+dure will be identical with that for a concrete dam; the
+assumption is that the masonry and concrete behave as
+one mass.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2  The procedure for the design of reinforcement
+will be as follows:<<HEADING_END>>
+<<PARAGRAPH>>a) Locate the centre of the opening on a cross-section
+of the dam;<<PARAGRAPH_END>>
+<<HEADING level=3>>D/A<<HEADING_END>>
+<<PARAGRAPH>>NOTE -  For  design purposes the normal stress on rhe centerline
+parallel to the stress field direction may be considered to be indc-
+pendent of  B. For ox 7 0 the  tensile area = 0’149  A. (T” is the
+normal stress  perpendicular
+to Y-axis. D is the distance from the
+boundary
+of the opening along the Y-axis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Determine prevalent stress field in the dam sec-
+tion at that location in the absence of the opening
+( SEC 6.3 )
+c) Determine the stress distribution along the plane
+considered for design subjected to uniform stress
+field arrived at in (b) above ( see 6.4 );<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG.  3
+CURVE  FOR  STRESS COEFFKIEWS  FOR F&TAN-<<HEADING_END>>
+<<HEADING level=3>>GULAR
+OPENING DUE ro
+UNFORM STRESS FIELD
+PERPENDICULAR TO THE LINE UNDER CONSIDERATION<<HEADING_END>>
+<<PARAGRAPH>>d) Compute the total tensile force across the plane
+considered for design ( see 10.3 );<<PARAGRAPH_END>>
+<<HEADING level=3>>7 LOADING
+CONDITIONS<<HEADING_END>>
+<<PARAGRAPH>>e) Compute
+area of steel reinforcement
+required
+( see 10.4 );<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1 Critical Loads<<HEADING_END>>
+<<PARAGRAPH>>The important loads that are to be considered for the
+determination of overall stress field are dead load,
+reservoir and tail-water loads, earthquake forces, uplift
+pressure, earth and silt pressure, ice-pressure, wind
+pressure and wave pressure. Designs should be based
+on the most adverse combination of probable load
+conditions and include those loads having a reasonable
+probability of simultaneously occurrence. The gallarics
+and other openings in gravity dams shall be designed
+for the load combination listed in IS 65 12  :  1984, Load
+combination B, C,  E, F  and G, shall, however, be
+analysed without uplift.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f) Details of the reinforcement ( see 10.5 ).<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3 Computation
+of Total Tension<<HEADING_END>>
+<<PARAGRAPH>>The total tension is determined by integrating the area
+under tension along a particular section.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.4 Computation
+of Area of Steel Reinforcement<<HEADING_END>>
+<<PARAGRAPH>>After obtaining the total tension for section under
+consideration for the opening, for the critical loading
+condition, the area of steel is calculated by dividing the
+total tension  (F )  by allowable stress (o,,) that is<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2 Typical planes considered for analysis - For some
+simplified cases critical loads and sections are indi-
+cated in Table 1.<<PARAGRAPH_END>>
+<<HEADING level=3>>8 ASSUMPTIONS
+IN DESIGN<<HEADING_END>>
+<<HEADING level=3>>10.5  Detailing
+of Reinforcement<<HEADING_END>>
+<<HEADING level=3>>8.1  Following assumptions have been made in carry-
+ing out the design:<<HEADING_END>>
+<<PARAGRAPH>>Typical reinforcement
+details are shown in Fig. 5.
+The reinforcement bars must be straight as  far  as possi-
+ble and enchored in a zone of compressive stress. The
+bars will generally be put up horiiontally above the
+roof of the gallery and vertically on the sides. Diagonal
+bars are necessary at the corners. The spacing of bars<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) The minimum distance of the boundary from the
+face of opening is two and half the width of the
+opening;
+b) The problem is treated as plane stress problem;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS 12966 ( Part 2 )  :  1990<<HEADING_END>>
+<<HEADING level=3>>100  t
+04
+O-6
+O-6
+1-O
+l-2
+1-L
+l-6
+l-6
+2.0
+2-2
+2.4<<HEADING_END>>
+<<HEADING level=3>>0/A<<HEADING_END>>
+<<HEADING level=3>>NOTE - am is the normal stress perpen&cular
+to Y-axis.  D  is the distance from the boundary of the opening along the Y-axis.<<HEADING_END>>
+<<HEADING level=3>>FIG.  4
+CURVE
+FOR  STRESS
+COEFFICIENTS
+FOR RECTANGULAR
+OPENING
+DUE  TO  UNIFORM
+STRESS FIELD PARALLEL
+TO
+THE  LINE UNDER  CONSIDERATION<<HEADING_END>>
+<<HEADING level=3>>Table 1 Critical Loads and Sections<<HEADING_END>>
+<<HEADING level=3>>Type of
+Critical Loading Condition for Opening
+Openings
+Located at<<HEADING_END>>
+<<HEADING level=3>>Planes
+Considered
+for
+Analysis<<HEADING_END>>
+<<PARAGRAPH>>/
+u/s Third
+Middle Third
+d/s Third  \<<PARAGRAPH_END>>
+<<PARAGRAPH>>(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(5)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Longitudinal<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reservoir<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reservoir empty
+or full<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reservoir full<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vertical section perpen
+dicular to the longitu-
+dinal axis of dam<<PARAGRAPH_END>>
+<<PARAGRAPH>>empty<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vertical
+Reservoir full
+Reservoir full
+do<<PARAGRAPH_END>>
+<<PARAGRAPH>>Horizontal
+section
+through the opening<<PARAGRAPH_END>>
+<<PARAGRAPH>>Transverse
+Reservoir<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reservoir empty
+or full
+do<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vertical section parallel
+to longitudinal
+axis of
+dam<<PARAGRAPH_END>>
+<<PARAGRAPH>>empty<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS 12966  (  Part 2 )  :  1990<<HEADING_END>>
+<<PARAGRAPH>>between these openings should be more than two times
+the width of opening. The average compression on the
+unbroken portions of a horizontal section containing
+these openings is equal to the total force on this
+section, divided by the net area. The distribution of this
+stress is unknown. A safe design should result if the
+average compression does not exceed the allowable
+compressive stress and if reinforcement is provided as
+for a single opening.<<PARAGRAPH_END>>
+<<PARAGRAPH>>generally should not be less than 15 cm centre to centre
+and not greater than 30 cm. The minimum clear cover
+shall be 15 cm for the reinforcement. The minimum
+diameter of reinforcement bars shall be 16 mm for
+main reinforcement and 12 mm for distribution. Other
+details of reinforcement must follow IS 456  :  1978.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.6  Relaxation in Design Criteria<<HEADING_END>>
+<<PARAGRAPH>>Any change in the reinforcement around galleries as
+computed by the procedure indicated in 10.2 above
+can be made if indicated otherwise through the stud-
+ies carried out by finite element and/or photoelastic
+methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.2.1  If the clear space between two openings is less
+than twice the width of openings, the horizontal rein-
+forcement shall be made continuous. Such close spac-
+ing should be avoided as far as possible. For high dams,
+with high working compressive stresses the widest
+practicable spacing of openings should be adopted.<<PARAGRAPH_END>>
+<<HEADING level=3>>11 SPECIAL CASES<<HEADING_END>>
+<<HEADING level=3>>11.1 Opening Close to Surface<<HEADING_END>>
+<<HEADING level=3>>11.3  Three-Dimensional Openings, Intersections,
+etc<<HEADING_END>>
+<<PARAGRAPH>>In some cases, openings may have to be provided close
+to the face of the dam or near the face of a block. In
+such cases, the results obtained for normal openings
+discussed above are not applicable. Photoelastic method
+or finite element method should be used to obtain
+stress fields in  such  cases.<<PARAGRAPH_END>>
+<<PARAGRAPH>>At the intersection of two or more openings, the state
+of stress is three-dimensional and the two dimensional
+procedure described above is not applicable. For a
+detailed analysis, three-dimensional
+investigations
+should be carried out. However, for gallery intersec-.
+tion, it should be generally adequate to double the
+main reinforcement provided at top and bottom on all
+the sides of intersection for a distance equal to the
+width of the gallery. A typical arrangement at gallery
+intersection is illustrated in Fig. 6.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.2 Multiple Openings<<HEADING_END>>
+<<PARAGRAPH>>It  is frequently necessary to provide a number of
+separate outlets through a dam. In a series of such
+openings in a single horizontal plane, the clear spacing<<PARAGRAPH_END>>
+<<PARAGRAPH>>/<<PARAGRAPH_END>>
+<<PARAGRAPH>>aa
+sk<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG. 5
+TYPICAL REINFORCEMENT
+PLACEMENT
+POSITION
+AROUND
+A RECTANGULAR
+GALLERY<<HEADING_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<HEADING level=3>>.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 12966 ( Part 2 )  :  1990<<HEADING_END>>
+<<HEADING level=3>>04<<HEADING_END>>
+<<HEADING level=3>>FOR
+REINFORCEMENT
+DETAIL
+SEE
+FIG.
+X-X<<HEADING_END>>
+<<HEADING level=3>>D-D<<HEADING_END>>
+<<HEADING level=3>>A
+LONGITUDINAL
+REINFORCEMENT
+OF
+MAIN<<HEADING_END>>
+<<HEADING level=3>>II
+14
+I
+II
+GALLERY<<HEADING_END>>
+<<HEADING level=3>>r-l<<HEADING_END>>
+<<HEADING level=1>>r
+MAIN
+REINFORCEMENT
+OF
+X-GALLERY<<HEADING_END>>
+<<HEADING level=1>>T
+B
+I<<HEADING_END>>
+<<HEADING level=2>>B  1
+L
+LONGITUDINAL
+REINFORCE<<HEADING_END>>
+<<HEADING level=3>>MEN1<<HEADING_END>>
+<<HEADING level=3>>OF
+X-GALLERY<<HEADING_END>>
+<<PARAGRAPH>>L<<PARAGRAPH_END>>
+<<HEADING level=3>>X-GALLERY<<HEADING_END>>
+<<HEADING level=1>>IIr
+- LONGITUDINAL
+GALLERY<<HEADING_END>>
+<<PARAGRAPH>>II
+I
+I+
+I
+II
+Il.1
+II<<PARAGRAPH_END>>
+<<HEADING level=3>>L MAIN
+REINFORCEMENT
+9<<HEADING_END>>
+<<HEADING level=3>>OF MAIN
+GALLERY<<HEADING_END>>
+<<HEADING level=3>>DETAIL
+X-X<<HEADING_END>>
+<<HEADING level=3>>NOTE -  Double tbe  main reinforcement
+at top and bottom of  gallery in the zone abed,  B  is width of gallery.<<HEADING_END>>
+<<HEADING level=3>>FE.  6
+TYPICAL
+F~EI~ORCEMENT
+PLACEMENT
+POSITION
+FOR T JUN~ION FOR F~EC~ANGULAR
+GALLERIES<<HEADING_END>>
+<<HEADING level=3>>7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS  12966 ( Part 2 )  :  1990<<HEADING_END>>
+<<PARAGRAPH>>ANNEX A
+(Clause 6.3.1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>APPROXIMATE
+ANALYTICAL
+METHOD<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>The overall stress field ox and oY in the dam Section
+along a line passing through the centre of opening for
+various conditions as stipulated is IS -65 12  :  1984 is
+calculated as under:<<PARAGRAPH_END>>
+<<HEADING level=1>>XYU
++-
+'xyd
+T2
+1<<HEADING_END>>
+<<HEADING level=3>>6
+a
+4
+a
+-
+-cp_-
+d,
+__
+_Txyd
+T2 ay
+T a y a”
+T ay<<HEADING_END>>
+<<HEADING level=3>>i)  Normal Stress (3 Y<<HEADING_END>>
+<<HEADING level=1>>a5
+6
+_=
+-
+aY
+XY*
++-
+'xyd
+T3
+1<<HEADING_END>>
+<<HEADING level=3>>oy =  a + bx<<HEADING_END>>
+<<HEADING level=3>>where,
+a
+= Oy.3<<HEADING_END>>
+<<HEADING level=3>>6
+3
+a
++-
+T3 ay
+T2 ay xyU  + -
+-
+'xyd
+T2 ay<<HEADING_END>>
+<<PARAGRAPH>>b
+=
+Oyli -  Oyd
+T<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where,<<PARAGRAPH_END>>
+<<HEADING level=3>>ii)
+Shear Stress 7xy, 5yx<<HEADING_END>>
+<<HEADING level=3>>‘5
+=7
+whersy
+YX
+=  a, +  b,x +  c,x2<<HEADING_END>>
+<<PARAGRAPH>>aT
+-
+= tan@” + tan+,
+ay<<PARAGRAPH_END>>
+<<HEADING level=3>>‘1
+=
+'Sxyd<<HEADING_END>>
+<<HEADING level=3>>b,
+=  -$
+3 +
++ zxyu +  2'xyd
+><<HEADING_END>>
+<<PARAGRAPH>>,”
+= - (P, -P,)<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+c1
+=
+-T
+2. q
++ TsxY”
++ ltxyd
+><<HEADING_END>>
+<<PARAGRAPH>>a<<PARAGRAPH_END>>
+<<HEADING level=3>>=  tan@” (ro* -<<HEADING_END>>
+<<PARAGRAPH>>z
+=
+XYU
+-  (oyll  -  P,)  tan @,<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+a
+ay ‘vd  = tan+,  ( -oyd -  ro*) +
+ay
+’ tan@d $d-
+Pd)
+ay<<PARAGRAPH_END>>
+<<PARAGRAPH>>‘5
+=
+vd
+@yd  -  pd>  tan  od<<PARAGRAPH_END>>
+<<HEADING level=3>>iii)
+Normal Stress ox<<HEADING_END>>
+<<HEADING level=3>>a
+=  rc +k,  tan$y+k2tan$d
++ :ZP<<HEADING_END>>
+<<HEADING level=3>>(T= =  a2 + b,x + czx2 + d,x3<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<PARAGRAPH>>where,<<PARAGRAPH_END>>
+<<HEADING level=3>>a
+ay %
+=  r, + k3  tanQU +  k,  tan@, -- : CP<<HEADING_END>>
+<<HEADING level=1>>a2
+=
+aI tan+d
++Pd
+aa,
+b, = b,  tan ed + -
+ay
+.l ab<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<HEADING level=3>>k, = 4
+p,-
+G2ZW
+-F3
+CM<<HEADING_END>>
+<<HEADING level=3>>C2
+=
+cl  tan f$, + -
+___!
+2 ay<<HEADING_END>>
+<<HEADING level=3>>12
+k, =;2ZW-+pd--
+CM
+T3<<HEADING_END>>
+<<PARAGRAPH>>i
+ac
+d2=---r
+3
+ay<<PARAGRAPH_END>>
+<<HEADING level=3>>aa
+ab
+ac
+The terms 1
+,$-
+--A
+ay
+ay
+JY
+are calculatedBs below:<<HEADING_END>>
+<<HEADING level=3>>k, =-$iN+~2L’W-+,<<HEADING_END>>
+<<HEADING level=3>>k, = -+I4
+-f
+ZW +;p,<<HEADING_END>>
+<<HEADING level=3>>NOTE -- Refer Fig. 1 for reference
+.<<HEADING_END>>
+<<HEADING level=3>>* To be omitted if no tail wata<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>Standard Mark<<HEADING_END>>
+<<PARAGRAPH>>The use of the Standard Mark is governed by the provisions
+of the  Bureau
+of Indian
+Standards Act,  1986 and the Rules and Regulations made thereunder.
+The Standard Mark on
+products
+covered
+by an Indian Standard conveys the assurance that they have been produced
+to comply with the requirements of that standard under a well defined system of inspection,
+testing and quality
+control
+which is devised and supervised
+by BIS and operated by the
+producer.
+Standard
+marked products
+are also continuously
+checked by BIS for conformity
+to that standard as a further safeguard.
+Details of conditions under which a licence for the
+use of the Standard
+Mark may be granted to manufacturers
+or producers may be obtained
+from the Bureau of Indian Standards.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory
+institution
+established
+under
+the
+Bureau of Indian Standards
+Act,
+1986  to
+promote
+harmonious
+development
+of the activities
+of standardization,
+marking
+and quality
+certification
+of goods
+and attending
+to connected
+matters
+in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright
+of all
+its publications.
+No
+part
+of these
+publications
+may
+be reproduced
+in
+any
+form
+without
+the
+prior
+permission
+in writing
+of BIS.
+This does not preclude
+the free use, in the
+course of implementing
+the standard,
+of necessary
+details,
+such
+as symbols
+and
+sizes,
+type
+or grade
+designations.
+Enquiries
+relating
+to copyright
+be addressed
+to the Director
+(Publications
+). BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Revision
+of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>Indian
+Standards
+are reviewed
+periodically
+and
+revised,
+when
+necessary
+and
+amendments,
+if any,
+are
+issued
+from
+time
+to time.
+Users
+of Indian
+Standards
+should
+ascertain
+that they are in possession
+of
+the latest amendments
+or edition.
+Comments
+on this Indian
+Standard
+may
+be sent
+to
+BIS
+giving
+the
+following
+reference:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dot : No. RVD 9 ( 2764)<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments
+Issued Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend
+No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF INDIAN
+STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak
+Bhavan,
+9 Bahadur
+Shah Zafar
+Marg, New Delhi
+Telephones
+:  331 01 31. 331 13 75
+110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>Telegrams
+:  Manaksanstha
+( Common
+to all Offices )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional
+Offices:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+:  Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg
+NEW
+DELHI
+110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>( 331
+331 01
+1375
+31<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+:  l/l4
+C. I. T. Scheme VII M, V. I. P. Road,
+Maniktola
+CALCUTTA
+700054<<PARAGRAPH_END>>
+<<PARAGRAPH>>37 86 62<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+: SC0 445-446,
+Sector 35-C, CHANDIGARH
+160036<<PARAGRAPH_END>>
+<<PARAGRAPH>>53 38 43<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+: C. I. T. Campus.
+IV Cross Road,
+MADRAS
+600113<<PARAGRAPH_END>>
+<<PARAGRAPH>>41 29 16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+:  RiIanakalaya,
+E9 MIDC,
+Marol.
+Andheri
+( East )
+BOMBAY
+400093<<PARAGRAPH_END>>
+<<PARAGRAPH>>6 32 92 95<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+:  AHMADABAD.
+BANGALORE.
+BHOPAL.
+BHIJBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD.
+JAIPUR.
+KANPUR
+PATNA.
+SRINAGAR.
+,THIRUVANANTHAPURAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Printed at Printrade, New  Delhi, India<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 12
+<<SECTION_END>>
+<<DOCUMENT_END>>

@@ -1,0 +1,2763 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>Standard for Actuator Sizing and
+Mounting Kits for Pipeline Valves<<HEADING_END>>
+<<HEADING level=2>>ANSI/API STANDARD 6DX
+FIRST EDITION, OCTOBER 2012<<HEADING_END>>
+<<HEADING level=1>>ISO 12490:2011 (Identical), Petroleum and natural
+gas industries—Mechanical integrity and sizing of
+actuators and mounting kits for pipeline valves<<HEADING_END>>
+<<IMAGE_1>>
+[Image 1 contains text: é gp nmerican Nationgy
+“ANSI]
+<<PAGE_END>>
+<<PAGE_2>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=1>>Standard for Actuator Sizing and
+Mounting Kits for Pipeline Valves<<HEADING_END>>
+<<HEADING level=3>>Upstream Segment<<HEADING_END>>
+<<PARAGRAPH>>ANSI/API STANDARD 6DX
+FIRST EDITION, OCTOBER 2012<<PARAGRAPH_END>>
+<<HEADING level=2>>ISO 12490:2011 (Identical), Petroleum and natural
+gas industries—Mechanical integrity and sizing of
+actuators and mounting kits for pipeline valves<<HEADING_END>>
+<<IMAGE_2>>
+[Image 2 contains text: ea tnercan Nati
+~ ionay,
+@®]
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>Special Notes<<HEADING_END>>
+<<PARAGRAPH>>API publications necessarily address problems of a general nature. With respect to particular circumstances, local,
+state, and federal laws and regulations should be reviewed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Neither API nor any of API's employees, subcontractors, consultants, committees, or other assignees make any
+warranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the
+information contained herein, or assume any liability or responsibility for any use, or the results of such use, of any
+information or process disclosed in this publication. Neither API nor any of API's employees, subcontractors,
+consultants, or other assignees represent that use of this publication would not infringe upon privately owned rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications may be used by anyone desiring to do so.  Every effort has been made by the Institute to assure the
+accuracy and reliability of the data contained in them; however, the Institute makes no representation, warranty, or
+guarantee in connection with this publication and hereby expressly disclaims any liability or responsibility for loss or
+damage resulting from its use or for the violation of any authorities having jurisdiction with which this publication may
+conflict.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications are published to facilitate the broad availability of proven, sound engineering and operating
+practices. These publications are not intended to obviate the need for applying sound engineering judgment
+regarding when and where these publications should be utilized. The formulation and publication of API publications
+is not intended in any way to inhibit anyone from using any other practices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard
+is solely responsible for complying with all the applicable requirements of that standard. API does not represent,
+warrant, or guarantee that such products do in fact conform to the applicable API standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Classified areas may vary depending on the location, conditions, equipment, and substances involved in any given
+situation. Users of this Standard should consult with the appropriate authorities having jurisdiction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Users of this Standard should not rely exclusively on the information contained in this document. Sound business,
+scientific, engineering, and safety judgment should be used in employing the information contained herein.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights reserved. No part of this work may be reproduced, translated, stored in a retrieval system, or transmitted by any means,
+electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher. Contact the
+Publisher, API Publishing Services, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright © 2012 American Petroleum Institute<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the
+manufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything
+contained in the publication be construed as insuring anyone against liability for infringement of letters patent.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shall: As used in a standard, “shall” denotes a minimum requirement in order to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Should: As used in a standard, “should” denotes a recommendation or that which is advised but not required in order
+to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document was produced under API standardization procedures that ensure appropriate notification and
+participation in the developmental process and is designated as an API standard. Questions concerning the
+interpretation of the content of this publication or comments and questions concerning the procedures under which
+this publication was developed should be directed in writing to the Director of Standards, American Petroleum
+Institute, 1220 L Street, NW, Washington, DC 20005. Requests for permission to reproduce or translate all or any part
+of the material published herein should also be addressed to the director.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Generally, API standards are reviewed and revised, reaffirmed, or withdrawn at least every five years. A one-time
+extension of up to two years may be added to this review cycle. Status of the publication can be ascertained from the
+API Standards Department, telephone (202) 682-8000. A catalog of API publications and materials is published
+annually by API, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Suggested revisions are invited and should be submitted to the Standards Department, API, 1220 L Street, NW,
+Washington, DC 20005, standards@api.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>API Foreword ............................................................................................................................................... ii<<HEADING_END>>
+<<HEADING level=3>>Foreword ...................................................................................................................................................... v<<HEADING_END>>
+<<HEADING level=3>>Introduction ................................................................................................................................................ vi<<HEADING_END>>
+<<HEADING level=3>>1
+Scope............................................................................................................................................... 1<<HEADING_END>>
+<<PARAGRAPH>>2
+Conformance .................................................................................................................................. 1
+2.1
+Units of measurement ................................................................................................................... 1
+2.2
+Rounding ........................................................................................................................................ 1
+2.3
+Compliance with this International Standard .............................................................................. 1<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Normative references .................................................................................................................... 2<<HEADING_END>>
+<<HEADING level=3>>4
+Terms and definitions .................................................................................................................... 3<<HEADING_END>>
+<<PARAGRAPH>>5
+Symbols and abbreviated terms ................................................................................................... 6
+5.1
+Symbols .......................................................................................................................................... 6
+5.2
+Abbreviated terms .......................................................................................................................... 6<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Actuator types and configurations .............................................................................................. 7
+6.1
+General ............................................................................................................................................ 7
+6.2
+Actuator types ................................................................................................................................ 7
+6.3
+Actuator configuration ................................................................................................................ 20
+6.4
+Action on loss of supply energy ................................................................................................ 21<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Design ........................................................................................................................................... 21
+7.1
+General .......................................................................................................................................... 21
+7.2
+Pressure-containing parts .......................................................................................................... 23
+7.3
+Bolting and tie rod design ........................................................................................................... 24
+7.4
+Mechanically loaded parts .......................................................................................................... 24
+7.5
+Springs and modules ................................................................................................................... 24
+7.6
+Mounting kit .................................................................................................................................. 24
+7.7
+Stem extensions ........................................................................................................................... 25
+7.8
+Lifting ............................................................................................................................................ 25
+7.9
+Handwheels and levers for manual override ............................................................................ 25
+7.10
+Locking devices ........................................................................................................................... 26
+7.11
+Position indicators ....................................................................................................................... 26
+7.12
+Travel stops .................................................................................................................................. 26
+7.13
+Orientation .................................................................................................................................... 26
+7.14
+Sealing .......................................................................................................................................... 26
+7.15
+Over-pressure protection ............................................................................................................ 26
+7.16
+Design documents ....................................................................................................................... 26<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+Sizing ............................................................................................................................................. 26
+8.1
+Information required for actuator sizing .................................................................................... 26
+8.2
+Sizing method ............................................................................................................................... 28<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+Instrumentation/regulation ......................................................................................................... 28
+9.1
+Torque limiting settings — Electric actuators .......................................................................... 28
+9.2
+Torque/thrust limiting controls — Pneumatic/hydraulic actuators ........................................ 29<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+Materials ........................................................................................................................................ 29
+10.1
+Material specification ................................................................................................................... 29
+10.2
+Service compatibility ................................................................................................................... 29
+10.3
+Composition limits ....................................................................................................................... 29<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>10.4
+Toughness test requirements for pressure-containing parts ................................................. 30
+10.5
+Bolting for pressure-containing, mechanically loaded parts and mounting kits .................. 31
+10.6
+Mechanically loaded parts .......................................................................................................... 31
+10.7
+Sour service .................................................................................................................................. 31<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+Welding ......................................................................................................................................... 31
+11.1
+Welding of pressure-containing parts ....................................................................................... 31
+11.2
+Structural welding ........................................................................................................................ 31
+11.3
+Impact testing ............................................................................................................................... 32
+11.4
+Hardness testing .......................................................................................................................... 33
+11.5
+Repair ............................................................................................................................................ 33<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+Quality control .............................................................................................................................. 33
+12.1
+NDE requirements ........................................................................................................................ 33
+12.2
+Measuring and test equipment ................................................................................................... 34
+12.3
+Qualification of inspection and test personnel ......................................................................... 34
+12.4
+NDE of repairs .............................................................................................................................. 35
+12.5
+Visual inspection of castings ..................................................................................................... 35<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+Testing .......................................................................................................................................... 35
+13.1
+General .......................................................................................................................................... 35
+13.2
+Shell test ....................................................................................................................................... 35
+13.3
+Piston seal test ............................................................................................................................. 36
+13.4
+Torque/thrust test — Pneumatic/hydraulic actuators .............................................................. 36
+13.5
+Testing of electric actuators ....................................................................................................... 36
+13.6
+Actuator functional test ............................................................................................................... 37<<PARAGRAPH_END>>
+<<HEADING level=3>>14
+Surface protection ....................................................................................................................... 37<<HEADING_END>>
+<<HEADING level=3>>15
+Marking ......................................................................................................................................... 38<<HEADING_END>>
+<<HEADING level=3>>16
+Preparation for shipment ............................................................................................................ 38<<HEADING_END>>
+<<HEADING level=3>>17
+Documentation ............................................................................................................................. 39<<HEADING_END>>
+<<HEADING level=3>>Annex A  (informative)   Supplementary test requirements ..................................................................... 40<<HEADING_END>>
+<<HEADING level=3>>Annex B  (informative)   Optional documentation ..................................................................................... 41<<HEADING_END>>
+<<HEADING level=3>>Annex C  (informative)   Purchasing guidelines ........................................................................................ 42<<HEADING_END>>
+<<HEADING level=3>>Annex D  (normative)   Record retention ................................................................................................... 45<<HEADING_END>>
+<<HEADING level=3>>Annex E  (informative)   Typical torque/thrust curves .............................................................................. 46<<HEADING_END>>
+<<HEADING level=3>>Bibliography .............................................................................................................................................. 51<<HEADING_END>>
+<<PARAGRAPH>>iv<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards
+bodies (ISO member bodies). The work of preparing International Standards is normally carried out
+through ISO technical committees. Each member body interested in a subject for which a technical
+committee has been established has the right to be represented on that committee. International
+organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO
+collaborates closely with the International Electrotechnical Commission (IEC) on all matters of
+electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of
+patent rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 12490 was prepared by Technical Committee ISO/TC 67,  Materials, equipment and offshore
+structures for petroleum, petrochemical and natural gas industries , Subcommittee SC 2,  Pipeline
+transporation systems .<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>It is necessary that users of this International Standard be aware that further or differing requirements can
+be needed for individual applications. This International Standard is not intended to inhibit a vendor from
+offering, or the purchaser from accepting, alternative equipment or engineering solutions for the individual
+application. This can be particularly applicable where there is innovative or developing technology. Where
+an alternative is offered, it is the responsibility of the vendor to identify any variations from this
+International Standard and provide details.<<PARAGRAPH_END>>
+<<PARAGRAPH>>vi<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>API Standard 6DX/ISO 12490:2011<<HEADING_END>>
+<<HEADING level=1>>Petroleum and natural gas industries — Mechanical integrity
+and sizing of actuators and mounting kits for pipeline valves<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This International Standard defines the requirements for mechanical integrity and sizing of actuators used
+on valves manufactured under ISO 14313 and API Specification 6D.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This International Standard is applicable to all types of electric, pneumatic and hydraulic actuators,
+inclusive of mounting kit, installed on pipeline valves.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This International Standard is not applicable to actuators installed on control valves, valves being used for
+regulation, valves in sub-sea service, handheld powered devices, stand-alone manually operated
+gearboxes, instrument tubing and associated fittings and actuator control equipment.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Conformance<<HEADING_END>>
+<<HEADING level=3>>2.1 Units of measurement<<HEADING_END>>
+<<PARAGRAPH>>In this International Standard, data are expressed in both SI units and USC units. For a specific order item,
+unless otherwise stated, only one system of units shall be used, without combining data expressed in the
+other system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For data expressed in SI units, a comma is used as the decimal separator and a space is used as the
+thousands separator. For data expressed in USC units, a dot (on the line) is used as the decimal
+separator and a comma is used as the thousands separator.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.2 Rounding<<HEADING_END>>
+<<PARAGRAPH>>Unless otherwise stated in this International Standard, to determine conformance with the specified
+requirements, observed or calculated values shall be rounded to the nearest unit in the last right-hand
+place of figures used in expressing the limiting value, in accordance with ISO 80000-1:2009.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.3 Compliance with this International Standard<<HEADING_END>>
+<<PARAGRAPH>>A quality system should be applied to assist compliance with the requirements of this International
+Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+ISO/TS 29001 gives sector-specific guidance on quality management systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The manufacturer shall be responsible for complying with all of the applicable requirements of this
+International Standard. It shall be permissible for the purchaser to make any investigation necessary in
+order to be assured of compliance by the manufacturer and to reject any material that does not comply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>2
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 148-1,  Metallic materials — Charpy pendulum impact test — Part 1: Test method<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 4406:1999,  Hydraulic fluid power — Fluids — Method for coding the level of contamination by solid
+particles<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5210,  Industrial valves — Multi-turn valve actuator attachments<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5211,  Industrial valves — Part-turn actuator attachments<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9606-1,  Approval testing of welders — Fusion welding — Part 1: Steels<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of NDT personnel — General
+principles<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10474,  Steel and steel products — Inspection documents<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 14313:2007,  Petroleum and natural gas industries — Pipeline transportation systems — Pipeline
+valves<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 15156 (all parts),  Petroleum and natural gas industries — Materials for use in H 2 S-containing
+environments in oil and gas production<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 15607,  Specification and qualification of welding procedures for metallic materials — General rules<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 15609 (all parts),  Specification and qualification of welding procedures for metallic materials —
+Welding procedure specification<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 15614-1,  Specification and qualification of welding procedures for metallic materials — Welding
+procedure test — Part 1: Arc and gas welding of steels and arc welding of nickel and nickel alloys<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 80000-1:2009, Q ualities and units — Part 1: General<<PARAGRAPH_END>>
+<<PARAGRAPH>>IEC 60529,  Degrees of protection provided by enclosures (IP Code)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME Boiler and Pressure Vessel Code, Section VIII, Division 1,  Rules for Construction of Pressure
+Vessels 1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME Boiler and Pressure Vessel Code, Section VIII:2004, Division 2, Alternative Rules,  Rules for
+Construction of Pressure Vessels<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME Boiler and Pressure Vessel Code, Section IX,  Welding and Brazing Qualifications<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASNT SNT-TC-1A 2) , Recommended Practice No. SNT-TC-1A,  Non-Destructive Testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASTM A320/A320M 3) ,  Standard Specification for Alloy-Steel and Stainless Steel Bolting Materials for
+Low-Temperature Service<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASTM A370,  Standard Test Methods and Definitions for Mechanical Testing of Steel Products<<PARAGRAPH_END>>
+<<PARAGRAPH>>ANSI/AWS D1.1/D1.1M 4) ,  Structural Welding Code — Steel<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) American Society of Mechanical Engineers International, 345 East 47th Street, New York, NY 10017-2392, USA.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) American Society of Non-Destructive Testing, P.O. Box 28518, 1711 Arlingate Lane, Columbus, OH 43228-0518,
+USA.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3) ASTM International, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, USA.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4) The American Welding Society, 550 NW LeJeune Road, Miami, FL 33126, USA.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS QC1,  Standard for AWS Certification of Welding Inspectors<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 287-1 5) ,  Qualification test of welders — Fusion welding — Part 1: Steels<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 473,  Non-destructive testing — Qualification and certification of NDT personnel — General principles<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 10204,  Metallic products — Types of inspection documents<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 12516-1,  Industrial valves — Shell design strength — Part 1: Tabulation method for steel valve shells<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 12516-2,  Industrial valves — Shell design strength — Part 2: Calculation method for steel valve shells<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 13445-3,  Unfired pressure vessels — Part 3: Design<<PARAGRAPH_END>>
+<<PARAGRAPH>>MSS SP-55,  Quality Standard for Steel Castings for Valves, Flanges and Fittings and Other Piping
+Components — Visual Method for Evaluation of Surface Irregularities<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the following terms and definitions apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1
+actuator
+electrically, pneumatically or hydraulically powered device bolted or otherwise attached to the valve for
+the purpose of applying torque or thrust to open and close a valve<<HEADING_END>>
+<<HEADING level=3>>4.2
+actuator, linear
+actuator that transmits thrust to the valve for a defined linear stroke<<HEADING_END>>
+<<HEADING level=3>>4.3
+actuator, multi-turn
+actuator that transmits torque to the valve for a rotation of more than one revolution<<HEADING_END>>
+<<HEADING level=3>>4.4
+actuator, part-turn
+actuator that transmits torque to the valve for a rotation of one revolution or less<<HEADING_END>>
+<<HEADING level=3>>4.5
+breakaway thrust
+breakaway torque
+maximum thrust or torque required to operate a valve at maximum pressure differential<<HEADING_END>>
+<<PARAGRAPH>>[ISO 14313]<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6
+by agreement
+agreed between the manufacturer and/or supplier and/or purchaser<<HEADING_END>>
+<<HEADING level=3>>4.7
+coupling
+driven component (drive adapter, drive tube, drive shaft) that allows transmission of torque and/or thrust
+from an actuator driving component to the valve shaft/stem<<HEADING_END>>
+<<PARAGRAPH>>5) CEN, European Committee for Standardization, Central Secretariat, Rue de Stassart 36, B-1050 Brussels,
+Belgium.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>4
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>4.8
+cycle
+continuous movement of the valve obturator from the fully closed position to the fully open position and
+back to the fully closed position, or vice versa<<HEADING_END>>
+<<HEADING level=3>>4.9
+drive train
+all parts of a valve drive between the operator and the obturator, including the obturator but excluding the
+operator<<HEADING_END>>
+<<PARAGRAPH>>[ISO 14313]<<PARAGRAPH_END>>
+<<HEADING level=3>>4.10
+intermediate support
+mechanical component (bracket, spool, adapter flange) that allows the attachment between a valve and
+actuator<<HEADING_END>>
+<<HEADING level=3>>4.11
+mechanically loaded parts
+actuator parts that are designed to provide the generation and/or transmission of torque or thrust<<HEADING_END>>
+<<HEADING level=3>>4.12
+maximum allowable stem torque/thrust
+MAST
+maximum torque/thrust that it is permissible to apply to the valve drive train without risk of damage, as
+defined by the valve manufacturer/supplier<<HEADING_END>>
+<<HEADING level=3>>4.13
+mounting kit
+components that may be comprised of combinations of the following: intermediate support, coupling, drive
+key(s), dowel pin and bolting<<HEADING_END>>
+<<PARAGRAPH>>4.14
+pitch circle diameter
+PCD
+diameter of a circle on which a pattern of holes, either threaded or through-machined, is arranged,
+commonly used for the purpose of fastening two mating components together<<PARAGRAPH_END>>
+<<HEADING level=3>>4.15
+pressure-containing parts
+parts whose failure to function as intended results in a release of contained fluid into the environment<<HEADING_END>>
+<<PARAGRAPH>>[ISO 14313]<<PARAGRAPH_END>>
+<<HEADING level=3>>4.16
+pressure, design
+pressure defined for the design of the actuator pressure-containing parts, as defined by the actuator
+manufacturer<<HEADING_END>>
+<<HEADING level=3>>4.17
+pressure, maximum operating
+maximum available pressure to supply at the actuator pressure port, as defined by the actuator
+manufacturer/supplier<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+This is the pressure that generates the torque/thrust used to design the mounting kit.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+5<<PARAGRAPH_END>>
+<<HEADING level=3>>4.18
+pressure, maximum rated
+maximum pressure permissible in the pressure-containing parts in their normal operating condition and
+which is used to generate design torque/thrust<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+This is the pressure that generates the torque/thrust and is used to design the mechanically loaded parts
+of the actuator.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.19
+pressure, maximum supply
+maximum available pressure to supply at the actuator, as defined by the purchaser<<HEADING_END>>
+<<HEADING level=3>>4.20
+pressure, minimum operating
+minimum required pressure to supply at the actuator pressure port, as defined by the actuator
+manufacturer/supplier<<HEADING_END>>
+<<HEADING level=3>>4.21
+pressure, minimum supply
+minimum available pressure to supply at the actuator, as defined by the purchaser<<HEADING_END>>
+<<HEADING level=3>>4.22
+reduced stroke actuator
+actuator with suitable travel stops that can be used to provide a movement to a predetermined position
+within the actuator stroke<<HEADING_END>>
+<<HEADING level=3>>4.23
+stall torque
+maximum torque/thrust that an electric actuator develops when the motor is energised and the output
+drive is locked<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+This is the torque used to design the mechanically loaded parts of the actuator.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.24
+stem
+part that connects the obturator to the operator and which can consist of one or more components<<HEADING_END>>
+<<PARAGRAPH>>[ISO 14313]<<PARAGRAPH_END>>
+<<HEADING level=3>>4.25
+stroke
+movement of the valve obturator from the fully closed position to the fully open position, or vice versa<<HEADING_END>>
+<<HEADING level=3>>4.26
+supplier
+manufacturer or third-party supplier of the actuator or the actuated valve assembly<<HEADING_END>>
+<<HEADING level=3>>4.27
+temperature, maximum design
+maximum temperature at which the actuator is capable of operating, as defined by the actuator
+manufacturer<<HEADING_END>>
+<<HEADING level=3>>4.28
+temperature, maximum operating
+maximum temperature at which the actuator is required to operate, as defined by the purchaser<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Operating temperature can be influenced by ambient temperature.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>6
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>4.29
+temperature, minimum design
+minimum temperature at which the actuator is capable of operating, as defined by the actuator
+manufacturer<<HEADING_END>>
+<<HEADING level=3>>4.30
+temperature, minimum operating
+minimum temperature at which the actuator is required to operate, as defined by the purchaser<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Operating temperature can be influenced by ambient temperature.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.31
+torque/thrust, design
+highest torque/thrust of an actuator at maximum spring force, maximum supply voltage, or maximum
+rated pressure with torque/thrust-limiting or pressure-reducing protection devices de-activated, which is
+used to design mechanically loaded parts<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.32
+torque/thrust, maximum
+highest torque/thrust of an actuator at specified voltage/pressure with torque/thrust-limiting or pressure-
+reducing protection devices active, which is used for the design of the mounting kit<<PARAGRAPH_END>>
+<<HEADING level=3>>4.33
+unless otherwise agreed
+requirements of the standard shall apply, unless the manufacturer and purchaser agree on a deviation<<HEADING_END>>
+<<PARAGRAPH>>[ISO 14313]<<PARAGRAPH_END>>
+<<HEADING level=3>>4.34
+unless otherwise specified
+requirements of the standard shall apply, unless the purchaser specifies otherwise<<HEADING_END>>
+<<PARAGRAPH>>[ISO 14313]<<PARAGRAPH_END>>
+<<HEADING level=3>>4.35
+voltage, maximum supply
+maximum available voltage to be supplied at the actuator<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+This is the voltage used to design the mechanically loaded parts.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.36
+voltage, minimum supply
+minimum available voltage to be supplied at the actuator<<HEADING_END>>
+<<HEADING level=3>>5
+Symbols and abbreviated terms<<HEADING_END>>
+<<HEADING level=3>>5.1 Symbols<<HEADING_END>>
+<<PARAGRAPH>>S m
+design stress intensity<<PARAGRAPH_END>>
+<<PARAGRAPH>>t
+thickness<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Abbreviated terms<<HEADING_END>>
+<<PARAGRAPH>>BM
+base metal<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+7<<PARAGRAPH_END>>
+<<PARAGRAPH>>BPVC
+Boiler and Pressure Vessel Code<<PARAGRAPH_END>>
+<<PARAGRAPH>>CE
+carbon equivalent<<PARAGRAPH_END>>
+<<PARAGRAPH>>HAZ
+heat-affected zone<<PARAGRAPH_END>>
+<<PARAGRAPH>>HBW
+Brinell hardness, tungsten ball indenter<<PARAGRAPH_END>>
+<<PARAGRAPH>>HRC
+Rockwell C hardness<<PARAGRAPH_END>>
+<<PARAGRAPH>>HV
+Vickers hardness<<PARAGRAPH_END>>
+<<PARAGRAPH>>MT
+magnetic-particle testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>NDE
+non-destructive examination<<PARAGRAPH_END>>
+<<PARAGRAPH>>PQR
+procedure qualification record<<PARAGRAPH_END>>
+<<PARAGRAPH>>PT
+penetrant testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>PWHT
+post-weld heat treatment<<PARAGRAPH_END>>
+<<PARAGRAPH>>RT
+radiographic testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>SMYS
+specified minimum yield strength<<PARAGRAPH_END>>
+<<PARAGRAPH>>USC
+United States customary<<PARAGRAPH_END>>
+<<PARAGRAPH>>UT
+ultrasonic testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>WM
+weld metal<<PARAGRAPH_END>>
+<<PARAGRAPH>>WPQ
+welder performance qualification<<PARAGRAPH_END>>
+<<PARAGRAPH>>WPS
+weld procedure specification<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Actuator types and configurations<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>Actuators shall be part-turn, multi-turn or linear in action. Part-turn actuators shall be capable of
+withstanding torsional forces. Multi-turn actuators shall be capable of withstanding torsional forces, and
+shall also be capable of withstanding axial thrust if specified. Linear actuators shall be capable of
+withstanding axial thrust.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For reduced stroke actuators, i.e. an actuator that prevents the valve from reaching its fully open or fully
+closed position, the stroke range shall be specified by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Some typical torque/thrust characteristics are shown in Annex   E.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Actuator types<<HEADING_END>>
+<<HEADING level=3>>6.2.1 Electric<<HEADING_END>>
+<<PARAGRAPH>>Typical configurations for electric actuators are shown, for illustration purposes only, in Figures 1 to 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Electric actuators shall be self-contained units, typically comprised of an electric motor, reduction gearing,
+limit and/or torque switches, handwheel for manual override, and a motor control package, which may be
+integral or external to the actuator.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Electric actuators shall be powered from either an AC or DC electrical source, which shall be specified by
+the purchaser. The output of electric actuators shall be part-turn, multi-turn or linear in action.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>8
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+control board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+terminal board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+electric motor<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+reduction gear<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+motor shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+motor housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+terminal block<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+local control unit<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+manual override<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+declutch lever<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+part-turn gear<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+gearbox input shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+stop bolt<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Electric actuator, part-turn with reduction, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+9<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+control board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+terminal board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+electric motor<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+reduction gear<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+motor shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+motor housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+terminal block<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+local control unit<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+manual override<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+declutch lever<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+multi-turn gear<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+gearbox input shaft<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 2 — Electric actuator, multi-turn with reduction, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>10
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+control board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+terminal board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+electric motor<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+reduction gear<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+motor shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+motor housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+terminal block<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+local control unit<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+manual override<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+declutch lever<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+linear motion shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+thrust nut<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 3 — Electric actuator, linear with reduction, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+11<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+control board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+terminal board housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+electric motor<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+reduction gear<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+motor shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+motor housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+terminal block<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+local control unit<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+manual override<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+declutch lever<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+spring<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+spring cartridge<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+rack and pinion<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 4 — Electric actuator, part-turn with reduction, single-acting with spring return<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>12
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.2 Pneumatic<<HEADING_END>>
+<<PARAGRAPH>>Typical configurations for pneumatic actuators are shown, for illustration purposes only, in Figures 5 to 9
+and 11.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pneumatic part-turn and multi-turn actuators shall be comprised of pneumatic cylinder(s) or another
+shape, appropriate gearing and travel stops.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pneumatic actuators should be powered by compressed air, unless otherwise specified. Minimum
+compressed air cleanliness should be as given in ISO 8573-1:2010, class 5 for particle size and class 3
+for dew point. Where other compressed gases or pressurized fluids are used, the internal actuator parts
+and lubricants shall be compatible.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.3 Hydraulic<<HEADING_END>>
+<<PARAGRAPH>>Typical configurations for hydraulic actuators are shown, for illustration purposes only, in Figures 5 to 8,
+10 and 12 to13.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hydraulic part-turn and multi-turn actuators shall be comprised of hydraulic cylinder(s) or another shape,
+appropriate gearing and travel stops.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hydraulic actuators shall be powered by pressurised hydraulic fluid. The hydraulic fluid shall be selected
+by agreement, ensuring compatibility with internal actuator parts and lubricants.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Minimum hydraulic fluid cleanliness shall be in accordance with ISO 4406:1999, class 19/17/14, unless
+otherwise agreed.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+13<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+guide block<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+guide bar<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+piston rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+inner cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+outer cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+yoke<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+cylinder<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+piston<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+tie rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+travel stop<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+rack and pinion<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+pressure port<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 5 — Pneumatic/hydraulic actuator, part-turn, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>14
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+guide block<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+guide bar<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+piston rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+inner cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+outer cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+yoke<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+cylinder<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+piston<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+tie rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+travel stop<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+rack and pinion<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+spring<<PARAGRAPH_END>>
+<<PARAGRAPH>>14
+pressure port<<PARAGRAPH_END>>
+<<PARAGRAPH>>15
+pressure vent<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 6 — Pneumatic/hydraulic actuator, part-turn, single-acting with spring return<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+15<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+mounting flange<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+pedestal<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+coupling<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+piston rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+lower cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+upper cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+cylinder<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+piston<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+tie rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+visual position indicator rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+pressure port<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 7 — Pneumatic/hydraulic actuator, linear, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>16
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+mounting flange
+8
+piston<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+pedestal
+9
+tie rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+coupling
+10
+visual position indicator rod<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+piston rod
+11
+spring<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+lower cap
+12
+spring cartridge<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+upper cap
+13
+pressure port<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+cylinder
+14
+pressure vent<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 8 — Pneumatic/hydraulic actuator, linear, single-acting with spring return<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+17<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+rotor/shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+vane<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+travel stop<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+pressure port<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 9 — Pneumatic actuator, vane, part-turn, double-acting<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+rotor/shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+vane<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+cover<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+fixed shoe<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+base<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+pressure port<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 10 — Hydraulic actuator, vane, part-turn, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<PARAGRAPH>>18
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+rotor/shaft<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+vane<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+spring housing<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+spring<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+travel stop<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+pressure port<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+pressure vent<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 11 — Pneumatic actuator, vane, part-turn, single-acting, spring return<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+19<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing
+7
+cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+cylinder
+8
+thrust bushing<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+mounting flange
+9
+seal<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+coupling
+10
+pressure port<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+piston with helix
+11
+pressure vent<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+position indicator
+12
+helical spline<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Axial thrust.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Rotary motion.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 12 — Hydraulic actuator, helix, part-turn, double-acting<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<PARAGRAPH>>20
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+housing
+8
+thrust bushing<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+cylinder
+9
+cover<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+mounting flange
+10
+spring cartridge<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+coupling
+11
+spring<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+piston with helix
+12
+seal<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+position indicator
+13
+helical spline<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+cap<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Axial thrust.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Rotary motion.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 13 — Hydraulic actuator, helix, part-turn, single-acting, spring return<<HEADING_END>>
+<<HEADING level=3>>6.3 Actuator configuration<<HEADING_END>>
+<<HEADING level=3>>6.3.1 Double-acting<<HEADING_END>>
+<<PARAGRAPH>>Typical configurations for double-acting actuators are shown, for illustration purposes only, in Figures 1, 2,
+3, 5, 7, 9, 10 and 12.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Double-acting actuators can be of the electric, pneumatic, or hydraulic type and can have either part-turn,
+multi-turn or linear action. The design requires the application of supply energy to operate the actuator output in both
+directions.<<PARAGRAPH_END>>
+<<HEADING level=3>>CAUTION — If supplying a double-acting actuator for fail-safe action, a suitable and appropriately
+sized stored energy device is required.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+21<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2 Single-acting<<HEADING_END>>
+<<PARAGRAPH>>Typical configurations for single-acting actuators are shown, for illustration purposes only, in Figures 4, 6,
+8, 11 and 13.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Single-acting actuators can be of the electric, pneumatic, or hydraulic type and can have either part-turn
+or linear action to operate in one direction only, with the return stroke being powered by an alternative form of stored
+energy. Single-acting actuators are generally associated with fail-safe applications.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 Action on loss of supply energy<<HEADING_END>>
+<<PARAGRAPH>>Upon loss of supply energy, the valve shall be automatically driven to, or remain in, a predetermined
+position as defined by the purchaser. These positions are commonly as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  fail-open;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  fail-closed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  fail-last.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Design<<HEADING_END>>
+<<HEADING level=3>>7.1 General<<HEADING_END>>
+<<PARAGRAPH>>The actuator portion of the interface between the actuator and the valve shall be in accordance with
+ISO 5210 or ISO 5211 unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If alternative dimensions are used that are outside the scope of ISO 5210 or ISO 5211, they shall follow
+the design methodology and acceptance criteria of these International Standards unless otherwise
+agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Actuators that are subjected to frequent cycling and/or rapid operation can require additional design
+considerations, including fatigue analysis and impact as appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Design verification and/or validation, including a design review, shall be performed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For pneumatic and hydraulic actuators,<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the design pressure being used for the design of the pressure-containing parts shall be specified by
+the actuator manufacturer, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the maximum rated pressure shall be defined by the actuator manufacturer, and shall be less than or
+equal to the design pressure and greater than or equal to the maximum operating pressure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>These actuator pressure relationships are illustrated in Figure 14. The relationships between energy (e.g.
+pressure and voltage), torque/thrust, component part design and sizing are shown in Figure 15, along
+with references to the corresponding subclause(s).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PARAGRAPH>>22
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 14 — Relationship between design, supply and rated pressures<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+23<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The numbers in brackets refer to the corresponding subclause.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 15 — Relationship between energy, torque/thrust and actuator design and sizing<<HEADING_END>>
+<<HEADING level=3>>7.2 Pressure-containing parts<<HEADING_END>>
+<<PARAGRAPH>>Pressure-containing parts, such as the cylinder heads and cylinder, shall be designed in accordance with
+one of the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  ASME BPVC Section VIII, Division 1 or Division 2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  EN 12516-1, EN 12516-2 or EN 13445-3;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  other internationally recognized design codes or standards by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The use of proprietary design methodology, calculations, acceptance criteria and satisfactory documented
+previous experience including validation testing shall be by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Associated fittings and actuator control equipment are not within the scope of this International Standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<PARAGRAPH>>24
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3 Bolting and tie rod design<<HEADING_END>>
+<<PARAGRAPH>>Bolting and tie rod design for pressure-containing parts shall be in accordance with the selected design
+code (see 7.2), unless otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4 Mechanically loaded parts<<HEADING_END>>
+<<PARAGRAPH>>Mechanically loaded parts shall be designed to accommodate the maximum anticipated in-service load,
+including design torque/thrust, and shall take into account the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust generated at maximum rated pressure, for pneumatic/hydraulic actuators;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust generated by maximum compressed spring force, for spring return actuators;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust at maximum supply voltage;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust at stall condition, for electric actuators.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mechanically loaded parts shall be designed in accordance with a documented methodology, including
+acceptance criteria. Acceptance criteria shall include analysis of stress, strain (and fatigue where
+applicable) encountered during operation at maximum torque/thrust output. Alternatively, acceptance
+criteria may be satisfactory documented previous experience including validation testing.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5 Springs and modules<<HEADING_END>>
+<<PARAGRAPH>>The spring(s) on spring return actuators shall be designed in accordance with internationally recognized
+design codes or standards. If no equations exist for the spring type, a proprietary equation may be used
+provided it has been validated by cycle testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+An example of an internationally recognized design code or standard is EN 13906.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A qualification test shall be performed on all spring(s) by full-load cycling a minimum of five times followed
+by load testing to validate the actuator spring design data. Additionally, a sample of each production
+batch of springs shall be subjected to the same test to verify the performance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The manufacturer shall provide procedures for the safe removal of the spring/spring module.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6 Mounting kit<<HEADING_END>>
+<<HEADING level=3>>7.6.1
+Design basis shall be either stress-based or based on satisfactory documented previous
+experience including validation testing.<<HEADING_END>>
+<<PARAGRAPH>>The mounting kit shall be designed to transfer all of the loads from the actuator to the valve and to react
+to them, including loads of 1,1 or more times the maximum torque/thrust output, and it shall take into
+account the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust generated at maximum operating pressure or as limited by relief valve or other
+pressure-limiting device, for pneumatic/hydraulic actuators;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust generated by maximum compressed spring force, for spring return actuators;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  torque/thrust at stall condition or 100 % torque/thrust switch setting, for electric actuators.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The maximum torque/thrust output shall be less than or equal to the design torque/thrust.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tensile stresses in mounting kit components shall not exceed 67 % of SMYS when delivering 1,1 or more
+times the maximum torque/thrust output.  Shear, torsion and bearing stresses shall not exceed the limits<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+25<<PARAGRAPH_END>>
+<<PARAGRAPH>>specified in ASME BPVC Section VIII:2004, Division 2, Part AD-132, except that design stress intensity
+values,  S m , shall be 67 % of SMYS.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A strength efficiency factor of 0,75 shall be used for fillet welds, unless otherwise agreed. For additional
+welding requirements, see 11.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.6.2
+For all mounting kits, attention shall be paid to deflection and strain. Adherence to these
+allowable stress limits alone might not result in a functionally acceptable design for the actuated valve
+assembly.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Ensuring that the valve (e.g. bolting) is capable of transferring all of the loads from the actuator to the
+valve and of reacting to them, including loads of 1,1 or more times the maximum torque/thrust output, is the
+responsibility of the valve manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bolting in mounting kits shall not be subjected to shear forces, unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The mounting kit design and manufacturing tolerance shall ensure the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  parallelism of the intermediate support mounting faces;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  concentricity of the PCD of the bolting of the intermediate support;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  alignment of the PCD, valve stem, coupling and the actuator drive.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6.3
+The mounting kit design shall also consider the following:<<HEADING_END>>
+<<PARAGRAPH>>⎯  installed orientation of the valve and actuator;<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Valves installed with horizontal stems can require additional support, e.g. spigots, to ensure accurate
+alignment of valve and actuator during removal and refitting in field service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  external loading from environmental effects (e.g. wind, snow, seismic activity);<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  blast loading, if specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  frequency of cycling and speed of operation.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.7 Stem extensions<<HEADING_END>>
+<<PARAGRAPH>>Stem extensions shall be designed in accordance with ISO 14313:2007, 7.20.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8 Lifting<<HEADING_END>>
+<<PARAGRAPH>>For actuators heavier than 25 kg, lifting points shall be identified, for the purpose of lifting the actuator
+alone during installation or maintenance, unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier of the actuated valve assembly shall identify the lifting points for the complete actuated valve
+assembly.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Regulatory requirements can specify special design, manufacturing, testing and certification of lifting points.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.9 Handwheels and levers for manual override<<HEADING_END>>
+<<PARAGRAPH>>If a handwheel or lever is provided, the maximum force required at the handwheel or lever to apply the
+breakaway torque or thrust shall not exceed 360 N (80 lbf).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Handwheel diameter(s) shall not exceed 800 mm, unless otherwise agreed. Spokes shall not extend
+beyond the perimeter of the handwheel.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<PARAGRAPH>>26
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>The direction of closing for handwheel and lever shall be clockwise, unless otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10 Locking devices<<HEADING_END>>
+<<PARAGRAPH>>Actuators shall be supplied with locking devices if specified by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11 Position indicators<<HEADING_END>>
+<<PARAGRAPH>>Actuators shall be furnished with a visible indicator to show the open and the closed positions of the valve
+obturator.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12 Travel stops<<HEADING_END>>
+<<PARAGRAPH>>Part-turn actuators shall include adjustable travel stops and they shall locate the position of the obturator
+in the open and closed positions, unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Linear actuators shall have adjustable travel stop(s) if required by the application.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.13 Orientation<<HEADING_END>>
+<<PARAGRAPH>>Actuators with multiple-orientation capability may be supplied. If specified by the purchaser, incorrect
+angular orientation or improper assembly of the actuator to the valve shall be prevented by suitable
+means, such as a dowel pin or fitted bolt that ensures the correct location of the actuator.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The purchaser shall provide details regarding installed orientation of the actuated valve assembly and the
+direction from which local access is required, including pipeline direction and stem direction (e.g.
+horizontal, vertical, inclined, etc.) and actuator orientation (e.g. in-line or transverse to pipeline).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The most common orientation is pipeline horizontal, stem vertical, actuator in line with pipeline.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.14 Sealing<<HEADING_END>>
+<<PARAGRAPH>>Actuators shall be type-tested to IP-65 in accordance with IEC 60529 as a minimum.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.15 Over-pressure protection<<HEADING_END>>
+<<PARAGRAPH>>Actuators and/or mounting kits shall be provided with a means of preventing pressure build-up in the
+mechanism resulting from leakage from the valve stem or bonnet seal leakage.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.16 Design documents<<HEADING_END>>
+<<PARAGRAPH>>The design shall be documented in a retrievable and reproducible form.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Design documentation shall be reviewed and verified by competent personnel other than the person who
+performed the original design.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Sizing<<HEADING_END>>
+<<HEADING level=3>>8.1 Information required for actuator sizing<<HEADING_END>>
+<<HEADING level=3>>8.1.1 General<<HEADING_END>>
+<<PARAGRAPH>>The purchaser shall ensure that when purchasing an actuator for a valve, the MAST and maximum
+torque/thrust are compared to ensure compatibility of design.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+There are potentially multiple entities involved in the process of purchasing an actuator or an actuated
+valve assembly. It is imperative that information as described in 8.1.2 to 8.2 is exchanged, to ensure that the<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+27<<PARAGRAPH_END>>
+<<PARAGRAPH>>necessary entities provide and receive the required information for the supply of an actuator, mounting kit or actuated
+valve assembly.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All required torque/thrust values in 8.1.2 are net values and shall not include an external safety factor.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Example data sheets that can be used for supplying the required data are given in Annex C.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.2 Valve torque and/or thrust data<<HEADING_END>>
+<<PARAGRAPH>>The following data shall be generated by the valve manufacturer, for both opening and closing directions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+breakaway torque/thrust;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+breakaway angle or percent of stroke;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+run torque/thrust;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+reseat torque/thrust;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+MAST.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The breakaway angle or percent of stroke is the point at which the seat breaks/makes sealing contact
+with the obturator. The breakaway angle or percent of stroke can be significant to actuator sizing when in excess of
+5° or 5 % respectively.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For actuators powered directly from a gas pipeline, the torque/thrust data associated with minimum and
+maximum pipeline operating pressures at operating temperature shall be defined.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other specific torque or thrust conditions of the valve shall be made known to the actuator manufacturer.
+For linear valves operated by a multi-turn actuator, the input torque and thrust shall both be specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For valves with a preferred sealing direction, the valve manufacturer shall state whether the torque/thrust
+data are based on the preferred or the non-preferred sealing direction.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.3 Safety factor and operating time<<HEADING_END>>
+<<PARAGRAPH>>The following data shall be provided by the purchaser, for both opening and closing directions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+minimum and maximum operating time;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+actuator sizing safety factor at 8.1.2 a), c) and d).<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.4 Valve dimensions<<HEADING_END>>
+<<PARAGRAPH>>The valve manufacturer/supplier shall provide all relevant valve dimensions, including but not limited to
+the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+stem dimensions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+stem thread form, pitch, lead, whether right-hand or left-hand and number of starts;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+dimensions of stem key;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+mounting pattern (top works) dimensions.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.5 Electric actuator data<<HEADING_END>>
+<<PARAGRAPH>>For electric actuators, the following data shall be provided by the purchaser:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+voltage, phase, frequency;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<PARAGRAPH>>28
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+voltage variation and frequency variation;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+number of consecutive valve strokes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+number of starts per hour;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+minimum and maximum operating and ambient temperatures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+actuator configuration (single- or double-acting);<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+action on loss of supply energy (close, open or last);<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+number of strokes from stored-power source.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1.6 Pneumatic/hydraulic actuator data<<HEADING_END>>
+<<PARAGRAPH>>For pneumatic and hydraulic actuators, the following data shall be provided by the purchaser:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+fluid type, cleanliness and, where applicable, gas composition;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+minimum and maximum supply pressure;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+minimum and maximum operating and ambient temperatures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+actuator configuration (single- or double-acting);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+action on loss of supply energy (close, open or last);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+number of strokes from stored-pressure source, if applicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Stroke damping may be required to control operating speed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Maximum supply pressure, by agreement, may be regulated by the manufacturer or supplier for the
+purpose of meeting sizing requirements (in doing so, it becomes the maximum operating pressure, which
+shall be less than or equal to the maximum rated pressure).<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2 Sizing method<<HEADING_END>>
+<<PARAGRAPH>>The valve torque/thrust values and other related data shall be determined as described in 8.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The actuator shall be selected based on minimum supply voltage or minimum supply pressure, maximum
+compressed spring force and other related data as described in 8.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Actuator maximum output torque/thrust based on the maximum supply voltage or operating pressure shall
+not exceed the valve MAST at any point of travel. For pneumatic/hydraulic actuators, when the maximum
+supply pressure is reduced by means of a regulator and relief valve system, then the pressure used to
+establish the maximum output torque/thrust shall be based on the relief valve set pressure. For electric
+actuators, when torque/thrust-limiting devices are active, the maximum torque/thrust shall be based on
+the rated torque/thrust setting unless otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Instrumentation/regulation<<HEADING_END>>
+<<HEADING level=3>>9.1 Torque limiting settings — Electric actuators<<HEADING_END>>
+<<PARAGRAPH>>The maximum output torque shall not exceed the valve MAST.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Torque-limiting devices shall not be bypassed unless otherwise agreed.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_39>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+29<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2 Torque/thrust limiting controls — Pneumatic/hydraulic actuators<<HEADING_END>>
+<<PARAGRAPH>>If the output of a pneumatic or hydraulic actuator has the potential to exceed the valve MAST, a regulator
+shall be used along with a safety relief valve. The torque/thrust output at the relief valve set pressure shall
+be less than the valve MAST.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Typically, the minimum relief valve set pressure is either 110 % of regulator set pressure or  + 50 kPa
+[ + 0,5 bar;  + 7.3 psi)].<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alternative means of limiting supply pressure may be offered by agreement.<<PARAGRAPH_END>>
+<<HEADING level=3>>10 Materials<<HEADING_END>>
+<<HEADING level=3>>10.1 Material specification<<HEADING_END>>
+<<PARAGRAPH>>Specifications for metallic pressure-containing parts shall be issued by the manufacturer and shall
+address, as a minimum, the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+material type and grade (e.g. carbon steel, austenitic stainless steel, ferritic ductile iron, non-ferrous
+alloys, etc.);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+product form;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+chemical composition;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+condition/heat treatment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+mechanical properties;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+Charpy impacts, if applicable;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+type of inspection document in accordance with ISO 10474 or EN 10204.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2 Service compatibility<<HEADING_END>>
+<<PARAGRAPH>>All parts, metallic and non-metallic, in contact with the operating fluids and lubricants shall be suitable for the
+commissioning fluids and service specified by the purchaser. Metallic materials shall be selected in such a
+manner as to avoid corrosion and galling which can impair function and/or pressure-containing capability.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3 Composition limits<<HEADING_END>>
+<<HEADING level=3>>10.3.1 Carbon steel<<HEADING_END>>
+<<PARAGRAPH>>The chemical composition of carbon steel pressure-containing parts subject to welding, including weld
+repairs and overlays, shall meet the following requirements unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  Carbon content shall not exceed 0,25 % mass fraction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  Carbon equivalent (CE) shall not exceed 0,42.<<PARAGRAPH_END>>
+<<PARAGRAPH>>CE shall be calculated in accordance with Equation (1): 6)<<PARAGRAPH_END>>
+<<PARAGRAPH>>CE  =  %C + %Mn/6
+(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6) The symbols used in this equation are not in accordance with the ISO directives for elements used in
+mathematical equations. However, due to its wide-spread use, a derogation has been granted to retain this equation
+in its original form.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<PARAGRAPH>>30
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3.2 Austenitic stainless steel<<HEADING_END>>
+<<PARAGRAPH>>The carbon content of austenitic stainless steel pressure-containing parts subject to welding, including
+weld repairs, shall not exceed 0,03 % mass fraction, except that for stabilized material a carbon content of
+up to 0,08 % mass fraction is permissible.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The chemical composition of other materials of pressure-containing parts subject to welding, including
+weld repairs, shall be established by agreement.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3.3 Ductile iron<<HEADING_END>>
+<<PARAGRAPH>>The overall composition, general requirements, and micro - structural carbide and graphite content of
+ductile iron pressure-containing parts shall be governed by a nationally or internationally recognized
+standard that is applicable to the temperature range of the actuator environment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The chemical composition of ductile iron shall meet the following requirements, unless otherwise agreed:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  Ferritic ductile iron shall have a minimum carbon content of 3,0 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  Silicon content shall be at least 2,0 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  Maximum silicon content shall be in accordance with Equation (2) up to 2,75 % mass fraction:<<PARAGRAPH_END>>
+<<PARAGRAPH>>%S max   =  2,5  +  8  ×  (0,08  −  %P)
+(2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Maximum silicon content may be raised to 3,0 % if both phosphorous (P) content is limited to 0,02 % and
+manganese (MN) content is within the range 0,15 % to 0,25 %.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3.4 Other materials<<HEADING_END>>
+<<PARAGRAPH>>The chemical composition of other materials used for pressure-containing parts shall be established by
+agreement, and shall be subject to the requirements of 10.1.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.4 Toughness test requirements for pressure-containing parts<<HEADING_END>>
+<<PARAGRAPH>>All carbon steels, alloy steels and non-austenitic stainless steel for pressure-containing parts shall meet
+the toughness test requirements of the selected design code or standard in 7.2, unless otherwise agreed.
+Toughness requirements for other materials shall be determined by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All carbon steels, alloy steels and non-austenitic stainless steel for pressure-containing parts with a
+specified design temperature below  − 29 °C ( − 20 °F) shall be impact tested using the Charpy V-notch
+technique in accordance with ISO 148-1 or ASTM A370.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Design standards or local requirements can require impact testing for minimum design temperatures
+above  − 29 °C ( − 20 °F).<<PARAGRAPH_END>>
+<<PARAGRAPH>>A minimum of one impact test, comprised of a set of three specimens, shall be performed on a
+representative test bar of each heat of the material in the final heat-treated condition.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Test specimens shall be cut from a separate or attached block taken from the same heat, reduced by
+forging where applicable, and heat-treated using the same heat treatment, including stress relieving, as
+for the product material. It is not necessary that pressure-containing parts stress relieved at or below a
+previous stress relieving or tempering temperature be retested.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The impact test shall be performed at the lowest temperature defined in the applicable material
+specifications or the minimum design temperature.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_41>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+31<<PARAGRAPH_END>>
+<<PARAGRAPH>>Except for material for bolting, impact test results for full-size specimens shall meet the more restrictive
+requirements of the material specification or the design standard, unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Impact test results for bolting material shall meet the requirements of ASTM A320/A320M, unless
+otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.5 Bolting for pressure-containing, mechanically loaded parts and mounting kits<<HEADING_END>>
+<<PARAGRAPH>>Bolting material shall be selected to meet the requirements of the specified valve and actuator service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Carbon, low-alloy and austenitic stainless steel bolting material with a hardness exceeding HRC 34
+(HBW 321) shall not be used for applications where hydrogen embrittlement can occur, unless otherwise
+agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+Hydrogen embrittlement can occur in buried pipelines with cathodic protection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+Some materials can be susceptible to environmentally assisted cracking.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.6 Mechanically loaded parts<<HEADING_END>>
+<<PARAGRAPH>>Specifications for metallic mechanically loaded parts and components of mounting kits shall be issued by
+the manufacturer and shall include, as a minimum, the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+mechanical properties;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Charpy impacts, if applicable;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+type of inspection document in accordance with EN 10204.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.7 Sour service<<HEADING_END>>
+<<PARAGRAPH>>Materials for pressure-containing parts and bolting shall meet the requirements of ISO 15156 (all parts) if
+specified by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>11 Welding<<HEADING_END>>
+<<HEADING level=3>>11.1 Welding of pressure-containing parts<<HEADING_END>>
+<<PARAGRAPH>>Welding, including repair welding, of pressure-containing parts and attachment welding to pressure-
+containing parts shall be performed in accordance with procedures qualified to ISO 15607, ISO 15609 (all
+parts), ISO 15614-1 or ASME BPVC Section IX and 11.3 and 11.4 of this International Standard. Welders
+and welding operators shall be qualified in accordance with ISO 9606-1, ASME BPVC Section IX or
+EN 287-1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The purchaser, material specifications and local requirements can specify additional requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The results of all qualification tests shall be documented in a PQR.<<PARAGRAPH_END>>
+<<PARAGRAPH>>PWHT shall be performed in accordance with the relevant WPS.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.2 Structural welding<<HEADING_END>>
+<<PARAGRAPH>>Welding, including repair welding, of structural welds, including mounting kit, shall be performed in
+accordance with procedures qualified to ANSI/AWS D1.1/D1.1M or an equivalent standard. Welders and
+welding operators shall be qualified in accordance with ANSI/AWS D1.1/D1.1M or an equivalent standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_42>>
+<<PARAGRAPH>>32
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alternatively, structural welding, WPS, and PQR in accordance with procedures qualified to ISO 15607,
+ISO 15609 (all parts), ISO 15614-1 or ASME BPVC Section IX and welders and welding operators
+qualified in accordance with ISO 9606-1, ASME BPVC Section IX or EN 287-1 are acceptable.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3 Impact testing<<HEADING_END>>
+<<PARAGRAPH>>Qualifications of procedures for welding of pressure-containing parts, including repair welding, shall be
+performed at the lowest temperature defined in the applicable material specifications or at the minimum
+design temperature.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Impact testing for qualification of the WPS is not required for non-impact-tested base materials, or for
+materials in service above  − 29 °C ( − 20 °F), unless otherwise agreed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Design standards and/or local requirements can require impact testing at minimum design temperatures
+above  − 29 °C ( − 20 °F).<<PARAGRAPH_END>>
+<<PARAGRAPH>>A set of three weld metal impact specimens shall be taken from the weld metal (WM) at the location shown
+in Figure 16. The specimens shall be oriented with the notch perpendicular to the surface of the material.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+weld metal<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+heat-affected zone<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+base metal<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 16 — Charpy V-notch weld metal (WM) specimen location<<HEADING_END>>
+<<PARAGRAPH>>A set of three impact specimens shall be taken from the heat-affected zone (HAZ) at the location shown
+in Figure 17. The notch shall be positioned perpendicular to the material surface at a location whereby a
+maximum amount of HAZ material is located in the resulting fracture.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+weld metal<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+heat-affected zone<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+base metal<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 17 — Charpy V-notch heat-affected zone (HAZ) specimen location<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_43>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+33<<PARAGRAPH_END>>
+<<PARAGRAPH>>HAZ tests shall be conducted for each of the materials being joined when the base materials being joined
+are of a different P-number and/or group-number in accordance with ISO 9606-1, ISO 15607, ISO 15609
+(all parts), ISO 15614-1 or ASME BPVC Section IX when one or both of the base materials being joined
+are not listed in the P-number grouping.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Impact testing shall be performed in accordance with ISO 148-1 or ASTM A370 using the Charpy V-notch
+technique. Specimens shall be etched to determine the location of the weld and HAZ.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Impact test results for full-size specimens shall meet the requirements of the material specification or the
+design standard, unless otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.4 Hardness testing<<HEADING_END>>
+<<PARAGRAPH>>Hardness testing shall be carried out as part of the welding procedure qualification on pressure-containing
+parts in process-wetted conditions if required to meet the requirements of ISO 15156 (all parts). Hardness
+surveys shall be performed on BM, WM and the HAZ in accordance with the requirements of ISO 15156
+(all parts). The hardness method used shall be Vickers HV 5  or HV 10 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For existing qualification, other hardness measurement methods (such as HRC or HRB) are acceptable.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.5 Repair<<HEADING_END>>
+<<PARAGRAPH>>Minor defects may be removed by grinding, provided there is a smooth transition between the ground
+area and the original contour and the minimum wall/weld thickness requirements are not affected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Repair of defects shall be performed in accordance with a documented procedure specifying
+requirements for defect removal, welding, heat treatment, NDE and reporting as applicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For welds on pressure-containing parts, repairs of fabrication welds shall be limited to 30 % of the weld
+length for partial-penetration repairs or 20 % of the weld length for full-penetration repairs, except that the
+minimum length of any weld repair shall be 50 mm. For defects with sizes greater than these limits, the
+entire weld shall be removed and re-welded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The heat treatment (if applicable) of weld repairs shall be in accordance with the applicable material standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Weld repair of forgings and plates to correct manufacturing defects shall be carried out by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Weld repair of castings shall be carried out in accordance with the applicable material standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>12 Quality control<<HEADING_END>>
+<<HEADING level=3>>12.1 NDE requirements<<HEADING_END>>
+<<HEADING level=3>>12.1.1 General<<HEADING_END>>
+<<PARAGRAPH>>NDE shall be conducted prior to coating or surface treatment. Final NDE activities shall be conducted
+after heat treatment unless otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.1.2 Pressure-containing parts<<HEADING_END>>
+<<PARAGRAPH>>NDE of parts and welds shall be in accordance with the selected design code in 7.2. All parts shall be
+subjected to a visual inspection in accordance with the material specification. If specified by the purchaser,
+welds on pressure-containing parts shall be subjected to additional NDE. The NDE method and
+acceptance criteria shall be selected by agreement.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_44>>
+<<PARAGRAPH>>34
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>12.1.3 Mechanically loaded parts, including mounting kit<<HEADING_END>>
+<<PARAGRAPH>>Visual inspection of welds shall be in accordance with ANSI/AWS D1.1/D.1.1M or an equivalent standard.
+Parts shall be subjected to a visual inspection in accordance with the manufacturer's quality procedures.
+If specified by the purchaser, welds on parts shall be subjected to additional NDE. The NDE method and
+acceptance criteria shall be selected by agreement.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2 Measuring and test equipment<<HEADING_END>>
+<<HEADING level=3>>12.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>Measuring and test equipment shall be identified, controlled and calibrated at intervals specified in the
+manufacturer's internal quality procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2.2 Pressure-measuring devices<<HEADING_END>>
+<<PARAGRAPH>>Pressure-measuring devices shall be accurate to within  ±  2,0 % of the full-scale reading.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pressure measurements shall be made at between 25 % and 75 % of the full pressure range of the
+measuring device.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pressure-measuring devices shall be calibrated with a master pressure-measuring device or a dead-
+weight tester at 25 %, 50 % and 75 % of the full pressure scale.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2.3 Torque-/thrust-measuring devices<<HEADING_END>>
+<<PARAGRAPH>>Torque-/thrust-measuring devices shall be accurate to within  ±  2,0 % of the full-scale reading.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Torque/thrust measurements shall be made at between 25 % and 75 % of the full range of the measuring
+device.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Torque-/thrust-measuring devices shall be calibrated with a master device at 25 %, 50 % and 75 % of the
+full scale.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3 Qualification of inspection and test personnel<<HEADING_END>>
+<<HEADING level=3>>12.3.1 NDE personnel<<HEADING_END>>
+<<PARAGRAPH>>NDE personnel shall be qualified in accordance with the requirements specified in ISO 9712, EN 473 or
+ASNT SNT-TC-1A Level II.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Personnel performing visual examinations shall have passed an eye examination in accordance with
+ISO 9712, EN 473 or ASNT SNT-TC-1A within the previous 12 months.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3.2 Test personnel<<HEADING_END>>
+<<PARAGRAPH>>Personnel performing functional testing shall be trained in accordance with the manufacturer's internal
+procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3.3 Welding inspectors<<HEADING_END>>
+<<PARAGRAPH>>Personnel performing visual inspection of welding operations and completed welds shall be qualified and
+certified to the requirements of AWS QC1 or equivalent, or of a manufacturer's documented training
+programme.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_45>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+35<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4 NDE of repairs<<HEADING_END>>
+<<HEADING level=3>>12.4.1 Pressure-containing parts<<HEADING_END>>
+<<PARAGRAPH>>After defect removal, the excavated area shall be examined by magnetic particle (MT) or liquid
+penetrant (PT) methods in accordance with the selected design code. Repair welds shall be examined
+using the same NDE method that was used to detect the defect with a minimum of MT or PT. Acceptance
+criteria shall be as specified in the selected design code for the appropriate product form. The final NDE
+activities shall be conducted after post-weld heat treatment unless otherwise agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4.2 Mechanically loaded parts<<HEADING_END>>
+<<PARAGRAPH>>Repair welds shall be examined using the same NDE method that was used to detect the defect.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5 Visual inspection of castings<<HEADING_END>>
+<<PARAGRAPH>>As a minimum, all castings shall be visually inspected in accordance with MSS SP-55.<<PARAGRAPH_END>>
+<<HEADING level=3>>13 Testing<<HEADING_END>>
+<<HEADING level=3>>13.1 General<<HEADING_END>>
+<<PARAGRAPH>>Each actuator shall be tested prior to shipment. The purchaser shall specify if any of the supplementary
+tests in Annex A shall be performed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Testing shall be performed in the sequence detailed in 13.2 to 13.6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Test fluid should be representative of the application operating fluid, wherever practical.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pneumatic equipment may be tested with air provided it is located in a safe, restricted area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pressure testing shall be performed in accordance with documented procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Methods for monitoring pressures and/or leakage shall be in accordance with documented procedures.
+For pneumatic shell testing, the test pressure shall be applied, and the method for detecting leakage
+(e.g. bubble/soap solution, acoustic monitoring, manometer) shall be fully applied and in place prior to
+starting the minimum duration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Test pressure shall be stabilized and isolated prior to the start of pressure testing and shall be held for the
+minimum test durations listed in Tables 1 and 2.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.2 Shell test<<HEADING_END>>
+<<PARAGRAPH>>The test pressure shall be in accordance with the design code in 7.2, or 1,5 or more times the design
+pressure, by agreement. The duration shall be in accordance with the design code in 7.2 or with Table 1
+below, whichever is longer.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Minimum duration of shell tests<<HEADING_END>>
+<<HEADING level=3>>Test
+Test duration
+s<<HEADING_END>>
+<<PARAGRAPH>>Pneumatic
+60<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hydraulic
+120<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Test      |   Test duration |
+|           |               s |
+|:----------|----------------:|
+| Pneumatic |              60 |
+| Hydraulic |             120 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_46>>
+<<PARAGRAPH>>36
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Test pressure shall be held for a sufficient duration as to permit full inspection of potential leak paths. For
+large actuators, it can be necessary to extend this duration to fully validate the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>There shall be no visible leakage for the duration of the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.3 Piston seal test<<HEADING_END>>
+<<PARAGRAPH>>Pneumatic piston seal tests shall be conducted with pressure applied to one side of the piston and the
+other side open to atmospheric pressure and using a means of visual inspection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hydraulic piston seal tests shall apply pressure to one side of the piston and then provide for isolation
+from the pressure source.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Double-acting actuators shall be tested from both directions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Specific actuator types with permissible leakage, such as vane actuators, can require alternative test
+procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The test pressure for all piston seal tests shall be 1,1 or more times the maximum rated pressure. The
+test duration shall be in accordance with Table 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Actuators should be operated prior to performing the piston seal test.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2 — Minimum duration of piston seal tests<<HEADING_END>>
+<<HEADING level=3>>Test
+Test duration
+s<<HEADING_END>>
+<<PARAGRAPH>>Pneumatic
+30<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hydraulic
+45<<PARAGRAPH_END>>
+<<PARAGRAPH>>There shall be no visible leakage for the duration of the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.4 Torque/thrust test — Pneumatic/hydraulic actuators<<HEADING_END>>
+<<PARAGRAPH>>The manufacturer shall have proven, documented procedures and associated acceptance criteria in place
+that demonstrate an ability to verify and validate the performance characteristics of the actuator.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The purchaser may specify additional torque testing on either prototype or production actuators.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5 Testing of electric actuators<<HEADING_END>>
+<<HEADING level=3>>13.5.1 General<<HEADING_END>>
+<<PARAGRAPH>>The production tests given 13.5.2 to 13.5.4  provide the minimum requirement in order to comply with the
+requirements of this International Standard. Test results shall be recorded and made available to the
+purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All electric actuators (excluding valve gearbox) shall be tested as described in 13.5.2 to 13.5.4 and 13.6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gearbox performance data shall be validated by type test and calculation or by agreement. Where
+scotch-yoke types are employed, the manufacturer/supplier shall make the torque-stroke profile available.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For combinations of electric multi-turn actuator and gearboxes supplied by the actuator
+manufacturer/supplier, combination production tests are not compulsory, and otherwise shall be carried
+out by agreement. Combination output torque shall be made available but may be derived via calculation
+based on gearbox performance data and electric actuator performance characteristics validated by
+means of production testing.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Test      |   Test duration |
+|           |               s |
+|:----------|----------------:|
+| Pneumatic |              30 |
+| Hydraulic |              45 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_47>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+37<<PARAGRAPH_END>>
+<<PARAGRAPH>>The tests in 13.5.2 to 13.5.4 and 13.6 shall be carried out at specified voltage/frequency unless otherwise
+agreed. Tests shall be conducted in both directions using a suitable calibrated test rig.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5.2 Output torque test<<HEADING_END>>
+<<HEADING level=3>>13.5.2.1
+Stall torque<<HEADING_END>>
+<<PARAGRAPH>>With the motor energized, torque-limiting devices de-activated and the output drive locked, the maximum
+torque shall be measured and recorded. In the event of test limitations, and by agreement, the stall torque
+shall be reported based on calculation.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5.2.2
+Rated torque<<HEADING_END>>
+<<PARAGRAPH>>With calibrated torque-limiting device(s) set at 100 %, the torque shall be measured and recorded to
+validate the manufacturer's rated torque/thrust output.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In addition, torque-limiting device(s) may be set to an operational value below 100 % by agreement. A
+functional test of torque-limiting devices shall be carried out in order to demonstrate de-energization of the
+motor. Setting the torque-limiting device(s) to an operational value below 100 % does not remove the
+requirement to test the rated torque described above.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5.3 Output position test<<HEADING_END>>
+<<PARAGRAPH>>Functional testing of travel-limiting devices shall be carried out in order to demonstrate de-energization of
+the motor at preset positions in the stroke (open/close). For multi-turn actuators/combinations, travel-
+limiting devices shall be set to the manufacturer's default output turns range or to a range specified by the
+purchaser. For part-turn actuators/combinations, travel-limiting devices shall be set to the mechanical
+stops as applicable in accordance with the actuator manufacturer's/supplier's instructions.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5.4 Operating time test<<HEADING_END>>
+<<HEADING level=3>>13.5.4.1
+Part-turn actuator<<HEADING_END>>
+<<PARAGRAPH>>The operating time of the actuator shall be validated. For part-turn actuators/combinations, the operating
+time is defined as the duration, expressed in seconds, of the complete angular stroke at the valve stem,
+and shall be recorded.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5.4.2
+Multi-turn actuator<<HEADING_END>>
+<<PARAGRAPH>>The operating time of the actuator shall be validated. For multi-turn actuators/combinations, where the
+output turns are advised, the operating time is defined as the duration, expressed in seconds, of the
+complete stroke at the valve stem, and shall be recorded. Where output turns are unknown, the
+revolutions per minute of the actuator shall be recorded.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.6 Actuator functional test<<HEADING_END>>
+<<PARAGRAPH>>The actuator shall be subjected to a test to validate functional ability in accordance with the manufacturer's
+documented procedures. The test may be performed with or without the valve and/or control package.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The actuator shall, at a minimum, undergo two cycles, and the movement shall be smooth and controlled.<<PARAGRAPH_END>>
+<<HEADING level=3>>14 Surface protection<<HEADING_END>>
+<<PARAGRAPH>>Actuators, intermediate supports (including the internal surfaces), couplings and fasteners in contact with
+the environment shall be protected against corrosion in accordance with the manufacturer's standards,
+unless otherwise agreed.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_48>>
+<<PARAGRAPH>>38
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Parts and equipment that have bare metallic surfaces shall be protected with a rust preventative that
+provides protection against corrosion in accordance with the manufacturer's standards, unless otherwise
+agreed.<<PARAGRAPH_END>>
+<<HEADING level=3>>15 Marking<<HEADING_END>>
+<<PARAGRAPH>>Actuators shall be marked in accordance with the requirements of Table 3 or Table 4. Local regulatory
+requirements can specify additional marking.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Each actuator shall be provided with a nameplate(s) securely affixed and so located as to be easily
+accessible. The marking on the nameplate(s) shall be permanent and legible.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The purchaser can specify requirements for the marking of the actuator parts.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 — Marking of electric actuators<<HEADING_END>>
+<<HEADING level=3>>No.
+Marking
+Application on<<HEADING_END>>
+<<PARAGRAPH>>1
+Manufacturer's name or trademark
+Actuator and/or nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Model
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Serial number
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Supply voltage, phase and frequency
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Voltage variation
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Frequency variation
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Hazardous area classification
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+Year of manufacture
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+ISO 12490
+Nameplate<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 4 — Marking of pneumatic/hydraulic actuators<<HEADING_END>>
+<<HEADING level=3>>No.
+Marking
+Application on<<HEADING_END>>
+<<PARAGRAPH>>1
+Manufacturer's name or trademark
+Both actuator or accumulator and nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Model
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Serial number
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Maximum rated pressure
+Nameplate<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Maximum operating pressure (if specified)
+Nameplate<<HEADING_END>>
+<<PARAGRAPH>>6
+Year of manufacture
+Nameplate<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+ISO 12490
+Nameplate<<PARAGRAPH_END>>
+<<HEADING level=3>>16 Preparation for shipment<<HEADING_END>>
+<<PARAGRAPH>>All open ports shall be blanked off to protect the seal surfaces and threads. The mounting interface shall
+be protected to prevent mechanical damage. Actuators shall be packaged suitably to endure the intended
+shipping method.<<PARAGRAPH_END>>
+<<TABLE_1>>
+|   No. | Marking                             | Application on            |
+|------:|:------------------------------------|:--------------------------|
+|     1 | Manufacturer's name or trademark    | Actuator and/or nameplate |
+|     2 | Model                               | Nameplate                 |
+|     3 | Serial number                       | Nameplate                 |
+|     4 | Supply voltage, phase and frequency | Nameplate                 |
+|     5 | Voltage variation                   | Nameplate                 |
+|     6 | Frequency variation                 | Nameplate                 |
+|     7 | Hazardous area classification       | Nameplate                 |
+|     8 | Year of manufacture                 | Nameplate                 |
+|     9 | ISO 12490                           | Nameplate                 |
+<<TABLE_END>>
+<<TABLE_2>>
+|   No. | Marking                                   | Application on                             |
+|------:|:------------------------------------------|:-------------------------------------------|
+|     1 | Manufacturer's name or trademark          | Both actuator or accumulator and nameplate |
+|     2 | Model                                     | Nameplate                                  |
+|     3 | Serial number                             | Nameplate                                  |
+|     4 | Maximum rated pressure                    | Nameplate                                  |
+|     5 | Maximum operating pressure (if specified) | Nameplate                                  |
+|     6 | Year of manufacture                       | Nameplate                                  |
+|     7 | ISO 12490                                 | Nameplate                                  |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_49>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+39<<PARAGRAPH_END>>
+<<HEADING level=3>>17 Documentation<<HEADING_END>>
+<<PARAGRAPH>>The documentation specified in Table 5 shall be provided to the purchaser with each actuator supplied.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 5 — Required documentation<<HEADING_END>>
+<<HEADING level=3>>Item
+Description
+Electric actuators
+Pneumatic/hydraulic actuators<<HEADING_END>>
+<<PARAGRAPH>>1
+Output torque data
+X
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Circuit diagram
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Pressure test, shell
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Leak test, piston
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+Hazardous area certification
+X
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>Documentation shall be provided by the manufacturer in legible, retrievable and reproducible form and
+free of damage.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The purchaser can specify supplementary documentation in accordance with Annex B.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Documentations shall be retained by the manufacturer in accordance with Annex D.<<PARAGRAPH_END>>
+<<TABLE_1>>
+|   Item | Description                  | Electric actuators   | Pneumatic/hydraulic actuators   |
+|-------:|:-----------------------------|:---------------------|:--------------------------------|
+|      1 | Output torque data           | X                    | X                               |
+|      2 | Circuit diagram              | X                    |                                 |
+|      3 | Pressure test, shell         |                      | X                               |
+|      4 | Leak test, piston            |                      | X                               |
+|      5 | Hazardous area certification | X                    | X                               |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_50>>
+<<HEADING level=2>>Annex A
+(informative)
+Supplementary test requirements<<HEADING_END>>
+<<HEADING level=3>>A.1 Torque/thrust test<<HEADING_END>>
+<<HEADING level=3>>A.1.1 Electric actuators<<HEADING_END>>
+<<PARAGRAPH>>If specified, additional measurement of torque/thrust shall be carried out by agreement.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.1.2 Pneumatic/hydraulic actuators<<HEADING_END>>
+<<PARAGRAPH>>If specifying a torque/thrust test, the minimum and maximum supply pressures shall be specified, or the
+test pressure shall be established by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As a minimum, actuator torque/thrust shall be measured at the following positions, and in both directions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  start of stroke;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  mid-stroke, or lowest torque/thrust position;<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯  end of stroke.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Torque/thrust shall be measured at additional positions to establish non-linear characteristics.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+An additional four positions are suggested to adequately establish non-linear characteristics.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Torque/thrust testing shall be performed at the minimum and maximum supply pressures or at another
+test pressure by agreement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The actuator torque/thrust shall not be below the design torque/thrust value, nor shall it exceed the valve
+MAST.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2 Partial stroke test<<HEADING_END>>
+<<PARAGRAPH>>The actuator shall be energized and shall be moved to the predetermined position. The actuator shall
+stop, and shall return to its starting position.<<PARAGRAPH_END>>
+<<PARAGRAPH>>40<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_51>>
+<<HEADING level=2>>Annex B
+(informative)
+Optional documentation<<HEADING_END>>
+<<PARAGRAPH>>Optional documentation includes the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+NDE records;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+hardness test report on pressure-containing parts;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+certificate of conformance to this International Standard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+pressure test report (including pressure, test duration, test medium, and acceptance criteria);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+NDE personnel qualification records;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+coating/plating certification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+NDE procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+calibration records (purchaser to identify requirements for equipment when ordering);<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+material inspection certificates in accordance with ISO 10474 or EN 10204 as applicable (the
+purchaser shall specify the type of certification, and for which parts, when ordering);<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+design verification by certification body/agency;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+type approval by certification body/agency;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+drawings illustrating general arrangements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m) cross-sectional drawings with parts and materials list;<<PARAGRAPH_END>>
+<<PARAGRAPH>>n)
+current quality management system certificate<<PARAGRAPH_END>>
+<<PARAGRAPH>>o)
+verification of power requirements and consumption (electric actuators only);<<PARAGRAPH_END>>
+<<PARAGRAPH>>p)
+electrical integrity (electric actuators only);<<PARAGRAPH_END>>
+<<PARAGRAPH>>q)
+verification of control, indication and option functionality;<<PARAGRAPH_END>>
+<<PARAGRAPH>>r)
+type testing of enclosure protection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>41<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_52>>
+<<HEADING level=2>>Annex C
+(informative)
+Purchasing guidelines<<HEADING_END>>
+<<HEADING level=3>>Table C.1 — Actuator data sheet<<HEADING_END>>
+<<HEADING level=3>>Type
+Item
+Subclause(s)
+Data required<<HEADING_END>>
+<<PARAGRAPH>>1
+6.2
+Actuator type
+2
+6.3
+Actuator configuration
+3
+6.4
+Action on loss of supply energy
+4
+7.13
+Orientation
+5
+8.1.5 e), 8.1.6 c)
+Operating temperature, min./max.
+6
+8.1.5 e), 8.1.6 c)
+Ambient temperature, min./max.
+7
+A.2
+Partial stroke testing, % open / % closed
+8
+10.2
+O-ring/other seal material<<PARAGRAPH_END>>
+<<PARAGRAPH>>General<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+8.1.5 a)
+Electrical source
+10
+8.1.5 a)
+Voltage, phase/frequency
+11
+8.1.5 b)
+Voltage variation
+12
+8.1.5 b)
+Frequency variation
+13
+8.1.5 c)
+Number of consecutive valve strokes
+14
+8.1.5 d)
+Number of starts per hour<<PARAGRAPH_END>>
+<<PARAGRAPH>>Electric<<PARAGRAPH_END>>
+<<PARAGRAPH>>15
+8.1.6 b)
+Supply pressure, min./max./regulated
+16
+8.1.6 f)
+Number of strokes from stored-pressure source
+17
+10.2
+Commissioning fluid
+18
+8.1.6 a)
+Service fluid
+19
+8.1.6 a)
+Gas composition
+20
+10.2, 10.7
+ISO 15156 service<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pneumatic/hydraulic<<PARAGRAPH_END>>
+<<PARAGRAPH>>21
+8.1.2 a), 8.1.3 b)
+Breakaway torque/thrust and corresponding
+sizing safety factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>22
+8.1.2 c), 8.1.3 b)
+Run torque/thrust and corresponding sizing
+safety factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>Valve torque/thrust
+data open direction<<PARAGRAPH_END>>
+<<PARAGRAPH>>23
+8.1.2 d), 8.1.3 b)
+Reseat torque/thrust and corresponding sizing
+safety factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>24
+8.1.3 a)
+Operating time min./max.
+25
+8.1.2 e)
+MAST
+26
+8.1.2 b)
+Breakaway angle or % of stroke<<PARAGRAPH_END>>
+<<PARAGRAPH>>27
+8.1.2 a), 8.1.3 b)
+Breakaway torque/thrust and corresponding
+sizing safety factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>28
+8.1.2 c), 8.1.3 b)
+Run torque/thrust and corresponding sizing
+safety factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>Valve torque/thrust
+data close direction<<PARAGRAPH_END>>
+<<PARAGRAPH>>29
+8.1.2 d), 8.1.3 b)
+Reseat torque/thrust and corresponding sizing
+safety factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>30
+8.1.3 a)
+Operating time min./max.
+31
+8.1.2 e)
+MAST
+32
+8.1.2 b)
+Breakaway angle or % of stroke<<PARAGRAPH_END>>
+<<PARAGRAPH>>33
+—
+Valve type
+34
+—
+Degrees of travel or length of stroke
+35
+8.1.4 a)
+Valve stem dimensions
+36
+8.1.4 b)
+Pitch/lead/number of starts/RH or LH
+37
+8.1.4 c)
+Stem key dimensions: length/width/thickness
+38
+8.1.4 d)
+Mounting pattern dimensions
+39
+7.13
+Installation orientation
+Optional equipment
+40
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>Valve data<<PARAGRAPH_END>>
+<<PARAGRAPH>>42<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Type                 |   Item | Subclause(s)       | Data required                                 |    |    |    |    |    |    |
+|:---------------------|-------:|:-------------------|:----------------------------------------------|:---|:---|:---|:---|:---|:---|
+| General              |      1 | 6.2                | Actuator type                                 |    |    |    |    |    |    |
+|                      |      2 | 6.3                | Actuator configuration                        |    |    |    |    |    |    |
+|                      |      3 | 6.4                | Action on loss of supply energy               |    |    |    |    |    |    |
+|                      |      4 | 7.13               | Orientation                                   |    |    |    |    |    |    |
+|                      |      5 | 8.1.5 e), 8.1.6 c) | Operating temperature, min./max.              |    |    |    |    |    |    |
+|                      |      6 | 8.1.5 e), 8.1.6 c) | Ambient temperature, min./max.                |    |    |    |    |    |    |
+|                      |      7 | A.2                | Partial stroke testing, % open / % closed     |    |    |    |    |    |    |
+|                      |      8 | 10.2               | O-ring/other seal material                    |    |    |    |    |    |    |
+| Electric             |      9 | 8.1.5 a)           | Electrical source                             |    |    |    |    |    |    |
+|                      |     10 | 8.1.5 a)           | Voltage, phase/frequency                      |    |    |    |    |    |    |
+|                      |     11 | 8.1.5 b)           | Voltage variation                             |    |    |    |    |    |    |
+|                      |     12 | 8.1.5 b)           | Frequency variation                           |    |    |    |    |    |    |
+|                      |     13 | 8.1.5 c)           | Number of consecutive valve strokes           |    |    |    |    |    |    |
+|                      |     14 | 8.1.5 d)           | Number of starts per hour                     |    |    |    |    |    |    |
+| Pneumatic/hydraulic  |     15 | 8.1.6 b)           | Supply pressure, min./max./regulated          |    |    |    |    |    |    |
+|                      |     16 | 8.1.6 f)           | Number of strokes from stored-pressure source |    |    |    |    |    |    |
+|                      |     17 | 10.2               | Commissioning fluid                           |    |    |    |    |    |    |
+|                      |     18 | 8.1.6 a)           | Service fluid                                 |    |    |    |    |    |    |
+|                      |     19 | 8.1.6 a)           | Gas composition                               |    |    |    |    |    |    |
+|                      |     20 | 10.2, 10.7         | ISO 15156 service                             |    |    |    |    |    |    |
+| Valve torque/thrust  |     21 | 8.1.2 a), 8.1.3 b) | Breakaway torque/thrust and corresponding     |    |    |    |    |    |    |
+| data open direction  |        |                    | sizing safety factor                          |    |    |    |    |    |    |
+|                      |     22 | 8.1.2 c), 8.1.3 b) | Run torque/thrust and corresponding sizing    |    |    |    |    |    |    |
+|                      |        |                    | safety factor                                 |    |    |    |    |    |    |
+|                      |     23 | 8.1.2 d), 8.1.3 b) | Reseat torque/thrust and corresponding sizing |    |    |    |    |    |    |
+|                      |        |                    | safety factor                                 |    |    |    |    |    |    |
+|                      |     24 | 8.1.3 a)           | Operating time min./max.                      |    |    |    |    |    |    |
+|                      |     25 | 8.1.2 e)           | MAST                                          |    |    |    |    |    |    |
+|                      |     26 | 8.1.2 b)           | Breakaway angle or % of stroke                |    |    |    |    |    |    |
+| Valve torque/thrust  |     27 | 8.1.2 a), 8.1.3 b) | Breakaway torque/thrust and corresponding     |    |    |    |    |    |    |
+| data close direction |        |                    | sizing safety factor                          |    |    |    |    |    |    |
+|                      |     28 | 8.1.2 c), 8.1.3 b) | Run torque/thrust and corresponding sizing    |    |    |    |    |    |    |
+|                      |        |                    | safety factor                                 |    |    |    |    |    |    |
+|                      |     29 | 8.1.2 d), 8.1.3 b) | Reseat torque/thrust and corresponding sizing |    |    |    |    |    |    |
+|                      |        |                    | safety factor                                 |    |    |    |    |    |    |
+|                      |     30 | 8.1.3 a)           | Operating time min./max.                      |    |    |    |    |    |    |
+|                      |     31 | 8.1.2 e)           | MAST                                          |    |    |    |    |    |    |
+|                      |     32 | 8.1.2 b)           | Breakaway angle or % of stroke                |    |    |    |    |    |    |
+| Valve data           |     33 | —                  | Valve type                                    |    |    |    |    |    |    |
+|                      |     34 | —                  | Degrees of travel or length of stroke         |    |    |    |    |    |    |
+|                      |     35 | 8.1.4 a)           | Valve stem dimensions                         |    |    |    |    |    |    |
+|                      |     36 | 8.1.4 b)           | Pitch/lead/number of starts/RH or LH          |    |    |    |    |    |    |
+|                      |     37 | 8.1.4 c)           | Stem key dimensions: length/width/thickness   |    |    |    |    |    |    |
+|                      |     38 | 8.1.4 d)           | Mounting pattern dimensions                   |    |    |    |    |    |    |
+|                      |     39 | 7.13               | Installation orientation                      |    |    |    |    |    |    |
+| Optional equipment   |     40 | —                  |                                               |    |    |    |    |    |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_53>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+43<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.2 — Summary of information that shall be provided by purchaser and/or manufacturer<<HEADING_END>>
+<<HEADING level=3>>Subclause
+Information
+Provider a<<HEADING_END>>
+<<PARAGRAPH>>4.27
+Maximum operating temperature
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.27
+Maximum design temperature
+M/S<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.28
+Maximum operating temperature
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.30
+Minimum operating temperature
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.29
+Minimum design temperature
+M/S<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.30
+Minimum operating temperature
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1
+Range of stroke for reduced stroke actuator
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2.1
+AC or DC power source
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2.3
+Selection of the hydraulic fluid
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1 a)
+Design pressure to be used for the design of the pressure-containing parts
+M/S<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1 b)
+Maximum rated pressure
+M/S<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2
+Use of other international design codes
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2
+Use of proprietary design method
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.10
+Requirement for locking device
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.13
+Actuator that is required to have single orientation capability may be supplied
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.13
+Details regarding installed orientation of the actuated valve assembly
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.1
+MAST and maximum torque/thrust are compared to ensure compatibility of design
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.2 a)-e)
+Valve torque and/or thrust data
+VM<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.2
+Other specific torque or thrust data
+VM<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.2
+Input thrust and/or torque for linear valves
+VM<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.3 a)-b)
+Operating time and safety factor
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.4 a)-d)
+All relevant valve dimensions
+VM<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.5 a)-h)
+Electric actuator data
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.6 a)-f)
+Pneumatic/hydraulic actuator data
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.1.6
+Regulation of maximum supply pressure by the manufacturer or supplier for the
+purpose of meeting sizing requirements
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.2
+Alternative means of limiting supply pressure
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.2
+Commissioning fluids and service
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.3.2
+The chemical composition of other materials of pressure-containing parts subject to
+welding
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.3.4
+The chemical composition of other materials of pressure-containing parts
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.4
+Toughness requirements for other materials
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.7
+Requirement for ISO 15156 (all parts)
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.5
+Weld repair of forgings and plates to correct manufacturing defects
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1.2
+Requirement for welds on pressure containing parts subjected to additional NDE
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1.2
+Additional NDE method and acceptance criteria, when specified
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1.3
+Requirement for welds on mechanically loaded parts subjected to additional NDE
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.1.3
+Additional NDE method and acceptance criteria, when specified
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.1
+Requirement for supplementary tests
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.2
+Test pressure, if not in accordance with 7.2
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.4
+Additional torque/thrust testing
+P<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Subclause   | Information                                                                         | Providera   |
+|:------------|:------------------------------------------------------------------------------------|:------------|
+| 4.27        | Maximum operating temperature                                                       | P           |
+| 4.27        | Maximum design temperature                                                          | M/S         |
+| 4.28        | Maximum operating temperature                                                       | P           |
+| 4.30        | Minimum operating temperature                                                       | P           |
+| 4.29        | Minimum design temperature                                                          | M/S         |
+| 4.30        | Minimum operating temperature                                                       | P           |
+| 6.1         | Range of stroke for reduced stroke actuator                                         | P           |
+| 6.2.1       | AC or DC power source                                                               | P           |
+| 6.2.3       | Selection of the hydraulic fluid                                                    | A           |
+| 7.1 a)      | Design pressure to be used for the design of the pressure-containing parts          | M/S         |
+| 7.1 b)      | Maximum rated pressure                                                              | M/S         |
+| 7.2         | Use of other international design codes                                             | A           |
+| 7.2         | Use of proprietary design method                                                    | A           |
+| 7.10        | Requirement for locking device                                                      | P           |
+| 7.13        | Actuator that is required to have single orientation capability may be supplied     | P           |
+| 7.13        | Details regarding installed orientation of the actuated valve assembly              | P           |
+| 8.1.1       | MAST and maximum torque/thrust are compared to ensure compatibility of design       | P           |
+| 8.1.2 a)-e) | Valve torque and/or thrust data                                                     | VM          |
+| 8.1.2       | Other specific torque or thrust data                                                | VM          |
+| 8.1.2       | Input thrust and/or torque for linear valves                                        | VM          |
+| 8.1.3 a)-b) | Operating time and safety factor                                                    | P           |
+| 8.1.4 a)-d) | All relevant valve dimensions                                                       | VM          |
+| 8.1.5 a)-h) | Electric actuator data                                                              | P           |
+| 8.1.6 a)-f) | Pneumatic/hydraulic actuator data                                                   | P           |
+| 8.1.6       | Regulation of maximum supply pressure by the manufacturer or supplier for the       | A           |
+|             | purpose of meeting sizing requirements                                              |             |
+| 9.2         | Alternative means of limiting supply pressure                                       | A           |
+| 10.2        | Commissioning fluids and service                                                    | P           |
+| 10.3.2      | The chemical composition of other materials of pressure-containing parts subject to | A           |
+|             | welding                                                                             |             |
+| 10.3.4      | The chemical composition of other materials of pressure-containing parts            | A           |
+| 10.4        | Toughness requirements for other materials                                          | A           |
+| 10.7        | Requirement for ISO 15156 (all parts)                                               | P           |
+| 11.5        | Weld repair of forgings and plates to correct manufacturing defects                 | A           |
+| 12.1.2      | Requirement for welds on pressure containing parts subjected to additional NDE      | P           |
+| 12.1.2      | Additional NDE method and acceptance criteria, when specified                       | A           |
+| 12.1.3      | Requirement for welds on mechanically loaded parts subjected to additional NDE      | P           |
+| 12.1.3      | Additional NDE method and acceptance criteria, when specified                       | A           |
+| 13.1        | Requirement for supplementary tests                                                 | P           |
+| 13.2        | Test pressure, if not in accordance with 7.2                                        | A           |
+| 13.4        | Additional torque/thrust testing                                                    | P           |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_54>>
+<<PARAGRAPH>>44
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Table C.2  ( continued )<<HEADING_END>>
+<<HEADING level=3>>Subclause
+Information
+Provider a<<HEADING_END>>
+<<PARAGRAPH>>13.5.1
+Gearbox performance data, when not validated by type test and calculation
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.5.1
+Torque-stroke profile of scotch-yoke gearbox
+M/S<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.5.1
+Optional production testing for combination of electric multi-turn actuator and
+gearboxes
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.5.2.1
+When limited by ability to functionally test, the stall torque shall be reported based on
+calculation
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.5.2.2
+Torque-limiting device(s) may be set to an operational value below 100 %
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>Table 5
+Documentation
+M/S<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex A
+Supplementary test requirements
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex B
+Optional documentation requirements
+P or A<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex C
+Purchasing guidelines
+P<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex D
+Record retention
+P, M/S or A<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+M/S
+indicates information that should be supplied by manufacturer/supplier;<<PARAGRAPH_END>>
+<<PARAGRAPH>>P
+indicates information that should be supplied by purchaser;<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+indicates information that should be established by agreement;<<PARAGRAPH_END>>
+<<PARAGRAPH>>VM
+indicates valve manufacturer.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Subclause                                                                     | Information                                                                               | Providera   |
+|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:------------|
+| 13.5.1                                                                        | Gearbox performance data, when not validated by type test and calculation                 | A           |
+| 13.5.1                                                                        | Torque-stroke profile of scotch-yoke gearbox                                              | M/S         |
+| 13.5.1                                                                        | Optional production testing for combination of electric multi-turn actuator and           | A           |
+|                                                                               | gearboxes                                                                                 |             |
+| 13.5.2.1                                                                      | When limited by ability to functionally test, the stall torque shall be reported based on | A           |
+|                                                                               | calculation                                                                               |             |
+| 13.5.2.2                                                                      | Torque-limiting device(s) may be set to an operational value below 100 %                  | A           |
+| Table 5                                                                       | Documentation                                                                             | M/S         |
+| Annex A                                                                       | Supplementary test requirements                                                           | P           |
+| Annex B                                                                       | Optional documentation requirements                                                       | P or A      |
+| Annex C                                                                       | Purchasing guidelines                                                                     | P           |
+| Annex D                                                                       | Record retention                                                                          | P, M/S or A |
+| a M/S indicates information that should be supplied by manufacturer/supplier; |                                                                                           |             |
+| P indicates information that should be supplied by purchaser;                 |                                                                                           |             |
+| A indicates information that should be established by agreement;              |                                                                                           |             |
+| VM indicates valve manufacturer.                                              |                                                                                           |             |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_55>>
+<<HEADING level=2>>Annex D
+(normative)
+Record retention<<HEADING_END>>
+<<PARAGRAPH>>Documentation, where applicable and as listed in Table D.1, shall be retained by the manufacturer for a
+minimum of ten years following the date of manufacture.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Purchaser or regulatory requirements can specify a longer record retention period.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table D.1 — Record retention<<HEADING_END>>
+<<HEADING level=3>>Item
+Description
+Electric
+actuators
+Pneumatic/hydraulic
+actuators<<HEADING_END>>
+<<PARAGRAPH>>1
+Bill of materials
+X a
+X
+2
+Design documentation
+X
+X
+3
+Hazardous area certification
+X
+4
+Contract/project documentation
+X
+X
+5
+Sizing calculations/confirmations
+X
+X
+6
+Welding procedure specification (WPS)
+X
+7
+Weld procedure qualification record (PQR)
+X
+8
+Welder performance qualification (WPQ)
+X
+9
+Qualification records of NDE personnel
+X
+10
+Records of test equipment calibration
+X
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>11
+Material test report for pressure-containing parts, traceable to
+the unique serial number
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+Material test report for spring and spring canister, traceable to
+the unique serial number
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+Serial number
+X
+14
+Certificate of compliance to ISO 15156 (all parts)
+A b
+15
+Circuit diagram
+X
+16
+Installation, commissioning and maintenance instructions
+X
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>Production test certificate, including
+—
+output torque
+—
+stroking times
+—
+pressure test, shell
+—
+pressure test, piston<<PARAGRAPH_END>>
+<<PARAGRAPH>>X
+X<<PARAGRAPH_END>>
+<<PARAGRAPH>>17<<PARAGRAPH_END>>
+<<PARAGRAPH>>18
+Coating certificate
+X
+19
+Cleanliness test report
+H c<<PARAGRAPH_END>>
+<<PARAGRAPH>>20
+Compliance with local directives and regulations
+For example, including but not limited to PED, ATEX, ASME,
+CRN
+A
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>NDE report
+—
+RT
+—
+PT
+—
+MT
+—
+UT<<PARAGRAPH_END>>
+<<PARAGRAPH>>21<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+X indicates mandatory.
+b
+A indicates mandatory if applicable to the specific design.
+c
+H indicates hydraulic actuators only.<<PARAGRAPH_END>>
+<<PARAGRAPH>>45<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Item                                                          | Description                                                       | Electric    | Pneumatic/hydraulic   |
+|                                                               |                                                                   | actuators   | actuators             |
+|:--------------------------------------------------------------|:------------------------------------------------------------------|:------------|:----------------------|
+| 1                                                             | Bill of materials                                                 | Xa          | X                     |
+| 2                                                             | Design documentation                                              | X           | X                     |
+| 3                                                             | Hazardous area certification                                      | X           |                       |
+| 4                                                             | Contract/project documentation                                    | X           | X                     |
+| 5                                                             | Sizing calculations/confirmations                                 | X           | X                     |
+| 6                                                             | Welding procedure specification (WPS)                             |             | X                     |
+| 7                                                             | Weld procedure qualification record (PQR)                         |             | X                     |
+| 8                                                             | Welder performance qualification (WPQ)                            |             | X                     |
+| 9                                                             | Qualification records of NDE personnel                            |             | X                     |
+| 10                                                            | Records of test equipment calibration                             | X           | X                     |
+| 11                                                            | Material test report for pressure-containing parts, traceable to  |             | X                     |
+|                                                               | the unique serial number                                          |             |                       |
+| 12                                                            | Material test report for spring and spring canister, traceable to |             | X                     |
+|                                                               | the unique serial number                                          |             |                       |
+| 13                                                            | Serial number                                                     |             | X                     |
+| 14                                                            | Certificate of compliance to ISO 15156 (all parts)                |             | Ab                    |
+| 15                                                            | Circuit diagram                                                   | X           |                       |
+| 16                                                            | Installation, commissioning and maintenance instructions          | X           | X                     |
+| 17                                                            | Production test certificate, including                            | X           | X                     |
+|                                                               | — output torque                                                   |             |                       |
+|                                                               | — stroking times                                                  |             |                       |
+|                                                               | — pressure test, shell                                            |             |                       |
+|                                                               | — pressure test, piston                                           |             |                       |
+| 18                                                            | Coating certificate                                               |             | X                     |
+| 19                                                            | Cleanliness test report                                           |             | Hc                    |
+| 20                                                            | Compliance with local directives and regulations                  | A           | A                     |
+|                                                               | For example, including but not limited to PED, ATEX, ASME,        |             |                       |
+|                                                               | CRN                                                               |             |                       |
+| 21                                                            | NDE report                                                        | A           | A                     |
+|                                                               | — RT                                                              |             |                       |
+|                                                               | — PT                                                              |             |                       |
+|                                                               | — MT                                                              |             |                       |
+|                                                               | — UT                                                              |             |                       |
+| a X indicates mandatory.                                      |                                                                   |             |                       |
+| b A indicates mandatory if applicable to the specific design. |                                                                   |             |                       |
+| c H indicates hydraulic actuators only.                       |                                                                   |             |                       |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_56>>
+<<HEADING level=2>>Annex E
+(informative)
+Typical torque/thrust curves<<HEADING_END>>
+<<PARAGRAPH>>The torque/thrust curves represented below are typical of the actuators discussed in this International
+Standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>X
+angular rotation, expressed in degrees<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y
+torque value<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure E.1 — Double-acting, scotch-yoke actuator<<HEADING_END>>
+<<PARAGRAPH>>46<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_57>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+47<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>X
+angular rotation, expressed in degrees<<PARAGRAPH_END>>
+<<HEADING level=3>>Y
+torque value
+Figure E.2 — Double-acting, canted scotch-yoke actuator<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+air
+X
+angular rotation, expressed in degrees<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+spring
+Y
+torque value<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure E.3 — Single-acting, spring return, scotch-yoke actuator<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_58>>
+<<PARAGRAPH>>48
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+air
+X
+angular rotation, expressed in degrees<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+spring
+Y
+torque value<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure E.4 — Single-acting, spring return, canted scotch-yoke actuator<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_59>>
+<<PARAGRAPH>>S TANDARD FOR  A CTUATOR  S IZING AND  M OUNTING  K ITS FOR  P IPELINE  V ALVES
+49<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>X
+angular rotation, expressed in degrees<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y
+torque value<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure E.5 — Rack and pinion actuator<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>X
+percent of full stroke<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y
+torque value<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure E.6 — Bevel gear actuator<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_60>>
+<<PARAGRAPH>>50
+API   S TANDARD  6DX/ISO   12490:2011<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>X
+angular rotation, expressed in degrees<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y
+torque value<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure E.7 — Linear actuator<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_61>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 8573-1:2010,  Compressed air — Part 1: Contaminants and purity classes<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO 13623,  Petroleum and natural gas industries — Pipeline transportation systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+ISO/TS 29001,  Petroleum, petrochemical and natural gas industries — Sector-specific quality
+management systems — Requirements for product and service supply organizations<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+API Spec 6D,  Pipeline valves , twenty-third edition, April 2008<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+EN 13906 (all parts),  Cylindrical helical springs made from round wire and bar — Calculation and
+design<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+MSS SP-25,  Standard Marking System for Valves, Fittings, Flanges and Unions<<PARAGRAPH_END>>
+<<PARAGRAPH>>51<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_62>>
+<<HEADING level=1>>THERE’S MORE
+WHERE THIS CAME FROM<<HEADING_END>>
+<<HEADING level=1>>REQUEST A
+QUOTATION
+www.api.org/quote<<HEADING_END>>
+<<HEADING level=3>>API Monogram ®
+Licensing Program
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+certification@api.org
+Web:
+www.api.org/monogram<<HEADING_END>>
+<<HEADING level=3>>API-U ™<<HEADING_END>>
+<<HEADING level=3>>API Engine Oil Licensing and
+Certification System (EOLCS)
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+eolcs@api.org
+Web:
+www.api.org/eolcs<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+training@api.org
+Web:
+www.api-u.org<<PARAGRAPH_END>>
+<<HEADING level=3>>API Data ®<<HEADING_END>>
+<<HEADING level=3>>API Quality Registrar (APIQR ® )
+• ISO 9001
+• ISO/TS 29001
+• ISO 14001
+• OHSAS 18001
+• API Spec Q1 ®<<HEADING_END>>
+<<HEADING level=3>>Motor Oil Matters
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+motoroilmatters@api.org
+Web:
+www.motoroilmatters.org<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Service: (+1) 202-682-8042
+Email:
+data@api.org
+Web:
+www.APIDataNow.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>• API Spec Q2 ®<<PARAGRAPH_END>>
+<<PARAGRAPH>>• API Quality Plus ®<<PARAGRAPH_END>>
+<<PARAGRAPH>>• Dual Registration
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+certification@api.org
+Web:
+www.api.org/apiqr<<PARAGRAPH_END>>
+<<HEADING level=3>>API Diesel Exhaust Fluid
+Certification Program
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+apidef@api.org
+Web:
+www.apidef.org<<HEADING_END>>
+<<HEADING level=3>>API Publications
+Phone:
+1-800-854-7179
+(Toll-free U.S. and Canada)
+(+1) 303-397-7956
+(Local and International)
+Fax:
+(+1) 303-397-2740
+Web:
+www.api.org/pubs
+global.ihs.com<<HEADING_END>>
+<<HEADING level=3>>API Training Provider
+Certification Program (TPCP ® )
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Em ail:
+tpcp@api.org
+Web:
+www.api.org/tpcp<<HEADING_END>>
+<<HEADING level=3>>API Perforator Design
+Registration Program
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+perfdesign@api.org
+Web:
+www.api.org/perforators<<HEADING_END>>
+<<HEADING level=3>>API Standards
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+standards@api.org
+Web:
+www.api.org/standards<<HEADING_END>>
+<<HEADING level=3>>API Individual Certification
+Programs (ICP ® )
+Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+icp@api.org
+Web:
+www.api.org/icp<<HEADING_END>>
+<<HEADING level=3>>API WorkSafe ®<<HEADING_END>>
+<<PARAGRAPH>>Sales:
+877-562-5187
+(Toll-free U.S. and Canada)
+(+1) 202-682-8041
+(Local and International)
+Email:
+apiworksafe@api.org
+Web:
+www.api.org/worksafe<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_63>>
+<<HEADING level=3>>Product No. GG6DX01<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 63
+Total Images: 2
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 239x154
+[IMAGE_2] Page: 3, Size: 239x156
+
+Total Tables: 9
+
+Table Reference List:
+[TABLE_1] Page: 45, Size: 3x2
+[TABLE_1] Page: 46, Size: 3x2
+[TABLE_1] Page: 48, Size: 10x3
+[TABLE_2] Page: 48, Size: 8x3
+[TABLE_1] Page: 49, Size: 6x4
+[TABLE_1] Page: 52, Size: 41x10
+[TABLE_1] Page: 53, Size: 40x3
+[TABLE_1] Page: 54, Size: 12x3
+[TABLE_1] Page: 55, Size: 23x4
+<<SECTION_END>>
+<<DOCUMENT_END>>

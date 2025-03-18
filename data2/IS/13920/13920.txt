@@ -1,0 +1,1612 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS 13920 : 1993
+(Reaffirmed 1998)
+Edition 1.2
+(2002-03)<<HEADING_END>>
+<<IMAGE_1>>
+[Image 1 contains text: bl Aad fof C14 [eed [~C
+— sla calf
+APA A AA of Aarllol PP AUN AeA opop41C]
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>DUCTILE DETAILING OF REINFORCED
+CONCRETE STRUCTURES SUBJECTED TO
+SEISMIC FORCES — CODE OF PRACTICE<<HEADING_END>>
+<<PARAGRAPH>>(Incorporating Amendment Nos. 1 & 2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>UDC 69.059.25 (026) : 624.042.7<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BIS 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>B U R E A U
+O F
+I N D I A N
+S T A N D A R D S
+MANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG
+NEW   DELHI   110002<<HEADING_END>>
+<<HEADING level=3>>Price Group 7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Earthquake Engineering Sectional Committee, CED 39<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by
+the Earthquake Engineering Sectional Committee had been approved by the Civil Engineering
+Division Council.
+IS 4326 : 1976 ‘Code of practice for earthquake resistant design and construction of buildings’
+while covering certain special features for the design and construction of earthquake resistant
+buildings included some details for achieving ductility in reinforced concrete buildings. With a
+view to keep abreast of the rapid developments and extensive research that has been carried out in
+the field of earthquake resistant design of reinforced concrete structures, the technical committee
+decided to cover provisions for the earthquake resistant design and detailing of reinforced concrete
+structures separately.
+This code incorporates a number of important provisions hitherto not covered in IS 4326 : 1976.
+The major thrust in the formulation of this standard is one of the following lines:
+a) As a result of the experience gained from the performance, in recent earthquakes, of
+reinforced concrete structures that were designed and detailed as per IS 4326 : 1976, many
+deficiencies thus identified have been corrected in this code.
+b) Provisions on detailing of beams and columns have been revised with an aim of providing
+them with adequate toughness and ductility so as to make them capable of undergoing
+extensive inelastic deformations and dissipating seismic energy in a stable manner.
+c) Specifications on a seismic design and detailing of reinforced concrete shear walls have been
+included.
+The other significant changes incorporated in this code are as follows:
+a) Material specifications are indicated for lateral force resisting elements of frames.
+b) Geometric constraints are imposed on the cross section for flexural members. Provisions on
+minimum and maximum reinforcement have been revised. The requirements for detailing of
+longitudinal reinforcement in beams at joint faces, splices, and anchorage requirements are
+made more explicit. Provision are also included for calculation of design shear force and for
+detailing of transverse reinforcement in beams.
+c) For members subjected to axial load and flexure, the dimensional constraints have been
+imposed on the cross section. Provisions are included for detailing of lap splices and for the
+calculation of design shear force. A comprehensive set of requirements is included on the
+provision of special confining reinforcement in those regions of a column that are expected to
+undergo cyclic inelastic deformations during a severe earthquake.
+d) Provisions have been included for estimating the shear strength and flexural strength of
+shear wall sections. Provisions are also given for detailing of reinforcement in the wall web,
+boundary elements, coupling beams, around openings, at construction joints, and for the
+development, splicing and anchorage of reinforcement.
+Whilst the common methods of design and construction have been covered in this code, special
+systems of design and construction of any plain or reinforced concrete structure not covered by this
+code may be permitted on production of satisfactory evidence regarding their adequacy for seismic
+performance by analysis or tests or both.
+The Sectional Committee responsible for the preparation of this standard has taken into
+consideration the view of manufacturers, users, engineers, architects, builders and technologists
+and has related the standard to the practices followed in the country in this field. Due weightage
+has also been given to the need for international co-ordination among standards prevailing in
+different seismic regions of the world.
+In the formulation of this standard, assistance has been derived from the following publications:
+i) ACI 318-89/318R-89, Building code requirements for reinforced concrete and commentary,
+published by American Concrete Institute.
+ii) ATC-11. Seismic resistance of reinforced concrete shear walls and frame joints : Implications
+of recent research for design engineers, published by Applied Technology Council, USA.
+iii) CAN3-A23. 3-M84, 1984, Design of concrete structures for buildings, Canadian Standards
+Association.
+iv) SEADC, 1980, Recommended lateral force requirements and commentary, published by
+Structural Engineers Association of California, USA
+The composition of the technical committees responsible for formulating this standard is given in
+Annex A.
+This edition 1.2 incorporates Amendment No. 1 (November 1995) and Amendment No. 2
+(March 2002). Side bar indicates modification of the text as the result of incorporation of the
+amendments.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>DUCTILE DETAILING OF REINFORCED
+CONCRETE STRUCTURES SUBJECTED TO
+SEISMIC FORCES — CODE OF PRACTICE<<HEADING_END>>
+<<HEADING level=3>>1 SCOPE<<HEADING_END>>
+<<PARAGRAPH>>each end. The hooks shall engage peripheral
+longitudinal bars.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.1  This standard covers the requirements for
+designing and detailing of monolithic reinforced
+concrete buildings so as to give them adequate
+toughness and ductility to resist severe
+earthquake shocks without collapse.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3 Curvature Ductility<<HEADING_END>>
+<<PARAGRAPH>>Is the ratio of curvature at the ultimate
+strength of the section to the curvature at first
+yield of tension steel in the section.<<PARAGRAPH_END>>
+<<HEADING level=3>>1.1.1  Provisions of this code shall be adopted in
+all reinforced concrete structures which are
+located in seismic zone III, IV or V.<<HEADING_END>>
+<<HEADING level=3>>3.4 Hoop<<HEADING_END>>
+<<PARAGRAPH>>Is a closed stirrup having a 135° hook with a
+10-diameter extension (but not < 75 mm) at
+each end, that is embedded in the confined core
+of the section. It may also be made of two pieces
+of reinforcement; a U-stirrup with a 135° hook
+and a 10-diameter extension (but not < 75 mm)
+at each end, embedded in the confined core and
+a crosstie.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.1.2  The provisions for reinforced concrete
+construction given herein apply specifically to
+monolithic reinforced concrete construction.
+Precast and/or prestressed concrete members
+may be used only if they can provide the same
+level of ductility as that of a monolithic
+reinforced concrete construction during or after
+an earthquake.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5 Lateral Force Resisting System<<HEADING_END>>
+<<HEADING level=3>>2 REFERENCES<<HEADING_END>>
+<<PARAGRAPH>>Is that part of the structural system which
+resists the forces induced by earthquake.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.1  The Indian Standards listed below are
+necessary adjunct to this standard:<<HEADING_END>>
+<<HEADING level=3>>3.6 Shear Wall<<HEADING_END>>
+<<PARAGRAPH>>IS No.
+Title<<PARAGRAPH_END>>
+<<PARAGRAPH>>456 : 1978
+Code of practice for plain and
+reinforced
+concrete
+(  third
+revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>A wall that is primarily designed to resist
+lateral forces in its own plane.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.7 Shell Concrete<<HEADING_END>>
+<<PARAGRAPH>>1786 : 1985
+Specification for high strength
+deformed steel bars and wires
+for
+concrete
+reinforcement
+(  third revision  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Concrete that is not confined by transverse
+reinforcement, is also called concrete cover.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8 Space Frame<<HEADING_END>>
+<<PARAGRAPH>>1893 : 1984
+Criteria for earthquake design
+of structures (  fourth revision  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+three
+dimensional
+structural
+system
+composed of interconnected members, without
+shear or bearing walls, so as to function as a
+complete self-contained unit with or without
+the aid of horizontal diaphragms or floor
+bracing systems.<<PARAGRAPH_END>>
+<<HEADING level=3>>3 TERMINOLOGY<<HEADING_END>>
+<<HEADING level=3>>3.0  For the purpose of this standard, the
+following definitions shall apply.<<HEADING_END>>
+<<HEADING level=3>>3.1 Boundary Elements<<HEADING_END>>
+<<HEADING level=3>>3.8.1  Vertical Load Carrying Space Frame<<HEADING_END>>
+<<PARAGRAPH>>Portions along the edges of a shear wall that
+are
+strengthened
+by
+longitudinal
+and
+transverse reinforcement. They may have the
+same thickness as that of the wall web.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A space frame designed to carry all vertical
+loads.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8.2  Moment Resisting Space Frame
+A vertical load carrying space frame in which
+the members and joints are capable of resisting
+forces primarily by flexure.<<HEADING_END>>
+<<HEADING level=3>>3.2 Crosstie<<HEADING_END>>
+<<PARAGRAPH>>Is a continuous bar having a 135° hook with a
+10-diameter extension (but not < 75 mm) at<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<HEADING level=3>>4 SYMBOLS<<HEADING_END>>
+<<PARAGRAPH>>— moment of resistance of beam
+framing into column from the right
+M uv
+— flexural strength of wall web
+P u
+— factored axial load
+S
+— pitch of spiral or spacing hoops
+S v
+— vertical
+spacing
+of
+horizontal
+reinforcement in web
+t w
+— thickness of wall web
+— shear at end A of beam due to dead
+and live loads with a partial factor
+of safety of 1.2 on loads
+— shear at end B of beam due to dead
+and live loads with a partial factor
+of safety of 1.2 on loads
+V j
+— shear resistance at a joint
+V u
+— factored shear force
+V us
+— shear force to be resisted by
+reinforcement
+— depth of neutral axis from extreme
+compression fibre
+α
+— inclination
+of
+diagonal
+reinforcement in coupling beam
+ρ
+— vertical reinforcement ratio
+ρ c
+— compression reinforcement ratio in
+a beam
+ρ max
+— maximum tension reinforcement
+ratio for a beam
+ρ min
+— minimum tension reinforcement
+ratio for a beam
+τ c
+— shear strength of concrete
+— maximum permissible shear stress
+in section
+τ v
+— nominal shear stress<<PARAGRAPH_END>>
+<<PARAGRAPH>>M  u, lim
+bR<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose of this standard, the following
+letter
+symbols
+shall
+have
+the
+meaning
+indicated against each; where other symbols
+are used, they are explained at the appropriate
+place. All dimensions are in mm, loads in
+Newton and stresses in MPa (N/sq mm) unless
+otherwise specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A g
+— gross
+cross
+sectional
+area
+of
+column, wall
+A h
+— horizontal
+reinforcement
+area
+within spacing  S v
+A k
+— area of concrete core of column
+A sd
+— reinforcement along each diagonal
+of coupling beam
+A sh
+— area of cross section of bar forming
+spiral or hoop
+A st
+— area
+of
+uniformly
+distributed
+vertical reinforcement
+A v
+— vertical reinforcement at a joint
+C w
+— centre to centre distance between
+boundary elements
+D
+— overall depth of beam
+D k
+— diameter of column core measured
+to the outside of spiral or hoop
+d
+— effective depth of member
+d w
+— effective depth of wall section
+E s
+— elastic modulus of steel
+f ck
+— characteristic compressive strength
+of concrete cube
+f y
+— yield stress of steel
+h
+— longer dimension of rectangular
+confining hoop measured to its
+outer face
+h st
+— storey height
+L AB
+— clear span of beam
+l o
+— length of member over which
+special confining reinforcement is
+to be provided
+l w
+— horizontal length of wall
+l s
+— clear span of coupling beam
+M u
+— factored design moment on entire
+wall section
+— hogging moment of resistance of
+beam at end A
+— sagging moment of resistance of
+beam at end A
+— hogging moment of resistance of
+beam at end B
+— sagging moment of resistance of
+beam at end B
+— moment of resistance of beam
+framing into column from the left<<PARAGRAPH_END>>
+<<PARAGRAPH>>V   D L
++<<PARAGRAPH_END>>
+<<PARAGRAPH>>a<<PARAGRAPH_END>>
+<<PARAGRAPH>>V   D L
++<<PARAGRAPH_END>>
+<<PARAGRAPH>>b<<PARAGRAPH_END>>
+<<PARAGRAPH>>x u,  x   * u<<PARAGRAPH_END>>
+<<PARAGRAPH>>τ c, max<<PARAGRAPH_END>>
+<<HEADING level=3>>5 GENERAL SPECIFICATION<<HEADING_END>>
+<<HEADING level=3>>5.1  The design and construction of reinforced
+concrete buildings shall be governed by the
+provisions of IS 456 : 1978, except as modified
+by the provisions of this code.<<HEADING_END>>
+<<HEADING level=3>>5.2  For all buildings which are more than
+3 storeys in height, the minimum grade of
+concrete shall be M20 (  f ck  = 20 MPa ).<<HEADING_END>>
+<<PARAGRAPH>>M  u, lim
+Ah<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3  Steel reinforcements of grade Fe 415 (  see
+IS 1786 : 1985 ) or less only shall be used.<<HEADING_END>>
+<<PARAGRAPH>>M  u, lim
+As<<PARAGRAPH_END>>
+<<PARAGRAPH>>However, high strength deformed steel bars,
+produced by the thermo-mechanical treatment
+process, of grades Fe 500 and Fe 550, having
+elongation
+more
+than
+14.5 percent
+and
+conforming
+to
+other
+requirements
+of
+IS 1786 : 1985 may also be used for the
+reinforcement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>M  u, lim
+Bh<<PARAGRAPH_END>>
+<<PARAGRAPH>>M  u, lim
+Bs<<PARAGRAPH_END>>
+<<PARAGRAPH>>bL<<PARAGRAPH_END>>
+<<PARAGRAPH>>M  u, lim<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<HEADING level=3>>6 FLEXURAL MEMBERS<<HEADING_END>>
+<<IMAGE_2>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>These requirements apply to frame members
+resisting
+earthquake
+induced
+forces
+and
+designed to resist flexure. These members shall
+satisfy the following requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.1  The factored axial stress on the member
+under earthquake loading shall not exceed
+0.1  f ck .<<HEADING_END>>
+<<HEADING level=3>>6.1.2  The member shall preferably have a
+width-to-depth ratio of more than 0.3.<<HEADING_END>>
+<<HEADING level=3>>6.1.3  The width of the member shall not be less
+than 200 mm.<<HEADING_END>>
+<<PARAGRAPH>>F IG . 1
+A NCHORAGE   OF  B EAM  B ARS   IN   AN
+E XTERNAL  J OINT<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.4  The depth D of the member shall
+preferably be not more than 1/4 of the clear
+span.<<HEADING_END>>
+<<PARAGRAPH>>6.2.6  The longitudinal bars shall be spliced,
+only if hoops are provided over the entire splice
+length, at a spacing not exceeding 150 mm (  see
+Fig. 2 ). The lap length shall not be less than
+the bar development length in tension. Lap
+splices shall not be provided (a) within a joint,
+(b) within a distance of 2 d  from joint face, and
+(c) within a quarter lengh of the member where
+flexural yielding may generally occur under the
+effect of earthquake forces. Not more than
+50 percent of the bars shall be spliced at one
+section.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Longitudinal Reinforcement<<HEADING_END>>
+<<HEADING level=3>>6.2.1  a) The
+top
+as
+well
+as
+bottom
+reinforcement shall consist of at least
+two bars throughout the member
+length.<<HEADING_END>>
+<<PARAGRAPH>>b) The tension steel ratio on any face, at
+any section, shall not be less than<<PARAGRAPH_END>>
+<<PARAGRAPH>>ρ min  = 0.24
+; where  f ck  and  f y
+are in MPa.
+f ck  f y
+⁄<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.2  The maximum steel ratio on any face at
+any section, shall not exceed  ρ max  = 0.025.<<HEADING_END>>
+<<HEADING level=3>>6.2.3  The positive steel at a joint face must be
+at least equal to half the negative steel at that
+face.<<HEADING_END>>
+<<PARAGRAPH>>6.2.4  The steel provided at each of the top and
+bottom face of the member at any section along
+its length shall be at least equal to one-fourth of
+the maximum negative moment steel provided
+at the face of either joint. It may be clarified
+that redistribution of moments permitted in
+IS 456 : 1978 (clause  36.1 ) will be used only for
+vertical load moments and not for lateral load
+moments.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F IG . 2
+L AP , S PLICE   IN  B EAM<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2.7  Use of welded splices and mechanical
+connections may also be made, as per  25.2.5.2
+of IS 456 : 1978. However, not more than half
+the reinforcement shall be spliced at a section
+where flexural yielding may take place. The
+location of splices shall be governed by  6.2.6 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2.5  In an external joint, both the top and the
+bottom bars of the beam shall be provided with
+anchorage length, beyond the inner face of the
+column, equal to the development length in
+tension plus 10 times the bar diameter minus
+the allowance for 90 degree bend(s) (  see
+Fig. 1 ). In an internal joint, both face bars of
+the beam shall be taken continuously through
+the column.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Web Reinforcement<<HEADING_END>>
+<<HEADING level=3>>6.3.1  Web
+reinforcement
+shall
+consist
+of
+vertical hoops. A vertical hoop is a closed
+stirrup having a 135° hook with a 10 diameter
+extension (but not < 75 mm) at each end that is<<HEADING_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 0                                  |
+|:-----------------------------------|
+| FIG.1 ANCHORAGE OF BEAM BARS IN AN |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<PARAGRAPH>>embedded in the confined core (  see  Fig. 3a ). In
+compelling circumstances, it may also be made
+up of two pieces of reinforcement; a U-stirrup
+with a 135° hook and a 10 diameter extension
+(but not < 75 mm) at each end, embedded in the
+confined core and a crosstie (  see  Fig. 3b ). A
+crosstie is a bar having a 135° hook with a 10
+diameter extension (but not < 75 mm) at each
+end. The hooks shall engage peripheral
+longitudinal bars.<<PARAGRAPH_END>>
+<<PARAGRAPH>>beams with clear span exceeding 5 m, the
+minimum bar diameter shall be 8 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.3  The shear force to be resisted by the
+vertical hoops shall be the maximum of :<<HEADING_END>>
+<<PARAGRAPH>>a) calculated factored shear force as per
+analysis, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) shear force due to formation of plastic
+hinges at both ends of the beam plus the
+factored gravity load on the span. This is
+given by (  see  Fig. 4 ):<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2  The minimum diameter of the bar
+forming a hoop shall be 6 mm. However, in<<HEADING_END>>
+<<PARAGRAPH>>i) for sway to right:<<PARAGRAPH_END>>
+<<IMAGE_3>>
+[Image 3 contains text: A"? —_ AP, + 1a . ry? - }
+oa Wye + Wey
+ns _ g _. _ rvs
+A Ap+r J. [ ne we ]]
+<<PARAGRAPH>>and
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii) for sway to left:<<PARAGRAPH_END>>
+<<PARAGRAPH>>and<<PARAGRAPH_END>>
+<<PARAGRAPH>>M  u, lim
+As
+M  u, lim
+Ah
+M  u, lim
+Bs
+M  u, lim
+Bh<<PARAGRAPH_END>>
+<<PARAGRAPH>>where
+,
+and
+,
+are the sagging and hogging moments of resistance of<<PARAGRAPH_END>>
+<<PARAGRAPH>>the beam section at ends A and B, respectively. These are to be calculated as per IS 456 : 1978.<<PARAGRAPH_END>>
+<<PARAGRAPH>>V   D L
++
+a
+V   D L
++
+b<<PARAGRAPH_END>>
+<<PARAGRAPH>>L AB  is clear span of beam.
+and
+are the shears at ends A and B, respectively, due to
+vertical loads with a partial safety factor of 1.2 on loads. The design shear at end A shall be the
+larger of the two values of  V u,a  computed above. Similarly, the design shear at end B shall be the
+larger of the two values of  V u,b  computed above.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F IG . 3
+B EAM  W EB  R EINFORCEMENT<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<IMAGE_4>>
+[Image 4 contains text: (2MVA 10 FEEL)
+Pn
+avs ANP
+{ | ave =AP -j.9 _ Te
+D+f WA (WW +i
+yt —__ Ss vv Be
+i
+wr (ey rv jiu n's 98 rve
+ve oo: A <1 | as OT
+veo BF
+(2MVA 10 KICHL)
+|
+avs An’p
+| AvP Pay} —
+O+r WT [HW y pail [EWU
+XGA) v2 soe
+l
+yi ae hd ns. _, rv8
+We at A A Der VW al + wrt {tw
+ve BP
+a
+— 5
+9 _,p . — 2
+v IS(O+T ) i Nose Noe = FS(OFN)]
+<<PARAGRAPH>>F IG . 4
+C ALCULATION   OF  D ESIGN  S HEAR  F ORCE   FOR  B EAM<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.4  The contribution of bent up bars and
+inclined hoops to shear resistance of the section
+shall not be considered.<<HEADING_END>>
+<<PARAGRAPH>>7.1.2  The minimum dimension of the member
+shall not be less than 200 mm. However, in
+frames which have beams with centre to centre
+span exceeding 5 m or columns of unsupported
+length exceeding 4 m, the shortest dimension of
+the column shall not be less than 300 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3.5  The spacing of hoops over a length of 2d at
+either end of a beam shall not exceed (a) d/4,
+and (b) 8 times the diameter of the smallest
+longitudinal bar; however, it need not be less
+than 100 mm (  see  Fig. 5 ). The first hoop shall
+be at a distance not exceeding 50 mm from the
+joint face. Vertical hoops at the same spacing as
+above, shall also be provided over a length
+equal to 2d on either side of a section where
+flexural yielding may occur under the effect of
+earthquake forces. Elsewhere, the beam shall
+have vertical hoops at a spacing not exceeding
+d/2.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1.3  The ratio of the shortest cross sectional
+dimension to the perpendicular dimension shall
+preferably not be less than 0.4.<<HEADING_END>>
+<<HEADING level=3>>7.2 Longitudinal Reinforcement<<HEADING_END>>
+<<PARAGRAPH>>7.2.1  Lap splices shall be provided only in the
+central half of the member length. It should be
+proportioned as a tension splice. Hoops shall be
+provided over the entire splice length at
+spacing not exceeding 150 mm centre to centre.
+Not more than 50 percent of the bars shall be
+spliced at one section.<<PARAGRAPH_END>>
+<<HEADING level=3>>7 COLUMNS AND FRAME MEMBERS
+SUBJECTED TO BENDING AND AXIAL
+LOAD<<HEADING_END>>
+<<PARAGRAPH>>7.2.2  Any area of a column that extends more
+than 100 mm beyond the confined core due to
+architectural requirements, shall be detailed in
+the following manner. In case the contribution
+of this area to strength has been considered,
+then it will have the minimum longitudinal and
+transverse reinforcement as per this code.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1 General<<HEADING_END>>
+<<HEADING level=3>>7.1.1  These requirements
+apply
+to frame
+members which have a factored axial stress in
+excess of 0.1  f ck  under the effect of earthquake
+forces.<<HEADING_END>>
+<<PARAGRAPH>>5<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<IMAGE_5>>
+[Image 5 contains text: BVE
+qP=DIVWELEB OE FONCILNDINVT
+eaq\° vuD g qP B =-BKEVDIH Ok BEVW
+HOOb 2bvCine
+S
+xq
+HOOb 2bVCINe
+34
+qP _ a
+rim TP ee eee eee ee ees
+CAI) SL
+20WW WYX 20 WW WYX
+ve< 6EWvxXBI
+ve >6WIV Ba
+VFONC LOb VND BOLLOW EVCE
+WIN SBvVBe EOK ENF FEVCLH]
+<<PARAGRAPH>>F IG . 5
+B EAM  R EINFORCEMENT<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.2  The parallel legs of rectangular hoop shall
+be spaced not more than 300 mm centre to
+centre. If the length of any side of the hoop
+exceeds 300 mm, a crosstie shall be provided
+(Fig. 7B). Alternatively, a pair of overlapping
+hoops may be provided within the columm (  see
+Fig. 7C). The hooks shall engage peripheral
+longitudinal bars.<<PARAGRAPH_END>>
+<<PARAGRAPH>>However, if this area has been treated as
+non-structural, the minimum reinforcement
+requirements
+shall
+be
+governed
+by
+IS 456 : 1978 provisions minimum longitudinal
+and
+transverse
+reinforcement,
+as
+per
+IS 456 : 1978 (  see  Fig. 6 ).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.3  The spacing of hoops shall not exceed half
+the least lateral dimension of the column,
+except where special confining reinforcement is
+provided, as per  7.4 .<<HEADING_END>>
+<<HEADING level=3>>7.3.4  The design shear force for columns shall
+be the maximum of:
+a) calculated factored shear force as per
+analysis, and
+b) a factored shear force given by<<HEADING_END>>
+<<PARAGRAPH>>M bL
+u, lim
+M bR
+u, lim
++
+h st
+----------------------------------------------<<PARAGRAPH_END>>
+<<PARAGRAPH>>V u  = 1.4<<PARAGRAPH_END>>
+<<PARAGRAPH>>F IG . 6
+R EINFORCEMENT  R EQUIREMENT   FOR
+C OLUMN   WITH  M ORE  T HAN  100 mm
+P ROJECTION  B EYOND  C ORE<<PARAGRAPH_END>>
+<<PARAGRAPH>>M bL
+u, lim
+M bR
+u, lim<<PARAGRAPH_END>>
+<<PARAGRAPH>>where
+and
+are moment of
+resistance, of opposite sign, of beams framing
+into the column from opposite faces (  see
+Fig. 8 ); and  h st  is the storey height. The beam
+moment capacity is to be calculated as per
+IS 456 : 1978.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3 Transverse Reinforcement<<HEADING_END>>
+<<PARAGRAPH>>7.3.1  Transverse reinforcement for circular
+columns shall consist of spiral or circular hoops.
+In rectangular columns, rectangular hoops may
+be used. A rectangular hoop is a closed stirrup,
+having a 135° hook with a 10 diameter
+extension (but not < 75 mm) at each end, that is
+embedded in the confined core (  see  Fig 7A ).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4 Special Confining Reinforcement<<HEADING_END>>
+<<PARAGRAPH>>This requirement shall be met with, unless a
+larger amount of transverse reinforcement is
+required from shear strength considerations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<IMAGE_6>>
+[Image 6 contains text: \C QAEBI VbbIVC HOObe MILH V CKBO2eLIE
+Pp @HVIr BE FVBCEBK Ok ¥*° WUD BS
+y°= 300 ww
+@w
+Co)
+: LW gay
+LFS)
+=
+& 0, |
+e} A | CKhOZaLIE (BS > 300 Ww)
+=
+E
+E
+| | 109 (S\aww)
+po > 300 ww
+CKO22LIE
+\Y 2INCrE HOOb \B 2INGFE HOOb MILH V
+vy 2HVIr BE FVKBCEK O& PS Wud BS
+vo wud BS
+y OHvrr BE FVBCEK O& Bian
+poX<300wWw p°Z300 ww
+2 i Py rr
+A fe) q AN
+a)
+Ee | a < E
+E 109 (> leww) E
+JbHOAIDE Vv cw022 HE}
+yo > 309 ww]
+<<PARAGRAPH>>F IG . 7
+T RANSVERSE  R EINFORCEMENT   IN  C OLUMN<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<PARAGRAPH>>7.4.1  Special confining reinforcement shall be
+provided over a length  l o  from each joint face,
+towards midspan, and on either side of any
+section, where flexural yielding may occur
+under the effect of earthquake forces (  see
+Fig. 9. ). The length ‘ l o ’ shall not be less than
+(a) larger lateral dimension of the member at
+the section where yielding occurs, (b) 1/6 of
+clear span of the member, and (c) 450 mm.<<PARAGRAPH_END>>
+<<IMAGE_7>>
+[Image 7 contains text: pet
+An
+pes
+be war enn
+ree]
+<<HEADING level=3>>7.4.2  When a column terminates into a footing
+or mat, special confining reinforcement shall
+extend at least 300 mm into the footing or mat
+(  see  Fig. 10 ).<<HEADING_END>>
+<<PARAGRAPH>>7.4.3  When
+the
+calculated
+point
+of
+contra-flexure, under the effect of gravity and
+earthquake loads, is not within the middle half
+of the member clear height, special confining
+reinforcement shall be provided over the full
+height of the column.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.4.4  Columns
+supporting
+reactions
+from
+discontinued stiff members, such as walls, shall
+be
+provided
+with
+special
+confining
+reinforcement over their full height (  see
+Fig. 11 ). This reinforcement shall also be
+placed above the discontinuity for at least the
+development length of the largest longitudinal
+bar in the column. Where the column is
+supported on a wall, this reinforcement shall be
+provided over the full height of the column; it
+shall also be provided below the discontinuity
+for the same development length.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4.5  Special confining reinforcement shall be
+provided over the full height of a column which
+has significant variation in stiffness along
+its height. This variation in stiffness may result<<HEADING_END>>
+<<PARAGRAPH>>F IG . 8
+C ALCULATION   OF  D ESIGN  S HEAR
+F ORCE   FOR  C OLUMN<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<IMAGE_8>>
+[Image 8 contains text: Ve bEB 8&°5
+TY"TT CONEIMING BEINMEOKCEWENL
+P| vrf EON 2IDEe
+——] | BEVWe EBVNINE ILO
+e |} ft }-coneimeD 101M. MILH
+fj |
+nell ay 4
+CEL 2 LE
+LL js
+Jt |=
+( |
+____ a |
+pe
+- _
+VU <q
+gS 2.) (|
+Qr Vw |
+<& m a)
+oe 8 eT | [ve bEb avs")
+of; ™_l =| 7 (BEMEOKCEWENS | Vc
+Sis om S| ml] ep LBVMeCAEBCE
+=, Fol VL
+= (©)
+e) ei ie |.
+a = Spe
+s a a
+ro) = ° a
+ce Tt
+a =
+> a 1OIML BEINEOBCENEML
+TT
+| pL
+a
+_]
+<<PARAGRAPH>>F IG . 9
+C OLUMN   AND  J OINT  D ETAILING<<PARAGRAPH_END>>
+<<PARAGRAPH>>F IG . 10
+P ROVISION   OF  S PECIAL  C ONFINING  R EINFORCEMENT   IN  F OOTINGS<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<IMAGE_9>>
+[Image 9 contains text: SS PY’ ‘ even bot
+* born 4+ or oe ,
+Gig i a)
+Pim
+md ON mers
+=
+8:
+a:
+8
+++
+8:
+8:
+“8
+fp Peep ee —
+RH Tt
+re | | tt
+- onel nDIMVr too
+.
+rFEWCLH OE
+DE AETObWENL {tt tt |
+PHE VK MVE]
+<<PARAGRAPH>>F IG . 11
+S PECIAL  C ONFINING  R EINFORCEMENT  R EQUIREMENT   FOR  C OLUMNS  U NDER
+D ISCONTINUED  W ALLS<<PARAGRAPH_END>>
+<<PARAGRAPH>>due to the presence of bracing, a mezzanine
+floor or a R.C.C. wall on either side of the
+column that extends only over a part of the
+column height (  see  Fig. 12 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>π
+4 --- D 2
+k<<PARAGRAPH_END>>
+<<PARAGRAPH>>A k
+= area of the concrete core =<<PARAGRAPH_END>>
+<<PARAGRAPH>>Example  : Consider a column of diameter 300
+mm. Let the grade of concrete be M20, and that
+of steel Fe 415, for longitudinal and confining
+reinforcement. The spacing of circular hoops,  S ,
+shall not exceed the smaller of (a) 1/4 of
+minimum member dimension = 1/4 × 300 =
+75 mm, and (b) 100 mm. Therefore,  S  = 75 mm.
+Assuming
+40 mm
+clear
+cover
+to
+the
+longitudinal reinforcement and circular hoops
+of diameter 8 mm,  D k  = 300 – 2 × 40 + 2 × 8 =
+236 mm. Thus, the area of cross section of the
+bar forming circular hoop works out to be
+47.28 mm 2 . This is less than the cross sectional
+area of 8 mm bar (50.27 mm 2 ). Thus, circular
+hoops of diameter 8 mm at a spacing of 75 mm
+centre to centre will be adequate.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4.6  The spacing of hoops used as special
+confining reinforcement shall not exceed 1/4 of
+minimum member dimension but need not be
+less than 75 mm nor more than 100 mm.<<HEADING_END>>
+<<HEADING level=3>>7.4.7  The area of cross section,  A sh , of the bar
+forming circular hoops or spiral, to be used as
+special confining reinforcement, shall not be
+less than<<HEADING_END>>
+<<PARAGRAPH>>A sh
+0.09  SD k
+f ck
+f y
+-------   A g
+A k
+-------
+1.0
+–
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>A sh  = area of the bar cross section,
+S
+= pitch of spiral or spacing of hoops,
+D k
+= diameter of core measured to the
+outside of the spiral or hoop,
+f ck
+= characteristic compressive strength of
+concrete cube,
+f y
+= yield stress of steel (of circular hoop or
+spiral),
+A g
+= gross area of the column cross section,
+and<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4.8  The area of cross section,  A sh , of the bar
+forming rectangular hoop, to be used as special
+confining reinforcement shall not be less than<<HEADING_END>>
+<<PARAGRAPH>>A sh
+0.18  Sh    f ck
+f y
+-------   A g
+A k
+-------
+1.0
+–
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>h
+= longer dimension of the rectangular
+confining hoop measured to its outer<<PARAGRAPH_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<IMAGE_10>>
+[Image 10 contains text: (4) 35)° (3) Suq (¢) LejatAGiA ett, Cojnuue — JpeA strigcE DSLAe eelewiC eyesL LOLCE®
+roel
+° °
+WESS VUIWE
+IWEIFFEO bYWEr\KB C MVE
+Yy YY
+Xt fy _X ho X
+
+AEVULIF VLOBe rEVCLH O& COFNWUM EVIFNKBE
+ObvCE -EOB NUeNbbOBLED CHE VK]
+<<PARAGRAPH>>F IG . 12
+C OLUMNS   WITH  V ARYING  S TIFFNESS<<PARAGRAPH_END>>
+<<PARAGRAPH>>pair of overlapping hoops or a single hoop with
+crossties, in both directions, will have to be
+provided. Thus, the dimension ‘ h ’ will be the
+larger of (i) 590/2 = 295 mm, and (ii) 440/2 =
+220 mm. The spacing of hoops,  S , shall not
+exceed the smaller of (a) 1/4 of minimum
+member dimensions = 1/4 × 500 = 125 mm, and
+(b) 100 mm. Thus,  S  = 100 mm. The area of
+cross section of the bar forming rectangular
+hoop works out to be 64.47 mm 2 . This is less
+than the area of cross section of 10 mm bar
+(78.54
+mm 2 ).
+Thus,
+10
+mm
+diameter
+rectangular hoops at 100 mm c/c will be
+adequate. Similar calculations indicate that, as
+an alternative, one could also provide 8 mm
+diameter rectangular hoops at 70 mm c/c.<<PARAGRAPH_END>>
+<<PARAGRAPH>>face. It shall not exceed 300 mm (  see
+Fig. 7 ), and<<PARAGRAPH_END>>
+<<PARAGRAPH>>A k  = area of confined concrete core in the
+rectangular hoop measured to its
+outside dimensions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE : The dimension ‘ h ’ of the hoop could be reduced
+by introducing crossties, as shown in Fig. 7B. In this
+case,  A k  shall be measured as the overall core area,
+regardless of the hoop arrangement. The hooks of
+crossties shall engage peripheral longitudinal bars.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Example  : Consider a column of 650 mm ×
+500 mm. Let the grade of concrete be M20 and
+that of steel Fe 415, for the longitudinal and
+confining reinforcement. Assuming clear cover
+of 40 mm to the longitudinal reinforcement and
+rectangular hoops of diameter 10 mm, the size
+of the core is 590 mm × 440 mm. As both these
+dimensions are greater than 300 mm, either a<<PARAGRAPH_END>>
+<<HEADING level=3>>8 JOINTS OF FRAMES<<HEADING_END>>
+<<HEADING level=3>>8.1  The special confining reinforcement as
+required at the end of column shall be provided<<HEADING_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<HEADING level=3>>9.2.2  The design shear strength of concrete,  τ c ,
+shall be calculated as per Table 13 of IS 456 :
+1978.<<HEADING_END>>
+<<HEADING level=3>>through the joint as well, unless the joint is
+confined as specified by  8.2 .<<HEADING_END>>
+<<PARAGRAPH>>8.2  A joint which has beams framing into all
+vertical faces of it and where each beam width
+is at least 3/4 of the column width, may be
+provided with half the special confining
+reinforcement required at the end of the
+column. The spacing of hoops shall not exceed
+150 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2.3  The nominal shear stress in the wall,  τ v ,
+shall not exceed  τ c, max , as per Table 14 of
+IS 456 : 1978.<<HEADING_END>>
+<<HEADING level=3>>9.2.4  When
+τ v
+is
+less
+than
+τ c
+shear
+reinforcement shall be provided in accordance
+with  9.1.4 ,  9.1.5  and  9.1.7 .<<HEADING_END>>
+<<HEADING level=3>>9 SHEAR WALLS<<HEADING_END>>
+<<HEADING level=3>>9.2.5  When  τ v  is greater than  τ c , the area of
+horizontal shear reinforcement,  A h , to be
+provided within a vertical spacing,  S v , is given
+by<<HEADING_END>>
+<<HEADING level=3>>9.1 General Requirements<<HEADING_END>>
+<<HEADING level=3>>9.1.1  The requirements of this section apply to
+the shear walls, which are part of the lateral
+force resisting system of the structure.<<HEADING_END>>
+<<PARAGRAPH>>V us
+0.87  f y  A h  d w
+S v
+------------------------------------
+=<<PARAGRAPH_END>>
+<<HEADING level=3>>9.1.2  The thickness of any part of the wall shall
+preferably, not be less than 150 mm.<<HEADING_END>>
+<<PARAGRAPH>>where  V us  = (  V u  –  τ c   t w   d w  ), is the shear force
+to be resisted by the horizontal reinforcement.
+However,
+the
+amount
+of
+horizontal
+reinforcement provided shall not be less than
+the minimum, as per  9.1.4 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.1.3  The effective flange width, to be used in
+the design of flanged wall sections, shall be
+assumed to extend beyond the face of the web
+for a distance which shall be the smaller of (a)
+half the distance to an adjacent shear wall web,
+and (b) 1/10 th of the total wall height.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2.6  The
+vertical
+reinforcement,
+that
+is
+uniformly distributed in the wall, shall not be
+less
+than
+the
+horizontal
+reinforcement
+calculated as per  9.2.5 .<<HEADING_END>>
+<<PARAGRAPH>>9.1.4  Shear walls shall be provided with
+reinforcement
+in
+the
+longitudinal
+and
+transverse directions in the plane of the wall.
+The minimum reinforcement ratio shall be
+0.002 5 of the gross area in each direction. This
+reinforcement shall be distributed uniformly
+across the cross section of the wall.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3 Flexural Strength<<HEADING_END>>
+<<PARAGRAPH>>9.3.1  The moment of resistance,  M uv , of the
+wall section may be calculated as for columns
+subjected to combined bending and axial load
+as per IS 456 : 1978. The moment of resistance
+of slender rectangular shear wall section with
+uniformly distributed vertical reinforcement is
+given in Annex A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.1.5  If the factored shear stress in the wall
+exceeds 0.25
+or if the wall thickness
+exceeds
+200 mm,
+reinforcement
+shall
+be
+provided in two curtains, each having bars
+running in the longitudinal and transverse
+directions in the plane of the wall.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f ck<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3.2  The cracked flexural strength of the wall
+section should be greater than its uncracked
+flexural strength.<<HEADING_END>>
+<<HEADING level=3>>9.1.6  The diameter of the bars to be used in any
+part of the wall shall not exceed 1/10th of the
+thickness of that part.<<HEADING_END>>
+<<PARAGRAPH>>9.3.3  In walls that do not have boundary
+elements,
+vertical
+reieforcement
+shall
+be
+concentrated at the ends of the wall. Each
+concentration shall consist of a minimum of
+4 bars of 12 mm diameter arranged in at least
+2 layers.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.1.7  The maximum spacing of reinforcement
+in either direction shall not exceed the smaller
+of  l w /5, 3  t w , and 450 mm; where  l w  is the
+horizontal length of the wall, and  t w  is the
+thickness of the wall web.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2 Shear Strength<<HEADING_END>>
+<<HEADING level=3>>9.4 Boundary Elements<<HEADING_END>>
+<<HEADING level=3>>9.2.1  The nominal shear stress,  τ v , shall be
+calculated as:<<HEADING_END>>
+<<PARAGRAPH>>Boundary elements are portions along the wall
+edges that are strengthened by longitudinal
+and transverse reinforcement. Though they
+may have the same thickness as that of the
+wall web it is advantageous to provide them
+with greater thickness.<<PARAGRAPH_END>>
+<<IMAGE_11>>
+[Image 11 contains text: LA =
+Vw
+mM
+le]
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>V u  = factored shear force,
+t w  = thickness of the web, and
+d w  = effective depth of wall section. This
+may by taken as 0.8  l w  for rectangular
+sections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.4.1  Where the extreme fibre compressive
+stress in the wall due to factored gravity loads
+plus factored earthquake force exceeds 0.2 f ck ,
+boundaty elements shall be provided along the
+vertical boundaries of walls. The boundary<<PARAGRAPH_END>>
+<<PARAGRAPH>>12<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<PARAGRAPH>>where  V u  is the factored shear force, and  α  is
+the angle made by the diagonal reinforcement
+with the horizontal. At least 4 bars of 8 mm
+diameter shall be provided along each diagonal.
+The reinforcement along each diagonal shall be
+enclosed by special confining reinforcement, as
+per  7.4 . The pitch of spiral or spacing of ties
+shall not exceed 100 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>elements may be discontinued where the
+calculated compressive stress becomes less
+than 0.15 f ck . The compressive stress shall be
+calculated using a linearly elastic model and
+gross section properties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.4.2  A boundary element shall have adequate
+axial load carrying capacity, assuming short
+column action, so as to enable it to carry an
+axial compression equal to the sum of factored
+gravity
+load
+on
+it
+and
+the
+additional
+compressive load induced by the seismic force.
+The latter may be calculated as:<<PARAGRAPH_END>>
+<<HEADING level=3>>9.5.3  The diagonal or horizontal bars of a
+coupling beam shall be anchored in the
+adjacent walls with an anchorage length of 1.5
+times the development length in tension.<<HEADING_END>>
+<<PARAGRAPH>>M u
+M uv
+–<<PARAGRAPH_END>>
+<<HEADING level=3>>9.6 Openings in Walls<<HEADING_END>>
+<<PARAGRAPH>>C w
+--------------------------<<PARAGRAPH_END>>
+<<HEADING level=3>>9.6.1  The shear strength of a wall with
+openings should be checked along critical
+planes that pass through openings.<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>M u
+= factored design moment on the entire
+wall section,
+M uv  = moment of resistance provided by
+distributed
+vertical
+reinforcement
+across the wall section, and
+C w
+= center to center distance between the
+boundary elements along the two
+vertical edges of the wall.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.6.2  Reinforcement shall be provided along the
+edges of openings in walls. The area of the
+vertical and horizontal bars should be such as
+to equal that of the respective interrupted bars.
+The vertical bars should extend for the full
+storey height. The horizontal bars should be
+provided with development length in tension
+beyond the sides of the opening.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.4.3  If the gravity load adds to the strength of
+the wall, its load factor shall be taken as 0.8.<<HEADING_END>>
+<<HEADING level=3>>9.7 Discontinuous Walls<<HEADING_END>>
+<<HEADING level=3>>Columns supporting discontinuous walls shall
+be
+provided
+with
+special
+confining
+reinforcement, as per  7.4.4 .<<HEADING_END>>
+<<PARAGRAPH>>9.4.4  The percentage of vertical reinforcement
+in the boundary elements shall not be less than
+0.8 percent, nor greater than 6 percent. In
+order to avoid congestion, the practical upper
+limit would be 4 percent.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.8 Construction Joints<<HEADING_END>>
+<<PARAGRAPH>>The vertical reinforcement ratio across a
+horizontal construction joint shall not be less
+than:<<PARAGRAPH_END>>
+<<HEADING level=3>>9.4.5  Boundary elements, where required, as
+per  9.4.1 , shall be provided throughout their
+height, with special confining reinforcement, as
+per  7.4 .<<HEADING_END>>
+<<HEADING level=3>>9.4.6  Boundary elements need not be provided,
+if the entire wall section is provided with
+special confining reinforcement, as per  7.4 .<<HEADING_END>>
+<<PARAGRAPH>>where  τ v  is the factored shear stress at the
+joint,  P u  is the factored axial force (positive for
+compression), and  A g  is the gross cross
+sectional area of the joint.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.5 Coupled Shear Walls<<HEADING_END>>
+<<HEADING level=3>>9.5.1  Coupled shear walls shall be connected by
+ductile coupling beams. If the earthquake
+induced shear stress in the coupling beam
+exceeds<<HEADING_END>>
+<<HEADING level=3>>9.9 Development, Splice and Anchorage
+Requirement<<HEADING_END>>
+<<HEADING level=3>>9.9.1  Horizontal
+reinforcement
+shall
+be
+anchored near the edges of the wall or in the
+confined core of the boundary elements.<<HEADING_END>>
+<<IMAGE_12>>
+[Image 12 contains text: __ Dd
+O-7 2 AXE]
+<<PARAGRAPH>>9.9.2  Splicing of vertical flexural reinforcement
+should be avoided, as far as possible, in regions
+where yielding may take place. This zone of
+flexural yielding may be considered to extend
+for a distance of  l w  above the base of the wall or
+one sixth of the wall height, whichever is more.
+However, this distance need not be greater
+than 2  l w . Not more than one third of this
+vertical reinforcement shall be spliced at such a
+section. Splices in adjacent bars should be
+staggered by a minimum of 600 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>where  l s  is the clear span of the coupling beam
+and  D  is its overall depth, the entire
+earthquake induced shear and flexure shall,
+preferably,
+be
+resisted
+by
+diagonal
+reinforcement.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.5.2  The area of reinforcement to be provided
+along each diagonal in a diagonally reinforced
+coupling beam shall be:<<HEADING_END>>
+<<PARAGRAPH>>13<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<PARAGRAPH>>9.9.3  Lateral ties shall be provided around
+lapped spliced bars that are larger than 16 mm
+in diameter. The diameter of the tie shall not be
+less than one fourth that of the spliced bar nor
+less than 6 mm. The spacing of ties shall not
+exceed 150 mm center to center.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.9.4  Welded
+splices
+and
+mechanical
+connections shall confirm to  25.2.5.2
+of
+IS 456 : 1978. However, not more than half the
+reinforcement shall be spliced at a section,
+where flexural yielding may take place.<<PARAGRAPH_END>>
+<<HEADING level=3>>ANNEX A
+(  Clause  9.3.1 )<<HEADING_END>>
+<<HEADING level=3>>MOMENT OF RESISTANCE OF RECTANGULAR SHEAR WALL SECTION<<HEADING_END>>
+<<HEADING level=3>>A-1  The moment of resistance of a slender rectangular shear wall section with uniformly
+distributed vertical reinforcement may be estimated as follows:<<HEADING_END>>
+<<PARAGRAPH>>x u / l w < x * u    / l w,<<PARAGRAPH_END>>
+<<PARAGRAPH>>(a) For<<PARAGRAPH_END>>
+<<IMAGE_13>>
+[Image 13 contains text: cr \4 \;” ib nm Mm
+A= a | \(3- tie 2) - (45) ( 2)
+WW I+ y I O-t!1e 58 ¥ ) 0-1e8 + bs]
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>ρ
+=
+vertical reinforcement ratio =  A st /(  t w   l w  ),
+A st  =
+area of uniformly distributed vertical reinforcement,
+β
+=
+0.87  f y /(0.003 5  E s ),
+E s
+=
+elastic modulus of steel, and
+P u
+=
+axial compression on wall.<<PARAGRAPH_END>>
+<<PARAGRAPH>>x * u  / l w  <  x u / l w < 1.0,<<PARAGRAPH_END>>
+<<PARAGRAPH>>(b)  For<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>The value of  x u / l w  to be used in this equation, should be calculated from the quadratic equation<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>These equations were derived, assuming a rectangular wall section of depth  l w  and thickness  t w
+that is subjected to combined uni-axial bending and axial compression. The vertical reinforcement
+is represented by an equivalent steel plate along the length of the section. The stress-strain curve
+assumed for concrete is as per IS 456 : 1978 whereas that for steel is assumed to be bi-linear. Two
+equations are given for calculating the flexural strength of the section. Their use depends on
+whether the section fails in flexural tension or in flexural compression.<<PARAGRAPH_END>>
+<<PARAGRAPH>>14<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<HEADING level=3>>ANNEX B
+(  Foreword  )<<HEADING_END>>
+<<HEADING level=3>>COMMITTEE COMPOSITION<<HEADING_END>>
+<<PARAGRAPH>>Earthquake Engineering Sectional Committee, CED 39<<PARAGRAPH_END>>
+<<PARAGRAPH>>Chairman
+Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  A. S. A RYA
+72/6 Civil Line, Roorkee<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  O. P. A GGARWAL
+S HRI  G. S HARAN  (  Alternate  )
+Indian Roads Congress, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  K. G. B HATIA
+D R  C. K AMESHWARA  R AO  (  Alternate  )
+S HRI  A. K. S INGH  (  Alternate  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bharat Heavy Electricals Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. C. B HATIA
+D R  B. K. R ASTOGI  (  Alternate  )
+National Geophysical Research Institute (CSIR), Hyderabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  A. R. C HANDRASEKARAN
+D R  B RIJESH  C HANDRA  (  Alternate  )
+D R  B. V. K. L AVANIA  (  Alternate  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Department of Earthquake Engineering, University of Roorkee,
+Roorkee<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  S. N. C HATTERJEE
+S HRI  S. K. N AG  (  Alternate  )
+Indian Meterological Department, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  K. T. C HAUBAL
+D R  B. K. P AUL  (  Alternate  )
+North Eastern Council, Shillong<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  A. V. C HUMMAR
+D R  S. K. K AUSHIK  (  Alternate  )
+Indian Society of Earthquake Technology, Roorkee<<PARAGRAPH_END>>
+<<PARAGRAPH>>D IRECTOR  E MBANKMENT  (N & W)
+D IRECTOR  CMDD (NW & S) (  Alternate  )
+Central Water Commission (ERDD), New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D IRECTOR  S TANDARDS  (B & S), RDSO
+J OINT  D IRECTOR  S TANDARDS  (B & S)
+CB-I, RDSO, L UCKNOW  (  Alternate  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Railway Board, Ministry of Railways<<PARAGRAPH_END>>
+<<PARAGRAPH>>K UMARI  E. D IVATIA
+S HRI  C. R. V ENKATESHA  (  Alternate  )
+National Hydro-Electric Power Corporation Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  I. D. G UPTA
+S HRI  J. G. P ADALE  (  Alternate  )
+Central Water & Power Research Station, Pune<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  V. K. K ULKARNI
+S HRI  P. C. K OTESWARA  R AO  (  Alternate  )
+Department of Atomic Energy, Bombay<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  V. K UMAR
+S HRI  R. S. B AJAJ  (  Alternate  )
+National Thermal Power Corporation Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. Z. K URIEN
+S HRI  K. V. S UBRAMANIAN  (  Alternate  )
+Tata Consulting Engineers, Bombay<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  A. K. L AL
+S HRI  T. R. B HATIA  (  Alternate  )
+National Buildings Organization, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. K. M ITTAL
+Central Building Research Institute, Roorkee
+S HRI  S. S. N ARANG
+Central Water Commission (CMDD), New Delhi
+S HRI  A. D. N ARIAN
+S HRI  O. P. A GGARWAL  (  Alternate  )
+Ministry of Transport, Department of Surface Transport (Roads
+Wing), New Delhi
+S HRI  P. L. N ARULA
+S HRI  A K. S RIVASTAVA  (  Alternate  )
+Geological Survey of India, Calcutta<<PARAGRAPH_END>>
+<<PARAGRAPH>>R ESEARCH  O FFICER
+Irrigation Department, Govt of Maharashtra, Nasik
+D R  D. S ENGUPTA
+S HRI  R. K. G ROVER  (  Alternate  )
+Engineers India Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  R. D. S HARMA
+S HRI  U. S. P. V ERMA  (  Alternate  )
+Nuclear Power Corporation, Bombay<<PARAGRAPH_END>>
+<<PARAGRAPH>>C OL  R. K. S INGH
+L T -C OL  B. D. B HATTOPADHYAYA  (  Alternate  )
+Engineer-in-Chief’s Branch, Army Headquarters, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  P. S RINIVASULU
+D R  N. L AKSHMANAN  (  Alternate  )
+Structural Engineering Research Centre (CSIR), Madras<<PARAGRAPH_END>>
+<<PARAGRAPH>>S UPERINTENDING  E NGINEER  (D)
+E XECUTIVE  E NGINEER  (D) II (  Alternate  )
+Central Public Works Department, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  A. N. T ANDON
+In personal capacity (  B-7/50 Safdarjung Development Area,
+New Delhi  )
+S HRI  J. V ENKATARAMAN ,
+Director (Civ Engg)
+Director General, BIS (  Ex-officio Member  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Secretary
+S HRI  S. S. S ETHI
+Director (Civ Engg), BIS
+(  Continued on page  16 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>15<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>IS 13920 : 1993<<HEADING_END>>
+<<PARAGRAPH>>(  Continued from page  15 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Earthquake Resistant Construction Subcommittee, CED 39 : 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Convener
+Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  A. S. A RYA
+(72/6 Civil Lines, Roorkee)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  N. K. B HATTACHARYA
+Engineer-in-Chief’s Branch, New Delhi
+S HRI  B. K C HAKRABORTY
+S HRI  D. P. S INGH  (  Alternate  )
+Housing and Urban Development Corporation, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  D. N. G HOSAL
+North Eastern Council, Shillong
+D R  S UDHIR  K. J AIN
+D R  A. S. R. S AI  (  Alternate  )
+Indian Institute of Technology, Kanpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. P. J AISINGH
+Central Buildings Research Institute, Roorkee
+J OINT  D IRECTOR  S TANDARDS  (B & S) CB-I
+A SSISTANT  D IRECTOR  (B & S), CB-I
+(  Alternate  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Railway Board (Ministry of Railways)<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  V. K APUR
+S HRI  V. K. K APOOR  (  Alternate  )
+Public Works Department, Government of Himachal Pradesh, Simla<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. K UNDU
+Hindustan Prefab Limited, New Delhi
+S HRI  A. K. L AL
+S HRI  T. R. B HATIA  (  Alternate  )
+National Buildings Organization, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  B. C. M ATHUR
+D R  (S HRIMATI ) P. R. B OSE  (  Alternate  )
+University of Roorkee, Department of Earthquake Engineering,
+Roorkee
+S HRI  G. M. S HOUNTHU
+Public Works Department, Jammu & Kashmir
+D R  P. S RINIVASULU
+D R  N. L AKSHMANAN  (  Alternate  )
+Structural Engineering Research Centre (CSIR), Madras<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S UBRATA  C HAKRAVARTY
+Public Works Department, Government of Assam, Gauhati
+S UPERINTENDING  E NGINEER  (D ESIGN )
+Publing Works Department, Government of Gujrat
+S UPERINTENDING  S URVEYOR   OF  W ORKS  (NDZ)
+S UPERINTENDING  E NGINEER  (D) (  Alternate  )
+Central Public Works Department, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>16<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote
+harmonious development of the activities of standardization, marking and quality certification of goods and
+attending to connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright of all its publications. No part of these publications may be reproduced in any form
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to copyright be addressed to the Director (Publications), BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also
+reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no
+changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users of
+Indian Standards should ascertain that they are in possession of the latest amendments or edition by
+referring to the latest issue of ‘BIS Catalogue’ and ‘Standards : Monthly Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard has been developed from Doc : No. CED 39 (5263).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments Issued Since Publication<<HEADING_END>>
+<<HEADING level=3>>Amend No.
+Date of Issue<<HEADING_END>>
+<<PARAGRAPH>>Amd. No. 1
+November 1995<<PARAGRAPH_END>>
+<<PARAGRAPH>>Amd. No. 2
+March 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU OF INDIAN STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.
+Telephones: 323 01 31, 323 33 75, 323 94 02
+Telegrams: Manaksanstha
+(Common to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI 110002
+323 76 17
+323 38 41<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi
+KOLKATA 700054
+337 84 99, 337 85 61
+337 86 26, 337 91 20<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022
+60 38 43
+60 20 25<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113
+235 02 16, 235 04 42
+235 15 19, 235 23 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+: Manakalaya, E9 MIDC, Marol, Andheri (East)
+MUMBAI 400093
+832 92 95, 832 78 58
+832 78 91, 832 78 92<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.
+LUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.
+VISHAKHAPATNAM.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 19
+Total Images: 13
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 3680x695
+[IMAGE_2] Page: 5, Size: 1792x1453
+[IMAGE_3] Page: 6, Size: 1704x418
+[IMAGE_4] Page: 7, Size: 2896x2602
+[IMAGE_5] Page: 8, Size: 2584x1871
+[IMAGE_6] Page: 9, Size: 2880x3242
+[IMAGE_7] Page: 10, Size: 1184x2918
+[IMAGE_8] Page: 11, Size: 2136x3013
+[IMAGE_9] Page: 12, Size: 2760x2292
+[IMAGE_10] Page: 13, Size: 2752x3278
+[IMAGE_11] Page: 14, Size: 472x172
+[IMAGE_12] Page: 15, Size: 488x178
+[IMAGE_13] Page: 16, Size: 2880x207
+
+Total Tables: 1
+
+Table Reference List:
+[TABLE_1] Page: 5, Size: 1x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

@@ -1,0 +1,4580 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<PARAGRAPH>>IS 1893
+( Part
+1 ) :2002<<PARAGRAPH_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>CRITERIA
+FOR EARTHQUAKE
+RESISTANT
+DESIGN OF STRUCTURES<<HEADING_END>>
+<<HEADING level=3>>PART 1 GENERAL
+PROVISIONS
+AND BUILDINGS<<HEADING_END>>
+<<HEADING level=2>>(  Ffth
+Revision
+)<<HEADING_END>>
+<<HEADING level=3>>ICS  91.120.25<<HEADING_END>>
+<<PARAGRAPH>>0 BIS 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF
+INDIAN
+STANDARDS
+MANAK BHAVAN,
+9
+BAHADUR
+SHAH ZAFAR MARG<<HEADING_END>>
+<<PARAGRAPH>>NEW DELHI 110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>Price
+Group
+12<<PARAGRAPH_END>>
+<<HEADING level=3>>June 2002<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>IS 1893( Part 1 ) :2002<<PARAGRAPH_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>CRITERIA
+FOR EARTHQUAKE
+RESISTANT
+DESIGN OF STRUCTURES<<HEADING_END>>
+<<HEADING level=3>>PART 1 GENERAL
+PROVISIONS
+AND BUILDINGS<<HEADING_END>>
+<<HEADING level=2>>(  Fijth Revision
+)<<HEADING_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard
+( Part 1 ) ( Fifth Revision)
+was adopted by the Bureau of Indian Standards, afler the
+draft finalized by the Earthquake Engineering Sectional Committee had been approved by the Civil Engineering
+Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Himalayan-Nagalushai region, Indo-GangeticPlain, Western India, Kutch and Kathiawarregions are geologically
+unstable parts of the country, and some devastating earthquakes of the world have occurred there.
+A  major
+part of the peninsular
+India has also been visited by strong earthquakes,
+but these were relatively few in
+number occurring at much larger time intervals at any site, and had considerably lesser intensity. The earth@ake
+resistant design of structures taking into account seismic data from studies of these Indian earthquakes has
+become very essential, particularly
+in view of the intense construction
+activity all over the country.
+It is to
+serve this purpose that IS 1893 : 1962 ‘Recommendations for earthquake resistant design of structures’ was
+published and revised first time in 1966.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As a result of additional seismic data collected in India and further knowledge and experience gained since
+the publication of the first revision of this standard, the sectional committee felt the need to revise the standard
+again incorporating many changes, such as revision of maps showing seismic zones and epicentres, and adding
+a more rational approach for design of buildings and sub-structures
+of bridges.
+These were covered in the
+second revision of 1S 1893 brought out in 1970.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As a result of the increased use of the standard, considerable amount of suggestions were received for modifying
+some of the provisions of the standard and, therefore, third revision of the standard was brought out in 1975.
+The following changes were incorporated in the third revision:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The standard incorporated seismic zone factors (previously given as multiplying factors in the second
+revision ) on a more rational basis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Importance
+factors were introduced to account for the varying degrees of importance for various
+structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the clauses for design of multi-storeyed buildings, the coefficient of flexibility was given in the
+form of a curve with respect to period of buildings.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>A more rational formula was used to combine modal shear forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>New clauses were introduced for determination
+of hydrodynamic pressures in elevated tanks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Clauses on concrete and masonry dams were modified, taking into account their dynamic behavionr
+during earthquakes. Simplified formulae for design forces were introduced based on results of extensive
+studies carried out since second revision of the standard was published.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PARAGRAPH>>The fourth revision, brought out in 1984, was prepared to modifi some of the provisions of the standard as a
+result of experience gained with the use ofthe standard. In this revision, a number of important basic modifications
+with respect to load factors, field values of N, base shear and modal analysis were introduced.
+A new concept
+of performance
+factor depending on the structural framing system and on the ductility of construction
+was
+incorporated. Figure 2 for average acceleration spectra was also modified and a curve for zero percent damping
+incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<PARAGRAPH>>IS 1893( Part 1 ) :2002<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the fifth revision, with a view to keep abreast with the rapid development and extensive research that has
+been carried out in the field of earthquake resistant design of various structures, the committee has decided
+to cover the provisions for different types of structures in separate parts. Hence, IS 1893 has been split into
+the following five parts:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 1 General provisions and buildings<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 2 Liquid retaining tanks — Elevated and ground supported<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 3 Bridges and retaining walls<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 4 Industrial structures including stack like structures<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 5 Dams and embankments<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part 1 contains provisions that are general in nature and applicable to all structures. Also, it contains provisions
+that are specific to buildings only. Unless stated otherwise, the provisions in Parts 2 to 5 shall be read necessarily
+in conjunction with the general provisions in Part 1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — Pending
+finalization
+of Parts 2 to 5 of IS 1893, provisions
+of Part
+1 will be read along with the relevant
+clauses of IS 1893 : 1984 for structures
+other than buildings.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following are the major and important moditlcations made in the fifth revision:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The seismic zone map is revised with only four zones, instead of five. Erstwhile Zone I has been
+merged to Zone 11. Hence, Zone I does not appear in the new zoning; only Zones II, 111,IV and V do.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The values of seismic zone factors have been changed; these now reflect more realistic values of
+effective peak ground acceleration considering Maximum Considered Earthquake ( MCE ) and service
+life of structure in each seismic zone.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response spectra are now specified for three types of founding strata, namely rock and hard soil,
+medium soil and soft soil.<<PARAGRAPH_END>>
+<<HEADING level=3>>Empirical expression for estimating the fundamental natural period  Ta of multi-storeyed
+buildings
+with regular moment resisting frames has been revised.<<HEADING_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>This revision adopts the procedure of first calculating the actual force that maybe experienced by
+the structure during the probable maximum earthquake, if it were to remain elastic. Then, the concept
+of response reduction due to ductile deformation
+or frictional
+energy dissipation
+in the cracks is
+brought into the code explicitly, by introducing the ‘response reduction factor’ in place of the earlier
+performance factor.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<HEADING level=3>>A lower bound is specified for the design base shear of buildings, based on empirical estimate of the
+fimdarnental natural period  Ta.<<HEADING_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The soil-foundation
+system factor is dropped.
+Instead, a clause is introduced to restrict the use of
+foundations vulnerable to differential settlements in severe seismic zones.<<PARAGRAPH_END>>
+<<PARAGRAPH>>@<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Torsional eccentricity values have been revised upwards in view of serious darnages observed in
+buildings with irregular plans.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Modal combination
+rule in dynamic analysis of buildings has been revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>J)<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other clauses have been redrafted where necessary for more effective implementation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is not intended in this standard to lay down regulation so that no structure shall suffer any damage during
+earthquake of all magnitudes.
+It has been endeavored
+to ensure that, as far as possible, structures are able
+to respond, without structural darnage to shocks of moderate intensities and without total collapse to shocks
+of heavy intensities.
+While this standard is intended for the earthquake resistant design of normal structures,
+it has to be emphasized that in the case of special structures, such as large and tall dams, long-span bridges,
+major industrial projects, etc, site-specific detailed investigation should be undertaken, unless otherwise specified
+in the relevant clauses.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>IS 1893( Part 1 ): 2002<<PARAGRAPH_END>>
+<<PARAGRAPH>>Though the basis for the design of different types of structures is covered in this standard, it is not implied
+that detailed dynamic analysis should be made in every case. In highly seismic areas, construction
+of a type
+which entails hea~y debris and consequent loss of life and property, such as masonry, particularly mud masonry
+and rubble masonry, should preferably be avoided. For guidance on precautions to be observed in the construction
+of buildings, reference maybe made to IS 4326, IS 13827 and IS 13828.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Earthquake
+can cause damage not only on account of the shaking which results from them but also due to
+other chain effects like landslides, floods, fires and disruption to communication. It is, therefore, important to
+take necessary precautions in the siting, planning and design of structures so that they are safe against such
+secondary effects also.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The Sectional Committee has appreciated that there cannot bean entirely scientific basis for zoning in view
+of the scanty data available.
+Though the magnitudes of different
+earthquakes which have occurred in the
+past are known to a reasonable degree of accuracy, the intensities of the shocks caused by these earthquakes
+have so far been mostly estimated by damage surveys and there is little instrumental
+evidence to corroborate
+the conclusions arrived at. Maximum intensity at different places can be fixed on a scale only on the basis of
+the observations made and recorded after the earthquake and thus a zoning map which is based on the maximum
+intensities arrived at, is likely to lead in some cases to an incorrect conclusion in view of(a) incorrectness in
+the assessment of intensities,
+(b) human error in judgment during the damage survey, and (c) variation in
+quality and design of structures causing variation in type and extent of damage to the structures for the same
+intensity of shock. The Sectional Committee has therefore, considered that a rational approach to the problem
+would be to arrive at a zoning map based on known magnitudes and the known epicentres ( see Annex A )
+assuming all other conditions as being average and to modifi such an idealized isoseismal map in light of
+tectonics ( see Annex B ), lithology ( see Annex C ) and the maximum intensities as recorded from damage
+surveys. The Committee has also reviewed such a map in the light of the past history and future possibilities
+and also attempted to draw the lines demarcating
+the different zones so as to be clear of important
+towns,
+cities and industrial areas, after making special examination of such cases, as a little modification in the zonal
+demarcations may mean considerable difference to the economics of a project in that area. Maps shown in
+Fig. 1 and Annexes A, B and C are prepared based on information available upto 1993.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the seismic zoning map, Zone I and II of the contemporary map have been merged and assigned the level
+of Zone 11. The Killari area has been included in Zone III and necessary modifications made, keeping in view
+the probabilistic hazard evaluation.
+The Bellary isolated zone has been removed. The parts of eastern coast
+areas have shown similar hazard to that of the Killari area, the level of Zone II has been enhanced to Zone III
+and connected with Zone III of Godawari Graben area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The seismic hazard level with respect to ZPA at 50 percent risk level and 100 years service life goes on
+progressively increasing from southern peninsular portion to the Himalayan main seismic source, the revised
+seismic zoning map has given status of Zone III to Narmada Tectonic Domain, Mahanandi Graben and Godawari
+Graben. This is a logical normalization keeping in view the apprehended higher strain rates in these domains
+on geological consideration
+of higher neotectonic activity recorded in these areas.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is particularly
+drawn to the fact that the intensity of shock due to an earthquake could vary locally
+at anyplace due to variation in soil conditions. Earthquake response of systems would be affected by different
+types of foundation system in addition to variation of ground motion due to various types of  soils.
+Considering
+the effects in a gross manner, the standard gives guidelines for arriving at design seismic coet%cients based
+on stiffness of base soil.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is important to note that the seismic coefficient, used in the design of any structure, is dependent on nany
+variable factors and it is an extremely difficult task to determine the exact seismic coefficient in each given
+case. It is, therefore, necessa~
+to indicate broadly the seismic coefficients that could generally be adopted
+in different parts or zones of the country though, of course, a rigorous analysis considering
+all the factors
+involved has to be made in the case of all important projects in order to arrive at a suitable seismic coeftlcients
+for design. The Sectional Committee responsible for the formulation of this standard has attempted to include
+a seismic zoning map (see Fig. 1) for this purpose. The object of this map is to classifi the area of the country
+into a number of zones in which one may reasonably expect earthquake shaking of more or less same maximum
+intensity in future. The Intensity as per Comprehensive Intensity Scale ( MSK64 ) ( see Annex D ) broadly
+associated with the various zones is VI ( or less ), VII, VIII and IX ( and above ) for Zones II, III, IV and V
+respectively.
+The maximum seismic ground acceleration in each zone cannot be presently predicted with<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>IS 1893( Part 1 ) :2002<<PARAGRAPH_END>>
+<<PARAGRAPH>>accuracy either on a deterministic
+or on a probabilistic
+basis.
+The basic zone factors included herein are
+reasonable estimates of effective peak ground
+accelerations for the design of various structures covered in
+this standard. Zone factors for some important towns are given in Annex E.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Base isolation and energy absorbing devices may be used for earthquake
+resistant design. Only standard
+devices having detailed experimental data on the performance should be used. The designer must demonstrate
+by detailed analyses that these devices provide sufficient protection to the buildings and equipment as envisaged
+in this standard. Performance of locally assembled isolation and energy absorbing devices should be evaluated
+experimentally before they are used in practice. Design of buildings and equipment using such device should
+be reviewed by the competent authority.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Base isolation systems are found usefhl for short period structures, say less than 0.7s including soil-structure
+interaction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the formulation
+of this standard, due weightage has been given to international
+coordination
+among the
+standards and practices prevailing in different countries in addition to relating it to the practices in the field
+in this country. Assistance has particularly
+been derived from the following publications:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+UBC 1994, Uniform Building Code, International Conference ofBuilding Officials, Whittier, Ckdifomia,
+U.S.A.1994.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+NEHRP 1991, NEHRP Recommended Provisions for the Development of Seismic Regulations for New
+Buildings, Part 1: Provisions,ReportNo. FEMA 222,FederalEmergencyManagement Agency,WashingtO%
+D.C., U.S.A., January 1992.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+NEHRP 1991, NEHRP Recommended Provisions for the Development of Seismic Regulations for New
+Buildings, Part 2: Commentary, Report No. FEMA 223, Federal Emergency Management Agency,
+Washington, D.C., U.S.A., January 1992.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+NZS 4203:1992,
+Code of Practice for General Structural Design and Design Loadings for Buildings,
+Standards Association of New Zealand, Wellington, New Zealand, 1992.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the preparation
+of this standard considerable assistance has been given by the Department of Earthquake
+Engineering, University of Roorkee; Indian Institute of Technology, Kanpuq IIT Bombay, Mumbai; Geological
+Survey of India; India Meteorological Department, and several other organizations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The units used with the items covered by the symbols shall be consistent throughout
+this standard, unless
+specifically noted otherwise.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The composition of the Committee responsible for the formulation of this standard is given in Annex F.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose of deciding whether a particular requirement of this standard is complied with, the final value
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with
+IS 2:1960
+‘Rules for rounding off numerical values (  revised
+)’.  The number of signflcant
+places retained in
+the rounded off value should be the same as that of the specified value in this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Earthquake Engineering Sectional Committee, CED 39 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=1>>As in the Original Standard, this Page is Intentionally Left Blank<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>IS 1893( Part 1 ): 2002<<PARAGRAPH_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>CRITERIA
+FOR EARTHQUAKE
+RESISTANT
+DESIGN OF STRUCTURES<<HEADING_END>>
+<<HEADING level=3>>PART 1 GENERAL
+PROVISIONS
+AND BUILDINGS<<HEADING_END>>
+<<HEADING level=2>>( Ffth
+Revision
+)<<HEADING_END>>
+<<HEADING level=3>>Title<<HEADING_END>>
+<<PARAGRAPH>>1
+SCOPE<<PARAGRAPH_END>>
+<<HEADING level=3>>IS No.<<HEADING_END>>
+<<PARAGRAPH>>1.1 This standard ( Part 1) deals with assessment of
+seismic loads on various structures and earthquake
+resistant design of buildings.
+Its basic provisions
+are applicable
+to buildings;
+elevated
+structures;
+industrial and stack like structures; bridges; concrete
+masonry and earth dams; embankments and retaining
+walls and other structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1343:1980<<PARAGRAPH_END>>
+<<HEADING level=3>>Code of practice
+for pre-stressed
+concrete  (first
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>1498:1970<<PARAGRAPH_END>>
+<<HEADING level=3>>Classification and identification of
+soils
+for
+general
+engineering
+purposes  (first
+revision )<<HEADING_END>>
+<<HEADING level=3>>Method of load test on soils (second
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>1888:1982<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2 Temporary elements such as scaffolding,temponuy
+excavations
+need not be designed for earthquake
+forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Criteria
+for earthquake
+resistant
+design of structures: Part 4 Industrial
+structures
+including
+stack
+like
+structures<<PARAGRAPH_END>>
+<<PARAGRAPH>>1893 (Part4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.3 This standard does not deal with the construction
+features relating to earthquake
+resistant design in
+buildings
+and other structures.
+For guidance
+on
+earthquake
+resistant
+construction
+of buildings,
+reference
+may be made to the following
+Indian
+Standards:<<PARAGRAPH_END>>
+<<HEADING level=3>>Method of standard penetration test
+for soils  (first
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>2131:1981<<PARAGRAPH_END>>
+<<PARAGRAPH>>2809:1972<<PARAGRAPH_END>>
+<<HEADING level=3>>Glossary
+of terms
+and
+symbols
+relating to soil engineering
+(  jirst
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>IS 4326,1S 13827,IS 13828,IS 13920and IS 13935.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2 REFERENCES<<PARAGRAPH_END>>
+<<PARAGRAPH>>2810:1979<<PARAGRAPH_END>>
+<<HEADING level=3>>Glossary of terms relating to soil
+dynamics  (fzrst revision)<<HEADING_END>>
+<<PARAGRAPH>>2.1 The following Indian Standards are necessary
+adjuncts to this standard:<<PARAGRAPH_END>>
+<<PARAGRAPH>>4326:1993<<PARAGRAPH_END>>
+<<HEADING level=3>>Earthquake
+resistant
+design
+and
+construction of buildings — Code
+of practice (  second
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>Is  No.<<PARAGRAPH_END>>
+<<HEADING level=3>>Title<<HEADING_END>>
+<<PARAGRAPH>>456:2000<<PARAGRAPH_END>>
+<<HEADING level=3>>Code of practice
+for plain
+and
+reinforced
+concrete
+(  fourth
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>6403:1981<<PARAGRAPH_END>>
+<<HEADING level=3>>Code of practice for determination
+of bearing
+capacity
+of shallow
+foundations
+(first
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>800:1984<<PARAGRAPH_END>>
+<<HEADING level=3>>Code
+of
+practice
+for
+general
+construction
+in
+steel
+(  second
+revision
+)<<HEADING_END>>
+<<PARAGRAPH>>Improving earthquake resistance of
+earthen buildings — Guidelines<<PARAGRAPH_END>>
+<<PARAGRAPH>>13827:1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>875<<PARAGRAPH_END>>
+<<PARAGRAPH>>Code of practice for design loads
+(other than earthquake ) forbuildings
+and structures:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Improving earthquake resistance of
+low strength masonry buildings —
+Guidelines<<PARAGRAPH_END>>
+<<PARAGRAPH>>13828:1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Part l):
+1987<<PARAGRAPH_END>>
+<<HEADING level=3>>Dead
+loads — Unit weights
+of
+building material and storedmaterials
+( second  revision)<<HEADING_END>>
+<<PARAGRAPH>>Ductile
+detailing
+of
+reinforced
+concrete
+structures
+subjected
+to
+seismic forces — Code of practice<<PARAGRAPH_END>>
+<<PARAGRAPH>>13920:1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Part 2):1987<<PARAGRAPH_END>>
+<<HEADING level=3>>Imposed loads (  second
+revision)<<HEADING_END>>
+<<PARAGRAPH>>Repair and seismic strengthening of
+buildings — Guidelines<<PARAGRAPH_END>>
+<<PARAGRAPH>>13935:1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Part 3):1987<<PARAGRAPH_END>>
+<<HEADING level=3>>Wind loads (  second
+revision)<<HEADING_END>>
+<<PARAGRAPH>>(Part4 ):1987<<PARAGRAPH_END>>
+<<HEADING level=3>>Snow loads (  second
+revision)<<HEADING_END>>
+<<PARAGRAPH>>SP 6 ( 6 ) :1972
+Handbook for structural engineers:
+Application
+of plastic
+theory
+in
+design of steel structures<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Part 5):1987<<PARAGRAPH_END>>
+<<PARAGRAPH>>Special loads and load combinations
+( second revision)<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>IS 1893( Part
+) :2002<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.11 Effective Peak Ground Acceleration
+( EPGA )<<PARAGRAPH_END>>
+<<HEADING level=3>>3  TERMINOLOGY
+FOR EARTHQUAKE
+ENGINEERING<<HEADING_END>>
+<<PARAGRAPH>>It is O.4times the 5 percent damped average spectral
+acceleration between period 0.1 to 0.3 s. This shall
+be taken as Zero Period Acceleration ( ZPA ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1 For the purpose of this standard, the following
+definitions shall apply which are applicable generally
+to all structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.12 Floor Response Spectra<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — For the definitions
+of terms pertaining to soil
+mechanics
+and soil dynamics
+references may be made
+to IS 2809 and IS 2810.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Floor response spectra is the response spectra for a
+time history motion of a floor. This floor motion time
+history is obtained by an analysis of multi-storey
+building
+for appropriate
+material
+damping values
+subjected to a specified earthquake motion at the base
+of structure.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2  Closely-Spaced
+Modes<<HEADING_END>>
+<<PARAGRAPH>>Closely-spaced modes of a structure are those of its
+natural modes of vibration whose natural frequencies
+differ from each other by 10 percent or less of the
+lower frequency.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.13 Focus<<PARAGRAPH_END>>
+<<PARAGRAPH>>The originating earthquake source ofthe elastic waves
+inside the earth which cause shaking of ground due
+to earthquake.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.3 Critical Damping<<PARAGRAPH_END>>
+<<PARAGRAPH>>The damping beyond which the free vibration motion
+will not be oscillatory.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.14 Importance
+Factor (1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a factor used to obtain the design seismic force
+depending
+on the functional
+use of the structure,
+characterised by hazardous consequences of its failure,
+its post-earthquake
+functional need, historic value,
+or economic importance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.4 Damping<<PARAGRAPH_END>>
+<<PARAGRAPH>>The effect of internal friction, imperfect elasticity of
+material, slipping, sliding, etc in reducing the amplitude
+ofvibration and is expressed as a percentage of critical
+damping.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.15 Intensity of Earthquake<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.5 Design Acceleration
+Spectrum<<PARAGRAPH_END>>
+<<PARAGRAPH>>The intensity of an earthquake at a place is a measure
+of the strength of shaking during the earthquake, and
+is indicated by a number according to the modified
+Mercalli Scale or M.S.K. Scale of seismic intensities
+(see AnnexD ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Design acceleration
+spectrum refers to an average
+smoothened plot ofmaximum acceleration as a fimction
+of frequency or time period ofvibration for a specitled
+damping ratio for earthquake excitations at the base
+of a single degree of freedom system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.16 Liquefaction<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.6 Design Basis Earthquake
+( DBE )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Liquefaction is a state in saturated cohesionless soil
+wherein the effective shear strength is reduced to
+negligible value for all engineering
+purpose due to
+pore pressure
+caused
+by vibrations
+during
+an
+earthquake when they approach the total confining
+pressure.
+In this condition the soil tends to behave
+like a fluid mass.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the earthquake which can reasonably be expected
+to occur at least once during the design life of the
+structure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.7
+Design Horizontal
+Acceleration
+Coefficient
+(Ah)<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.17 Lithological
+Features<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a horizontal acceleration coefficient that shall be
+used for design of structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The nature of the geological formation of the earths
+crust abovebed rock on the basis of such characteristics
+as colour, structure, mineralogical
+composition and
+grain size.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.8 Design Lateral
+Force<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the horizontal
+seismic force prescribed by this
+standard, that shall be used to design a structure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.18 MagnitudeofEarthquake
+( Richter% Magnitude)<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.9 Ductility<<PARAGRAPH_END>>
+<<PARAGRAPH>>The magnitude of earthquake is a number, which is a
+measure of energy released in an earthquake.
+It is
+defined as logarithm to the base 10 of the maximum
+trace amplitude,
+expressed in microns,
+which the
+standard short-period torsion seismometer
+( with a
+period of0.8s, magnification 2800 and damping nemly
+critical ) would register due to the earthquake
+at an
+epicentral distance of 100 km.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ductility of a structure, or its members, is the capacity
+to undergo
+large
+inelastic
+deformations
+without
+significant
+loss of strength or stiffness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.10 Epicentre<<PARAGRAPH_END>>
+<<PARAGRAPH>>The geographical point on the surface ofearth vertically
+above the focus of the earthquake.<<PARAGRAPH_END>>
+<<HEADING level=3>>8<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS  1893(  Part  1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>idealized single degree freedom systems having certain
+period
+and damping,
+during
+earthquake
+ground
+motion. The maximum response is plotted against the
+undamped natural period and for various damping
+values, and can be expressed in terms of maximum
+absolute acceleration, maximum relative velocity, or
+maximum relative displacement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.19 Maximum Considered Earthquake
+( MCE )<<PARAGRAPH_END>>
+<<PARAGRAPH>>The most severe earthquake
+effects considered by
+this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.20 Modal Mass ( lf~ )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Modal mass of a structure subjected to horizontal or
+vertical, as the case maybe, ground motion is apart
+ofthe total seismic mass of the structure that is effective
+in mode  k  of vibration. The modal mass for a given
+mode has a unique value irrespective of scaling of
+the mode shape.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.28 Seismic Mass<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the seismic weight divided by acceleration
+due
+to gravity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.29 Seismic Weight (W)<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.21 Modal Participation
+Factor (Pk)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the total dead load plus appropriate
+amounts of
+specified imposed load.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Modal participation
+factor of mode  k  of vibration is
+the amount by which mode  k  contributes to the overall
+vibration of the structure under horizontal and vertical
+earthquake ground motions. Since the amplitudes of
+95 percent mode shapes can be scaled arbitrarily, the
+value of this factor depends on the scaling used for
+mode shapes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.30 Structural
+Response Factors
+( S,/g )<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a factor denoting
+the acceleration
+response
+spectrum of the structure
+subjected to earthquake
+ground vibrations,
+and depends on natural
+period
+of vibration and damping of the structure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.31 Tectonic
+Features<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.22 Modes of Vibration
+( see Normal Mode)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The nature of geological formation of the bedrock in
+the earth’s crust revealing regions characterized
+by
+structural features, such as dislocation,
+distortion,
+faults, folding, thrusts, volcanoes with their age of
+formation, which are directly involved in the earth
+movement
+or quake
+resulting
+in
+the
+above
+consequences.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.23 Mode Shape
+Coefficient
+( $i~)<<PARAGRAPH_END>>
+<<PARAGRAPH>>When a system is vibrating in normal mode  k,  at  any
+particular instant
+of time, the
+amplitude
+of mass
+i expressed
+as a ratio of the amplitude of one of the
+masses
+of the system,
+is known
+as mode shape
+coefficient ( @i~).<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.24 Natural
+Period (T)<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.32 Time History Analysis<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is an analysis ofthe dynamic respmse ofthe structure
+at each increment of time, when its base is subjected
+to a specific ground motion time history.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Natural period of a structure
+is its time period of
+undamped free vibration.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.24,1
+Fundamental
+Natural
+Period
+( T1)<<HEADING_END>>
+<<PARAGRAPH>>3.33 Zone Factor (Z)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the first ( longest ) modal time period of vibration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a factor to obtain the design spectrum depending
+on the perceived maximum seismic risk characterized
+by Maximum Considered Earthquake ( MCE ) in the
+zone in which the structure is located. The basic zone
+fiwtorsincluded in this standard are reasonable estimate
+of effective peak ground acceleration.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.24.2
+Modal
+Natural
+Period
+( T~)<<HEADING_END>>
+<<HEADING level=3>>The modal natural period of mode  k  is the time period
+of vibration in mode  k.<<HEADING_END>>
+<<PARAGRAPH>>3.25 Normal Mode<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.34 Zero Period Acceleration
+( ZPA )<<PARAGRAPH_END>>
+<<PARAGRAPH>>A system is said to be vibrating in a normal mode when
+all its masses attain maximum values of displacements
+and rotations
+simultaneously,
+and pass through
+equilibrium positions simultaneously.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the value of acceleration response spectrum for
+period below 0.03 s ( frequencies
+above 33 Hz).
+-,.
+4 TERMINOLOGY FOR EARTHQUAKE
+ENGINEERING OF BUILDINGS<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.26 Response Reduction Factor (R)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the factor by which the actual base shear force,
+that would be generated if the structure were to remain
+elastic
+during
+its response
+to the Design
+Basis
+Earthquake (DBE ) shaking, shall be reduced to obtain
+the design lateral force.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1 For the purpose of earthquake resistant design
+ofbuildings in this standard, the following definitions
+shall apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2 Base<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the level at which inertia forces generated in the
+strnctnre are transferred to the foundation, which then
+transfers these forces to the ground.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.27 Response
+Spectrum<<PARAGRAPH_END>>
+<<PARAGRAPH>>The representation
+of
+the maximum
+response of<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>IS 1893( Part 1 ) :2002<<PARAGRAPH_END>>
+<<HEADING level=3>>4.14
+Lateral  Force Resisting Element<<HEADING_END>>
+<<PARAGRAPH>>4.3 Base Dimensions
+(d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is part of the structural system assigned to resist
+lateral forces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Base dimension of the building along a direction is
+the dimension at its base, in metre, along that direction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.15 Moment-Resisting
+Frame<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4 Centre of Mass<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a frame in which members and joints are capable
+of resisting forces primarily by flexure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The point through which the resultant of the masses
+of a system acts. This point corresponds to the centre
+of gravity of masses of system.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.15.1
+Ordinary
+Moment-Resisting
+Frame<<HEADING_END>>
+<<PARAGRAPH>>4.5 Centre
+of Stiffness<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a moment-resisting
+frame not meeting special
+detailing requirements for ductile behaviour.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The point through which the resultant of the restoring
+forces of a system acts.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.15.2
+Special
+Moment-Resisting
+Frame<<HEADING_END>>
+<<PARAGRAPH>>It is a moment-resisting
+frame specially detailed
+to provide
+ductile
+behaviour
+and comply
+with
+the requirements
+given in IS 4326 or IS 13920 or
+SP6(6).<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.6 Design Eccentricity
+( e~i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the value of eccentricity to be used at floor i in
+torsion calculations for design.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.7 Design Seismic
+Base Shear ( V~)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.16 Number of Storeys ( n )<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the total design lateral force at the base of a
+structure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Number of storeys of a building isthe number of levels
+above the base. This excludes the basement storeys,
+where basement walls are connected with the ground
+floor deck or fitted between the building columns. But,
+it includes the basement storeys, when they are not
+so connected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.8 Diaphragm<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a horizontal, or nearly horizontal system, which
+transmits lateral forcesto the vertical resisting elements,
+for example, reinforced concrete floors and horizontal
+bracing systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.17 Principal
+Axes<<PARAGRAPH_END>>
+<<PARAGRAPH>>Principal axes of a building are generally two mutually
+perpendicular horizontal directions inphmof abuilding
+along which the geometry of the building is oriented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.9 Dual System<<PARAGRAPH_END>>
+<<PARAGRAPH>>Buildings
+with dual system consist of shear walls
+( or braced frames ) and moment resisting frames such
+that:<<PARAGRAPH_END>>
+<<HEADING level=3>>4.18  P-A Effect<<HEADING_END>>
+<<PARAGRAPH>>It is the secondary effect on shears and moments of
+frame members due to action of the vertical loads,
+interacting with the lateral displacement of building
+resulting from seismic for~es.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+The two systems are designed to resist the
+total design lateral force in proportion to their
+lateral stiffness considering the interaction
+of the dual system at all floor levels; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.19 Shear Wall<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+The moment resisting frames are designed
+to independently
+resist at least 25 percent
+of the design base shear.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is a wall designed to resist lateral forces acting in
+its own plane.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.20 Soft Storey<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.10 Height
+of Floor ( hi )<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is one in which the lateral stiffness is less than
+70 percent of that in the storey above or less than
+80 percent of the average lateral stiffness of the three
+storeys above.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the difference in levels between the base of the
+building and that of floor i.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.11 Height of Structure(k)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.21 Static Eccentricity
+( e~l)<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the difference in levels, in metres, between its
+base and its highest level.<<PARAGRAPH_END>>
+<<HEADING level=3>>It is the distance between centre of mass and centre
+of rigidity of floor  i.<<HEADING_END>>
+<<PARAGRAPH>>4.12 Horizontal
+Bracing System<<PARAGRAPH_END>>
+<<HEADING level=3>>4.22
+Storey<<HEADING_END>>
+<<PARAGRAPH>>It is a horizontal
+truss system that serves the same
+function as a diaphragm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the space between two adjacent floors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.13 Joint<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.23 Storey Drift<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the portion of the column that is common to other
+members, for example, beams, framing into it.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the displacement of one level relative to the other
+level above or below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS  1893( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>Number of storeys<<PARAGRAPH_END>>
+<<HEADING level=3>>4.24  Storey  Shear ( ~)<<HEADING_END>>
+<<HEADING level=3>>n<<HEADING_END>>
+<<PARAGRAPH>>It is the sum of design lateral forces at all levels above
+the storey under consideration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>SPT value for soil<<PARAGRAPH_END>>
+<<HEADING level=3>>N<<HEADING_END>>
+<<HEADING level=3>>Modal participation
+factor of mode  k<<HEADING_END>>
+<<HEADING level=3>>Pk<<HEADING_END>>
+<<HEADING level=3>>4.25  Weak Storey<<HEADING_END>>
+<<HEADING level=3>>Lateral force at floor  i<<HEADING_END>>
+<<HEADING level=3>>Q,<<HEADING_END>>
+<<PARAGRAPH>>It is one in which the storey lateral strength is less
+than 80 percent of that in the storey above, The storey
+lateral strength is the total strength of all seismic force
+resisting
+elements sharing the storey shear in the
+considered direction.<<PARAGRAPH_END>>
+<<HEADING level=3>>Design lateral force at floor  i  in mode  k<<HEADING_END>>
+<<HEADING level=3>>Q~~<<HEADING_END>>
+<<PARAGRAPH>>Number of modes to be considered as per
+7.8.4.2<<PARAGRAPH_END>>
+<<HEADING level=3>>r<<HEADING_END>>
+<<PARAGRAPH>>Response reduction factor<<PARAGRAPH_END>>
+<<HEADING level=3>>R<<HEADING_END>>
+<<HEADING level=3>>5  SYMBOLS<<HEADING_END>>
+<<PARAGRAPH>>Average response acceleration coefficient
+for rock or soil sites as given by Fig. 2
+and Table 3 based on appropriate natural
+periods and damping of the structure<<PARAGRAPH_END>>
+<<HEADING level=3>>S’a/g<<HEADING_END>>
+<<PARAGRAPH>>The symbols and notations given below apply to the
+provisions of this standard:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Design horizontal seismic coefficient<<PARAGRAPH_END>>
+<<PARAGRAPH>>.4h<<PARAGRAPH_END>>
+<<PARAGRAPH>>Undamped natural period of vibration of
+the structure (in second )<<PARAGRAPH_END>>
+<<HEADING level=3>>T<<HEADING_END>>
+<<PARAGRAPH>>Design horizontal acceleration spectrum
+value for mode “kof vibration<<PARAGRAPH_END>>
+<<HEADING level=3>>A~<<HEADING_END>>
+<<PARAGRAPH>>Approximate
+fundamental
+period
+( in
+seconds )<<PARAGRAPH_END>>
+<<HEADING level=3>>~<<HEADING_END>>
+<<PARAGRAPH>>ithFloor plan dimension of the building
+perpendicular
+to the direction of force<<PARAGRAPH_END>>
+<<HEADING level=3>>bi<<HEADING_END>>
+<<PARAGRAPH>>Undamped natural period of mode k of
+vibration (in second )<<PARAGRAPH_END>>
+<<HEADING level=3>>Tk<<HEADING_END>>
+<<PARAGRAPH>>Index for the closely-spaced modes<<PARAGRAPH_END>>
+<<HEADING level=3>>c<<HEADING_END>>
+<<PARAGRAPH>>Base dimension of the building, in metres,
+in the direction in which the seismic force
+is considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>d<<HEADING_END>>
+<<PARAGRAPH>>Fundamental
+natural period of vibration
+(in second )<<PARAGRAPH_END>>
+<<HEADING level=3>>T1<<HEADING_END>>
+<<PARAGRAPH>>Design seismic base shear<<PARAGRAPH_END>>
+<<PARAGRAPH>>VB<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response quantity due to dead load<<PARAGRAPH_END>>
+<<HEADING level=3>>DL<<HEADING_END>>
+<<HEADING level=3>>Design base shear calculated using the
+approximate fimdamental period  T,<<HEADING_END>>
+<<PARAGRAPH>>pB<<PARAGRAPH_END>>
+<<PARAGRAPH>>Design eccentricity to be used at floor  i
+calculated as per 7.8.2<<PARAGRAPH_END>>
+<<HEADING level=3>>‘dl<<HEADING_END>>
+<<HEADING level=3>>Peak storey shear force in storey  i  due to
+all modes considered<<HEADING_END>>
+<<PARAGRAPH>>q<<PARAGRAPH_END>>
+<<HEADING level=3>>Static eccentricity at floor  i  defined as the
+distance between centre of mass and centre
+of rigidity<<HEADING_END>>
+<<HEADING level=3>>e S1<<HEADING_END>>
+<<HEADING level=3>>Shear force in storey  i  in mode  k<<HEADING_END>>
+<<PARAGRAPH>>qk<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response quantity due to earthquake load
+for horizontal shaking along x-direction<<PARAGRAPH_END>>
+<<PARAGRAPH>>Peak storey shear force at the roof due to
+all modes considered<<PARAGRAPH_END>>
+<<HEADING level=3>>ELX<<HEADING_END>>
+<<PARAGRAPH>>v roof<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response quantity due to earthquake load
+for horizontal shaking along y-direction<<PARAGRAPH_END>>
+<<PARAGRAPH>>Seismic weight of the structure<<PARAGRAPH_END>>
+<<HEADING level=3>>ELY<<HEADING_END>>
+<<PARAGRAPH>>w<<PARAGRAPH_END>>
+<<HEADING level=3>>Seismic weight of floor  i<<HEADING_END>>
+<<PARAGRAPH>>Wi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response quantity due to earthquake load
+for vertical shaking along z-direction<<PARAGRAPH_END>>
+<<HEADING level=3>>EL,<<HEADING_END>>
+<<PARAGRAPH>>Zone factor<<PARAGRAPH_END>>
+<<PARAGRAPH>>z<<PARAGRAPH_END>>
+<<HEADING level=3>>Mode shape coet%cient at floor  i  in mode
+k<<HEADING_END>>
+<<PARAGRAPH>>Design lateral forces at the roof due to all
+modes considered<<PARAGRAPH_END>>
+<<HEADING level=3>>F roof<<HEADING_END>>
+<<PARAGRAPH>>Oik<<PARAGRAPH_END>>
+<<PARAGRAPH>>Peak response (for example member forces,
+displacements, storey forces, storey shears
+or base reactions
+) due to all modes
+considered<<PARAGRAPH_END>>
+<<PARAGRAPH>>a<<PARAGRAPH_END>>
+<<HEADING level=3>>Design lateral forces at the floor  i  due to
+all modes considered<<HEADING_END>>
+<<HEADING level=3>>Fi<<HEADING_END>>
+<<PARAGRAPH>>Acceleration
+due to gravity<<PARAGRAPH_END>>
+<<HEADING level=3>>$?<<HEADING_END>>
+<<PARAGRAPH>>Height of structure, in metres<<PARAGRAPH_END>>
+<<HEADING level=3>>h<<HEADING_END>>
+<<HEADING level=3>>Absolute value of maximum response in
+mode  k<<HEADING_END>>
+<<PARAGRAPH>>%<<PARAGRAPH_END>>
+<<HEADING level=3>>Height measured
+from the base of the
+building to floor  i<<HEADING_END>>
+<<HEADING level=3>>hi<<HEADING_END>>
+<<PARAGRAPH>>Absolute value of maximum response in
+mode c, where mode c is a closely-spaced
+mode.<<PARAGRAPH_END>>
+<<PARAGRAPH>>kc<<PARAGRAPH_END>>
+<<PARAGRAPH>>Importance factor<<PARAGRAPH_END>>
+<<HEADING level=3>>I<<HEADING_END>>
+<<PARAGRAPH>>Response quantity due to imposed load<<PARAGRAPH_END>>
+<<HEADING level=3>>IL<<HEADING_END>>
+<<PARAGRAPH>>Peak response due to the closely-spaced
+modes only<<PARAGRAPH_END>>
+<<PARAGRAPH>>A*<<PARAGRAPH_END>>
+<<HEADING level=3>>Modal mass of mode  k<<HEADING_END>>
+<<HEADING level=3>>h4k<<HEADING_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>IS  1893( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>for this difference in actual and design lateral loads.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pij
+Coefficient used in the Complete Quadratic
+Combination
+( CQC ) method
+while
+combining responses of modes i andj<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reinforced and prestressed concrete members shall
+be suitably designed to ensure that premature
+failure
+due to shear or bond does not occur, subject to the
+provisions
+of IS 456 and IS 1343.
+Provisions
+for
+appropriate ductile detailing of reinforced concrete
+members are given in IS 13920,<<PARAGRAPH_END>>
+<<HEADING level=3>>oi
+Circular
+frequency in rad/second in the
+iti  mode<<HEADING_END>>
+<<PARAGRAPH>>6 GENERAL PRINCIPLES
+AND DESIGN
+CRITERIA<<PARAGRAPH_END>>
+<<PARAGRAPH>>In steel structures, members and their connections
+shouldbe soproportioned that high ductility is obtain~
+tide SP 6 ( Part 6 ), avoiding premature failure due to
+elastic or inelastic buckling of any type.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1 General
+Principles<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.1
+Ground
+Motion<<HEADING_END>>
+<<PARAGRAPH>>The characteristics ( intensity, duratio~ etc ) of seismic
+ground vibrations expected at any location depends
+upon the magnitude of earthquake, its depth of focus,
+distance from the epicentre, characteristics of the path
+through which the seismic waves travel, and the soil
+strata on which the structure
+stands. The random
+earthquake ground motions, which cause the structure
+to vibrate,
+can be resolved in any three mutually
+perpendicular directions. The predominant direction
+of ground vibration is usually horizontal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The specified earthquake loads are based upon post-
+elastic energy dissipation in the structure and because
+of this fact, the provision of this standard for design,
+detailing and construction shall be satisfied even for
+structures and members for which load combinations
+that do not contain the earthquake effect indicate larger
+demands than combinations including earthquake.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.4
+Soil-Structure
+Interaction<<HEADING_END>>
+<<PARAGRAPH>>The soil-structure interaction refers to the effects of
+the supporting foundation medium on the motion of
+structure.
+The soil-structure
+interaction may not be
+considered
+in the seismic analysis for structures
+supported on rock or rock-like material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Earthquake-generated
+vertical inertia forces are to be
+considered in design unless checked and proven by
+specimen calculations to be not significant. Vertical
+acceleration should be considered in structures with
+large spans, those in which stability is a criterion for
+design, or for overall stability analysis of structures.
+Reduction in gravity force due to vertical component
+of ground motions can be particularly detrimental in
+cases of prestressed
+horizontal
+members
+and of
+cantilevered members. Hence, special attention should
+be paid to the effect ofvertical component of the ground
+motion on prestressed or cantilevered beams, girders
+and slabs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.5 The design lateral force specified in this standard
+shall be considered in each of the two orthogonal
+horizontal directions of the structure. For structures
+which have lateral force resisting elements in the two
+orthogonal directions only, the design lateral force
+shall be considered along one direction at a time, and
+not in both directions
+simultaneously.
+Structures,
+having lateral force resisting elements (for example
+frames, shear walls ) in directions other than the two
+orthogonal directions, shall be analysed considering
+the load combinations specified in 6.3.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.2 The response of a structure to ground vibrations
+is a fimction of the nature of foundation soil; materials,
+form, size and mode of construction
+of structures;
+and the duration and characteristics of ground motion.
+This standard specifies design forces for structures
+standing on rocks or soils which do not settle, liquefi
+or slide due to loss of strength during ground vibrations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where both horizontal and vertical seismic forces are
+taken
+into account,
+load combinations
+specified
+in 6.3.3 shall be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.6
+Equipment
+and other
+systems,
+which
+are
+supported at various floor levels of the structure, will
+be subjected to motions corresponding
+to vibration
+at their support points. In important cases, it may be
+necessary to obtain floor response spectra for design
+of equipment supports. For detail reference be made
+to IS 1893 (Part 4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.3 The design approach adopted in this standard
+is to ensure that structures possess at least a minimum
+strength to withstand minor earthquakes ( <DBE ),
+which
+occur frequently,
+without
+damage;
+resist
+moderate earthquakes
+( DBE ) without significant
+structural damage though some non-structural damage
+may OCCUEand aims that structures withstand a major
+earthquake ( MCE ) without collapse, Actual forces
+that appear on structures during earthquakes are much
+greater than the design forces speciiled in this standard.
+However, ductility, arising from inelastic material
+behaviourand detailing, and overstrength, arising from
+the additional reserve strength in structures over and
+above the design strength, are relied upon to account<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.7  Additions
+to Existing
+Structures<<HEADING_END>>
+<<PARAGRAPH>>Additions shall be made to existing structures only
+as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+An addition that is structurally independent
+from an existing structures shall be designed
+and constructed
+in accordance
+with the
+seismic requirements for new structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>these shall be combined as per 6.3.1.1 and 6.3.1.2
+where the terms  DL, IL  and  EL  stand for the response
+quantities
+due to dead
+load, imposed
+load and
+designated earthquake load respectively.<<HEADING_END>>
+<<PARAGRAPH>>b)
+An
+addition
+that
+is not structurally
+independent from an existing structure shall
+be designed
+and
+constructed
+such
+that
+the entire structure conforms to the seismic
+force
+resistance
+requirements
+for new
+structures
+unless
+the
+following
+three
+conditions are complied with:<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.1.1
+Load factors
+for
+plastic
+design
+of steel
+structures<<HEADING_END>>
+<<PARAGRAPH>>In the plastic design of steel structures, the following
+load combinations shall be accounted for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The addition
+shall comply with the
+requirements
+for new structures,<<PARAGRAPH_END>>
+<<HEADING level=3>>1)
+1.7(  DL.+IL )<<HEADING_END>>
+<<PARAGRAPH>>The addition shall not increase the seismic
+forces in any structural elements of the
+existing structure by more than 5 percent
+unless
+the capacity
+of the element
+subject to the increased force is still in
+compliance with this standard, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)<<PARAGRAPH_END>>
+<<HEADING level=3>>2)
+1.7( DL*EL)<<HEADING_END>>
+<<HEADING level=3>>3)
+1.3( DL+lL*EL)<<HEADING_END>>
+<<HEADING level=3>>6.3.1.2
+Partial
+safety factors
+for limit state
+design
+of reinforced
+concrete
+and prestressed
+concrete
+structures<<HEADING_END>>
+<<PARAGRAPH>>The additicn
+shall not decrease
+the
+seismic
+resistance
+of any structural
+element of the existing structure unless
+reduced resistance is equal to or greater
+than that required for new structures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the limit state design of reinforced and prestressed
+concrete structures, the following load combinations
+shall be accounted for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+1.5( DL+lL)<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.8
+Change
+in Occupancy<<HEADING_END>>
+<<PARAGRAPH>>2)
+1.2( DL+ZL+EL)<<PARAGRAPH_END>>
+<<PARAGRAPH>>When a change of occupancy results in a structure
+being re-classified to a higher importance factor (1 ),
+the structure shall conform to the seismic requirements
+for anew structure with the higher importance factor.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+1.5( DL+EL)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4)
+0.9DL*
+1.5EL<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2
+Design
+Horizontal
+Earthquake
+Load<<HEADING_END>>
+<<PARAGRAPH>>6.2 Assumptions<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following
+assumptions
+shall be made in the
+earthquake
+resistant design of structures:<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3.2.1
+When the lateral load resisting elements are
+oriented along orthogonal horizontal
+direction, the
+structure shall be designed for the effects due to till
+design earthquake load in one horizontal direction at
+time.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Earthquake causes impulsive ground motions,
+which are complex and irregular in character,
+changing in period and amplitude each lasting
+for a small duration. Therefore, resonance of
+the type as visualized
+under steady-state
+sinusoidal excitations,
+will not occur as it
+would need time to buildup such amplitudes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3.2.2 When the lateral load resisting elements are
+not oriented along the orthogonal horizontal directions,
+the stmcture shall be designed for the effects due to
+foil design earthquake load in one horizontal direction
+plus 30 percent of the design earthquake load in the
+other direction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE—  However,
+there
+are exceptions
+where
+resonance-like
+conditions have been seen to occur
+between
+long distance
+waves and tall structures
+founded on deep soft soils.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — For instance, the building should be designed
+for ( +  ELx i  0.3  EL.y )  as well as ( * 0.3  ELx * ELy ),
+where x and y are two orthogonal horizontal directions,
+EL  in 6.3.1.1 and 6.3.1,2 shall
+be replaced by (  ELx i
+0.3  ELy )  or (  ELy i 0.3 .!Lh ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Earthquake
+is
+not
+likely
+to
+occur
+simultaneously with wind or maximum flood
+or maximum sea waves,<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.3
+Design
+Vertical Earthquake
+Load<<HEADING_END>>
+<<PARAGRAPH>>The value of elastic modulus of materials,
+wherever required, may be taken as for static
+analysis
+unless
+a more definite
+value is
+available
+for use in such condition
+( see
+IS 456, IS 1343 and IS 800 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>When effects due to vertical earthquake loads are to
+be considered,
+the design vertical
+force shall be
+calculated in accordance with 6.4.5.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.4
+Combination
+for
+Two or Three Component
+Motion<<HEADING_END>>
+<<PARAGRAPH>>6.3 Load Combination
+and Increase in Permissible
+Stresses<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.4.1
+When responses from the three earthquake
+components are to be considered, the responses due
+to each component
+may be combined
+using
+the<<HEADING_END>>
+<<HEADING level=3>>6.3.1
+Load Combinations<<HEADING_END>>
+<<PARAGRAPH>>When earthquake forces are considered on a structure,<<PARAGRAPH_END>>
+<<PARAGRAPH>>13<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>IS  1893( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>Zones III, IV, V and less than 10 in seismic Zone II,
+the vibration
+caused
+by earthquake
+may cause
+liquefaction
+or excessive
+total
+and differential
+settlements. Such sites should preferably be avoided
+while locating new settlements or important projects.
+Otherwise, this aspect of the problem needs to be
+investigated and appropriate methods of compaction
+or stabilization adopted to achieve suitable N-values
+as indicated in Note 3 under Table 1. Alternatively,
+deep pile foundation may be provided and taken to
+depths well into the layer which is not likely to liquefi.
+Marine clays and other sensitive clays are also known
+to lique~
+due to collapse of soil structure and will
+need special treatment according to site condition.<<PARAGRAPH_END>>
+<<PARAGRAPH>>assumption that when the maximum response from
+one component occurs, the responses from the other
+two component are 30 percent of their maximum. All
+possible combinations of the three components (  ELx,
+ELy  and  ELz )  including variations in sign ( plus or
+minus ) shall be considered,
+Thus, the response due
+earthquake force (EL  ) is the  maximum ofthe following
+three cases:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+%ELX*O.3 ELyho.3ELz<<PARAGRAPH_END>>
+<<HEADING level=3>>2)
+*ELy*O.3
+ELx&O.3  ELz<<HEADING_END>>
+<<HEADING level=3>>3)
+*ELz*
+0.3 ELx&O.3 ELy<<HEADING_END>>
+<<PARAGRAPH>>where x and y are two orthogonal directions and z is
+vertical direction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+— Specialist
+literature
+may be referred
+for
+determining
+liquefaction
+potential
+of a site.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3.4.2 As an alternative to the procedure in 6.3.4.1,
+the response (EL  )  due to the combined effect of the
+three components
+can be obtained on the basis of
+‘square root of the sum of the square ( SRSS )‘ that
+is<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4
+Design Spectrum<<HEADING_END>>
+<<HEADING level=3>>6.4.1  For the purpose of determining seismic forces,
+the country is classified into four seismic zones as
+shown in Fig. 1.<<HEADING_END>>
+<<HEADING level=3>>EL
+=
+~
+(ELx)2+
+(ELy)z+(ELz)2<<HEADING_END>>
+<<PARAGRAPH>>6.4.2 The design horizontal
+seismic coefficient Ah
+for a structure shall be determined by the following
+expression:<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — The combination
+procedure
+of 6.3.4.1
+and
+6.3.4.2 apply to the same response quantity (say, moment
+in a column about its major axis, or storey shear in a
+frame) due to different components of the ground motion.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.zIsa
+Ah=—<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3.4.3
+When two component
+motions ( say one
+horizontal and one vertical, or only two horizontal)
+are combined, the equations in 6.3.4.1 and 6.3.4.2
+should be modified by del >tingthe term representing
+the response due to the component of motion not being
+considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>2Rg<<HEADING_END>>
+<<HEADING level=3>>Provided that for any structure with T <0.1
+s, the
+value of A~will not be taken less than Z/2 whatever
+be the value of  I/R<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.5  Increase
+in Permissible
+Stresses<<HEADING_END>>
+<<PARAGRAPH>>z.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Zone factor given in Table 2, is
+for the
+Maximum Considered Earthquake ( MCE )
+and service life of structure in a zone. The
+factor 2 in the denominator of Z is used so
+as to reduce the Maximum
+Considered
+Earthquake ( MCE ) zone factor to the fktor
+for Design Basis Earthquake ( DBE ).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.5.1
+Increase
+impermissible
+stresses
+in materials<<HEADING_END>>
+<<PARAGRAPH>>When earthquake
+forces are considered along with
+other normal design forces, the permissible stresses
+in material, in the elastic method of design, maybe
+increased by one-third.
+However, for steels having a
+definite yield stress, the stress be limited to the yield
+stress; for steels without a definite yield point, the
+stress will be limited to 80 percent of the ultimate
+strength
+or 0.2 percent proof stress, whichever
+is
+smaller; and that in prestressed concrete members,
+the tensile stre’ssin the extreme fibers of the concrete
+may be permitted
+so as not to exceed two-thirds of
+the modulus of rupture of concrete.<<PARAGRAPH_END>>
+<<PARAGRAPH>>z=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Importance
+factor, depending
+upon
+the
+functional
+use
+of
+the
+structures,
+characterised by.hazardous consequences
+of its failure, post-earthquake
+functional
+needs,
+historical
+value,
+or economic
+importance ( Table 6 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>R=<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.5.2
+Increase
+in allowable
+pressure
+in soils<<HEADING_END>>
+<<PARAGRAPH>>Response reduction factor, depending on
+the perceived seismic damage performance
+of the structure, characterised
+by ductile
+or brittle deformations. However, the ratio
+(I/R  )  shall not be greater than 1.0( Table
+7). The values of  R  for buildings are given
+in Table 7.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When earthquake forces are included, the allowable
+bearing pressure in soils shall be increased as per
+Table 1, depending upon type of foundation of the
+structure and the type of soil.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In soil deposits consisting of submerged loose sands
+and soils
+falling
+under
+classification
+SP with
+standard penetration N-values less than 15 in seismic<<PARAGRAPH_END>>
+<<PARAGRAPH>>S’a/g =<<PARAGRAPH_END>>
+<<PARAGRAPH>>Average response acceleration coefficient<<PARAGRAPH_END>>
+<<PARAGRAPH>>14<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>Table 1 Percentage of Permissible Increase in Allowable Bearing Pressure or Resistance of Soils<<HEADING_END>>
+<<HEADING level=3>>(L’lause 6.3.5.2)<<HEADING_END>>
+<<PARAGRAPH>>S1 No.
+Foundation
+Type of Soil Mainly
+Constituting
+the
+Foundation
+A
+r
+>
+Type I Rock or Hard Soil :
+Type H Medium
+S&ls
+:
+Type III Soft Soils:  AU
+Well graded gravel and sand
+All soils with N between 10
+soils
+other
+than
+SP’J
+gravel
+mixtures
+with
+or
+and 30, and poorly graded
+with N<
+10
+without
+clay
+binder,
+and
+sands or gravelly sands with
+clayey sands poorly graded
+little
+or no
+fines
+( SP1~)
+or sand clay mixtures ( GB,
+with N> 15
+CW, SB,
+SW, and
+SC )1)
+having )@ above 30, where
+N is the standard penetration
+value<<PARAGRAPH_END>>
+<<PARAGRAPH>>(1)
+(2)
+(3)
+(4)
+(5)<<PARAGRAPH_END>>
+<<HEADING level=3>>1)
+Piles
+passing
+through
+any
+50
+50
+50
+soil but resting on soil type I<<HEADING_END>>
+<<PARAGRAPH>>ii)
+Piles
+not
+covered
+under
+25
+25
+item i<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)
+Raft foundations
+50
+50
+50<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv)
+Combined
+isolated
+RCC
+50
+25
+25
+footing with tie beams<<PARAGRAPH_END>>
+<<PARAGRAPH>>v)
+Isolated RCC footing without
+50
+25
+—
+tie beams, or unreinforced
+strip foundations<<PARAGRAPH_END>>
+<<PARAGRAPH>>vi)
+Well foundations
+50
+25
+25<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 The allowable bearing pressure shall be determined in accordance with IS 6403 or IS 1888.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2 If any increase in bearing
+pressure has already been permitted
+for forces other than seismic forces, the total increase
+in allowable bearing pressure when seismic force is also included shall not exceed the limits specified above.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3 Desirable minimum field values of N — If soils of smaller N-values are met, compacting may be adopted to achieve
+these values or deep pile foundations
+going to stronger strata should be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4 The values of N ( corrected values ) are at the founding level and the allowable bearing pressure shall be determined in
+accordance
+with IS 6403 or IS 1888.
+,
+Seismic Zone
+Depth Below Ground
+N-Values
+Remark
+level (in metres )<<PARAGRAPH_END>>
+<<PARAGRAPH>>III, IV and V
+<5
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>> lo
+25
+For values of depths between 5 m and
+10
+m,
+linear
+interpolation
+is
+11 ( for important
+<5
+15
+recommended
+structures
+only )
+> Ir)
+20<<PARAGRAPH_END>>
+<<PARAGRAPH>>5 The piles should be designed for lateral loads neglecting lateral resistance
+of soil layers liable to liquefy.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6 IS 1498 and
+IS 2131 may also be referred.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7 Isolated R,C.C. footing without tie beams, or unreinforced
+strip foundation
+shall not be permitted
+in soft soils with
+N<1O.<<PARAGRAPH_END>>
+<<PARAGRAPH>>See IS 1498.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)<<PARAGRAPH_END>>
+<<HEADING level=3>>2)<<HEADING_END>>
+<<PARAGRAPH>>See IS 2131.<<PARAGRAPH_END>>
+<<PARAGRAPH>>15<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>IS-1893 ( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>foundations
+placed between the ground
+level and
+30 m depth, the design horizontal acceleration spectrum
+value shall be linearly interpolated
+between Ah and
+0.5  Ah,  where  Ah  is as specified in 6.4.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>for rock or soil sites as given by Fig. 2 and
+Table 3 based on appropriate natural periods
+and damping of the structure. These curves
+represent free  tleld ground motion.<<HEADING_END>>
+<<PARAGRAPH>>6.4.5 The design acceleration spectrum for vertical
+motions, when required, may be taken as two-thirds
+ofthe design horizontal acceleration spectrum specitled
+in 6.4.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — For various types of structures,
+the
+values of Importance Factor I, Response Reduction
+Factor
+R,  and damping values are given in the
+respective
+parts
+of this standard.
+The method
+( empirical or otherwise ) to calculate the natural
+periods of the structure to be adopted for evaluating
+S,/g is sdso given in the respective parts of this
+standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Figure 2 shows the proposed 5 percent spectra for
+rocky and soils sites and Table 3 gives the multiplying
+factors for obtaining spectral values for various other
+clampings.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2 Zone Factor, Z<<HEADING_END>>
+<<HEADING level=3>>(  Clause  6.4.2)<<HEADING_END>>
+<<HEADING level=3>>For rocky, or hard soil sites<<HEADING_END>>
+<<HEADING level=3>>1+15~
+0.00< Ts”o.lo
+s,
+g
+=
+2.50
+O.1O<T<O.4O<<HEADING_END>>
+<<HEADING level=3>>Seismic
+II
+111
+Iv
+v
+Zone<<HEADING_END>>
+<<PARAGRAPH>>Seismic
+Low
+Moderate
+Severe
+Very
+Intensity
+Severe<<PARAGRAPH_END>>
+<<PARAGRAPH>>l.00/T
+0.40< TS4.00<<PARAGRAPH_END>>
+<<HEADING level=3>>-1<<HEADING_END>>
+<<HEADING level=3>>For medium soil sites<<HEADING_END>>
+<<PARAGRAPH>>z
+0.10
+0.16
+0,24
+0.36<<PARAGRAPH_END>>
+<<HEADING level=3>>1+15~
+s<<HEADING_END>>
+<<HEADING level=3>>O.OO<TSO.1O<<HEADING_END>>
+<<PARAGRAPH>>6.4.3 Where a number of modes are to be considered
+for dynamic
+analysis,
+the value of Ah as defined
+in 6.4.2 for each mode shall be determined using the
+natural period of vibration of that mode.<<PARAGRAPH_END>>
+<<HEADING level=3>>~
+=
+2.50
+g
+O.1O<T<O.55<<HEADING_END>>
+<<HEADING level=3>>1.361T
+0.55 sT<4.00<<HEADING_END>>
+<<HEADING level=3>>I<<HEADING_END>>
+<<HEADING level=3>>For soft soil sites<<HEADING_END>>
+<<PARAGRAPH>>6.4.4 For underground
+structures
+and foundations
+at depths of 30 m or below, the design horizontal
+acceleration spectrum value shall be taken as half the
+value
+obtained
+from
+6.4.2.
+For structures
+and<<PARAGRAPH_END>>
+<<HEADING level=3>>1+15Z
+Sa
+0.00 S  T<O.1O<<HEADING_END>>
+<<HEADING level=3>>T
+=
+2.50
+0.10 S  TsO.67<<HEADING_END>>
+<<HEADING level=3>>1.67/T
+0.67 ST<4.00<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<PARAGRAPH>>3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+r
+I
+r
+r
+,
+,<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 1 (Rock, or Hard So<<PARAGRAPH_END>>
+<<PARAGRAPH>>.....<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type II (Medium Soil)
+‘,
+‘, ,.
+‘! ,,
+\
+‘.
+/Tv~e II1(Soft Soil)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>T<<PARAGRAPH_END>>
+<<PARAGRAPH>>h<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.0<<PARAGRAPH_END>>
+<<HEADING level=3>>0.5<<HEADING_END>>
+<<PARAGRAPH>>-----------
+--.--.--:.. ........
+—
+----------
+—<<PARAGRAPH_END>>
+<<HEADING level=3>>0.0<<HEADING_END>>
+<<HEADING level=3>>0.0
+0.5
+1.0
+1“5
+2’0
+2“5
+3“0
+3“5
+4“0<<HEADING_END>>
+<<PARAGRAPH>>Period(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>Fm.  2  RESPONSE
+SPECTRA
+~R  ROCKAND SOILSITESFOR5 PERC~
+DAMPM<<HEADING_END>>
+<<HEADING level=3>>16<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<PARAGRAPH>>and 6.3.1.2 where the gravity loads are combined with
+the earthquake loads [ that is, in load combinations
+(3) in 6.3.1.1, and (2) in 6.3.1.2 ]. No further reduction
+in the imposed load will be used as envisaged
+in
+IS 875( Part 2 ) for number of storeys above the one
+under consideration
+or for large spans of beams or
+floors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4.6  In case design spectrum is specifically prepared
+for a structure at a particular
+project site, the same
+may be used for design at the discretion of the project
+authorities<<PARAGRAPH_END>>
+<<PARAGRAPH>>7 BUILDINGS<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1 Regular and Irregular
+Configuration<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.4 The proportions of imposed load indicated above
+for calculating the lateral design forces for earthquakes
+are applicable
+to average conditions.
+Where the
+probable loads at the time of earthquake
+are more
+accurately
+assessed,
+the designer
+may alter
+the
+proportions
+indicated
+or even replace
+the entire
+imposed load proportions by the actual assessed load.
+In such cases, where the imposed load is not assessed
+as per 7.3.1 and 7.3.2 only that part of imposed load,
+which possesses mass, shall be considered.
+Lateral
+design force for earthquakes shall not be calculated
+on contribution of impact effects from imposed loads.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To perform well in an earthquake, a building should
+possess four main attributes, namely simple and regular
+cotilguration,
+and adequate lateral strength, stiffness
+and ductility. Buildings having simple regolar geomet~
+and uniformly distributed mass and stiffness in plan
+as well as in elevation, suffer much less damage than
+buildings with irregular configurations.
+A building
+shall be considered as irregular for the purposes of
+this standard, if at least one of the conditions given
+in Tables 4 and 5 is applicable,<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2 Importance
+Factor Zand Response Reduction
+FactorR<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.5 Other loads apart from those given above ( for
+example snow and permanent
+equipment ) shall be
+considered as appropriate.<<PARAGRAPH_END>>
+<<HEADING level=3>>The minimum value ofimportanm factor,1, for ditlerent
+building systems shall be as given in Table 6. The
+response reduction factor,  R,  for different building
+systems shall be as given in Table 7.<<HEADING_END>>
+<<PARAGRAPH>>7.4 Seismic Weight<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4.1  Seismic
+Weight
+of  Floors<<HEADING_END>>
+<<HEADING level=3>>7.3 Design Imposed Loads  for Earthquakes Force
+Calculation<<HEADING_END>>
+<<PARAGRAPH>>The seismic weight of each floor is its full dead load
+plus appropriate amount of imposed load, as specified
+in 7.3.1 and 7.3.2. While computing the seismic weight
+of each floor, the weight of columns and walls in any
+storey shall be equally distributed to the floors above
+and below the storey.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.1
+For various
+loading
+classes as specified in
+IS 875( Part 2 ), the earthquake force shall be calculatcxl
+for the full dead load plus the percentage of imposed
+load as given in Table 8.<<HEADING_END>>
+<<HEADING level=3>>7.4.2  Seismic
+Weight of Building<<HEADING_END>>
+<<PARAGRAPH>>7.3.2 For calculating the design seismic forces of the
+structure,
+the imposed load on roof need not be
+considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The seismic
+weight
+of the whole
+building
+is the sum
+of the seismic weights of all the floors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.4.3 Any weight supported in between storeys shall
+be distributed to the floors above and below in inverse
+proportion to its distance from the floors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.3 The percentage of imposed loads given in 7.3.1
+and 7.3.2 shall also be used for ‘Whole frame loaded’
+condition in the load combinations specified in 6.3.L 1<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 Multiplying Factors for Obtaining Values for Other Damping<<HEADING_END>>
+<<HEADING level=3>>(  Clause  6.4.2)<<HEADING_END>>
+<<HEADING level=3>>Damping,
+o
+2
+5
+7
+10
+15
+20
+25
+30
+percent<<HEADING_END>>
+<<HEADING level=3>>Factors
+3.20
+1,40
+1.00
+0.90
+0.80
+0.70
+0,60
+0.55
+0.50<<HEADING_END>>
+<<PARAGRAPH>>17<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>IS 1893( Part 1 ) :2002<<HEADING_END>>
+<<HEADING level=3>>Table 5 — Concluded<<HEADING_END>>
+<<HEADING level=3>>Table 4 Definitions of Irregular Buildings —
+Plan Irregularities ( Fig. 3 )<<HEADING_END>>
+<<HEADING level=3>>Irregularity
+Type and Description<<HEADING_END>>
+<<HEADING level=3>>S1 No.<<HEADING_END>>
+<<HEADING level=3>>(  Clause 7.1  )<<HEADING_END>>
+<<HEADING level=3>>(2)<<HEADING_END>>
+<<PARAGRAPH>>(1)<<PARAGRAPH_END>>
+<<HEADING level=3>>S1 No.<<HEADING_END>>
+<<HEADING level=3>>Irregularity
+Type and Description<<HEADING_END>>
+<<PARAGRAPH>>ii)<<PARAGRAPH_END>>
+<<HEADING level=3>>Mass  Irregulari@<<HEADING_END>>
+<<HEADING level=3>>(2)<<HEADING_END>>
+<<PARAGRAPH>>(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mass irregularity shall be considered to exist where
+the seismic weight of any storey is more than 200
+percent of that of its adjacent storeys. The irregularity
+need not be considered
+in case of roofs<<PARAGRAPH_END>>
+<<HEADING level=3>>Torsion Irregularity<<HEADING_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>To be considered
+when floor diaphragms
+are rigid
+in their own plan in relation to the vertical structural
+elements
+that resist the lateral forces.
+Torsional
+irregularity
+to be considered
+to exist when the
+maximum
+storey
+drift,
+computed
+with
+design
+eccentricity, at one end of the structures transverse
+to an axis is more than 1.2 times the average of
+the storey drifts at the two ends of the structure<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)<<PARAGRAPH_END>>
+<<HEADING level=3>>Vertical Geometric Irregularity<<HEADING_END>>
+<<PARAGRAPH>>Vertical geometric irregularity
+shall be considered
+to exist where the horizontal dimension of the lateral
+force resisting
+system in any storey is more than
+150 percent of that in its adjacent
+storey<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)<<PARAGRAPH_END>>
+<<HEADING level=3>>Re-en?rant Corners<<HEADING_END>>
+<<PARAGRAPH>>iv)<<PARAGRAPH_END>>
+<<HEADING level=3>>In-Plane Discontinuity in VerticalElenrentsResisttng
+Lateral Force<<HEADING_END>>
+<<PARAGRAPH>>Plan configurations
+of a structure
+and its lateral
+force resisting
+system contain re-entrant
+corners,
+where both projections of the structure beyond the
+re-entrant
+corner are greater than
+15 percent
+of
+its plan dimension
+in the given direction<<PARAGRAPH_END>>
+<<PARAGRAPH>>A in-plane
+offset
+of the lateral
+force resisting
+elements greater than the length of those elements<<PARAGRAPH_END>>
+<<HEADING level=3>>Discontinuity
+in CapaciQ — Weak Strorey<<HEADING_END>>
+<<PARAGRAPH>>v)<<PARAGRAPH_END>>
+<<PARAGRAPH>>A weak storey is one in which the storey lateral
+strength is less than 80 percent of that in the storey
+above,
+The storey
+lateral
+strength
+is the total
+strength
+of all seismic
+force resisting
+elements
+sharing the storey shear in the considered direction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)<<PARAGRAPH_END>>
+<<HEADING level=3>>Diaphragm
+Discontinuity<<HEADING_END>>
+<<PARAGRAPH>>Diaphragms with abrupt discontinuities or variations
+in stiffness, including those having cut-out or open
+areas greater than 50 percent of the gross enclosed
+diaphragm area, or changes in effective diaphragm
+stiffness of more than 50 percent from one storey
+to the next<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 6 Importance Factors, 1<<HEADING_END>>
+<<PARAGRAPH>>iv)<<PARAGRAPH_END>>
+<<HEADING level=3>>Out-of-Plane
+Offsets<<HEADING_END>>
+<<HEADING level=3>>(  Clause 6.4.2)<<HEADING_END>>
+<<PARAGRAPH>>Discontinuities
+in a lateral force resistance
+path,
+such as out-of-plane
+offsets of vertical elements<<PARAGRAPH_END>>
+<<HEADING level=3>>S1 No.
+Strue tur e
+Importance
+Factor<<HEADING_END>>
+<<HEADING level=3>>Non-parallel
+Systems<<HEADING_END>>
+<<PARAGRAPH>>v)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+vertical
+elements resisting
+the lateral force
+are not parallel to or symmetric about the major
+orthogonal axes or the lateral force resisting elements<<PARAGRAPH_END>>
+<<HEADING level=3>>(1)
+(2)
+(3)<<HEADING_END>>
+<<HEADING level=3>>i)
+Important
+service
+and
+community
+buildings, such as hospitals;
+schools;
+monumental
+structures;
+emergency
+buildings
+like telephone
+exchange,
+1.5<<HEADING_END>>
+<<HEADING level=3>>Table 5 Definition of Irregular Buildings —
+Vertical Irregularities ( Fig. 4 )<<HEADING_END>>
+<<PARAGRAPH>>television
+stations,
+radio
+stations,
+railway stations, fire station buildings;
+large community
+halls like cinemas,
+assembly
+halls and subway
+stations,
+power stations<<PARAGRAPH_END>>
+<<HEADING level=3>>(  Clause
+7.1  )<<HEADING_END>>
+<<HEADING level=3>>S1 No.
+Irregularity
+Type and Description<<HEADING_END>>
+<<HEADING level=3>>(1)
+(2)<<HEADING_END>>
+<<PARAGRAPH>>ii)
+AU other buildings
+1.0<<PARAGRAPH_END>>
+<<HEADING level=3>>i)
+a)  Stiffness Irregularity
+— Soft Storey<<HEADING_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>A soft storey is one in which the lateral stiffness
+is less than 70 percent of that in the storey above
+or less than 80 percent of the average lateral stiffness
+of the three storeys above<<PARAGRAPH_END>>
+<<HEADING level=3>>1  The design engineer may choose values of importance
+factor I greater than those mentioned
+above.<<HEADING_END>>
+<<PARAGRAPH>>2  Buildings not covered in SI No. (i) and (ii) above may
+be designed for higher value ofZ, depending on economy,
+strategy considerations like multi-storey buildings having
+several residential
+units.<<PARAGRAPH_END>>
+<<HEADING level=3>>b)  Stiffness Irregularity
+— Extreme Soft Storey<<HEADING_END>>
+<<PARAGRAPH>>A extreme soft storey is one in which the lateral
+stiffness is less than 60 percent of that in the storey
+above or less than 70 percent of the average stiffness
+of the three storeys above. For example, buildings
+on STILTS will fall under this category,<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+This does not apply to temporary
+structures
+like
+excavations,
+scaffolding
+etc of short duration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>18<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>IS 1893 (Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>I
+I
+\\ i,
+/
+\l
+i
+.
+VERTICAL
+COMPONENTS
+OF
+SEISMIC
+RESISTING
+SYSTEM<<HEADING_END>>
+<<PARAGRAPH>>—-——
+--
+—..
+—.——
+FLOOR
+i
+i
+Al
+I
+J_
+I
+Az<<PARAGRAPH_END>>
+<<PARAGRAPH>>+-----------+f<<PARAGRAPH_END>>
+<<HEADING level=1>>3 ATorsional
+Irregularity
+-r<<HEADING_END>>
+<<HEADING level=1>>I<<HEADING_END>>
+<<HEADING level=1>>A\ L>
+O-15-0,20
+IL-r<<HEADING_END>>
+<<HEADING level=1>>‘7
+L<<HEADING_END>>
+<<HEADING level=1>>7<<HEADING_END>>
+<<PARAGRAPH>>L2<<PARAGRAPH_END>>
+<<PARAGRAPH>>A2<<PARAGRAPH_END>>
+<<PARAGRAPH>>Al<<PARAGRAPH_END>>
+<<PARAGRAPH>>3 B Re-entrant
+Corner<<PARAGRAPH_END>>
+<<HEADING level=3>>FIG. 3  PLAN IRREGULARITIES
+—  Continued<<HEADING_END>>
+<<PARAGRAPH>>19<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<HEADING level=3>>IS 1893( Part 1 ) :2002<<HEADING_END>>
+<<HEADING level=1>>MASS
+RESISTANCE
+ECCENTRICITY
+m“m<<HEADING_END>>
+<<HEADING level=1>>VERTICAL
+COMPONENTS
+OF
+SEISMIC
+RESISTING
+SYSTEM
+E<<HEADING_END>>
+<<PARAGRAPH>>OPENING<<PARAGRAPH_END>>
+<<PARAGRAPH>>FLOOR<<PARAGRAPH_END>>
+<<PARAGRAPH>>3  C Diaphragm Discontinuity<<PARAGRAPH_END>>
+<<PARAGRAPH>>+--SHEAR
+WALL<<PARAGRAPH_END>>
+<<PARAGRAPH>>/////////
+///,’//
+///////
+BUILDING
+SECTION<<PARAGRAPH_END>>
+<<PARAGRAPH>>o
+D<<PARAGRAPH_END>>
+<<PARAGRAPH>>WALLS<<PARAGRAPH_END>>
+<<HEADING level=1>>3  D Out-of-Plane
+Offsets
+EE3<<HEADING_END>>
+<<PARAGRAPH>>BUILDING
+PLAN<<PARAGRAPH_END>>
+<<HEADING level=3>>3  E Non-Parallel System<<HEADING_END>>
+<<PARAGRAPH>>FIG.3 PLAN IRREGULARITIES<<PARAGRAPH_END>>
+<<PARAGRAPH>>20<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=1>>IS 1893( Part 1 ) :2002
+EE!l
+Elii
+E13
+Eli
+-----
+-----
+-----
+------
+------
+------
+------
+-.----
+----<<HEADING_END>>
+<<PARAGRAPH>>STOREY
+STIFFNESS
+FOR
+THE
+BUILDING<<PARAGRAPH_END>>
+<<PARAGRAPH>>kn<<PARAGRAPH_END>>
+<<PARAGRAPH>>#
+kn-l
+SOFT
+STOREY
+WHEN<<PARAGRAPH_END>>
+<<HEADING level=3>>kn-2
+ki<
+0.7
+kl+l<<HEADING_END>>
+<<PARAGRAPH>>B<<PARAGRAPH_END>>
+<<PARAGRAPH>>ki+l
++ki+2
++ki+s
+~<<PARAGRAPH_END>>
+<<PARAGRAPH>>k3
+OR ki<08
+(
+3
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>kz<<PARAGRAPH_END>>
+<<PARAGRAPH>>k,<<PARAGRAPH_END>>
+<<PARAGRAPH>>//
+/<<PARAGRAPH_END>>
+<<PARAGRAPH>>H<<PARAGRAPH_END>>
+<<HEADING level=3>>4  A Stiffness Irregularity<<HEADING_END>>
+<<PARAGRAPH>>SEISMIC
+WEIGHT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wn<<PARAGRAPH_END>>
+<<PARAGRAPH>>w  n-l<<PARAGRAPH_END>>
+<<PARAGRAPH>>n-2<<PARAGRAPH_END>>
+<<PARAGRAPH>>B<<PARAGRAPH_END>>
+<<PARAGRAPH>>mw
+W2<<PARAGRAPH_END>>
+<<PARAGRAPH>>MASS
+IRREGULARITY<<PARAGRAPH_END>>
+<<PARAGRAPH>>WHEN,
+Wt >20
+Wi_l<<PARAGRAPH_END>>
+<<HEADING level=3>>OR
+Wi>
+20  Wl+l<<HEADING_END>>
+<<HEADING level=3>>4 B  Mass Irregularity<<HEADING_END>>
+<<PARAGRAPH>>FIG.4 VERTICALIRREGULARITIES
+— Continued<<PARAGRAPH_END>>
+<<PARAGRAPH>>21<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=1>>Q&j<<HEADING_END>>
+<<PARAGRAPH>>A
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>AIL >0-15
+AIL>O-10<<PARAGRAPH_END>>
+<<PARAGRAPH>>ALA<<PARAGRAPH_END>>
+<<HEADING level=3>>4 C  Vertical Geometric
+Iregularity
+when L2>1.5 L,<<HEADING_END>>
+<<HEADING level=1>>STOREY
+STRENGTH
+(LATERAL)
+B.<<HEADING_END>>
+<<PARAGRAPH>>Fn<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fn.l<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fn.2<<PARAGRAPH_END>>
+<<HEADING level=3>>4  D In-Plane Discontinuity
+in Vertical Elements Resisting
+4 E weak Storey when ~ c 0,8 ~ + 1<<HEADING_END>>
+<<HEADING level=3>>Lateral Force when b >  a<<HEADING_END>>
+<<PARAGRAPH>>FIG.4 VEKHCALIRREGULAIUHSS<<PARAGRAPH_END>>
+<<PARAGRAPH>>22<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>Table 7 Response Reduction Factor l),  R,  for Building Systems
+.<<HEADING_END>>
+<<HEADING level=3>>(  Clause 6.4.2)<<HEADING_END>>
+<<HEADING level=3>>S1 No.
+Lateral
+Load Resisting
+System
+R<<HEADING_END>>
+<<PARAGRAPH>>(3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(2)<<PARAGRAPH_END>>
+<<HEADING level=3>>Building Frame Systems<<HEADING_END>>
+<<PARAGRAPH>>Ordinary
+RC moment-resisting
+frame ( OMRF )2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Special RC moment-resisting
+frame ( SMRF )3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>Steel frame with
+.
+a)
+Concentric
+braces<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Eccentric braces<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Steel moment resisting
+frame designed as per SP 6 ( 6 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.0<<PARAGRAPH_END>>
+<<HEADING level=3>>Building with Shear Walls4~<<HEADING_END>>
+<<PARAGRAPH>>Load bearing masonry wall buildings)<<PARAGRAPH_END>>
+<<PARAGRAPH>>v)<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+Unreinforced<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Reinforced with horizontal RC bands<<PARAGRAPH_END>>
+<<HEADING level=3>>c) Reinforced
+with horizontal RC bands and vertical bars at  corners  of rooms and
+jambs of openings<<HEADING_END>>
+<<PARAGRAPH>>3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>vi)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ordinary
+reinforced
+concrete shear walls@<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>vii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ductile shear walls7)<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.0”<<PARAGRAPH_END>>
+<<HEADING level=3>>Buildings
+with Dual Systemss)<<HEADING_END>>
+<<PARAGRAPH>>viii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ordinary shear wall with OMRF<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>ix)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ordinary shear wall with SMRF<<PARAGRAPH_END>>
+<<PARAGRAPH>>4,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>x)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ductile shear wall with OMRF<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5<<PARAGRAPH_END>>
+<<PARAGRAPH>>xi)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ductile shear wall with SMRF<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>0 The va]ues of response riduction
+fact&s are to be used for buildings with lateral load resisting elements, and not Just
+for the lateral load resisting elements built in isolation.<<PARAGRAPH_END>>
+<<HEADING level=3>>2) OMRF
+are those designed
+and
+detailedas per IS  456 or Is 800” but not
+meeting
+ductile
+detailing
+reqllirertlellt
+M<<HEADING_END>>
+<<PARAGRAPH>>per IS 13920 or SP 6 (6) respectively.<<PARAGRAPH_END>>
+<<HEADING level=3>>3)<<HEADING_END>>
+<<PARAGRAPH>>SMRF defined in 4.15.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>4)<<HEADING_END>>
+<<PARAGRAPH>>Buildings with shear walls also include buildings having shear walls and frames, but where:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+frames are not designed to carry lateral loads, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) frames are designed to carry lateral loads but do not fulfil the requirements
+of ‘dual systems’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reinforcement
+should be as per IS 4326.<<PARAGRAPH_END>>
+<<HEADING level=3>>5)<<HEADING_END>>
+<<HEADING level=3>>6)<<HEADING_END>>
+<<PARAGRAPH>>Prohibited
+in zones IV and V.<<PARAGRAPH_END>>
+<<HEADING level=3>>n<<HEADING_END>>
+<<PARAGRAPH>>Ductile shear walls are those
+designed and detailed as per IS 13920.<<PARAGRAPH_END>>
+<<HEADING level=3>>s)<<HEADING_END>>
+<<PARAGRAPH>>Buildings
+with dual systems consist of shear walls ( or braced frames ) and moment resisting frames such that:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) the two systems are designed to resist the total design force in proportion to their lateral stiffness considering
+the interaction
+of the dual system at all floor levels,; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) the moment resisting frames are designed to independently
+resist at least  25  percent of the design seismic base
+shear,<<PARAGRAPH_END>>
+<<PARAGRAPH>>.23<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<PARAGRAPH>>7.6.2
+The approximate fundamental
+natural period
+of vibration (  T, ),  in seconds, of all other buildings,
+including moment-resisting fimne buildings with brick
+intil panels,
+may be estimated
+by the empirical
+expression:<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 8 Percentage of Imposed Load to be
+Considered in Seismic Weight Calculation<<HEADING_END>>
+<<HEADING level=3>>(Clause
+7.3.1 )<<HEADING_END>>
+<<HEADING level=3>>Imposed
+Uniformity
+Percentage
+of Imposed
+Distributed
+Floor
+Load
+Loads ( kN/ mz )<<HEADING_END>>
+<<PARAGRAPH>>0.09<<PARAGRAPH_END>>
+<<PARAGRAPH>>‘=
+m<<PARAGRAPH_END>>
+<<HEADING level=3>>(1)
+(2)<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>Upto
+and including 3.0
+25<<PARAGRAPH_END>>
+<<PARAGRAPH>>h=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Height ofbuilding, inw
+as defined in7.6.l;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>Above 3.0
+50<<PARAGRAPH_END>>
+<<PARAGRAPH>>d=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Base dimension ofthe building at the plinth
+level, in m, along the considered direction
+of the lateral force.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5
+Design Lateral Force<<HEADING_END>>
+<<HEADING level=3>>7.5.1 Buildings andportionsthereofshall be designed
+and constructed, to resist the effects of design lateral
+force specified in 7.5.3 as a minimum.<<HEADING_END>>
+<<HEADING level=3>>7.7 Distribution
+of Design  Force<<HEADING_END>>
+<<HEADING level=3>>7.7.1  Vertical Distribution
+of Base Shear to Differmt
+Floor LeveLr<<HEADING_END>>
+<<PARAGRAPH>>7.5.2  The design lateral force shall first be computed
+for the building as a whole. This design lateral force
+shall then be distributed
+to the various floor levels.
+The overall design seismic force thus obtained at each
+floor level, shall thenbe distributed to individual lateral
+load resisting
+elements
+depending
+on the floor
+diaphragm action.<<PARAGRAPH_END>>
+<<HEADING level=3>>The design base shear (  V~)  computed in 7.5.3 shall
+be distributed along the height of the building as per
+the following expression:<<HEADING_END>>
+<<HEADING level=2>>W h,z
+Qi=J’B.
+l’<<HEADING_END>>
+<<HEADING level=3>>7.5.3  Design
+Seismic
+Base Shear<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>The total design lateral force or design seismic base
+shear ( VB)along
+any
+principal
+direction
+shall
+be determined
+by the following expression:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Qi =<<PARAGRAPH_END>>
+<<HEADING level=3>>Design lateral force at floor  i,<<HEADING_END>>
+<<PARAGRAPH>>Seismic weight of floor i,<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wi =<<PARAGRAPH_END>>
+<<HEADING level=3>>V~ = AhW<<HEADING_END>>
+<<HEADING level=3>>Height of floor  i  measured from base, and<<HEADING_END>>
+<<HEADING level=3>>hi
+=<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<HEADING level=3>>n
+.<<HEADING_END>>
+<<PARAGRAPH>>Number of storeys in the building
+is the
+number of levels at which the masses are
+located.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ah =<<PARAGRAPH_END>>
+<<PARAGRAPH>>Design horizontal acceleration spectrum
+value as per 6.4.2, using the fundamental
+natural period T,as per 7.6 in the considered
+direction of vibration, and<<PARAGRAPH_END>>
+<<HEADING level=3>>7.7.2  Distribution
+of Horizontal Design Lateral Force
+to Different
+Lateral
+Force Resisting
+Elements<<HEADING_END>>
+<<PARAGRAPH>>w.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Seismic weight ofthe building as per 7.4.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.7.2.1
+In case of buildings whose floors are capable
+of providing rigid horizontal diaphragm
+action, the
+total shear in any horizontal plane shall be distributed
+to the various vertieal elements of lateral force resisting
+system, assuming the floors to be infinitely rigid in
+the horizontal plane.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6  Fundamental Natural Period<<HEADING_END>>
+<<HEADING level=3>>7.6.1  The approximate fundamental
+natural period
+of vibration (  T, ),  in seconds, of a moment-resisting
+frame building
+without brick in.fd panels may be
+estimated by the empirical expression:<<HEADING_END>>
+<<PARAGRAPH>>7.7.2.2 In case of building whose floor diaphragms
+can not be treated as infinitely rigid in their own plane,
+the lateral shear at each floor shall be distributed to
+the vertical
+elements resisting
+the lateral
+forces,
+considering the in-plane flexibility of the diaphragms.<<PARAGRAPH_END>>
+<<HEADING level=3>>T. = 0,075 h07s
+for RC frame building<<HEADING_END>>
+<<HEADING level=3>>= 0.085  h075
+for steel frame building<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>h
+=  Height of building, in m. This excludes
+the basement storeys, where basement walls
+are connected with the ground floor deck
+or fitted between the building columns.
+But it includes the basement storeys, when
+they are not so connected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<PARAGRAPH>>1  A floor
+diaphragm
+shaJl be considered to be flexible,
+if it deforms such that the maximum lateral displacement
+measured
+from the chord of the deformed
+shape
+at
+any point of the diaphragm is more than 1.5 times the
+average displacement
+of the entire diaphragm.<<PARAGRAPH_END>>
+<<HEADING level=3>>24
+.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<PARAGRAPH>>buildingshall be petiormedasperestablishedmethods
+ofmechanicsusing the appropriatemasses and elastic
+stiffness of the structural system, to obtain natural
+periods(T)  and  mode shapes {$} ofthose of its modes
+of vibration that need to be considered as per 7.8.4.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Reinforced
+concrete monolithic
+slab-beam floors or
+those consisting of prefabricated/precast
+elements with
+topping reinforced screed can be taken a rigid diaphragms.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8<<HEADING_END>>
+<<HEADING level=3>>Dynamic Analysis<<HEADING_END>>
+<<PARAGRAPH>>7.8.1 Dynamic analysis shall be pefiormed to obtain
+the design seismic force, andits distributionto different
+levels alongthe heightofthebuildingandtothevarious
+lateral load resisting elements, for the following
+buildings:<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8.4.2
+Modes
+to be considered<<HEADING_END>>
+<<PARAGRAPH>>The number of modes to be used in the analysis should
+be such that the sum total of modal masses of all modes
+considered is at least 90 percent of the total seismic
+mass and missing mass correction beyond 33 percent.
+If modes with natural frequency beyond33 Hz are to
+be considered, modal combination shall be carried out
+only for modes upto 33 Hz. The effect of higher modes
+shall be included
+by considering
+missing
+mass
+correction following well established
+procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)
+Regular
+buildings
+—  Those greater than
+40 m in height in Zones IV and ~ and those
+greater than 90 m in height in Zones II and
+111. Modelling as per 7.8.4.5 can be used.<<HEADING_END>>
+<<HEADING level=3>>b)
+irregular
+buildings
+( as defined
+in  7.1 ) —
+Allfiamedbuildingshigherthan12minZones
+IVand~andthosegreaterthan40minheight
+in Zones 11and III.<<HEADING_END>>
+<<HEADING level=3>>7.8.4.3
+Analysis
+of building
+subjected
+to design
+forces<<HEADING_END>>
+<<PARAGRAPH>>Theanalyticalmo&l fordynamicanalysisof buildings
+with unusual configuration should be such that it
+adequately models the types of irregularities present
+in the building configuration.
+Buildings with plan
+irregularities,as defimedin Table4 (as per7.1 ), cannot
+be modelledfor dynamic analysisbythe methodgiven
+in 7.8.4.5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The building may be analyzed by accepted principles
+of mechanics for the design forces considered as static
+forces.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8.4.4
+Modal
+combination<<HEADING_END>>
+<<PARAGRAPH>>The peak response quantities ( for example, member
+forces, displacements,
+storey forces, storey shears
+and base reactions ) shall be combined as per Complete
+Quadratic Combination ( CQC ) method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — For irregular
+buildings,
+lesser than 40 m in
+height in Zones 11and III, dynamic anrdysis, even though
+not mandatory,
+is recommended.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.8.2
+Dynamic
+analysis
+may
+be performed
+either<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+,,<<PARAGRAPH_END>>
+<<PARAGRAPH>>by the
+Time
+History
+Method
+or by the
+Response<<PARAGRAPH_END>>
+<<PARAGRAPH>>Spectrum
+Method.
+However,
+in either
+method,
+the<<PARAGRAPH_END>>
+<<PARAGRAPH>>design
+base shear
+( VB) shall be compared
+with abase
+shmr
+( J?B) calculated
+using
+a fundamental
+period
+T,,<<PARAGRAPH_END>>
+<<HEADING level=3>>where<<HEADING_END>>
+<<PARAGRAPH>>where
+T,  is as  per 7.6. Where t’~is less than ~~, all
+the response quantities (for example memberforces,
+displacements, storey forces, storey shears and base
+reactions) shall be multiplied by ~~ / V~.<<PARAGRAPH_END>>
+<<HEADING level=3>>r
+.<<HEADING_END>>
+<<HEADING level=3>>Number of modes being considered,<<HEADING_END>>
+<<HEADING level=3>>Cross-modal coeffkient,<<HEADING_END>>
+<<PARAGRAPH>>pij
+=<<PARAGRAPH_END>>
+<<HEADING level=3>>Response quantity in mode  i (  including
+sign ),<<HEADING_END>>
+<<HEADING level=3>>7.8.2.1 The value of damping for buildings maybe
+takenas 2 and 5 percentof the critical,forthepurposes
+of dynamic analysis of steel and reinforced concrete
+buildings, respectively.<<HEADING_END>>
+<<PARAGRAPH>>Ai
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response quantity in mode j ( including
+sign ),<<PARAGRAPH_END>>
+<<PARAGRAPH>>Lj =<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8.3 Time History
+Method<<HEADING_END>>
+<<PARAGRAPH>>8&(l+J3)~15
+pij
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Time history method of analysis, when used, shall
+be based on an appropriate ground motion and shall
+be performed using accepted principles of dynamics.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(l+p2)2+452p(
+l+/.3)2<<PARAGRAPH_END>>
+<<PARAGRAPH>>~=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Modal damping ratio (in ffaction) as
+specified in 7.8.2.1,<<PARAGRAPH_END>>
+<<HEADING level=3>>‘7.8.4  Response
+Spectrum
+Method<<HEADING_END>>
+<<PARAGRAPH>>p=<<PARAGRAPH_END>>
+<<PARAGRAPH>>Response
+spectrum
+method
+of analysis
+shall be
+performed using the design spectrum specified in 6.4.2,
+or by a site-specific
+design spectrum
+mentioned
+in 6.4.6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Frequency ratio = O,/(oi,<<PARAGRAPH_END>>
+<<HEADING level=3>>Circular frequeney in  ith  mode, and<<HEADING_END>>
+<<HEADING level=3>>0.),=<<HEADING_END>>
+<<PARAGRAPH>>Circular frequeney injth mode.<<PARAGRAPH_END>>
+<<HEADING level=3>>(l)j=<<HEADING_END>>
+<<HEADING level=3>>7.8.4.1
+Free Ebration
+Analysis<<HEADING_END>>
+<<PARAGRAPH>>Alternatively, the peak response quantities may be
+combined as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Undamped
+free vibration
+analysis
+of the entire<<PARAGRAPH_END>>
+<<PARAGRAPH>>25<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<HEADING level=3>>IS 1893 (  Part  1 ) :  20{)2<<HEADING_END>>
+<<HEADING level=3>>Design
+Lateral
+Force
+at Each Floor in Each
+Mode —  The peak lateral force ( Qi~) at floor<<HEADING_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+If the building
+does not have
+closely-spaced<<PARAGRAPH_END>>
+<<PARAGRAPH>>modes,
+then
+the
+peak
+response
+quantity<<PARAGRAPH_END>>
+<<PARAGRAPH>>i  in mode  k  is given by<<PARAGRAPH_END>>
+<<PARAGRAPH>>( k ) due
+to all  modes considered shall be
+obtained as<<PARAGRAPH_END>>
+<<PARAGRAPH>>Q,k= .4k ~,~‘k ‘,<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>.4k = Design’
+horizontal
+acceleration
+spectrum
+value as per 6.4.’2 using
+the natural
+period of vibration ( Tk)
+of mode k.<<PARAGRAPH_END>>
+<<PARAGRAPH>>k~ = Absolute value of quantity in mode k, and<<PARAGRAPH_END>>
+<<HEADING level=3>>Storey
+Shear
+Forcev
+in  Each Mode —  The
+peak shear force ( P’,k) acting in storey  i  in
+mode  k is given  by<<HEADING_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>r
+= Number of modes being considered<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+If the building has a few closely-spaced modes
+( see 3.2), then the peak response quantity
+( k“ ) due to these modes shall be obtained
+as<<PARAGRAPH_END>>
+<<PARAGRAPH>>&<<PARAGRAPH_END>>
+<<HEADING level=3>>j=l+l<<HEADING_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Storey
+Shear
+Forcetv
+due
+to .411 A40dev
+C’onividered
+—  The peak storey shear force
+(  Vi)  in storey  i  due to all modes considered
+is obtained by combining those due to each
+mode in accordarice with 7:8.4.4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>where the summation is for the closely-spaced modes
+only
+This peak response quantity due to the closely
+spaced modes ( L“ ) is then combined with those of
+the remaining
+well-separated
+modes by the method
+described in 7.8.4.4 (a).<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)<<PARAGRAPH_END>>
+<<HEADING level=3>>Lateral
+~orces
+at Each
+Storey
+Due
+to .411<<HEADING_END>>
+<<HEADING level=3>>Mode,v
+Con,videred
+—  The design lateral
+forces,
+F,,,,,f  and  F,,  at roof and at floor  i :<<HEADING_END>>
+<<PARAGRAPH>>7.8.4.5 Buildings with regular, or nominally irregyla~{
+plan configurations
+may be modelled as a system of
+nm.ses lumped at the floor levels with each mass having
+one degree of freedom, that of lateral displacement
+in the direction under consideration.
+In such a case;
+the following expressions shall hold in the computation
+of the various quantities
+: “<<PARAGRAPH_END>>
+<<PARAGRAPH>>F,,,,,f = I;,,(,f,  and<<PARAGRAPH_END>>
+<<PARAGRAPH>>F,
+* [/;– J.:+,<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.9
+Torsion
+.!
+7.9.1
+Provision shall be made jn all buildings
+for.
+increase in shear forces on.the lateral force resisting
+elements resulting from the horizontal torsional moment
+arising due to eccentricity between the centre of mass
+and centre of rigidity.
+The design forces calculated
+as in 7,8.4.5 are to be applied at the centre of nl~s
+appropriately
+displaced
+so as to cause
+design
+eccentricity ( 7.9.2 ) between the displaced centre of,
+mass and centre of rigidity. However, negative torsional
+shear shall be neglected.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)
+A40dalA4ass
+—  The mockdmass (M~)ofmode
+k is given by<<HEADING_END>>
+<<PARAGRAPH>>7.9.2 The design eccentricity, e~ito be used at floor
+-.
+i  shall be taken as:<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>~
+= Acceleration
+due to gravity,<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.5e,, + 0,05  b,<<PARAGRAPH_END>>
+<<PARAGRAPH>>$i~ = Mode shape coefficient at floor J in
+mode k, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>‘dl
+=
+or
+e,i –  0.05  bi<<PARAGRAPH_END>>
+<<PARAGRAPH>>,1<<PARAGRAPH_END>>
+<<PARAGRAPH>>n<<PARAGRAPH_END>>
+<<PARAGRAPH>>whichever of these gives the more severe effect
+the shear of any ’frame where<<PARAGRAPH_END>>
+<<PARAGRAPH>>Py = Seismic weight of floor i.<<PARAGRAPH_END>>
+<<HEADING level=3>>b)
+Modal
+Participation
+Factors
+—
+The
+modal participation factor (  P~ )  of mode  k  is
+given by:<<HEADING_END>>
+<<PARAGRAPH>>‘dl  =
+Static eccentricity at floor  i  defined as the
+distance between centre of mass and centre
+of rigidity, and<<PARAGRAPH_END>>
+<<HEADING level=1>>n x  ‘,
+@,k<<HEADING_END>>
+<<HEADING level=3>>b,
+=  Floor
+plan
+dimension
+of
+floor
+i,
+perpendicular
+to the direction of force.<<HEADING_END>>
+<<PARAGRAPH>>NOTE —
+The
+factor
+1.5
+represents
+dynamic
+amplification
+factor,
+while the factor 0,05 represents
+the extent of accidental
+eccentricity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>,=1<<PARAGRAPH_END>>
+<<PARAGRAPH>>26<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<HEADING level=3>>IS 1893( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>direction under consideration, do not lose their vertical
+load-carrying
+capacity under the induced moments
+resulting from storey deformations
+equal to  R  t imes
+the storey displacements
+calculated
+as per 7.11.1.
+where  R  is specified in Table 7.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.9.3
+In case of highly irregular buildings analyzed
+according
+to
+7.8.4”.5,
+additive
+shears
+will be
+superimposed for a statically applied eccentricity of
++ ().()5b, with respect to the centre of rigidity<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10
+Buildings with Soft Storey<<HEADING_END>>
+<<PARAGRAPH>>NOTE —  For instauce, cnnsider a flat-slab building in
+which lateral Inad resistance is provided by shear walls.
+Since the Isstersdload resistance rfthe slab-column system
+is small. these are nften designed
+nnly
+for the gravity
+loads, while all the seismic force is resisted by the shear
+walls. Even thnugh the slabs and columns are not required
+to share the lateral forces, these det-orm with rest ot’
+the structure. under seismic force,
+The concern is tbtit
+under such detbrmations, the slab-column system should
+not lose its vertical Iuad capucity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.10.1
+In case buildings
+with
+a flexible
+storey,
+such<<PARAGRAPH_END>>
+<<PARAGRAPH>>as the
+ground
+storey
+consisting
+of open
+spaces
+for<<PARAGRAPH_END>>
+<<PARAGRAPH>>parking
+that is Stilt buildings,
+special arrangement
+needs<<PARAGRAPH_END>>
+<<PARAGRAPH>>to be made
+to increase
+the lateral
+strength
+and stiffness<<PARAGRAPH_END>>
+<<PARAGRAPH>>of the
+soft/open
+storey.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.10.2
+Dynamic analysis of building is carried out
+including the strength and stiffness effects of infills
+and inelastic deformations in the members, particularly,
+those in the soft storey, and the members designed<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11.3
+Separation
+Between
+.4djacent
+[Jnits<<HEADING_END>>
+<<PARAGRAPH>>accordingly,
+Two adjacent buildings. or two adjacent units of the<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10.3  Alternatively,
+the following
+design
+criteria are
+same building
+with separatiolljoint
+in between
+shall<<HEADING_END>>
+<<HEADING level=3>>to be
+adopted
+after
+carrying
+out
+the
+earthquake
+be separated by a distance
+equal to the amount  R  times<<HEADING_END>>
+<<PARAGRAPH>>analysis, neglecting the effect of infill walls in other
+the sum of the calculated storey displacements as per
+7.11.1  of each of them, to avoid damaging con~act
+storeys:
+when the two units deflect towards each other. When<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the columns and beams of the soft storey are
+floor levels of two similar adjacent units or buildings<<PARAGRAPH_END>>
+<<HEADING level=3>>to be designed for 2.5 times the storey shears
+are at the same elevation
+levels, factor  R  in this<<HEADING_END>>
+<<PARAGRAPH>>and moments calculated under seismic loads
+requirement may be replaced by R/2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>specified in the other relevant clauses: or.
+7.12
+Miscellaneous<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+besides the columns designed and detailed
+for the calculated storey shears and moments,
+shear walls placed symmetrically
+in both
+directions of the building as far away from
+the centre of the building as feasible; to be
+designed exclusively for 1.5 times the lateral
+storey shear force calculated as before,<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.12.1
+Foundations<<PARAGRAPH_END>>
+<<PARAGRAPH>>The use of foundations
+vulnerable
+to significant
+differential settlement due to ground shaking
+shall
+be avoided for structures in seismic Zones III, IV and
+V In seismicZones IV and V,individual spread footings
+or pile caps shall be interconnected
+with
+ties,
+( .~ee5.3.4.1 of 1S4326 ) except when individual spread
+footings are directly supported on rock. All ties shall
+be capable of carrying, in tension and in compression,
+an axial force equal to .4, /4 times the larger of the<<PARAGRAPH_END>>
+<<HEADING level=3>>7.11
+Deformations<<HEADING_END>>
+<<PARAGRAPH>>7.11.1
+Store,v Drift
+Limitation<<PARAGRAPH_END>>
+<<PARAGRAPH>>,1<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+storey
+drift
+in any
+storey
+due to the
+minimum
+column
+or pile cap load,
+in addition
+to the otherwise<<PARAGRAPH_END>>
+<<PARAGRAPH>>specified
+design
+lateral
+force, with partial
+load factor
+computed
+forces,
+Here,
+i4h is as per 6.4.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>of 1,(). shall
+not exceed
+O.()()4 times
+the storey
+height,
+7.12.2
+Cantilever
+Projectioniv<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purposes
+of displacement
+requirements
+only
+( see 7.11.1,7.11.2
+and 7.11.3
+only),
+it is permissible<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.12.2.1
+Wrtica[ projection,r<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tower, tanks, parapets,
+smoke stacks ( chimneys)
+and other vertical cantilever projections attached to
+buildings
+and projecting
+above the roof, shall be
+designed and checked for stability for five times the
+design horizontal
+seismic coefficient Ah specified
+in 6.4.2.
+In the analysis of the building, the weight
+of these projecting elements will be lumped with the
+roof weight.<<PARAGRAPH_END>>
+<<PARAGRAPH>>to use
+seismic
+force
+obtained
+from
+the
+computed
+fundamental
+period
+(7’) of the building
+without
+the<<PARAGRAPH_END>>
+<<PARAGRAPH>>lower
+bound
+limit
+on design
+seismic
+force
+specified
+in 7.8.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>There
+shall
+be no drift
+limit
+for single
+storey building<<PARAGRAPH_END>>
+<<PARAGRAPH>>which
+has been designed
+to accommodate
+storey drift.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.11.2
+Defer-mation
+Conlpatibility
+of Non-Se isnlic
+A~enlhers<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.12.2.2
+Horizontal
+projection<<PARAGRAPH_END>>
+<<PARAGRAPH>>For building located in seismic Zones IV and ~ it shall
+All horizontal projections like cornices and balconies
+be ensured that the structural components, that are
+shall be designed
+and checked
+for stability
+for
+not a part of the seismic force resisting system in the
+five times the design vertical coefficient
+specified<<PARAGRAPH_END>>
+<<PARAGRAPH>>27<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<PARAGRAPH>>in 6.4.5 (that is = 10/3 A~).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.4
+Connections
+Between
+Parts<<HEADING_END>>
+<<PARAGRAPH>>7.12.2.3
+The increased design forces specified
+in 7.12.2.1 and 7.12.2.2 are only for designing the
+projecting parts andtheir connections with the main
+structures. Forthe design of the main structure,such
+increase need not be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All partsofthebuilding, exceptbetween the separation
+sections, shall be tied together to act as integrated
+single unit. All connections between different parts,
+such as beams to columns and columns to their
+footings, should be made capable of transmitting
+a force, in all possible directions, of magnitude
+(  Qi/wi)  times but not less t&m  0.05  times the weight
+of the smaller part or the total of dead and imposed
+load reaction. Frictional resistance shall not be relied
+upon for fulfilling these requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.12.3
+Compound
+Walls<<HEADING_END>>
+<<PARAGRAPH>>Compound walls shall be designed for the design
+horizontal
+coeftlcient
+Ah with importance
+factor
+1= 1.0 specified in 6.4.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>28<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<HEADING level=3>>1S 1893 (  Part  1 ) :2002
+ANNEX
+A
+(  Foreword)<<HEADING_END>>
+<<PARAGRAPH>>68°
+72°<<PARAGRAPH_END>>
+<<HEADING level=3>>AND SURROUNDING
+SHOWING
+EPICENTRES
+‘
+8
+,,~<<HEADING_END>>
+<<PARAGRAPH>>48o<<PARAGRAPH_END>>
+<<PARAGRAPH>>32°
+KILOMETRES
+c<<PARAGRAPH_END>>
+<<PARAGRAPH>>o
+V&,
+~
+~’p<<PARAGRAPH_END>>
+<<PARAGRAPH>>n-o
+n<<PARAGRAPH_END>>
+<<PARAGRAPH>>~<<PARAGRAPH_END>>
+<<PARAGRAPH>>RA?PUR<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+20<<PARAGRAPH_END>>
+<<HEADING level=3>>o<<HEADING_END>>
+<<PARAGRAPH>>1
+16’<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+12“<<PARAGRAPH_END>>
+<<PARAGRAPH>>8°<<PARAGRAPH_END>>
+<<PARAGRAPH>>@ Government
+of India,
+Copyright
+Year 2001.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Based upon Survey of India map with the permission
+of the Surveyor
+General
+of India.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The responsibility
+for the correctness
+of internal details rests with the publisher.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The territorial
+waters of India extend into the sea to distance
+of twelve nautical
+miles measured
+from the appropriate
+base line.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The administrative
+headquarters
+of Chandigarh,
+Haryana
+and Punjab are at Chandigarh.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The interstate
+boundaries
+between
+Arunachal
+Pradesh,
+Assam and Meghalaya
+shown on this map are as interpreted
+from the
+North-Eastern
+Areas (Reorganization)
+Act, 1971, but have yet to be verified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The external
+boundaries
+and coastlines
+of India agree with the Record/Maater
+Copy certified
+by Survay of India.<<PARAGRAPH_END>>
+<<PARAGRAPH>>29<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<HEADING level=1>>As in the Original Standard, this Page is Intentionally Left Blank<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>ANNEX
+D<<HEADING_END>>
+<<HEADING level=3>>(  Foreword
+and  Clause
+3.15 )<<HEADING_END>>
+<<HEADING level=3>>COMPREHENSIVE INTENSITY SCALE ( MSK 64 )<<HEADING_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The scale was
+discussed
+generally
+at the inter-
+govermnental meeting convenedby UNESCO in April
+1964. Though not finally approved the scale is more
+comprehensive
+and describes
+the intensity
+of
+earthquake more precisely. The main definitions used
+are followings;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Intensity
+Scale<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.<<PARAGRAPH_END>>
+<<HEADING level=3>>Not
+noticeable
+—  The intensity
+of the
+vibration is below the limits of sensibility:
+the tremor
+is detected
+and recorded
+by
+seismograph only.<<HEADING_END>>
+<<HEADING level=3>>Sca~e(y  noticeable
+(very slight) —  Vibration
+is felt only by individual
+people at rest in
+houses,
+especially
+on upper
+floors
+of
+buildings.<<HEADING_END>>
+<<PARAGRAPH>>2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<HEADING level=3>>Tvpe of Structures
+(Buildings)<<HEADING_END>>
+<<HEADING level=3>>Type.4 —
+Building in field-stone,
+rural
+structures,
+unburnt-brick
+houses, clay houses.<<HEADING_END>>
+<<PARAGRAPH>>Weak,
+partially
+observed
+only
+—  The
+earthquake is felt indoors by a few people,
+outdoors only in favorable
+circumstances.
+The vibration is like that due to the passing
+of a light truck. Attentive observers notice
+a slight
+swinging
+of hanging
+objects.
+somewhat more heavily on upper floors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tvpe B —
+Ordinary
+brick
+buildings,
+buildings
+of large block and
+prefabricated type, half timbered
+structures, buildings in natural
+hewn stone,<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tvpe C —
+Reinforced buildings, well built
+wooden structures,<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Largelv
+ob.verved —  The earthquake is felt
+indoors by many people, outdoors by few.
+Here and there people awake, but no one is
+frightened.
+The vibration is like that due to
+the passing
+of a heavily
+loaded
+truck.
+Windows, doors, and dishes rattle.
+Floors
+and walls crack. Furniture begins to shake.
+Hanging objects swing slightly.
+Liquid in
+open vessels
+are slightly
+disturbed.
+In
+standing motor cars the shock is noticeable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Definition
+qfQuantitv:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single, few
+About 5 percent<<PARAGRAPH_END>>
+<<PARAGRAPH>>Many
+About 50 percent<<PARAGRAPH_END>>
+<<PARAGRAPH>>Most
+About 75 percent<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cla.~~iflcation
+of Danlage
+to Buildings<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fine cracks in plaster:
+fall of small pieces of
+plaster.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Grade 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Slight damage<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Awakening<<PARAGRAPH_END>>
+<<PARAGRAPH>>Moderate damage<<PARAGRAPH_END>>
+<<PARAGRAPH>>Grade 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>Small cracks in plaster:
+fall offairly large pieces
+of plaster: pantiles slip
+off cracks in chimneys
+parts of chimney fall
+down,<<PARAGRAPH_END>>
+<<PARAGRAPH>>The earthquake
+is felt indoors by all,
+outdoors by many. Many people awake.
+A few run outdoors. Animals become
+uneasy. Building tremble throughout.
+Hanging
+objects swing consider~bly.
+Pictures knock against walls or swing out
+of place. Occasionally pendulum clocks
+stop. Unstable objects overturn or shift.
+Open doors and windows are thrust open
+and slamback again. Liquids spill in small
+amounts from well-filled open containers.
+The sensation of vibration
+is like that
+due to heavy objects falling inside the
+buildipgs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Large and deep cracks
+in
+plaster:
+fall
+of
+chimneys,<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hea%ydamage<<PARAGRAPH_END>>
+<<PARAGRAPH>>Grade 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>Destruction<<PARAGRAPH_END>>
+<<PARAGRAPH>>Grade4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gaps in walls: parts of
+buildings may collapse:
+separate
+parts of the
+buildings
+lose
+their
+cohesion:
+and inner
+walls collapse,<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Slight damages in buildings of Type A
+are possible.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Grade 5 Total damage<<PARAGRAPH_END>>
+<<PARAGRAPH>>Total collapse
+of the
+buildings.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sometimes changes in flow of springs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>33<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<HEADING level=3>>IS 1893( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>roads on steep slopes; cracks in ground
+upto widths of several centimetres. Water
+in lakes become turbid. New reservoirs
+come into existence. Dry wells refill and
+existing wells become dry. In many cases,
+change in flow and level of water is
+observed.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.
+Frightening<<HEADING_END>>
+<<PARAGRAPH>>i)
+Felt by most indoors and outdoors. Many
+people in buildings are frightened and
+run outdoors. A few persons loose their
+balance.
+Domestic animals run out of
+their stalls. In few instances, dishes and
+glassware maybreak, and booksfall down.
+Heavy furniture may possibly move and
+small steeple bells may ring.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.
+General
+damage
+of buildings<<HEADING_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>General panic; considerable damage to
+furniture.
+Animals
+run to and fro in
+confusion, and cry.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)
+Damage of Grade 1is sustained in single
+buildings of Type B and in many of Type
+A. Damage in few buildings of Type A
+is of Grade 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Many buildings of Type C stier
+damage
+of Grade 3, and a few of Grade 4. Many
+buildings of Type B show a damage of
+Grade 4 and a few of Grade 5. Many
+buildings
+of Type A suffer damage of
+Grade 5. Monuments and columns fall.
+Considerable
+damage
+to reservoirs;
+underground
+pipes partly broken,
+In
+individual cases, railway lines are bent
+and roadway damaged.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii) In few cases, cracks up to widths of
+1cm possible in wet ground in mountains
+occasional landslips: change in flow of
+springs and in level of well water are
+observed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.
+Darnuge
+qf’  h uildingv<<HEADING_END>>
+<<PARAGRAPH>>i)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Most people are frightened
+and run
+outdoors. Many find it difllcult to stand.
+The vibration
+is noticed by persons
+driving motor cars. Large bells ring.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>On flat land overflow of water, sand and
+mud is often observed.
+Ground cracks
+to widths of up to 10 cm, on slopes and
+river banks more than 10 cm. Further
+more, a large number of slight cracks in
+ground; falls of rock, many land slides
+and earth flows; large waves in water.
+Dry wells renew their flow and existing
+wells dry up.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>In many buildings of Type C damage of
+Grade 1 is caused: in many buildings of
+Type B damage is of Grade 2.
+Most
+buildings
+of Type A suffer damage of
+Grade 3, few of Grade 4.
+In single
+instances, landslides of roadway on steep
+slopes: crack inroads; seams of pipelines
+damaged; cracks in stone walls.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.  General
+destruction
+of building~<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Waves are formed on water, and is made
+turbid by mud stirred up, Water levels
+in wells change. and the flow of springs
+changes. Some times dry springs have
+their flow resorted and existing springs
+stop flowing. In isolated instances parts
+of sand and gravelly banks slip off.<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+Many buildings of Type C suffer damage
+of Grade 4, and a few of Grade 5. Many
+buildings
+of Type B show
+damage of
+Grade
+5.
+Most
+of
+Type
+A
+have
+destruction of Grade 5. Critical damage
+to dykes and dams. Severe damage to
+bridges. Railway lines are bent slightly.
+Underground pipes are bent or broken.
+Road paving and asphalt show waves.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.
+Destruction
+of buildings<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+Fright and panic; also persons driving
+motor cars are disturbed, Here and there
+branches of trees break off. Even heavy
+furniture
+moves and partly overturns.
+Hanging lamps are damaged in part.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)
+In ground, cracks up to widths of several
+cent.imetres,sometimesup to 1m, Parallel
+to water courses occur broad fissures.
+Loose ground slides from steep slopes.
+From river banks
+and steep coasts,
+considerable landslides are possible. In
+coastal areas, displacement of sand and
+mud: change ofwater level in wells; water
+from canals, lakes. rivers. etc. thrown
+on land. New lakes occur.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)
+Most buildings of Type C suffer damage
+of Grade 2, and few of Grade 3, Most
+buildings
+of Type B suffer damage of
+Grade 3. Most buildings ofType A suffer
+damage of Grade 4. Occasional breaking
+of pipe
+seams.
+Memorials
+and
+monuments move and twist. Tombstones
+o~.erturn. Stone walls collapse.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11,  Destruction<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+Severe
+damage
+even
+to well
+built
+buildings.
+bridges,
+water
+dams and<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii) Small landslips in hollows and on banked
+j4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<HEADING level=3>>IS 1893( Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>railway lines. Highways become useless
+Underground
+pipes destroyed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ground
+are
+greatly
+damaged
+or
+destroyed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)
+The surface of the ground is radically
+changed.
+Considerable
+ground cracks
+with extensive vertical and horizontal
+movements are observed. Falling of rock
+and slumping of river banks over wide
+areas,
+lakes are dammed;
+waterfalls
+appear and rivers are deflected.
+The
+intensity of the earthquake
+requires to
+be investigated
+specially.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii)
+Ground considerably distorted by broad
+cracks and fissures, as well as movement
+in horizontal
+and vertical
+directions.
+Numerous landslips and falls of rocks.
+The intensity of the earthquake requires
+to be investigated specifically,<<PARAGRAPH_END>>
+<<PARAGRAPH>>12,  Land.~cape
+changes<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+Practically all structures above and below<<PARAGRAPH_END>>
+<<HEADING level=3>>ANNEX
+E<<HEADING_END>>
+<<HEADING level=3>>(  Foreword)<<HEADING_END>>
+<<HEADING level=3>>ZONE FACTORS FOR SOME IMPORTANT TOWNS<<HEADING_END>>
+<<PARAGRAPH>>Town<<PARAGRAPH_END>>
+<<HEADING level=3>>Zone
+Zone  Facto<
+Z
+Tbwn<<HEADING_END>>
+<<HEADING level=3>>Zone<<HEADING_END>>
+<<HEADING level=3>>Zone  Facto<
+Z<<HEADING_END>>
+<<PARAGRAPH>>Agra<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Chitradurga<<PARAGRAPH_END>>
+<<HEADING level=3>>II<<HEADING_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ahmedabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>HI<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Coimbatore<<PARAGRAPH_END>>
+<<PARAGRAPH>>HI<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ajmer<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cuddalore<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Allahabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cuttack<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ahnora<<PARAGRAPH_END>>
+<<PARAGRAPH>>Iv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Darbhanga<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ambala<<PARAGRAPH_END>>
+<<PARAGRAPH>>IV<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Darjeeling<<PARAGRAPH_END>>
+<<PARAGRAPH>>lv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Arnritsar<<PARAGRAPH_END>>
+<<PARAGRAPH>>Iv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dharwad<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Asansol<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Debra Dun<<PARAGRAPH_END>>
+<<PARAGRAPH>>N<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Aurangabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>H<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dharampuri<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bahraich<<PARAGRAPH_END>>
+<<PARAGRAPH>>w<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Iv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bangalore<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16<<PARAGRAPH_END>>
+<<HEADING level=3>>Durfypur<<HEADING_END>>
+<<PARAGRAPH>>Iv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gangtok<<PARAGRAPH_END>>
+<<PARAGRAPH>>N<<PARAGRAPH_END>>
+<<PARAGRAPH>>Barauni<<PARAGRAPH_END>>
+<<PARAGRAPH>>().24<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Guwahati<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bareilly<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,36<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Goa<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>Belgaum<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gulbarga<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bhatinda<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>I1<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gaya<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bhilai<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>D<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Gorakhpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>N<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bhopal<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hyderabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bhubaneswar<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>Blmj<<PARAGRAPH_END>>
+<<PARAGRAPH>>hllphd<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bijapur<<PARAGRAPH_END>>
+<<PARAGRAPH>>Jabalpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bikaner<<PARAGRAPH_END>>
+<<PARAGRAPH>>JaipLLr<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>H<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bokaro<<PARAGRAPH_END>>
+<<PARAGRAPH>>Jamshedpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Iv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bulandshahr<<PARAGRAPH_END>>
+<<PARAGRAPH>>Jhansi<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>Burdwan<<PARAGRAPH_END>>
+<<PARAGRAPH>>Jodhpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>HI<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cailcut<<PARAGRAPH_END>>
+<<PARAGRAPH>>Jorhat<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,36<<PARAGRAPH_END>>
+<<PARAGRAPH>>().24<<PARAGRAPH_END>>
+<<PARAGRAPH>>N<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>Chandigarh<<PARAGRAPH_END>>
+<<PARAGRAPH>>Kakrapara<<PARAGRAPH_END>>
+<<PARAGRAPH>>().16<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>111<<PARAGRAPH_END>>
+<<PARAGRAPH>>Chcnnai<<PARAGRAPH_END>>
+<<PARAGRAPH>>Kalapakkam<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>35<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<HEADING level=3>>IS 1893(  Part 1 ) :2002<<HEADING_END>>
+<<PARAGRAPH>>70 wn<<PARAGRAPH_END>>
+<<HEADING level=3>>Zone<<HEADING_END>>
+<<HEADING level=3>>Zone Factor
+Z<<HEADING_END>>
+<<HEADING level=3>>Zone<<HEADING_END>>
+<<HEADING level=3>>Zone Factoc
+Z<<HEADING_END>>
+<<PARAGRAPH>>Town<<PARAGRAPH_END>>
+<<PARAGRAPH>>Kanchipuram<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pondicherry<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<HEADING level=3>>0.16<<HEADING_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>Kanpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pune<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<HEADING level=3>>0.16<<HEADING_END>>
+<<PARAGRAPH>>Karwar<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Raipur<<PARAGRAPH_END>>
+<<HEADING level=3>>0.16<<HEADING_END>>
+<<PARAGRAPH>>Kohima<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>Rajkot<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<HEADING level=3>>0.36<<HEADING_END>>
+<<PARAGRAPH>>Kolkata<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ranchi<<PARAGRAPH_END>>
+<<HEADING level=3>>0.16<<HEADING_END>>
+<<PARAGRAPH>>Kota<<PARAGRAPH_END>>
+<<PARAGRAPH>>Roorkee<<PARAGRAPH_END>>
+<<PARAGRAPH>>W<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Rourkela<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Kurnool<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sadiya<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>Lucknow<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Salem<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ludhiana<<PARAGRAPH_END>>
+<<PARAGRAPH>>Iv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Simla<<PARAGRAPH_END>>
+<<PARAGRAPH>>lv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Madurai<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sironj<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mandi<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>Solapur<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mangalore<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Snnagar<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>Monghyr<<PARAGRAPH_END>>
+<<PARAGRAPH>>w<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Surat<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Moradabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>IV<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tarapur<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tezpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.36<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mysore<<PARAGRAPH_END>>
+<<PARAGRAPH>>It<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Thane<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nagpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Thanjavur<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nagarjunasagar<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Thiruvananthapuram<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nainital<<PARAGRAPH_END>>
+<<PARAGRAPH>>lv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tiruchirappali<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nasik<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tiruvennamalai<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nellore<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Udaipur<<PARAGRAPH_END>>
+<<PARAGRAPH>>II<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>Osmanabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vadodara<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Panjim<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Varanasi<<PARAGRAPH_END>>
+<<PARAGRAPH>>IiI<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Patiala<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vellore<<PARAGRAPH_END>>
+<<PARAGRAPH>>III<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Patna<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.24<<PARAGRAPH_END>>
+<<PARAGRAPH>>lv<<PARAGRAPH_END>>
+<<PARAGRAPH>>Viayawada<<PARAGRAPH_END>>
+<<PARAGRAPH>>IN<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.16<<PARAGRAPH_END>>
+<<PARAGRAPH>>Pilibhit<<PARAGRAPH_END>>
+<<PARAGRAPH>>lv<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,24<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vkhakhapatnam<<PARAGRAPH_END>>
+<<PARAGRAPH>>It<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.10<<PARAGRAPH_END>>
+<<PARAGRAPH>>36<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>ANNEX
+F<<HEADING_END>>
+<<HEADING level=3>>(  Foreword)<<HEADING_END>>
+<<HEADING level=3>>COMMITTEE COMPOS~ON<<HEADING_END>>
+<<PARAGRAPH>>Earthquake Engineering Sectional Committee, CED 39<<PARAGRAPH_END>>
+<<HEADING level=3>>Representative(s)<<HEADING_END>>
+<<HEADING level=3>>Organization<<HEADING_END>>
+<<HEADING level=3>>DRA. S. AR~A(  Chairman )<<HEADING_END>>
+<<PARAGRAPH>>In personal
+capcity ( 72/6  Civil Lines, Roorkee  247667)<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIN. C. ADDY
+DR C. KAME.SHWARA
+RAO(  Alternate
+1 )
+SHRIA. K. SINGH(  Alternate
+11)<<HEADING_END>>
+<<PARAGRAPH>>Bharat Heavy Electricrd
+Ltd, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIT. N. GUPTA
+SHRIJ. K. PRASAD(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Building
+Materials
+Technology
+Promotion
+Council,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIS. K. MHTAL
+SHRIV. K. GUPTA(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Central Building
+Research Institute,
+Roorkee<<PARAGRAPH_END>>
+<<HEADING level=3>>SUPERINTENDING
+ENGINEER(D)
+EXECUTIVEENGINEER(D) HI
+(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Central Public Works Department,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DIRECTORCMDD ( N&W )
+DIRECTOREMBANKMENT
+( N&W)
+(  Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Central Water Commission
+( ERDD ), New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRI1. D. GUPTA
+SHRI S. G. CHAPHALAKAR
+(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Central Water and Power Research Station,
+Pune<<PARAGRAPH_END>>
+<<PARAGRAPH>>DR K. G. BHATIA<<PARAGRAPH_END>>
+<<PARAGRAPH>>D-CAD Technologies
+Pvt Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>DR ( SHRIMATI) P. R. BOSE<<PARAGRAPH_END>>
+<<PARAGRAPH>>Delhi College of Engineering,
+Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIP. C. KGTESWARRAO
+SHRIS. RAMANLHAM
+(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Department
+of Atomic Energy, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>PROFASHOKJAIN<<PARAGRAPH_END>>
+<<PARAGRAPH>>Department
+of Civil
+Engineering,
+University
+of Roorkee,
+Roorkee<<PARAGRAPH_END>>
+<<HEADING level=3>>DR S.K. THAKKAR
+DR D.K. PAUL( Alernate
+I )
+DR S. BASU(  Alrernate  11)<<HEADING_END>>
+<<PARAGRAPH>>Department
+of
+Earthquake
+Engineering,
+University
+of
+Roorkee,
+Roorkee<<PARAGRAPH_END>>
+<<HEADING level=3>>COL
+(  DR ) SHRIPAL
+SHRIY. K. SINGHAL(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Engineer-in-Cbief’s
+Branch, Army Headquarters,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DR  V. Y.  SALPEKAR
+SHRIR. K. GROVER(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Engineers
+India Ltd, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIS.A. REDDI
+SHRIA. K. CHATTERJEE(  Alternate
+1 )
+SHRIV. N. HAGGADE(  Alternate
+11 )<<HEADING_END>>
+<<PARAGRAPH>>Gammon India Limited,
+Mumbai<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIP. PANDEY
+SHRIY. F?SHARDA(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Geological
+Survey
+of India, Lucknow<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIV. ROY
+SHRID. P. SINGH(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Housing Urban and Development
+Corporation,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DR S. K. JAIN
+DR C. V. R. MURTY(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Indian Institute
+of Technology,
+Kanpur<<PARAGRAPH_END>>
+<<HEADING level=3>>DR RAWSINHA
+DR A. GOYAL(  Al?ernate )<<HEADING_END>>
+<<PARAGRAPH>>Indian Institute
+of Technology,
+Mumbai<<PARAGRAPH_END>>
+<<HEADING level=3>>DR S. N. ,BHAITACHARYA
+SHRIV. K. MITTAL(  AJternate )<<HEADING_END>>
+<<PARAGRAPH>>Indian Meteorological Department,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>( Continued
+on page 38)<<HEADING_END>>
+<<PARAGRAPH>>37<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_39>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>(  Continued from page 37)<<HEADING_END>>
+<<HEADING level=3>>Representative(s)<<HEADING_END>>
+<<HEADING level=3>>Organization<<HEADING_END>>
+<<HEADING level=3>>SHRIM. K. GUPTA
+DR D. K. PAUL(  Alrernate )<<HEADING_END>>
+<<PARAGRAPH>>Indian Society
+of Earthquake
+Technology,
+Roorkee<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIK. JAYARAMAN
+SHRIS. KANAPPAN(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Larsen and Toubro, Chennai<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIR. L. DAMANI
+SHRIS. V. KUMARASWAMY(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Maharashtra
+Engineering
+Research Centre ( MERI ), Nasik<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIN. K. SINHA
+SHRIR. S. NINAN(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Ministry
+of Surface Transport,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIS. C. BHATIA
+SHRIM. RAVIKUMAR(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>National Geophysical
+Research Institute
+( CSIR ), Hyderabad<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIN. K. SINHA
+SHRIG. SHARAN(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>NationaJ Highway Authority
+of India, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>CHIEPENGINEER,CD-HI<<PARAGRAPH_END>>
+<<PARAGRAPH>>National Hydro-Electric
+Power Corporation
+Ltd, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIR. S. BAJAI
+SHRIH. K. RAMKUMAR(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>National Thermal Power Corporation
+Ltd, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIL. K. GANJU
+SHRIA. D. KHARSHING(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>North Eastern Council,
+Shillong<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRtU. S. P. VERMA<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nuclear Power Corporation,
+Mumbai<<PARAGRAPH_END>>
+<<HEADING level=3>>EXECUTIVEDIRECTOR( B&S )
+JOINTDIRECTOR( B&S ) CB-1 (  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Railway
+Board, Ministry
+of Railways,
+Lucknow<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRIV. THIRUVENDGADAM<<PARAGRAPH_END>>
+<<PARAGRAPH>>School of Planning
+and Architecture,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIC. V. VAIDYANATErAN
+DR B. SWARAMSARMA(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Structural
+Engineering
+Research Centre ( CSIR ), Chennai<<PARAGRAPH_END>>
+<<HEADING level=3>>DR MAHESHTANDON
+SHRIVINAYGUPTA(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Tandon Consultants
+Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRIK. V. SUBRA~ANIAN
+SHRIM. K. S. YOGI( Alternate
+)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tata Consulting
+Engineers,
+Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRISURINDERKUMAR<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wadia Institute
+of Himalayan
+Geology, Debra Dun<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRIP. L. NARULA<<PARAGRAPH_END>>
+<<HEADING level=3>>In personal
+capacity
+( E-53,  Kapil Whan Faridabad )<<HEADING_END>>
+<<HEADING level=3>>SHRtS.K. JAIN,Director
+& Head ( Civ Engg )
+[ Representing
+Director
+General (  Ex-officio ) ]<<HEADING_END>>
+<<PARAGRAPH>>BIS Directorate
+GeneraJ<<PARAGRAPH_END>>
+<<HEADING level=3>>Member-Secretary<<HEADING_END>>
+<<PARAGRAPH>>SHRIS. CHATURVEDI<<PARAGRAPH_END>>
+<<PARAGRAPH>>Joint Director
+( Civ Engg ), BIS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Earthquake Resistant Construction
+Subcommittee,
+CED 39:1<<PARAGRAPH_END>>
+<<HEADING level=3>>In personal capacity
+( 72/6  Civil Lines, Roorkee 247667)
+DR A. S. ARYA( Convener)<<HEADING_END>>
+<<HEADING level=3>>Building Material
+Technology
+Promotion
+Council,
+New Delhi
+SHRI T. N.  GUPTA
+SHRIJ. K. PRASAD(  Alternate
+)<<HEADING_END>>
+<<HEADING level=3>>Central
+Building Research Institute,
+Roorkee
+SHRIM. P. JAISINGH
+SHRIV. K. GUPTA(  Alternate
+)<<HEADING_END>>
+<<HEADING level=3>>( Continued
+on page 39)<<HEADING_END>>
+<<PARAGRAPH>>38<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<HEADING level=3>>IS 1893( Part 1 ): 2002<<HEADING_END>>
+<<HEADING level=3>>( Continued from page 38)<<HEADING_END>>
+<<HEADING level=3>>Representative(s)<<HEADING_END>>
+<<HEADING level=3>>Organization<<HEADING_END>>
+<<HEADING level=3>>SUPERINTENDING SURVEYOR
+OFWORKS( NDZ )
+SUPERINTENDING
+ENGINEER(D) ( Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Central Public Works Department,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DR ( SHRIMATI) P. R.  BOSE<<HEADING_END>>
+<<PARAGRAPH>>Delhi College of Engineering,
+Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DR S. K. THAKKAR
+DR D. K. PAUL(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Department
+of
+Earthquake
+Engineering,
+University
+of
+Roorkee, Roorkee<<PARAGRAPH_END>>
+<<PARAGRAPH>>EXECUTIVEENGINEER( DESIGN)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Engineer-in-Chief’s
+Branch, Army Headquarters,
+New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIB. K. CHAKRABORTY
+SHRID. P.  SINGH(  Alternate
+)<<HEADING_END>>
+<<PARAGRAPH>>Housing and Urban Development
+Corporation,
+New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRIM. KUNDU<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hindustan
+Prefab Ltd, New Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DR ALOK GOYAL<<HEADING_END>>
+<<PARAGRAPH>>Indian Institute
+of Technology,
+Mumbai<<PARAGRAPH_END>>
+<<HEADING level=3>>DR RAVI SINHA (  Al[ernate
+)<<HEADING_END>>
+<<HEADING level=3>>DR SUDHIR K. JAIN
+DR C. V. R. MURTY (  Alternate )<<HEADING_END>>
+<<PARAGRAPH>>Indian Institute
+of Technology,
+Kanpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>North Eastern Council,
+Shillong<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRi D. N. GHOSAI<<HEADING_END>>
+<<PARAGRAPH>>Public Works Department,
+Goverment
+of Himachat
+Pradesh,
+Simla<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRIV. KAPUR
+SHRIV. K
+KAPOOR(  Alternate )<<HEADING_END>>
+<<HEADING level=3>>SHRI G.  M.  SHOUNTHU<<HEADING_END>>
+<<PARAGRAPH>>Public Works Department,
+Goverment
+of Jammu & Kashmir<<PARAGRAPH_END>>
+<<PARAGRAPH>>Public Works Department,
+Goverment
+of Assam, Guwahati<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRI SUBRATACHAKRAVARTY<<HEADING_END>>
+<<PARAGRAPH>>Public Works Department, Government of Gujarat, Gandhi Nagar<<PARAGRAPH_END>>
+<<HEADING level=3>>SUPERINTENDINGENGINEER( DESIGN )<<HEADING_END>>
+<<HEADING level=3>>JOINTDIRECTORSTDS  (B&S)lCB-I<<HEADING_END>>
+<<PARAGRAPH>>Research,
+Design and Standards
+Organization,
+Lucknow<<PARAGRAPH_END>>
+<<HEADING level=3>>ASSISTANTDIRECTORSTtX ( B&S )/CB-11
+(  Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Structural
+Engineering
+Research
+Centre ( CSIR ), Chennai<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRf C. V.
+VAIDYANATHAN
+SHR1B. StVARAMASARMA (  Alternate )<<HEADING_END>>
+<<PARAGRAPH>>Tandon Consultants
+Pvt Ltd, Delhi<<PARAGRAPH_END>>
+<<HEADING level=3>>DR MAHESHTANDON<<HEADING_END>>
+<<HEADING level=3>>SHRIVINAY GUPTA(  Alternate )<<HEADING_END>>
+<<PARAGRAPH>>Maps Subcommittee,
+CED 39:4<<PARAGRAPH_END>>
+<<HEADING level=3>>In personalcapacity ( E-53  Kapil VihaC Faridabad )
+SHRI P. L. NARULA(  Convener )<<HEADING_END>>
+<<HEADING level=3>>BRIG K. K. GUPTA(  Alternate )<<HEADING_END>>
+<<HEADING level=3>>Centrrd Water
+and Power Research Station, Pune
+DIRECTOR
+SHRIL D.  GUPTA(  Alternate)<<HEADING_END>>
+<<HEADING level=3>>Department
+of
+Earthquake
+Engineering,
+University
+of
+DR S. BASU
+Roorkee, Roorkee
+DR ASHWANIKUMAR(  Alternate)<<HEADING_END>>
+<<PARAGRAPH>>Indian Meteorological Department,
+New Delhi
+DR S. N. BHATTACHARYA<<PARAGRAPH_END>>
+<<HEADING level=3>>SHRI V. K.  MHTAL (  Alternate )<<HEADING_END>>
+<<HEADING level=3>>Institute of Petroleum Engineering Oil and Natural Gas
+DEPUTYGENERALMANAGER<<HEADING_END>>
+<<HEADING level=3>>Commission,
+Debra
+Dun
+SUPERINTENDINGGEOPHYSICIST(  Alternate )<<HEADING_END>>
+<<HEADING level=3>>National Geophysical
+Research
+Institute
+( CSIR ), Hyderabad
+SHRIS, C. BHATIA
+DR  B. K. RASTOG](  Alternate )<<HEADING_END>>
+<<PARAGRAPH>>Survey of India, Debra Dun
+SHRIG. M. LAL<<PARAGRAPH_END>>
+<<PARAGRAPH>>39<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_41>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory
+institution
+established
+under the  Bureau
+of Indian
+Standards
+Act,
+1986 to promote
+harmonious development of the activities of standardization,
+marking and quality certification of goods and
+attending to connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS  has the copyright of all its publications. No part of these publications maybe reproduced in any form without
+the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the
+standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to
+copyright be addressed to the Director (Publications),
+BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review
+of Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue
+of ‘BIS Catalogue’ and ‘Standards : Monthly Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard has been developed from Doc : No. CED 39 ( 5341 ).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments
+Issued
+Since
+Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002
+Telegrams:
+Manaksanstha
+Telephones: 3230131,3233375,3239402
+( Common to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central: Manak Bhavan, 9 Bahadur Shah Zafar Marg
+{
+3237617
+NEW DELHI 110002
+3233841<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+Eastern:
+1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi
+{
+3378499,3378561
+KOLKATA 700054
+3378626,3379120<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern: SCO 335-336, Sector 34-A, CHANDIGARH 160022
+{
+603843
+602025
+Southern: C. I. T. Campus, IV Cross Road, CHENNAI 600113
+{
+2541216,2541442
+2542519,2541315<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western : Manakalaya, E9 MIDC, Marol, Andheri (East)
+{
+8329295,8327858
+MUMBA1400 093
+8327891,8327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches : AHMADABAD.
+BANGALORE.
+BHOPAL.
+BHUBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD.
+JAIPUR.
+KANPUR.
+LUCKNOW. NAGPUR. NALAGARH.PATNA. PUNE. RAJKOT. THIRWANANTHAPURAM.<<PARAGRAPH_END>>
+<<HEADING level=3>>Printed at New India Printing  Press,
+Khrrrja,
+India<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 41
+<<SECTION_END>>
+<<DOCUMENT_END>>

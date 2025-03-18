@@ -1,0 +1,743 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            42.55,
+            44.54,
+            72.55,
+            74.35
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: D 4972 \u2013 01",
+          "bbox": [
+            78.47,
+            47.76,
+            207.79,
+            62.87
+          ],
+          "block_id": "b1_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Test Method for\npH of Soils 1",
+          "bbox": [
+            99.43,
+            94.52,
+            257.71,
+            127.65
+          ],
+          "block_id": "b1_2",
+          "font_size": 13.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation D 4972; the number immediately following the designation indicates the year of\noriginal adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A\nsuperscript epsilon ( e ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            99.43,
+            138.68,
+            506.6,
+            166.62
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope *\n1.1 This test method covers the measurement of the pH of\nsoils for uses other than for corrosion testing. Such measure-\nments are used in the agricultural, environmental, and natural\nresources \ufb01elds. This measurement determines the degree of\nacidity or alkalinity in soil materials suspended in water and a\n0.01  M  calcium chloride solution. Measurements in both\nliquids are necessary to fully de\ufb01ne the soil\u2019s pH. This variable\nis useful in determining the solubility of soil minerals and the\nmobility of ions in the soil and assessing the viability of the\nsoil-plant environment. A more detailed discussion of the\nusefulness of this parameter is not warranted here; however, it\ncan be found in many discussions of the subject. A few such\ndiscussions are given as Refs  (1-6) 2   at the end of the text.\n1.2 The values given in SI units are to be regarded as the\nstandard.\n1.3  This standard does not purport to address all of the\nsafety concerns, if any, associated with its use. It is the\nresponsibility of the user of this standard to establish appro-\npriate safety and health practices and determine the applica-\nbility of regulatory limitations prior to use.",
+          "bbox": [
+            42.55,
+            183.46,
+            294.08,
+            429.06
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Terminology\n3.1  De\ufb01nitions:\n3.1.1 For common de\ufb01nitions of terms used in this standard,\nrefer to Terminology D 653.",
+          "bbox": [
+            311.96,
+            183.46,
+            563.47,
+            234.1
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4. Summary of Test Method\n4.1 Measurement of the pH of soils in both suspensions of\nwater and a calcium chloride solution are made with either a\npotentiometer using a pH sensitive electrode system (Method\nA), or pH sensitive paper (Method B). The potentiometer is\ncalibrated with buffer solutions of known pH. The pH sensitive\npaper is a less accurate measurement and should only be used\nfor a rough estimate of the soil pH. The electrode must be used\nfor this measurement unless the pH sensitive paper is speci\ufb01ed.",
+          "bbox": [
+            311.96,
+            240.34,
+            563.48,
+            348.35
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Signi\ufb01cance and Use\n5.1 The pH of the soil is a useful variable in determining the\nsolubility of soil minerals and the mobility of ions in the soil\nand assessing the viability of the soil-plant environment.\n5.2 pH measurements are made in both water and a calcium\nchloride solution because the calcium displaces some of the\nexchangeable aluminum. The low ionic strength counters the\ndilution effect on the exchange equilibrium by setting the salt\nconcentration of the solution closer to that expected in the soil\nsolution. The pH values obtained in the solution of calcium\nchloride are slightly lower than those measured in water due to\nthe release of more aluminum ions which then hydrolyses.\nTherefore, both measurements are required to fully de\ufb01ne the\ncharacter of the soil\u2019s pH.\n5.3 For the purpose of this test method the test soil must be\nsieved through a No. 10 sieve (2 mm sieve mesh openings).\nMeasurements on soils or soil fractions having particle sizes\nlarger than 2 mm by this test method may be invalid. If soil or\nsoil fractions with particles larger than 2 mm are used, it must\nbe stated in the report since the results may be signi\ufb01cantly\ndifferent.\n5.4 All water used for this test method must be ASTM Type\nIII or better. Type III water is de\ufb01ned by Speci\ufb01cation D 1193.\nIt is prepared by distillation, ion exchange, reverse osmosis, or\na combination thereof.",
+          "bbox": [
+            311.96,
+            354.59,
+            563.49,
+            646.19
+          ],
+          "block_id": "b1_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents\n2.1  ASTM Standards:\nC 670 Practice for Preparing Precision and Bias Statements\nfor Test Methods for Construction Materials 3",
+          "bbox": [
+            42.55,
+            435.41,
+            294.05,
+            486.05
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "D 653 Terminology Relating to Soil, Rock, and Contained\nFluids 4",
+          "bbox": [
+            52.53,
+            484.21,
+            293.99,
+            509.0
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 1193 Speci\ufb01cation for Reagent Water 5",
+          "bbox": [
+            52.53,
+            507.12,
+            220.34,
+            520.47
+          ],
+          "block_id": "b1_7",
+          "font_size": 8.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D 3740 Practice for Minimum Requirements for Agencies\nEngaged in the Testing and/or Inspection of Soil and Rock\nas Used in Engineering Design and Construction 6",
+          "bbox": [
+            52.53,
+            518.63,
+            294.03,
+            554.89
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "G 51 Test Method for pH of Soil for Use in Corrosion\nTesting 7",
+          "bbox": [
+            52.53,
+            553.06,
+            294.02,
+            577.84
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This test method is under the jurisdiction of ASTM Committee D18 on Soil and\nRock and is the direct responsibility of Subcommittee D18.22 on Soil as a Medium\nfor Plant Growth.\nCurrent edition approved Jan. 10, 2001. Published February 2001. Originally\npublished as D 4972 \u2013 89. Last previous edition D 4972 \u2013 95a.\n2  The boldface numbers in parentheses refer to a list of references at the end of\nthe test method.\n3  Annual Book of ASTM Standards , Vol 04.02.\n4  Annual Book of ASTM Standards , Vol 04.09.\n5  Annual Book of ASTM Standards , Vol 11.01.\n6  Annual Book of ASTM Standards , Vol 04.08.\n7  Annual Book of ASTM Standards , Vol 03.02.",
+          "bbox": [
+            42.55,
+            594.6,
+            294.0,
+            706.36
+          ],
+          "block_id": "b1_14",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6. Interferences\n6.1 This test method as measured by a pH probe has\npossible interferences due to a suspension effect or sedimen-\ntation potential. Users interested in a detailed discussion of the",
+          "bbox": [
+            311.96,
+            652.43,
+            563.46,
+            703.07
+          ],
+          "block_id": "b1_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "*A Summary of Changes section appears at the end of this standard.",
+          "bbox": [
+            182.96,
+            731.17,
+            423.06,
+            742.22
+          ],
+          "block_id": "b1_16",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, United States.",
+          "bbox": [
+            42.55,
+            745.29,
+            301.6,
+            753.52
+          ],
+          "block_id": "b1_17",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b1_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            42.55,
+            44.54,
+            72.55,
+            74.35
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ],
+          "block_id": "img2_11"
+        },
+        {
+          "type": "text",
+          "content": "D 4972",
+          "bbox": [
+            295.27,
+            44.02,
+            330.65,
+            59.13
+          ],
+          "block_id": "b2_12",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "mechanism of this effect can \ufb01nd it in Refs  (5)  and  (6) .\n6.2 This effect is the main reason Test Method G 51 can not\nbe used for general measurement of pH outside of that for\ncorrosion analysis. Test Method G 51 measures pH (an aque-\nous parameter) without adding any aqueous phase to the soil.\nThis results in excessive soil particle-pH probe contact that\noverestimates the activity of the hydrogen ions in solution and\nis therefore unacceptable for general soil analysis.\n6.3 The suspension effect can be mitigated by careful\nattention to 10.1.",
+          "bbox": [
+            42.55,
+            65.96,
+            294.07,
+            182.54
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00b0C\npH\n0\n7.0\n10\n6.9\n20\n6.9\n30\n6.8\n40\n6.8",
+          "bbox": [
+            368.56,
+            69.96,
+            503.06,
+            122.36
+          ],
+          "block_id": "b2_5",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9. Calibration of pH Meter\n9.1 Calibrate the pH meter using the acid potassium phtha-\nlate and phosphate buffer solutions. Adjustment of the pH\nmeter should follow the manufacturer\u2019s direction.",
+          "bbox": [
+            311.96,
+            128.55,
+            563.41,
+            179.19
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10. Procedure\n10.1 When making measurements with the pH electrode,\nplace the electrode into the partially settled suspension to\nmitigate the suspension effect.\n10.2 For both methods, begin with an air dried soil that has\nbeen sieved through a No. 10 sieve (2 mm holes) to remove the\ncoarser soil fraction. Air drying the soil is necessary to\naccomplish sieving and to control the amount of water present\nat the time of measurement.\n10.3  pH in Distilled Water \u2014For both methods, weigh out\napproximately 10 g of air dried soil. Place the soil into a glass\ncontainer and add approximately 10 mL of water. Mix thor-\noughly and let stand for 1 h.\n10.4  Method A \u2014Read pH on pH meter.\n10.5  Method B \u2014Read pH on pH paper.\n10.6  pH in 0.01 M Calcium Chloride Solution \u2014For both\nmethods weigh out approximately 10 g of air dried soil. Place\nthe soil into a glass container and add approximately 10 mL of\nthe 0.01  M  CaCl 2  solution. Mix thoroughly and let stand for 1\nh.\n10.7  Method A \u2014Read pH on pH meter.\n10.8  Method B \u2014Read pH on pH paper.\n10.9 The mixture should be at approximately room tempera-\nture (15 to 25\u00b0C) at the time of pH measurement.",
+          "bbox": [
+            311.95,
+            186.52,
+            563.45,
+            466.65
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Apparatus\n7.1  Method A, pH Meter \u2014Potentiometer equipped with\nglass-calomel electrode system. Follow the manufacturer\u2019s\ninstructions for the pH meter used. A silver/silver chloride\nelectrode system or similar is also acceptable.\n7.2  Method B, pH Paper \u2014pH paper sensitive to a pH range\nfrom 1 to 12, with resolution to the nearest 0.2 pH unit.",
+          "bbox": [
+            42.55,
+            188.98,
+            294.02,
+            274.04
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8. Reagents\n8.1  Purity of Reagents \u2014Reagent grade chemicals should be\nused in all tests. Unless otherwise indicated, it is intended that\nall reagents should conform to the speci\ufb01cations of the\nCommittee on Analytical Reagents of the American Chemical\nSociety, where such speci\ufb01cations are available. 8   Other grades\nmay be used, provided it is \ufb01rst ascertained that the reagent is\nof sufficient purity to permit its use without lessening the\naccuracy of the determination.\n8.2  Purity of Water \u2014All water used for this test method\nmust be ASTM Type III or better. Type III water is de\ufb01ned by\nSpeci\ufb01cation D 1193. It is prepared by distillation, ion ex-\nchange, reverse osmosis, or a combination thereof.\n8.3  Acid Potassium Phthalate Buffer Solution  (0.05  M )\u2014\nDissolve 10.21 g (dried 1 h at 105\u00b0C) of potassium phthalate in\nwater and dilute to 1 L. The pH of this solution should be 4.0\nat 20\u00b0C. Protect the solution against evaporation and against\ncontamination with molds. Replace the solution when mold is\nnoticed. The effect of temperature is as follows:",
+          "bbox": [
+            42.55,
+            280.57,
+            294.07,
+            503.33
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11. Report\n11.1 Report the pH of the soil to the \ufb01rst decimal place.\nSpecify which of the pH measurements is in water and which\nis in the calcium chloride solution. Also specify whether the\ndeterminations were made with Method A or Method B. If size\nfractions other than sieved through the No. 10 sieve are used,\nit must be stated in the report since the results may be\nsigni\ufb01cantly different.",
+          "bbox": [
+            311.95,
+            473.98,
+            563.46,
+            570.52
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u00b0C\npH\n5 to 37\n4.0",
+          "bbox": [
+            89.85,
+            505.49,
+            231.5,
+            523.65
+          ],
+          "block_id": "b2_3",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This illustrates that the pH of the solution does not change\nover the range in temperature from 5 to 37\u00b0C.\n8.4  Calcium Chloride Stock Solution  (1.0  M )\u2014Dissolve\n147 g of CaCl  2 * 2H 2 O in water in a 1-L volumetric \ufb02ask, cool,\ndilute to volume with water, and mix.\n8.5  Calcium Chloride Solution  (0.01  M )\u2014Dilute 20.0 mL\nof stock 1.0  M  CaCl 2  solution to 2 L with water. The pH of this\nsolution should be between 5 and 7.\n8.6  Phosphate Buffer Solution  (0.025  M )\u2014Dissolve 3.40 g\nof KH  2 PO 4  and 3.55 g of KH 2 HPO 4  in water and dilute to 1\nL. Dry salts 2 h at 130\u00b0C before use. The pH of this solution\nshould be 6.9 at 20\u00b0C. The effect of temperature is as follows:",
+          "bbox": [
+            42.55,
+            526.77,
+            294.03,
+            666.3
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12. Precision and Bias\n12.1  Precision :\n12.1.1  Within-Laboratory Precision \u2014The within laboratory\nstandard deviations for Method A are 0.031 (pH units) for the\nwater mixture and 0.139 9   (pH units) for the calcium chloride\nmixture. Therefore, results of two properly conducted tests in\nthe same or different laboratories should not differ by more\nthan 0.065 9   (pH units) for the water mixture and 0.389 pH units\nfor the calcium chloride mixture. The within-laboratory stan-\ndard deviations for Method B are 0.189 (pH units) for the water\nmixture and 0.212 9   (pH units) for the calcium chloride mixture.",
+          "bbox": [
+            311.95,
+            577.84,
+            563.44,
+            708.8
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8  Reagent Chemicals, American Chemical Society Speci\ufb01cations , American\nChemical Society, Washington, DC. For suggestions on the testing of reagents not\nlisted by the American Chemical Society, see  Analar Standards for Laboratory\nChemicals , BDH Ltd., Poole, Dorset, U.K., and the  United States Pharmacopeia\nand National Formulary , U.S. Pharmaceutical Convention, Inc. (USPC), Rockville,\nMD.\n9  These data satisfy the 1S and D2S requirements outlined in Practice C 670.",
+          "bbox": [
+            42.55,
+            685.21,
+            557.97,
+            742.32
+          ],
+          "block_id": "b2_10",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b2_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_11",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ],
+          "block_id": "img3_14"
+        },
+        {
+          "type": "text",
+          "content": "D 4972",
+          "bbox": [
+            295.27,
+            44.02,
+            330.65,
+            59.13
+          ],
+          "block_id": "b3_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Therefore, results of two properly conducted tests in the same\nor different laboratories should not differ by more than 0.53 9",
+          "bbox": [
+            42.55,
+            65.96,
+            294.03,
+            90.75
+          ],
+          "block_id": "b3_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12.1.2  Between-Laboratory Precision \u2014The between-\nlaboratory standard deviation has not been determined for\neither method. Subcommittee D18.22 is actively seeking data\nto evaluate the between laboratory precision of this test\nmethod.\n12.2  Bias \u2014There is no accepted reference value for this test\nmethod; therefore, bias cannot be determined.",
+          "bbox": [
+            311.96,
+            65.96,
+            563.44,
+            153.08
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(pH units) for the water mixture and 0.60 pH units for the\ncalcium chloride mixture.\n12.1.1.1 The precision of Method A presented was deter-\nmined by the National Technical Center of the United States\nDepartment of Agriculture. In their evaluation they used 174\nreplicates for the water mixture and 32 replicates in testing the\ncalcium chloride mixture.\n12.1.1.2 The precision of Method B presented was deter-\nmined by the United States Army Environmental Hygiene\nAgency. In their evaluation they used 25 replicates in testing\neach mixture.",
+          "bbox": [
+            42.55,
+            88.91,
+            294.05,
+            216.97
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13. Keywords",
+          "bbox": [
+            311.96,
+            163.78,
+            372.65,
+            177.6
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13.1 acidity; alkalinity; pH; reaction; soil",
+          "bbox": [
+            321.44,
+            180.64,
+            491.88,
+            193.95
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "REFERENCES",
+          "bbox": [
+            269.44,
+            242.41,
+            336.52,
+            256.23
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( 1 ) Garrels, R. M., and Christ, C. L.,  Solutions, Minerals, and Equilibria ,\nFreeman Cooper, San Francisco, CA, 1965.\n( 2 ) Greenland, D. J., and Hayes, M. H. B.,  The Chemistry of Soil\nProcesses , Wiley, New York, NY, 1981.\n( 3 ) Sposito, G.,  The Thermodynamics of Soil Solutions , Clarendon,\nOxford, United Kindom, 1981.",
+          "bbox": [
+            42.55,
+            267.59,
+            294.04,
+            328.8
+          ],
+          "block_id": "b3_6",
+          "font_size": 8.5,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( 4 ) Davies, J. T., and Rideal, E. K.,  Interfacial Phenomena , Academic,\nNew York, NY, 1963.\n( 5 ) Hunter, R. J.,  Zeta Potential in Colloid Science , Academic, New York,\nNY, 1981.\n( 6 ) Perrin, D. D., and Dempsey, B.,  Buffers for pH and Metal Ion Control ,\nChapman and Hall, London, United Kindom, 1974.",
+          "bbox": [
+            311.95,
+            267.6,
+            563.41,
+            328.8
+          ],
+          "block_id": "b3_7",
+          "font_size": 8.5,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SUMMARY OF CHANGES",
+          "bbox": [
+            242.01,
+            354.66,
+            363.97,
+            368.48
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This section identi\ufb01es location of changes to this practice since the last edition.",
+          "bbox": [
+            87.95,
+            378.02,
+            413.55,
+            391.33
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(1) Added Practice D 3740 and Terminology D 653 to Refer-\nenced Documents.\n(2) Added Section 3 on Terminology.",
+          "bbox": [
+            42.55,
+            402.72,
+            464.23,
+            427.5
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The American Society for Testing and Materials takes no position respecting the validity of any patent rights asserted in connection\nwith any item mentioned in this standard. Users of this standard are expressly advised that determination of the validity of any such\npatent rights, and the risk of infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            98.98,
+            439.89,
+            508.39,
+            466.45
+          ],
+          "block_id": "b3_11",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM Headquarters. Your comments will receive careful consideration at a meeting of the responsible\ntechnical committee, which you may attend. If you feel that your comments have not received a fair hearing you should make your\nviews known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            98.98,
+            477.31,
+            508.34,
+            520.83
+          ],
+          "block_id": "b3_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.\nIndividual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above address or at\n610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website (www.astm.org).",
+          "bbox": [
+            98.98,
+            531.69,
+            508.36,
+            558.25
+          ],
+          "block_id": "b3_13",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            300.73,
+            757.74,
+            305.22,
+            769.71
+          ],
+          "block_id": "b3_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_14",
+          "bbox": [
+            275.31,
+            43.79,
+            290.43,
+            58.69
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

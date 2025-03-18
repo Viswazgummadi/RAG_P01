@@ -1,0 +1,4230 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS 18001 : 2000
+(Redisignation of IS 15001 : 2000)
+Edition 1.1
+(2002-11)<<HEADING_END>>
+<<IMAGE_1>>
+[Image 1 contains text: Ada Ga — {allalles aod Sdallat
+cdddid [Adld xf tolled col 4 sil
+AMAA A silos]
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>OCCUPATIONAL HEALTH AND SAFETY
+MANAGEMENT SYSTEMS — SPECIFICATION
+WITH GUIDANCE FOR USE<<HEADING_END>>
+<<PARAGRAPH>>(Incorporating Amendment No.1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ICS 13.100<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BIS 2003<<PARAGRAPH_END>>
+<<HEADING level=3>>B U R E A U
+O F
+I N D I A N
+S T A N D A R D S
+MANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG
+NEW   DELHI   110002<<HEADING_END>>
+<<HEADING level=3>>Price Group 11<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Industrial Safety Sectional Committee CHD 8<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard was adopted by the Bureau of Indian Standards, after the draft finalized by
+the Industrial Safety Sectional Committee had been approved by the Chemical Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Health and safety is one of the most important aspects of an organization’s smooth and effective
+functioning. Good health and safety performance ensures an accident free industrial environment.
+With the continuous and untiring effort of various legislative authorities as well as NGOs, the
+awareness of Occupational Health and Safety (OH&S) has improved in the India considerably.
+Organizations have started attaching the same importance to achieve high OH&S performance as
+they do to other key aspects of their business activities. This demands adoption of a structured
+approach for the identification of hazards, their evaluation and control of risks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Considering this fact and a great demand from the industry for a comprehensive framework for
+OH&S, the Committee decided to formulate an Indian Standard on OH&S management systems.
+This standard intends to assist the organizations to develop a systematic approach to management
+of OH&S in such a way as to protect their employees and others whose health and safety may be
+affected by the organizations’ activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard also intends to improve OH&S performance of an organizations by providing the
+requirements and guidance for use. The OH&S management systems may be integrated with the
+management of other aspects of business performance in order to:
+a) minimize risk to employees and others;
+b) improve business performance; and
+c) assist organizations to establish a responsible image at the market place.<<PARAGRAPH_END>>
+<<PARAGRAPH>>There is no ISO standard on the subject.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In preparation of this standard considerable assistance has been derived from the following
+publications:
+a) BS 8800 : 1996 Guide to OH&S management systems; and
+b) AS/NZS 4804:1997 OH&S management systems — General guidance and principles,
+assessment and supporting techniques.<<PARAGRAPH_END>>
+<<PARAGRAPH>>While British and Australian/New Zealand documents are mainly guidelines, this standard
+intends to specify the requirements of OH&S management systems for certification purpose. Due
+consideration has been given in preparation of this standard for its use by certification bodies also.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The requirements of OH&S management systems have been prescribed in this standard. Annex A
+of this standard provides the guidance for use and correct interpretation and Annex B gives a
+comparison of requirements of this standard with those of ISO 9001 : 2000 and ISO 14001 : 1996.
+It is expected that this comparative chart will help the users in understanding the standard in a
+better way. Identification of hazard and assessment and control of risks form a major and
+important part of OH&S management systems. A general guideline describing the principles,
+approach and procedure of hazard identification and assessment and control of risks has been
+given in Annex C of this standard. The Committee intends to formulate a detailed standard on
+Code of practice for identification of hazard and assessment and control of risks in future to
+provide more details on this important subject.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Compliance with this standard by an organization does not confer its immunity from its legal
+obligations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The composition of the Technical Committee responsible for formulating this standard is given in
+Annex D.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This edition 1.1 incorporates Amendment No. 1 (November 2002). Side bar indicates modification
+of the text as the result of incorporation of the amendment.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>OCCUPATIONAL HEALTH AND SAFETY
+MANAGEMENT SYSTEMS — SPECIFICATION
+WITH GUIDANCE FOR USE<<HEADING_END>>
+<<HEADING level=3>>1 SCOPE<<HEADING_END>>
+<<HEADING level=3>>2 REFERENCES<<HEADING_END>>
+<<PARAGRAPH>>This standard prescribes requirements for an
+Occupational Health and Safety (OH&S)
+Management
+Systems,
+to
+enable
+an
+organization
+to
+formulate
+a
+policy
+and
+objectives, taking into account legislative
+requirements and information about significant
+hazards and risks, which the organization can
+control and over which it can be expected to
+have an influence, to protect its employees and
+others, whose health and safety may be affected
+by the activities of the organization. It does not
+itself state specific safety performance criteria.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The Indian Standards listed below contain
+provisions, which through reference in this
+text, constitute provisions of this Indian
+Standard. At the time of publication, the
+editions indicated were valid. All standards are
+subject to revisions, and parties to agreements
+based on this Indian Standard are encouraged
+to investigate the possibility of applying the
+most recent editions of the Indian Standards
+indicated below:<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS No.
+Title
+3786 : 1983
+Method of computation of
+frequency
+and
+severity
+rates for industrial injuries
+and
+classification
+of
+industrial accidents (  first
+revision  )
+IS/ISO 14001 : 1996Environmental
+management systems —
+Specification
+with
+guidance for use
+IS 14489 : 1998
+Code
+of
+practice
+on
+occupational
+safety
+and
+health audit<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard is applicable to any organization
+that wishes to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) implement, maintain and improve an
+OH&S management systems;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) assure itself of its conformance with its
+stated OH&S policy;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) demonstrate such conformance to others;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) seek certification/registration of its OH&S
+management systems by an external
+organization; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) make
+a
+self-determination
+and
+self-
+declaration of conformance with this
+standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>3 TERMINOLOGY<<HEADING_END>>
+<<PARAGRAPH>>For the purpose of this Indian Standard, the
+definitions given in IS/ISO 14001 and IS 14489
+shall apply in addition to the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All the requirements in this standard are
+intended to be incorporated into any OH&S
+management system. The extent of application
+will depend on such factors as the OH&S policy
+of the organization, the nature of its activities
+and the conditions in which it operates. This
+Indian Standard also provides informative
+guidance on the use of the specification in
+Annex A.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1 Accident<<HEADING_END>>
+<<PARAGRAPH>>Unplanned event giving rise to death, ill
+health, injury, damage or other losses to
+personnel or property.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2 Audit<<HEADING_END>>
+<<PARAGRAPH>>A
+systematic,
+documented,
+objective
+and
+independent
+examination
+to
+determine
+whether activities and related results conform
+to planned arrangements and whether these
+arrangements are implemented effectively and
+are suitable to achieve the organization’s
+objectives (  see   4.3.4  ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTES<<PARAGRAPH_END>>
+<<HEADING level=3>>1  For ease of use, the subclauses of this specification
+and Annex A have related numbers; thus, for example,
+4.3.3  and  A-3.3  both deal with ‘Legal and Other
+Requirements’.<<HEADING_END>>
+<<PARAGRAPH>>2  The guidance has been provided to ensure that
+managers who have already invested in learning to
+operate within the framework of either Quality
+Management Systems or Environmental Management
+Systems
+standards
+can
+readily
+understand
+the
+requirements of this standard and thereby improve
+OH&S management in their organization.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE—The
+word
+‘independent’
+here
+does
+not
+necessarily mean external to the organization.
+3.3 Continual Improvement<<HEADING_END>>
+<<PARAGRAPH>>Process of enhancing the OH&S management
+system, to achieve improvements in overall<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>OH&S performance, in line with organization’s
+OH&S policy.
+3.4 Hazard<<HEADING_END>>
+<<HEADING level=3>>3.14 Occupational Health and Safety
+Target<<HEADING_END>>
+<<PARAGRAPH>>A detailed performance requirement quantified
+wherever
+practicable
+pertaining
+to
+the
+organization, that arises from the health and
+safety objectives and that needs to be met in
+order to achieve those objectives.
+3.15 Occupational Health Surveillance<<PARAGRAPH_END>>
+<<HEADING level=3>>A source or a situation with a potential to cause
+harm in terms of human injury or ill health,
+damage
+to
+property,
+damage
+to
+the
+environment or a combination of these.
+3.5 Hazard Identification<<HEADING_END>>
+<<HEADING level=3>>Monitoring the health of people to detect signs
+or symptoms of work related ill health so that
+steps can be taken to eliminate, or reduce the
+probability of further deterioration.
+3.16 Rehabilitation<<HEADING_END>>
+<<HEADING level=3>>The process of recognizing a hazard in
+existence
+and
+defining
+its
+characteristic/impact.
+3.6 Incident<<HEADING_END>>
+<<HEADING level=3>>Unplanned event which has the potential to
+lead to accident.
+3.7 Interested Party<<HEADING_END>>
+<<HEADING level=3>>The managed process of maintaining injured or
+ill employees in, or returning them to suitable
+employment.
+3.17 Risk<<HEADING_END>>
+<<HEADING level=3>>Individual or group concerned with or affected
+by the OH&S performance of an organization.
+3.8 Non-conformance<<HEADING_END>>
+<<HEADING level=3>>The combination of frequency, or probability of
+occurrence and consequence of a specified
+hazardous event.
+3.18 Risk Analysis<<HEADING_END>>
+<<PARAGRAPH>>Any deviation from work standards, practices,
+procedure, regulations, management system
+requirements, etc, that could either directly or
+indirectly lead to injury or illness, damage or
+loss to property or a combination of these.
+3.9 Occupational Ill Health<<PARAGRAPH_END>>
+<<HEADING level=3>>A systematic use of available information to
+determine how often specified events may occur
+and magnitude of their likely consequences.
+3.19 Risk Assessment<<HEADING_END>>
+<<HEADING level=3>>Ill health that is judged to have been caused by
+or made worse by a person’s work activity or
+environment.
+3.10 Occupational Health and Safety
+Management Systems<<HEADING_END>>
+<<HEADING level=3>>The
+overall
+process
+of
+estimating
+the
+magnitude of risk and deciding whether the
+risk is tolerable.
+3.20 Safety<<HEADING_END>>
+<<PARAGRAPH>>That part of overall management system which
+includes organizational structure, planning
+activities,
+responsibilities,
+practices,
+procedures,
+processes
+and
+resources
+for
+developing, implementing, achieving, reviewing
+and maintaining the OH&S policy, and so
+managing the OH&S risks associated with the
+business of the organization.
+3.11 Occupational Health and Safety
+Objectives<<PARAGRAPH_END>>
+<<PARAGRAPH>>State in which the risk of harm to persons or
+damage to property is limited to a tolerable
+level.<<PARAGRAPH_END>>
+<<HEADING level=3>>4 OH&S MANAGEMENT SYSTEMS
+REQUIREMENTS<<HEADING_END>>
+<<HEADING level=3>>4.1 General Requirements<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish and maintain
+an
+OH&S
+management
+system,
+the
+requirements of which are described in the
+whole of  4 .
+An organization, which has an existing,
+documented and implemented management
+system(s) and wishes to implement an OH&S
+management system shall extend the system to
+address and integrate the requirements of this
+OH&S
+management
+systems.
+Other
+organizations
+shall
+introduce
+separately
+documented systems. In carrying out its OH&S
+commitment, an organization shall aim at:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Overall goals in terms of OH&S performance,
+arising from the OH&S policy that an
+organization sets itself to achieve, and which is
+quantified where practicable.
+3.42 Occupational Health and Safety
+Policy<<PARAGRAPH_END>>
+<<PARAGRAPH>>Statements by the organization of its intentions
+and principles in relation to its overall OH&S
+performance which provides a framework for
+its action and for setting its OH&S objectives
+and targets.
+3.13 Occupational Health and Safety
+Professional<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Developing the capability to balance and
+resolve conflicts between OH&S and other
+organizational objectives and priorities;
+and
+b) The alignment/integration of OH&S into
+the overall business management process.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A person, with expertise and qualifications in
+the assessment, evaluation and prevention or
+control of occupational risks, hazards or
+occupational ill health.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>c) setting, reviewing and publishing of
+OH&S objectives and targets even if only
+by internal notification;<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2 Commitment and Policy<<HEADING_END>>
+<<PARAGRAPH>>An organization shall demonstrate its OH&S
+policy and ensure commitment to its OH&S
+management system.
+4.2.1   Leadership and Commitment
+The
+top
+management
+shall
+define
+and
+demonstrate its leadership and commitment to
+OH&S by allocation of adequate resources to
+ensure continual improvement in its OH&S
+performance.
+All levels of an organization shall demonstrate
+commitment
+to
+OH&S
+for
+an
+OH&S
+management systems to be developed and
+implemented successfully.
+4.2.2   Initial OH&S Review
+The organization shall carry out an initial
+review of their existing arrangements for
+managing OH&S. The current position of an
+organization with regard to OH&S shall be
+established by means of an initial review of its
+current OH&S arrangements to:
+a) identify the gaps between any existing
+systems in place and the requirements of
+this standard;
+b) identify all hazards and risks associated
+with the organization’s activity;
+c) assess
+the
+level
+of
+knowledge
+and
+compliance with all OH&S standards and
+legislation;
+d) compare current arrangements with best
+practice
+and
+performance
+in
+the
+organization’s employment sector and
+other appropriate sectors;
+e) review past experience with incidents and
+results of any previous assessments,
+compensation experience, disruption, etc,
+associated with OH&S; and
+f) assess efficiency and effectiveness of
+existing resources devoted to OH&S
+management.
+Based on this information the organization
+shall plan the progressive implementation of
+the elements of the system.
+4.2.3   OH&S Policy
+The organization’s top management shall
+define, document, endorse and review its
+OH&S policy which is appropriate to the
+nature, scale and the hazards and risks of its
+activities. The top management shall ensure
+that the policy includes a commitment to:
+a) recognizing OH&S as an integral part of
+its business performance;
+b) achieving continual improvement in its
+OH&S performance, with commitment to
+compliance of relevant legal requirements
+and to other requirements to which the
+organization subscribes, as the minimum
+to ensure safety at work;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) place management of OH&S as a prime
+responsibility of the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) ensure its communication, understanding
+and maintenance at all levels in the
+organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f) ensure that employees at all levels receive
+appropriate training and are competent to
+carry out their duties and responsibilities;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) provide
+adequate
+and
+appropriate
+resources
+to
+implement
+the
+policy,
+communicate
+the
+policy
+to
+all
+its
+employees and to make it available to
+public.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3 Planning<<HEADING_END>>
+<<PARAGRAPH>>The planning
+process shall address the
+identification of significant hazards and the
+assessment and control of risks associated with
+the activities of the organization as well as any
+related legal requirements. The initial review
+of organization’s position shall provide the
+planning framework for the implementation of
+an OH&S management systems. Objectives,
+targets and performance indicators shall be
+established and plans made to achieve them.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3.1   Accountability and Responsibility<<HEADING_END>>
+<<PARAGRAPH>>Ultimate responsibility for OH&S shall rest
+with the top management. The organization
+shall
+define,
+designate,
+document
+and
+communicate
+OH&S
+responsibilities,
+accountabilities and authority to act and
+reporting
+relationships
+for
+all
+levels
+of
+functionaries including subcontractors and
+visitors. The organization shall also establish
+and maintain procedure that monitors and
+communicate
+any
+changes
+in
+designated
+responsibilities and accountabilities and the
+organization shall be able to respond in a
+timely and effective manner to changing or
+unusual circumstances or events.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization’s top management shall
+appoint at the senior management level specific
+management representative(s), with executive
+powers,
+who,
+irrespective
+of
+other
+responsibilities, shall
+have
+defined
+roles,
+responsibilities and authority for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) ensuring that OH&S management system
+requirements
+are
+established,
+implemented
+and
+maintained
+in
+accordance with this Indian Standard;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) reporting on the performance of OH&S
+management system to top management
+for review and as a basis for improvement
+of the OH&S management system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>When establishing and reviewing its objectives,
+an organization shall consider the legal and
+other requirements, its significant hazards and
+risks, its technological options and its financial,
+operational and business requirements and
+views of the interested parties. The objectives
+and targets shall be consistent with the OH&S
+policy including the commitment to safety at
+work place.
+Objectives and targets shall be regularly
+reviewed
+and
+revised
+based
+on
+past
+performance
+and
+in
+consultation
+with
+workplace personnel, OH&S professionals,
+insurers and other appropriate persons or
+groups.
+When the objectives and targets are set, the
+organization
+shall
+consider
+establishing
+measurable OH&S performance indicators.
+These indicators shall be used as a basis for an
+OH&S performance evaluation system and to
+provide information on both the OH&S
+management and operation systems.
+4.3.5   Initial and On-going Programme
+The organization shall establish and maintain
+programme(s) for achieving its objectives and
+targets. It shall include:
+a) designation
+of
+responsibility
+for
+achievement of objectives and targets at
+relevant functions and levels of the
+organization; and
+b) The means and time frame by which they
+are to be achieved.
+If a project relates to new developments and
+new or modified activities, products and
+services, programme(s) shall be amended
+appropriately, where relevant, to ensure that
+OH&S management applies to such projects.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3.2   Identification of Hazards and Assessment
+and Control of Risks
+The organization shall establish and maintain
+procedures to identify hazards and assess and
+control risks related to its activities over which
+it has control or influence, in order to
+determine those which have or can have
+significant
+impact
+over
+OH&S.
+The
+organization shall ensure that the significant
+hazards and risks are considered in setting its
+occupational health and safety objectives. The
+specific application of hazard identification and
+risk assessment and control procedure shall be
+part of the on-going planning process.
+4.3.2.1   Hazard identification
+The organization shall establish and maintain
+procedures for identification of hazards in all
+its activities and situations, that could give rise
+to the potential of injury, illness, death or
+damage/loss
+of
+property.
+The
+hazard
+identification shall consider:
+a) A type of injury or illness that is possible;
+and
+b) Situation or events that could give rise to
+the potential of injury, illness, damage or
+loss of property.
+4.3.2.2   Risk assessment and control
+The organization shall establish and maintain
+procedures for assessment and control of risks
+to determine the priorities of the level of risks
+of injury or illness or damage or loss of property
+associated with each identified hazards for the
+purpose of control. The priority for control shall
+increase as the initially established level of risk
+increases.
+The organization shall plan the management
+and control of those activities that can or may
+pose a significant risk on the health and safety
+of its employees and public at large.
+4.3.3   Legal and Other Requirements
+The organization shall establish and maintain
+procedures to identify, have access to and
+understand all legal and other requirements to
+which the organization subscribes and that are
+directly attributable to the OH&S aspects of its
+activities, products or services.
+The organization shall also keep track of legal
+and other requirements as well as the changes
+to these to maintain regulatory compliance. It
+shall
+ensure
+communication
+of
+relevant
+information on legal and other requirements to
+its employees at all times.
+4.3.4  Objectives,
+Targets
+and
+Performance
+Indicators
+The organization shall establish and maintain
+documented OH&S objectives and targets at its
+each relevant function and level.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4 Implementation and Operation<<HEADING_END>>
+<<PARAGRAPH>>4.4.1   Ensuring Capability
+4.4.1.1  Resources  —  human, physical and
+financial
+The appropriate human (including specialized
+skills), physical (including technology) and
+financial resources essential to implement and
+control organization’s OH&S management
+system and for achievement of its objectives,
+shall be defined and be made available. In
+allocating resources an organization shall track
+the benefits as well as the costs of their
+activities, products or services, incidents,
+rehabilitation and the like.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4.1.2   Training, awareness and competence
+The organization shall establish and maintain
+documented procedures to identify the training
+needs. The organization shall also establish
+and
+maintain
+procedures
+to
+identify<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>OH&S performance.
+Internal
+reporting
+procedures
+shall
+be
+established to cover:
+a) Incident occurring reporting;
+b) Non-conformance reporting;
+c) Health and safety performance reporting;
+and
+d) Hazard identification reporting.
+External
+reporting
+procedures
+shall
+be
+established to cover:
+a) Statutory reporting requirements; and
+b) Stakeholder reporting.
+4.4.2.3   Documentation
+The organization shall establish and maintain
+procedures in paper or on electronic forms to :
+a) describe the elements of the OH&S
+management
+systems
+and
+their
+interaction; and
+b) provide
+direction
+to
+related
+documentation.
+Documented procedures and work instructions
+shall be treated with productivity in mind and
+with health and safety matter integrated into
+each step. The design and review of such
+procedures shall be developed by competent
+people together with involvement from those
+required to perform the task(s).
+Employees shall be trained to be competent in
+the use of these procedures. The procedures
+shall be reviewed periodically, as well as when
+changes to equipment, processes, site or raw
+materials are taken place.<<PARAGRAPH_END>>
+<<PARAGRAPH>>competency standards and to meet them
+through a training programme. It shall ensure
+that all personnel, whose work/workplace
+involves significant hazard, receive appropriate
+training. The organization shall establish and
+maintain procedures to document any training
+provided to its employees and to evaluate its
+effectiveness. OH&S competencies shall be
+integrated into the organization’s business
+cycle
+through
+recruitment,
+selection
+and
+performance appraisal and training among
+others.
+It shall establish and maintain procedures to
+make its employees or members at each
+relevant function and level aware of:
+a) the importance of conformance with the
+OH&S policy and procedures and with
+requirements of the OH&S management
+system;
+b) the significant hazards and risks of their
+work activities and the benefits of
+improved OH&S performance;
+c) their
+roles
+and
+responsibilities
+in
+achieving conformance with OH&S policy
+and procedures and with the requirements
+of OH&S management systems; and
+d) the potential consequences of departure
+from
+specified
+operating
+procedures.
+Personnel performing the task which
+involves hazards and risks shall be
+competent on the basis of appropriate
+education, training and/or experience.
+4.4.2   Support Action
+4.4.2.1   Communication
+Organization shall establish and maintain
+procedures to ensure that pertinent OH&S
+information including significant risks and
+hazards are communicated to all the people in
+the organization as well as to the external
+interested parties.
+The organization shall thereby ensure the
+following means:
+a) Communicating
+the
+results
+from
+management systems monitoring, audit
+and management reviews to those within
+the organization who are responsible for
+and have a stake in the organization’s
+performance;
+b) Identifying and receiving relevant OH&S
+information from outside the organization;
+and
+c) Ensuring that the relevant information is
+communicated
+to
+people
+outside
+organization who are likely to be affected.
+4.4.2.2   Reporting
+The organization shall establish and maintain
+documented procedures for relevant and timely
+reporting
+of
+information
+required
+for
+monitoring and continual improvement of<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE—Such
+documented
+procedures
+and
+work
+instructions are commonly known as systems of work or
+standard operating procedures.
+4.4.2.4   Document control
+The organization shall establish and maintain
+procedures
+for
+controlling
+all
+documents
+required by this Indian Standard to ensure
+that:
+a) they can be located;
+b) they are periodically reviewed, revised as
+and when necessary and approved for
+adequacy by authorised personnel;
+c) the
+current
+versions
+of
+relevant
+documents are available at all locations
+where operations essential to the effective
+functioning of the OH&S management
+system are performed;
+d) obsolete documents are promptly removed
+from all points of issue and points of use,
+or otherwise assured against unintended
+use; and
+e) any obsolete documents retained for legal
+and/or knowledge preservation purposes
+are suitably identified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>4.4.3.2   Purchasing
+The organization shall establish and maintain
+procedures for purchasing of goods and services
+including
+maintenance
+procedures
+under
+contract to others to ensure that purchased
+goods,
+services,
+and
+products
+and
+subcontractors conform to the organization’s
+OH&S requirements.
+4.4.3.3   Contingency preparedness and response
+The organization shall establish and maintain
+procedures for contingency preparedness and
+response, to plan for contingency in advance
+and to periodically test these plans to allow an
+adequate response to occur during the actual
+contingency. While planning the procedure for
+contingency preparedness it shall consider
+significant events such as fire, explosion, toxic
+release or natural disasters that threaten the
+viability of the organization. Off-site and
+on-site emergency plans and procedures shall
+be developed and periodically tested and
+reviewed by the appropriate service provider
+for example fire brigade, police and the like.
+For large installation, emergency plans shall
+coordinate with municipal or state disaster
+planning authorities.
+The organization shall also establish and
+maintain procedures to mitigate the effects of
+such incidents on those directly suffering
+injury. These procedures shall include:
+a) Establishment of appropriate first aid
+facilities that are matched to the site
+hazards
+and
+availability
+of
+further
+assistance. Sites remote from medical
+assistance shall have first aid appropriate
+to stabilize any injury until transported to
+such medical assistance; and
+b) Process to rehabilitate injured employees
+by providing appropriate rehabilitation as
+soon as practicable after the injury occurs,
+so that recovery from the injury is
+expedited.
+4.4.3.4   Critical incident recovery plan
+The organization shall establish and maintain
+procedures for critical incident recovery plan
+(CIRP) to aid in-plant employee recovery as
+soon as possible after the cessation of the event.
+Only suitably qualified counselors shall be used
+to assist victims associated with a traumatic
+event.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Documentation shall be legible, dated (with
+dates of revision) and readily identifiable,
+maintained in an orderly manner and retained
+for
+a
+specified
+period.
+Procedures
+and
+responsibilities
+shall
+be
+established
+and
+maintained
+concerning
+the
+creation
+and
+modification of the various types of documents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4.2.5   Records and information management
+The organization shall establish and maintain
+procedures
+for
+records
+and
+information
+management to ensure effective and quick
+identification, collection, retrieval, indexing,
+retention and disposition of pertinent OH&S
+management system information. Records and
+information
+shall
+be
+maintained,
+as
+appropriate
+to
+the
+system
+and
+to
+the
+organization, to demonstrate conformance to
+the requirements of this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4.3   Operational Control
+The
+organization
+shall
+identify
+those
+operations and activities that are associated
+with the identified significant hazards and
+risks in line with its policy, objectives and
+targets. The organization shall plan these
+activities, including maintenance, in order to
+ensure that they are carried out under specified
+conditions by:
+a) establishing and maintaining documented
+procedures to cover situations where their
+absence could lead to deviations from the
+OH&S policy and the objectives and
+targets;
+b) stipulating operating criteria in the
+procedures; and
+c) establishing and maintaining procedures
+related to the identifiable significant
+hazards and risks of goods and services
+used
+by
+the
+organization
+and
+communicating relevant procedures and
+requirements
+to
+suppliers
+and
+subcontractors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4.3.1   Design and engineering
+The organization shall establish and maintain
+procedures to ensure that health and safety is
+considered at the initial design and planning
+phase to build risk controls in at this point. To
+ensure this, each stage of design cycle
+(development, review verification, validation
+and
+change)
+should
+incorporate
+hazard
+identification, risk assessment and risk control
+procedures. Appropriately competent people
+shall be allocated clear responsibilities to meet
+and verify health and safety requirements.
+Where the newly evaluated hazard cannot be
+eliminated or substituted for one that presents
+lower risks, engineering controls shall be
+adopted.
+When
+the
+product,
+process
+or
+workplace is redesigned this experience shall
+be considered in the design process.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — The CIRP allows the plant to minimise the
+time required to return to normal operations and to
+assist employees who are not injured but who have for
+example, witnessed an incident, to cope up with the
+trauma.
+4.5 Measurement and Evaluation<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.1   Inspection and Testing
+The organization shall establish and maintain
+procedures
+for
+planning
+and
+conducting<<HEADING_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>importance of the activity concerned and the
+results of previous audits. In order to be
+comprehensive the audit procedures shall cover
+the audit scope, frequency and methodologies,
+as well as the responsibilities and requirements
+of conducting audit and reporting results.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ongoing inspection, testing and monitoring on
+regular basis related to key characteristics of
+its operations and activities that can have
+significant hazards and risks. The frequency of
+such
+inspection
+and
+testing
+shall
+be
+appropriate to each characteristics/activities
+inspected, tested or monitored. The personnel
+involved in inspection, testing and monitoring
+shall have adequate skills and experience.
+Records of OH&S ongoing inspection, testing
+and monitoring (with details of both positive
+and negative findings) shall be maintained and
+be made available to relevant management,
+employees and subcontractors. Suitable testing
+equipment and procedures shall be used to
+ensure compliance to OH&S standards. Timely
+corrective actions
+shall
+be
+taken
+where
+inspection, testing and monitoring reveals
+non-conformity
+with
+OH&S
+requirements.
+Sufficient investigation shall be undertaken to
+identify both the immediate and underlying
+causes of any shortcomings. Findings as well as
+remedial action planned and in progress shall
+be analysed and reviewed. Equipment used for
+such inspection and testing shall be calibrated
+and maintained and records of this shall be
+retained
+according
+to
+the
+organization’s
+procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5.3  Non-conformance,
+Corrective
+and
+Preventive Actions
+The organization shall establish and maintain
+procedures
+for
+corrective
+and
+preventive
+actions
+in
+the
+light
+of
+the
+findings,
+non-conformance,
+conclusions
+and
+recommendations reached as a result of
+monitoring, audits and other reviews of the
+OH&S management system. The management
+shall
+ensure
+that
+these
+corrective
+and
+preventive
+actions
+are
+adequate
+and
+implemented and that there is systematic
+follow-up to ensure their effectiveness.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.6 Management Review<<HEADING_END>>
+<<PARAGRAPH>>The organization’s top management shall at
+intervals, that it determines, review the OH&S
+management system to ensure continuing
+suitability, adequacy and effectiveness. The
+management review process shall ensure that
+the necessary information is collected to allow
+management to carry out this evaluation. This
+review shall be documented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5.2   Internal Audit
+The organization shall establish and maintain
+procedures for periodic OH&S system audits to
+be carried out, in order to:
+a) determine whether or not the OH&S
+management system;
+i) conforms to planned arrangements for
+OH&S management system including
+the
+requirements
+of
+this
+Indian
+Standard
+and
+relevant
+legislative
+requirements;
+ii) has been properly implemented and
+maintained; and
+b) provide information on the results of
+audits to management.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The management review shall consider:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) the overall performance of the OH&S
+management systems;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) the performance of individual elements of
+the systems;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) the finding of audits;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) internal and external factors, such as
+changes
+in
+organizational
+structure,
+legislation pending, introduction of new
+technology, etc, and shall identify what
+action
+is
+necessary
+to
+remedy
+any
+deficiencies; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) adequacy of corrective and preventive
+action.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organizations audit programme, including
+any schedule, shall be based on the OH&S<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>ANNEX A
+(  Foreword , and  Clause  1 )<<HEADING_END>>
+<<HEADING level=3>>GUIDANCE FOR USE OF THE SPECIFICATION<<HEADING_END>>
+<<PARAGRAPH>>Keeping this in mind, the management system
+is best viewed as an organizing framework that
+should
+be
+continually
+monitored
+and
+periodically reviewed, to provide effective
+direction for an organization’s OH&S activities
+in response to changing internal and external
+factors.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-1 GENERAL REQUIREMENTS<<HEADING_END>>
+<<PARAGRAPH>>This Annex gives additional information on the
+requirements
+and
+is
+intended
+to
+avoid
+misinterpretation of the specification. This
+Annex only addresses the OH&S management
+system requirements contained in  4 .
+The introduction of Occupational Health and
+Safety (OH&S) management into the existing
+overall
+management
+system
+should
+be
+considered within a general management
+system model that incorporates the following
+principles (  see  Fig. 1 ).
+Principle 1 Commitment and Policy  — An
+organization should define its OH&S policy and
+ensure commitment to its OH&S management
+systems.
+Principle 2 Planning  — An organization
+should plan to fulfill its OH&S policy,
+objectives and targets.
+Principle 3
+Implementation
+and
+Operation  — For effective implementation, an
+organization should develop the capabilities
+and support mechanism necessary to achieve
+its OH&S policy, objectives and targets.
+Principle 4 Measurement and Evaluation
+— An organization should measure, monitor
+and evaluate its OH&S performance and take
+preventive and corrective action.
+Principle 5 Management Review  — An
+organization should regularly review and
+continually improve its OH&S management
+system, with the objective of improving its
+OH&S performance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As
+organizations
+grow
+in
+experience,
+procedures, programmes and technologies can
+be put in place to further improve OH&S
+performance. As OH&S management system
+matures, OH&S considerations should be
+integrated into all its business decisions.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-2 COMMITMENT AND POLICY<<HEADING_END>>
+<<HEADING level=3>>A-2.1 Leadership and Commitment<<HEADING_END>>
+<<PARAGRAPH>>Everyone should be aware of the influence that
+their actions and inaction can have, on the
+effectiveness of the system. They can also
+participate
+in
+the
+establishment
+and
+maintenance of the OH&S controls, as well as
+assisting in the planning.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Successful change can be accomplished by
+effective leadership in the areas of:
+a) determining the organization’s current
+position on OH&S;
+b) resource
+allocation
+including
+setting
+budgets, responsibilities, authority and
+accountability;
+c) coordinated management planning and
+agreed delegations; and
+d) decisions
+followed
+through
+and
+performance assessed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regular review of OH&S at senior management
+level
+reinforces
+its
+importance
+to
+the
+organization’s
+success
+in
+meeting
+its
+commercial and legal obligations.<<PARAGRAPH_END>>
+<<IMAGE_2>>
+[Image 2 contains text: COLLEC{IAG SC{IOU guq obeisyiou
+Cpeckiud guq jwh|GEwWweUrstioU
+wsnion \ sna
+— \ one \
+K6AIGM
+jules] arsine
+Coupuns whLoAsweur]
+<<HEADING level=3>>A-2.2 Initial OH&S Review<<HEADING_END>>
+<<PARAGRAPH>>Every organization will find that it has some
+elements of an OH&S management system in
+place. What is less common is the linking of
+these elements into a coordinated overall
+system for improvement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A useful starting point is to critically compare
+the basic intent of each element in this
+standard with management practices and
+procedures, which are currently being used in
+the organization. Many organizations have
+obsolete procedures and need to compare the
+requirements of this standard with what
+actually occurs in order to obtain a realistic
+assessment of the implementation task.
+F IG . 1 E LEMENTS   OF  H EALTH   AND  S AFETY
+M ANAGEMENT<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>c) other data an organization may hold on
+absenteeism,
+sick
+leave,
+industrial
+disputes and the like may provide indirect
+pointers
+to
+areas
+of
+poor
+OH&S
+management.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-2.2.1  Core elements which could be initially
+focussed on:
+a) clear
+management
+responsibility
+for
+OH&S;
+b) identification
+of
+all
+applicable
+legal
+requirements and their compliance;
+c) hazard identification and risk assessment,
+and what is being done about them;
+d) documentation of critical procedures;
+e) OH&S inspections of critical procedures
+and plant; and
+f) training.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-2.3 OH&S Policy<<HEADING_END>>
+<<PARAGRAPH>>The organization’s OH&S policy is a public
+statement signed by top management declaring
+its commitment and intent to manage its
+OH&S responsibilities. In publishing the policy
+the organization is sending a clear message
+that it has a vision for OH&S management
+within the whole organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other
+elements
+can
+be
+progressively
+implemented in accordance with organizational
+needs and priorities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+policy
+should
+be
+relevant
+to
+the
+organization’s overall vision and objectives. It
+should be dynamic and set the framework for
+continual improvement, especially in decision
+making. It should set out a programme of
+action for the whole organization, ensuring
+accountability and linking OH&S to the overall
+organizational values objectives and processes.
+The policy is implemented through planning.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-2.2.2  Some common techniques for initial
+review include:
+a) questionnaires;
+b) interviews with employees;
+c) checklists;
+d) direct inspection and measurement;
+e) assessments (internal and external);
+f) review of records; and
+g) comparison with similar organizations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This policy is intended to clearly tell employees,
+suppliers, customers and interested parties
+that OH&S is an integral part of all operations.
+Management being actively involved in the
+review and continual improvement of OH&S
+performance
+further
+reinforces
+this
+commitment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-2.2.3  External sources which may be able to
+help include:
+a) government agencies in relation to laws
+and permits;
+b) local or regional libraries or databases;
+c) other
+organizations
+for
+exchange
+of
+information;
+d) industry associations;
+e) larger customer organizations;
+f) suppliers of equipment; and
+g) professional help.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-2.3.1  The following questions can aid in
+establishing or rewriting an organization’s
+OH&S policy:
+a)
+Integration and relevance : Is the policy
+integral
+and
+relevant
+to
+the
+organization’s:
+i) mission
+statement,
+vision,
+core
+values and beliefs;
+ii) overall management system; and
+iii) activities, products and services.
+b)
+Accountability : Does the OH&S policy
+address accountability in terms of:
+i) capacity to assign/delegate, deliver,
+and
+review
+the
+policy’s
+commitments;
+ii) inclusion of OH&S accountability in
+all duty statements (reflecting the
+degree of legal responsibility);
+iii) setting of objectives and targets to
+minimize incidents, injury, illness
+and incidents; and
+iv) allocation of adequate resources to
+fulfill the aims of the policy.
+c)
+Consultation : Does the policy enable
+consultation with:
+i) employees;
+ii) line managers;
+iii) subcontractors;
+iv) suppliers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-2.2.4  Many organizations do not have a
+complete
+understanding
+of
+their
+legal
+responsibilities in relation to the many OH&S
+statutes, regulations, standards, codes of
+practice and guidance documents, which cover
+their area of operations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-2.2.5  Useful sources of information include:
+a) disease, incident and first aid records kept
+by the organization or by industry
+associations, governments and the like;
+b) workers
+compensation
+experience.
+Insurance companies are often able to
+provide feedback on an organization’s
+claims experience and the breakdown of
+the components of the insurance premium
+and
+how
+these
+compare
+within
+an
+industry group; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>programme. People are more likely to embrace
+change if it is not imposed upon them.
+At all levels of the organizations, people should
+be:
+a) Responsible for the health and safety of
+those they manage, themselves and others
+with whom they work;
+b) Aware of the responsibility for the health
+and safety of people who may be affected
+by the activities they control, for example
+subcontractors and public; and
+c) Aware of the influence that their action or
+inaction can have on the effectiveness of
+the OH&S management systems.
+A-3.1.2  Senior
+management
+should
+demonstrate, their commitment being actively
+involved in the continual improvement of
+OH&S performance.
+While ultimate responsibility for OH&S rests
+with the employer, the following also need to be
+ensured:
+a) A person at the senior management level
+should
+be
+assigned
+particular
+responsibility for ensuring that the OH&S
+management system is implemented and
+performs to expectations, in all locations
+within the organizations;
+b) To
+recognize
+that
+knowledge
+and
+experience throughout the workforce is a
+valuable resource and it should act to
+encourage and delegate responsibilities
+and authorities for the development and
+implementation
+of
+the
+OH&S
+management system for all key functional
+areas; and
+c) A defined system of implementing and
+communicating
+any
+change
+of
+responsibility and authority.
+A-3.2 Identification of Hazard and
+Assessment and Control of Risk<<PARAGRAPH_END>>
+<<PARAGRAPH>>v) clients; and
+vi) independent experts.
+d)  Prevention : Has the policy adopted a
+preventive approach (  see   4.5.3  ) ?
+e)
+Compliance : Does the policy include a
+statement of commitment to compliance
+or due diligence to be taken with :
+i) relevant OH&S legislation;
+ii) associated regulations; and
+iii) other criteria that may not always
+have legal compliance but have
+evidentiary status.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-3 PLANNING<<HEADING_END>>
+<<PARAGRAPH>>The
+initial
+review
+(  see
+4.2.2  )
+of
+the
+organization’s position provides a planning
+framework for the implementation of the
+OH&S management system. While during
+initial review all the hazards and risks are
+identified, in the process of planning the
+significant hazards and risks are recognized.
+Objectives, targets and performance indicators
+are established and plans are also made to
+achieve them.
+Planning needs to address schedules, resources
+and
+responsibilities
+for
+achieving
+the
+organization’s OH&S objectives and targets.
+Such planning (and resulted plans) can cover a
+number of areas. For example:
+a) Plans to manage and control the initial
+implementation of an OH&S management
+system;
+b) Specific
+OH&S
+plans
+required
+for
+managing OH&S risks;
+c) Contingency plans required as part of the
+organization’s emergency preparedness to
+meet foreseeable emergencies as well as
+plans to mitigate their effects (that is
+critical incident recovery, first aid and
+clean up);
+d) Plans required to meet objectives and
+targets
+in
+measuring
+performance,
+undertaking audits and reviewing the
+system; and
+e) Response plans for dealing with corrective
+action identified as part of the incident
+investigation process or following the
+identification of non-conformances.
+The level and complexity of planning should
+commensurate with the size, complexity and
+nature of the organization and the risks it has
+to manage. In smaller organizations many of
+these types of plans may be combined.
+A-3.1 Accountability and Responsibility<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hazard identification and risk assessment and
+control should be taken into account when
+plans are formulated to meet an organization’s
+OH&S policy. All identified hazards are
+assessed to determine the level of risk, which is
+a measurement of the probability and possible
+consequence of injury and illness resulting from
+exposure to hazard. The final step involves risk
+control where risk is treated to reduce its level.
+A-3.2.1   Hazard Identification
+Tools used to assist in the identification of
+hazards include:
+a)  Consultation  — People who may have
+experience in aspects of the job that they
+like least and may lead to hazardous
+activities.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-3.1.1  Improving health and safety is most
+effective when people from all levels of the
+organization are encouraged to participate in
+the development and implementation of the<<HEADING_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>lead to different consequences depending on the
+sequence of exposure events. Hence any risk
+level needs to be assessed separately for each
+chosen sequence of events.
+To combine the following three components of
+any risk in assessing its level :
+a) Choose a specific consequence or outcome
+severity for one possible sequence of
+events
+involving
+the
+hazard
+under
+consideration. Other possible sequences
+with different possible consequences need
+to be assessed separately. The number of
+persons harmed and the nature of their
+injuries/illness affects the estimation of
+the consequence or outcome severity;
+b) Determine the exposure for the chosen
+sequence, that is how often (frequency);
+how long duration of the affected persons
+exposed to the particular hazard; and
+c) Estimate the probability, likelihood or
+chance that the chosen scenario will lead
+to
+the
+specific
+consequences
+being
+considered.
+Every
+scenario
+that
+is
+considered for any particular hazard has
+its own specific risk level. The integrity
+and effectiveness of any existing risk
+control measures will need to be included
+in estimating probability.<<PARAGRAPH_END>>
+<<IMAGE_3>>
+[Image 3 contains text: {v6 LeK(2)
+
+COUfLO]
+
+eteb 3
+{ye psssiq(2) (ye Liex(2)
+IQGUgiA yeeee2e]
+<<PARAGRAPH>>F IG . 2 H AZARD  I DENTIFICATION  A SSESSMENT   AND
+C ONTROL   OF  R ISK<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)  Inspection — A physical inspection of the
+work environment.<<PARAGRAPH_END>>
+<<HEADING level=3>>Risk
+Level
+=  Consequence
+The outcome
+severity
+(injury/illness)
+of one scenario<<HEADING_END>>
+<<HEADING level=3>>×  Exposure  ×
+Frequency
+and duration
+of exposure
+of persons to
+the chosen
+hazard<<HEADING_END>>
+<<HEADING level=3>>Probability
+Likelihood or
+chance that
+the chosen
+sequence and
+consequence
+will occur.<<HEADING_END>>
+<<PARAGRAPH>>c)  Illness and injury records — Records of
+past incidents involving injury and illness
+highlight sources of potential harm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)  Information / specialist
+advice —
+The
+identification of some hazards will require
+specialist
+advice,
+research
+and
+information.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Elimination/substitution
+is
+a
+permanent
+solution and should be attempted in the first
+instance. The hazard is either eliminated
+altogether or substituted by one that presents a
+lower risk. This could involve the elimination of
+a hazardous process or substance or the
+substitution of a toxic substance with a less
+toxic substance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)  Task analysis — By breaking a task down
+into its individual elements hazards
+associated with the task can be identified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f) Formal
+hazard
+analysis
+systems
+for
+example HAZOP/HAZAN.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE—IS 3786 prescribes methods of computation of
+frequency and severity rates for industrial injuries and
+classification of industrial accidents. This Indian
+Standard may also be useful in the process of
+identification of hazard.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE—For the purpose of identification of hazard and
+assessment and control of risks a guideline has been
+given in Annex C of this standard.
+A-3.3 Legal and Other Requirements<<HEADING_END>>
+<<PARAGRAPH>>In maintaining regulatory compliance, an
+organization should identify and understand
+regulatory requirements applicable to its
+activities, products or services. Regulations
+cover several aspects such as:
+a) those specific to the activity (for example
+confined spaces regulations);
+b) those
+specific
+to
+the
+organization’s
+products or services;
+c) those
+specific
+to
+the
+organization’s
+industry;
+d) general OH&S laws; and
+e) authorizations, licenses and permits.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-3.2.2   Risk Assessment and Control
+In order to carry out risk assessment, the level
+of risk is determined first.
+Establishing the level of a risk requires clear
+specification of the actual components of the
+risk being considered, for example the specific
+scenario of sequence of events including the
+nature of consequences to be considered, the
+exposure to the chosen hazard, finally the
+probability or likelihood of that scenario taking
+place. (In doing so the existing controls are
+determined when exposure is assessed).
+Any scenario involving particular hazard can<<PARAGRAPH_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>Several sources can be used to identify OH&S
+regulations and ongoing changes, including:<<PARAGRAPH_END>>
+<<HEADING level=3>>indicator
+percentage of manual
+handling injuries per
+year
+(Objective : Reduce the percentage
+of manual handling injuries by 20
+percent from the previous year in
+the next 12 months.)<<HEADING_END>>
+<<PARAGRAPH>>i) all levels of government;
+ii) industry associations or groups;
+iii) commercial databases; and
+iv) professional services.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To
+facilitate
+keeping
+track
+of
+legal
+requirements, an organization can establish
+and maintain a list of all laws and regulations
+pertaining to its activities, products or services
+and the same should be updated on a regular
+basis.
+A-3.4 Objectives, Targets and Performance
+Indicators<<PARAGRAPH_END>>
+<<PARAGRAPH>>When considering their technological options,
+an organization may consider the use of the
+best available technology where economically
+viable, cost effective and judged appropriate.
+A-3.5 Initial and On-going Programme<<PARAGRAPH_END>>
+<<PARAGRAPH>>The creation and use of one or more
+programmes is a key element to the successful
+implementation of an OH&S management
+system. The programme should describe how
+the organization’s objectives and targets will be
+achieved, including time, skill and personnel
+responsible for implementing the organization’s
+OH&S
+policy.
+This
+programme
+may
+be
+subdivided to address specific elements of the
+organization’s
+operations.
+The
+programme
+should include an OH&S review for new
+activities.
+The
+programme
+may
+include,
+where
+appropriate and practical, consideration of
+planning, design, production, marketing and
+disposal stages. This may be undertaken for
+both current and new activities, product or
+services. For products this may address design,
+materials,
+production
+processes,
+use
+and
+ultimate disposal. For new installation or
+significant modification of processes this may
+address
+planning,
+design,
+construction,
+commissioning
+operation
+and
+at
+the
+appropriate
+time
+as
+determined
+by
+the
+organization, de-commissioning.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Objectives state what is intended to be
+accomplished and targets define a performance
+level timeframe.
+Objectives should be aimed at broad level
+improvements in the OH&S performance and
+the targets should be qualified wherever
+practicable in the following terms:
+a)  Attributes—  things which are major
+(handling
+injuries
+and
+adequately
+guarded machine);
+b)  Scale — against which the attributes can
+be measured;
+c)  Goal — describing what is to be achieved;
+and
+d)  Time scale — in which it is to be achieved.
+Performance indicators are the means by which
+it is measured whether expected outcomes meet
+objectives. There are measures such as rates,
+ratios or indices which reflect how well the
+OH&S management system or its elements are
+performing.
+Combining targets and performance indicators
+produces
+objectives
+that
+are
+specific,
+measurable,
+achievable,
+realistic
+and
+time-bound.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-4 IMPLEMENTATION AND
+OPERATION<<HEADING_END>>
+<<HEADING level=3>>A-4.1 Ensuring Capability<<HEADING_END>>
+<<PARAGRAPH>>A-4.1.1  Resources —
+Human ,
+Physical
+and
+Financial
+It
+should
+be
+recognised
+that
+effective
+management of OH&S requires the support
+and commitment of the employees, and that the
+knowledge and experience of the work force can
+be a valuable resource in the development and
+operation of the OH&S management system.
+A-4.1.1.1  In organizing the implementation
+and effective management of its OH&S policy
+an organization should:
+a) allocate
+adequate
+resources
+commensurate with its size and nature;
+b) identify the competencies required at all
+levels
+within
+the
+organization
+and
+organize any necessary training;
+c) make arrangements for the effective
+communication of OH&S information;<<PARAGRAPH_END>>
+<<PARAGRAPH>>for example  objective
+Implement an OH&S
+management system
+target
+Full
+implementation
+within six months
+indicator
+percentage
+of
+departmental meeting
+audit criteria
+(Objective: All business units to
+fully meet system audit criteria
+within 6 months.)<<PARAGRAPH_END>>
+<<HEADING level=3>>or
+objective
+Reduce
+injuries
+associated
+with
+manual handling
+target
+20 percent reduction
+from previous year<<HEADING_END>>
+<<PARAGRAPH>>12<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>harm or injury in their work environment
+including
+physical,
+chemical,
+ergonomic,
+radiation, biological and psychological hazards.
+They should have an understanding of these
+hazards
+as
+they
+relate
+to
+their
+work
+environment and be able to recognize and take
+action to prevent work practices or activities
+likely to leave to incidents.
+A-4.1.2.2  OH&S competency standards should
+be developed by:
+a) using
+existing
+industry
+competency
+standard;
+b) examining job or position descriptions;
+c) analysing work tasks;
+d) inspection
+and
+audits
+of
+hazards
+identification and risk analysis; and
+e) reviewing incident reports.
+The organization should develop training
+programme after the assessment of current
+capability against the required competency
+profile. An organization should also establish
+and maintain documented procedures for
+evaluation of training provided to its workers
+and its effectiveness.
+A-4.1.2.3  Generally
+a
+health
+and
+safety
+training programme should cover but are not
+limited to the following aspects:
+a) Health
+and
+safety
+policy
+of
+the
+organization;
+b) Way in which health and safety is
+organized in the workplace;
+c) Health and safety procedures in the
+organization;
+d) Specific hazards and risk controls;
+e) OH&S legislation; and
+f) Emergency procedures.
+A-4.1.2.4  A training programme may need to
+address a number of target groups including:
+a) senior management;
+b) line managers/supervisors;
+c) employees;
+d) those with specific responsibilities (first
+aid, fire, elected health and safety
+representatives);
+e) subcontractors;
+f) operators who require certificates under
+legislation; and
+g) site visitors.
+A-4.1.2.5  Training records should normally
+include:
+a) information about those who have been
+trained;
+b) what the training course covered;
+c) when the training took place;
+d) who provided the training; and
+e) feed back from trainees.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) make effective arrangements for the
+provisions
+of
+specialist
+advice
+and
+services;
+e) make
+effective
+arrangements
+for
+handicapped, aged, visitors and Forcight
+employees and/or special category of
+employees; and
+f) make effective arrangements for employee
+concentration and active involvement.
+A-4.1.1.2  The resource base, structure, and size
+of organizations may impose constraints on
+implementation. In order to overcome these
+constraints
+external
+health
+and
+safety
+resources may need to be utilized. Such
+resources might include:
+a) shared technology and experience from
+larger client organization;
+b) cooperative
+approaches
+to
+develop
+industry specific guidance material and
+strategies;
+c) support from industry and employer
+associations or principal subcontractors
+and owners;
+d) assistance from government health and
+safety organizations;
+e) the use of consultants and the collective
+engagement of consultants;
+f) provision of advice and training from
+suppliers;
+g) assistance
+provided
+by
+workers’
+compensation insurance agents;
+h) attendance at health and safety seminars;
+and
+j) manually
+beneficial
+support
+from
+universities and other research centers.
+Organizations
+should
+focus
+on
+utilizing
+cooperative
+strategies
+to
+implement
+and
+maintain an effective OH&S management
+system.
+A-4.1.2   Training ,  Awareness and Competence
+The effective implementation and maintenance
+of an OH&S management system is dependent
+on the competencies and training of an
+organization’s people.
+A-4.1.2.1  The
+top
+management
+of
+an
+organization
+should
+demonstrate
+its
+commitment to OH&S through consultation
+with and where appropriate, its employees and
+other relevant individual(s) or groups in the
+development,
+implementation,
+and
+maintenance
+of
+its
+OH&S
+management
+systems. The objectives and targets should be
+understood and supported by the organization’s
+employees and they should be encouraged to
+accept the importance of their achievements
+both in terms of the organization’s OH&S
+performance
+and
+the
+benefits,
+to
+the
+environment in which they work. Employees
+should be made aware of exposure to possible<<PARAGRAPH_END>>
+<<PARAGRAPH>>13<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>A-4.1.2.6  OH&S training is typically provided
+at certain key times in an operational cycle
+including:
+a) at induction for new employees;
+b) when employees are transferred to new
+jobs;
+c) on
+movement
+into
+managerial
+or
+supervisory positions;
+d) on engagement of subcontractors;
+e) when modification in the system is carried
+out; and
+f) after a time gap as a refresh.
+A-4.2 Support Action<<PARAGRAPH_END>>
+<<PARAGRAPH>>Effective reporting should cover the positive
+steps the organization is taking to identify
+hazards and control risks and can include
+reports:
+a) of levels of conformance with procedures;
+b) on performance against targets;
+c) on improvements made;
+d) on
+underlying
+reasons
+for
+incident
+occurrences;
+e) on results of safety inspections and audits;
+f) on health monitoring; and
+g) of work places monitoring.
+A-4.2.3   Documentation
+Documentation is an important element in
+enabling an organization to implement a
+successful OH&S management system. It is
+also important in assembling and retaining
+OH&S knowledge, but it is important that
+documentation is kept to
+the
+minimum
+required for effectiveness and efficiency.
+A-4.2.3.1  Organizations should ensure that
+sufficient documentation is available to enable
+OH&S plans to be fully implemented and is
+proportional to their needs.
+A-4.2.3.2  Operational processes and procedures
+should
+be
+defined
+and
+appropriately
+documented and updated as necessary. The
+organization should clearly define the various
+types of documents, which establish and specify
+effective operational procedures and control.
+A-4.2.3.3  The existence of OH&S management
+systems documentation supports employee
+awareness of what is required to achieve the
+organization’s OH&S objectives and enables
+the evaluation of the system and OH&S
+performance.
+A-4.2.3.4  The degree and quality of the
+documentation will vary depending on the size
+and complexity of the organization. Where
+elements of the OH&S management systems
+are integrated with an organization’s overall
+management system the OH&S documentation
+should
+be
+integrated
+into
+existing
+documentation.
+The
+organizations
+should
+consider
+organizing
+and
+maintaining
+a
+summary of the documentation to:
+a) collate the OH&S policy, objectives and
+targets;
+b) describe the means of achieving OH&S
+objectives and targets;
+c) document the key roles, responsibilities
+and procedures;
+d) provide
+direction
+to
+related
+documentation
+and
+describe
+other
+elements
+of
+the
+organization’s
+management system, where appropriate;
+and
+e) demonstrate that the OH&S management<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-4.2.1   Communication
+Organizations should implement a procedure
+for receiving documenting and responding to
+relevant
+information
+and
+requests
+from
+interested parties. The procedure may include
+a
+dialogue
+with
+interested
+parties
+and
+consideration of their relevant concern. In some
+circumstances, response to interested parties’
+concerns may include relevant information
+about the hazards and risks associated with the
+organization’s operations. These procedures
+should also address necessary communication
+with public authorities regarding emergency
+planning
+and
+other
+relevant
+issues.
+Organizations should also have a system to
+communicate
+relevant
+OH&S
+information
+including objectives and targets and any
+change in delegation of responsibility to its own
+employees.
+A-4.2.1.1  Commonly used methods of internal
+communication include:
+a) bulletins;
+b) news letters;
+c) notice boards;
+d) signage;
+e) videos;
+f) minutes/action notes of the meetings;
+g) team briefings; and
+h) hard copy or electronic mail.
+A-4.2.1.2  Commonly used methods of external
+communication includes:
+a) annual reports;
+b) publications;
+c) inserts in industry publications;
+d) paid advertising;
+e) telephone inquiry services;
+f) submissions to government; and
+g) websites.
+A-4.2.2   Reporting
+Traditionally reporting has focused on lost-time
+injuries and not the management system
+established to control risks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>14<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>system elements appropriate for the
+organization are implemented.
+A-4.2.4  Document Control
+OH&S documents communicate standards and
+regulate action. They should be current,
+comprehensive and issued by an authoritative
+source.
+The organization should ensure that:
+a) documents
+can
+be
+identified
+with
+appropriate
+organization,
+division,
+function, activity or contact person;
+b) documents
+are
+periodically
+reviewed,
+revised as necessary and approved by
+authorized personnel prior to issue;
+c) the current version of relevant documents
+are available at all locations where
+operations
+essential
+to
+the
+effective
+functioning of the system are performed;
+and
+d) obsolete documents are promptly removed
+from all points of issue.
+Documents can be in any medium as long as
+they
+are
+accessible,
+useful
+and
+easily
+understood.
+A-4.2.5   Records and Information Management
+Records are a means by which the organization
+can demonstrate compliance with the ongoing
+OH&S management systems and should cover :
+a) external (for example legal) and internal
+(that
+is
+OH&S
+performance)
+requirements;
+b) work permits;
+c) OH&S risks and hazards;
+d) OH&S training activity;
+e) inspection, calibration and maintenance
+activity;
+f) monitoring data;
+g) details incidents (of Reporting above),
+complaints and follow-up action;
+h) product
+identification
+including
+composition;
+j) supplier and subcontractor information;
+and
+k) OH&S audits and reviews.
+The effective management of these records is
+essential to the successful implementation of
+the OH&S management system. The key
+features
+of
+good
+OH&S
+information
+management include; means of identification,
+collection,
+indexing,
+filing,
+storage,
+maintenance,
+retrieval,
+retention
+and
+disposition of pertinent OH&S management
+system documentation and records. OH&S
+records should be legible, identifiable and
+traceable to the activity, product or service
+involved. OH&S records should be stored and
+maintained in such a way that they are readily<<PARAGRAPH_END>>
+<<PARAGRAPH>>retrievable and protected against damage,
+deterioration or loss. Their retention times
+should be established and recorded.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-4.3 Operational Control<<HEADING_END>>
+<<PARAGRAPH>>It is important that OH&S, in its broadest
+sense,
+is
+fully
+integrated
+across
+the
+organization
+and
+into
+all
+its
+activities,
+whatever the size or nature of its work. In
+organizing for the implementation of the policy
+and the effective management of OH&S, the
+organization should make arrangements to
+ensure that activities are carried out safely and
+in accordance with arrangements and should:
+a) define the allocation of responsibilities
+and accountabilities in the management
+structure;
+b) ensure
+people
+have
+the
+necessary
+authority
+to
+carry
+out
+their
+responsibilities; and
+c) allocate
+adequate
+resources
+commensurate with its size and nature.
+Some typical activities, which are covered
+under operational control are:
+a) production;
+b) maintenance;
+c) storage;
+d) handling;
+e) packaging; and
+f) transportation.
+However this list is not an exhaustive list and
+may be suitably modified depending upon the
+activities of the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-4.3.1   Design and Engineering
+Engineering controls involve some structural
+change to the work environment or work
+process to place a barrier to, or interrupt the
+transmission path between the worker and the
+hazard. This may include machine guards,
+isolation or enclosure for hazards, the use of
+extraction ventilation and manual handling
+devices.
+Prospective hazard involving processes or
+services may be identified at the design stage in
+consultation with various professionals, for
+example engineers, architects, doctors or health
+and safety professionals. The risk associated
+with these hazards may be controlled by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Appropriate design, siting and selection of
+premises including :
+i) proposed use, foreseeable uses and
+future maintenance;
+ii) construction
+in
+a
+manner
+incorporating best health and safety
+practices; and
+iii) checking
+compliance
+to
+contract
+specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>15<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>equipment and services; and
+c) that
+their
+contract
+binds
+their
+subcontractors to ensuring that OH&S
+requirements will be met, and includes
+verification provisions for inspections,
+testing,
+auditing,
+reviewing
+and
+documentation.
+A-4.3.2.4  The organization needs to ensure that
+personnel responsible for reviewing OH&S
+aspects of contracts for goods and services have
+suitable OH&S skills and experience. The
+review system should include procedures
+verifying that purchased goods and services
+conform
+to
+specified
+requirements.
+The
+organization may also use the identification,
+assessment and control approach and may
+involve those directly affected employees,
+OH&S
+clients,
+subcontractors
+while
+introducing goods and services into the
+workplace.
+Purchasing documentation should:
+a) list preferred suppliers;
+b) show
+the
+decision
+making
+process,
+including risk assessment through to
+receipt of purchased goods/services; and
+c) be retained as part of the organization’s
+records.
+A-4.3.3  Contingency
+Preparedness
+and
+Response
+Emergency plans should include:
+a) installation or availability of suitable
+warning and alarm systems tested at
+regular intervals;
+b) emergency
+organization
+and
+responsibilities;
+c) a list of key personnel;
+d) details of emergency services (for example
+fire
+brigade,
+medical
+services,
+spill
+clean-up services);
+e) an internal and external communication
+plan;
+f) training
+plans
+and
+testing
+for
+effectiveness;
+g) emergency rescue equipment available
+and maintained in good working order;
+and
+h) conducting emergency and fire drill
+periodically for testing the effectiveness of
+the plan.
+A-4.3.4   Critical Incident Recovery Plan
+The CIRP should cover:
+a) responsibilities,
+including
+coordination
+and initiation;
+b) defusing where those involved in the
+trauma can discuss the event immediately
+afterwards in a confidential atmosphere;
+c) de-briefing, designed to assist employees
+use their own abilities to overcome
+emotional effects of serious incidents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Appropriate design and selection of plant
+including :
+i) the
+compilation
+of
+technical
+standards as well as human factors
+relating
+to
+installation,
+use,
+maintenance, decommissioning and
+dismantling and disposal (including
+on-going waste disposal); and
+ii) health and safety data collected when
+plant is being selected for purchase.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-4.3.2   Purchasing
+The organization needs to ensure that a policy
+has been developed for the employment of
+subcontractors who undertake work on the
+employer’s premises or assets, or who carry out
+work under the supervision and control of the
+employer.
+The organization also needs to satisfy itself
+that its policy, plans and procedures for
+subcontractors have been communicated to line
+managers, supervisors and other employees to
+ensure they are aware of their role and
+responsibilities
+in
+the
+management,
+supervision and control of subcontractors.
+A-4.3.2.1  The organizations should maintain a
+register of preferred subcontractors that have
+established and maintained effective OH&S
+systems and practices.
+A-4.3.2.2  The
+organizations
+should
+select
+subcontractors on their ability to meet the
+organization’s
+OH&S
+requirements.
+A
+subcontractor’s
+ability
+to
+meet
+these
+requirements can be assessed in accordance
+with:
+a) their OH&S policy;
+b) project workplans and work method
+statements;
+c) competency;
+d) registration
+and
+licenses
+(where
+applicable);
+e) agreement to comply with the employers
+OH&S policy for subcontractors;
+f) verification (by inspection and tests) that
+work areas, work methods, materials,
+plant and equipment comply with health
+and
+safety
+legislation,
+regulations,
+standards and codes; and
+g) identification and allocation of human,
+technical resources adequate to meet
+those requirements.
+A-4.3.2.3  Organization should be capable of
+demonstrating not only their own commitment
+to OH&S and how they intend to ensure
+compliance
+with
+the
+organization’s
+requirements, but also:
+a) that their subcontractors and suppliers
+are selected on the basis of their ability to
+comply with OH&S requirements;
+b) how
+they
+interface
+with
+their
+subcontractors/suppliers
+of
+materials,<<PARAGRAPH_END>>
+<<PARAGRAPH>>16<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>d) counseling, where further therapy may be
+required on an ongoing basis. Assistance
+may also have to be provided to the
+families of directly or indirectly affected
+victims; and
+e) legal and insurance requirement for
+example
+interference
+without
+loss
+adjuster approval can invalidate the
+insurance policy.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-5.3 Non Conformance, Corrective and
+Preventive Action<<HEADING_END>>
+<<PARAGRAPH>>In establishing and maintaining procedures for
+investigating and correcting non-conformance,
+the organization should include these basic
+elements:
+a) Identifying
+the
+cause
+of
+the
+nonconformance;
+b) Identifying
+and
+implementing
+the
+necessary corrective action;
+c) Implementing
+or
+modifying
+controls
+necessary to avoid repetition of the
+nonconformance; and
+d) Recording
+any
+changes
+in
+written
+procedures resulting from the corrective
+action.
+Depending on the situation, this may be
+accomplished rapidly and with a minimum of
+formal planning or it may be a more complex
+and
+long-term
+activity.
+The
+associated
+documentation should be appropriate to the
+level of corrective action.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-5 MEASUREMENT AND EVALUATION<<HEADING_END>>
+<<HEADING level=3>>A-5.1 Inspection and Testing<<HEADING_END>>
+<<PARAGRAPH>>An organization should measure, monitor and
+evaluate its OH&S performance, and take
+preventive and corrective action.
+Where appropriate, monitoring schemes for
+significant hazards should be in place. Broadly,
+such hazards may be classified as being either
+of the following:
+a) Physical, for example noise, radiation,
+extremes of temperature; or
+b) Chemical, for example toxic, flammable or
+explosive.
+A-5.1.1  Monitoring may take the following
+forms:
+a) Environmental, for example flammable
+gases.
+b) Personal, for example noise dosimetry,
+personal respirable dust sampling.
+c) Biological, for example heavy metals in
+blood or urine.
+d) Measurement of health outcomes, for
+example audiometry and spirometry.
+Procedures should be in place for action when
+results do not conform with exposure standards
+or limits or show abnormal trends.
+Due care should be taken and procedure should
+be in place for calibration of inspection and
+testing equipment.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-6 MANAGEMENT REVIEW<<HEADING_END>>
+<<PARAGRAPH>>The organization shall review at appropriate
+intervals the OH&S system so as to ensure
+continuing suitability, adequacy and to ensure
+continuing
+suitability,
+adequacy
+and
+effectiveness. The results of such review should
+be documented as well as published if the
+organization has a commitment to do so.
+Management reviews shall generally include
+but not limited to :
+a) assessment of the internal audit results;
+b) review of corrective actions;
+c) review of suggested changes;
+d) monitoring of the system; and
+e) review of policy, objectives and targets.
+Management review is a cornerstone of the
+management system providing an opportunity
+for senior management to regularly review the
+operation of the system and its continuing
+suitability in the face of change and to make
+adjustments to build upon and improve its
+effectiveness.
+Typically the review would be conducted 3, 6 or
+12 monthly.
+Some organizations prefer to incorporate the
+review into a regular senior management
+meeting to build on the principle that OH&S
+management should be integrated into line
+management activities.
+Some
+organizations,
+recognizing
+the
+importance of employee involvement in the
+process, choose to use the mechanism of the
+central workplace committee where senior
+management and employee representative
+members conduct the periodic review.<<PARAGRAPH_END>>
+<<HEADING level=3>>A-5.2 Internal Audit<<HEADING_END>>
+<<PARAGRAPH>>The audit programme and procedure should
+cover:
+a) activities and areas to be considered in
+audits;
+b) frequency of audits;
+c) responsibilities associated with managing
+and conducting audits;
+d) communication of audit results;
+e) auditor competence; and
+f) how audits will be conducted.
+Audits may be performed by personnel from
+within the organization and/or external persons
+selected by the organization. In either case, the
+persons conducting the audit should be in a
+position to do so impartially and objectively.<<PARAGRAPH_END>>
+<<PARAGRAPH>>17<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>Yet again others prefer to hold separate
+management review meetings, with suitable
+participants, where no other business will
+distract from the review process.<<PARAGRAPH_END>>
+<<PARAGRAPH>>OH&S performance is gathered from employees
+and other relevant stakeholders. Equally
+employees and other stakeholders should be
+kept informed of changes and improvements
+flowing from the review process.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is important to ensure that feedback on<<PARAGRAPH_END>>
+<<PARAGRAPH>>18<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>ANNEX B<<HEADING_END>>
+<<PARAGRAPH>>(  Foreword  )<<PARAGRAPH_END>>
+<<HEADING level=3>>COMPARISON OF IS 18001 : 2000 WITH ISO 9001 : 2000 AND ISO 14001 : 1996<<HEADING_END>>
+<<HEADING level=3>>ISO 14001 Elements
+IS 18001 Elements
+ISO 9001 Elements<<HEADING_END>>
+<<HEADING level=3>>4.1 General Requirements 4.1 General Requirements
+4.1 General Requirements<<HEADING_END>>
+<<HEADING level=3>>4.2 Commitment and
+Policy<<HEADING_END>>
+<<HEADING level=3>>4.2.1   Leadership and
+Commitment
+5 Management Responsibility
+5.1 Management Commitment
+8.5.1  Continual Improvement<<HEADING_END>>
+<<HEADING level=3>>4.2.2   Initial OH&S Review<<HEADING_END>>
+<<HEADING level=3>>4.2 Environmental Policy
+4.2.3   OH&S Policy
+5.3 Quality Policy<<HEADING_END>>
+<<HEADING level=3>>4.3 Planning
+4.3 Planning
+5.4 Planning
+7.1 Planning of Product
+Realization<<HEADING_END>>
+<<HEADING level=3>>4.4.1   Structure and
+Responsibility
+4.3.1   Accountability and
+Responsibility
+5.5.1  Responsibility and Authority
+5.5.2  Management Representative<<HEADING_END>>
+<<HEADING level=3>>4.3.1   Environmental Aspects
+4.3.2   Identification of
+Hazards and Assessment and
+Control of Risks<<HEADING_END>>
+<<HEADING level=3>>4.3.2.1   Hazard identification<<HEADING_END>>
+<<HEADING level=3>>4.3.2.2   Risk assessment and
+control<<HEADING_END>>
+<<HEADING level=3>>4.3.2   Legal and Other
+Requirements
+4.3.3   Legal and Other
+Requirements
+5.2 Customer Focus
+7.2.1  Determination of
+Requirements Related to the
+Product<<HEADING_END>>
+<<HEADING level=3>>4.3.3   Objectives and Targets
+4.3.4   Objectives, Targets and
+Performance Indicators
+5.4.1  Quality Objectives<<HEADING_END>>
+<<HEADING level=3>>4.3.4   Environmental
+Management Programme
+4.3.5   Initial and On-going
+Programme
+5.4.2  Quality Management
+System Planning<<HEADING_END>>
+<<HEADING level=3>>4.4 Implementation and
+Operation
+4.4 Implementation and
+Operation<<HEADING_END>>
+<<HEADING level=3>>4.4.1   Ensuring Capability<<HEADING_END>>
+<<PARAGRAPH>>19<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ISO 14001 Elements           | IS 18001 Elements             | ISO 9001 Elements                  |
+|:-----------------------------|:------------------------------|:-----------------------------------|
+| 4.1 General Requirements     | 4.1 General Requirements      | 4.1 General Requirements           |
+|                              | 4.2 Commitment and            |                                    |
+|                              | Policy                        |                                    |
+|                              | 4.2.1 Leadership and          | 5 Management Responsibility        |
+|                              | Commitment                    | 5.1 Management Commitment          |
+|                              |                               | 8.5.1 Continual Improvement        |
+|                              | 4.2.2 Initial OH&S Review     |                                    |
+| 4.2 Environmental Policy     | 4.2.3 OH&S Policy             | 5.3 Quality Policy                 |
+| 4.3 Planning                 | 4.3 Planning                  | 5.4 Planning                       |
+|                              |                               | 7.1 Planning of Product            |
+|                              |                               | Realization                        |
+| 4.4.1 Structure and          | 4.3.1 Accountability and      | 5.5.1 Responsibility and Authority |
+| Responsibility               | Responsibility                | 5.5.2 Management Representative    |
+| 4.3.1 Environmental Aspects  | 4.3.2 Identification of       |                                    |
+|                              | Hazards and Assessment and    |                                    |
+|                              | Control of Risks              |                                    |
+|                              | 4.3.2.1 Hazard identification |                                    |
+|                              | 4.3.2.2 Risk assessment and   |                                    |
+|                              | control                       |                                    |
+| 4.3.2 Legal and Other        | 4.3.3 Legal and Other         | 5.2 Customer Focus                 |
+| Requirements                 | Requirements                  | 7.2.1 Determination of             |
+|                              |                               | Requirements Related to the        |
+|                              |                               | Product                            |
+| 4.3.3 Objectives and Targets | 4.3.4 Objectives, Targets and | 5.4.1 Quality Objectives           |
+|                              | Performance Indicators        |                                    |
+| 4.3.4 Environmental          | 4.3.5 Initial and On-going    | 5.4.2 Quality Management           |
+| Management Programme         | Programme                     | System Planning                    |
+| 4.4 Implementation and       | 4.4 Implementation and        |                                    |
+| Operation                    | Operation                     |                                    |
+|                              | 4.4.1 Ensuring Capability     |                                    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>ISO 14001 Elements
+IS 18001 Elements
+ISO 9001 Elements<<HEADING_END>>
+<<HEADING level=3>>4.4.1   Structure and
+Responsibility
+4.4.1.1   Resources — Human,
+physical and financial
+6 Resource Management
+6.1 Provision of Resources
+6.2 Human Resources
+6.3 Infrastructure
+6.4 Work Environment<<HEADING_END>>
+<<HEADING level=3>>4.4.2   Training, Awareness
+and Competence
+4.4.1.2   Training, awareness
+and competence
+6.2.2  Competence ,  Awareness and
+Training<<HEADING_END>>
+<<HEADING level=3>>4.4.2   Support Action<<HEADING_END>>
+<<HEADING level=3>>4.4.3   Communication
+4.4.2.1   Communication
+5.5.3  Internal Communication
+7.2.3  Customer Communication<<HEADING_END>>
+<<HEADING level=3>>4.2.2.2   Reporting<<HEADING_END>>
+<<HEADING level=3>>4.4.4   Environmental
+Management System
+Documentation<<HEADING_END>>
+<<HEADING level=3>>4.4.2.3   Documentation
+4.2 Documentation
+Requirement
+4.2.1  General
+4.2.2  Quality Manual<<HEADING_END>>
+<<HEADING level=3>>4.4.5 Document Control
+4.4.2.4   Document control
+4.2.3  Control of Documentation<<HEADING_END>>
+<<HEADING level=3>>4.5.3   Records
+4.4.2.5   Records and
+information management
+4.2.4  Control of Records<<HEADING_END>>
+<<HEADING level=3>>4.4.6   Operational Control
+4.4.3   Operational Control
+7 Product Realization
+7.5 Product and Service
+Provision<<HEADING_END>>
+<<HEADING level=3>>4.4.3.1   Design and
+engineering
+7.3 Design and Development<<HEADING_END>>
+<<HEADING level=3>>4.4.3.2   Purchasing
+7.4 Purchasing<<HEADING_END>>
+<<HEADING level=3>>4.4.7   Emergency
+Preparedness and Response
+4.4.3.3   Contingency
+preparedness and response
+8.3  Control of Non-conforming
+Product<<HEADING_END>>
+<<HEADING level=3>>4.4.3.4   Critical incident
+recovery plan<<HEADING_END>>
+<<HEADING level=3>>4.5 Checking and
+Corrective Action
+4.5 Measurement and
+Evaluation
+8 MEASUREMENT,
+ANALYSIS AND
+IMPROVEMENT<<HEADING_END>>
+<<PARAGRAPH>>4.5.1   Monitoring and
+Measurement
+4.5.1   Inspection and Testing
+7.6 Control of Monitoring and
+Measuring Devices
+8.2 Monitoring and
+Measurement
+8.2.1  Customer Satisfaction
+8.2.3  Monitoring and
+Measurement of Process
+8.2.4  Monitoring and
+Measurement of Product
+8.4 Analysis of Data<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.4   Environmental
+Management System Audit
+4.5.2   Internal Audit
+8.2.2  Internal Audit<<HEADING_END>>
+<<HEADING level=3>>4.5.2   Non-conformance and
+Corrective and Preventive
+Action<<HEADING_END>>
+<<HEADING level=3>>4.5.3   Non-conformance,
+Corrective and Preventive
+Actions<<HEADING_END>>
+<<HEADING level=3>>8.3 Control of Non-conforming
+Product
+8.5.2  Corrective Action
+8.5.3  Preventive Action<<HEADING_END>>
+<<HEADING level=3>>4.6 Management Review
+4.6 Management Review
+5.6 Management Review<<HEADING_END>>
+<<PARAGRAPH>>20<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ISO 14001 Elements        | IS 18001 Elements            | ISO 9001 Elements               |
+|:--------------------------|:-----------------------------|:--------------------------------|
+| 4.4.1 Structure and       | 4.4.1.1 Resources — Human,   | 6 Resource Management           |
+| Responsibility            | physical and financial       | 6.1 Provision of Resources      |
+|                           |                              | 6.2 Human Resources             |
+|                           |                              | 6.3 Infrastructure              |
+|                           |                              | 6.4 Work Environment            |
+| 4.4.2 Training, Awareness | 4.4.1.2 Training, awareness  | 6.2.2 Competence, Awareness and |
+| and Competence            | and competence               | Training                        |
+|                           | 4.4.2 Support Action         |                                 |
+| 4.4.3 Communication       | 4.4.2.1 Communication        | 5.5.3 Internal Communication    |
+|                           |                              | 7.2.3 Customer Communication    |
+|                           | 4.2.2.2 Reporting            |                                 |
+| 4.4.4 Environmental       | 4.4.2.3 Documentation        | 4.2 Documentation               |
+| Management System         |                              | Requirement                     |
+| Documentation             |                              | 4.2.1 General                   |
+|                           |                              | 4.2.2 Quality Manual            |
+| 4.4.5 Document Control    | 4.4.2.4 Document control     | 4.2.3 Control of Documentation  |
+| 4.5.3 Records             | 4.4.2.5 Records and          | 4.2.4 Control of Records        |
+|                           | information management       |                                 |
+| 4.4.6 Operational Control | 4.4.3 Operational Control    | 7 Product Realization           |
+|                           |                              | 7.5 Product and Service         |
+|                           |                              | Provision                       |
+|                           | 4.4.3.1 Design and           | 7.3 Design and Development      |
+|                           | engineering                  |                                 |
+|                           | 4.4.3.2 Purchasing           | 7.4 Purchasing                  |
+| 4.4.7 Emergency           | 4.4.3.3 Contingency          | 8.3 Control of Non-conforming   |
+| Preparedness and Response | preparedness and response    | Product                         |
+|                           | 4.4.3.4 Critical incident    |                                 |
+|                           | recovery plan                |                                 |
+| 4.5 Checking and          | 4.5 Measurement and          | 8 MEASUREMENT,                  |
+| Corrective Action         | Evaluation                   | ANALYSIS AND                    |
+|                           |                              | IMPROVEMENT                     |
+| 4.5.1 Monitoring and      | 4.5.1 Inspection and Testing | 7.6 Control of Monitoring and   |
+| Measurement               |                              | Measuring Devices               |
+|                           |                              | 8.2 Monitoring and              |
+|                           |                              | Measurement                     |
+|                           |                              | 8.2.1 Customer Satisfaction     |
+|                           |                              | 8.2.3 Monitoring and            |
+|                           |                              | Measurement of Process          |
+|                           |                              | 8.2.4 Monitoring and            |
+|                           |                              | Measurement of Product          |
+|                           |                              | 8.4 Analysis of Data            |
+| 4.5.4 Environmental       | 4.5.2 Internal Audit         | 8.2.2 Internal Audit            |
+| Management System Audit   |                              |                                 |
+| 4.5.2 Non-conformance and | 4.5.3 Non-conformance,       | 8.3 Control of Non-conforming   |
+| Corrective and Preventive | Corrective and Preventive    | Product                         |
+| Action                    | Actions                      | 8.5.2 Corrective Action         |
+|                           |                              | 8.5.3 Preventive Action         |
+| 4.6 Management Review     | 4.6 Management Review        | 5.6 Management Review           |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>ANNEX C<<HEADING_END>>
+<<PARAGRAPH>>(  Clause  A-3.2.1 )<<PARAGRAPH_END>>
+<<HEADING level=3>>GUIDELINES FOR HAZARD IDENTIFICATION AND ASSESSMENT
+AND CONTROL OF RISK<<HEADING_END>>
+<<PARAGRAPH>>OH&S risk assessments. Their main purpose is
+to determine whether planned or existing
+controls are adequate. The intention is that
+risks should be controlled before harm could
+occur.
+For many years OH&S risk assessments have
+been carried out usually on an informal basis.
+It is now recognized that risk assessment are a
+key
+foundation
+for
+pro-active
+OH&S
+management and that systematic procedures
+are necessary to ensure their success.
+A risk assessment based on a participative
+approach
+provides
+an
+opportunity
+for
+management and the work force to agree that
+an organization’s OH&S procedures:
+a) are based on shared perceptions of
+hazards and risks;
+b) are necessary and workable; and
+c) will succeed in preventing accidents.
+C-2.3 Pitfalls and Solutions<<PARAGRAPH_END>>
+<<HEADING level=3>>C-1 APPLICATION<<HEADING_END>>
+<<PARAGRAPH>>All employers and self-employed people have a
+legal duty to assess the risks from their work
+activities. The risk assessment procedure
+described in this standard is intended to be
+used:
+a) for situations where hazards appear to
+pose a significant threat and it is
+uncertain whether existing or planned
+controls are adequate in principle or in
+practice; and
+b) by
+organizations
+seeking
+continuous
+improvement in their OH&S management
+systems, in addition to minimum legal
+requirements.
+The full procedure described in this standard is
+not necessary or cost-effective when it is quite
+clear from preliminary study that risks are
+trivial, or a previous assessment has shown
+that, existing or planned controls:
+a) conform to the legal requirements as well
+as established standards;
+b) are appropriate for the tasks; and
+c) are, or will be, understood and used by
+everyone concerned.
+Here no further action is required other than to
+ensure, that controls continue to be used.
+Small, low risk organizations in particular
+should be highly selective in the risks that they
+choose to assess in detail.
+Effort developed for assessment of trivial risks
+or for evaluation of standard controls will lead
+to collection of more information that can
+possibly be used, and to situations where
+important facts are lost in a mass of spurious
+documentation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Poorly planned assessments, carried out in the
+brief that they are bureaucratic impositions,
+will waste time and change nothing. Moreover,
+organizations may get bogged down in detail,
+where completion of assessment proforma
+becomes an end in itself. Risk assessment
+should provide an inventory for action and form
+the basis for implementing control measures.
+Potential risk assessors may have become
+complacent. People who are too close to
+situations
+may
+no
+longer
+perceive
+and
+recognize hazards, or perhaps judge risks as
+trivial because to their knowledge no one has
+been harmed. The aim should be that everyone
+tackles risk assessments with a fresh pair of
+eyes and a questioning approach.
+Risk assessment should be carried out by
+competent people with practical knowledge of
+the work activities, preferably with colleagues
+from another part of the organization, who may
+have
+greater
+objectivity.
+A
+worthwhile
+approach, whenever possible, is to train small
+teams to carry out assessments.
+Ideally,
+everyone
+should
+contribute
+to
+assessments that relate to them. For example,
+they should tell assessors what they think
+about the need for and feasibility of particular
+risk
+controls.
+In
+larger
+organizations
+a
+competent person, usually from within the
+organization, should coordinate and guide the
+assessors’ work. Specialist advice may need to
+be sought.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-2 OVERVIEW
+C-2.1 Basic Steps<<HEADING_END>>
+<<PARAGRAPH>>The
+following
+steps
+are
+followed
+in
+identification of hazard and assessment and
+control of risk:
+a) identify hazards;
+b) estimate the risk (the likelihood and
+severity of harm) from each hazardous
+event; and
+c) decide if the risk is tolerable (for this
+purpose a tolerable risk criteria should be
+evolved
+which
+should
+take
+into
+consideration the legal requirements and
+other norms in that activity).
+C-2.2 Necessity<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE—Pitfall of simple risk concept is that it can not
+distinguish high probability low consequence events
+from low probability high consequence events.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Employers are legally obliged to carry out<<PARAGRAPH_END>>
+<<PARAGRAPH>>21<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>C-3 PRINCIPLE
+C-3.1  Figure 3 shows the principle of risk
+assessment. The steps are outlined below and
+described fully in clauses  C-4 ,  C-5  and  C-6 .<<HEADING_END>>
+<<HEADING level=3>>NOTE — The word ‘tolerable’ here means that risk has
+been reduced to the lowest level that is reasonably
+practicable.
+C-3.3 Risk Assessment Requirements<<HEADING_END>>
+<<PARAGRAPH>>If risk assessment is to be useful in practice
+organizations should:
+a) appoint
+a
+senior
+member
+of
+the
+organization to promote and manage the
+activity;
+b) consult with everyone concerned; discuss
+what is planned to be done and obtain
+their comments and commitment;
+c) determine risk assessment training needs
+for
+assessment
+personnel/teams
+and
+implement
+a
+suitable
+training
+programme;
+d) review adequacy of assessment; determine
+whether the assessment is suitable and
+sufficient; that is to say, adequately
+detailed and rigorous; and
+e) document
+administrative
+details
+and
+significant findings of the assessment.
+It is generally not necessary to make precise
+numerical calculation of risk. Complex methods
+for quantified risk assessment are normally
+required only where the consequences of failure
+could be catastrophic. Risk assessment in major
+hazard industries is related to the approach
+required in other workplaces, but in most
+organizations much simpler subjective methods
+are appropriate.
+The assessment of risks to health associated
+with exposure to toxic substance and harmful
+energies
+may
+require,
+for
+example,
+measurements of airborne dust concentrations
+or noise exposure.<<PARAGRAPH_END>>
+<<IMAGE_4>>
+[Image 4 contains text: scoou bygu
+Keales sgedngca of
+scoop bysu
+BLebSLe Li2eKx COusLo]
+fOJELIpje
+Declge if LleK te
+[QGHCI{A pyssige
+C]82e2lfA 2AOLK Scare]
+<<PARAGRAPH>>F IG . 3 T HE  P ROCESS   OF  R ISK  A SSESSMENT<<PARAGRAPH_END>>
+<<PARAGRAPH>>C-3.2  The following criteria are necessary for
+organizations to carry out effective risk
+assessment:
+a)  Classify work activities : prepare a list of
+work
+activities
+covering
+plant,
+raw
+materials/chemicals handled, premises,
+people
+and
+procedures,
+and
+gather
+information about them;
+b)  Identify hazards : identify all hazards
+relating to each work activity. Consider
+who might be harmed and how; what
+might be damaged and how;
+c)  Determine
+risk :
+make
+a
+subjective
+estimate of risk associated with each
+hazard assuming that planned or existing
+controls are in place. Assessors should
+also consider the effectiveness of the
+controls and the consequences of their
+failure;
+d)  Decide if risk is tolerable : judge whether
+planned or existing OH&S precautions (if
+any) are sufficient to keep the hazard
+under
+control
+and
+meet
+legal
+requirements;
+e)  Prepare risk control action plan  (  if
+necessary  ): prepare a plan to deal with
+any issues found by the assessment to
+require attention. Organizations should
+ensure that new and existing controls
+remain in place and are effective; and
+f)  Review adequacy of action plan : re-assess
+risks on the basis of the revised controls
+and check that risks will be tolerable.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-4 PROCEDURE<<HEADING_END>>
+<<HEADING level=3>>C-4.1 General<<HEADING_END>>
+<<PARAGRAPH>>The subclause describes the factor that an
+organization should consider when planning
+the risk assessment. Attention is drawn to the
+need to refer to relevant regulations and
+guidance
+to
+ensure
+that
+specific
+legal
+requirements are met.
+The risk assessment process described here
+covers all OH&S hazards. It is better to
+integrate assessment for all hazards, and not
+carry out separate assessment for health
+hazards, manual handling machinery hazards
+and so on. If assessment is carried out
+separately, using different methods, ranking
+risk control priorities is more difficult separate
+assessment
+may
+also
+lead
+to
+needless
+duplication.
+The following aspects of risk assessment need
+to be considered carefully at the outset:
+a) Design of a simple risk assessment
+proforma (  see   C-4.2  );<<PARAGRAPH_END>>
+<<PARAGRAPH>>22<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>b) Criteria for classifying work activities and
+information needed about each work
+activity (  see   C-4.3  and  C-4.4  );
+c) Method
+of
+identification
+and
+categorization hazards (  see   C-5.1  );
+d) Procedures
+for
+making an informed
+determination of risk (  see   C-5.1  );
+e) Words to describe estimated risk levels
+(  see  Tables 1 and 2 );
+f) Criteria for deciding whether risks are
+tolerable: whether planned or existing
+control
+measures are adequate (  see
+C-6.1  );
+g) Preferred methods for risk control (  see
+C-6.2  );
+h) Time scales for implementing remedial
+action (where necessary) (  see  Table 2 );
+and
+j) Criteria for reviewing adequacy of action
+plan (  see   C-6.3  ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>C-4.4 Work Activity Information
+Requirements
+Information required for each work activity
+should but are not limited to include items from
+the following:
+a) Tasks being carried out, their duration
+and frequency;
+b) Location(s) where the work is carried out;
+c) Who normally/occasionally carries out the
+tasks;
+d) Who else may be affected by the work (for
+example
+visitors,
+subcontractors,
+the
+public);
+e) Training, that personnel have received
+about the tasks;
+f) Written
+systems
+of
+work
+and/or
+permit-to-work procedures prepared for
+the tasks;
+g) Plant and machinery that may be used;
+h) Powered hand tools that may be used.
+j) Manufacturers’ or suppliers’ instructions
+for operation and maintenance of plant
+machinery and powered hand tools;
+k) Size, shape, surface character and weight
+of materials that might be handled;
+m) Distance and heights of the place where
+materials have to be moved by hand;
+n) Services used (for example compressed
+air);
+p) Substances used or encountered during
+the work;
+q) Physical form of substances used or
+encountered (fume, gas, vapour, liquid,
+dust/powder, solid);
+r) Content and recommendations of safety
+data sheets relating to substances used or
+encountered;
+s) Relevant acts, regulations and standards
+relating to the work being done, the plant
+and machinery used, and the materials
+used or encountered;
+t) Control measures believed to be in place;
+u) Available monitoring data gained as a
+result of information from within and
+outside
+the
+organization,
+incident,
+accident
+and
+ill-health
+experience
+associated with the work being done,
+equipment and substances used; and
+v) Finding of any existing assessments
+relating to the work activity.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-4.2 Risk Assessment Proforma<<HEADING_END>>
+<<PARAGRAPH>>Organizations
+should
+prepare
+a
+simple
+proforma that can be used to record the
+findings of an assessment, typically covering:
+a) work activity;
+b) hazard(s);
+c) controls in place;
+d) personnel at risk;
+e) likelihood of harm;
+f) severity of harm;
+g) risk level;
+h) action
+to
+be
+taken
+following
+the
+assessment; and
+j) administrative details, for example name
+of assessor, date, etc.
+Organizations should develop their overall risk
+assessment procedure and may need to carry
+out trials and continually review the system.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-4.3 Classification of Work Activities<<HEADING_END>>
+<<IMAGE_5>>
+[Image 5 contains text: C]S22{A MOLK ScqrArgie2]
+<<PARAGRAPH>>A necessary preliminary to risk assessment is
+to prepare a list of work activities, to group
+them in a rational and manageable way, and to
+gather necessary information about them. It is
+vital to include, for example, infrequent
+maintenance tasks, as well as day-to-day
+production work. Possible ways of classifying
+work activities include:
+a) geographical areas within/outside the
+organization’s premises;
+b) stages in the production process, or in the
+provision of a service;
+c) planned and reactive work; and
+d) defined tasks (for example driving).<<PARAGRAPH_END>>
+<<HEADING level=3>>C-5 ANALYSING RISK
+C-5.1 Identification of Hazards<<HEADING_END>>
+<<HEADING level=3>>C-5.1.1   General<<HEADING_END>>
+<<PARAGRAPH>>23<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>r) Work-related
+upper
+limb
+disorders
+resulting from frequently repeated tasks;
+s) Inadequate
+thermal
+environment,
+for
+example too hot;
+t) Lighting levels;
+u) Slippery, uneven ground/surfaces;
+v) Inadequate guard rails or hand rails on
+stairs;
+w) Subcontractors’ activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Three questions enable hazard identification:
+a) Is there a source of harm ?
+b) Who (or what) could be harmed ? and
+c) How could harm occur ?<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hazards
+that
+clearly
+possess
+negligible
+potential for harm should not be documented or
+given further consideration.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-5.1.2   Broad Categories of Hazard<<HEADING_END>>
+<<PARAGRAPH>>The above list is not exhaustive. Organizations
+should develop their own hazard ‘prompt-list’
+taking into account the nature of their work
+activities and locations where work is carried
+out.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To help with the process of identifying hazards
+it is useful to categorize hazards in different
+ways for example by topic, for example:
+a) mechanical;
+b) electrical;
+c) radiation;
+d) substances;
+e) fire and explosion;
+f) toxic release; and
+g) natural calamities.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-5.2 Determination of Risk<<HEADING_END>>
+<<HEADING level=3>>C-5.2.1   General<<HEADING_END>>
+<<IMAGE_6>>
+[Image 6 contains text: [Ge6uApA pessige
+CIs2erqA MOLK Icqargee]
+<<HEADING level=3>>C-5.1.3   Hazard Prompt-List<<HEADING_END>>
+<<PARAGRAPH>>A complementary approach is to develop a
+prompt-list of questions such as:<<PARAGRAPH_END>>
+<<PARAGRAPH>>During work activities could the following
+hazards exist ?<<PARAGRAPH_END>>
+<<PARAGRAPH>>The risk from the hazard should be determined
+by estimating the potential severity to harm
+and the likelihood that harms will occur.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Slips/falls on the level;
+b) Falls of persons from heights;
+c) Falls of tools, materials, etc, from heights;
+d) Inadequate headroom;
+e) Hazards
+associated
+with
+manual
+lifting/handling of tools, material, etc;
+f) Hazards
+from
+plant
+and
+machinery
+associated with assembly, commissioning,
+operation,
+maintenance,
+modification,
+repair and dismantling;
+g) Vehicle
+hazards,
+covering
+both
+site
+transport, and travel by road;
+h) Fire and explosion;
+j) violence to staff;
+k) Substances that may be inhaled;
+m) Substances or agents that may damage
+the eye;
+n) Substances that may cause harm by
+coming into contact with, or being
+absorbed through, the skin;
+p) Substances that may cause harm by being
+ingested (for example entering the body
+via the mouth);
+q) Harmful energies (for example, electricity,
+radiation, noise, vibration);<<PARAGRAPH_END>>
+<<HEADING level=3>>C-5.2.2   Severity of Harm<<HEADING_END>>
+<<HEADING level=3>>Information obtained about work activities (  see
+C-4.4  ) is a vital input to risk assessment.
+When seeking to establish potential severity of
+harm, the following should also be considered:<<HEADING_END>>
+<<PARAGRAPH>>a) Part(s) of the body likely to be affected;
+b) Nature of the harm, ranging from slightly
+to extremely harmful:
+i) Slightly harmful, for example:
+— superficial injuries; minor cuts and
+bruises; eye irritation from dust;
+— nuisance and irritation (for example
+headaches);
+ill-health
+leading
+to
+temporary discomfort;
+ii) Harmful, for example:
+— lacerations; burns;
+— contussion; serious sprains;
+— minor fractures;
+— deafness; dermatitis; asthma;
+— work related upper limb disorders;
+and
+— disorders;
+ill-health
+leading
+to
+permanent minor disability;<<PARAGRAPH_END>>
+<<PARAGRAPH>>24<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>iii) Extremely harmful, for example:<<PARAGRAPH_END>>
+<<HEADING level=3>>C-6 EVALUATION OF RISK<<HEADING_END>>
+<<HEADING level=3>>C-6.1 Risk Tolerance<<HEADING_END>>
+<<PARAGRAPH>>— amputations; major fractures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— poisonings; multiple injuries;<<PARAGRAPH_END>>
+<<IMAGE_7>>
+[Image 7 contains text: DefeLwue trex
+t
+IGGUCI{A prxgyLge
+f
+C]seeA AOLK]
+<<PARAGRAPH>>— fatal injuries;<<PARAGRAPH_END>>
+<<PARAGRAPH>>— occupational cancer; other severely
+life shortening diseases; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>— acute fatal diseases.<<PARAGRAPH_END>>
+<<HEADING level=3>>C-5.2.3   Likelihood of Harm<<HEADING_END>>
+<<PARAGRAPH>>When seeking to establish likelihood of harm
+the adequacy of control measures already
+implemented and complied with needs to be
+considered. Here legal requirements and codes
+of practice are good guides covering controls of
+specific hazards. The following issues should
+then typically be considered in addition to the
+work activity information given in  C-4.4 :<<PARAGRAPH_END>>
+<<PARAGRAPH>>Table
+1
+shows
+one
+simple
+method
+for
+estimating risk levels and for deciding whether
+risks
+are
+tolerable.
+Risks
+are
+classified
+according to their estimated likelihood and
+potential severity of harm. Some organizations
+may wish to develop more sophisticated
+approaches, but this method is a reasonable
+starting point. Numbers may be used to
+describe risks, instead of the terms ‘moderate
+risk’, ‘substantial risk’, etc. However using
+numbers does not confer any greater accuracy
+to these estimates.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Number of personnel exposed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Frequency and duration of exposure to the
+hazard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Failure of services for example electricity
+and water;<<PARAGRAPH_END>>
+<<HEADING level=3>>C-6.2 Risk Control Action Plan<<HEADING_END>>
+<<PARAGRAPH>>d) Failure
+of
+plant
+and
+machinery
+components and safety devices;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) Exposure to the elements;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f) Protection afforded by personal protective
+equipment and usage rate of personal
+protective equipment; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) Unsafe
+acts
+(unintended
+errors
+or
+intentional violations of procedures) by
+persons, for example, who:<<PARAGRAPH_END>>
+<<PARAGRAPH>>i) may not know what the hazards are;<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii) may not have the knowledge, physical
+capacity, or skills to do the work;<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii) underestimate risks to which they are
+exposed; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>An approach, again suggested as a starting
+point, is shown in Table 2. It shows that control
+measures and urgency should be proportional
+to risk.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv) underestimate the practicality and
+utility of safe working methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is important to take into account the
+consequences of unplanned events.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The outcome of a risk assessment should be an
+inventory of actions, in priority order, to devise,
+maintain or improve controls. A procedure for
+planning the implementation of necessary
+changes following risk assessment is described
+in  C-6.4 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>These
+subjective
+risk
+estimations
+should
+normally take into account all the people
+exposed to a hazard. Thus any given hazard is
+more serious if it affects a greater number of
+people. But some of the larger risks may be
+associated with an occasional task carried out
+just by one person, for example maintenance of
+inaccessible parts of lifting equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Controls should be chosen taking into account
+the following:
+a) If possible, eliminate hazards altogether,
+or combat risks at source, for example, use<<PARAGRAPH_END>>
+<<PARAGRAPH>>25<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>a safe substance instead of a dangerous
+one or reduce inventory level of hazardous
+substance;
+b) If elimination is not possible, try to reduce
+the risk for example by using a low voltage
+electrical appliance;
+c) Where
+possible
+adapt
+work
+to
+the
+individual for example to take account of
+individual
+mental
+and
+physical
+capabilities;
+d) Take advantage of technical progress to
+improve controls;
+e) Measures that protect everyone;
+f) A blend of technical and procedural
+controls is usually necessary;
+g) The
+need
+to
+introduce
+planned
+maintenance of, for example, machinery
+safeguards;
+h) Adopt personal protective equipment only
+as a last resort, after all other control
+options have been considered;
+j) The need for emergency arrangement; and
+k) Pro-active measurement indicators are
+necessary to monitor compliance with the
+controls.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The action plan should be reviewed before
+implementation, typically by asking:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Will the revised controls lead to tolerable
+risk levels?<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Are new hazards created?<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Has the most cost-effective solution been
+chosen?<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) What do people affected think about the
+need for, and feasibility of, the revised
+preventive measures ?<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) Will the revised controls be used in
+practice, and not ignored in the face of for
+example, pressures to get the job done ?<<PARAGRAPH_END>>
+<<HEADING level=3>>C-6.4 Changing Conditions and Revising<<HEADING_END>>
+<<PARAGRAPH>>Risk assessment should be seen as a continual
+process.
+Thus,
+the
+adequacy
+of
+control
+measures should be subject to continual review
+and
+revised
+if
+necessary.
+Similarly,
+if
+conditions change to the extent that hazards
+and risks are significantly affected then risk
+assessments should also be reviewed.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 Simple Risk Level Estimator
+(  Clauses  C-4.1  and  C-6.1 )<<HEADING_END>>
+<<PARAGRAPH>>Consideration also needs to be given to the
+development of emergency and evacuation
+plans and provision of emergency equipment
+relevant to the organization’s hazards.<<PARAGRAPH_END>>
+<<HEADING level=3>>Probability of
+Occurrence
+Slightly
+Harmful
+Harmful
+Extremely
+Harmful<<HEADING_END>>
+<<PARAGRAPH>>(1)
+(2)
+(3)
+(4)<<PARAGRAPH_END>>
+<<HEADING level=3>>C-6.3 Adequacy of Action Plan<<HEADING_END>>
+<<PARAGRAPH>>Highly
+unlikely
+Trivial
+risk
+Tolerable
+risk
+Moderate
+risk<<PARAGRAPH_END>>
+<<IMAGE_8>>
+[Image 8 contains text: t
+BLsbsxe trex cougLoy scgoy bisa
+pDecige it a Ie (ojeLspye
+
+f
+
+De6(eLunwe Lier
+f
+
+[Q6UGTA pyxaLge
+f
+
+C]g2elqA MOLK]
+<<PARAGRAPH>>Unlikely
+Tolerable
+risk
+Moderate
+risk
+Substantial
+risk<<PARAGRAPH_END>>
+<<PARAGRAPH>>Likely
+Moderate
+risk
+Substantial
+risk
+Untolerable
+risk<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE—Tolerable here means that risk has been reduced
+to the lowest level that is reasonably practicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>26<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Slightly   | Harmful     |
+| Harmful    | (3)         |
+| (2)        |             |
+|:-----------|:------------|
+| Trivial    | Tolerable   |
+| risk       | risk        |
+| Tolerable  | Moderate    |
+| risk       | risk        |
+| Moderate   | Substantial |
+| risk       | risk        |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>Table 2 Simple Risk-Based Control Plan
+(  Clauses  C-4.1  and  C-6.2 )<<HEADING_END>>
+<<HEADING level=3>>Risk Level
+Action and Time Scale<<HEADING_END>>
+<<PARAGRAPH>>(1)
+(2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>TRIVIAL
+No action is required and no documentary record needs to be kept.<<PARAGRAPH_END>>
+<<PARAGRAPH>>TOLERABLE
+No additional controls are required. Consideration may be given to a more cost-effective
+solution or improvement that imposes no additional cost burden. Monitoring is
+required to ensure that the controls are maintained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>MODERATE
+Efforts should be made to reduce the risk, but the cost of prevention should be carefully
+measured and limited. Risk reduction measures should be implemented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>SUBSTANTIAL
+Work should not be started until the risk has been reduced. Considerable resources
+may have to be allocated to reduce the risk where the risk involves work in progress,
+urgent action should be taken.<<PARAGRAPH_END>>
+<<PARAGRAPH>>INTOLERABLE
+Work should not be started or continued until the risk has been reduced. If it is not
+possible to reduce risk even with unlimited resources, work has to remain prohibited.<<PARAGRAPH_END>>
+<<PARAGRAPH>>27<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Risk Level   | Action and Time Scale                                                                     |
+| (1)          | (2)                                                                                       |
+|:-------------|:------------------------------------------------------------------------------------------|
+| TRIVIAL      | No action is required and no documentary record needs to be kept.                         |
+| TOLERABLE    | No additional controls are required. Consideration may be given to a more cost-effective  |
+|              | solution or improvement that imposes no additional cost burden. Monitoring is             |
+|              | required to ensure that the controls are maintained.                                      |
+| MODERATE     | Efforts should be made to reduce the risk, but the cost of prevention should be carefully |
+|              | measured and limited. Risk reduction measures should be implemented.                      |
+| SUBSTANTIAL  | Work should not be started until the risk has been reduced. Considerable resources        |
+|              | may have to be allocated to reduce the risk where the risk involves work in progress,     |
+|              | urgent action should be taken.                                                            |
+| INTOLERABLE  | Work should not be started or continued until the risk has been reduced. If it is not     |
+|              | possible to reduce risk even with unlimited resources, work has to remain prohibited.     |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<HEADING level=3>>ANNEX D<<HEADING_END>>
+<<PARAGRAPH>>(  Foreword  )<<PARAGRAPH_END>>
+<<HEADING level=3>>COMMITTEE COMPOSITION<<HEADING_END>>
+<<PARAGRAPH>>Industrial Safety Sectional Committee, CHD 08<<PARAGRAPH_END>>
+<<PARAGRAPH>>Chairman
+Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  K. C. G UPTA
+National Safety Council, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  A. K. A CHARYA
+S HRI  P. K. N AIR  (  Alternate  )
+Central Mining Research Institute, Dhanbad<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  P REM  B AWEJA
+S HRI  B. V IJAY  K UMAR  (  Alternate  )
+Hindustan Aeronautics Ltd, Bangalore<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  R. H. B HELEKAR
+Chief Controller of Explosives, Nagpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  S. C. C HAWALA
+S R  B. B. T HAKUR  (  Alternate  )
+Directorate General Health Services, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D IRECTOR (M INES  S AFETY )
+S HRI  A. K. R UDRA  (  Alternate  )
+Directorate General of Mines Safety, Dhanbad<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  V. K. G OEL
+S HRI  M. L. A HUJA  (  Alternate  )
+Central Boiler Board, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  J. P. G OENKA
+S HRI  N. D UTTA  (  Alternate  )
+Mining, Geological and Metallurgical Institute of India,
+Calcutta<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  H. N. G UPTA
+S HRI  R. P. B HANUSHALI  (  Alternate  )
+National Safety Council, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  L. C. G UPTA
+S HRI  H. S. R AWAT  (  Alternate  )
+Airport Authority of India, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. K ANT
+S HRI  K IRIT  M ARU  (  Alternate  )
+Safety Appliances Mfrs’ Association, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  G. S. K ASHYAP
+Office of the Development Commissioner (SSI), New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. K. M ALHOTRA
+Directorate General Factory Advice Services and Labour
+Institutes, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. K. M UKHERJEE
+S HRI  A. K. G HOSH  (  Alternate  )
+Standing Fire Advisory Council, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. N ARAYAN
+Bhabha Atomic Research Centre, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  K. P. N YATI
+Confederation of Indian Industries, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  B HAGWATI  P RASAD
+S HRI  S ATISH  C HANDER  (  Alternate  )
+Employees State Insurance Corporation, Calcutta<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  R. K. P ODDAR
+Larsen & Toubro Ltd (ECC Cons. Group), Chennai<<PARAGRAPH_END>>
+<<PARAGRAPH>>R EPRESENTATIVE
+Factory Inspectorate, Govt. of Maharashtra, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  S. S ADULLA
+S HRI  G. S WAMINATHAN  (  Alternate  )
+Central Leather Research Institute, Chennai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. R. S AMPATH
+S HRI  O. N. D AGA  (  Alternate  )
+Indian Cotton Mills Federation, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  P. N. S ANKARAN
+S HRI  V. K. S RIVASTAVA  (  Alternate  )
+Indian Space Research Organization, Shriharikota<<PARAGRAPH_END>>
+<<PARAGRAPH>>(  Continued on page  29 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>28<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>(  Continued from page  28 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members
+Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S UCHA  S INGH
+S HRI  R. S RIVASTAVA  (  Alternate  )
+Ministry of Defence, Ordnance Factory Board, Calcutta<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. S RIVASTAVA<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ministry of Petroleum and Natural Gas (Oil Industries Safety
+Directorate), New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. N. M ATHUR  (  Alternate  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  J. T RIPATHY
+S HRI  V. K. J AIN  (  Alternate  )
+Standing Committee on Safety for Steel Industry, Sail,
+Ranchi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  G. P. Y ADAV
+S HRI  N. J AIPAL  (  Alternate  )
+National Institute of Occupational Health, Ahmedabad<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  L AJINDER  S INGH ,
+Director (Chem)
+Director General, BIS (  Ex-officio Member  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Member Secretary
+S HRI  P. M UKHOPADHYAY
+Additional Director (Chem), BIS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Safety Practices and Procedures Subcommittee, CHD 8:04<<PARAGRAPH_END>>
+<<PARAGRAPH>>Convener<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  H. N. G UPTA
+National Safety Council, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  H AROLD  B ARNES
+Birla 3M Ltd, Bangalore<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  R. H. B HALEKAR
+Chief Controller of Explosives, Nagpur<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  S. C HATTOPADHYAY
+S HRI  K. K. D UTTA  (  Alternate  )
+Ministry of Defence (DGQA), New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D IRECTOR  (M INES  S AFETY )
+S HRI  A. K. R UDRA  (  Alternate  )
+Directorate General of Mines Safety, Dhanbad<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  P. K. G HOSH
+Atomic Energy Regulatory Board, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  A. B. L AL
+S HRI  P. C HINNA  (  Alternate  )
+National Thermal Power Corporation, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. K. M ALHOTRA
+Directorate General Factory Advice Services and Labour
+Institutes, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. K. M UKHERJEE
+S HRI  A. K. G HOSH  (  Alternate  )
+Standing Fire Advisory Council, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  S. N AND
+Fertilizers Association of India, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  K. P. N YATI
+Confederation of Indian Industries, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  V. B. P ATIL
+National Safety Council, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>R EPRESENTATIVE
+Engineers India Ltd, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>R EPRESENTATIVE
+IPCL, Baroda<<PARAGRAPH_END>>
+<<PARAGRAPH>>R EPRESENTATIVE
+Ministry of Environment & Forest<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  A. K. R OHTAGI
+Standards Alkali, Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  H. N. S RIHARI
+D R  T. K. C HATERJEE  (  Alternate  )
+ICI India Limited, Calcutta<<PARAGRAPH_END>>
+<<PARAGRAPH>>(  Continued on page  30 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>29<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<HEADING level=3>>IS 18001 : 2000<<HEADING_END>>
+<<PARAGRAPH>>(  Continued from page  29 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members
+Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  M. S RIVASTAVA
+S HRI  S. C. G UPTA  (  Alternate  )
+Ministry of Petroleum and Natural gas (Oil Industries Safety
+Directorate), New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>S HRI  S. V. T AMBAKE
+Director, Industrial Safety & Health (Govt. of Maharashtra),
+Mumbai<<PARAGRAPH_END>>
+<<PARAGRAPH>>D R  J. T RIPATHY
+S HRI  V. K. J AIN  (  Alternate  )
+Standing Committee on Safety for Steel Industry, Sail,
+Ranchi<<PARAGRAPH_END>>
+<<PARAGRAPH>>30<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote
+harmonious development of the activities of standardization, marking and quality certification of goods and
+attending to connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright of all its publications. No part of these publications may be reproduced in any form
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to copyright be addressed to the Director (Publications), BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also
+reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no
+changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users of
+Indian Standards should ascertain that they are in possession of the latest amendments or edition by
+referring to the latest issue of ‘BIS Catalogue’ and ‘Standards : Monthly Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard has been developed from Doc : No. CHD 8 (845).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments Issued Since Publication<<HEADING_END>>
+<<HEADING level=3>>Amend No.
+Date of Issue<<HEADING_END>>
+<<PARAGRAPH>>Amd. No. 1
+November 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU OF INDIAN STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.
+Telephones: 323 01 31, 323 33 75, 323 94 02
+Telegrams: Manaksanstha
+(Common to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI 110002
+323 76 17
+323 38 41<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi
+KOLKATA 700054
+337 84 99, 337 85 61
+337 86 26, 337 91 20<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022
+60 38 43
+60 20 25<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113
+235 02 16, 235 04 42
+235 15 19, 235 23 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+: Manakalaya, E9 MIDC, Marol, Andheri (East)
+MUMBAI 400093
+832 92 95, 832 78 58
+832 78 91, 832 78 92<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.
+LUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.
+VISHAKHAPATNAM.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 33
+Total Images: 8
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 2224x877
+[IMAGE_2] Page: 10, Size: 1712x1641
+[IMAGE_3] Page: 13, Size: 1696x2055
+[IMAGE_4] Page: 24, Size: 992x2053
+[IMAGE_5] Page: 25, Size: 992x146
+[IMAGE_6] Page: 26, Size: 856x816
+[IMAGE_7] Page: 27, Size: 1056x1011
+[IMAGE_8] Page: 28, Size: 1272x1609
+
+Total Tables: 4
+
+Table Reference List:
+[TABLE_1] Page: 21, Size: 16x3
+[TABLE_1] Page: 22, Size: 19x3
+[TABLE_1] Page: 28, Size: 4x2
+[TABLE_1] Page: 29, Size: 6x2
+<<SECTION_END>>
+<<DOCUMENT_END>>

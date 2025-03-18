@@ -1,0 +1,873 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-4<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 4:
+Liquid penetrant inspection of seamless
+and welded steel tubes for the detection
+of surface imperfections<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 4: Contrôle par ressuage des tubes en acier sans soudure et
+soudés pour la détection des imperfections de surface<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-4:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO `-`-                         |
+|:---------------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS `,, |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<PARAGRAPH>>5
+Test method ...........................................................................................................................................2
+5.1
+General ...................................................................................................................................................2
+5.2
+Detection of imperfections and their classification...........................................................................3
+5.3
+Procedure...............................................................................................................................................3<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Evaluation of indications......................................................................................................................4<<HEADING_END>>
+<<HEADING level=3>>7
+Acceptance ............................................................................................................................................6<<HEADING_END>>
+<<HEADING level=3>>8
+Test report..............................................................................................................................................7<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-4 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition cancels and replaces ISO 12095:1994, which has been technically revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tubes for the verification of hydraulic leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged arc-
+welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+surface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged
+arc-welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-4:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 4:
+Liquid penetrant inspection of seamless and welded steel tubes
+for the detection of surface imperfections<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies requirements applicable to liquid penetrant testing of seamless and welded
+tubes for the detection of surface imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is applicable to all or any part of the tube surface as required by the relevant product standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It can also be applicable to the testing of hollow sections.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 3059,  Non-destructive testing — Penetrant testing and magnetic particle testing — Viewing conditions<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 3452-1,  Non-destructive testing — Penetrant testing — Part 1: General principles<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 3452-2,  Non-destructive testing — Penetrant testing — Part 2: Testing of penetrant materials<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer’s qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 3452-1 and ISO 11484 and the
+following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<HEADING level=3>>3.2
+seamless tube
+tube made by piercing a solid product to obtain a tube hollow, which is further processed, either hot or cold,
+into its final dimensions<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>3.3
+welded tube
+tube made by forming a hollow profile from a flat product and welding adjacent edges together, and which,
+after welding, can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.4
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by the product standard or agreed on by the purchaser and manufacturer,
+this liquid penetrant inspection shall be carried out on tubes after completion of all the primary production
+process operations (rolling, heat treating, cold and hot working, sizing, primary straightening, etc.).<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+The surface of the tube being tested shall be sufficiently clean and free of oil, grease, sand, scale or
+any other foreign matter which can potentially interfere with the correct interpretation of the indications
+obtained from liquid penetrant testing. The type of indications, as well as the minimum dimension of the
+surface imperfections detected, depends on the specific tube manufacturing process and the surface finish.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+This inspection shall be carried out by trained operators, qualified in accordance with ISO 9712,
+ISO 11484 or equivalent, and supervised by competent personnel nominated by the manufacturer. In the case
+of third-party inspection, this shall be agreed on between the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. NDT operations
+shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate International Standards, e.g. ISO 9712 and
+ISO 11484.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Test method<<HEADING_END>>
+<<HEADING level=3>>5.1 General<<HEADING_END>>
+<<PARAGRAPH>>5.1.1
+A liquid penetrant is applied to the surface being examined and allowed to enter the surface
+imperfections. All excess penetrant is then removed; the surface of the part is dried and a developer is applied.
+The developer functions both as a blotter to absorb penetrant that has been trapped in imperfections and as a
+contrasting background to enhance the visibility of penetrant indications. The dyestuffs in penetrants are either
+colour-contrast (visible under white light) or fluorescent (visible under ultraviolet light). For both penetrant
+techniques, the following three types of penetrant systems can be used:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+water washable;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+post emulsifying;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+solvent removable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where the term “penetrant materials” is used in this part of ISO 10893, it is intended to include all penetrants,
+solvents or cleaning agents, developers, etc., used in the testing process.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>5.1.2
+For each tube or each part of the tube under test, either a colour-contrast penetrant technique or a
+fluorescent penetrant technique, both techniques with one of the three types of penetrant systems, shall be
+used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The general principles and the methods of verification of liquid penetrant testing as described in ISO 3059,
+ISO 3452-1 and ISO 3452-2 shall be applied (see 5.3).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Detection of imperfections and their classification<<HEADING_END>>
+<<PARAGRAPH>>The liquid penetrant method is an effective means of detecting imperfections which are open to the surface
+(called surface imperfections in this part of ISO 10893). Typical surface imperfections detectable by this
+method are cracks, seams, laps, cold shuts, laminations and porosity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The liquid penetrant method does not make it possible to determine the nature, shape and, more generally,
+the dimensions of the surface imperfections revealed. The dimensions of the penetrant indication do not
+directly represent the actual dimensions of the surface imperfection causing this indication. That is why the
+classification of liquid penetrant indications shall be the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+linear indications — indications where the length of the indication is equal to or more than three times the
+width of the indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+rounded indications — indications which are circular or elliptical in shape, where the length of the
+indication is less than three times the width of the indication;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+accumulated indications — indications which are linear or rounded and are aligned or clustered with a
+separation of not more than the length of the smallest indication and consisting of at least three
+indications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+non-relevant indications — indications which may result from localized surface irregularities to a particular
+tube-making process, for example machining marks, scratches and sizing/straightening marks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The minimum dimension of indications that shall be considered during the evaluation shall be as given in
+Table 1, in relation to the acceptance level specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Minimum dimension of indications that shall be considered for evaluation<<HEADING_END>>
+<<HEADING level=3>>Diameter,  D , or length,  L ,
+of the smallest indication<<HEADING_END>>
+<<HEADING level=3>>that shall be considered
+Acceptance level<<HEADING_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>P1
+1,5<<PARAGRAPH_END>>
+<<PARAGRAPH>>P2
+2,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>P3
+3,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>P4
+5,0<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Procedure<<HEADING_END>>
+<<PARAGRAPH>>The liquid penetrant testing shall be in accordance with the following operational conditions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+for the choice of the penetrant system, the tube surface condition as well as the test category shall be
+taken into account;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+for stainless steel tubes, low halogen (chlorine/fluorine) and low sulphur penetrant materials shall be
+applied;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Acceptance level   | Diameter, D, or length, L,   |
+|:-------------------|:-----------------------------|
+|                    | of the smallest indication   |
+|                    | that shall be considered     |
+|                    | mm                           |
+| P1                 | 1,5                          |
+| P2                 | 2,0                          |
+| P3                 | 3,0                          |
+| P4                 | 5,0                          |
+<<TABLE_END>>
+<<TABLE_2>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>c)
+the temperature of application shall be between 10 °C and 50 °C. When it is not practicable to conduct
+the liquid penetrant testing within the given temperature range, the testing procedure shall be qualified at
+the proposed temperature using the liquid penetrant comparator block (e.g. a quench-cracked aluminium
+block);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+the penetrant should be applied by brushing or spraying. For parts of tubes, dipping or flooding is less
+effective but not prohibited;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+the dwell time shall be not less than that recommended by the manufacturer of the penetrant system;
+usually it is between 3 min and 30 min;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+the removal of excess water-washable or post-emulsified penetrant shall be performed with rinsing by
+water, under black light conditions where appropriate, at a pressure around 200 kPa (2 bar) with a
+maximum of 350 kPa (3,5 bar). The temperature of the water used for rinsing shall be less than 40 °C.
+The excess solvent-removable penetrant shall be removed insofar as possible by using wipes of white,
+Iint-free material that is clean and dry, until most traces of penetrant have been removed. Then the
+surface shall be lightly wiped with a Iint-free material that has been slightly moistened with solvent, until
+all remaining traces of excess penetrant have been removed. Flushing the surface with solvent following
+the application of the penetrant and prior to developing is prohibited;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+drying of the surface subsequent to washing with water can be assisted by using wipes of white, Iint-free
+material that is clean and dry or by using a hot-air blast at a pressure below 200 kPa (2 bar) and a
+temperature below 70 °C. Drying after the solvent-removing process is generally by normal   evaporation,
+therefore no other drying techniques are necessary. The temperature of the tube shall not exceed 50 °C,
+unless otherwise agreed on by the purchaser and manufacturer;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+the wet developer shall be applied by spraying, in such a manner as to assure complete coverage of the
+area being tested with a thin, even film of developer. The dry-powder developer shall be applied either by
+dipping the tube, or the parts of the tube being tested, into a fluid bed of dry developer or by dusting it
+with the dry-powder developer through a manual powder bulb or a spray powder gun (conventional or
+electrostatic), provided the powder is dusted evenly over the entire surface being tested;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+the development time begins as soon as the wet-developer coating is dry or immediately after the
+application of the dry-powder developer. Generally, the development time is equal to the penetration time
+and varies from 5 min to 30 min, and if the bleed out does not alter the inspection results; development
+periods of more than 30 min are permitted;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+the inspection of the areas being tested shall be performed after the applicable development time as
+specified in 5.3 i), to assure proper bleed out of penetrant from the imperfections on to the developer
+coating. It is good practice to observe the surface while applying the developer as an aid to evaluating
+indications. For fluorescent penetrant indications, the inspection shall be carried out in a darkened area
+using a UV-A radiation source with a background of light level not exceeding 20 lux and a black light
+intensity of at least 10 W/m 2  on the surface of the area being inspected. For visible penetrant indications,
+the illumination of the surface of the area being inspected shall be not less than 500 Iux.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Evaluation of indications<<HEADING_END>>
+<<PARAGRAPH>>6.1
+Four acceptance levels, corresponding to four severity levels with maximum permissible number or
+maximum permissible dimensions (diameter or length) have been established in accordance with Tables 2
+and 3.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2
+The inspection shall be carried out visually without image   magnification.<<HEADING_END>>
+<<PARAGRAPH>>A remote inspection technique, such as using television camera, is permitted provided the manufacturer can
+demonstrate that the acceptance criteria are not affected.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<HEADING level=3>>Table 2 — Tube surface — Maximum permissible number and dimension (diameter, length) of
+imperfections within a frame aperture of  100 mm  ×  150 mm<<HEADING_END>>
+<<HEADING level=3>>Type of indication<<HEADING_END>>
+<<HEADING level=3>>Nominal<<HEADING_END>>
+<<HEADING level=3>>wall-
+thickness<<HEADING_END>>
+<<HEADING level=3>>Rounded
+Linear
+Accumulated
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>level<<HEADING_END>>
+<<HEADING level=3>>T
+Number
+Diameter
+Number
+Length
+Number
+Sum of
+dimensions<<HEADING_END>>
+<<PARAGRAPH>>mm
+mm
+mm
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+5
+3,0
+3
+1,5
+1
+4,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+5
+3,0
+3
+3,0
+1
+6,0
+P1<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+5
+3,0
+3
+5,0
+1
+10,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+8
+4,0
+4
+3,0
+1
+6,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+8
+4,0
+4
+6,0
+1
+12,0
+P2<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+8
+4,0
+4
+10,0
+1
+20,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+10
+6,0
+5
+6,0
+1
+10,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+10
+6,0
+5
+9,0
+1
+18,0
+P3<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+10
+6,0
+5
+15,0
+1
+30,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   u  16
+12
+10,0
+6
+10,0
+1
+18,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>16  <   T   u  50
+12
+10,0
+6
+15,0
+1
+25,0
+P4<<PARAGRAPH_END>>
+<<PARAGRAPH>>T   >  50
+12
+10,0
+6
+25,0
+1
+35,0<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 — Weld seam — Maximum permissible number and dimension (diameter, length) of
+imperfections within a frame aperture of  150 mm  ×  50 mm<<HEADING_END>>
+<<HEADING level=3>>Type of indication<<HEADING_END>>
+<<HEADING level=3>>Nominal<<HEADING_END>>
+<<HEADING level=3>>wall-
+thickness<<HEADING_END>>
+<<HEADING level=3>>Rounded
+Linear
+Accumulated
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>level<<HEADING_END>>
+<<HEADING level=3>>T
+Number
+Diameter
+Number
+Length
+Number
+Sum of
+dimensions<<HEADING_END>>
+<<PARAGRAPH>>mm
+mm
+mm
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>u  16
+1
+3,0
+1
+1,5
+1
+4,0
+P1<<PARAGRAPH_END>>
+<<PARAGRAPH>>>  16
+1
+3,0
+1
+3,0
+1
+6,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>u  16
+2
+4,0
+2
+3,0
+1
+6,0
+P2<<PARAGRAPH_END>>
+<<PARAGRAPH>>>  16
+2
+4,0
+2
+6,0
+1
+12,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>u  16
+3
+6,0
+3
+6,0
+1
+10,0
+P3<<PARAGRAPH_END>>
+<<PARAGRAPH>>>  16
+3
+6,0
+3
+9,0
+1
+18,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>u  16
+4
+10,0
+4
+10,0
+1
+18,0
+P4<<PARAGRAPH_END>>
+<<PARAGRAPH>>>  16
+4
+10,0
+4
+18,0
+1
+27,0<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The 50 mm width of the frame aperture is centred on the axis of the weld seam.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Acceptance   | Nominal     | Type of indication   |          |        |        |             |            |
+| level        |             |                      |          |        |        |             |            |
+|:-------------|:------------|:---------------------|:---------|:-------|:-------|:------------|:-----------|
+|              | wall-       | Rounded              |          | Linear |        | Accumulated |            |
+|              | thickness   |                      |          |        |        |             |            |
+|              |             |                      |          |        |        |             | Sum of     |
+|              | T           | Number               | Diameter | Number | Length | Number      |            |
+|              |             |                      |          |        |        |             | dimensions |
+|              | mm          |                      | mm       |        | mm     |             | mm         |
+| P1           | T u 16      | 5                    | 3,0      | 3      | 1,5    | 1           | 4,0        |
+|              | 16 < T u 50 | 5                    | 3,0      | 3      | 3,0    | 1           | 6,0        |
+|              | T > 50      | 5                    | 3,0      | 3      | 5,0    | 1           | 10,0       |
+| P2           | T u 16      | 8                    | 4,0      | 4      | 3,0    | 1           | 6,0        |
+|              | 16 < T u 50 | 8                    | 4,0      | 4      | 6,0    | 1           | 12,0       |
+|              | T > 50      | 8                    | 4,0      | 4      | 10,0   | 1           | 20,0       |
+| P3           | T u 16      | 10                   | 6,0      | 5      | 6,0    | 1           | 10,0       |
+|              | 16 < T u 50 | 10                   | 6,0      | 5      | 9,0    | 1           | 18,0       |
+|              | T > 50      | 10                   | 6,0      | 5      | 15,0   | 1           | 30,0       |
+| P4           | T u 16      | 12                   | 10,0     | 6      | 10,0   | 1           | 18,0       |
+|              | 16 < T u 50 | 12                   | 10,0     | 6      | 15,0   | 1           | 25,0       |
+|              | T > 50      | 12                   | 10,0     | 6      | 25,0   | 1           | 35,0       |
+<<TABLE_END>>
+<<TABLE_2>>
+| Acceptance                                                                          | Nominal   | Type of indication   |          |        |        |             |            |
+| level                                                                               |           |                      |          |        |        |             |            |
+|:------------------------------------------------------------------------------------|:----------|:---------------------|:---------|:-------|:-------|:------------|:-----------|
+|                                                                                     | wall-     | Rounded              |          | Linear |        | Accumulated |            |
+|                                                                                     | thickness |                      |          |        |        |             |            |
+|                                                                                     |           |                      |          |        |        |             | Sum of     |
+|                                                                                     | T         | Number               | Diameter | Number | Length | Number      |            |
+|                                                                                     |           |                      |          |        |        |             | dimensions |
+|                                                                                     | mm        |                      | mm       |        | mm     |             | mm         |
+| P1                                                                                  | u 16      | 1                    | 3,0      | 1      | 1,5    | 1           | 4,0        |
+|                                                                                     | > 16      | 1                    | 3,0      | 1      | 3,0    | 1           | 6,0        |
+| P2                                                                                  | u 16      | 2                    | 4,0      | 2      | 3,0    | 1           | 6,0        |
+|                                                                                     | > 16      | 2                    | 4,0      | 2      | 6,0    | 1           | 12,0       |
+| P3                                                                                  | u 16      | 3                    | 6,0      | 3      | 6,0    | 1           | 10,0       |
+|                                                                                     | > 16      | 3                    | 6,0      | 3      | 9,0    | 1           | 18,0       |
+| P4                                                                                  | u 16      | 4                    | 10,0     | 4      | 10,0   | 1           | 18,0       |
+|                                                                                     | > 16      | 4                    | 10,0     | 4      | 18,0   | 1           | 27,0       |
+| NOTE The 50 mm width of the frame aperture is centred on the axis of the weld seam. |           |                      |          |        |        |             |            |
+<<TABLE_END>>
+<<TABLE_3>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>6.3
+Only relevant indications with major dimensions equal to or greater than those given in Table 1 shall be
+taken into consideration for the acceptance levels. Relevant indications are those which result from
+unacceptable imperfections. Similar indications produced by machining marks or other non-relevant surface
+conditions shall not be considered. Any indication in excess of the dimensions of the acceptance level
+according to 6.1, which is believed to be non-relevant, shall be re-examined to verify whether or not actual
+defects are present. Surface conditioning may precede the re-examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4
+Relevant indications obtained by the liquid penetrant testing in accordance with this part of ISO 10893
+shall undergo the following evaluation and classification.<<HEADING_END>>
+<<PARAGRAPH>>a)
+For testing the total surface of the tube or part of tube, an imaginary frame aperture of 100 mm  ×  150 mm
+shall be placed over the area showing the greatest number of indications. The classification based on the
+kind, number and dimension of the indications shall be taken according to Table 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+For testing the weld seam, an imaginary frame aperture of 50 mm  ×  150 mm shall be placed over the
+area showing the greatest number of indications, with the 50 mm dimension centred over the weld seam.
+The classification based on the kind, number and dimension of the indications shall be taken according to
+Table 3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+For testing the bevel face at the tube ends, linear indications with a length less than 6 mm shall be
+acceptable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+For calculating the cumulative length of accumulated indications, the length of the major axis of each
+linear or rounded indication shall be taken into account. Where the separation between to adjacent
+indications is less than the length or the diameter of the larger of the two indications, they shall be
+considered as one indication and the sum of the individual lengths or diameters plus the separation shall
+be used to calculate the overall length.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>7.1
+Any tubes showing no indications in excess of that permitted by the corresponding acceptance level
+shall be deemed to have passed the test.<<HEADING_END>>
+<<HEADING level=3>>7.2
+Any tubes showing indications in excess of that permitted by the corresponding acceptance level shall
+be deemed suspect.<<HEADING_END>>
+<<HEADING level=3>>7.3
+For suspect tubes, one or more of the following actions shall be taken subject to the requirements of the
+product standard.<<HEADING_END>>
+<<PARAGRAPH>>a)
+The suspect area shall be dressed or explored by using a suitable method. After checking that the
+remaining thickness is within tolerance, the tube shall be retested as previously specified. If no indications
+are obtained equal to or greater than the acceptance Ievel, the tube shall be deemed to have passed this
+test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By agreement between the purchaser and manufacturer, the suspect area may be retested by other non-
+destructive techniques and test methods to agreed acceptance levels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+The suspect area shall be cropped off.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+The tube shall be deemed not to have passed the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<HEADING level=3>>8
+Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report including at least the following
+information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-4;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+type and details of inspection technique;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+description of the acceptance level and the reference standard, when used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+date of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+operator identification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+7<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 10893-4:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 7 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 14
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 17
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 8x2
+[TABLE_2] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_1] Page: 11, Size: 19x8
+[TABLE_2] Page: 11, Size: 16x8
+[TABLE_3] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 3x1
+[TABLE_1] Page: 13, Size: 3x1
+[TABLE_1] Page: 14, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

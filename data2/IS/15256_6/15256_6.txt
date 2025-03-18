@@ -1,0 +1,2159 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS 15256
+(Part
+6) :2002
+ISO 11568-6:1998<<HEADING_END>>
+<<HEADING level=2>>Indian
+Standard<<HEADING_END>>
+<<HEADING level=1>>BANKING
+— KEY MANAGEMENT
+(RETAlL)<<HEADING_END>>
+<<HEADING level=3>>PART
+6 KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>ICS
+35.240.40<<HEADING_END>>
+<<HEADING level=3>>0
+BIS
+2002<<HEADING_END>>
+<<HEADING level=3>>BUREAU
+OF
+INDIAN
+STANDARDS<<HEADING_END>>
+<<HEADING level=3>>MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG<<HEADING_END>>
+<<HEADING level=3>>NEW
+DELHI
+110002<<HEADING_END>>
+<<HEADING level=3>>November
+2002
+Price
+Group
+6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>Banking
+and
+Financial
+Services
+Sectional
+Committee,
+MSD
+7<<HEADING_END>>
+<<HEADING level=3>>NATIONAL
+FOREWORD<<HEADING_END>>
+<<HEADING level=3>>This
+Indian
+Standard
+(Part
+6) which
+is identical
+with ISO
+11568-6:1998
+‘Banking
+— Key management<<HEADING_END>>
+<<HEADING level=3>>(retail) — Part 6:
+Key management
+schemes’
+issued by the International
+Organization
+for Standardization<<HEADING_END>>
+<<HEADING level=3>>(ISO)
+was
+adopted
+by the
+Bureau
+of Indian
+Standards
+on the
+recommendation
+of the
+Banking
+and
+Financial
+Services
+Sectional
+Committee
+(MSD
+7)
+and
+approval
+of the
+Management
+and
+Systems<<HEADING_END>>
+<<HEADING level=3>>Division
+Council.<<HEADING_END>>
+<<HEADING level=3>>The
+text
+of the
+International
+Standard
+has
+been
+approved
+as
+suitable
+for
+publication
+as
+an
+Indian<<HEADING_END>>
+<<HEADING level=3>>Standard
+without
+deviations.
+Certain
+conventions
+are,
+however,
+not identical
+to those
+used
+in Indian<<HEADING_END>>
+<<HEADING level=3>>Standards.
+Attention
+is particularly
+drawn
+to the
+following:<<HEADING_END>>
+<<HEADING level=3>>Wherever
+the words
+‘International
+Standard’
+appear
+referring
+to this standard,
+they
+should
+be read<<HEADING_END>>
+<<HEADING level=3>>as
+‘Indian
+Standard’.<<HEADING_END>>
+<<HEADING level=3>>In this
+adopted
+standard,
+normative
+references
+appear
+to the
+following
+International
+Standards
+for<<HEADING_END>>
+<<HEADING level=3>>which
+Indian
+Standards
+do not exist:<<HEADING_END>>
+<<HEADING level=3>>ISO
+8908:1993
+Banking
+and related financial
+services
+— Vocabulary
+and data elements<<HEADING_END>>
+<<HEADING level=3>>lSO/lEC
+9796:1991
+Information
+technology
+—
+Security
+techniques
+—
+Digital
+signature<<HEADING_END>>
+<<HEADING level=3>>scheme
+giving
+message
+recovery<<HEADING_END>>
+<<HEADING level=3>>lSO/lEC
+9798-3:1993
+Information
+technology
+— Security
+techniques
+— Entity authentication<<HEADING_END>>
+<<HEADING level=3>>mechanisms
+—
+Part
+3:
+Entity
+authentication
+using
+a
+public
+key<<HEADING_END>>
+<<HEADING level=3>>algorithm<<HEADING_END>>
+<<HEADING level=3>>LSO/lEC
+10118
+(all
+parts)
+Information
+technology
+—
+Security
+techniques
+—
+Hash
+functions<<HEADING_END>>
+<<HEADING level=3>>ISO
+11166
+(all
+parts)
+Banking
+—
+Key
+management
+by means
+of asymmetric
+algorithms<<HEADING_END>>
+<<HEADING level=3>>ISO
+11568-1:1994
+Banking
+—
+Key
+management
+(retail)
+—
+Part
+1 : Introduction
+to key<<HEADING_END>>
+<<HEADING level=3>>management<<HEADING_END>>
+<<HEADING level=3>>lSO/lEC
+11770-3:1999
+Information
+technology
+—
+Security
+techniques
+—
+Key
+management
+—
+Part
+3 : Mechanisms
+using
+asymmetric
+techniques<<HEADING_END>>
+<<HEADING level=3>>ISO
+13491-1:1998
+Banking
+— Secure
+cryptographic
+devices
+(retail)
+— Part 1:
+Concepts,<<HEADING_END>>
+<<HEADING level=3>>requirements
+and
+evaluation
+methods<<HEADING_END>>
+<<HEADING level=3>>ISO
+13491-2:2000
+Banking
+—
+Secure
+cryptographic
+devices
+(retail)
+—
+Part
+2:
+Security<<HEADING_END>>
+<<HEADING level=3>>compliance
+checklists
+for devices
+used in magnetic
+stripe card systems<<HEADING_END>>
+<<HEADING level=3>>The
+International
+Standards
+ISO
+8908
+and
+ISO
+11166
+(all
+parts)
+have
+been
+withdrawn
+by
+the<<HEADING_END>>
+<<HEADING level=3>>International
+Organization
+for Standardization
+(ISO).<<HEADING_END>>
+<<HEADING level=3>>In this adopted
+standard,
+informative
+references
+also appear
+to the following
+International
+Standards,<<HEADING_END>>
+<<HEADING level=3>>for which
+no Indian
+Standards
+exist:<<HEADING_END>>
+<<HEADING level=3>>1S0
+8732:1988
+Banking
+—
+Key
+management
+(wholesale)<<HEADING_END>>
+<<HEADING level=3>>ISO
+11568-2:1994
+Banking
+—
+Key
+management
+(retail)
+—
+Part
+2
+: Key
+management
+techniques
+fot’ symmetric
+ciphers<<HEADING_END>>
+<<HEADING level=3>>ISO
+11568-3:1994
+Banking
+—
+Key
+management
+(retail)
+—
+Part
+3
+: Key
+life
+cycle
+for<<HEADING_END>>
+<<HEADING level=3>>symmetric
+ciphers<<HEADING_END>>
+<<HEADING level=3>>(Continued
+on third  cover)<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>ISO 11568
+is one of a series of standards
+describing
+procedures
+for the secure
+management
+of the cryptographic
+keys used to protect messages
+in a retail banking environment,
+for instance,
+messages
+between
+an acquirer
+and a
+card
+acceptor,
+or an acquirer
+and a card
+issuer.
+Management
+of keys
+used
+in an integrated
+Circuit Card
+(ICC)
+environment
+is not covered by ISO 11568
+but will be addressed
+in another
+ISO standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Whereas
+key
+management
+in a wholesale
+banking
+environment
+is characterized
+by the exchange
+of keys
+in a
+relatively
+high-security
+environment,
+this standard
+addresses
+the key management
+requirements
+that are applicable
+in the more accessible
+domain of retail banking services.
+Typical of such services
+are point-of-saie/point-of-service
+(POS)
+debit and credit authorizations
+and automated
+teller machine
+(ATM) transactions.<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 11568
+is a multi-part standard.<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 11568
+provides general
+information
+and criteria concerning
+key management
+schemes
+for use in a
+retail
+banking
+environment.
+Annex A
+provides
+a
+description
+of
+certain
+key
+management
+schemes
+that
+are
+considered
+by ISO members
+as suitable for implementation
+in the retail banking environment.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+1S0
+11568-6:1998<<HEADING_END>>
+<<HEADING level=2>>Indian
+Standard<<HEADING_END>>
+<<HEADING level=1>>BANKING —  KEY MANAGEMENT
+(RETAlL)<<HEADING_END>>
+<<HEADING level=3>>PART 6 KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>1  Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 11568
+contains
+descriptions
+of key management
+schemes
+that have
+been
+submitted
+by national
+standards
+bodies of member
+countries as suitable for implementation
+in retail banking environments.<<PARAGRAPH_END>>
+<<HEADING level=3>>Each description
+is intended
+only to provide
+an overview
+of the key management
+scheme,
+pointing out its main
+characteristics,
+the particular techniques
+employed
+and other useful information.<<HEADING_END>>
+<<HEADING level=3>>More detailed
+information
+about these schemes
+is to be found in the documems
+named
+as reference
+material within
+each description.<<HEADING_END>>
+<<HEADING level=3>>2
+Normative
+references<<HEADING_END>>
+<<PARAGRAPH>>The following standards
+contain provisions which, through
+reference
+in this text, constitute
+provisions of this part of
+ISO 11568.
+At the time of publication,
+the editions
+indicated
+were valid. All standards
+are subject to revision, and
+parties to agreements
+based on this part of ISO 11568
+are encouraged
+to investigate
+the possibility of applying the
+most recent editions of the standards
+indicated below. Members
+of IEC and ISO maintain
+registers of currently valid
+International
+Standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 8908:1993,
+Banking and related financial services — Vocabulary
+and data elements.<<HEADING_END>>
+<<HEADING level=3>>ISOIIEC
+9796:1991,
+Information
+technology
+—
+Security
+techniques
+—
+Digital
+signature
+scheme
+giving
+message
+recovery.<<HEADING_END>>
+<<HEADING level=3>>lSO/lEC
+9798-3:1993,
+Information
+technology
+—
+Security
+techniques
+—
+Entity
+authentication
+mechanisms
+—
+Part 3: Entity authentication
+using a public key algorithm.<<HEADING_END>>
+<<HEADING level=3>>lSO/lEC
+10118
+(all parts),
+/formation
+technology
+— Security techniques
+— Hash functions.<<HEADING_END>>
+<<HEADING level=3>>ISO 11166
+(ail parts),
+Banking — Key management
+by means
+of asymmetric
+algorithms.<<HEADING_END>>
+<<HEADING level=3>>ISO 11568-1:1994,
+Banking — Key management
+(retail) — Part 1: Introduction to key management.<<HEADING_END>>
+<<HEADING level=3>>lSO/lEC
+11 770:—1 ),  Information
+technology
+— Security
+techniques
+— Key management
+— Part
+3: Mechanisms
+using  asymmetric
+techniques.<<HEADING_END>>
+<<HEADING level=3>>ISO 13491-1
+:—1 ),
+Banking —
+Secure
+cryptographic
+devices
+(retail) —
+Pafl
+1:
+Concepts,
+requirements
+and
+evaluation
+methods.<<HEADING_END>>
+<<HEADING level=3>>ISO 13491 -2:—1 ),  Banking —
+Secure
+cryptographic
+devices
+(retail) — Part 2: Security
+compliance
+checkfkts
+for
+devices
+used in magnetic
+stripe card systems.<<HEADING_END>>
+<<HEADING level=3>>1)
+To be published.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>3
+Definitions<<HEADING_END>>
+<<HEADING level=3>>For the purposes
+of this part of ISO 11568,
+the definitions given in ISO 8908
+apply.<<HEADING_END>>
+<<HEADING level=3>>4
+Generic
+overview
+of retail banking
+key management
+schemes<<HEADING_END>>
+<<HEADING level=3>>A key management
+scheme
+is a set of rules that define how cryptographic
+keys in retail banking systems
+are to be
+created,
+distributed,
+used and replaced.<<HEADING_END>>
+<<PARAGRAPH>>The
+objective
+of a key management
+scheme
+is to ensure that cryptographic
+keys are managed
+in such a way that
+the data that is ultimately to be protected
+will be safeguarded
+from potential compromise
+resulting from non-secure
+creation,
+transfer,
+use or replacement
+of cryptographic
+keys.<<PARAGRAPH_END>>
+<<HEADING level=3>>In
+order
+to
+accomplish
+this
+objective,
+key
+management
+schemes
+shall
+employ
+key
+management
+techniques
+described
+in ISO 11568-2
+and ISO 11568-4.<<HEADING_END>>
+<<HEADING level=3>>Secure
+cryptographic
+devices,
+as described
+in ISO 13491,
+shall be used to provide the intended level of security.<<HEADING_END>>
+<<HEADING level=3>>The
+requirements
+and
+implementation
+of the
+phases
+of the
+life cycle
+of cryptographic
+keys
+are
+addressed
+in
+ISO 11568-3
+and ISO 11568-5.<<HEADING_END>>
+<<HEADING level=3>>Key management
+schemes
+may employ symmetric,
+asymmetric
+or hybrid techniques.<<HEADING_END>>
+<<HEADING level=3>>A key management
+scheme
+shall conform to the key management
+principles set out in ISO 11568-1.<<HEADING_END>>
+<<HEADING level=3>>5
+List of key management
+schemes<<HEADING_END>>
+<<HEADING level=3>>The following key management
+schemes
+are described
+in annex A of this part of ISO 11568.<<HEADING_END>>
+<<HEADING level=3>>—
+A.1 Inter-bank
+key management
+scheme
+(France)<<HEADING_END>>
+<<HEADING level=3>>—
+A.2 Transaction
+key management
+scheme
+(UK)<<HEADING_END>>
+<<HEADING level=3>>-
+A.3 Derived
+unique key per transaction
+scheme
+(USA)<<HEADING_END>>
+<<HEADING level=3>>—
+A.4 Telematic
+Base Security Standard
+(Switzerland)<<HEADING_END>>
+<<HEADING level=3>>—
+A.5 Terminal
+to Acquirer Key Management
+— Transaction
+Keys (Australia)<<HEADING_END>>
+<<HEADING level=3>>—
+A.6 Node to Node Key Management
+— Session
+Keys (Australia)<<HEADING_END>>
+<<HEADING level=3>>—
+A.7 Terminal
+to Acquirer Key Management
+— Session Keys (Australia)<<HEADING_END>>
+<<HEADING level=3>>—
+A.8 Terminal
+Cryptographic
+Unit Initialization
+using Asymmetric
+Cipher (Australia)<<HEADING_END>>
+<<HEADING level=3>>2<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>Annex A
+(informative)<<HEADING_END>>
+<<HEADING level=3>>Description
+of key management
+schemes<<HEADING_END>>
+<<HEADING level=3>>A.1
+Inter-bank
+key management
+scheme<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+— KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction withISO11568-6)<<HEADING_END>>
+<<HEADING level=3>>NAME
+OF KEY MANAGEMENT
+SCHEME:
+/nter-Bank
+Key  Management
+Scheme<<HEADING_END>>
+<<HEADING level=3>>SUBMITTED
+BY:  AFNOR
+(France)<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+DEA<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<HEADING level=3>>Master
+Key.<<HEADING_END>>
+<<HEADING level=3>>Connection
+Keys: Cryptoperiod
+is several years.<<HEADING_END>>
+<<PARAGRAPH>>Key encipherment
+keys: This
+is an optional
+layer
+in the
+key hierarchy
+for use
+in high-volume
+systems.
+Cryptoperiod
+is 3 times the cryptoperiod
+of data keys — less one day. This is 3 months at the most.<<PARAGRAPH_END>>
+<<HEADING level=3>>Data keys (= Session
+keys): Automatically
+generated
+and distributed every “n” days — 31 days at the most.
+These
+keys are:<<HEADING_END>>
+<<HEADING level=3>>—
+PIN Encryption
+key<<HEADING_END>>
+<<HEADING level=3>>—
+MAC key<<HEADING_END>>
+<<HEADING level=3>>NOTE
+This implementation is a variation of Master Key/Session Key.<<HEADING_END>>
+<<HEADING level=3>>KNOWN
+IMPLEMENTATIONS:
+Inter-bank
+network in France.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+Groupement
+Cartes
+Bancaires
+STUR
+RCB.<<HEADING_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.2
+Transaction
+key management
+scheme<<HEADING_END>>
+<<HEADING level=3>>RETAIL
+BANKING
+— KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction with ISO 11588-8)<<HEADING_END>>
+<<HEADING level=3>>NAME
+OF KEY MANAGEMENT
+SCHEME:
+APACS
+40 TRANSACTION
+KEY<<HEADING_END>>
+<<HEADING level=3>>SUBMITTED
+BY:  APACS,
+U.K.<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+DEA  (as defined in ANSI X3.92)<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<HEADING level=3>>The scheme
+carries out the functions of:<<HEADING_END>>
+<<HEADING level=3>>a)
+Message
+authentication
+— producing 32-bit MACS
+in accordance
+with ANSI X9.19.<<HEADING_END>>
+<<HEADING level=3>>b)
+PIN encryption
+— using a PIN/PAN
+block format in accordance
+with ANSI X9.8.<<HEADING_END>>
+<<HEADING level=3>>Key Management<<HEADING_END>>
+<<PARAGRAPH>>Separate
+keys are used for the two functions. The keys are updated for each transaction
+using card data, a
+key register
+and a one-way
+function. The key register is updated
+at the terminal
+and the host using MAC
+residues.<<PARAGRAPH_END>>
+<<HEADING level=3>>Messages
+within a transaction
+are linked by including the MAC
+residue
+from the previous
+message
+in the
+MAC calculation.<<HEADING_END>>
+<<HEADING level=3>>End-to-end
+and “break forward” protection for PIN’s can be acheived
+by omitting some of the card data from
+the transmitted
+messages.<<HEADING_END>>
+<<HEADING level=3>>NOTE
+This implementation is a variation on Non-Reversibly Transformed unique key per Transaction.<<HEADING_END>>
+<<HEADING level=3>>KNOWN
+IMPLEMENTATIONS:
+U.K.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+APACS
+Standard
+40:
+Acquirer
+hterface
+Requirements
+for Electronic Datg
+Capture
+Terminals:
+Data Capture
+Terminals:
+Part 3, Section 3 — Security.<<HEADING_END>>
+<<HEADING level=2>>I<<HEADING_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS
+15256
+(Part
+6):2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.3
+Derived
+unique
+key per transaction
+scheme<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+— KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction with ISO 11568-6)<<HEADING_END>>
+<<HEADING level=3>>NAME
+OF KEY MANAGEMENT
+SCHEME:
+Derived
+Unique Key per Transaction<<HEADING_END>>
+<<HEADING level=3>>SUBMITTED
+BY:  U.S.A.<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+DEA<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<HEADING level=3>>A unique key is ge~erated
+for each transaction.<<HEADING_END>>
+<<HEADING level=3>>A Security
+Management
+Information
+Data
+element
+(SMID)
+resides
+in each
+terminal
+and in each
+acquirer
+security module.<<HEADING_END>>
+<<HEADING level=3>>A SMID
+contains:<<HEADING_END>>
+<<HEADING level=3>>—
+key set identifier (KSID)
+that identifies/designates
+base key<<HEADING_END>>
+<<HEADING level=3>>—
+tamper
+resistant security module (TRSM)
+ID that enables
+acquirer to compute
+initially<<HEADING_END>>
+<<HEADING level=3>>—
+loaded key<<HEADING_END>>
+<<HEADING level=3>>—
+transaction
+counter,
+incremented
+with each transaction
+using cryptography.<<HEADING_END>>
+<<HEADING level=3>>Terminal
+derives (i.e. creates)
+a new transaction
+key from previous transaction
+key.<<HEADING_END>>
+<<HEADING level=3>>Based
+on data in its SMID,
+acquirer
+can compute
+transaction
+key for any transaction
+from any terminal
+to
+which it is linked.<<HEADING_END>>
+<<HEADING level=3>>KNOWN
+IMPLEMENTATIONS:
+U.S.A.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+ANSI X9.24.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.4
+Telematic
+Base Security
+Standard<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+— KEY MANAGEMENT
+SCHFMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction
+withISO11568-6)<<HEADING_END>>
+<<HEADING level=3>>NAME
+OF KEY MANAGEMENT
+SCHEME:
+Te/errratic Base Security Standard
+(TBSS)<<HEADING_END>>
+<<HEADING level=3>>SUBMITTED
+BY:  National
+Body of Switzerland<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+RSA, R/PEMD<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<PARAGRAPH>>The TBSS
+specifies services and mechanisms required to secure telebanking services. All mechanisms follow
+international standards (or drafts), limit the options allowed therein and specify algorithms to be used such that
+interoperability can be guaranteed.
+TBSS
+standardizes
+mechanisms and procedures for the following Security
+Services — Entity Authentication, Confidentiality, Non-repudiation of origin and receipt — and includes the necessary
+key management services and mechanisms. An outline of the relevant parts of TBSS is given below.<<PARAGRAPH_END>>
+<<HEADING level=3>>a)
+Key  Transport<<HEADING_END>>
+<<PARAGRAPH>>Describes the mechanisms for the secure transfer of secret keys to be used for symmetric algorithms. As key
+transport always has to be done in an authenticated manner, these mechanisms fulfil the aim of entity (or user)
+authentication at the same time. Three key transport mechanisms (which differ in the capabilities of the parlners
+and the features) are specified:<<PARAGRAPH_END>>
+<<HEADING level=3>>1)
+Key Transport
+Mechanism
+1<<HEADING_END>>
+<<PARAGRAPH>>One pass; uses Digital Signatures and RSA encipherment together with a time-stamp or sequence number.
+Follows lSO/lEC 11770-3 and conforms to ISO 11166-1.
+Features: Mutual authentication (implicit/explicit),
+key determined
+by one party.<<PARAGRAPH_END>>
+<<HEADING level=3>>2)
+Key Transport
+Mechanism
+2<<HEADING_END>>
+<<HEADING level=3>>Two pass; uses asymmetric encipherment (RSA) together with random numbers. Follows lSO/lEC 11770-3.
+Features: Unilateral authentication, key determined
+by one party.<<HEADING_END>>
+<<HEADING level=3>>3)
+Key Transport
+Mechanism
+3<<HEADING_END>>
+<<HEADING level=3>>Three
+pass;
+uses
+asymmetric
+encipherment
+(RSA)
+together
+with
+random
+numbers.
+Follows
+lSO/lEC
+11770-3.
+Features:
+Mutual authentication,
+key determined
+by both parties.<<HEADING_END>>
+<<HEADING level=3>>b)
+Public
+Key Transport
+without
+certificate<<HEADING_END>>
+<<HEADING level=3>>—
+Via authentic channel.<<HEADING_END>>
+<<HEADING level=3>>—
+With written confirmations.<<HEADING_END>>
+<<HEADING level=3>>—
+Transport
+of a signed message
+containing
+the Public Key; check authenticity
+by comparing
+a hash
+transported
+over a different channel
+(letter, registered
+mail).<<HEADING_END>>
+<<HEADING level=3>>c)
+Certification
+and Public
+Key Directories
+(This section is not written yet.)<<HEADING_END>>
+<<HEADING level=3>>NOTE
+Certain weaknesses
+in the RIPEMD
+algorithm
+have been identified by German
+cryptanalysts.<<HEADING_END>>
+<<HEADING level=3>>KNOWN
+IMPLEMENTATIONS:
+Videotext telebanking:
+currently being developed
+under this standard.
+EDIFACT
+message
+security: planned.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+lS()/lEC
+9796,
+lSO/lEC
+9798-3,
+lSO/lEC
+10118,
+lSd
+11166-1,
+ISO 11568-1,
+lSO/l EC 11770-3.<<HEADING_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.5
+Terminal
+to Acquirer
+Key Management
+— Transaction
+Keys<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+— KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction with ISO 11568-6)<<HEADING_END>>
+<<HEADING level=3>>iAME
+OF KEY MANAGEMENT
+SCHEME:
+Termirra/ to Acquirer Key Management
+— Transaction
+Keys<<HEADING_END>>
+<<HEADING level=3>>W BM ITTE D BY:  Australian
+National
+Body — Technical
+Committee
+IT15<<HEADING_END>>
+<<HEADING level=3>>WSOCIATED
+ALGORITHM(S):
+DEA<<HEADING_END>>
+<<HEADING level=3>>INSCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<PARAGRAPH>>~his standard
+specifies
+key
+management
+techniques
+for keys. used
+in the authentication,
+encryption
+and
+decryption
+of electronic
+messages
+relating
+to financial
+transactions
+using
+transaction
+keys.
+It may
+be
+~dopted in situations
+where
+a se’cure terminal-acquirer
+dialogue
+is desired
+and the terminal
+devices
+are at
+east tam~er-evident,
+as defined in clause 4.4 of AS 2805
+6.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>rhis key management
+system
+is based
+on a terminal
+key whose
+value
+at any time is dependent
+on the
+blessage
+Authentication
+Code
+(MAC)
+residues
+of previous
+transactions.
+For each transaction
+a new set of
+transaction keys,
+including
+a MAC
+key and a PIN encryption
+key, is cryptographically
+generated
+using the
+:erminal key and data read from the financial transaction
+card.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The scheme
+is intended
+to prevent
+back-tracking
+of previous transactions
+and to fulfil the requirements
+of a
+Terminal
+Cryptographic
+Unit (TCU)
+utilizing a 64-bit
+block oriented
+algorithm.
+Furthermore,
+the
+scheme
+provides for:<<PARAGRAPH_END>>
+<<HEADING level=3>>a)
+the encryption keys to change with every transaction;<<HEADING_END>>
+<<HEADING level=3>>b)
+different keys for PIN encryption,
+message
+authentication
+and privacy (data encryption);<<HEADING_END>>
+<<HEADING level=3>>c)
+a measure
+of end-to-end
+(acceptor
+to issuer) protection when card key information is available
+but not
+transmitted;<<HEADING_END>>
+<<HEADING level=3>>d)
+card issuer authentication
+by means of an Authentication
+Parameter
+(AP);<<HEADING_END>>
+<<HEADING level=3>>e)
+prevention
+of the use of data intercepted
+on the communications
+link from being used to derive future
+keys;<<HEADING_END>>
+<<HEADING level=3>>f)
+an
+audit
+trail by chaining
+together
+a successive
+set
+of transactions
+on the
+basis
+of the
+Message
+Authentication
+Code (MAC)
+residue key update procedures;<<HEADING_END>>
+<<HEADING level=3>>g)
+the usage of five permutations
+of subsets
+of the card data and the repeated
+application
+of a common
+one-way
+function;<<HEADING_END>>
+<<HEADING level=3>>h)
+the progressive
+implementation
+of parts of the scheme
+in appropriate
+intelligent card technology,
+thus
+providing a higher level of protection to the card holder.<<HEADING_END>>
+<<HEADING level=3>>NOTE
+This implementation is a variation on Non-Reversibly Transformed unique key per Transaction.<<HEADING_END>>
+<<HEADING level=3>>KNOWN
+IMPLEMENTATIONS:
+Australian
+EFT/POS
+Networks.
+Australian
+Banking Industry.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+Australian
+Standard AS 28056.2
+and others in this series.<<HEADING_END>>
+<<HEADING level=3>>7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.6
+Node
+to Node
+Key Management
+— Session
+Keys<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+— KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used  in conjunction  with ISO 11 568-6)<<HEADING_END>>
+<<HEADING level=3>>NAME
+OF KEY MANAGEMENT
+SCHEME:
+Node to Node  Key Management
+— Session
+Keys<<HEADING_END>>
+<<HEADING level=3>>SUBMITTED
+BY:  Australian National
+Body — Technical
+Committee
+IT15<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+DEA<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<PARAGRAPH>>This
+standard
+specifies
+key management
+techniques
+for keys
+used
+in the authentication,
+encryption
+and
+decryption
+of electronic
+messages
+relating to financial
+transactions
+using session
+keys.
+In particular,
+this
+standard
+defines
+security
+interface
+procedures
+between
+nodes,
+methods
+of interchange
+of the
+various
+encryption
+keys
+used for securing
+transactions
+and ensures
+that messages
+can only be authenticated
+at
+their correct
+destination.
+The
+conventions
+may be adopted
+in all situations
+where
+a secure
+node-to-node
+dialogue
+is desired
+and can be used in conjunction
+with the terminal-to-acquirer
+systems,
+as described
+in
+another
+part of the standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>The
+objective
+is to provide a key management
+scheme
+for use between
+any two “nodes in a network
+and
+divide different keys for PIN encryption,
+message
+authentication
+and privacy (data encryption).<<HEADING_END>>
+<<HEADING level=3>>A key hierarchy
+of two levels is maintained:<<HEADING_END>>
+<<HEADING level=3>>a)
+Level 1 — Key Enc~pting
+Key (KEK); the KEK is statistically
+unique to each link and is used to encrypt
+session
+keys to enable secure exchange
+of the keys on that link.<<HEADING_END>>
+<<PARAGRAPH>>b)
+Level 2 —
+Session
+Keys
+(KS);
+separate
+KS
+are
+maintained
+for
+each
+function
+and
+direction
+of
+transmission.
+There are two privacy (data encryption)
+keys on a link; one for encrypting
+data to be sent
+and the other for decrypting
+data
+received.
+There
+are two MAC
+keys:
+one for computing
+MACS
+on
+messages
+to be sent and the other for verifying
+MACS on messages
+received.
+There
+shall be two PIN
+encryption
+keys for encrypting PINs on a link, one for each direction of transmission.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+advantages
+of the system are two fold: a) the scheme
+is independent
+of the network architecture
+and
+allows for gateways
+to other networks, and b) the node-to-node
+scheme
+can be used in conjunction
+with the
+schemes
+as described
+in AS 28056.2
+and AS 28056.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+This implementation is a variation of Master Key/Session Key.<<HEADING_END>>
+<<HEADING level=3>>KNOWN
+lMPLEMENTATIONS:Australian
+EFT/POS
+Networks.
+Australian
+Banking
+Industry.
+Interchange
+between
+Australian
+banks and switches.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+Australian
+Standard
+AS 28056.3
+and others in this series.<<HEADING_END>>
+<<HEADING level=3>>8<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.7
+Terminal
+to Acquirer
+Key Management
+— Session
+Keys<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+—
+KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction
+withISO11568-6)<<HEADING_END>>
+<<HEADING level=3>>IAME OF KEY MANAGEMENT
+SCHEME:
+Terrnirra/to  Acquirer Key Management
+— Session Keys<<HEADING_END>>
+<<HEADING level=3>>;UBM llTED
+BY:  Australian
+National
+Body — Technical
+Committee
+IT15<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+DEA<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<PARAGRAPH>>‘his standard
+specifies
+key management
+techniques
+for keys
+used
+in the authentication,
+encryption
+and
+Decryption of electronic
+messages
+relating to financial
+transactions
+using session
+keys.
+In particular,
+this
+tandard
+defines
+security
+interface
+procedures
+between
+nodes,
+methods
+of interchange
+of the
+various
+mcryption
+keys
+used for securing
+transactions
+and ensures
+that messages
+can only be authenticated
+at
+heir correct destination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>rhe objective
+is to provide
+a key management
+scheme
+for use between
+a terminal
+and an acquirer
+in a
+letwork. The terminal-to-acquirer
+mechanism
+provides for session keys to be generated
+by the acquirer and
+or these
+to be communicated
+to the terminal
+encrypted
+under a key encrypting
+key. The
+key encrypting<<PARAGRAPH_END>>
+<<PARAGRAPH>>ieys
+are
+not like traditional
+master
+keys
+in that they
+are themselves
+updated
+by means
+of a one-way
+unction from information that is not transmitted.
+The key update is initiated by the acquirer,
+who controls the
+Ipdate frequency.<<PARAGRAPH_END>>
+<<PARAGRAPH>>rhe scheme
+is used to prevent
+back-tracking
+of key encrypting
+key changes
+and,
+hence,
+prevents
+back-
+packing of transactions
+prior to the last update of the key encrypting
+keys. Furthermore,
+the scheme
+divides
+iifferent keys for PIN encryption,
+message
+authentication
+and privacy (data encryption).<<PARAGRAPH_END>>
+<<HEADING level=3>>\ key hierarchy
+of two levels is maintained:<<HEADING_END>>
+<<HEADING level=3>>a)
+Level 1 — Key Encrypting
+Key (KEK); the KEK is statistically unique to each link and is used to encrypt
+session
+keys to enable
+secure exchange
+of the keys on that link.<<HEADING_END>>
+<<PARAGRAPH>>b)
+Level 2 —
+Session
+Keys
+(KS);
+separate
+KS
+are
+maintained
+for
+each
+function
+and
+direction
+of
+transmission.
+There
+are two privacy (data encryption)
+keys on a link: one for encrypting
+data to be sent
+and
+other
+for
+decrypting
+data
+received.
+There
+are
+two
+MAC
+keys:
+one
+for computing
+MACS
+on
+messages
+to be sent
+and the
+other
+for verifying
+MACS
+on messages
+received.
+There
+is one
+PIN
+encryption
+key
+for encrypting
+PINs
+on a terminal-to-acquirer
+link. For the terminal-to-acquirer
+links,
+these
+keys are dynamically
+created
+by the acquirer
+in such a way as to ensure
+statistical
+uniqueness
+and to prevent the ability to forecast any key.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The advantages
+of the system
+are two-fold: a) the scheme
+is independent
+of the network
+architecture
+and
+allows for gateways
+to other networks,
+and b) multiple acquirers
+are allowed access to terminals
+and each is
+responsible
+for its own security; less security on the part of one acquirer does not jeopardize
+the security of
+others.
+Each acquirer to which a terminal can conimunicate
+has its own partitioned set of keys and data that
+cannot be accessed
+by any other acquirer.<<PARAGRAPH_END>>
+<<HEADING level=3>>KNOWN
+lMPLEMENTATIONS:Australian
+EFT/POS
+Networks.
+Australian
+Banking Industry.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+Australian
+Standard
+AS 28056.4
+and others in this series.<<HEADING_END>>
+<<HEADING level=3>>9<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>IS
+15256
+( Part 6 ) :2002
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>A.8
+Terminal
+Cryptographic
+Unit Initialization
+using
+Asymmetric
+Cipher<<HEADING_END>>
+<<HEADING level=3>>RETAlL
+BANKING
+— KEY MANAGEMENT
+SCHEMES<<HEADING_END>>
+<<HEADING level=3>>(to be used in conjunction with ISO 11568-6)<<HEADING_END>>
+<<HEADING level=3>>NAME
+OF
+KEY
+MANAGEMENT
+SCHEME:
+Terminal
+Cryptographic
+Unit
+/nitia/ization
+using
+Asymmetric
+Cipher<<HEADING_END>>
+<<HEADING level=3>>SUBMITTED
+BY:  Australian
+National Body — Technical
+Committee
+IT15<<HEADING_END>>
+<<HEADING level=3>>ASSOCIATED
+ALGORITHM(S):
+DEA, RSA<<HEADING_END>>
+<<HEADING level=3>>DESCRIPTION
+OF SCHEME:<<HEADING_END>>
+<<PARAGRAPH>>The
+standard
+defines
+the interface
+and method to initialize
+remotely
+a Terminal
+Cryptographic
+Unit (TCU)
+and is designed
+to be adopted
+wherever
+secure
+remote terminal
+initialization
+is required and it is desired
+to
+avoid delivery
+via a sponsor facility for secure
+initialization.
+The term “initialization” refers only to the initial
+set-up of a cryptographic
+keying relationship between
+the TCU and the sponsor and acquirers.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+main objective
+of the scheme
+is to remove the requirement
+for visits by agents
+of acquirers
+during the
+life of a TCU
+for the purpose
+of initialization
+of key management
+cryptographic
+variables
+and defines
+the
+technique
+by which terminals
+can be remotely initialized.
+Initialization
+is limited to cryptographic
+initialization
+of the first key of the TCU’S key management
+scheme.
+Furthermore,
+the scheme
+minimizes
+the probability of
+initialization of TCUS unknown to the sponsor.<<PARAGRAPH_END>>
+<<HEADING level=3>>KNOWN
+IMPLEMENTATIONS:
+Australian
+EFT/POS
+Networks.
+Australian
+Banking
+Industry.
+Interchange
+between
+Australian
+banks and switches.<<HEADING_END>>
+<<HEADING level=3>>TECHNICAL
+REFERENCES:
+Australian
+Standard
+AS 2805
+6.5.3
+and others in this series.<<HEADING_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>IS
+15256
+( Part 6.)
+:2Q-02
+ISO
+11568-6:1998<<HEADING_END>>
+<<HEADING level=3>>Annex
+B
+(informative)<<HEADING_END>>
+<<HEADING level=3>>Bibliography<<HEADING_END>>
+<<HEADING level=3>>[1]
+ISO 8732:1988,
+Banking — Key management
+(who/esa/e).<<HEADING_END>>
+<<HEADING level=3>>[2]
+ISQ 11568-2:1994,
+Banking — Key management
+(retail) — Part  2:  Key management
+techniques
+for symmetric
+ciphers.<<HEADING_END>>
+<<HEADING level=3>>[3]
+ISO 11568-3:1994,
+Banking — Key management
+(retail) — Part 3: Key life cycle for symmetric
+ciphea.<<HEADING_END>>
+<<HEADING level=3>>[4]
+ISO 11 568-4:—2),
+Banking — Key
+management
+(retail) — Part 4: Key management
+techniques
+using public
+key cryptography.<<HEADING_END>>
+<<HEADING level=3>>[5]
+ISO 11 568-5:—2),
+Banking — Key management
+(retail) — Part 5: Key /ife cycle for pub/it
+key cryptosystems.<<HEADING_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>(Continued
+from
+second
+cover)<<HEADING_END>>
+<<HEADING level=3>>ISO
+11568-4:1998
+Banking
+—
+Key
+management
+(retail)
+—
+Part
+4
+: Key
+management<<HEADING_END>>
+<<HEADING level=3>>techniques
+using
+public
+key
+cryptography<<HEADING_END>>
+<<HEADING level=3>>ISO
+11568-5:1998
+Banking
+—
+Key
+management
+(retail)
+—
+Part
+5
+: Key
+life cycle
+for<<HEADING_END>>
+<<HEADING level=3>>public
+key
+cryptosystems<<HEADING_END>>
+<<HEADING level=3>>The
+Sectional
+Committee
+responsible
+for the preparation
+of  this standard
+has reviewed
+the provisions<<HEADING_END>>
+<<HEADING level=3>>of
+the
+above
+referred
+standards
+and
+has
+decided
+that
+they
+are
+acceptable
+as
+such
+for
+use
+in<<HEADING_END>>
+<<HEADING level=3>>conjunction
+with this standard.<<HEADING_END>>
+<<HEADING level=3>>Annexes
+A and B of this standard are for information only.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>Bureau
+of
+Indian
+Standards<<HEADING_END>>
+<<HEADING level=3>>BIS
+is a
+statutory
+institution
+established
+under
+the
+Bureau
+of h?dkm
+Standards
+Act,
+1986
+to<<HEADING_END>>
+<<HEADING level=3>>promote
+harmonious
+development
+of the activities of standardization,
+marking
+and quality certification<<HEADING_END>>
+<<HEADING level=3>>of goods
+and
+attending
+to connected
+matters
+in the country.<<HEADING_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<HEADING level=3>>BIS has the copyright
+of all its publications.
+No part of these
+publicatiotls
+may
+be reprodued
+in any<<HEADING_END>>
+<<HEADING level=3>>form without
+the prior permission
+in writing from
+BIS.
+This
+does
+not preclude
+the free
+use,
+in the<<HEADING_END>>
+<<HEADING level=3>>course
+of implementing
+the
+standard,
+of necessary
+details,
+such
+as symbols
+and
+sizes,
+type
+or<<HEADING_END>>
+<<HEADING level=3>>grade
+designations.
+Enquiries
+relating to copyright
+maybe
+addressed
+to the Director
+(Publications),<<HEADING_END>>
+<<HEADING level=3>>BIS.<<HEADING_END>>
+<<HEADING level=3>>Review
+of
+Indian
+Standards<<HEADING_END>>
+<<HEADING level=3>>Amendments
+are
+issued
+to standards
+as the
+need
+arises
+on the
+basis
+of comments.
+Standards<<HEADING_END>>
+<<HEADING level=3>>are also reviewed
+periodically;
+a standard
+along with amendments
+is reaffirmed
+when
+such review
+indicates
+that no changes
+are needed;
+if the review
+indicates
+that changes
+are needed,
+it is taken<<HEADING_END>>
+<<HEADING level=3>>up for revision.
+Users
+of Indian Standards
+should ascertain
+that they are in possession
+of the latest<<HEADING_END>>
+<<HEADING level=3>>amendments
+or edition
+by referring
+to the latest
+issue of ‘BIS Catalogue’
+and ‘Standards:
+Monthly<<HEADING_END>>
+<<HEADING level=3>>Additions’.<<HEADING_END>>
+<<HEADING level=3>>This
+Indian
+Standard
+has been
+developed
+from
+Doc
+: No.
+MSD
+7 (249).<<HEADING_END>>
+<<HEADING level=3>>Amendments
+Issued
+Since
+Publication<<HEADING_END>>
+<<HEADING level=3>>Amend
+No.
+Date
+of Issue
+Text Affeeted<<HEADING_END>>
+<<HEADING level=3>>BUREAU OF INDIAN STANDARDS<<HEADING_END>>
+<<HEADING level=3>>Headquarters
+:<<HEADING_END>>
+<<HEADING level=3>>Manak
+Bhavan,
+9 Bahadur
+Shah Zafar
+Marg, New Delhi 110002
+Telegrams
+: Manaksanstha
+Telephones
+: 32301
+31, 32333
+75, 3239402
+(Common
+to all offices)<<HEADING_END>>
+<<HEADING level=3>>Regional
+OfFices :
+Telephone<<HEADING_END>>
+<<HEADING level=3>>Manak
+Bhavan,
+9 Bahadur Shah Zafar
+Marg<<HEADING_END>>
+<<HEADING level=3>>Central
+:<<HEADING_END>>
+<<HEADING level=3>>{
+32376
+17
+NEW
+DELHI
+110002
+3233841<<HEADING_END>>
+<<HEADING level=3>>1/14 C.I.T.
+Scheme
+VI M, V. 1. P. Road, Kankurgachi<<HEADING_END>>
+<<HEADING level=3>>Eastern
+:<<HEADING_END>>
+<<HEADING level=3>>3378499,
+3378561
+KOLKATA 700054
+3378626,
+33791
+20<<HEADING_END>>
+<<HEADING level=3>>{<<HEADING_END>>
+<<HEADING level=3>>Northern
+:<<HEADING_END>>
+<<HEADING level=3>>SCO 335-336,
+Sector 34-A,
+CHANDIGARH
+160022<<HEADING_END>>
+<<HEADING level=3>>603843
+602025<<HEADING_END>>
+<<HEADING level=3>>{<<HEADING_END>>
+<<HEADING level=3>>C.I.T.
+Campus,
+IV Cross Road, CHENNAI
+600
+113<<HEADING_END>>
+<<HEADING level=3>>Southern
+:<<HEADING_END>>
+<<HEADING level=3>>254
+12 16, 254
+1442
+25425
+19, 254
+13 15<<HEADING_END>>
+<<HEADING level=3>>[<<HEADING_END>>
+<<HEADING level=3>>Manakalaya,
+E9 MlDC,
+Marol, Andheri (East)<<HEADING_END>>
+<<HEADING level=3>>Western
+:<<HEADING_END>>
+<<HEADING level=3>>8329295,
+8327858
+MUMBAI
+400093
+8327891,
+8!32 7892<<HEADING_END>>
+<<HEADING level=3>>{<<HEADING_END>>
+<<HEADING level=3>>AHMEDABAD.
+BANGALORE.
+BHOPAL.
+BHUBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD.
+JAIPUR.
+KANPUR.
+LUCKNOW.
+NAGPUR,
+NALAGARH.
+PATNA.
+PUNE,
+RAJKOT.
+THIRUVANANTHAPURAM.
+VISAKHAPATNAM.<<HEADING_END>>
+<<HEADING level=3>>Branches
+:<<HEADING_END>>
+<<PARAGRAPH>>Printed
+by Dee
+Kay
+Printers.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 16
+<<SECTION_END>>
+<<DOCUMENT_END>>

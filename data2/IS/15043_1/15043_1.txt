@@ -1,0 +1,2464 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<PARAGRAPH>>IS 15043(Part 1) :2001
+ISO 9992-1:1990<<PARAGRAPH_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>FINANCIAL
+TRANSACTION
+CARDS — MESSAGES
+BETWEEN
+THE INTEGRATED
+CIRCUIT CARD AND
+THE CARD ACCEPTING
+DEVICE<<HEADING_END>>
+<<HEADING level=3>>PART 1 CONCEPTS
+AND STRUCTURES<<HEADING_END>>
+<<PARAGRAPH>>ICS 35.240.15<<PARAGRAPH_END>>
+<<PARAGRAPH>>0 BIS 2001<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF
+INDIAN
+STANDARDS
+MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG
+NEW
+DELHI
+110002<<PARAGRAPH_END>>
+<<HEADING level=3>>December
+2001
+Price Group
+3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Banking
+and Financial
+Services Sectional Committee,
+MSD 7<<PARAGRAPH_END>>
+<<PARAGRAPH>>NATIONAL
+FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This
+Indian
+Standard
+(Part
+1) which
+is identical
+with
+ISO 9992-1:1990
+‘Financial
+transaction
+cards
+—
+Messages
+between
+the integrated
+circuit card and the card accepting
+device-Part
+1: Concept
+and structures’
+issued
+by the International
+Organization
+for Standardization
+(1S0)
+was adopted
+by the Bureau
+of Indian
+Standards
+on the recommendation
+of the Banking
+and Financial
+Services
+Sectional
+Committee
+(MSD
+7) and
+approval
+of the Management
+and Systems Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The text of the International
+Standard
+has been approved
+as suitable
+for publication
+as an Indian
+Standard
+without
+deviations.
+Certain conventions
+are, however, not identical to those used in Indian Standards.
+Attention
+is particularly
+drawn to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wherever
+the words ‘International
+Standard’
+appear referring to this standard,
+they should be read as
+‘Indian Standard’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the adopted
+standard,
+normative
+reference
+appears
+to certain
+International
+Standards
+for which
+Indian
+Standards
+also exist. The corresponding
+Indian Standards
+which are to be substituted
+in their place are listed
+below along with their degree ofequivaience
+for the editions indicated:<<PARAGRAPH_END>>
+<<HEADING level=3>>Degree of
+Equivalence<<HEADING_END>>
+<<HEADING level=3>>International
+Corresponding
+Standard
+Indian Standard<<HEADING_END>>
+<<HEADING level=3>>1S07810
+:1985
+1S 14172:
+1994/ISO 7810:
+1985  Identification
+cards — Physical
+characteristics<<HEADING_END>>
+<<PARAGRAPH>>Identical<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S07812
+:1987
+Is
+14173
+:
+1994AS0
+7812
+:
+1987
+Identification
+cards —
+Numbering
+system and registration
+procedure
+for issues identifier<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S07813
+:1990
+IS 14174:
+1994/ISO 7813:1990
+Identification
+cards — Financial
+transaction
+cards<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S0 10202
+IS 14958 (Part 1) : 2001/ISO
+10202-1:1991
+Financial transaction
+cards — Security
+architecture
+of
+financial
+transaction
+systems
+using integrated circuit cards: Part 1 Card life cycle<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 2) : 2001/1S0
+10202-2:1996
+Financial transaction
+cards
+—
+Security
+architecture
+of financial
+transaction
+systems
+using integrated circuit cards: Part 2 Transaction
+process<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 3) : 2001/ISO
+10202-3:1998
+Financial transaction
+cards
+—
+Security
+architecture
+of financial
+transaction
+systems
+using
+integrated
+circuit
+cards:
+Part
+3
+Cryptographic
+key
+relationships<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 4) : 2001/ISO
+10202-4:1996
+Financial transaction
+cards
+—
+Security
+architecture
+of financial
+transaction
+systems
+using integrated circuit cards: Part 4 Secure application
+modules<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 5) :200 l/ISO
+10202-5:1998
+Financial transaction
+cards — Security
+architecture
+of
+financial
+transaction
+systems
+using integrated circuit cards: Part 5 Use of algorhhms<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 6) : 2001AS0
+10202-6:1994
+Financial transaction
+cards
+—
+Security
+architecture
+of financial
+transaction
+systems
+using integrated
+circuit cards: Part 6 Cardholder
+verification<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 7) : 2001/ISO
+10202-7:1998
+Financial transaction
+cards
+—
+Security
+architecture
+of financial
+transaction
+systems
+using integrated circuit cards: Part 7 Key management<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS 14958 (Part 8) : 2001/1S0
+10202-8:
+1998 Financial transaction
+cards — Security architecture of financial transaction systems using
+integrated circuit cards: Part 8 General principles and overview<<PARAGRAPH_END>>
+<<PARAGRAPH>>do<<PARAGRAPH_END>>
+<<HEADING level=3>>(Continued on third cover)<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS
+15043
+(  Part 1 ) :2001
+ISO
+9992-1
+:1990<<HEADING_END>>
+<<HEADING level=3>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>FINANCIAL
+TRANSACTION
+CARDS — MESSAGES
+BETWEEN
+THE INTEGRATED
+CIRCUIT CARD .4ND
+THE CARD ACCEPTING
+DEVICE<<HEADING_END>>
+<<HEADING level=3>>PART 1 CONCEPTS
+AND STRUCTURES<<HEADING_END>>
+<<PARAGRAPH>>- this
+part
+of 1S0 9992
+supports
+the
+use
+of a single
+application
+or
+multiple
+applications
+in an ICC. When
+more
+than
+one
+application
+exists
+in
+the
+ICC,
+multiple
+applications
+of the same
+type
+of service
+(e.g.
+electronic
+chequebook)
+may
+be
+present.
+Applications
+may be added
+to the
+ICC at any
+time during
+its life cycle, with
+the agreement
+of the issuer,
+and
+according
+to security
+rules
+defined
+in 1S0 10202.
+An application
+may
+be
+logically
+deleted
+from
+the
+ICC
+at
+any
+time
+during
+its life cycle, in accordance
+with agreed
+procedures
+between
+the operating
+parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Introduction<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+concepts
+on which
+this
+part
+of 1S0 9992
+has
+been
+developed
+are
+based
+upon
+the
+following
+considerations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>- this
+part
+of 1S0 9992 provides
+compatibility
+with
+existing
+1S0
+standards
+referenced
+in
+clause
+2 and
+is
+intended
+to
+provide
+the flexibility
+to accommodate
+future
+Integrated
+Circuit
+Card (ICC) technology;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS
+15043
+( Part 1 ) :2001
+ISO
+9992-1
+:1990<<HEADING_END>>
+<<HEADING level=3>>1  Scope<<HEADING_END>>
+<<HEADING level=3>>2  Normative
+references<<HEADING_END>>
+<<PARAGRAPH>>The
+following
+standards
+contain
+provisions
+which,
+through
+reference
+in
+this
+text,
+constitute
+provisions
+of this part
+of 1S0 9992.
+At
+the
+time
+of publication,
+the
+editions
+indicated
+were valid. All standards
+are subject
+to revision,
+and parties
+to agreements
+based  on
+this
+part
+of 1S0
+9992
+are
+encouraged
+to
+investigate
+the possibility
+of applying
+the most
+recent
+editions
+of the
+standards
+indicated
+below.
+Members
+of IEC
+and
+1S0
+maintain
+registers
+of currently
+valid
+International
+Standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of 1S0 9992 is applicable
+to the use of
+Integrated
+Circuit
+Cards
+issued
+by Financial
+Institutions
+in retail
+financial
+applications
+in
+an interchange
+environment.
+It specifically
+addresses:<<PARAGRAPH_END>>
+<<PARAGRAPH>>the
+functions
+required
+for
+financial
+interchange,<<PARAGRAPH_END>>
+<<PARAGRAPH>>the
+structure
+and
+types
+of
+messages
+between
+the Integrated
+Circuit
+Card
+(ICC) and the Card Accepting
+Device (CAD) to
+effect those functions,<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S049o9
+:1987,<<PARAGRAPH_END>>
+<<HEADING level=3>>Bank cards-Magnetic
+stri-
+pe o!utacontent for track 3.<<HEADING_END>>
+<<PARAGRAPH>>- the identilkation
+and definition
+of data
+elements
+which
+may
+or shall
+be used
+during
+exchanges
+between
+the
+ICC and
+the
+CAD.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S0 7810:1985,<<PARAGRAPH_END>>
+<<HEADING level=3>>I&ntification
+cards -
+Physical
+characteristics.<<HEADING_END>>
+<<PARAGRAPH>>1S0 9992-1 establishes
+the concepts
+by which
+the ICC and the CAD exchange
+messages.
+This
+makes
+it necessary
+also to describe
+the logical
+structure
+of data within
+the ICC.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S0 7812:1987,<<PARAGRAPH_END>>
+<<HEADING level=3>>Identification
+cards -
+Numbering
+system and
+registration
+procedure
+for
+issuer identifiers<<HEADING_END>>
+<<PARAGRAPH>>This
+part
+of ISO 9992
+defines
+messages
+to
+support
+the
+security
+requirements
+of
+authentication
+(e.g. card
+authentication,
+CAD
+authentication,
+cardholder
+verification).
+It
+does not specify
+or recommend
+any method
+or
+procedure.
+Security
+techniques
+shall
+be
+implemented
+in accordance
+with 1S0 10202.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S0 7813:1987,<<PARAGRAPH_END>>
+<<HEADING level=3>>Identification
+cards -
+Finuncial
+transaction
+cards.<<HEADING_END>>
+<<PARAGRAPH>>1S0 7816-3:1989,<<PARAGRAPH_END>>
+<<HEADING level=3>>Identification
+cards
+-
+Integrated
+circuit(s)
+cards
+with
+contacts.
+Part
+3
+:
+Electronic
+signals
+and
+transmission
+protocols.<<HEADING_END>>
+<<PARAGRAPH>>This
+part
+of 1S0 9992
+is independent
+of the
+capabilities
+of the
+CAD (connectable
+or not,
+attended
+or unattended)
+and its status
+(on-line
+or off-line).<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S0 7816-4 :---- 1),<<PARAGRAPH_END>>
+<<HEADING level=3>>Identification
+cards
+-
+Integrated
+circuit(s)
+cards
+with
+contacts.
+Part
+4
+:
+Interindustry
+commands
+(under study
+by 1S0 IIEC
+111 714)<<HEADING_END>>
+<<PARAGRAPH>>This
+part
+of 1S0
+9992
+does
+not
+define
+the
+methodologies
+deployed
+to
+implement
+an
+application.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1s0 10202:
+-----l),<<PARAGRAPH_END>>
+<<HEADING level=3>>Financial
+transaction
+cards
+- Securit~
+architec-
+ture of fman.cial
+transac-
+tion
+systems
+using
+inte-
+grated circuit carols. v<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 9992 is based on the existence
+of a logical
+data
+structure
+and provides
+rules
+for
+the
+way
+data
+in
+the
+ICC
+is
+logically
+referenced
+by the CAD. It does not define
+how
+data is physically
+structured
+in the ICC.<<PARAGRAPH_END>>
+<<HEADING level=3>>-----------------------------------------------------
+U  To  be  published.<<HEADING_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS
+15043
+( Part 1 ) :2001
+ISO
+9992-1
+:1990<<HEADING_END>>
+<<PARAGRAPH>>3 Definitions
+and abbreviations<<PARAGRAPH_END>>
+<<PARAGRAPH>>Personal
+Identification
+Number
+(PIN):
+The
+code
+or password
+the
+customer
+possesses
+for
+verification
+of identity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the  purpose
+of this International
+Standard,
+the following
+definitions
+apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>response:
+A message
+returned
+to the initiator
+after
+the
+processing
+of a command
+to
+the
+recipient.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Application
+Data
+File
+(ADF):
+A file
+that
+supports
+one or more services.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Card
+Accepting
+Device
+(CAD)
+The
+device
+used
+to interface
+with
+the
+Integrated
+Circuit
+Card.<<PARAGRAPH_END>>
+<<HEADING level=3>>4  Concepts and structures<<HEADING_END>>
+<<PARAGRAPH>>4.1 Logical
+structure
+of the data within
+tbe
+Icc<<PARAGRAPH_END>>
+<<PARAGRAPH>>command:
+A request
+or advice message
+which
+initiates
+an
+action
+and
+which
+solicits
+a
+response.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The logical
+data
+structure
+enables
+an ICC to
+support,
+with
+the
+minimum
+duplication
+of
+data,
+services
+independent
+from
+each
+other.
+These
+services
+may
+be provided
+by different
+application
+suppliers.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Common
+Data File (CDF):
+A mandatory
+file
+that contains
+the common
+data elements
+stored
+in the ICC and used
+to describe
+the card,
+the
+card issuer
+and the cardholder.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Data
+that
+may
+be
+used
+by
+all
+services
+supported
+by an ICC (e.g. PAN,
+card
+expiry
+date)
+are contained
+in the Common
+Data
+FiIe
+(CDF).
+Only one CDF shall
+be present
+in an
+ICC. The card
+issuer
+shall
+be responsible
+for
+the presence,
+contents
+and use of the CDF.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iile:
+An organised
+set of data
+elements
+andlor
+program
+code in the ICC.<<PARAGRAPH_END>>
+<<PARAGRAPH>>function:
+A process
+accomplished
+by one or
+more commands
+and resultant
+actions
+which is
+used to perform
+all or part of a transaction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Data
+stored
+in an ICC to service
+a business
+transaction
+is contained
+in the CDF and/or
+in
+an Application
+Data
+File (ADF).
+One or more
+ADF maybe
+present
+in an ICC to accommodate
+different
+financial
+and non-financial
+services.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Integrated
+Circuit Card (ICC):
+An ID-1 type
+card (see 1S0 7810) into which has been
+embedded
+one or more integrated
+circuits.<<PARAGRAPH_END>>
+<<PARAGRAPH>>message:
+An
+ordered
+series
+of characters
+transmitted
+from the CAD to the ICC
+or vice-
+versa.<<PARAGRAPH_END>>
+<<PARAGRAPH>>An
+ICC
+may
+contain
+a CDF
+without
+the
+presence
+of an ADF.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Primary
+Account
+Number
+(PAN):
+The
+assigned
+number
+that identities
+the card issuer
+and cardholder.
+This number
+is composed
+of an
+issuer
+identification
+number,
+individual
+account
+identification,
+and
+an accompanying
+check digit.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2  Interactions
+between
+the ICC
+and
+the
+CAD<<PARAGRAPH_END>>
+<<PARAGRAPH>>The ICC and the CAD interact
+using messages.
+These
+messages,
+which
+are
+commands
+and
+their
+responses,
+are
+used
+to
+accomplish
+functions
+which are part or all of a transaction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE: Equivalent
+to identiik,tion
+number,
+as
+specifklin1S07812.
+See also 1S0 4909.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS
+15043
+( Part 1 ) :2001
+ISO
+9992-1
+:1990<<HEADING_END>>
+<<PARAGRAPH>>4.3 Data
+access
+attributes<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex
+A illustrates
+the
+relationships
+which
+are described
+here&er.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3.1
+Read
+access
+attributes<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2.1
+Relationship
+between
+transactions
+and
+functions<<PARAGRAPH_END>>
+<<PARAGRAPH>>Three classes of read access are defined:<<PARAGRAPH_END>>
+<<PARAGRAPH>>- Public
+Read
+Access
+(PR):
+The
+data
+is
+available
+to
+the
+CAD
+without
+any
+restriction;<<PARAGRAPH_END>>
+<<PARAGRAPH>>A
+transaction
+(e.g.
+cash
+withdrawals,
+purchase,
+PIN change)
+consists
+of one or more
+functions
+(e.g. cardholder
+verification,
+CAD
+authentication,
+transaction
+recording).<<PARAGRAPH_END>>
+<<PARAGRAPH>>- Conditional
+Read Access (CR): The data
+is
+available
+only
+af?,er specific
+criteria
+have
+been me~<<PARAGRAPH_END>>
+<<PARAGRAPH>>- No Read Access (NR): The data
+shall
+never
+be read by the CAD.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Those
+functions
+mandatory
+or
+which
+are
+defined
+as either
+recommended
+for
+use
+in
+international
+~lnancial
+interchange
+are
+specified
+in
+part
+2 of this
+International
+Standard.
+Additional
+functions
+may be added
+to
+support
+activities
+defined
+by
+bilateral
+agreements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3.2
+Write access attributes<<PARAGRAPH_END>>
+<<PARAGRAPH>>Three classes
+of write access are defined:<<PARAGRAPH_END>>
+<<PARAGRAPH>>- Free Write
+Access
+(FW): The data
+maybe
+added,
+modified
+or
+deleted
+without
+any
+restriction;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2.2
+Relationship
+between
+functions
+and
+messages<<PARAGRAPH_END>>
+<<PARAGRAPH>>- Conditional
+Write
+Access
+(CW) : The data
+may be added, modiiled
+or deleted
+only after
+spec%c criteria
+have been me~<<PARAGRAPH_END>>
+<<PARAGRAPH>>A function
+as
+described
+in
+4.3.1
+shall
+be
+accomplished
+using
+one
+or
+more
+pairs
+of
+messages.
+These
+messages
+are commands
+(e.g.
+read,
+write)
+and
+their
+responses
+(e.g.
+acknowledgement,
+data).
+After
+processing
+a
+command,
+resulting
+in a decision
+and/or
+an
+action,
+the receiver
+shall
+return
+a response
+to
+the sender.<<PARAGRAPH_END>>
+<<HEADING level=3>>- One time
+Write
+Access
+(OW) : The
+data,
+once written,
+cannot
+be altered
+or  modikl.<<HEADING_END>>
+<<PARAGRAPH>>4.4 Compatibility
+with
+present
+technology<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+commands
+and
+responses
+used
+to
+accomplish
+each function
+are ident~led
+in part
+3 of this International
+Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The Primary
+Account
+Number,
+or PAN,
+shall
+always
+be present
+in the CDF
+(see 1S0 7812,
+7813 and 4909).<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the
+ICC also
+contains
+an
+embossed
+PAN
+andior
+magnetic
+stripes
+encoded
+according
+to
+1S0 7813, the International
+Interchange
+PAN
+in the CDF shall be identical
+to that
+embossed
+andor
+that encoded in the magnetic
+stripes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Oeneric
+commands
+are described
+in 1S0 7816-
+4.
+Financial
+ICC
+specific
+commands
+are
+described
+in
+part
+3 of this
+International
+Standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS
+15043
+( Part 1 ) :2001
+ISO
+9992-1
+:1990
+Annex
+A
+(informative)
+Relationships
+between
+transactions,
+functions
+and
+messages<<HEADING_END>>
+<<HEADING level=2>>\
+®
+)p  .,~jfi.
+....<<HEADING_END>>
+<<PARAGRAPH>>,,:,,.:.<+,
+,::: ra
+:,:,:,:,.::,,,.,,,
+b<<PARAGRAPH_END>>
+<<HEADING level=3>>--.-. -.IAND
+>;fi .....
+,:~,f.}<.:i.;
+.....
+Wm
+E
+.....<<HEADING_END>>
+<<HEADING level=1>>~’
+:i;:,:
+,fi~
+.~
+....
+:,::.:.:..
+,,,,,,,
+....<<HEADING_END>>
+<<HEADING level=1>>E
+.,
+.’,:.  .:$y’.-’..
+: : :
+:::,>...,::;.:.,.
+.-
+. . . .
+. ..--..
+..,.
+JL
+.
+.
+... ...... ...
+.
+.
+.
+.
+.
+.<<HEADING_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>“’”’’”.+.
+.,.,.,.,,,,, ,,,,
+: : : .  “%,::.:,::,.,,.,.,
+,,
+.,.,.,..,
+.......... ....... ,.,...,,,,,y~;.y~;
+',Y.:.....t{_.
+i.:~::,,:,.::,:,:,+.:.,.:,:,.,.,,.,,
+.,.,..
+.
+.....
+.,............................. ....,,,.,.,::.,:,:,:::.:,..,,
+,,,:,.,.,,,.,,.,.:.,.:.,,,,.,.,,.
+..,.,,:...,...,.:.,.,.,...,.,.,.
+.:...:,:::,:::,...,,,,.:,,,.., .... ..
+. . . .
+..,.’ .,. .,..,.
+................. ..
+...
+,.,.,.,.,.,.,:,,,,.,.,
+.,,
+...
+..
+.
+.
+.
+.  s ....................
+.,........................,..,.,.,.,.,.
+...,,.,..... .,,:,:,,,.,.,.,.,.,.,:,,,::x::?~
+.. . . ..
+.... ........................,,,.,.,,,,
+,,................. ..........
+.
+..,,..,,,,,,
+.,............................
+. ... .....,:.?,,.,.......,,.,:,
+,:7,
+...:,.,,,,,,,
+,,,,.,.
+..,.,,,,.
+,,
+.,,,,,,,<<PARAGRAPH_END>>
+<<PARAGRAPH>>. . . . . .
+,j$y.:$
+. . . . . .<<PARAGRAPH_END>>
+<<PARAGRAPH>>...? .:.:,,,
+.
+.
+.
+.
+:
+:
+:
+:::.,,,,:,::,
+.:;,  W.,:,:,:
+-
+. . . .<<PARAGRAPH_END>>
+<<PARAGRAPH>>::::;;>:.,,,,,  ,:,~,~:$~,j
+. . . .<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<HEADING level=1>>.
+.
+.
+.  s
+........,....
+,.
+..0
+!.
+...
+.
+.
+.
+.<<HEADING_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<HEADING level=1>>I
+....
+....
+....<<HEADING_END>>
+<<HEADING level=1>>.
+.
+.
+.  0
+............<<HEADING_END>>
+<<PARAGRAPH>>!.
+...
+,.
+...
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>!.
+..1
+!.
+...
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<HEADING level=3>>*
+{
+4
+RESPONSE<<HEADING_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>N<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<HEADING level=1>>I
+ACTION
+1
+I<<HEADING_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<HEADING level=1>>atdor
+DECKION
+I
+\
+#
+(~
+RESPONSE<<HEADING_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>------
+. . . . . .
+. . . . . .<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+m:;!:::
+...............
+...............
+...............
+...............
+................
+..........................................-------------
+.......................................
+........................
+.......................................
+........................
+............................................___________
+.......................................................
+........................
+.......................................
+.......................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>$yJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+g<<PARAGRAPH_END>>
+<<PARAGRAPH>>------<<PARAGRAPH_END>>
+<<PARAGRAPH>>N
+a
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .<<PARAGRAPH_END>>
+<<PARAGRAPH>>f<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS
+15043
+( Part 1 ) :2001
+ISO
+9992-1:1990<<HEADING_END>>
+<<HEADING level=3>>Notations
+on  ICC  relationships<<HEADING_END>>
+<<PARAGRAPH>>The
+schematic
+shows
+the relationships
+between
+the components
+of a session
+initiated
+by the
+insertion
+of an ICC into the CAD and terminated
+by its removal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The illustration
+is not intended
+to show that the flow is unidirectional
+(from CAD to ICC), nor does
+it imply
+that
+future
+technology
+will be restricted
+to these
+boundaries
+(e.g. an entire
+transaction
+may be accomplished
+by a single command
+and response).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Three
+levels of relationships
+are identii5ed
+in this schematic.<<PARAGRAPH_END>>
+<<PARAGRAPH>>function
+consisting
+of a single
+command
+which causes
+a single
+action
+or decision
+followed
+by a response
+is expressed
+as<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>F = [Cl
++ AUDI
++ RI]<<PARAGRAPH_END>>
+<<PARAGRAPH>>function
+consisting
+of multiple
+sets
+of commands,
+actionsldecisions
+and
+responses
+is
+expressed
+as<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>F = [(C1 + Al + Rl) + (C2 + D2 + R2)... +(C5
++ D5 + R5)1<<PARAGRAPH_END>>
+<<PARAGRAPH>>function
+consisting
+of a single
+command
+and
+response
+that
+has
+multiple
+actions
+and
+decisions
+is expressed
+as<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<PARAGRAPH>>F=[C1+(A1+
+D2+A3)+R1]<<PARAGRAPH_END>>
+<<PARAGRAPH>>where F is the function<<PARAGRAPH_END>>
+<<PARAGRAPH>>Cl, C2 etc. are commands;
+Al, A2 etc. are actions,
+Dl, D2 etc. are decisions;
+and
+R1, R2 etc. are responses.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>(Continuedfrom
+second cover)<<HEADING_END>>
+<<PARAGRAPH>>The
+International
+Standard
+1S0
+7812
+for which
+the corresponding
+Indian
+Standard
+is IS
+14173
+: 1994/
+1S078
+12:1987
+has since been revised and has been published
+in the following two parts:<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 7812-1:1993
+Identification
+cards — Identification
+of issuers: Part 1 Numbering
+system<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 7812-2:1993
+Identification
+cards — Identification
+of issuers: Part 2 Application
+and
+registration
+procedures<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+international
+Standard
+1S0
+7813
+for which
+the
+corresponding
+Indian
+Standard
+is 1S 14174:
+1994/
+1S078
+13:1990
+has since been revised as the following standard:<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 7813:1995
+Identification
+cards — Financial transaction
+cards<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the adopted standard,
+normative
+references
+also appear to the following
+International
+Standards
+for which no
+Indian Standards
+existi<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 4909:1987
+Bank cards — Magnetic stripe data content for track 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>LSO/IEC 7816-3:1989
+Identification
+cards — Integrated
+circuit(s)
+cards with contacts — Part 3:
+Electronic
+signals and transmission
+protocols<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 7816-4
+Identification
+cards — Integrated
+circuit(s)
+cards with contacts — Part 4:
+Interindustry
+commands
+for interchange<<PARAGRAPH_END>>
+<<PARAGRAPH>>The technical
+committee
+responsible
+for the preparation
+of this standard
+has reviewed
+the provisions
+of the
+above referred standards
+and has decided that they are acceptable
+for use in conjunction
+with this standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The International
+Standard 1S0 4909 has been revised and the details of revised version are given below:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1s0 4909:2000
+Bank cards — Magnetic stripe data content for track 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>The revised version is under consideration
+for adoption as an Indian Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>So far, two parts
+of the International
+Standard
+1S0 9992 have been published.
+The tollowing
+part of this
+International
+Standard
+is under consideration
+for adoption as an Indian Standard:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1S0 9992-2:1998
+Financial
+transaction
+cards — Messages
+between
+the integrated
+circuit
+card
+and
+the
+card
+accepting
+device
+—
+Part
+2: Functions,
+messages
+(commands
+and responses),
+data elements and structures<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex A of this standard is for information
+only.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS
+is a statutory
+institution
+established
+under
+the  Bureau
+of Indian
+Standards
+Act,
+1986
+to promote
+harmonious
+development
+of the activities
+of standardization,
+marking
+and quality
+certification
+of goods
+and attending
+to connected
+matters
+in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright
+of all its publications.
+No part of these publications
+may be reproduced
+in any form
+without
+the
+prior
+permission
+in writing
+of BIS.
+This
+does
+not preclude
+the
+free
+use,
+in the
+course
+of
+implementing
+the standard,
+of necessary
+details,
+such
+as symbols
+and sizes,
+type
+or grade
+designations.
+Enquiries
+relating
+to copyright
+be addressed
+to the Director
+(Publications),
+BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review
+of Indian
+Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments
+are issued to standards
+as the need arises on the basis of comments.
+Standards
+are also reviewed
+periodically;
+a standard
+along with amendments
+is reaffirmed
+when such review
+indicates
+that no changes
+are
+needed;
+if the review
+indicates
+that changes
+are needed,
+it is taken up for revision.
+Users of Indian
+Standards
+should ascertain
+that they are in possession
+of the latest amendments
+or edition by referring
+to the latest issue of
+‘BIS Catalogue’
+and ‘Standards:
+Monthly
+Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian
+Standard
+has been developed
+from Doc : No.
+MSD7(181).<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments  Issued Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend
+No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU
+OF INDIAN
+STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters
+:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg, New Delhi 110002
+Telegrams
+: Manaksanstha
+Telephones
+:3230131,3233375,323
+9402
+(Common
+to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional
+Offices
+:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+: Manak
+Bhavan,
+9 Bahadur
+Shah Zafar Marg<<PARAGRAPH_END>>
+<<PARAGRAPH>>3237617
+NEW DELHI
+110002
+3233841<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+: 1/14 C.1.T. Scheme VII M, V. I. P. Road, Kankurgachi<<PARAGRAPH_END>>
+<<PARAGRAPH>>3378499,3378561
+KOLKATA
+700054
+3378626,3379120<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+: SCO 335-336,
+Sector 34-A, CHANDIGARH
+160022<<PARAGRAPH_END>>
+<<PARAGRAPH>>603843
+602025<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+: C.1.T. Campus,
+IV Cross Road, CHENNAI
+600113<<PARAGRAPH_END>>
+<<PARAGRAPH>>2541216,2541442
+2542519,2541315<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+: Manakalaya,
+E9 MIDC,
+Marol, Andheri
+(East)<<PARAGRAPH_END>>
+<<PARAGRAPH>>8329295,
+8327858
+MUMBAI
+400093
+8327891,8327892<<PARAGRAPH_END>>
+<<PARAGRAPH>>{<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+: AHMEDABAD.
+BANGALORE.
+BHOPAL.
+BHUBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZIABAD.
+GUWAHATI.
+HYDERABAD.
+JAIPUR.
+KANPUR.
+LUCKNOW.
+NAGPUR. NALAGARH.
+PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Prhteclat  Prabhat
+Offset
+Press,
+New
+Delhi-z<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 10
+<<SECTION_END>>
+<<DOCUMENT_END>>

@@ -1,0 +1,481 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "EUROPEAN STANDARD EN 50504\nNORME EUROPEENNE\nEUROPAISCHE NORM July 2008\nICS 25.160.10\nEnglish version\nValidation of arc welding equipment\nValidation du mat\u00e9riel de soudage a Validierung von\nLichtbogenschweiBeinrichtungen\nThis European Standard was approved by CENELEC on 2008-06-01. CENELEC members are bound to comply\nwith the CEN/CENELEC Internal Regulations which stipulate the conditions for giving this European Standard\nthe status of a national standard without any alteration.\nUp-to-date lists and bibliographical references concerning such national standards may be obtained on\napplication to the Central Secretariat or to any CENELEC member.\nThis European Standard exists in three official (English, French, German). A version in any other\nlanguage made by under the of a CENELEC member into its own language and notified\nto the Central Secretariat has the same status as the official versions. am\nCENELEC members are the national electrotechnical committees of Austria, Cyprus, the\nCzech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia,\nLithuania, Luxembourg, Matta, the Netherlands; Norway, Poland, Portugal, Romania, Slovaida, Slovenia, Spain,\nSweden, Switzerland and the United Kingdom.\nEuropean Committee for Electrotechnical Standardization\nComits Europ\u00e9en de Normalisation Electrotechnique\nEuropaisches Komitee fir Elektrotechnische Normung\nCentral Secretariat: nie de Stassart 35, B - 1050 Brussels\n\u00a9 2008 All rights of exploitation in any form and by any means worldwide for CENELEC members.\nRef. No. EN 50504-2008 E\nlist 1 od 25",
+          "bbox": [
+            670,
+            197,
+            3239,
+            4190
+          ],
+          "block_id": "b1_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_1.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Foreword This European Standard has been prepared by the Technical Committee CENELEC TC 26A, at national level by publication of an identical national standard or by endorsement (dop) 2009-06-01 with the EN have to be withdrawn (dow) 2011-06-01 list 2 od 25\nElectric arc welding equipment. \u2014 latest date by which the national standards conflicting This European Standard has been developed under the authority of CLC/TC 26A, Electric arc\nThe text of the draft was submitted to the formal vote and was approved by CENELEC as welding equipment. Welding is considered to be a special process because the final result\nEN 50504 on 2008-06-01. may not always be capable of being verified by testing, hence it requires continuous control\nThe following dates were fixed: and/or adherence to documented procedures.\n\u2014 latest date by which the EN has to be implemented This European Standard has been developed to identify the controls and procedures required.\nit requires the use of callbrated welding equipment, then the quality/consistency of the weld\ndepends upon accurate and repeatable setting of parameters such as current, voltage, speed,\ngas flow, etc.\nThis European Standard concentrates on validating equipment built to the constructional\nstandard EN 60974-1. The accuracy of this equipment is designated as standard grade.\nA higher level of accuracy (precision grade) Is introduced in this document.\nAs a code of practice, this European Standard takes the form of guidance and\nrecommendations. it should not be quoted as if it were a specification and particular care\nshould be taken to ensure that claims of compliance are not misleading.\nA standard does not purport to include all necessary provisions of a contract. Users of\nstandards are responsible for their correct application.\nCompliance with a standard does not of itself confer immunity from legal obligations.",
+          "bbox": [
+            624,
+            168,
+            3239,
+            4190
+          ],
+          "block_id": "b2_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_2.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Contents\nPo\n2 Normative\n3 Terms and definitions\n4 Validation\nConsistency\n6 Frequency of validation and callloration ere\n7? of welding equipment\nB\n8.2 Manual metal arc welding with covered electrodes\nB.3 Tungsten imert\n8.4 Metal inert/active gas and flux cored arc 1G\n8.5 Auxillary TO\nS Validation techniques TO\n9.1 10\n9.2 Safety precautions\n9.3 TM\n9.4 TE\n10 Validation labels and VA\n10.1 14\n10.2 Validation certificate\nAnnex A {informative} Accuracies for precision grade power 1B\nAnnex B (informative) Wire feed equipment\nB.1 Validation VE\nB.2 Requirements for valdatlon DE\nB.D Method 1G\nAnnex C (informative) Slope, pulse and synergic controls 19\nC.1 Validation accuracy 1D\nC.2 Requirements for validatlon 1G\nC.8 Method 1G\nC.4 Pulsed MIG and synergic OG\nAnnex D (informative) Precautions to be taken with TIG welding\nAnnex E (informative) Validation of ancillary components in a welding 22\nAnnex F (informative) Voltage drops in the welding\nBibliography OD\nFigure\nFigure DG\nTables\nTable 1 Validation accuracies for standard grade power SOUICES\nTable A.1 \u2014 Validation accuracies for precision power SOUICES 16\nTable B.1 = Validation accuracies for wire feed equipment WE\nTable F.1 \u2014 Voltage drop in copper and aluminium welding cables at normal and elevated\nOM\nlist 3 od 25",
+          "bbox": [
+            654,
+            210,
+            3239,
+            4190
+          ],
+          "block_id": "b3_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_3.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Introduction list 4 od 25\nThe quality and consistency of a weld depends on the welder, the materials and the welding\nequipment. Variability in the output of the welding equipment will affect the quality of the weld.\nIn some arc welding processes, 6.g. MMA, the welder controls the process through his\nexperience and measurement of run out length is used to monitor the heat input. However, in\nother arc welding processes the quality of the weld depends upon accurate and repeatable\nsetting of parameters such as current, voltage, speed, gas flow, pulse characteristics, etc.\nThe relevant construction standard for arc welding equipment is EN 60974-1. This standard\nsets the reference level for the accuracy and consistency of the welding output. EN 60974-1\nderives its specification for performance accuracy from the requirements of manual welding.\nin manual welding the welder plays a key role in adapting and adjusting the output of the\nequipment to meet the requirements of the weld. This adaptability allows equipment to be\nconstructed with a relaxed specification for calibration of output.\nMechanised welding methods lack the skilled adaptability of the manual welder and require\nprecise control of all aspects of the welding process. The control of the output of the welding\nequipment is of particular importance. Manufacturers have responded to this need by\nproducing equipment with an accuracy of output control and calibration, which exceed the\nrequirements of EN 60974-1.\nIn addition to the demands of mechanized welding, manual welding methods have become\nmore refined and welding procedures often call for the precise control of power source\noutputs to limit the freedom of the manual welder In order to produce particular results.\nThe improvement In equipment. construction, the adoption of mechanized welding, the\nintroduction of quality assurance programmes and the increased understanding of the factors\nwhich control weld quality have led to the demand for more rigorous calibration and validation\nof welding equipment performance.\nThe term calibration has been used in the foregoing text to introduce the general subject of\nchecking that the welding equipment output meets the manufacturer's specification and is fit\nfor the purpose of making welds. This is a commonly accepted term for this checking\noperation but It does not meet the strict definition of the word calibration.\nClause 3 of this document gives the definition of calibration. The operation of calibration can\nbe applied only to determining and adjusting the errors of a measuring instrument. An item of\nwelding equipment is not a measuring instrument though the meters fitted to the welding\nequipment are and can be calibrated. The difficulty of terminology and the checking task is\nfurther compounded as many pieces of welding equipment do not have calibrated outputs but\nare scaled in arbitrary units. Again this is a function of the manual welding usage in which the\nskill of the manual welder is used to adjust and set the welding variables. It Is necessary to\nuse an alternative term to describe the operation of verifying that the welding equipment is fit\nfor the intended purpose. The term selected |s validation.\nValidation is the operation which verifies that the welding equipment conforms to the\noperating specification for that equipment. if the equipment fails to conform to the\nspecification then the correction of the errors within the equipment is outside the scope of this\nEuropean Standard. That operation is the province of the manufacturers or equipment\nspecialists.",
+          "bbox": [
+            617,
+            197,
+            3239,
+            4190
+          ],
+          "block_id": "b4_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_4.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "It is implicit in the introduction of a more rigorous standard of accuracy of control of output for list 5 od 25\nwelding equipment that the scope of application of that standard should be defined. This\nEuropean Standard defines two levels of accuracy. One is derived directly from EN 60974-1\nand is called standard grade. A higher level of accuracy for more exacting welding\napplications is defined, called precision grade, and this is given in Annex A for information.\nThe use of precision grade is dependent upon the welding application.\nThe welding equipment covered by this European Standard will be fitted with controls\nintended to regulate the output of the welding equipment. The controls may be scaled in\nabsolute units (amperes, volts and metres per minute) or in arbitrary units (numbers, letters,\ngeometrical marks). Controls scaled in absolute units may be validated and the consistency of\nthose controls scaled in arbitrary units may be assessed.\nThe welding equipment may be fitted with meters that measure the output of the equipment\nand these meters should normally be validated against the appropriate standard, unless a\ndifferent method is used to control the welding process.\nThe use of meters and measuring instrument packages with welding equipment that is\nrequired to produce welds of integrity and reliability is strongly recommended.\nThis code of practice recommends the use of resistive loads to validate the power source and\nassociated meters. Alternatively, independent instrumentation may be used to monitor the\nwelding process, rather than validating the power source itself. The method of control and\ntype of instrumentation should be detailed on the welding procedure sheet.",
+          "bbox": [
+            590,
+            196,
+            3239,
+            4190
+          ],
+          "block_id": "b5_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_5.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "1 Scope list 6 od 25\nThis European Standard specifies validation methods for arc welding equipment constructed\nand used to the accuracy specified in EN 60974-1 or other equivalent standards. The\naccuracy of this equipment is designated as standard grade.\nThis European Standard is applicable to\na) arc welding power sources,\nb) wire feeders,\n\u00a2) welding instrumentation.\nThis European Standard is not applicable to arc striking and stabilizing device.\nCalibration, verification and validation of equipment for other welding processes and ancillary\nequipment which may affect the quality of the weld, e.g. flow gauges, thermocouples, robots\nand manipulators are given in EN ISO 17662.\n2 Normative references\nThe following referenced documents are indispensable for the application of this document.\nFor dated references, only the edition cited applies. For undated references, the latest edition\nof the referenced document (including any amendments) applies.\nEN 60051-1:1998, Direct acting indicating analogue electrical measuring instruments and\ntheir accessories \u2014 Part 1: and general requirements common to all parts\n(IEC 60051-1:1997)\nEN 60974-1, Arc welding equipment \u2014 Part 1: Welding power sources (IEC 60974-1)\nEN ISO 17662, Welding \u2014 Calibration, verification and validation of equipment used for\nwelding, including ancilary activities (ISO 17662) |\n3 Terms and definitions\nFor the purposes of this document, the terms and definitions given in EN 60974-1 and the\nfollowing apply.\n3.1\ncalibration\noperations for the purpose of determining the magnitude of the errors of a measuring\ninstrument and If necessary to determine other metrological properties\n3.2\nvalidation\noperations for the purpose of demonstrating that an item of welding equipment or a welding\nsystem conforms to the operating specification for that welding equipment or system\n3.3\naccuracy\ncloseness of an observed quantity to the defined or true value",
+          "bbox": [
+            530,
+            178,
+            3239,
+            4190
+          ],
+          "block_id": "b6_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_6.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "3.4\nconsistency test\ntast to determine the repeatability of the equipment output over a period of time\nNOTE The results obtained from the present validation are compared to the results of the initial tests. The\nrepeatability/consistency is the differance between these readings.\n3.5\nclass\ndesignation according to the accuracy of a measuring instrument conforming to EN 60051-1\nNOTE For example class 2,5 refers to + 2,5 % full scale deftaction.\n3.6\nportable welding monitor (brief case monitor)\nassembly of measuring instruments packaged in a portable case used to measure, record\nand/or analyse the welding equipment output\n3.7\nstandard grade\ngrade of validating equipment built to the constructional standard EN 60974-1\n3.8\nprecision grade\ngrade of validating equipment built to the constructional standard EN 60974-1 but with a\nhigher level of accuracy for more exacting welding applications\nNOTE See Annex A for power sources and Annex B for wire feeders. |\n4 Validation accuracies\nWhen tested in accordance with Clause 9, the validation accuracies for standard grade power\nsource controls and instrumentation should conform to Table 1.\nTabie 1 \u2014 Validation accuracies for standard grade power sources\nCurrent and voltage of the true value, between 100 % and\n25 % of the maximum setting\n+2,5% of the maximum setting, below 25 % of\nthe maximum setting\nDigital meters\n- Current of maximum rated welding current\n- Voltage of no-load voltage, or\naccording to the\nspecification\nValidation may be carried out over a limited range, as agreed by the manufacturer and user or\nspecified in the welding procedure.\nlist 7 od 25",
+          "bbox": [
+            513,
+            183,
+            3239,
+            4190
+          ],
+          "block_id": "b7_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_7.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "5 Consistency it is recognized that the consistency of the equipment is important and in Clause 9 tests for A consistency test should be carried out on controls, which are not graduated in absolute Absolute values are assigned to control positions during an initial characterization. The The same percentage values for accuracy, as specified in Table 1, should be used in the 6 Frequency of validation and calibration The welding equipment should be validated or calibrated at yearly intervals. Following an it may be necessary to validate or calibrate at more frequent intervals, depending upon the NOTE Recommendations for precision grade equipment are given in Annex A. 7 Validators of welding equipment Validation does not require third party certification although an equipment repairer or 8 Validation 8.1 General Unless specified otherwise, e.g. by the user, all power source meters and controls, which are The requirements and method of power source and meter validation will depend on the type of Welding power sources can be classified as follows: a) a.c. power sources with constant current (drooping characteristic); b) d.c. power sources with constant current (drooping characteristic); c) d.c. power sources with constant voltage (flat characteristic). CAUTION The output of a constant voltage power source should not be short-circuited as a list 8 od 25\nconsistency are recommended. units. results obtained from subsequent tests are compared to initial values to determine the consistency test as for standard or precision grade as appropriate. initial consistency test it is recommended that the equipment be retested after three months. recommendation of the manufacturer, the requirements of the user, or where there is reason The welding equipment should be validated in accordance with Clause 9 by an expert, using validation agent often carrles it out. Manufacturers of equipment may provide a validation graduated in absolute units and adjust the output, shall be validated. power source, i.e. whether it is a constant current (drooping characteristic) or constant very high current will flow; use a load resistor.\nconsistency of the output. to believe that the performance of the equipment may have deteriorated. Validation should equipment which has calibration traceable to national standards. service or the users may carry out the work themselves. voltage (flat characteristic) power source.\nalways be carried out after any repair or operation liable to the validation.",
+          "bbox": [
+            675,
+            200,
+            3239,
+            4190
+          ],
+          "block_id": "b8_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_8.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Welding power sources may have analogue or digital meters fitted. The general practice is to or using indicated r.m.s. meters (i.e. assuming pure sinusoidal form). list 9 od 25\nfit arithmetic mean Instruments on direct current power sources and r.m.s. instruments on NOTE For power sources with non-sinusoidal e.g. square waves, averaging techniques may be used\nalternating current power sources. and the manufacturer should be consulted (see 9.3).\nArithmetic mean analogue instruments measure the average or mean value of the 8.2 Manual metal arc welding with covered electrodes\ninstantaneous parameter with respect to time. r.m.s. analogue instruments give an indicated Manual metal are (MMA) power sources have a constant current characteristic with a.c. or d.c.\nrather than a true r.m.s. reading, see 9.3. output. The current control if marked in absolute units should be validated at conventional\nDigital meters may give true or indicated r.m.s. readings. For some equipment a single digital load voltages. An arbitrarily marked scale should be checked for consistency.\nmeter may be used to measure a.c. and d.c. voltage and current. Expert knowledge may be The MMA process is often controlled by measurement of run-out length where measurement\nrequired to validate such equipment and the manufacturer should be consulted. of welding current is not necessary. However, if accurate measurement of the welding current\nThe standard methods of measurement are as follows: is required it is preferable to use a calibrated ammeter (fitted to the power source or\na) d.c. welding supplies shall be measured with averaging techniques; separate), or to use independent monitoring equipment.\nb) supplies shall be measured with root mean square methods using true r.m.s. meters MMA power sources do not have voltage controls but could be fitted with voltmeters, which\ncan be calibrated. |\n8.3 Tungsten inert gas\nTungsten inert gas (TIG) power sources have a constant current characteristic with a.c. or\nd.c. output. The current control should be marked in absolute units and can be validated at\nconventional load voltages. Generally, TIG power sources are fitted with ammeters and\npossibly voltmeters, which can be calibrated. TIG power sources do not have voltage controls\nTIG welding power sources are used in complex TIG welding systems and it may be required\nto validate the system with load conditions, which closely duplicate the are load conditions.\nThe resistance of the load is calculated for a specific welding condition using the welding\ncurrent and the arc voltage at that current. The welding conditions could be taken from the\nwelding procedure. Alternatively, a stable arc may be used with a mechanically held torch with\nor without arc voltage control.\nCAUTION Care should be taken to ensure damage does not occur to instrumentation. See\nAnnex D for recommended precautions.\nA validation method for pulsed TIG power sources is recommended In Annex C.",
+          "bbox": [
+            587,
+            202,
+            3239,
+            4190
+          ],
+          "block_id": "b9_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_9.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "8.4 Metal inert/active gas and flux cored arc welding list 10 od 25\nMetal inert/active gas (MIG/MAG) and flux cored arc welding (FCW) power sources usually\nhave a constant voltage characteristic with a d.c. output.\nThe voltage control may be scaled in absolute or arbitrary units. The voltage control sets the\nno-load voltage, and the voltage will fall slightly as current is drawn (typically 3 V to 5 V per\n100 A). Some power sources have a slope control that may be used to adjust the static\ncharacteristic and the setting of this control should be noted on the validation certificate.\nThe voltage control if marked in absolute units should be validated at no-load voltages.\nAn arbitrarily marked scale should be checked for reproducibility / consistency.\nMIG/MAG and FCW power sources do not usually have current controls. The output current of\nsuch a welding power source is generally controlled by the wire feed speed setting which Is\nset on the wire feeder control panel. The current varies automatically to regulate the burn off\nrate of the consumable electrode. See Annex B on wire feed rate consistency and validate the\nwire feeder if necessary.\nIf accurate measurement of the welding current and voltage Is required it is preferable to use\nan ammeter and voltmeter (fitted to the power source or separate) which can be calibrated or\nto use independent monitoring equipment.\nCAUTION Do not short-circuit the output of a constant voltage power source as a very high\ncurrent will flow; use a load resistor.\nFor synergically controlied and pulsed MIG power sources, a validation method is\nrecommended in Annex C. |\n8.5 Auxiliary components\nFor validation of auxiliary components see Annex E.\n9 Validation techniques\n9.1 General\nIt Is recognized that manufacturers have developed many specialized methods of validating\ntheir welding equipment that may require detailed knowledge of the construction or access to\nthe interior of the equipment. The validation methods described in this European Standard are\nintended to enable the user to check that the equipment is fit for the intended purpose without\nthe manufacturer's specialist knowledge. However, some of the methods of measurement\ndescribed may require specialist knowledge or apparatus.\n9.2 Safety precautions\nThe validator should observe all normal welding safety precautions. Welding equipment\nshould be installed and used in accordance with CLC/TS 62081. If a TIG power source is\nbeing validated using a welding arc as a power source load, protective clothing and eye\nprotection should be worn.\nThe validator should pay particular attention to safety earthing recommendations. Special\nattention should be given to the connection of measuring Instruments and the welding current\ncircuit to prevent high current passing through the instruments.",
+          "bbox": [
+            532,
+            202,
+            3239,
+            4190
+          ],
+          "block_id": "b10_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_10.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "9.3 Instrumentation The general rule for the selection of measuring instruments for use in validation tasks is that they should conform to the following: a) they should be in good condition; b) they should be calibrated by a recognized calibrator with standards traceable to a national c) they should be at least twice and preferably five times more accurate, than the accuracy The type of measurement and meter will be specified for the grade of accuracy and the type of electrical output of the power source. It is proposed that only three measuring terms be used for describing the basic electrical measuring techniques: a) instantaneous value; b) mean value; c) r.m.s. value. NOTE Ther.m.s. value may be \u2018true\u2019 or \u2018indicated\u2019. Some meters measure r.m.s. directly (\u2018true' r.m.s.) but many measure the mean and indicate 1,11 times the mean to give an equivalent to the r.m.s. value for a true sine wave. The straightforward measurement of welding parameters is complicated by the following factors: a) the current waveform Is usually complex, the direct current has some fluctuating b) the measurement of current from the output of power sources with a large ripple content, c) the shape of the waveform will affect the accuracy of the measurement if the waveshape d) the shape of the current and voltage waveform for a.c. power sources is assumed to be @) there is a wider range of meters and sensing devices in use now, which enable more f) the purpose of the measurement may be comparative in order to transfer a welding g) the resistance of the welding circuit will have an effect on the application of the welding h) in all cases where the validator is in doubt about the shape of the waveform and the effect list 11 od 25\nstandard; required for the validation grade. component and the alternating current is not sinusoidal; especially some types of inverter direct current power sources, will produce different contains higher frequency components, e.g. TIG square wave pulses, and the measuring sinusoidal. Errors will result if the waveform departs significantly from the sinusoidal, complex measurements and instant operations and computations on the measurement; procedure or absolute in order to make heat input calculations. This may influence the procedure parameters (see Annex F); on the validation then specialist advice should be sought from the manufacturer of the\nresults depending upon the type of meter being used; equipment has an Inductive component, e.g. some types of shunts. This may be limited by especially when using digital meters and portable welding monitors. For example, this is measuring method; equipment or a similar specialist.\nusing non-inductive shunts; the case with arc voltage that is nearer a square wave than a sine wave;",
+          "bbox": [
+            506,
+            178,
+            3239,
+            4190
+          ],
+          "block_id": "b11_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_11.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "9.4 Power source loads\nThe power source should be loaded with a conventional load in accordance with EN 60974-1,\ndepending on the process.\n9.4.1 Manual metal arc welding with covered electrodes\nup to 600 A: U, = (20 + 0,04 f,) V;\ni, over 600 A: U, = 44V.\n9.4.2 Tungsten Inert gas\n1, up to 600 A: U, = (10 + 0,04 V;\nover 800 A: Up = 34 V.\nFor TIG welding an arc load is permitted provided that the torch is mechanically guided.\n9.4.3 Metal inert/active gas and flux cored arc welding\n1, up to 600 A: Uz = (14 + 0,05 V;\n4, over 600 A: Un = 44 V.\nNo-load voltages for MIG power sources should be measured without a load connected and it\nshould be noted that these values might not agree with the rated no-load voltage, which\nappears, on the rating plate. The rating plate no-load voltage is stated for safety reasons on\npower sources conforming to EN 60974-1, and Is the peak voltage m\u00e9asured with a specified\nloading circult. However, for power sources conforming to EN 60974-1, the no-load voltage\nshould be stated as the mean or r.m.s. value.\n9.4.4 Submerged arc welding\n4 up to 600 A: Up = (20 + 0,04 J) V;\ni, over 600 A: U,=44V.\n9.4.5 Plasma cutting\nfp up to 165 A: Up = (80 + 0,4 V;\nlp between 165 A and 500 A: = (130 + 0,1 4) V;\nf, above 500 A: U, = 180 V.\nFor plasma cutting using air, the manufacturer may specify the load voltage as determined\nunder typical cutting conditions\nNOTE Manufacturer's load voltage is allowed due to the nature of the plasma process, i.e. the interaction of the\nplaama torch design, recommended plasma gas, cutting technique, sic. All may influence the voltage at which\nsatisfactory pecformance occurs.\n9.4.6 Plasma welding\nup to 600 A: Up = (25 + 0,04 V;\nI, over 600 A: Up = 49 V.\n9.4.7 Plasma gouging\ni up to 300 A: U, = (100 + 0,4 4) V;\ni, over 300 A: U, = 220V.\nlist 12 od 25",
+          "bbox": [
+            644,
+            201,
+            3239,
+            4190
+          ],
+          "block_id": "b12_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_12.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "9.6 Method\n9.5.1 General\n9.5.1.1 Measure the ambient temperature to ensure that it is within the power source and\ntest instrumentation rating. Record the ambient temperature on the validation certificate.\n9.5.1.2 Measure the input voltage to ensure that it Is within the value specified for the power\nsource. Record the result of this measurement on the validation certificate. Check that the\ncorrect tappings have been connected within the power source if relevant.\n9.5.1.3 For engine driven power sources, check the rated load speed and no-load speed to\nensure that the power source meets the rated values.\n9.5.1.4 Connect the resistive load across the output terminals of the power source as far as\npractical. Connect the instrumentation used for validation of voltage across the resistive load,\nand the current transducer in the circuit.\n9.5.1.5 Connect the wire feed unit for validation to the source of power supply normally used\nduring welding.\n9.5.1.6 Assemble and adjust the wire feeder according to the manufacturer's instructions.\n9.5.1.7 Do not drive the wire feeder at speeds or loaded with filler wire diameters in excess\nof that shown on the rating plate or recommended by the manufacturer.\n9.5.1.8 Use terminals, cables and wires of high quality to connect the welding equipment\nduring validation and make all joints sound. Make all crimped and soldered joints free from\nany signs of overheating. |\n9.5.1.9 Select the validation/calibration range of the control or meter fitted to the power\nsource should as follows:\na) the full range of the control or meter (see note);\nb) range of the control or meter;\nc) selected points over the range of the control or meter.\nNOTE For digital voltage and current meters the maximum value of the range ia given by the rated no-load\nvoltage and maximum rated welding current, respectively, of the power source.\nAgree options b) or c) with the manufacturer, customer or user, prior to the validation/calibration\nbeing carried out.\nMake the measurements at the minimum setting, the maximum setting and three other points\nnominally equally spaced between minimum and maximum, over the full or partial range.\nAlternatively, make the measurements at the selected points as given above.\nNOTE if a partial range is selected, tha minimum measurement point should be approached from below initially.\nThe second measurement point at maximum should be approached from above. The two measurements at each\npoint should then be averaged and compared to the control selting or reading to determine the errors.\n9.5.2 Power source and welding instrumentation\n9.5.2.1. Switch on the equipment 5 min before any calibration measurements.\n9.6.2.2 Start with the minimum output setting (see 9.5.1), energize and stabilize the power\nsource output for 10s and then take a reading. Repeat this procedure for each of the\nmeasurement points up to the maximum.\nlist 13 od 25",
+          "bbox": [
+            655,
+            196,
+            3239,
+            4190
+          ],
+          "block_id": "b13_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_13.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 14,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "9.5.2.3 After a further 10s, take a second reading at the maximum setting (see 8.5), and\nrepeat this procedure for each of the measurement points down to the minimum.\n9.5.2.4 The power source should not be loaded in excess of that shown on the rating plate.\n9.6.2.5 If validation at a particular current and or voltage is required, but the nature of the\nload does not permit that current or voltage at the corresponding load voltage or current to be\nachieved, then take points above and below the desired values and calculate the required\nvalue.\n9.5.2.6 At each validation point selected record the following:\na) the current and/or voltage control setting; or\nb) the power source meter readings;\nc) the two values of the true measurement of current and/or voltage from the test\ninstrumentation;\nd) the mean value of the two measurements.\nRecord the results of measurements systematically and supply them on or with the validation\ncertificate.\n9.5.2.7 If the power source has a slope note the setting. If it is necessary to validate\nthe power source at different settings of the slope control agree this prior to the validation.\n9.5.2.8 It a check of consistency of an arbitrary scale Is being carried out, compare the\nresults obtained to. those obtained during the previous validation (see Clause 5).\n10 Validation labels and certificates\n10.1 Validation labels\n10.1.1 On completion of a validation mark the equipment with a validation label Indicating\nthat the equipment has passed or falled.\n10.1.2 If the equipment meets the accuracy recommended in Table 1, then mark the\nequipment with a label with the following information:\na) the statement \u2018PASSED\u2019;\nb) the statement 'PRECISION GRADE' If applicable, see Annex A;\nc) the date the label is valid;\nd) the date of expiry of the validation;\n6) the name of the authority issuing the label;\nf} the make, model and serial number of the equipment.\n10.1.3 If the equipment does not meet the accuracy recommended in Table 1 then attach a\nlabel bearing the following information:\na) the statement \u2018FAILED\u2019;\nb) the date the label was issued;\nc) the name of the authority issuing the label;\nd) the make, model and serial number of the equipment.\nlist 14 od 25",
+          "bbox": [
+            571,
+            191,
+            3239,
+            4190
+          ],
+          "block_id": "b14_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_14.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 15,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "10.2 Validation certificate issue a validation certificate, indicating that the equipment has passed or failed. The validation certificate shall contain the following information: a) the name and address of the validating authority; b) the type of equipment under test; c) the model and make of equipment under test; d) the serial number of the equipment under test; e) the ambient temperature; f) the supply voltage; g) the equipment function under test, e.g. current control; h) the method of validation, e.g. load resistor type, meter type; i) the grade of validation, i.e. standard or precision; j) the type of validation, i.e. accuracy or cansistency; k) the range of the function under validation; l) the results of the measurements on the function under validation, comparing the m) the result of the validation, passed or failed; n) the date of validation; 0) the signature or mark of the validating authority. list 15 od 25\nequipment readings with validation meter readings (these may be supplied on an attached\nsheet);",
+          "bbox": [
+            572,
+            197,
+            3239,
+            4190
+          ],
+          "block_id": "b15_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_15.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 16,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex A\n(informative)\nAccuracies for precision grade power sources\nThe validation accuracies for precision grade power source controls and instrumentation\nshould conform to Table A.1.\nTable A.1 \u2014 Validation accuracies for precision grade power sources\n+25% of the true value, between 100 % and\n40 % of the maximum setting\nof the maximum setting, below 40 % of\nthe maximum setting\nVoltage +5% of the true value, between 100 % and\n40 % of the maximum setting\n+2% of the maximum setting, below 40 % of\nthe maximum setting\nAnalogue meters\nDigital meters\nCurrent of maximum rated welding current\nVoltage 21% of no-load voltage, or\naccording to the manufacturers\nspecification\nNOTE It is recommended that precision grade equipment is validated more frequently than standard grade\nequipment and a 6-month-interval, or more frequently is recommended.\nlist 16 od 25",
+          "bbox": [
+            520,
+            164,
+            3239,
+            4190
+          ],
+          "block_id": "b16_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_16.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 17,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex B\n(informative)\nWire feed equipment\nB.1 Validation accuracies\nWire feed equipment includes all systems designed to feed filler wire or consumable\ncontinuous electrodes. It is recognized that in MIG/MAG and allied self-adjusting arc systems\nin which the wire feed rate is linked to a function of the welding power, an absolute calibration\nof wire feed rate is not necessary.\nHowever if validation of wire feed equipment is required, the wire feed rate should conform to\nthe accuracy given in Table B.1.\nTable B.1 \u2014 Validation accuracies for wire feed equipment\nB.2 Requirements for validation\nThe following two basic types of wire feeders are used in welding:\na) wire feeders for consumable electrode processes, MIG welding, submerged arc\nwelding;\nb) wire feeders for additional filler wire, 6.9. cold wire TIG walding, hot wire TIG welding.\nThe type of wire feeder affects the validation requirements.\nOn wire feeders for the consumable electrode processes, the speed control may or may not\nbe calibrated in units of wire feed speed. For example, in MIG welding the wire feed speed\nmay be adjusted to give a specific welding current with the speed control scale in arbitrary\nunits. It is not necessary to validate the speed control on such a wire feeder.\nin some cases the speed control may be scaled with arbitrary units and the wire feeder fitted\nwith a wire feed speed meter. In this case the meter should be validated.\nOn a few wire feeders the speed control may be calibrated in absolute units in which case the\ncontrol should be validated.\nSome MIG welding wire feeders may be interlocked with the power source preventing normal\nwire feed operation without an arc. If the interlock cannot be overridden then the power\nsource has to be energized with an arc to validate the wire feeder.\nThe speed controls on wire feeders for filler wire are often scaled in wire feed speed units.\nThese units can be validated. If the unit is scaled In arbitrary units the validation procedure\ncan be used to compile a validation chart for the wire feeder. Wire feeders with wire speed\nmeters should be validated.\nlist 17 od 25",
+          "bbox": [
+            535,
+            188,
+            3239,
+            4190
+          ],
+          "block_id": "b17_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_17.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 18,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "B.3 Method Starting with the minimum output setting, energize and stabilize the wire feeder for 5s and then take a reading. Repeat this procedure for each of the measurement points up to the maximum. After a further 5 s, take a second reading at the maximum setting and repeat this procedure for each of the measurement points down to the minimum. The following methods may be used: a) measure the time in seconds for approximately 1m of wire to be delivered from the b) a rotary transducer or tachogenerator that can clip onto or press against the filler wire At each validation point record the following: a) wire feeder speed control setting; or b) the wire feed speed meter reading; \u00a2) the two measurements of wire feed speed; d) the mean value of the two measurements. The results af measurements should be systematically recorded either using a notebook with numbered pages or numbered record sheets or directly on to the validation certificate. If a check of repeatabllity/consistency of an arbitrary scale is being carried out, the results obtained should be compared to those obtained during the previous validation. list 18 od 25\nwelding torch or nozzle with a stopwatch or an electronic timer at the validation points and measure the wire feed speed directly In conjunction with an indicating instrument.\nselected. Measure the wire length with a steel rule to 1mm. Calculate the wire feed\nspeed;",
+          "bbox": [
+            548,
+            183,
+            3239,
+            4190
+          ],
+          "block_id": "b18_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_18.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 19,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex C\n(informative)\nSlope, pulse and synergic controls\nC.1 Validation accuracy\nSlope and pulse controls are considered to be precision grade and the validation accuracies\nshould conform to + 5 % of setting, unless specified by the manufacturer.\nC.2 Requirements for validation\nSlope up and slope down controls on TIG welding power sources are validated in one of the\nfollowing ways:\na) as a variable time (in seconds) for the current to increase or decay between two different\nlevels;\nb) as a rate of change of current (in amps per second) between two levels of current.\nTIG welding pulse controls are validated In several different ways, for example:\na) peak current pulse height, amps;\nb) background current height, amps;\nCc) peak current duration, seconds;\nd) background current duration, seconds;\n@) peak current pulse height, amps;\nf) background current height, amps;\ng) mark space time, seconds;\nh) mark space ratio, number or percentage.\nNOTE On or off time ia expreeged as a fractian or a percentage of the total cycle time.\nThe validation of slope up and slope down controls is straightforward, as the rate of change of\ncurrent is slow.\nThe validation of TIG welding pulse controls is an important contribution to the quality of pulsed\nTIG welding. It ils a more difficult task than the validation of slope controls. It requires equipment\nwith a faster response than is necessary for the validation of slope controls. An instrument\nresponse of at least ten times that of the maximum pulse frequency of the power source is\nrecommended.\nC.3 Method\nEnergize and stabilize the power source output for 5 s for pulsed current validation. A period\nof load current stabilisation is not applicable to slope up validation.\nRecord the current waveform two times at each setting using appropriate instrumentation.\nValidate the slope up and slope down control at the following selected points of the control\nrange at designated points on the current control range:\na) the full range of the slope control; or\nb) some part of the slope range; or\nc) selected points on the slope range.\nlist 19 od 25",
+          "bbox": [
+            691,
+            159,
+            3239,
+            4190
+          ],
+          "block_id": "b19_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_19.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 20,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Items a), b) and c) and the designated current control points should be agreed by the list 20 od 25\nmanufacturer or user or customer and the validator in advance of the calibration procedure. In\nthe absence of any agreement the validation should take place at the mid-point of the current\ncontrol range at the mid-point of the slope up or slope down control range.\nValidate the current pulse control at points selected by the following:\na) the welding procedure developer;\nb) the validator;\nc) the equipment user.\nIn the absence of any stipulation of validation points by a), b) or c), the pulse control should\nbe validated at the following points on the pulse shape control ranges:\n- peak current midrange;\n- background current midrange;\n- peak current on time minimum and maximum;\n- background current on time midrange.\nThe specification and validation of the full range of the pulse shape controls should be the\nprovince of the equipment manufacturer.\nAt each validation point, record the following:\na) the pulse control settings;\nb) the measurement of currant flowing in the loading circuit.\nThe measuring instrument selected will record the current pulse shape electronically or\ngraphically. The record can be measured to determine the magnitude and duration of the\ncurrent pulses in the power source output circuit. The waveform is often not a true square\nwave and care should be taken in determining the peak and background periods. It is\nadvisable to consult the equipment manufacturers.\nThe average value of the two measurements should be systematically recorded elther using a\nnotebook with numbered pages or numbered record sheets or directly on to the validation\ncertificate.\nC.4 Pulsed MIG and synergic controls\nAmmeters and voltmeters that measure mean values of the welding parameters may be\nvalidated in accordance with this European Standard. Validation of other controls and pulsed\nwaveforms should be in accordance with the manufacturer's procedure.",
+          "bbox": [
+            716,
+            186,
+            3239,
+            4190
+          ],
+          "block_id": "b20_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_20.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 21,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex D The validation of TIG welding power sources may Involve the operation of the equipment with a welding arc. It may also be necessary to connect electrical measuring instruments directly to the output terminals of the welding power source. Few measuring instruments are protected against the high voltage high frequency arc initiation discharges used in many TIG welding The discharge will damage or destroy the measuring instrument. The validator should take precautions, such as the following, against this damage: a) the simplest method of protection is to connect the measuring instrument after the arc has b) the meter may be connected inside the power source on the low voltage side or safe side c) the measuring instrument may be protected by a filter circuit similar to that provided in the d) the measuring instrument may be protected by an automatic disconnection circuit; e) the high voltage initiation circuit may be disconnected and the arc by a tungsten list 21 od 25\n(informative) systems. These discharges may be of the order of 5 000 V at a frequency of typically 1 MHz. be\u00e9n initiated. This involves some risk as the arc could fail and automatically restrike; of the power source internal protection circuits. The safe connection points may be power source; electrode touch start or a carbon rod drawn between the tungsten electrode and the\nPrecautions to be taken with TIG welding equipment identified from the power source meter circuits; workplece.",
+          "bbox": [
+            611,
+            187,
+            3239,
+            4190
+          ],
+          "block_id": "b21_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_21.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 22,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex E A welding system may consist of a single power source or a complex assembly of list 22 od 25\n(informative) components. This European Standard recommends the means to ensure that the key\nValidation of ancillary components In a welding system components of the most widely used welding systems conform to the required accuracy of\ncontrol of output. Other components in the welding system will affect the quality of the welded\nproduct and need care and maintenance to ensure correct operation.\nWelding manipulators, welding rotators, orbital welding rotation drives and robotic\nmanipulation devices control the welding speed and therefore influence the heat input to the\nweld and metallurgical and mechanical properties of the weld. The speed on these\nmachines should be checked at intervals compatible with other maintenance and validation\ntasks on the welding equipment to ensure that it conforms to the manufacturer's specification.\nThree factors need to be checked:\na) the absolute accuracy of the speed control calibration;\nb) the of the speed control calibration;\nc) the consistency of the speed control during operation.\nA number of devices are available to assist the user of welding equipment to check the speed\ncontrol. The simplest of these is the stopwatch and measuring rule; these instruments will\nenable most rotary and linear devices to be checked. Electrical transducers are from\nthe manufacturers of the portable welding monitors. A rubber-tyred wheel runs on the moving\ncomponent and this wheel drives a tachogenerator which gives an output proportional to the\nspeed. More complex electromechanical transducers are available to fit on to welding\nequipment to measure welding speed and displacement. Equipment manufacturers should be\nconsulted about these devices.\nArc voltage control devices are feedback control systems. A control to set the desired arc\nvoltage is normally part of the system. This may be a scaled control or an unscaled control\nwith a digital or analogue meter showing the set arc voltage.\nThe simplest way to check the arc voltage control is to do so with an arc running. The\nset-up should be arranged so that the arc runs with the minimum of variation. Compare the\nset voltage with the actual arc voltage over the desired operating range. To measure the arc\nvoltage, use a meter with a calibrated accuracy of 0,5 or better conforming to EN 60051-1.\nCAUTION Do not start TIG arcs with high voltage high frequency initiators with the meter\nconnected across the output terminals (see Annex D).\nValidation of an arc voltage control device without an arc Is more difficult and specialist\nknowledge should be sought.\nThe most widely used gas flow control device is the bobbin flow meter. The easiest way to\ncheck the operation of these meters is by direct comparison with a similar meter of known\naccuracy. Such gauges can be obtained from the manufacturers with a traceable calibration.\nThis will rarely be better than 2 %.\nThe gauge to be checked should be connected In series with the standard gauge using short\nlengths of pipework of the largest practical diameter. The system should be connected to a\nsupply of the appropriate gas and the flow readings compared at the desired gauge readings.\nElectronic flow gauges are available and the validation of these devices should be entrusted\nto specialists. A calibrated electronic flow device can be used to validate production flow\ngauges.",
+          "bbox": [
+            633,
+            178,
+            3239,
+            4190
+          ],
+          "block_id": "b22_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_22.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 23,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Annex F\n(informative)\nVoltage drops in the welding circuit\nThe resistance of the welding circuit will introduce voltage drops between measurement\npoints. If long welding cables are used this should be taken into account. The following\nIllustration (Figure F.1) is shown using MIG/MAG equipment but the principles apply to all\nwelding processes.\nPower\nnm)\nFeeder\n7 4\nLed\nTorch\n5\n6 Ls\nFigure F.1\nit is important to note that the meters and control circuits used in arg welding equipment are\nat particular points in the welding circuit; these points may \u2018be different to those\nused to attach measuring equipment during procedure qualification. The meter reading will\ntherefore tend to be higher than the actual arc voltage due to voltage drops in other sections\nof the circuit.\nFor example, in this diagram, a voltage meter located on the power supply will normally\nindicate the potential measured across points 1-7. However this is not ideal for applying the\nspecified weld procedure variables because there are voltage drops in sections 1-2, 3-4, and\n6-7 which will vary with welding current, cable diameter, length and temperature.\nDuring procedure qualification it is desirable to measure the true arc voltage between points\n4-5 but this is usually impractical so connections are often made across 3-5. In practice this is\nrarely a problem because the welding torch is usually the same in production and can be\nconsidered a constant. However the difference may be significant when making a change from\nan air-cooled torch to a water-cooled version or vice-versa. The voltage drop between points\n5-6 is also normally insignificant provided that there is a good earth return connection.\nAssuming that the arc voltage has been measured across points 3-5 during qualification,\nproblems will arise if these values are used for production welding relying on a power supply\nvoltage meter measuring the potential across 1-7. This is mainly due to the voltage drops\nbetween 1-2 and 6-7.\nThe voltage drop in a welding cable is proportional to the amount of current flowing through it\nand can be estimated using Table F.1.\nlist 23 od 25",
+          "bbox": [
+            612,
+            173,
+            3239,
+            4190
+          ],
+          "block_id": "b23_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_23.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 24,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Table F.1 \u2014 Voltage drop in copper and aluminium welding cables at normal and\nelevated temperatures\nNominal DC* drop / 100 A/ 10 m of cable at various temperatures\n\u201cme | pee pe ee\nmm\n| ee |\nPas |\nPo | | oss\n| 7 | er? | ses | ses |\n| zee | va | at\n| tes | | | ses\n| | | oes | | oza2 | 0.263\n| |S ST CTS\nNOTE Table F.1 is for only. Some welding equipment is designed in manner that these effects\nare minimized or avoided, such as in the following examples.\n- Constant current equipment may eliminate the effect if the contro! variables are wire fead speed and welding\ncurrent; the arc voltage will vary to suit the welding conditions.\n- Constant voltage equipment may measure the potential between points 3-7 avoiding any effect due to changing\nen of interconnection cables (1-2), but there can still be significant voltage drope in the earth retum cable\n- Constant voltage equipment may be fitted with a 0.V sensing lead that attachse to the workpiece; the arc voltage\nis then measured between 3-5.\nWhen @quipment is used that does not specifically address thie problem, the following precautiona will reduce the\neffects of voltage drops in the welding circuit:\n- use the shortest possible interconnection and return current cable lengths;\n- use heavier, lower-resistance welding cables;\n- consider the use of external voltage meters;\n- ensure that connectors are suitably rated; any overheating is indicative of significant voltage drops at the\nconnection;\n- provide a comparison table to the operator to assist in compensating for the voltage drop effect.\nlist 24 od 25",
+          "bbox": [
+            580,
+            201,
+            3239,
+            4190
+          ],
+          "block_id": "b24_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_24.png",
+      "image_id_map": {}
+    },
+    {
+      "page_num": 25,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bibliography\nEN 60974-5, Arc welding equipment \u2014 Part 5: Wire feeders (IEC 60974-5)\nCLC/TS 62081, Arc welding equipment \u2014 Installation and use (IEC 62081)\nlist 25 od 25",
+          "bbox": [
+            565,
+            202,
+            3239,
+            4190
+          ],
+          "block_id": "b25_1"
+        }
+      ],
+      "images": [],
+      "image_path": "/tmp/page_25.png",
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

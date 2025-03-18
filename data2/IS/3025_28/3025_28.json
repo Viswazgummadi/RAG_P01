@@ -1,0 +1,672 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "UDC\n628*1/*3  :  543\u20193 [ 546.2241\n(  Second Reprint JULY 1998  )\nIS:3025(Part28)-1988\n(  Reaffirmed\n1992)",
+          "bbox": [
+            21.74,
+            18.35,
+            499.6,
+            38.94
+          ],
+          "block_id": "b1_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( Reaffirmed 1998 )",
+          "bbox": [
+            382.14,
+            48.13,
+            462.67,
+            60.53
+          ],
+          "block_id": "b1_31",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian\nStandard",
+          "bbox": [
+            222.86,
+            55.07,
+            283.2,
+            63.95
+          ],
+          "block_id": "b1_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "METHODS\nOF SAMPLING\nAND TEST\n( PHYSICAL\nAND CHEMICAL)\nFOR WATER\nAND WASTEWATER",
+          "bbox": [
+            121.1,
+            75.79,
+            400.07,
+            117.37
+          ],
+          "block_id": "b1_5",
+          "font_size": 11.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART\n28\nSULPHITES",
+          "bbox": [
+            201.5,
+            128.15,
+            309.99,
+            138.27
+          ],
+          "block_id": "b1_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(  First\nRevision\n)",
+          "bbox": [
+            219.5,
+            149.51,
+            303.99,
+            159.63
+          ],
+          "block_id": "b1_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1. Scope\n-\nPrescribes iodide-iodate\ntitrimetric method for determination\nof sulphite\nin water and\nwastewater.\nThis method is applicable to a minimum detectable concentration of 2 mg/l sulphite.",
+          "bbox": [
+            28.22,
+            187.19,
+            496.71,
+            208.35
+          ],
+          "block_id": "b1_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            11.66,
+            201.81,
+            15.95,
+            208.74
+          ],
+          "block_id": "b1_0",
+          "font_size": 5.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Theory\nand Principle\n- Acidified water sample containing sulphite reduces iodate to iodine. Any\nexcess of iodate added after all the sulphite is used up, oxidizes iodide to free iodine under acidic pH\ncondition.\nIodine oxidizes sulphite to sulphate.\nAny excess iodine results in the formation of blue\ncolour in presence of starch indicator.",
+          "bbox": [
+            28.22,
+            216.95,
+            495.99,
+            257.79
+          ],
+          "block_id": "b1_9",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            11.42,
+            231.33,
+            15.71,
+            238.26
+          ],
+          "block_id": "b1_1",
+          "font_size": 5.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Interferences",
+          "bbox": [
+            28.22,
+            270.95,
+            96.39,
+            281.07
+          ],
+          "block_id": "b1_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I",
+          "bbox": [
+            11.42,
+            280.91,
+            16.49,
+            294.1
+          ],
+          "block_id": "b1_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1 Interferences due to the presence of sulphides may be removed by the addition of zinc acetate.",
+          "bbox": [
+            28.22,
+            287.51,
+            475.59,
+            297.63
+          ],
+          "block_id": "b1_11",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.2 Copper ions rapidly accelerate the oxidation of sulphite ions.\nCertain heavy metals may also react\nn a similar manner as copper.\nProper sampling and immediate fixing by acid addition should minimise\nsuch difficulties.",
+          "bbox": [
+            28.22,
+            307.43,
+            496.95,
+            338.43
+          ],
+          "block_id": "b1_12",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.3 Addition of sulphamic acid helps to eliminate interference due to nitrate.",
+          "bbox": [
+            28.22,
+            347.75,
+            370.47,
+            357.87
+          ],
+          "block_id": "b1_13",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4. Sampling\nand Storage",
+          "bbox": [
+            28.22,
+            370.79,
+            149.19,
+            380.91
+          ],
+          "block_id": "b1_14",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1.1 Highly polluted or contaminated\nsamples should be stored at low temperature,\nallowing\nas little\n:ontact with air as possible.",
+          "bbox": [
+            28.22,
+            387.83,
+            494.55,
+            408.27
+          ],
+          "block_id": "b1_15",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I.2 Since at pH 8\u20190 or above sulphite may be oxidised to sulphate, pH should, therefore be adjusted\n)elow 8-O.",
+          "bbox": [
+            28.22,
+            418.07,
+            494.07,
+            438.99
+          ],
+          "block_id": "b1_16",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1.3 Fix the sample (at about 50\u00b0C ) immediately\nby adding 1 ml ETDA solution for each 100 ml of\nrample.",
+          "bbox": [
+            28.22,
+            448.07,
+            495.99,
+            468.75
+          ],
+          "block_id": "b1_17",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i. Reagents",
+          "bbox": [
+            28.22,
+            481.19,
+            80.07,
+            491.31
+          ],
+          "block_id": "b1_18",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i.1  Sulphuric\nAcid",
+          "bbox": [
+            28.22,
+            500.15,
+            111.27,
+            510.27
+          ],
+          "block_id": "b1_19",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i.2  Starch lndicafor\nSolution  -Add\n5\u20190 g starch to 800 ml boiling distilled water and stir.\nDilute to\n)ne litre and boil for a few minutes and let settle overnight.\nUse the clear supernatant\nliquid.\nAdd a\new drops of chloroform or salicylic acid ( 1.3 g/l  )  to preserve the indicator.",
+          "bbox": [
+            28.22,
+            517.19,
+            496.95,
+            548.46
+          ],
+          "block_id": "b1_20",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "i.3  Sfandard iodide-lodate\nSolufion\n( 0412 5 M ) -\nDissolve 0.445 8 g primary grade potassium iodate\ndried for 4 h at 12O\u201dC), 4.35 g of potassium iodide and 310 mg sodium bicarbonate in distilled\nwater\nmd dilute to 1 000 ml.\nOne millilitre of this solution is equivalent to 500 mg of sulphite.",
+          "bbox": [
+            28.22,
+            557.99,
+            494.79,
+            588.27
+          ],
+          "block_id": "b1_21",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "i.4  Sulphamic\nAcid -  Crystalline.",
+          "bbox": [
+            28.22,
+            598.31,
+            177.27,
+            608.43
+          ],
+          "block_id": "b1_22",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i.5\nEDTA Reagent -\nDissolve 2\u20195 g of disodium EDTA in 100 ml of distilled water.",
+          "bbox": [
+            28.22,
+            617.99,
+            405.03,
+            628.59
+          ],
+          "block_id": "b1_23",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i. Procedure",
+          "bbox": [
+            28.22,
+            640.31,
+            83.67,
+            650.43
+          ],
+          "block_id": "b1_24",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i.1 Add 1 ml sulphuric acid and about 0.1 g of sulphamic acid crystals if lo a 250.ml long necked flask.",
+          "bbox": [
+            28.22,
+            658.07,
+            491.19,
+            668.19
+          ],
+          "block_id": "b1_25",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I.2 Measure a suitable volume of ETDA stabilized sample ( 50 ml to 160 ml ) ( see 4.3 ) and transfer to\nhe flask keeping the tip of the pipette below the surface of liquid.\nAdd  1  ml of starch indicator\nLolution (see 5.2).",
+          "bbox": [
+            28.22,
+            678.23,
+            495.51,
+            708.27
+          ],
+          "block_id": "b1_26",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "--.\n..__",
+          "bbox": [
+            430.94,
+            715.86,
+            472.95,
+            727.74
+          ],
+          "block_id": "b1_28",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Adopted\n28 November 1986\n@ZJ October 1987, BiS\nGr 1\n-_-____",
+          "bbox": [
+            49.1,
+            733.07,
+            433.6,
+            751.55
+          ],
+          "block_id": "b1_29",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            342.14,
+            739.38,
+            349.35,
+            751.26
+          ],
+          "block_id": "b1_27",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDARDS\nMANAK\nBHAVAN,\n9 BAHADUR\nSHAH\nZAFAR\nMPRG\nNEW\nDELHI\n110002\n*\n/",
+          "bbox": [
+            143.18,
+            756.83,
+            361.4,
+            792.18
+          ],
+          "block_id": "b1_30",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 523.2479858398438,
+        "height": 787.5039672851562
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 ( Part 28 ) - 1686",
+          "bbox": [
+            17.52,
+            15.77,
+            159.04,
+            28.25
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.3  Titrate immediately\nwith\npostassium\niodide-iodate\nstandard\nsolution\nuntil\na faint\npermanent\nblue\ncolour\ndevelops\n(view\nthe colour\nchange\nagainst\na white\nbackground).\nCarry out a blank,\nusing\ndistilled\nwater instead of sample.",
+          "bbox": [
+            16.32,
+            38.33,
+            488.64,
+            70.91
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.  Calculation",
+          "bbox": [
+            16.08,
+            79.13,
+            85.12,
+            91.61
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "so, =  ( A-B\n) x N x  40 000 ( mg,l )\nV",
+          "bbox": [
+            133.44,
+            94.8,
+            306.48,
+            117.95
+          ],
+          "block_id": "b2_3",
+          "font_size": 11.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            51.36,
+            123.36,
+            76.8,
+            135.23
+          ],
+          "block_id": "b2_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A = volume in ml of standard\niodide-iodate\nsolution\nused for sample,",
+          "bbox": [
+            71.76,
+            139.2,
+            385.44,
+            151.07
+          ],
+          "block_id": "b2_5",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B =  volume\nin ml of standard\niodide-iodate\nsolution\nused in blank,",
+          "bbox": [
+            72.0,
+            155.28,
+            375.12,
+            167.15
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "N = normality\nof potassium\niodide-iodate\nsolution,\nand",
+          "bbox": [
+            72.0,
+            172.08,
+            324.0,
+            183.95
+          ],
+          "block_id": "b2_7",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "V = volume\nin ml of sample taken for the test.",
+          "bbox": [
+            72.72,
+            188.88,
+            285.84,
+            200.75
+          ],
+          "block_id": "b2_8",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "EXPLANATORY\nNOTE",
+          "bbox": [
+            163.44,
+            633.78,
+            333.9,
+            646.15
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Sulphites\nmay occur in natural\nwaters\nor wastewaters\nas a result of industrial\npollution\nand in\nTreatment\nplant\neffluents\ndechlorinated\nwith\nsulphur\ndioxide.\nControl\nof sulphite\nion in wastewater\ntreatment\nand discharge\nmay be important\nenvironmentally,\nmainly\nbecause of its toxicity\nto fish and\nother\naquatic\nlife and its rapid\noxygen\ndemand.\nThe presence\nof other oxidizable\nmaterials,\nsuch\nas\naulphide,\nthiosulphate,\nFe3- ions can apparently\ngive higher\nreadings\nof sulphites.\nSome metal ions\niike CLP may cataiyze the oxidation\nof sulphite.",
+          "bbox": [
+            18.48,
+            654.48,
+            495.6,
+            716.51
+          ],
+          "block_id": "b2_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This method supersedes\nclause 21 of IS : 3025-1964\n\u2018Methods\nof sampling\nand test (physical\nand chemical)\nfor water used in industry\u2019.",
+          "bbox": [
+            19.44,
+            725.04,
+            486.72,
+            746.51
+          ],
+          "block_id": "b2_11",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            252.24,
+            755.76,
+            259.44,
+            767.63
+          ],
+          "block_id": "b2_12",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Reprography  Unit,\nBIS, New Delhi, India",
+          "bbox": [
+            295.2,
+            774.72,
+            499.58,
+            787.23
+          ],
+          "block_id": "b2_13",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 524.615966796875,
+        "height": 808.8240356445312
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

@@ -1,0 +1,1230 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>Is:!m1(fartII)-19fJ1<<HEADING_END>>
+<<HEADING level=2>>Indian Standard<<HEADING_END>>
+<<HEADING level=3>>MEASUREMENT
+OF SOUND INSULATION
+IN
+BUILDINGS
+AND OF BUILDING ELEMENTS<<HEADING_END>>
+<<PARAGRAPH>>PART II STATEMENT
+OF PRECISION
+REQUIREMENTS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Acoustics Sectional
+Committee,
+LTDC
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>Chairman<<PARAGRAPH_END>>
+<<HEADING level=3>>DR M.
+PANGHOLY
+Emeritus Scientist, National Physical Laboratory, New Delhi 110 012<<HEADING_END>>
+<<PARAGRAPH>>Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ministry of Defence ( R & D )<<PARAGRAPH_END>>
+<<PARAGRAPH>>DR  K. ACHYUTHAN
+SHRI R. S. VOHRA (  Alternate )
+SHRI SANDEEP AHUJA
+SHRI S. P. JERATH (  Al&mate )
+COL  T. R. BHALOTFLA
+LT COL K~~HAN LAL (  Alternate
+DR A. F. CHHAPGAR
+SHRI TEK CHANDANI (  Alternate
+DR P. N. GUPTA
+SHRI  R. K. JAIN<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ahuja Radios, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ministry of Defence ( DGI )<<PARAGRAPH_END>>
+<<PARAGRAPH>>National Physical Laboratory
+( CSIR ), New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>Department of Electronics, New Delhi
+Electronic
+Component
+Industries
+Association,
+, (  ELCINA ), New Delhi
+SHRI L. K. VISHWANATH (  Alternan ,
+SHRI  K. S. KALIDAs
+SHRI V. JAYARAMAN (  Alternate )
+Railway Board, New Delhi<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRI J. S. MONGA
+Botton
+Industrial
+Corporation,
+New
+Delhi
+SHRI M. S. MONGA (  Alternate )
+SHRI B. C.-MUKHERJEE
+National Test House, Calcutta
+SHRI J. K. BHATTACHARYA (  Alternate )
+DR ( MISS ) SHAILAJA  NIKAM
+All India Institute of Speech & Hearing,
+Mysore
+SHRI K. D. PAVATE
+Central Electronics
+Engineering
+Research
+Institute
+( CSIR ), Pilani
+SHR~ M. R. KAPOOR (  Alternate )
+SHRI A, V. RAMANAN
+Films Division, Bombay
+RESEARCH ENGINEER
+Directorate
+General of All India Radio, New Delhi
+SHRI M. SANKARALINGAM
+Directorate
+General of Supplies & Disposals, New
+IMhi
+SHRI R. S.  ARORA (  Alternate )
+SHRI SARWAN KUMAR
+Directorate
+General of Civil Aviation,
+New Delhi
+SHRI K. CHANRACHUDAN
+(  Alternate )<<PARAGRAPH_END>>
+<<PARAGRAPH>>( Continued on page 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>@J  Copyright  1982<<PARAGRAPH_END>>
+<<PARAGRAPH>>INDIAN
+STANDARDS
+INSTITUTION<<PARAGRAPH_END>>
+<<PARAGRAPH>>This publication
+is protected
+under the  Indian Copyright Act (  XIV of 1957 ) and<<PARAGRAPH_END>>
+<<PARAGRAPH>>reproduction in whole or in part by any means except with written permission of the<<PARAGRAPH_END>>
+<<PARAGRAPH>>publisher shall be deemed to be an infringement of copyright under the said Act.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS. : 9901 ( Part II ) - 1981<<HEADING_END>>
+<<PARAGRAPH>>( Continuedfrom page  1 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Members
+Representing<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRI  M. N. Srimc~~
+Posts and Telegraphs
+Board, New Delhi
+SHRI S. K. TANDON (  Alternate )
+SUPERINTENDENT  SURVEYOROF
+Central
+Public
+Works
+Department,
+New
+Delhi
+WORKS (  FOOD )
+SHRI L. K. VISHWANATH
+Peico Electronics
+& Electricals Ltd,
+Bombay;
+and
+The
+Radio
+Electronics
+& Television
+Manu-
+facturers’ Association. Bombav
+SHRI  K. D’SA (  Alternate )
+SHRI  R. C. JAIN,
+Head ( Electronics )
+Director General, IS1 ( Ex-ojicio  Member)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Secretar?,<<PARAGRAPH_END>>
+<<PARAGRAPH>>SHRI  PAVAN KUMAR
+Assistant Director ( Electronics ), ISI<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS:99Ol(PartIt)-1981<<HEADING_END>>
+<<HEADING level=3>>Indian
+Standard<<HEADING_END>>
+<<HEADING level=3>>MEASUREMENT
+OF SOUND INSULATION
+IN
+BUILDINGS
+AND OF BUILDING ELEMENTS<<HEADING_END>>
+<<PARAGRAPH>>PART II STATEMENT
+OF PRECISION
+REQUIREMENTS<<PARAGRAPH_END>>
+<<HEADING level=3>>0. FOREWORD<<HEADING_END>>
+<<PARAGRAPH>>0.1  This Indian
+Standard
+( Part II  )  was adopted
+by the Indian
+Standards
+Institution
+on 26 October
+1981, after the draft finalized
+by the Acoustics
+Sectional
+Committee
+had been
+approved
+by the Electronics
+and
+Tele-
+communication
+Division
+Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.2  It  is not possible
+to specify completely
+the construction
+of laboratory
+test facilities
+or the sound field conditions
+obtained.
+Therefore,
+some details
+of the test set-up and the procedure
+must be left to the choice of the operator.
+This,
+together
+with the statistical
+character
+of sound fields within
+rooms,
+leads to uncertainties
+in the results due to non-systematic
+( random  )  and
+systematic
+influences.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.3 Random
+influences
+can
+be
+determined
+by
+repeated
+measurements
+under
+essentially
+similar
+conditions,
+variations
+being
+made
+in order
+to
+obtain
+representative
+samples
+of
+the
+actually
+existing
+conditions
+( for
+example,
+position
+of loudspeaker
+and
+microphone
+).
+The
+repeatability
+obtained
+is a measure
+of the confidence
+to be placed
+in the results with
+respect
+to random
+influences.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.4 Systematic
+influences
+( for example,
+size and
+shape
+of test rooms,
+mounting
+conditions
+of test specimen,
+calibration
+of measuring
+equipment
+)
+cannot
+be
+determined
+by
+a simple
+procedure.
+Generally,
+comparison
+measurements
+in different
+test set-ups and knowledge
+of the random
+un-
+certainties
+under these conditions
+are necessary
+in order to assess the syste-
+matic
+influences.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.5 In agreement
+with modern
+statistical
+methods,
+the concepts
+of repeat-
+ability
+and reproducibility
+of complete
+results
+are used in this standard,
+rather
+than the variance
+of the individual
+quantities
+comprising
+the result.
+Repeatability
+and reproducibility
+offer a simple
+means
+of checking
+and
+stating
+the precision
+of measurements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.6 This
+standard
+which
+covers
+statement
+of precision
+requirements
+is a part of the series
+of
+Indian
+Standards
+on
+measurement
+of sound<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS:9!Bl(PartII)-1981<<HEADING_END>>
+<<PARAGRAPH>>insulation
+in
+buildings
+and
+of
+building
+elements.
+Other
+standards
+in this series are:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Requirements
+for laboratories<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part I<<PARAGRAPH_END>>
+<<PARAGRAPH>>Laboratory
+measurements
+of airborne
+sound
+insulation
+of building
+elements<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part III<<PARAGRAPH_END>>
+<<PARAGRAPH>>Field measurements
+of airborne
+sound insulation
+between
+rooms<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part IV<<PARAGRAPH_END>>
+<<PARAGRAPH>>Field measurements
+of airborne
+sound insulation
+of facade
+elements
+and
+facades<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part V<<PARAGRAPH_END>>
+<<PARAGRAPH>>Laboratory
+measurements
+of impact
+sound insulation
+of
+floors<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part VI<<PARAGRAPH_END>>
+<<PARAGRAPH>>Field
+measurements
+of impact
+sound insulation
+of floors<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part VII<<PARAGRAPH_END>>
+<<PARAGRAPH>>Laboratory
+measurements
+of the reduction
+of transmitted
+impact
+noise
+by floor-coverings
+on a standard
+floor.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Part VIII<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.7  While
+preparing
+this
+standard,
+assistance
+has
+been
+derived
+from,
+ISO/DIS
+140/11 ‘Measurement
+of sound
+insulation
+in buildings
+and of
+building
+elements:
+Part
+II
+Statement
+of precision
+requirements’,
+issued
+by the International
+Organization
+for Standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.8 In reporting
+the result of a test made in accordance
+with this standard,
+if the final value,
+observed
+or calculated,
+is to be rounded
+off, it shall be
+done
+in accordance
+with
+IS  :  2-1960*.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1. SCOPE
+1.1  This standard
+( Part II  )  lays down procedures
+for assessing uncertainty
+in
+the
+acoustical
+measurements
+described
+in
+Parts
+III
+to VIII
+of
+IS  :  9901t
+due
+to non-systematic
+influences.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2 The results may be used for checking
+different
+measuring
+arrangements
+in one laboratory
+and for comparing
+such conditions
+in different
+labo-
+ratories
+or in field situations.
+Minimum
+values for the precision
+required
+when
+carrying
+out
+tests
+according
+to
+series
+( Parts
+III
+to VIII
+) of
+IS  :  9901t
+are stated
+in 4.<<PARAGRAPH_END>>
+<<HEADING level=3>>2. TERMINOLOGY<<HEADING_END>>
+<<HEADING level=3>>2.0  For
+the purpose
+of this standard,
+the terms
+and definitions
+given in
+IS  :  1885 ( Part III/Set
+8 )-1974:
+shall apply in addition
+to the following.<<HEADING_END>>
+<<PARAGRAPH>>*Rules for rounding off numerical values ( reuG.4  ) .
+jMeasurement
+of sound insulation in buildings and of building elements.
+SElectrotechnical
+vocabulary:
+Part III Acoustics, Section 8 Architectural
+acoustics.<<PARAGRAPH_END>>
+<<HEADING level=3>>4<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>IS:99oI(PartII)-1981<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.1 Result-The
+final value obtained
+by following
+the complete
+set of
+instructions
+in the test procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.2 True
+Value
+-
+For practical
+purposes,
+it is the value towards
+which
+the average
+of single results obtained
+by n laboratories
+tends, when n tends
+towards
+infinity.
+Consequently,
+such a true value is associated
+with the
+particular
+method
+of test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.3  Accuracy
+-
+The
+closeness
+of agreement
+between
+the true value and
+the
+mean
+result
+which
+would
+be obtained
+by applying
+the test proce-
+dure a very large number
+of times. The smaller
+the systematic
+part of the
+uncertainty
+which
+affects
+the result,
+the more accurate
+is the procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.4 Precision
+-
+The closeness of agreement
+between
+the results obtained
+by applying
+the test procedure
+several times under prescribed
+conditions.
+The
+smaller
+the random
+part of the uncertainty,
+the more precise is the
+procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.5 Repeatability
+-
+Qualitatively,
+it is the closeness
+of agreement
+bet-
+ween successive
+results obtained
+with the same test procedure,
+on the same
+test specimen
+and under the same conditions
+( same operator,
+same appara-
+tus, same
+laboratory
+and same intervals
+of time ). Quantitatively,
+it is
+the value
+below
+which
+the absolute
+difference
+between
+two single
+test
+results
+( pair ) obtained
+in the above
+conditions
+may be expected
+to lie
+with a specified probability.
+This quantity
+is denoted
+by r.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.6 Reproducibility
+-
+Qualitatively,
+it is the
+closeness
+of agreement
+between
+individual
+results
+obtained
+with the same method
+on the same
+test specimen
+but under different
+conditions
+( different
+operators,
+different
+apparatus,
+different
+laboratories
+and different
+time ). Quantitatively,
+it is
+the value
+below
+which
+the absolute
+difference
+between
+two single
+test
+results ( pair ) on the same test specimen
+obtained
+by operators
+in different
+laboratories,
+using the prescribed
+test procedure,
+may be expected
+to lie
+with a specified
+probability.
+This quantity
+is denoted
+by Q.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.7  Arithmetic
+Mean
+-
+The arithmetic
+mean
+x for a given set of results
+is defined
+by the equation:<<HEADING_END>>
+<<HEADING level=3>>1 *
+X=-E
+Xi
+n  i-l<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>n = number
+of observed
+values xi, and<<PARAGRAPH_END>>
+<<PARAGRAPH>>x = an estimator
+for the true value of the mean.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS:99Ol(PartII)-1981<<HEADING_END>>
+<<PARAGRAPH>>2.8 Variance
+-
+Qualitatively,
+a measure
+of the dispersion
+of a series of
+random
+results
+about
+their
+average.
+Quantitatively,
+for a given
+set of
+results,
+the sum of the squares
+of the deviation
+of each result from
+the
+arithmetic
+mean,
+divided
+by the number
+of degrees
+of freedom.
+In the
+simple
+case of n consecutive
+( ungrouped
+) observations,
+the variance
+is
+calculated
+according
+to the
+equation:<<PARAGRAPH_END>>
+<<PARAGRAPH>>where
+$2 is an estimator
+for the true value a* of the variance.<<PARAGRAPH_END>>
+<<HEADING level=3>>2.9 Standard
+Deviation
+-
+The
+positive
+square root
+s of the variance,
+s is an estimator
+for the true value of CT of the standard
+deviation.<<HEADING_END>>
+<<PARAGRAPH>>2.10
+Degrees
+of Freedom-The
+number
+of degrees
+of freedom
+ZJ is
+equal to the number
+of independent
+terms contained
+in the expression
+for
+the variance.
+In the simple case of consecutive
+( ungrouped
+) observations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>v=n-1<<PARAGRAPH_END>>
+<<HEADING level=3>>2.11 Probability
+Level -
+The probability
+that the statement
+in question
+is true. In this standard,
+a probability
+level of 95 percent is used.<<HEADING_END>>
+<<PARAGRAPH>>3. MEASUREMENT
+PROCEDURE<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1 General<<HEADING_END>>
+<<PARAGRAPH>>3.1.1  For routine
+testing
+according
+to this series of standards,
+on many
+occasions
+only one test on a specimen
+is carried
+out. In such cases, no
+reliable
+figure
+for the confidence
+to be placed
+in the result is obtained.
+In the interest
+of reliability,
+it may, therefore,
+be advantageous
+to perform
+two tests and check
+the difference
+of the results against
+the repeatability
+r of the test procedure.
+If their difference
+is less than or equal to r, the test
+operator
+may consider his work as being under control and take the average
+of the two results as the estimated
+value of the quantity
+being tested.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1.2
+Before
+routine
+acoustical
+testing
+is taken
+up by an organization,
+the repeatability
+of the test procedure
+and the test set up shall be checked
+as to its capability
+of producing
+reliable
+and
+repeatable
+results.
+These
+checks should be repeated
+from time to time, especially
+whenever
+changes
+in the procedure,
+the test set-up or the instrumentation
+are made.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1.3
+It is recommended
+that different
+testing- organizations
+collaborate
+so as to check each- other’s
+results for reproducibility.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS:99Ol(PartII)-1981<<HEADING_END>>
+<<HEADING level=3>>3.2 Check OT Repeatability<<HEADING_END>>
+<<HEADING level=3>>3.2.1  As a standard
+check of repeatability
+of airborne
+and impact
+sound
+measurements
+under given conditions,
+the following
+method
+shall be used.<<HEADING_END>>
+<<PARAGRAPH>>3.2.2  A set of six-complete
+measurements,
+for example;
+R, D,Z
+or  L,
+respectively,
+as a function
+of frequency,
+is grouped into pairs of consecutive
+measurements,
+without changing
+the original order of the set. The difference
+in results between
+the two members
+of every pair is compared
+at all fre-
+quencies with the requirements
+in 4 and Table
+1. If these values are exceeded
+at any one frequency,
+all the results are rejected
+and the method of checking
+isrepeated
+completely.
+In case of a second failure to achieve the prescribed
+values, the test procedure
+and/or the test set-up are considered
+inadequate
+and shall be improved
+to obtain
+the required
+repeatability.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE -
+When carrying out repeatability
+checks, the details of the test procedure
+should not be reobcated
+to the extent
+of using. for examole.
+identical
+oositions
+for the microphone, loudspeaker or tapping ma&me,
+as thisAwould result $ values
+of r unattainable
+under
+practical
+conditions.
+Rather,,
+these influences be varied
+in such~a way as to obtain independent and representatrve
+samples of the quantities
+affecting the repeatability ( that is, the average sound pressure levels in the rooms ).<<PARAGRAPH_END>>
+<<HEADING level=3>>4.  REQUIREMENTS
+FOR REPEATABILITY<<HEADING_END>>
+<<PARAGRAPH>>4.1  Since
+the procedure
+outlined
+in this standard
+has not yet been used
+in building acoustics on a broad scale, precise numerical
+data of the standard
+deviation
+of complete
+results
+exist
+only for one laboratory.
+From
+these
+values, tentative
+figures for repeatability
+requirements
+have been calculated
+and are given
+in Table
+1. A simplified
+method
+for carrying
+out inter-
+laboratory
+measurement
+for
+determining
+these
+values
+is described
+in
+Appendix
+A.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2  Laboratory
+Measurements<<HEADING_END>>
+<<PARAGRAPH>>4.2.1  The
+test procedure
+shall be so chosen,
+within
+the standardized
+procedures
+of
+this series
+( Parts
+III
+to VIII
+) of
+IS  :  9901*,
+that
+the
+repeatability
+checked
+according
+to
+3.2
+does
+not
+exceed
+the
+values
+given
+in Table
+1.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3  Field Measurements<<HEADING_END>>
+<<HEADING level=3>>4.3.1  In field measurements,
+the acoustical
+conditions
+of test are not
+under
+the control
+of
+the operator
+and shall in most cases
+be
+accepted
+as they are.<<HEADING_END>>
+<<HEADING level=3>>*Measurement
+of sound insulation in buildings and of building elements.<<HEADING_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>lS:9!IOl(PartII)-1981<<HEADING_END>>
+<<PARAGRAPH>>TABLE
+1
+REQUIREMENTS
+FOR
+REPEATABILITY
+( r )<<PARAGRAPH_END>>
+<<PARAGRAPH>>( Ckzuses 3.2.2,4.1
+and 4.2.1 )<<PARAGRAPH_END>>
+<<HEADING level=3>>THIRD-OCTAVE BAND
+~FOR  AIRBORNE SOUND
+CENTRE FREQUENCY
+REDUCTION INDEX  R<<HEADING_END>>
+<<PARAGRAPH>>TFORNORMALUED IMPACT
+SOUND LEVEL  Ln<<PARAGRAPH_END>>
+<<HEADING level=3>>(1)
+(2)
+HZ
+dB<<HEADING_END>>
+<<PARAGRAPH>>(3)
+dB<<PARAGRAPH_END>>
+<<PARAGRAPH>>100
+5
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>125
+5
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>160
+5
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>200
+5
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>250
+3
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>315
+2
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>400
+2
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>500
+2
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>630
+1
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>800
+1
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 000
+1
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 250
+1
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>1600
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>2 000 and above
+2
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.32  If instruments
+and a procedure
+checked
+by a laboratory
+are used,
+the repeatability
+due to these influences
+alone can be considered
+essentially
+similar
+to that of laboratory
+measurements.
+However,
+the overall
+repeat-
+ability
+in situ  cannot
+be stated since the appropriate
+values of the standard
+deviation
+are not known for the given situation,
+and may under unfavour-
+able conditions
+considerably
+exceed
+the laboratory
+values.<<PARAGRAPH_END>>
+<<HEADING level=3>>APPENDIX
+A
+(Clause 4.1 )<<HEADING_END>>
+<<HEADING level=3>>COOPERATIVE
+DETERMINAnON
+OF REPEATABILITY<<HEADING_END>>
+<<HEADING level=3>>A-l  The repeatability
+attainable
+under given testing
+conditions
+is related
+to the standard
+deviation
+obtained
+from
+numerous
+measurements
+under
+the same conditions
+by the equation:<<HEADING_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS:99ol(PartII)-1981<<HEADING_END>>
+<<PARAGRAPH>>For a sufficiently large number of results, P can be approximated
+by the
+equation  :<<PARAGRAPH_END>>
+<<PARAGRAPH>>where  t  is the factor
+derived from Student’s
+distribution
+for a
+probability
+level of 95 percent and the appropriate
+number of degrees of
+freedom ( see Table
+2  ) .<<PARAGRAPH_END>>
+<<HEADING level=3>>TABLE
+2
+FACTOR
+t FOR
+CALCULATING
+THE
+REPEATABILITY
+FOR
+A
+PROBABILITY
+LEVEL OF 95 PERCENT<<HEADING_END>>
+<<HEADING level=3>>NUMBER OF DEGREES OF FREEDOM
+u
+t<<HEADING_END>>
+<<HEADING level=3>>1<<HEADING_END>>
+<<HEADING level=3>>I
+‘i ifi
+3 182
+4
+2 776
+5
+2 571<<HEADING_END>>
+<<HEADING level=3>>2 447
+2 365
+2 306
+2 262
+2 228<<HEADING_END>>
+<<HEADING level=3>>::
+2
+2 201
+179
+13
+2 160<<HEADING_END>>
+<<HEADING level=3>>:“;
+2
+2 145
+131<<HEADING_END>>
+<<HEADING level=3>>16
+2 120
+17
+2 110
+18
+2 101<<HEADING_END>>
+<<HEADING level=3>>:i
+2
+2 093
+086<<HEADING_END>>
+<<HEADING level=3>>::
+2
+2 ~080
+074<<HEADING_END>>
+<<HEADING level=3>>;~:
+2
+2 069
+064
+25
+2 060<<HEADING_END>>
+<<HEADING level=3>>26
+2 056
+27<<HEADING_END>>
+<<HEADING level=3>>2 052
+2 048
+2 045
+2 042<<HEADING_END>>
+<<HEADING level=3>>:;
+30<<HEADING_END>>
+<<HEADING level=3>>40
+2 021<<HEADING_END>>
+<<HEADING level=3>>60
+2 000<<HEADING_END>>
+<<HEADING level=3>>120
+1 980<<HEADING_END>>
+<<HEADING level=3>>1 960<<HEADING_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS :  9901 ( Part II ) - 1981<<HEADING_END>>
+<<PARAGRAPH>>A-IS
+The determination
+of repeatability
+according
+to this method
+in one
+laboratory
+is very laborious,
+since approximately
+35 degrees
+of freedom
+are considered
+necessary
+for calculating
+sufficiently
+exact values of s. More-
+over, a more reliable
+value of the standard
+deviation
+of the standardized
+procedure
+will be obtained
+if a number
+of measurements
+on separate
+test
+specimens
+of the same construction
+are carried out in different
+laboratories.
+In
+this case,
+the standard
+deviation
+for calculating
+the repeatability
+is
+given
+by the equation:<<PARAGRAPH_END>>
+<<HEADING level=3>>.....
+.....
++
+S=
+(n,-l)~T+
+(a,-l)sz+.
++
+(fti-l)Si’+.
+(fZ.k-l)Jk”<<HEADING_END>>
+<<HEADING level=3>>(fZ,+?Z,+......+fZi
++.
+.....
+t-Y&)
+-k<<HEADING_END>>
+<<PARAGRAPH>>where
+si =standard
+deviation
+evaluated
+in
+the
+i-th
+laboratory
+from ni consecutive
+ungrouped
+results,
+and
+k =number
+of laboratories
+involved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-l.2
+The number
+of laboratories
+and the number
+of results in each shall
+be so chosen that the number
+of degrees of freedom
+given by the denomi-
+nator of the expression
+in the square root of the above equation,
+is  at least  35.
+However,
+for each individual
+laboratory,
+at least five results are necessary.
+The
+test conditions
+for the determination
+of s shall correspond
+as far as
+possible with the examples given in series (Parts
+III to VIII)
+of IS  :  9901*.<<PARAGRAPH_END>>
+<<HEADING level=3>>*Measurement of sound insulation in buildings and of building elements.<<HEADING_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 11
+<<SECTION_END>>
+<<DOCUMENT_END>>

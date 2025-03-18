@@ -1,0 +1,5248 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS  14729 :  1999\nv7?dmmF\nIS0 4868 : 1984",
+          "bbox": [
+            224.86,
+            32.14,
+            496.35,
+            73.73
+          ],
+          "block_id": "b1_0",
+          "font_size": 18.7,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            195.1,
+            162.05,
+            335.87,
+            181.97
+          ],
+          "block_id": "b1_1",
+          "font_size": 17.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "CODE FOR THE MEASUREMENT\nAND\nREPORTING\nOF LOCAL VIBRATION\nDATA OF\nSHIP STRUCTURES\nAND EQUIPMENT",
+          "bbox": [
+            43.9,
+            188.32,
+            489.47,
+            260.72
+          ],
+          "block_id": "b1_2",
+          "font_size": 17.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ICS 47.020.01;\n17.160",
+          "bbox": [
+            215.74,
+            308.28,
+            317.02,
+            320.15
+          ],
+          "block_id": "b1_3",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0 BIS 1999",
+          "bbox": [
+            239.74,
+            644.76,
+            295.18,
+            656.63
+          ],
+          "block_id": "b1_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDAR-DS\nMANAK\nBHAVAN,\n9\nBAHADUR\nSHAH\nZAFAR\nMARG\nNEW DELHI 110002",
+          "bbox": [
+            118.54,
+            669.6,
+            412.78,
+            706.31
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "September\n1999\nPrice Group 7",
+          "bbox": [
+            42.22,
+            719.64,
+            495.58,
+            729.96
+          ],
+          "block_id": "b1_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 550.0159912109375,
+        "height": 752.9039916992188
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Mechanical Vibration -and Shock Sectional Committee, LM 04",
+          "bbox": [
+            43.51,
+            34.76,
+            319.06,
+            47.95
+          ],
+          "block_id": "b2_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NATIONAL FOREWORD",
+          "bbox": [
+            43.75,
+            117.56,
+            158.26,
+            130.75
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard which is identical with IS0 4868:1984\u2019Code for the measurement and reporting of\nlocal vibration data of ship structures and equipment\u2019 issued by the International Organization for\nStandardization\n(ISO) was adopted by the Bureau of Indian Standards on the recommendation of\nMechanical\nVibration\nand Shock\nSectional Committee and approval of the Light Mechanical\nEngineering Division Council.",
+          "bbox": [
+            43.27,
+            138.44,
+            500.98,
+            193.63
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The text of IS0 Standard has been approved as suitable for publication as Indian Standard without\ndeviations. In the adopted standard certain conventions are not identical to those used in Indian\nStandards. Attention is especially drawn to the following:",
+          "bbox": [
+            43.51,
+            201.56,
+            499.3,
+            235.63
+          ],
+          "block_id": "b2_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) Wherever the words \u2018International Standard\u2019 appear referring to this standard, they should be\nread as \u2018Indian Standard\u2019.",
+          "bbox": [
+            60.31,
+            243.32,
+            501.22,
+            267.07
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) Comma (J has been used as a decimal marker while in Indian Standards, the current practice is\nto use a full point (.) as the decimal marker.",
+          "bbox": [
+            60.55,
+            268.52,
+            501.22,
+            292.51
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In this adopted standard, reference appears to certain International Standards for which Indian Standards\nalso exist. The corresponding Indian Standards which are to be substituted in their place are listed\nbelow along with their degree of equivalence for the editions indicated:",
+          "bbox": [
+            44.95,
+            300.44,
+            500.02,
+            334.51
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "lntefnational\nStandard\nCorresponding\nIndian Standard\nDegree-of\nEquivalence",
+          "bbox": [
+            45.91,
+            342.44,
+            494.47,
+            365.07
+          ],
+          "block_id": "b2_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS0  2041\n1s 11717:1999 Vocabulary on vibration and shock  (first revision)\nIdentical",
+          "bbox": [
+            45.91,
+            383.96,
+            493.3,
+            397.63
+          ],
+          "block_id": "b2_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS0  4867\nIS  14728 A999  Code for the measurement and reporting of\nshipboard vibration data\ndo",
+          "bbox": [
+            46.15,
+            415.4,
+            482.02,
+            439.63
+          ],
+          "block_id": "b2_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "IS0 6954\nIS 14733 :1999 Mechanical vibration and shock--\nGuidelines for the overall evaluation of vibration in merchants ships\ndo",
+          "bbox": [
+            46.15,
+            447.08,
+            482.5,
+            471.07
+          ],
+          "block_id": "b2_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 524.280029296875,
+        "height": 578.5759887695312
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729: 1999\nIS0\n4668\n: 1984",
+          "bbox": [
+            441.91,
+            12.61,
+            518.66,
+            34.3
+          ],
+          "block_id": "b3_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "/n&In\nsfandard",
+          "bbox": [
+            211.75,
+            48.01,
+            299.37,
+            57.58
+          ],
+          "block_id": "b3_1",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "CODE FOR THE MEASUREMENT\nAND\nREPORTING\nOF LOCAL VIBRATION DATA OF\nSHIP STRUCTURES\nAN~D EQUIPMENT",
+          "bbox": [
+            71.35,
+            65.74,
+            489.61,
+            133.79
+          ],
+          "block_id": "b3_2",
+          "font_size": 17.0,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0\nIntroduction",
+          "bbox": [
+            37.51,
+            187.09,
+            104.23,
+            197.17
+          ],
+          "block_id": "b3_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "vibration\nof the structure or equipment\nmounted thereon.\nCon-\ncern over local vibration\nmay be caused by  :",
+          "bbox": [
+            290.47,
+            187.69,
+            518.73,
+            207.6
+          ],
+          "block_id": "b3_11",
+          "font_size": 7.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The term \u201clocal vibration\u201d,\nas used in the shipbuilding\nindustry,\napplies to the dynamic\nresponse of a structural\nelement,\nan\nassembly\nof structural\nelements,\nmachinery\nor equipment\nwhich vibrates at an amplitude\nsignificantly\ngreater than that of\nthe basic hull girder at the location.\nThis~vibration\nmay occur at\na frequency\nof the hull girder or of a machinery\ncomponent.\nTypical\nexamples\ninclude\nthe\nvibration\nof\nparts\nof\nthe\nsuperstructure,\nsmokestack,\nmast, binnacle,\nturbine,\npipe or\ndeck plate. These local vibrations\ngenerally result from  :",
+          "bbox": [
+            37.51,
+            205.45,
+            267.69,
+            295.68
+          ],
+          "block_id": "b3_4",
+          "font_size": 7.8,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nthe stresses due to the vibration,\nfor example\nin the\nstructure,\nin the equipment\nor attachments;",
+          "bbox": [
+            302.71,
+            221.77,
+            519.21,
+            241.42
+          ],
+          "block_id": "b3_12",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe necessity of maintaining\ntrouble-free\noperation\nof a\nmachine or other equipment\nwhich might be jeopardized\nby\nthe malfunction\nor degradation\nof components;",
+          "bbox": [
+            302.71,
+            251.77,
+            521.13,
+            281.5
+          ],
+          "block_id": "b3_13",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nthe physical\nstrain on man (habitability\nand perform-\nance);",
+          "bbox": [
+            302.95,
+            291.61,
+            516.57,
+            311.02
+          ],
+          "block_id": "b3_14",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nlocal flexibility\nof supporting\nstructural\nelements;\nor,",
+          "bbox": [
+            50.47,
+            303.61,
+            259.05,
+            313.18
+          ],
+          "block_id": "b3_5",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe vibratory\ncharacteristics\nof the\nmachinery\ncon-\ncerned.",
+          "bbox": [
+            50.95,
+            321.61,
+            266.97,
+            341.02
+          ],
+          "block_id": "b3_6",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "dj\nthe effects of the vibration\non its environment,\nsuch as\nadjacent instruments,\nmachines,\nequipment,\netc.",
+          "bbox": [
+            303.43,
+            321.85,
+            521.37,
+            341.5
+          ],
+          "block_id": "b3_15",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In this International\nStandard,\nthe term \u201cvibration\nseverity\u201d\nis\nused to describe the vibration\nconditions\nin the ship and, based\non long-established\npractice in the industry,\nthe peak value of\nvibration\nvelocity\nhas been chosen as the primary quantity\nof\nmeasurement:\nsince,\nhowever,\nmuch\ndata\nhave\nbeen\nac-\ncumulated\nin terms\nof vibration\nacceleration\nand vibration\ndisplacement,\na plotting sheet has been adopted on which data\nmay easily be plotted using any of these quantities\nof measure-\nment.",
+          "bbox": [
+            39.43,
+            351.37,
+            269.61,
+            441.34
+          ],
+          "block_id": "b3_7",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The frequency\nrange considered\nincludes propulsion\nshaft rota-\ntional frequencies,\nrotational\nfrequency\nof machines and other\nsignificant\nsource frequencies,\nsuch as diesel firing,\nblade or\nvane passage, etc.",
+          "bbox": [
+            291.43,
+            355.93,
+            521.37,
+            395.26
+          ],
+          "block_id": "b3_16",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This International\nStandard ,gives general principles of vibration\nmeasurement\non board ships to improve vibration\nengineering.\nTherefore,\nin individual\ncases, items to be measured\nmay be\nselected or added to meet the aims of the vibration\nmeasure-\nment of each ship.",
+          "bbox": [
+            291.91,
+            409.69,
+            522.33,
+            459.58
+          ],
+          "block_id": "b3_17",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\nScope and field of application",
+          "bbox": [
+            40.39,
+            471.97,
+            198.07,
+            482.05
+          ],
+          "block_id": "b3_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This International\nStandard\nestablishes uniform procedures\nfor\ngathering\nand presenting\ndata on vibrations\nof local structural\nelements or equipment\nin sea-going\nmerchant\nships. The pro-\ncedures,\nwhere applicable,\ncan also be used for inland ships\nand tug boats. Such data are necessary to establish uniformly\nthe vibration\ncharacteristics\npresent in various compartments\non board ship and to provide a basis for design predictions,\nim-\nprovements\nand comparison\nagainst environmental\nvibration\nreference\nlevels or criteria relative to reliability\n(of machines),\nsafety\n(of structures)\nand habitability.\nThe data are not in-\ntended to apply to the evaluation\nof the vibration\nof machines\nwith respect to noise control orto the design of the machine or\nequipment\nunder consideration.\nThese latter cases will gen-\nerally\nrequire\nspecific\ndiagnostic\ntreatment\nand\ninclude\na\nbroader frequency\nrange and more specialized instrumentation\nthan is necessary for these general considerations.",
+          "bbox": [
+            40.63,
+            492.49,
+            272.25,
+            651.82
+          ],
+          "block_id": "b3_9",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nReferences",
+          "bbox": [
+            292.87,
+            494.53,
+            357.91,
+            504.61
+          ],
+          "block_id": "b3_18",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS0 2041,  Vibration and shock -\nVocabulary.",
+          "bbox": [
+            293.59,
+            515.05,
+            462.81,
+            524.62
+          ],
+          "block_id": "b3_19",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS0 4867,  Code for the measurement\nand reporting of ship-\nboard vibration data.",
+          "bbox": [
+            293.35,
+            534.97,
+            522.81,
+            553.97
+          ],
+          "block_id": "b3_20",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS0 6964, Mechanical vibration and shock -\nGuidelines for the\noverall evaluation of vibration in merchant ships.",
+          "bbox": [
+            294.07,
+            565.74,
+            524.25,
+            583.97
+          ],
+          "block_id": "b3_21",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3\nDefinitions",
+          "bbox": [
+            293.83,
+            609.73,
+            355.99,
+            619.81
+          ],
+          "block_id": "b3_22",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In addition\nto the terms defined\nin IS0 2041, the following\ndefinitions\nare applicable.",
+          "bbox": [
+            294.31,
+            634.81,
+            518.73,
+            654.22
+          ],
+          "block_id": "b3_23",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This International\nStandard\nis concerned\nwith local vibration\nmeasured\non\nstructural\nelements,\nsuperstructure,\ndecks,\nbulkheads,\nmasts,\nmachines,\nfoundations,\nequipment,\netc.,\nand only relates to the measurement\nand reporting\nof the local",
+          "bbox": [
+            41.83,
+            661.69,
+            271.05,
+            701.26
+          ],
+          "block_id": "b3_10",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1\nfree\nroute  :  That condition\nachieved\nwhen the ship is\nproceeding\nat a constant\nspeed and course\nwith\nminimum\nthrottle\nor helm adjustment.",
+          "bbox": [
+            294.07,
+            670.93,
+            525.45,
+            702.46
+          ],
+          "block_id": "b3_24",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 574.2479858398438,
+        "height": 748.6399536132812
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729 :  1999\nISO\n4868  :  1984",
+          "bbox": [
+            31.1,
+            22.85,
+            105.79,
+            45.04
+          ],
+          "block_id": "b4_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.2\nhull girder  :  The primary hull structure such as the shell\nplating and continuous strength decks contributing to flexural\nrigidity of the hull and the static and dynamic behaviour of\nwhich can be described\nby a free-free\nnon-uniform\nbeam\napproximation.",
+          "bbox": [
+            29.18,
+            75.89,
+            260.32,
+            126.62
+          ],
+          "block_id": "b4_1",
+          "font_size": 7.5,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2\nPreferable\ntest conditions",
+          "bbox": [
+            282.86,
+            78.0,
+            416.59,
+            87.25
+          ],
+          "block_id": "b4_3",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The preferable conditions shall be as follows:",
+          "bbox": [
+            283.1,
+            99.54,
+            449.44,
+            107.66
+          ],
+          "block_id": "b4_4",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nthe test should be conducted in a depth of water not\nless than five times the draught of the ship, with machinery\nrunning under normal conditions, unless otherwise speci-\nfied:",
+          "bbox": [
+            295.34,
+            117.3,
+            512.32,
+            155.42
+          ],
+          "block_id": "b4_5",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.3\nhull girder\nvibration\n:  That component\nof vibration\nwhich exists at any particular transverse plane of the hull so\nthat there is little or no relative motion between\nelements\nintersected by the plane.",
+          "bbox": [
+            29.18,
+            140.21,
+            261.04,
+            181.34
+          ],
+          "block_id": "b4_2",
+          "font_size": 7.8,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE -  For exploratory purposes, tests may be carried out at the\nquayside if there is no reason to suppose that shallow water will\ninfluence the results.",
+          "bbox": [
+            295.58,
+            165.3,
+            514.72,
+            191.18
+          ],
+          "block_id": "b4_6",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.4\nlocal vibration\n:  The dynamic response of a structural\nelement,\ndeck,\nbulkhead\nor piece of equipment\nwhich\nis\nsignificantly greater than that of the hull girder at that location.",
+          "bbox": [
+            29.42,
+            195.17,
+            262.0,
+            225.98
+          ],
+          "block_id": "b4_7",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe test should be conducted in a quiet sea (sea state  3\nor less);",
+          "bbox": [
+            296.06,
+            199.92,
+            514.75,
+            218.78
+          ],
+          "block_id": "b4_8",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nthe ship should be ballasted to a displacement as close",
+          "bbox": [
+            296.06,
+            228.66,
+            514.0,
+            236.78
+          ],
+          "block_id": "b4_9",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "as possible to the operating conditions within the ordinary\nballasting capacity of the vessel. The draught aft should en-\nsure full immersion of the propeller;",
+          "bbox": [
+            296.06,
+            238.26,
+            513.52,
+            266.06
+          ],
+          "block_id": "b4_13",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.5\nseverity\nof vibration\n:  The peak value of vibration\n(velocity,\nacceleration\nor displacement)\nduring periods of\nsteady-state\nvibration,\nrepresentative\nof maximum repetitive\nbehaviour, under the conditions defined in 4.2.",
+          "bbox": [
+            29.66,
+            240.05,
+            261.52,
+            280.94
+          ],
+          "block_id": "b4_10",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nduring the free-route\nportion of the test, the rudder\nangle should be restricted to about two degrees port or star-\nboard (minimum rudder action is desired);",
+          "bbox": [
+            296.3,
+            275.94,
+            513.52,
+            303.74
+          ],
+          "block_id": "b4_14",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When\nusing autographic\nrecords, suitable lengths of record\nmay easily be recognized.",
+          "bbox": [
+            29.66,
+            293.7,
+            260.32,
+            311.66
+          ],
+          "block_id": "b4_11",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e)\nindividual machines may be run in isolation as required\nto investigate particular problems.",
+          "bbox": [
+            296.54,
+            313.38,
+            513.04,
+            331.58
+          ],
+          "block_id": "b4_15",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When using electronic methods of recording and analysis, care\nshall be taken to use lengths of record, time constants and\naveraging times so that a good approximation\nto the steady-\nstate amplitude is obtained.",
+          "bbox": [
+            30.14,
+            324.42,
+            261.04,
+            362.3
+          ],
+          "block_id": "b4_12",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Any divergence from these conditions should be clearly stated\nin table 4.",
+          "bbox": [
+            284.78,
+            345.3,
+            513.76,
+            363.5
+          ],
+          "block_id": "b4_16",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4\nMeasurement\nof data\n4.3\nTransducer\nlocations",
+          "bbox": [
+            30.86,
+            382.56,
+            397.39,
+            393.49
+          ],
+          "block_id": "b4_17",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1\nInstrumentation\n4.3.1\nStern",
+          "bbox": [
+            30.86,
+            408.18,
+            331.6,
+            418.69
+          ],
+          "block_id": "b4_18",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Vertical, athwartship and longitudinal measurements as close\nas possible to the centreline and the stern, to establish the hull\ngirder vibration characteristics. The location should be chosen\nso that the results are not influenced by local vibration effects.",
+          "bbox": [
+            283.82,
+            429.06,
+            515.92,
+            467.42
+          ],
+          "block_id": "b4_20",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Measurement\nshould preferably be made with an electronic\nsystem which produces a permanent record. The transducers\nmay generate signals proportional to acceleration; velocity or\ndisplacement. Recording can be made either on magnetic tape,\npaper oscillographs, or a combination of both. Use of paper\noscillographs during the tests means that the vibration traces\ncan be inspected directly and is very helpful in evaluating\nexisting vibration problems. When displacement\nrather than\neither velocity or acceleration\nis recorded, the desired low-\nfrequency signals associated with significant vibratory motion\nare the major components of a recorded trace. Thus, they are\nreadily evaluated since they overshadow\npossible higher fre-\nquency signals with low displacement amplitudes.",
+          "bbox": [
+            29.9,
+            431.22,
+            263.2,
+            558.38
+          ],
+          "block_id": "b4_19",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.3.2\nSuperstructure",
+          "bbox": [
+            285.26,
+            484.02,
+            362.8,
+            492.14
+          ],
+          "block_id": "b4_21",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Vertical,\nathwartship\nand longitudinal measurements\non the\nsuperstructure front bulkhead, at a minimum of three different\ndeck levels.",
+          "bbox": [
+            285.74,
+            504.9,
+            515.44,
+            532.7
+          ],
+          "block_id": "b4_22",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.3.3\nLocal structures",
+          "bbox": [
+            285.98,
+            549.3,
+            373.12,
+            557.42
+          ],
+          "block_id": "b4_23",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Vertical,\nathwartship\nand longitudinal measurements\nat any\nlocal structure where evidence of local vibration occurs.",
+          "bbox": [
+            286.22,
+            570.42,
+            515.92,
+            588.62
+          ],
+          "block_id": "b4_25",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Provision should be made for suitable attenuation control to\nenable\nthe\nsystem\nto\naccommodate\na\nwide\nrange\nof\namplitudes.",
+          "bbox": [
+            31.58,
+            571.38,
+            263.92,
+            599.42
+          ],
+          "block_id": "b4_24",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.3.4\nLocal deck traverse",
+          "bbox": [
+            286.46,
+            604.56,
+            392.59,
+            613.81
+          ],
+          "block_id": "b4_29",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "An event marker should be provided on the propeller shaft. Its\nposition with respect to top dead centre of cylinder number 1\nand a propeller blade should be noted.",
+          "bbox": [
+            33.26,
+            612.42,
+            264.88,
+            640.7
+          ],
+          "block_id": "b4_26",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Vertical, athwartship and longitudinal measurements at a suf-\nficient number of points in the area of local vibration to deter-\nmine the relative vibration with respect to the hull girder.",
+          "bbox": [
+            286.7,
+            626.58,
+            516.4,
+            654.62
+          ],
+          "block_id": "b4_30",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The complete measuring system should be calibrated in the\nlaboratory prior to the test and it is desirable to check the\ncalibration of each recording channel before each stage of the\ntest.",
+          "bbox": [
+            33.5,
+            652.74,
+            263.68,
+            691.1
+          ],
+          "block_id": "b4_27",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.3.5\nLocal  machinery\nand equipment\nvibration",
+          "bbox": [
+            286.7,
+            671.04,
+            478.72,
+            680.29
+          ],
+          "block_id": "b4_31",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Vertical, athwartship and longitudinal vibration at the outside\nof machinery\nwhere\nthere\nis evidence\nof large vibration\namplitudes.",
+          "bbox": [
+            286.94,
+            693.06,
+            515.68,
+            721.1
+          ],
+          "block_id": "b4_32",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Portable electronic\nand mechanical\ninstruments\ncapable of\nsingle-point measurements may be used.",
+          "bbox": [
+            33.98,
+            702.9,
+            264.16,
+            721.1
+          ],
+          "block_id": "b4_28",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            33.74,
+            740.21,
+            40.95,
+            752.08
+          ],
+          "block_id": "b4_33",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 567.1520385742188,
+        "height": 754.2720336914062
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729 : 1999\nISo\n4888  :  1984",
+          "bbox": [
+            437.83,
+            17.77,
+            512.51,
+            40.2
+          ],
+          "block_id": "b5_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.4\nQuantities\nto be measured",
+          "bbox": [
+            29.11,
+            73.64,
+            167.39,
+            82.89
+          ],
+          "block_id": "b5_1",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e)\nmode shape of local vibrations. Use hull girder vibration\nas reference for the mode shape;",
+          "bbox": [
+            295.27,
+            74.06,
+            512.73,
+            91.3
+          ],
+          "block_id": "b5_23",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The quantities to be measured are as follows:",
+          "bbox": [
+            29.59,
+            96.14,
+            198.09,
+            104.26
+          ],
+          "block_id": "b5_2",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "f)\nseverity of vibrations of local machinery or equipment at\nall measurement locations;",
+          "bbox": [
+            295.51,
+            106.22,
+            514.17,
+            123.22
+          ],
+          "block_id": "b5_24",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\ndisplacement, velocity, acceleration, pressure or strain;",
+          "bbox": [
+            41.59,
+            116.06,
+            259.05,
+            124.18
+          ],
+          "block_id": "b5_3",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nfrequencies in cycies ,per second (Hz) or cycles per\nminute;",
+          "bbox": [
+            42.31,
+            135.98,
+            260.25,
+            154.18
+          ],
+          "block_id": "b5_4",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "g)\nfor additional optional measurements,\nif seecified, see\nIS0 4667.",
+          "bbox": [
+            295.75,
+            138.14,
+            514.65,
+            155.38
+          ],
+          "block_id": "b5_25",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nshaft rotational frequency\n(speed) in revolutions per\nminute or revolutions per second;",
+          "bbox": [
+            42.31,
+            166.46,
+            260.73,
+            184.42
+          ],
+          "block_id": "b5_5",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE -  The presence of beating effects, if any, should be noted by\nrecording maximum and minimum values of the amplitude and the fre-\nquency of the beat.",
+          "bbox": [
+            284.23,
+            170.3,
+            515.17,
+            196.02
+          ],
+          "block_id": "b5_26",
+          "font_size": 6.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d)\nphase,  where\nappropriate.",
+          "bbox": [
+            42.31,
+            196.46,
+            148.45,
+            204.58
+          ],
+          "block_id": "b5_6",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.5\nTest procedure",
+          "bbox": [
+            30.07,
+            227.48,
+            115.55,
+            236.73
+          ],
+          "block_id": "b5_7",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2\nReporting\nof data",
+          "bbox": [
+            284.47,
+            232.04,
+            385.79,
+            241.29
+          ],
+          "block_id": "b5_27",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.5.1\nCalibration\nof recording\nequipment",
+          "bbox": [
+            30.55,
+            249.02,
+            195.21,
+            257.14
+          ],
+          "block_id": "b5_8",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Data reported should include the following:",
+          "bbox": [
+            285.43,
+            256.7,
+            444.81,
+            264.82
+          ],
+          "block_id": "b5_28",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Each channel should be checked after completion of instal-\nlation to ensure proper working\ncondition,\ndesired amplifi-\ncation setting and phasing. Checks should be made at regular\nintervals. The calibration should be recorded.",
+          "bbox": [
+            31.03,
+            270.14,
+            261.69,
+            308.26
+          ],
+          "block_id": "b5_9",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nthe principal ship design characteristics:",
+          "bbox": [
+            297.19,
+            280.7,
+            458.97,
+            288.82
+          ],
+          "block_id": "b5_29",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I)\ncomplete tables, 1, 2, 3 and 4;",
+          "bbox": [
+            309.91,
+            304.46,
+            439.77,
+            312.58
+          ],
+          "block_id": "b5_30",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.5.2\nPerformance\nof rn-asurements",
+          "bbox": [
+            31.27,
+            321.02,
+            175.29,
+            329.14
+          ],
+          "block_id": "b5_10",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2)\nprovide a sketch of the inboard profile of hull and\nsuperstructure.",
+          "bbox": [
+            309.43,
+            328.22,
+            515.85,
+            346.42
+          ],
+          "block_id": "b5_31",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Record data in the following conditions:",
+          "bbox": [
+            31.99,
+            341.9,
+            179.85,
+            350.02
+          ],
+          "block_id": "b5_11",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nin free route, at 3 to 10 r/min increments from one-half\nto maximum speed. Additional runs at smaller increments\nare required in the vicinity of critical speeds and near service\nspeed;",
+          "bbox": [
+            44.23,
+            361.58,
+            262.17,
+            399.94
+          ],
+          "block_id": "b5_12",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\na sketch showing locations of hull girder and local\nvibration transducers and their directions of measurement;",
+          "bbox": [
+            297.91,
+            362.06,
+            516.57,
+            380.26
+          ],
+          "block_id": "b5_32",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE -\nFor local vibration measurements,\nit is particularly impor-\ntant that the precise position of transducers should be noted since\nvery small changes\nin position can lead to large changes\nin\nmeasured amplitude.",
+          "bbox": [
+            298.15,
+            397.78,
+            518.05,
+            431.7
+          ],
+          "block_id": "b5_33",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "bl\nfree route runs at the operation speeds;",
+          "bbox": [
+            44.71,
+            411.5,
+            208.41,
+            419.62
+          ],
+          "block_id": "b5_13",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "cl\nspecial runs at speeds reported to cause local vibra-\ntions, as needed.",
+          "bbox": [
+            44.95,
+            431.42,
+            262.41,
+            449.62
+          ],
+          "block_id": "b5_14",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "cl\nplots\nof\ndisplacement,\nvelocity\nor\nacceleration",
+          "bbox": [
+            298.87,
+            448.9,
+            510.37,
+            456.66
+          ],
+          "block_id": "b5_34",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "amplitudes\nversus\nspeed\nfor\nshaft\nrotational\nfrequency,",
+          "bbox": [
+            298.87,
+            459.46,
+            510.13,
+            466.74
+          ],
+          "block_id": "b5_35",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE - For free-route runs, permit \u2018the ship to steady on constant\nspeed. Hold the speed for a sufficient time to permit recording of maxi-\nmum and minimum vibration values (about 1 min). In multiple shaft\nships, all shafts should be run at, or as close as possible to, the same\nspeed to determine total vibration levels. In certain instances it may be\npreferable to run with a single shaft for the determination of vibration\nmodes.",
+          "bbox": [
+            32.47,
+            462.1,
+            263.65,
+            523.38
+          ],
+          "block_id": "b5_15",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "blade rate or any harmonic\nthereof.\nMake\nuse of forms\nof",
+          "bbox": [
+            299.11,
+            469.3,
+            517.09,
+            476.58
+          ],
+          "block_id": "b5_36",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "the kind shown\nin figure  1  usir J the rules given  in table 6.\nLinear plots may also be used;",
+          "bbox": [
+            298.87,
+            478.02,
+            517.29,
+            496.66
+          ],
+          "block_id": "b5_37",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d)\nprofiles of local deck vibration at each resonance from\nport to starboard and from the nearest aft to the nearest for-\nward structural bulkhead;",
+          "bbox": [
+            299.35,
+            513.5,
+            517.53,
+            541.54
+          ],
+          "block_id": "b5_38",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5\nAnalysis\nand reporting\nof data",
+          "bbox": [
+            33.43,
+            551.48,
+            197.63,
+            560.73
+          ],
+          "block_id": "b5_16",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e)\ntables of all significant vibration severities and their\nlocation and frequency.\nInclude the shaft rotational fre-\nquency, for machinery-excited\nvibration;",
+          "bbox": [
+            300.07,
+            558.14,
+            518.49,
+            586.18
+          ],
+          "block_id": "b5_39",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1\nAnalysis",
+          "bbox": [
+            33.91,
+            572.36,
+            90.59,
+            581.61
+          ],
+          "block_id": "b5_17",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Analysis should provide the following information for all runs  :",
+          "bbox": [
+            34.39,
+            588.97,
+            266.23,
+            600.84
+          ],
+          "block_id": "b5_18",
+          "font_size": 7.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "f)\nhull girder natural frequencies\nidentified\nfrom stern\nmeasurements\nand any unusual vibration\ncondition\nen-\ncountered;",
+          "bbox": [
+            300.31,
+            603.02,
+            519.21,
+            631.06
+          ],
+          "block_id": "b5_40",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nseverity of vibration at the propeller shaft rotational fre-\nquency for hull girder transducers;",
+          "bbox": [
+            46.63,
+            609.5,
+            264.57,
+            626.74
+          ],
+          "block_id": "b5_19",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nseverity of vibration at blade rate frequencies for hull\ngirder and machinery transducers;",
+          "bbox": [
+            46.39,
+            636.38,
+            266.01,
+            653.62
+          ],
+          "block_id": "b5_20",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "g)\nweather conditions during the measurements, including\nsea state and direction relative to the ship;",
+          "bbox": [
+            300.79,
+            647.9,
+            518.73,
+            665.86
+          ],
+          "block_id": "b5_41",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nseverity of vibration of each detectable\nharmonic of\nshaft rotational frequency or blade rate for hull girder and\nmachinery transducers;",
+          "bbox": [
+            47.11,
+            663.26,
+            266.01,
+            689.14
+          ],
+          "block_id": "b5_21",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "h)\nmethod of analysis of results;",
+          "bbox": [
+            301.51,
+            682.46,
+            427.77,
+            690.58
+          ],
+          "block_id": "b5_42",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": ".\nd)\nseverity of local structural vibration at all measurement\nlocations;",
+          "bbox": [
+            33.19,
+            695.77,
+            262.89,
+            716.26
+          ],
+          "block_id": "b5_22",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "j)\ntype of instrument used.",
+          "bbox": [
+            301.03,
+            707.42,
+            406.65,
+            715.54
+          ],
+          "block_id": "b5_43",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            513.91,
+            735.56,
+            520.43,
+            744.81
+          ],
+          "block_id": "b5_44",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 572.864013671875,
+        "height": 752.9119262695312
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729:\n1999\nIS0\n4868\n: 1984",
+          "bbox": [
+            29.11,
+            26.34,
+            105.86,
+            47.55
+          ],
+          "block_id": "b6_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6\nRules for presentation\nof vibration\ntest\nresults",
+          "bbox": [
+            28.39,
+            80.34,
+            236.71,
+            101.7
+          ],
+          "block_id": "b6_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            282.07,
+            80.95,
+            307.77,
+            89.07
+          ],
+          "block_id": "b6_5",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1  Additional graphs should be used to identify phasing relationships,\netc.",
+          "bbox": [
+            282.07,
+            96.1,
+            508.93,
+            112.67
+          ],
+          "block_id": "b6_6",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2\nThe following marks should be used throughout the report for easy\nidentification  :",
+          "bbox": [
+            281.83,
+            120.26,
+            510.13,
+            137.81
+          ],
+          "block_id": "b6_7",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nUse one graph each (see figure 1) for vertical, athwartship\nand longitudinal  hull vibration\nat stern.",
+          "bbox": [
+            29.11,
+            123.43,
+            256.41,
+            141.63
+          ],
+          "block_id": "b6_2",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0",
+          "bbox": [
+            295.03,
+            143.58,
+            300.81,
+            153.15
+          ],
+          "block_id": "b6_8",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Propeller shaft frequency",
+          "bbox": [
+            309.43,
+            145.46,
+            390.13,
+            152.75
+          ],
+          "block_id": "b6_13",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0",
+          "bbox": [
+            295.27,
+            160.19,
+            301.43,
+            169.07
+          ],
+          "block_id": "b6_9",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Blade rate",
+          "bbox": [
+            309.91,
+            161.54,
+            343.33,
+            168.83
+          ],
+          "block_id": "b6_14",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Identify severity of vibration for evaluation of habitability. Use\n0 for objectionable,\n@ for questionable, and 0 for acceptable\nvibrations;",
+          "bbox": [
+            29.35,
+            164.47,
+            259.29,
+            192.51
+          ],
+          "block_id": "b6_3",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A",
+          "bbox": [
+            294.79,
+            175.41,
+            305.26,
+            186.2
+          ],
+          "block_id": "b6_10",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Twice blade rate",
+          "bbox": [
+            308.23,
+            177.38,
+            363.49,
+            184.67
+          ],
+          "block_id": "b6_15",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0",
+          "bbox": [
+            294.55,
+            190.5,
+            301.75,
+            202.37
+          ],
+          "block_id": "b6_11",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Three times blade rate",
+          "bbox": [
+            309.43,
+            192.98,
+            383.65,
+            200.27
+          ],
+          "block_id": "b6_16",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Higher frequencies (identify)",
+          "bbox": [
+            308.95,
+            209.54,
+            401.65,
+            216.83
+          ],
+          "block_id": "b6_17",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nUse  one graph (see figure 1) each for all measuring points\nand directions of measurement.",
+          "bbox": [
+            29.59,
+            215.83,
+            259.05,
+            233.79
+          ],
+          "block_id": "b6_4",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ii",
+          "bbox": [
+            294.55,
+            223.41,
+            310.3,
+            234.2
+          ],
+          "block_id": "b6_12",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Engine frequency (identify predominant orders)",
+          "bbox": [
+            308.47,
+            225.38,
+            463.57,
+            232.67
+          ],
+          "block_id": "b6_18",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            34.63,
+            742.26,
+            41.83,
+            752.34
+          ],
+          "block_id": "b6_19",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 532.8319702148438,
+        "height": 784.280029296875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 14729~1999\nISO\n4866~1964",
+          "bbox": [
+            458.23,
+            35.14,
+            533.54,
+            55.16
+          ],
+          "block_id": "b7_0",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table \u20181 -\nParticulars\nof test ship",
+          "bbox": [
+            226.15,
+            89.58,
+            361.29,
+            97.94
+          ],
+          "block_id": "b7_1",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ship name",
+          "bbox": [
+            301.51,
+            110.94,
+            340.65,
+            119.06
+          ],
+          "block_id": "b7_4",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "-_",
+          "bbox": [
+            511.75,
+            117.46,
+            519.11,
+            126.34
+          ],
+          "block_id": "b7_7",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": ")erticulars of ship",
+          "bbox": [
+            61.99,
+            118.42,
+            127.43,
+            127.3
+          ],
+          "block_id": "b7_2",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Builder/year built",
+          "bbox": [
+            301.75,
+            125.38,
+            366.95,
+            134.26
+          ],
+          "block_id": "b7_5",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "--",
+          "bbox": [
+            515.35,
+            130.42,
+            521.75,
+            139.3
+          ],
+          "block_id": "b7_8",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Hull",
+          "bbox": [
+            166.87,
+            140.42,
+            180.85,
+            147.7
+          ],
+          "block_id": "b7_3",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Main engines",
+          "bbox": [
+            393.19,
+            140.42,
+            437.17,
+            147.7
+          ],
+          "block_id": "b7_6",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Number, kind and type",
+          "bbox": [
+            301.99,
+            155.54,
+            378.61,
+            162.82
+          ],
+          "block_id": "b7_24",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "<ind and type",
+          "bbox": [
+            61.99,
+            155.78,
+            106.93,
+            163.06
+          ],
+          "block_id": "b7_9",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Year built",
+          "bbox": [
+            302.23,
+            170.42,
+            335.17,
+            177.7
+          ],
+          "block_id": "b7_25",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": ":lass",
+          "bbox": [
+            61.99,
+            170.66,
+            78.13,
+            177.94
+          ],
+          "block_id": "b7_10",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Zonstruction",
+          "bbox": [
+            61.99,
+            185.3,
+            102.13,
+            192.58
+          ],
+          "block_id": "b7_11",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Bore and stroke, mm",
+          "bbox": [
+            301.27,
+            185.3,
+            373.09,
+            192.58
+          ],
+          "block_id": "b7_26",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Number of cylinders",
+          "bbox": [
+            302.47,
+            200.18,
+            369.73,
+            207.46
+          ],
+          "block_id": "b7_27",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Length L,, between perpendiculars, m",
+          "bbox": [
+            61.99,
+            215.3,
+            190.93,
+            222.58
+          ],
+          "block_id": "b7_12",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Power, kW",
+          "bbox": [
+            302.71,
+            215.3,
+            339.49,
+            222.58
+          ],
+          "block_id": "b7_28",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Speed, r/min",
+          "bbox": [
+            302.71,
+            230.18,
+            345.97,
+            237.46
+          ],
+          "block_id": "b7_29",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Breadth B moulded, m",
+          "bbox": [
+            61.99,
+            230.42,
+            138.13,
+            237.7
+          ],
+          "block_id": "b7_13",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Location*",
+          "bbox": [
+            303.19,
+            245.06,
+            333.49,
+            252.34
+          ],
+          "block_id": "b7_30",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Depth D moulded, m",
+          "bbox": [
+            61.99,
+            245.3,
+            133.33,
+            252.58
+          ],
+          "block_id": "b7_14",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Draught T/full load), m",
+          "bbox": [
+            61.99,
+            260.18,
+            141.97,
+            267.46
+          ],
+          "block_id": "b7_15",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "%l",
+          "bbox": [
+            423.67,
+            263.62,
+            431.54,
+            268.91
+          ],
+          "block_id": "b7_32",
+          "font_size": 4.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Unbalance couple**  ,  N.m",
+          "bbox": [
+            303.43,
+            271.37,
+            391.09,
+            283.24
+          ],
+          "block_id": "b7_31",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Displacement  A  (full load), t",
+          "bbox": [
+            61.99,
+            274.66,
+            157.09,
+            282.81
+          ],
+          "block_id": "b7_16",
+          "font_size": 6.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "w2",
+          "bbox": [
+            423.67,
+            278.1,
+            431.55,
+            283.98
+          ],
+          "block_id": "b7_33",
+          "font_size": 5.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Block coefficient cs",
+          "bbox": [
+            61.99,
+            290.18,
+            127.57,
+            297.46
+          ],
+          "block_id": "b7_17",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mh",
+          "bbox": [
+            423.91,
+            291.86,
+            435.01,
+            299.14
+          ],
+          "block_id": "b7_34",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Deadweight, t",
+          "bbox": [
+            61.99,
+            305.3,
+            109.57,
+            312.58
+          ],
+          "block_id": "b7_18",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Propellers",
+          "bbox": [
+            400.87,
+            311.54,
+            433.33,
+            318.82
+          ],
+          "block_id": "b7_35",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Lightweight, t",
+          "bbox": [
+            61.99,
+            320.18,
+            109.33,
+            327.46
+          ],
+          "block_id": "b7_19",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Number and type",
+          "bbox": [
+            303.91,
+            334.58,
+            361.81,
+            341.86
+          ],
+          "block_id": "b7_36",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2nd moment of area of midship",
+          "bbox": [
+            61.99,
+            335.3,
+            167.17,
+            342.58
+          ],
+          "block_id": "b7_20",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "section, m4",
+          "bbox": [
+            61.99,
+            345.14,
+            100.93,
+            352.42
+          ],
+          "block_id": "b7_21",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Number of blades",
+          "bbox": [
+            303.91,
+            349.46,
+            363.25,
+            356.74
+          ],
+          "block_id": "b7_37",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Pitch ratio",
+          "bbox": [
+            304.15,
+            364.34,
+            338.77,
+            371.62
+          ],
+          "block_id": "b7_38",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Shear area of midship section, m2",
+          "bbox": [
+            62.47,
+            371.78,
+            177.01,
+            379.06
+          ],
+          "block_id": "b7_22",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Expanded area ratio",
+          "bbox": [
+            304.39,
+            379.22,
+            370.69,
+            386.5
+          ],
+          "block_id": "b7_39",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Skew in degrees",
+          "bbox": [
+            304.39,
+            393.86,
+            358.93,
+            401.14
+          ],
+          "block_id": "b7_40",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Sketch of midship section",
+          "bbox": [
+            62.71,
+            394.34,
+            148.93,
+            401.62
+          ],
+          "block_id": "b7_23",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Diameter  D,,,  m",
+          "bbox": [
+            304.87,
+            408.1,
+            358.45,
+            416.25
+          ],
+          "block_id": "b7_41",
+          "font_size": 6.5,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Speed, r/min",
+          "bbox": [
+            304.87,
+            423.62,
+            347.89,
+            430.9
+          ],
+          "block_id": "b7_42",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Type and number of rudders",
+          "bbox": [
+            304.87,
+            438.5,
+            400.21,
+            445.78
+          ],
+          "block_id": "b7_43",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Sketch of screw aperture***",
+          "bbox": [
+            305.11,
+            453.62,
+            395.17,
+            460.9
+          ],
+          "block_id": "b7_44",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Remarks  :",
+          "bbox": [
+            64.87,
+            577.85,
+            100.87,
+            589.72
+          ],
+          "block_id": "b7_45",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l\nFor diesel engines, the distance from the aft perpendicular to centre of engine. For turbine, the approximate location, for example amidships,\nsemi-aft or aft.",
+          "bbox": [
+            57.91,
+            661.7,
+            540.61,
+            678.1
+          ],
+          "block_id": "b7_46",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  *\nIn the case of an engine having unbalanced force and/or any other excitation necessary to describe the vibratory phenomenon, the value should\nbe added in the \u201cRemarks\u201d\ncolumn.",
+          "bbox": [
+            58.39,
+            682.1,
+            542.05,
+            700.9
+          ],
+          "block_id": "b7_47",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  **\nSee example in figure 2. Substitute appropriate sketch in multiple screw or ducted propeller ship.",
+          "bbox": [
+            58.63,
+            707.78,
+            400.93,
+            715.06
+          ],
+          "block_id": "b7_48",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            538.15,
+            749.38,
+            547.7,
+            759.08
+          ],
+          "block_id": "b7_49",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 574.3280029296875,
+        "height": 778.5360107421875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729 :  1999\nISO\n4868 : 1984",
+          "bbox": [
+            24.48,
+            32.85,
+            98.68,
+            54.29
+          ],
+          "block_id": "b8_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table\n2 -\nParticulars\nof  propulsion-shaft\nsystem",
+          "bbox": [
+            165.6,
+            86.56,
+            356.93,
+            95.81
+          ],
+          "block_id": "b8_1",
+          "font_size": 7.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Number\nof shafts",
+          "bbox": [
+            271.92,
+            109.26,
+            332.93,
+            116.54
+          ],
+          "block_id": "b8_2",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Maximum\nspeed and normal speed, r/min\n-\nType of bushing material",
+          "bbox": [
+            271.68,
+            121.5,
+            498.29,
+            140.78
+          ],
+          "block_id": "b8_13",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Particulars\nof propulsion-shaft\nsystem",
+          "bbox": [
+            32.16,
+            127.26,
+            167.82,
+            134.54
+          ],
+          "block_id": "b8_3",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Shaft alignment\n[straight or rational)\n*",
+          "bbox": [
+            271.92,
+            145.26,
+            422.69,
+            152.78
+          ],
+          "block_id": "b8_14",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Rotating parts",
+          "bbox": [
+            121.68,
+            157.26,
+            168.53,
+            164.54
+          ],
+          "block_id": "b8_4",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Stationary parts",
+          "bbox": [
+            358.08,
+            157.5,
+            410.69,
+            164.78
+          ],
+          "block_id": "b8_15",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Diameter\nLength\nmm\nmm",
+          "bbox": [
+            160.08,
+            169.02,
+            246.29,
+            184.46
+          ],
+          "block_id": "b8_5",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Diameter\nC*\nmm\nmm\nSupport\u201d*",
+          "bbox": [
+            393.6,
+            169.26,
+            493.97,
+            184.7
+          ],
+          "block_id": "b8_16",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Tail shaft",
+          "bbox": [
+            40.32,
+            188.94,
+            71.09,
+            196.22
+          ],
+          "block_id": "b8_6",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a\nStern tube aft bearing",
+          "bbox": [
+            268.8,
+            189.42,
+            353.33,
+            196.7
+          ],
+          "block_id": "b8_17",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1st intermediate shaft",
+          "bbox": [
+            40.8,
+            200.94,
+            111.89,
+            208.22
+          ],
+          "block_id": "b8_7",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b\nStern tube forward bearing",
+          "bbox": [
+            268.8,
+            201.42,
+            369.65,
+            208.7
+          ],
+          "block_id": "b8_18",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2nd intermediate shaft",
+          "bbox": [
+            40.08,
+            212.94,
+            114.29,
+            220.22
+          ],
+          "block_id": "b8_8",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c\n1st intermediate bearing",
+          "bbox": [
+            268.8,
+            213.18,
+            359.33,
+            220.46
+          ],
+          "block_id": "b8_19",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3rd interrnediate shaft",
+          "bbox": [
+            40.32,
+            224.7,
+            112.85,
+            231.98
+          ],
+          "block_id": "b8_9",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d\n2nd intermediate bearing",
+          "bbox": [
+            268.8,
+            225.18,
+            361.97,
+            232.46
+          ],
+          "block_id": "b8_20",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4th intermediate shaft",
+          "bbox": [
+            40.32,
+            236.7,
+            113.09,
+            243.98
+          ],
+          "block_id": "b8_10",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "e\n3rd intermediate bearing",
+          "bbox": [
+            269.04,
+            236.94,
+            360.53,
+            244.22
+          ],
+          "block_id": "b8_21",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Thrust shaft",
+          "bbox": [
+            40.56,
+            248.7,
+            81.17,
+            255.98
+          ],
+          "block_id": "b8_11",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "f\n4th intermediate bearing",
+          "bbox": [
+            269.52,
+            248.94,
+            360.29,
+            256.22
+          ],
+          "block_id": "b8_22",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "g\n5th intermediate bearing",
+          "bbox": [
+            269.04,
+            260.94,
+            360.77,
+            268.22
+          ],
+          "block_id": "b8_23",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Diameter\nMass\nMass polar moment of inertia\nmm\nt\nt.m2",
+          "bbox": [
+            89.04,
+            262.62,
+            254.69,
+            278.06
+          ],
+          "block_id": "b8_12",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "h\n6th intermediate bearing",
+          "bbox": [
+            269.28,
+            272.7,
+            360.77,
+            279.98
+          ],
+          "block_id": "b8_24",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "nd reduction\near",
+          "bbox": [
+            32.64,
+            284.46,
+            73.73,
+            299.42
+          ],
+          "block_id": "b8_25",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "i\n7th intermediate bearing",
+          "bbox": [
+            270.72,
+            292.62,
+            361.01,
+            299.9
+          ],
+          "block_id": "b8_32",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "st reduction\near",
+          "bbox": [
+            32.64,
+            304.14,
+            71.57,
+            319.1
+          ],
+          "block_id": "b8_26",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "j\n8th intermediate bearing",
+          "bbox": [
+            270.24,
+            308.85,
+            361.01,
+            320.72
+          ],
+          "block_id": "b8_33",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "lywheel",
+          "bbox": [
+            33.12,
+            323.82,
+            57.89,
+            331.1
+          ],
+          "block_id": "b8_27",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "k\n9th intermediate bearing\nI\nThrust block",
+          "bbox": [
+            269.76,
+            324.3,
+            361.01,
+            344.48
+          ],
+          "block_id": "b8_34",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Aft part of the shafting",
+          "bbox": [
+            108.0,
+            336.06,
+            184.14,
+            343.34
+          ],
+          "block_id": "b8_28",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "flass, t, and density, kg/ma,\nIf propeller",
+          "bbox": [
+            32.16,
+            347.82,
+            123.9,
+            362.78
+          ],
+          "block_id": "b8_29",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "m\nBull gearing aft\nbearing",
+          "bbox": [
+            268.8,
+            348.06,
+            332.21,
+            363.26
+          ],
+          "block_id": "b8_35",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Aass polar moment of inertia\nIf propeller, t.m2",
+          "bbox": [
+            32.16,
+            367.5,
+            127.73,
+            382.7
+          ],
+          "block_id": "b8_30",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "n\nBull gearing forward\nbearing",
+          "bbox": [
+            270.0,
+            367.98,
+            347.82,
+            383.18
+          ],
+          "block_id": "b8_36",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Stiffness\nDistance\nSketch of thrust block and its foundation with major scantlings\nN/m\nmm",
+          "bbox": [
+            198.0,
+            387.9,
+            477.41,
+            403.1
+          ],
+          "block_id": "b8_37",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  **",
+          "bbox": [
+            242.88,
+            404.94,
+            253.25,
+            412.22
+          ],
+          "block_id": "b8_38",
+          "font_size": 4.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ift support of tail shaft",
+          "bbox": [
+            32.16,
+            407.34,
+            108.05,
+            414.62
+          ],
+          "block_id": "b8_31",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": ":orward support of tail shaft\n**I*",
+          "bbox": [
+            32.16,
+            416.46,
+            251.81,
+            426.62
+          ],
+          "block_id": "b8_39",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Itermediate\nbearing\n-\nI\nI",
+          "bbox": [
+            32.16,
+            431.1,
+            234.96,
+            443.6
+          ],
+          "block_id": "b8_40",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Jatural\nMode\nLateral\nForward\nCounter",
+          "bbox": [
+            32.16,
+            443.58,
+            255.41,
+            454.46
+          ],
+          "block_id": "b8_41",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "requency,\n_\nwhirl\nwhirl",
+          "bbox": [
+            32.4,
+            451.26,
+            251.34,
+            462.62
+          ],
+          "block_id": "b8_42",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": ":/min\n-ist",
+          "bbox": [
+            32.16,
+            463.02,
+            97.97,
+            470.3
+          ],
+          "block_id": "b8_43",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2nd",
+          "bbox": [
+            92.4,
+            474.78,
+            105.17,
+            482.06
+          ],
+          "block_id": "b8_44",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "sketch of shaft system showing relative location of rotating and stationary parts. Indicate the length of aft bushing (L) and KID).",
+          "bbox": [
+            32.16,
+            487.02,
+            456.05,
+            494.3
+          ],
+          "block_id": "b8_45",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l\nDiametral clearance.",
+          "bbox": [
+            27.6,
+            628.14,
+            115.25,
+            635.42
+          ],
+          "block_id": "b8_46",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  t\nFor example, on double bottom, in propeller bossing.",
+          "bbox": [
+            27.6,
+            639.18,
+            226.13,
+            649.58
+          ],
+          "block_id": "b8_47",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  **\nDistance between the propeller centre of gravity and aft support of the tail shaft.",
+          "bbox": [
+            27.6,
+            653.1,
+            316.85,
+            663.5
+          ],
+          "block_id": "b8_48",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  ***\nDistance between two tail shaft supports.",
+          "bbox": [
+            27.6,
+            669.9,
+            187.01,
+            677.18
+          ],
+          "block_id": "b8_49",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            28.56,
+            745.17,
+            35.76,
+            757.04
+          ],
+          "block_id": "b8_50",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 555.656005859375,
+        "height": 779.9920043945312
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729:  1999\nIS0\n4868 : 1984",
+          "bbox": [
+            428.54,
+            24.81,
+            505.3,
+            46.78
+          ],
+          "block_id": "b9_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table 3 -\nParticulars\nof main diesel engines\nor turbine\ndriven plants",
+          "bbox": [
+            123.98,
+            83.02,
+            400.96,
+            91.14
+          ],
+          "block_id": "b9_1",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Particulars of main engine",
+          "bbox": [
+            215.9,
+            102.7,
+            311.68,
+            110.82
+          ],
+          "block_id": "b9_10",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Natural frequency of shafting and crankshaft or gearing and turbines,\nc/min\u2019",
+          "bbox": [
+            267.5,
+            116.86,
+            499.6,
+            133.94
+          ],
+          "block_id": "b9_11",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "anufacturer",
+          "bbox": [
+            32.78,
+            118.06,
+            73.12,
+            126.18
+          ],
+          "block_id": "b9_2",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "nd",
+          "bbox": [
+            32.78,
+            134.1,
+            42.2,
+            141.38
+          ],
+          "block_id": "b9_3",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mode\nLongitudinal\nTorsional",
+          "bbox": [
+            290.78,
+            147.06,
+            483.56,
+            154.82
+          ],
+          "block_id": "b9_12",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2018pe",
+          "bbox": [
+            32.78,
+            150.18,
+            43.4,
+            157.46
+          ],
+          "block_id": "b9_4",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Maximum\nNormal\n1st",
+          "bbox": [
+            175.58,
+            162.42,
+            306.2,
+            170.18
+          ],
+          "block_id": "b9_13",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Brake  :",
+          "bbox": [
+            141.5,
+            174.57,
+            166.95,
+            186.44
+          ],
+          "block_id": "b9_14",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Shaft  :\n2nd",
+          "bbox": [
+            142.46,
+            182.34,
+            306.68,
+            196.28
+          ],
+          "block_id": "b9_15",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "utput, kW",
+          "bbox": [
+            32.78,
+            183.78,
+            65.24,
+            191.06
+          ],
+          "block_id": "b9_5",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3rd",
+          "bbox": [
+            295.1,
+            202.26,
+            306.44,
+            209.54
+          ],
+          "block_id": "b9_16",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "otational frequency. r/min",
+          "bbox": [
+            32.78,
+            203.7,
+            118.28,
+            210.98
+          ],
+          "block_id": "b9_6",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Main diesel engine",
+          "bbox": [
+            234.38,
+            217.38,
+            295.4,
+            224.66
+          ],
+          "block_id": "b9_17",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "umber of cylinders",
+          "bbox": [
+            33.26,
+            233.22,
+            95.24,
+            240.5
+          ],
+          "block_id": "b9_7",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Mass and position in longitudinal and vertical direction of",
+          "bbox": [
+            268.94,
+            243.06,
+            459.08,
+            250.34
+          ],
+          "block_id": "b9_18",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ylinder bore",
+          "bbox": [
+            32.78,
+            248.34,
+            72.2,
+            255.62
+          ],
+          "block_id": "b9_8",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "centre of gravity relative to crankshaft axis",
+          "bbox": [
+            268.7,
+            252.66,
+            410.84,
+            259.94
+          ],
+          "block_id": "b9_19",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ylinder stroke",
+          "bbox": [
+            32.78,
+            263.22,
+            77.0,
+            270.5
+          ],
+          "block_id": "b9_9",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indicate angle and cylinder\nMass polar moment of inertia with respect to crankshaft\nnumber, propeller blade and event\naxis",
+          "bbox": [
+            148.7,
+            277.38,
+            453.8,
+            294.74
+          ],
+          "block_id": "b9_20",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "marker",
+          "bbox": [
+            148.94,
+            297.3,
+            171.32,
+            304.58
+          ],
+          "block_id": "b9_21",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Stiffness values of thrust block, N/m",
+          "bbox": [
+            269.42,
+            302.34,
+            390.68,
+            309.62
+          ],
+          "block_id": "b9_23",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Forward running\nOrder\nForce\nCouple",
+          "bbox": [
+            178.7,
+            316.74,
+            500.36,
+            329.06
+          ],
+          "block_id": "b9_24",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(looking forwards)\nN\nN.m",
+          "bbox": [
+            176.06,
+            326.34,
+            495.32,
+            334.34
+          ],
+          "block_id": "b9_25",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Free forces and couples due to\n1st",
+          "bbox": [
+            269.9,
+            341.7,
+            422.6,
+            349.7
+          ],
+          "block_id": "b9_26",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "unbalance\n2nd",
+          "bbox": [
+            269.66,
+            352.02,
+            423.08,
+            363.86
+          ],
+          "block_id": "b9_28",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Firing order",
+          "bbox": [
+            67.34,
+            377.94,
+            105.32,
+            385.22
+          ],
+          "block_id": "b9_22",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "+\nGuide forces t/f) and couples (Xl",
+          "bbox": [
+            201.98,
+            399.54,
+            380.36,
+            415.94
+          ],
+          "block_id": "b9_29",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0",
+          "bbox": [
+            167.42,
+            428.34,
+            172.52,
+            435.62
+          ],
+          "block_id": "b9_27",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "iketch of crankshaft or reduction gear system showing its major scantlings",
+          "bbox": [
+            32.78,
+            461.94,
+            279.56,
+            469.22
+          ],
+          "block_id": "b9_30",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l\nGive details of balancers, detunars, dampers, etc., which could influence vibration.",
+          "bbox": [
+            28.46,
+            621.78,
+            313.4,
+            629.06
+          ],
+          "block_id": "b9_31",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            504.86,
+            740.06,
+            511.39,
+            750.94
+          ],
+          "block_id": "b9_32",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 544.2720336914062,
+        "height": 760.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729 ~:  1999\nIS0\n4868\n: 1984",
+          "bbox": [
+            20.38,
+            25.13,
+            92.87,
+            46.34
+          ],
+          "block_id": "b10_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table 4 -\nConditions\nduring vibration\nmeasurements\n.",
+          "bbox": [
+            153.34,
+            78.65,
+            379.9,
+            90.52
+          ],
+          "block_id": "b10_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Date",
+          "bbox": [
+            277.9,
+            103.02,
+            294.95,
+            111.14
+          ],
+          "block_id": "b10_5",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Test  conditions",
+          "bbox": [
+            112.78,
+            110.46,
+            164.67,
+            118.58
+          ],
+          "block_id": "b10_2",
+          "font_size": 6.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Place",
+          "bbox": [
+            276.7,
+            118.82,
+            294.75,
+            126.1
+          ],
+          "block_id": "b10_6",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Type and characteristics of measuring instruments",
+          "bbox": [
+            265.66,
+            133.7,
+            431.79,
+            140.98
+          ],
+          "block_id": "b10_7",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ea state (Beaufort number)",
+          "bbox": [
+            29.02,
+            134.42,
+            117.87,
+            141.7
+          ],
+          "block_id": "b10_3",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "eight of swell, m",
+          "bbox": [
+            29.26,
+            149.54,
+            86.19,
+            156.82
+          ],
+          "block_id": "b10_4",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Relative heading",
+          "bbox": [
+            120.22,
+            181.22,
+            174.27,
+            188.5
+          ],
+          "block_id": "b10_8",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "angle, in degrees",
+          "bbox": [
+            119.98,
+            191.3,
+            176.43,
+            198.58
+          ],
+          "block_id": "b10_9",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Wave direction",
+          "bbox": [
+            90.7,
+            270.98,
+            140.67,
+            278.26
+          ],
+          "block_id": "b10_10",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "lepth of water, m",
+          "bbox": [
+            29.02,
+            308.66,
+            87.87,
+            315.94
+          ],
+          "block_id": "b10_11",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "kaught forward, m",
+          "bbox": [
+            29.02,
+            323.54,
+            92.67,
+            330.82
+          ],
+          "block_id": "b10_12",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "kaught aft, m",
+          "bbox": [
+            29.02,
+            338.66,
+            76.11,
+            345.94
+          ],
+          "block_id": "b10_13",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "clean draught, m",
+          "bbox": [
+            29.02,
+            353.54,
+            84.51,
+            360.82
+          ],
+          "block_id": "b10_14",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "kst displacement  A,  t",
+          "bbox": [
+            29.02,
+            365.21,
+            103.18,
+            377.08
+          ],
+          "block_id": "b10_15",
+          "font_size": 7.3,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2018repeller immersion from shaft centrelirie to water",
+          "bbox": [
+            29.02,
+            383.3,
+            192.51,
+            390.58
+          ],
+          "block_id": "b10_16",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "urface, m",
+          "bbox": [
+            29.26,
+            393.38,
+            62.19,
+            400.66
+          ],
+          "block_id": "b10_17",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "-",
+          "bbox": [
+            486.94,
+            398.42,
+            490.83,
+            405.7
+          ],
+          "block_id": "b10_19",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Loading plan",
+          "bbox": [
+            243.34,
+            408.02,
+            286.59,
+            415.3
+          ],
+          "block_id": "b10_18",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            25.9,
+            741.22,
+            33.84,
+            754.41
+          ],
+          "block_id": "b10_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 530.0399780273438,
+        "height": 774.2639770507812
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 547.14404296875,
+        "height": 758.5360107421875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS\n14729 :  1999",
+          "bbox": [
+            29.28,
+            39.5,
+            106.51,
+            51.38
+          ],
+          "block_id": "b12_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IS0\n4888\n: 1984",
+          "bbox": [
+            29.52,
+            52.84,
+            102.01,
+            60.96
+          ],
+          "block_id": "b12_1",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table 6 -\nResults of vibration\nmeasurements\nduring manoeuvres\n(optional)",
+          "bbox": [
+            108.0,
+            96.28,
+            410.17,
+            104.4
+          ],
+          "block_id": "b12_2",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Frequency, Hz,  and maximum\namplitude**",
+          "bbox": [
+            280.08,
+            117.16,
+            427.26,
+            125.28
+          ],
+          "block_id": "b12_6",
+          "font_size": 6.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Initial\nshaft\nspeed\nrlmin\nVertical",
+          "bbox": [
+            130.32,
+            117.88,
+            249.41,
+            149.11
+          ],
+          "block_id": "b12_5",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Stern\nOther selected location, identify",
+          "bbox": [
+            276.72,
+            129.83,
+            481.01,
+            137.59
+          ],
+          "block_id": "b12_7",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Manoeuvres",
+          "bbox": [
+            46.56,
+            130.07,
+            84.78,
+            137.35
+          ],
+          "block_id": "b12_3",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Athwartship\nLongitudinal\nVertical\nAthwartship\nLongitudir",
+          "bbox": [
+            265.44,
+            142.07,
+            490.61,
+            149.59
+          ],
+          "block_id": "b12_8",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Hard turn to port",
+          "bbox": [
+            37.68,
+            153.83,
+            99.17,
+            161.11
+          ],
+          "block_id": "b12_4",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Hard\nturn to starboard",
+          "bbox": [
+            26.4,
+            313.91,
+            105.89,
+            321.19
+          ],
+          "block_id": "b12_9",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Crashback",
+          "bbox": [
+            50.4,
+            473.99,
+            83.57,
+            481.27
+          ],
+          "block_id": "b12_10",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES  :\nI",
+          "bbox": [
+            29.76,
+            636.86,
+            466.8,
+            654.98
+          ],
+          "block_id": "b12_11",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ship:.........................................,.,..,..,.\nTestdate:.......................................,..,..",
+          "bbox": [
+            29.76,
+            667.91,
+            376.13,
+            675.67
+          ],
+          "block_id": "b12_12",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I\nAfter order number, identify blade rate (BR) or twice blade rate (2 x BR).",
+          "bbox": [
+            22.08,
+            677.9,
+            278.45,
+            691.99
+          ],
+          "block_id": "b12_13",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  *\nIndicate whether velocity, acceleration or displacement amplitudes are reported and enter the following units accordingly:\nmm for displacement\nmm/s for velocity (preferred)\nmm/s2 for acceleration",
+          "bbox": [
+            22.32,
+            693.59,
+            438.53,
+            727.51
+          ],
+          "block_id": "b12_14",
+          "font_size": 6.2,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10",
+          "bbox": [
+            23.04,
+            753.43,
+            38.78,
+            764.02
+          ],
+          "block_id": "b12_15",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 575.7119750976562,
+        "height": 765.6959838867188
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 14729:lQQQ\nIS0 4888:1984",
+          "bbox": [
+            444.22,
+            26.98,
+            517.37,
+            47.01
+          ],
+          "block_id": "b13_0",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table 7 -\nLongitudinal\nvibration\nof the propulsion\nsystem\nduring manoeuvres\n(optional)",
+          "bbox": [
+            101.98,
+            75.67,
+            454.31,
+            83.79
+          ],
+          "block_id": "b13_1",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "r\n-\nI\nInitial shan\n1\n2\n3\nL",
+          "bbox": [
+            39.1,
+            85.62,
+            419.22,
+            121.33
+          ],
+          "block_id": "b13_3",
+          "font_size": 24.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "I\nI\nFreauency. Hz. and maximum amplitude*",
+          "bbox": [
+            111.58,
+            92.97,
+            446.87,
+            108.77
+          ],
+          "block_id": "b13_2",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Manoeuvre\n4\n5\nRun numbel\n7\nr\nspeed\nThrus\nThnx\nBllll\nGear\nbearic\nGear\nbearin\nl-k\nLP\nrlmin\ngear\ncase\nhousir\nfowl.\nturbin\nshaft\nturbin\nfoun-\ndatiol\ntop\ndatior  1\nHard  turn to po  I?",
+          "bbox": [
+            44.38,
+            109.23,
+            471.15,
+            159.77
+          ],
+          "block_id": "b13_4",
+          "font_size": 17.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8\ncon\ndense",
+          "bbox": [
+            490.78,
+            112.02,
+            511.68,
+            139.01
+          ],
+          "block_id": "b13_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I.  lard turn to stat  ._\nboard",
+          "bbox": [
+            41.5,
+            302.28,
+            105.78,
+            319.23
+          ],
+          "block_id": "b13_6",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Crashback\n!\nN  IOTES  :",
+          "bbox": [
+            40.54,
+            457.8,
+            203.19,
+            654.97
+          ],
+          "block_id": "b13_7",
+          "font_size": 169.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "mm for displacement\n1",
+          "bbox": [
+            46.54,
+            645.43,
+            524.68,
+            685.25
+          ],
+          "block_id": "b13_10",
+          "font_size": 23.3,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ship  :\n. . . . . . . . . . . . . . . . . . . . .._. . . . . . . . . . . . . . . . . . . . . .\nTest date  :\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+          "bbox": [
+            40.06,
+            646.74,
+            506.38,
+            664.85
+          ],
+          "block_id": "b13_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "l  hhme whether vekcitv,  acceleration\nor displacement\namplitudes\nare reported and enter the following\nunits accordingly:",
+          "bbox": [
+            32.62,
+            663.78,
+            437.07,
+            675.65
+          ],
+          "block_id": "b13_9",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "mm/s for velocity\n(preferred)",
+          "bbox": [
+            46.3,
+            687.48,
+            137.79,
+            696.05
+          ],
+          "block_id": "b13_11",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "mm/s2 for acceleration",
+          "bbox": [
+            46.06,
+            698.28,
+            116.43,
+            706.85
+          ],
+          "block_id": "b13_12",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11",
+          "bbox": [
+            500.86,
+            741.94,
+            516.6,
+            752.53
+          ],
+          "block_id": "b13_13",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 540.0159912109375,
+        "height": 762.823974609375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 14,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 767.0,
+        "height": 558.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 15,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 14729:1999\nIS0\n4068:+984",
+          "bbox": [
+            447.34,
+            21.5,
+            525.24,
+            42.86
+          ],
+          "block_id": "b15_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Figure 2 -\nExample\nof a sketch\nof a screw aperture",
+          "bbox": [
+            184.06,
+            257.87,
+            390.23,
+            266.47
+          ],
+          "block_id": "b15_0",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13",
+          "bbox": [
+            518.62,
+            738.38,
+            534.36,
+            748.97
+          ],
+          "block_id": "b15_2",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 554.27197265625,
+        "height": 781.4640502929688
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 16,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            26.06,
+            46.65,
+            160.22,
+            57.45
+          ],
+          "block_id": "b16_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established under the Bureau of  Indian Standards Act,  1986 to promote\nharmonious development of the activities of stardardization, marking and quality certification of goods and\nattending to connected matters in the country.",
+          "bbox": [
+            25.82,
+            64.57,
+            514.22,
+            105.06
+          ],
+          "block_id": "b16_1",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            26.3,
+            113.85,
+            69.98,
+            124.65
+          ],
+          "block_id": "b16_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form\nwithout the prior permission in writing of BIS. This does not preclude the free use, in the course of\nimplementing the standard, of necessary details, such as symbols and sizes, type or grade designations.\nEnquiries relating to copyright be addressed to the Director (Publication), BIS",
+          "bbox": [
+            24.86,
+            131.77,
+            514.94,
+            185.22
+          ],
+          "block_id": "b16_3",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review\nof Indian Standards",
+          "bbox": [
+            26.54,
+            194.25,
+            160.94,
+            205.05
+          ],
+          "block_id": "b16_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed\nperiodically; a standard along with amendments is reaffirmed when such review indicates that no changes are\nneeded; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards\nshould ascertain that they are in possession of the latest amendments or edition by referring to the latest issue\nof \u2018BIS Handbook\u2019 and \u2018Standards: Monthly Additions\u2019.",
+          "bbox": [
+            26.06,
+            211.93,
+            515.18,
+            278.34
+          ],
+          "block_id": "b16_5",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Dot: No. LM 04  (0239).",
+          "bbox": [
+            26.78,
+            284.89,
+            357.98,
+            298.98
+          ],
+          "block_id": "b16_6",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            182.54,
+            317.37,
+            354.14,
+            328.17
+          ],
+          "block_id": "b16_7",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue\nText Affected",
+          "bbox": [
+            26.78,
+            340.57,
+            507.98,
+            354.66
+          ],
+          "block_id": "b16_8",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU OF INDIAN STANDARDS\nHeadquarters:",
+          "bbox": [
+            27.5,
+            432.49,
+            357.26,
+            460.5
+          ],
+          "block_id": "b16_9",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002\nTelephones: 323 01 31,323 3315,323 94 02",
+          "bbox": [
+            27.5,
+            464.41,
+            317.66,
+            491.46
+          ],
+          "block_id": "b16_10",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telegrams: Manaksanstha\n(Common to all offices)",
+          "bbox": [
+            398.54,
+            464.41,
+            512.78,
+            491.7
+          ],
+          "block_id": "b16_24",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:",
+          "bbox": [
+            27.98,
+            495.61,
+            106.22,
+            509.7
+          ],
+          "block_id": "b16_11",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telephone",
+          "bbox": [
+            469.34,
+            496.09,
+            514.94,
+            510.18
+          ],
+          "block_id": "b16_25",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central\n:",
+          "bbox": [
+            28.22,
+            513.85,
+            83.43,
+            527.94
+          ],
+          "block_id": "b16_12",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadm Shah Zafar Marg\nNEW DELHI 110002",
+          "bbox": [
+            87.74,
+            514.09,
+            287.42,
+            541.38
+          ],
+          "block_id": "b16_18",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "323 76 17,323 38 41",
+          "bbox": [
+            418.7,
+            514.09,
+            516.62,
+            528.18
+          ],
+          "block_id": "b16_26",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern\n:",
+          "bbox": [
+            28.22,
+            545.53,
+            83.43,
+            559.62
+          ],
+          "block_id": "b16_13",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "l/14 CIT. SchemeVII M, V.I.P. Road, Kankurgachi\nCALCUTTA 700054",
+          "bbox": [
+            87.74,
+            545.53,
+            322.22,
+            573.06
+          ],
+          "block_id": "b16_19",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "{\n337 84 99,337 85 61\n3378626,3379120",
+          "bbox": [
+            410.06,
+            545.77,
+            517.1,
+            573.06
+          ],
+          "block_id": "b16_27",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SC0 335-336, Sector 34-A, CHANDIGARH 160022",
+          "bbox": [
+            87.98,
+            576.97,
+            327.02,
+            591.06
+          ],
+          "block_id": "b16_20",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern\n:",
+          "bbox": [
+            28.22,
+            577.21,
+            83.91,
+            591.3
+          ],
+          "block_id": "b16_14",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "{\n60 38 43\n60 20 25",
+          "bbox": [
+            467.42,
+            577.45,
+            517.58,
+            604.74
+          ],
+          "block_id": "b16_28",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern\n:",
+          "bbox": [
+            29.18,
+            603.37,
+            84.15,
+            617.46
+          ],
+          "block_id": "b16_15",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C.I.T. Campus, IV Cross Road, CHENNAl600113",
+          "bbox": [
+            87.98,
+            603.37,
+            312.62,
+            617.46
+          ],
+          "block_id": "b16_21",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "{\n235 02 16,235 04 42\n235 15 19,235 23 15",
+          "bbox": [
+            411.5,
+            603.61,
+            518.78,
+            630.9
+          ],
+          "block_id": "b16_29",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western\n:",
+          "bbox": [
+            28.46,
+            633.37,
+            84.39,
+            647.46
+          ],
+          "block_id": "b16_16",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manakalaya, E9 MIDC, Marol, Anclheri (East)\nMUMBAl400093",
+          "bbox": [
+            88.22,
+            633.37,
+            298.7,
+            660.66
+          ],
+          "block_id": "b16_22",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "832 92 95,832 78 58\n8327891,8327892",
+          "bbox": [
+            420.14,
+            633.61,
+            518.06,
+            661.14
+          ],
+          "block_id": "b16_30",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches\n:",
+          "bbox": [
+            29.42,
+            663.13,
+            84.63,
+            677.22
+          ],
+          "block_id": "b16_17",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "AHMADABAD. BANGALORE. BHOF\u2019AL. BHUBANESHWAR.\nCOIMBATORE.\nFARIDABAD.\nGHAZIABAD.\nGUWAHATI.\nHYDERABAD.\nJAIPUR. KANPUR. LUCKNOW. NAGPUR.\nPATNA. PUNE. RAJKOT. THIRWANANTHAPURAM.",
+          "bbox": [
+            87.98,
+            663.13,
+            387.98,
+            716.34
+          ],
+          "block_id": "b16_23",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Printed at Simco Printing Press, Delhi",
+          "bbox": [
+            396.86,
+            727.74,
+            517.16,
+            735.57
+          ],
+          "block_id": "b16_31",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 545.6640014648438,
+        "height": 748.5760498046875
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

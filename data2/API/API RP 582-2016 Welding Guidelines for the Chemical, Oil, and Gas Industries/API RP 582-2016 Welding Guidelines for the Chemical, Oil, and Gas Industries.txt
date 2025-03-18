@@ -1,0 +1,2358 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>Welding Guidelines for the Chemical,
+Oil, and Gas Industries<<HEADING_END>>
+<<HEADING level=2>>API RECOMMENDED PRACTICE 582
+THIRD EDITION, MAY 2016<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>Special Notes<<HEADING_END>>
+<<PARAGRAPH>>API publications necessarily address problems of a general nature. With respect to particular circumstances, local,
+state, and federal laws and regulations should be reviewed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Neither API nor any of API’s employees, subcontractors, consultants, committees, or other assignees make any
+warranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the
+information contained herein, or assume any liability or responsibility for any use, or the results of such use, of any
+information or process disclosed in this publication. Neither API nor any of API's employees, subcontractors,
+consultants, or other assignees represent that use of this publication would not infringe upon privately owned rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications may be used by anyone desiring to do so. Every effort has been made by the Institute to assure the
+accuracy and reliability of the data contained in them; however, the Institute makes no representation, warranty, or
+guarantee in connection with this publication and hereby expressly disclaims any liability or responsibility for loss or
+damage resulting from its use or for the violation of any authorities having jurisdiction with which this publication may
+conflict.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API publications are published to facilitate the broad availability of proven, sound engineering and operating
+practices. These publications are not intended to obviate the need for applying sound engineering judgment
+regarding when and where these publications should be utilized. The formulation and publication of API publications
+is not intended in any way to inhibit anyone from using any other practices.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard
+is solely responsible for complying with all the applicable requirements of that standard. API does not represent,
+warrant, or guarantee that such products do in fact conform to the applicable API standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Classified areas may vary depending on the location, conditions, equipment, and substances involved in any given
+situation. Users of this Recommended Practice should consult with the appropriate authorities having jurisdiction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Users of this Recommended Practice should not rely exclusively on the information contained in this document.
+Sound business, scientific, engineering, and safety judgment should be used in employing the information contained
+herein.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where applicable, authorities having jurisdiction should be consulted.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Work sites and equipment operations may differ. Users are solely responsible for assessing their specific equipment
+and premises in determining the appropriateness of applying the Recommended Practice. At all times users should
+employ sound business, scientific, engineering, and judgment safety when using this Recommended Practice.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API is not undertaking to meet the duties of employers, manufacturers, or suppliers to warn and properly train and
+equip their employees, and others exposed, concerning health and safety risks and precautions, nor undertaking their
+obligations to comply with authorities having jurisdiction<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights reserved. No part of this work may be reproduced, translated, stored in a retrieval system, or transmitted by any means,
+electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher. Contact the
+Publisher, API Publishing Services, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright © 2016 American Petroleum Institute<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the
+manufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything
+contained in the publication be construed as insuring anyone against liability for infringement of letters patent.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shall: As used in a standard, “shall” denotes a minimum requirement in order to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Should: As used in a standard, “should” denotes a recommendation or that which is advised but not required in order
+to conform to the specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document was produced under API standardization procedures that ensure appropriate notification and
+participation in the developmental process and is designated as an API standard. Questions concerning the
+interpretation of the content of this publication or comments and questions concerning the procedures under which
+this publication was developed should be directed in writing to the Director of Standards, American Petroleum
+Institute, 1220 L Street, NW, Washington, DC 20005. Requests for permission to reproduce or translate all or any part
+of the material published herein should also be addressed to the director.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Generally, API standards are reviewed and revised, reaffirmed, or withdrawn at least every five years. A one-time
+extension of up to two years may be added to this review cycle. Status of the publication can be ascertained from the
+API Standards Department, telephone (202) 682-8000. A catalog of API publications and materials is published
+annually by API, 1220 L Street, NW, Washington, DC 20005.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Suggested revisions are invited and should be submitted to the Standards Department, API, 1220 L Street, NW,
+Washington, DC 20005, standards@api.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<HEADING level=3>>1
+Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1<<HEADING_END>>
+<<HEADING level=3>>3
+Definitions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3<<HEADING_END>>
+<<HEADING level=3>>4
+General Welding Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3<<HEADING_END>>
+<<PARAGRAPH>>5
+Welding Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+5.1
+Acceptable Welding Processes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+5.2
+Limitations of Fusion Welding Processes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+5.3
+Single-sided Welded Joints. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.4
+Combining Welding Processes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5.5
+Mechanized and Automated Welding Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Welding Consumables (Filler Metal and Flux) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+6.1
+General  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+6.2
+Dissimilar Welding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.3
+Low-alloy Steel Welding (P-No. 3 to P-No. 5 and P-No. 15E). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+6.4
+Stainless Steel Welding (P-No. 6, P-No. 7, and P-No. 8)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+6.5
+Duplex and Super Duplex Stainless Steel Welding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.6
+SAW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+6.7
+Electroslag Welding (for Corrosion Resistant Weld Overlay). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+6.8
+Consumable Storage and Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+6.9
+Alloy Consumable Controls  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Shielding and Purging Gases  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11<<HEADING_END>>
+<<HEADING level=3>>8
+Preheating and Interpass Temperature. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12<<HEADING_END>>
+<<HEADING level=3>>9
+Post-weld Heat Treatment (PWHT)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12<<HEADING_END>>
+<<HEADING level=3>>10
+Cleaning and Surface Preparation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16<<HEADING_END>>
+<<PARAGRAPH>>11
+Special Procedure Qualification Requirements/Testing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+11.1  General  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+11.2  Tube-to-tubesheet Welding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+11.3  Additional Procedure Qualification Requirements for Duplex and Super Duplex Stainless Steels. . . . 17<<PARAGRAPH_END>>
+<<PARAGRAPH>>12
+Other Items. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+12.1  Backing Materials. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+12.2  Peening . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+12.3  Weld Overlay and Clad Restoration (Back Cladding)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+12.4  Temporary Attachments  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+12.5  Stud Welding. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+12.6  Hardness Testing—Weld Procedure Qualification and Production Testing . . . . . . . . . . . . . . . . . . . . . . . 20
+12.7  Single-pass Welds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+12.8  Additional Production Requirements for Welding Duplex and Super Duplex Stainless Steel . . . . . . . . 20<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A (informative) Welding Consumables for Shielded Metal Arc Welding (SMAW) . . . . . . . . . . . . . . . . . 22<<HEADING_END>>
+<<HEADING level=3>>Annex B (normative) Weld Overlay and Clad Restoration (Back Cladding) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27<<HEADING_END>>
+<<PARAGRAPH>>v<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tables
+1
+Diffusible Hydrogen Limits for FCAW Consumables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2
+Application of Nickel-base Electrodes in Sulfidation and Non-sulfidation Environments. . . . . . . . . . . . . 9
+3
+Additional Chemical Requirements for Duplex and Super Duplex Stainless Steel Consumables and
+As-welded Deposits 10
+4
+Recommended Maximum Interpass Temperatures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5
+Maximum Recommended Interpass Temperatures for Duplex and Super Duplex Stainless Steels. . . . 13
+6
+PWHT Temperatures and Holding Times . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+A.1
+Carbon and Low-alloy Steel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+A.2
+Stainless Steel Alloys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+A.3
+Duplex Stainless Steels  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+A.4
+Copper-nickel and Nickel-base Alloys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+B.1
+Filler Material Selection for Overlay of Carbon and Low-alloy Steels. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+B.2
+Chemical Composition Requirements for Austenitic Stainless Steel Overlays  . . . . . . . . . . . . . . . . . . . . 29<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=2>>Welding Guidelines for the Chemical, Oil, and Gas Industries<<HEADING_END>>
+<<HEADING level=3>>1 Scope<<HEADING_END>>
+<<HEADING level=3>>1.1  This recommended practice (RP) provides supplementary guidelines and practices for welding and welding
+related topics for shop and field fabrication, repair and modification of the following:<<HEADING_END>>
+<<PARAGRAPH>>a) pressure-containing equipment such as pressure vessels, heat exchangers, piping, heater tubes, and pressure
+boundaries of rotating equipment and attachments welded thereto;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) tanks and attachments welded thereto;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) non-removable internals for process equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) structural items attached and related to process equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) other equipment or component items when referenced by an applicable purchase document.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1.2  This document is general in nature and augments the welding requirements of ASME  BPVC  Section IX and
+similar codes, standards, specifications, and practices such as those listed in Section 2. The intent of this document is
+to be inclusive of chemical, oil and gas industry standards, although there are many areas not covered herein, e.g.
+pipeline welding and offshore structural welding are intentionally not covered.<<PARAGRAPH_END>>
+<<HEADING level=3>>1.3  This document is based on industry experience and any restrictions or limitations may be waived or augmented
+by the purchaser.<<HEADING_END>>
+<<HEADING level=3>>2 Normative References<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated references,
+only the edition cited applies. For undated references, the latest edition of the referenced document (including any
+amendments) applies. Other codes and standards are specified by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>API 510,  Pressure Vessel Inspection Code: Maintenance, Inspection, Rating, Repair, and Alteration<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 934-A,  Materials and Fabrication of 2  1 / 4 Cr-1Mo, 2  1 / 4 Cr-1Mo- 1 / 4 V, 3Cr-1Mo, and
+3Cr-1Mo- 1 / 4 V Steel Heavy Wall Pressure Vessels for High-temperature, High-pressure Hydrogen Service<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 934-C,  Materials and Fabrication of 1  1 / 4 Cr- 1 / 2 Mo Steel Heavy Wall Pressure Vessels
+for High-pressure Hydrogen Service Operating at or Below 825 °F (441 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>API Recommended Practice 934-E,  Recommended Practice for Materials and Fabrication of 1  1 / 4 Cr- 1 / 2 Mo Steel
+Pressure Vessels for Service Above 825 °F (440 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME  Boiler and Pressure Vessel Code (BPVC)   1 ,  Section I, Rules for Construction of Power Boilers<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME  Boiler and Pressure Vessel Code (BPVC) Section II, Part C: Specifications for Welding Rods, Electrodes, and
+Filler Metals<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME  BPVC, Section VIII: Rules for Construction of Pressure Vessels<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME  BPVC, Section IX: Welding and Brazing Qualifications<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+ASME International, 3 Park Avenue, New York, New York 10016-5990, www.asme.org.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>2
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASME B31.3,  Process Piping Design<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASTM A578/578M  2 , S tandard Specification for Straight-Beam Ultrasonic Examination of Rolled Steel Plates for
+Special Applications<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASTM A923,  Standard Test Method for Detecting Detrimental Intermetallic Phase in Duplex Austenitic/Ferritic
+Stainless Steels<<PARAGRAPH_END>>
+<<PARAGRAPH>>ASTM E562,  Standard Test Method for Determining Volume Fraction by Systematic Manual Point Count<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS A3.0  3 ,  Standard Definitions<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS A4.2M (ISO 8249:2000 MOD),  Standard Procedures for Calibrating Magnetic Instruments to Measure the Delta
+Ferrite Content of Austenitic and Duplex Ferritic-Austenitic Stainless Steel Weld Metal<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS A4.3,  Standard Method for Determination of the Diffusible Hydrogen Content of Martensitic, Bainitic and Ferritic
+Steel Weld Metal Produced by Arc Welding<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS A4.4M,  Standard Procedures for Determination of Moisture Content of Welding Fluxes and Welding Electrode
+Flux Coverings<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS A5.32/A5.32M,  Specification for Welding Shielding Gases<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS A5.XX,  Series of Filler Metal Specifications<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS D1.1,  Structural Welding Code—Steel<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS D1.6,  Structural Welding Code—Stainless Steel<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS D10.8,  Recommended Practice for Welding of Cr-Mo Steel Piping and Tubing<<PARAGRAPH_END>>
+<<PARAGRAPH>>AWS D10.10,  Recommended Practices for Local Heating of Welds in Piping and Tubing , 3rd Edition<<PARAGRAPH_END>>
+<<PARAGRAPH>>NACE MR 0103  4 ,  Materials Resistant to Sulfide Stress Cracking in Corrosive Petroleum Refining Environments<<PARAGRAPH_END>>
+<<PARAGRAPH>>NACE MR0175/ISO 15156,  Petroleum and Natural Gas Industries—Materials for Use in H 2 S-containing
+Environments in Oil and Gas Production—Parts 1, 2 and 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>NACE SP0472,  Methods and Controls to Prevent In-service Environmental Cracking of Carbon Steel Weldments in
+Corrosive Petroleum Refining Environments<<PARAGRAPH_END>>
+<<PARAGRAPH>>National Board NB-23  5 ,  National Board Inspection Code<<PARAGRAPH_END>>
+<<PARAGRAPH>>WRC Bulletin 452  6 ,  Recommended Practices for Local Heating of Welds in Pressure Vessels<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+ASTM International, 100 Barr Harbor Drive, West Conshohocken, Pennsylvania 19428, www.astm.org.
+3
+American Welding Society, 550 NW LeJeune Road, Miami, Florida 33126, www.aws.org.
+4
+NACE International (formerly the National Association of Corrosion Engineers), 1440 South Creek Drive, Houston, Texas
+77218-8340, www.nace.org.
+5
+National Board of Boiler and Pressure Vessel Inspectors, 1055 Crupper Avenue, Columbus, Ohio 43229,
+www.nationalboard.org.
+6
+Welding Research Council, P.O. Box 201547, Shaker Heights, Ohio 44122, www.forengineers.org.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+3<<PARAGRAPH_END>>
+<<HEADING level=3>>3 Definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the following definitions apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+applicable code
+The code or standard specified by the purchaser to which the equipment shall conform.<<HEADING_END>>
+<<PARAGRAPH>>3.2
+Duplex Stainless Steel
+This refers to standard duplex stainless steel, a stainless steel with 22 % chromium, with UNS S31803 and UNS
+S32205 (both known as Alloy 2205) being the most widely used. Common duplex stainless castings are UNS J92205
+(ASTM A890 Grade 4A, CD3MN) and UNS J93372 (ASTM A890 Grade 1B, CD4MCuN).<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3
+inspector
+The purchaser’s representative.<<HEADING_END>>
+<<PARAGRAPH>>3.4
+P-number (shown as P-No. in this document)
+Base metals have been grouped by P-numbers assigned by the ASME  BPVC  Section IX Committee. For current
+P-numbers, ASME  BPVC  Section IX should be consulted.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+procedure qualification record
+PQR
+A record of welding variables used to produce an acceptable test weldment and the results of tests conducted on the
+weldment to qualify a WPS.<<HEADING_END>>
+<<HEADING level=3>>3.6
+purchaser
+The party that issues the purchase order. This may be the user or owner of the equipment or component, or the
+purchaser’s designated agent (e.g. the engineering contractor).<<HEADING_END>>
+<<PARAGRAPH>>3.7
+Super Duplex Stainless Steel
+A duplex stainless steel with a Pitting Resistance Equivalent Number (PREN) > 35-40, where PREN = % Cr + 3.3  ×
+(% Mo + 0.5 % W) + 16  ×  % N. Usually, super duplex grades have 25 % chromium, or more. Some common
+examples are UNS S32760 (Zeron 100), UNS S32750 (Alloy 2507), and UNS S32550 (Ferralium 225). Common
+super duplex stainless steel castings are UNS J93380 (ASTM A890 Grade 6A, CD3MWCuN) and UNS J93404
+(ASTM A890 Grade 5A, CE3MN).<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+welding procedure specification
+WPS
+A document providing the required welding variables for a specific application to ensure repeatability by properly
+trained welders and welding operators.<<HEADING_END>>
+<<HEADING level=3>>4 General Welding Requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1  Structural (non-pressure boundary) welding requirements shall comply with either AWS D1.1 or AWS D1.6.
+When approved by the purchaser (engineer), welding procedures may be qualified per ASME  BPVC  Section IX.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2  Prequalified welding procedures per AWS D1.1 and AWS D1.6 will be accepted for structural welding.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>4
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3  All welding procedure specifications (WPSs) and procedure qualification records (PQRs) shall be submitted to
+the purchaser for review and approval prior to the start of fabrication or construction unless submittal is waived by the
+purchaser. Weld maps, similar guides or fabrication drawings which clearly identify the application of each WPS,
+indicating where and how these WPSs will be used, shall be included in the submittal.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4  Weld maps, similar guides, drawings or other documentation shall be updated during fabrication to clearly
+indicate the welder(s) or welding operator(s) that made each weld. Similarly, record the location of any NDE
+performed and update the information during fabrication.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5  Any pressure boundary welds or welds to the pressure boundary shall comply with the ASME Code, including
+Section IX, and the applicable API Standard/Recommended Practice.<<HEADING_END>>
+<<HEADING level=3>>5 Welding Processes<<HEADING_END>>
+<<HEADING level=3>>5.1 Acceptable Welding Processes<<HEADING_END>>
+<<PARAGRAPH>>Acceptable welding processes are as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) shielded metal arc welding (SMAW);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) gas tungsten arc welding (GTAW) and pulsed GTAW (GTAW-P);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) gas metal arc welding (GMAW) with solid wire and metal cored electrodes for the following transfer modes:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) spray (GMAW-Sp),<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) short circuiting (GMAW-S),<<PARAGRAPH_END>>
+<<PARAGRAPH>>3) pulsed (GMAW-P),<<PARAGRAPH_END>>
+<<PARAGRAPH>>4) globular (GMAW-G), and<<PARAGRAPH_END>>
+<<PARAGRAPH>>5) other transfer modes approved by the purchaser;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) submerged arc welding (SAW);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) electrogas welding (EGW);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+electroslag welding (ESW), limited to weld overlay for P-No. 1 through P-No. 5 and P-No. 15E base materials;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) flux-cored arc welding (FCAW);<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) plasma arc welding (PAW);<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+other welding processes approved by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Limitations of Fusion Welding Processes<<HEADING_END>>
+<<HEADING level=3>>5.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>The fusion welding processes listed in 5.1 are acceptable with the restrictions and notes contained in 5.2.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+5<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.2 GTAW-P<<HEADING_END>>
+<<PARAGRAPH>>When used for root pass welding of single-sided joints, GTAW-P shall be performed with the same make and model
+of equipment using the same program settings as those used in the procedure qualifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   The need to specify the make and model, program, equipment settings, and pulse waveform is based upon the effects
+these variables have on welding arc performance, especially sidewall fusion and out-of-position welding. Studies have shown
+considerable variation in arc characteristics when one make or model of welding system is compared to another. This variation can
+lead to welding defects, some of which may be very difficult to detect by radiography.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.3 GMAW-S<<HEADING_END>>
+<<PARAGRAPH>>The use of GMAW-S shall be limited as follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) The process shall not be used for branch connections, nozzle-to-shell welds, or socket welds.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) GMAW-S may be used for root pass welding on piping. Root pass welding with GMAW-S for other applications is
+permitted, provided the root pass is completely removed from the backside.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) The fill and cap passes for butt or fillet welds may be welded with this process, provided the thickness of any
+member does not exceed  3 / 8  in. (9.5 mm) and vertical welding is performed with uphill progression.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) For vertical welding, the root pass and second pass progression for a material of any thickness may be either
+uphill or downhill.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) Variations of GMAW-S shall have the same limitations as outlined above. Proposals to use GMAW-S variations
+without back purging shall be approved by the owner’s engineer.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.4 GMAW-P<<HEADING_END>>
+<<PARAGRAPH>>GMAW-P may be used for any material thickness in any position. Welding shall be performed with the same make
+and model of welding equipment and using the same program settings as those used in the procedure qualification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   It is recommended that whenever the welding system is changed or the settings on existing equipment significantly
+altered, that the fabricator verify weld properties. The extent of verification or testing should be as agreed between the purchaser
+and fabricator.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.5 FCAW<<HEADING_END>>
+<<HEADING level=3>>5.2.5.1  Self-shielding FCAW (FCAW-S) may be used only for welding carbon steel structural items. The following
+guidelines and restrictions apply:<<HEADING_END>>
+<<PARAGRAPH>>a) electrode types identified by the consumable manufacturer for multi-pass application should be used,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) only electrode classifications which have specified minimum impact test requirements should be used,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) FCAW-S shall not be used with other welding processes without qualifying the specific combination.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.5.2  FCAW with external gas shielding (FCAW-G) may be used for either groove or fillet welds for pressure
+boundary or structural welding.<<HEADING_END>>
+<<PARAGRAPH>>5.2.5.3  For procedures requiring either impact or hardness testing, it is advisable to review weld metal properties
+with the consumable manufacturer to ensure the original qualified properties continue to be met. When rutile type (i.e.
+E71T-1 type) consumables are used as-welded or in the postweld heat treated (PWHT’d) condition with impact<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>6
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<PARAGRAPH>>testing required, the specific brand and trade name of the consumable used in production must be qualified on
+supporting PQRs with impact test results meeting the minimum design code requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Welding consumables, including those for FCAW, are routinely used in situations not addressed by the testing
+requirements in AWS/ASME welding specifications. A periodic review with the manufacturer is good practice to ensure minor
+variations that occur over time with FCAW consumable formulations (e.g. raw material and microalloying changes) do not
+adversely affect the ability of these products to perform as intended. Small changes in microalloying additions can have significant
+effects on properties.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.5.4  Welding consumables shall be limited to the ASME/AWS classification used in the PQR.<<HEADING_END>>
+<<PARAGRAPH>>5.2.5.5  For welding pressure-containing equipment wall thickness in excess of  3 / 8  in. (9.5 mm), the diffusible
+hydrogen limit for FCAW consumables (as manufactured) shall meet the specifications in Table 1.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1—Diffusible Hydrogen Limits for FCAW Consumables<<HEADING_END>>
+<<HEADING level=3>>Specified Minimum Tensile Strength for the Base Metal
+Maximum Diffusible Hydrogen Designation (per ASME/
+AWS SFA/A5.20 or SFA/A5.29)<<HEADING_END>>
+<<PARAGRAPH>>≤  70 ksi (483 MPa)
+H16<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 70 ksi (483 MPa) and  ≤  85 ksi (587 MPa)
+H8<<PARAGRAPH_END>>
+<<PARAGRAPH>>> 85 ksi (587 MPa)
+H4<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.6 EGW<<HEADING_END>>
+<<PARAGRAPH>>The use of EGW shall be limited by the following conditions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) EGW shall be used only with filler materials specifically intended for the EGW process (ASME/AWS SFA/A5.26/
+SFA/A5.26M),<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) welding consumables shall be limited to the classification and the manufacturer’s trade name used in the PQR,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) only filler materials having classifications with specified minimum impact test requirements should be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.7 SAW<<HEADING_END>>
+<<PARAGRAPH>>5.2.7.1  SAW procedures shall be requalified whenever the welding flux is changed from one manufacturer’s trade
+name to another. Equivalence under ASME  BPVC  Section II, Part C, or AWS filler metal specifications shall not be
+considered adequate for substitution without requalification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   It is recognized that fluxes having the same classification can be very different in their composition. However, nominal
+flux composition is not included in AWS or ASME specifications/codes and flux suppliers do not normally provide this information.
+Differences among fluxes of the same classification can result in different and unanticipated weld properties when these fluxes are
+used interchangeably over the range of variables typically stated in weld procedure specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.7.2  Manually held (semiautomatic) SAW is not permitted for welding pressure-containing parts, unless approved
+by the purchaser.<<HEADING_END>>
+<<HEADING level=3>>5.2.7.3  A separate qualification is required for SAW welds in which any pass thickness is greater than  1 / 2  in.
+(13 mm).<<HEADING_END>>
+<<TABLE_1>>
+| Specified Minimum Tensile Strength for the Base Metal   | Maximum Diffusible Hydrogen Designation (per ASME/   |
+|                                                         | AWS SFA/A5.20 or SFA/A5.29)                          |
+|:--------------------------------------------------------|:-----------------------------------------------------|
+| ≤ 70 ksi (483 MPa)                                      | H16                                                  |
+| > 70 ksi (483 MPa) and ≤ 85 ksi (587 MPa)               | H8                                                   |
+| > 85 ksi (587 MPa)                                      | H4                                                   |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+7<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Single-sided Welded Joints<<HEADING_END>>
+<<PARAGRAPH>>For single-sided welded joints where process side corrosion is a concern, welding processes using coatings or fluxes
+shall not be used for root pass welding of austenitic stainless steels, non-ferrous alloys and nickel-base alloys, unless
+slag can be removed from the process side of root passes and the area inspected for slag removal.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Combining Welding Processes<<HEADING_END>>
+<<PARAGRAPH>>Combining two or more welding processes that use alloy filler metals of different nominal compositions, other than
+ASME weld metal classifications A-Numbers 1 through 5, requires qualification as a combination procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5 Mechanized and Automated Welding Processes<<HEADING_END>>
+<<PARAGRAPH>>5.5.1  Orbital welding and similar fully automated welding processes require separate programming weld schedules
+for the specific joint geometry, diameter, wall thickness, and welding position. These weld schedules shall report all
+the essential and nonessential variables that are needed to accurately describe all motion (e.g. travel and oscillation),
+timing and electrical functions of the welding system. The specific weld schedules relevant to each welding procedure
+shall be noted on the WPS or as a supplementary table attached to the WPS.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5.2  A change in position according to ASME  BPVC  Section IX, QW-461.9 shall be considered an essential
+variable for procedure qualification.<<HEADING_END>>
+<<HEADING level=3>>6 Welding Consumables (Filler Metal and Flux)<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>6.1.1  Filler metals shall be specified in each WPS by ASME II, Part C/AWS specification and classification. Filler
+metals that do not conform to an ASME/AWS specification shall be submitted to the purchaser for approval.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Refer to Annex A for general guidance and recommended filler metal selection.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.2  Testing is required to verify consumable mechanical properties whenever:<<HEADING_END>>
+<<PARAGRAPH>>a) the deposited filler metal does not fall within any of the ASME/AWS filler metal specifications, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) the manufacturer’s typical consumable certification or other supplier certifications are not available.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When PWHT is required for either 6.1.2 a) or 6.1.2 b), all-weld-metal test coupons shall be PWHT’d with the nominal
+temperature and maximum time to be used in production. The tensile strength, yield strength and elongation shall
+meet the base metal properties.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.3  Groove and/or fillet welds shall be made with filler metals producing low hydrogen deposits  7 . However, for the
+following conditions cellulose type coated electrodes are permitted.<<HEADING_END>>
+<<PARAGRAPH>>a) For API 620 and API 650 storage tank fabrication and erection, where the base metal thickness is less than  1 / 2  in.
+(13 mm) and the minimum specified tensile strength of the base material is less than 70 ksi (483 MPa), cellulose
+type coated electrodes may be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) For pipe welding of ASME P-No. 1, Group 1, carbon steel base metal, the root pass and second pass of single-
+groove welds, regardless of base metal thickness, may be welded with cellulose type coated electrodes. In
+addition, ASME P-No. 1, Group 2, materials may have the root and hot pass welded with cellulose electrodes,<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Some industry codes/standards (e.g. API 650) may be more restrictive for certain materials and/or specific applications.
+Governing industry codes and standards take precedence over this RP.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>8
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<PARAGRAPH>>provided a minimum preheat of 300 °F (149 °C) is used and maintained until the joint is completed or  1 / 2  in.
+(13 mm) of weld thickness is completed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.4  For carbon steel, if the base metal is exempt from impact testing the weld metal should have a toughness
+equal to or greater than 20 ft-lb (27 J) at either 0 °F (–18 °C) or the minimum design metal temperature (MDMT),
+whichever is lower. The weld metal toughness should be certified by the filler metal manufacturer according to ASME
+BPVC  Section II, Part C/AWS filler metal specifications, or if approved by the purchaser, should be established by the
+PQR.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.1.5  Procedures using any consumable with a “G” classification shall be restricted to the brand and type of
+consumable used for the PQR. The nominal chemical composition of the specified brand and type of consumable
+should be identified on the WPS.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.6  Welding consumables shall be clearly identified by trade name, where applicable, or AWS classification, and
+the identity must be maintained until consumed.<<HEADING_END>>
+<<PARAGRAPH>>6.1.7  Unless specifically authorized by the purchaser, welding consumables shall be used only for the welding
+process applications recommended in the ASME II, Part C/AWS filler metal specification or by its manufacturer (e.g.
+filler metals designed for 'single-pass welding' shall not be used for multiple pass applications and fluxes designated
+for non-PWHT applications shall not be used for PWHT applications).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.8  Table A.1 provides recommended filler metal selections for typical P-No. 1 through P-No. 5, P-No. 9, and
+P-No. 11 materials.<<HEADING_END>>
+<<HEADING level=3>>6.2 Dissimilar Welding<<HEADING_END>>
+<<PARAGRAPH>>6.2.1  When joining dissimilar ferritic steels (P-No. 1 though P-No. 5), the filler metal shall conform to the nominal
+chemical composition of either base metal or an intermediate composition. However, when attaching non-pressure
+parts to pressure parts, the filler metal chemical composition shall match the nominal chemical composition of the
+pressure part.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.2  When joining ferritic steels (P-No. 1 through P-No. 5 and P-No. 15E) to:<<HEADING_END>>
+<<PARAGRAPH>>a) martensitic stainless steels (P-No. 6); or<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) ferritic stainless steels (P-No. 7); or<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) austenitic stainless steels (P-No. 8), the filler metal shall be selected based on the following criteria:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) Type 309 and Type 309L may be used for design temperatures not exceeding 600 °F (315 °C);<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  Due to high differential thermal expansion, nickel-base filler metals are preferred for temperatures above 600 °F
+(315 °C).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  Type 309 Cb (Nb) should not be used when PWHT is required, except for weld overlay.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) nickel-base alloy filler materials may be selected using design conditions shown in Table 2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>3) for service conditions exceeding the limits stated in 6.2.2.c.1 and 6.2.2.c.2, the filler metal selection shall be
+reviewed with the purchaser;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4) ASME/AWS Classification ER310 (E310-XX) and ASME/AWS Classification ERNiCrFe-6 shall not be used.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+9<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   The use of dissimilar metal welds (carbon or low-alloy to austenitic stainless steel) in services corrosive to carbon
+and low-alloy steel should be carefully evaluated. Failures have been reported due to hydrogen charging of zones exhibiting
+high hardness adjacent to the fusion line. It is unclear whether the charging is due to corrosion of the carbon or low-alloy
+steel alone or accelerated due to the presence of a galvanic couple. In addition, carbon or low-alloy to austenitic stainless
+steel welds might be susceptible to brittle fracture at service temperatures below –20 °F (–29 °C).<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2—Application of Nickel-base Electrodes in Sulfidation and Non-sulfidation Environments<<HEADING_END>>
+<<HEADING level=3>>Maximum Design
+Temperature
+(Non-sulfidation  2
+Environment)<<HEADING_END>>
+<<HEADING level=3>>Maximum Design
+Temperature
+(Sulfidation Environment)<<HEADING_END>>
+<<HEADING level=3>>ASME/AWS Filler  1
+Material Classification<<HEADING_END>>
+<<PARAGRAPH>>ENiCrFe-3
+1000 °F (540 °C)
+700 °F (370 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ERNiCr-3, ENiCrFe-2
+1400 °F (760 °C)
+750 °F (400 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>ERNiCrMo-3, ENiCrMo-3
+1100 °F (590 °C)
+900 °F (480 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  Comparable FCAW consumables may be applied for dissimilar welding applications,
+provided they are approved by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  Refer to API 939-C for the definition of sulfidation.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Low-alloy Steel Welding (P-No. 3 to P-No. 5 and P-No. 15E)<<HEADING_END>>
+<<PARAGRAPH>>Unless otherwise specified, the welding guidelines referenced in API 934-A, API 934-C, and API 934-E should be
+followed for welding Cr-Mo steel pressure vessels for high-temperature, high-pressure hydrogen service. C-Mo and
+Cr-Mo steel piping systems in high-temperature service (below the creep range and whether or not hydrogen is
+present) should be fabricated using the guidelines in AWS D10.8.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 Stainless Steel Welding (P-No. 6, P-No. 7, and P-No. 8)<<HEADING_END>>
+<<HEADING level=3>>6.4.1  Table A.2 provides recommended filler metal selections for typical stainless steel applications.<<HEADING_END>>
+<<HEADING level=3>>6.4.2  For welding austenitic stainless steels (P-No. 8, Group 1), the following guidelines and restrictions apply.<<HEADING_END>>
+<<PARAGRAPH>>6.4.2.1  Unless otherwise specified, for materials requiring PWHT or materials in high-temperature service (see
+ASME  BPVC  Section II, Part D, Table A-360), the ferrite number (FN) for the deposited weld metal should not exceed
+10 FN measured prior to PWHT.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Whenever FN measurements are required in this document, they are to be taken prior to any PWHT and shall be
+measured with an instrument calibrated to, and listed in, AWS A4.2M or by actual, as-deposited chemical composition using WRC
+1992 (FN) Diagram.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.2.2  The minimum FN for deposited weld metal should be 3 FN, except for the following (if PWHT is performed,
+the FN shall be measured prior to PWHT).<<HEADING_END>>
+<<PARAGRAPH>>a) The minimum FN for Type 347 weld deposits shall be 5 FN. The minimum FN may be reduced to 3 FN, provided
+the fabricator submits data verifying that hot cracking will not occur using the lower FN consumable to be used in
+production and this is approved by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) When joining stainless steels for cryogenic service, non-magnetic applications, or special corrosive service, weld
+deposits with a lower FN may be required.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.2.3  The FN for 16-8-2 weld deposits shall be 1-5 FN.<<HEADING_END>>
+<<TABLE_1>>
+| ASME/AWS Filler 1                                                                       | Maximum Design       | Maximum Design              |
+| Material Classification                                                                 | Temperature          | Temperature                 |
+|                                                                                         | (Non-sulfidation 2   | (Sulfidation Environment)   |
+|                                                                                         | Environment)         |                             |
+|:----------------------------------------------------------------------------------------|:---------------------|:----------------------------|
+| ENiCrFe-3                                                                               | 1000 °F (540 °C)     | 700 °F (370 °C)             |
+| ERNiCr-3, ENiCrFe-2                                                                     | 1400 °F (760 °C)     | 750 °F (400 °C)             |
+| ERNiCrMo-3, ENiCrMo-3                                                                   | 1100 °F (590 °C)     | 900 °F (480 °C)             |
+| NOTE 1 Comparable FCAW consumables may be applied for dissimilar welding applications , |                      |                             |
+| provided they are approved by the purchaser.                                            |                      |                             |
+| NOTE 2 Refer to API 939-C for the definition of sulfidation.                            |                      |                             |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>10
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4.2.4  When austenitic stainless steel type FCAW weld materials are exposed to temperatures above 1000 °F
+(538 °C) during fabrication and/or during service:<<HEADING_END>>
+<<PARAGRAPH>>a) materials shall have a formulation that does not intentionally add bismuth and bismuth in the deposited weld metal
+shall not exceed 0.002 %,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) materials shall have a maximum FN of 9 FN.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.4.2.5  When welding thick-wall forgings of chemically stabilized stainless steels (such as Type 321, Type 347, and
+Type 316Cb), grain size of the forging and welding heat input should be controlled, as required by the purchaser, in
+order to reduce the risk of cracking.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5 Duplex and Super Duplex Stainless Steel Welding<<HEADING_END>>
+<<HEADING level=3>>6.5.1  The requirements in 6.5.2 through 6.5.8 shall apply when welding duplex and super duplex stainless steels.<<HEADING_END>>
+<<HEADING level=3>>6.5.2  Procedure qualification requirements, including ferrite testing, shall be per 11.3 of this RP.<<HEADING_END>>
+<<HEADING level=3>>6.5.3  Autogeneous welding shall not be performed without approval from the purchaser.<<HEADING_END>>
+<<HEADING level=3>>6.5.4  Consumables and as-welded deposits shall meet the chemical composition requirements shown in Table 3.<<HEADING_END>>
+<<PARAGRAPH>>NOTE   Table A.3 provides recommended filler metal selections for typical duplex stainless steel applications.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5.5  When welding duplex and super duplex stainless steels, consumables shall meet the following requirements.<<HEADING_END>>
+<<HEADING level=3>>6.5.5.1  SAW flux shall be a basic flux.<<HEADING_END>>
+<<HEADING level=3>>6.5.5.2  Filler metal(s) and flux used for the procedure qualification shall be the same manufacturer and
+manufacturer’s trade name as to be used for production.<<HEADING_END>>
+<<HEADING level=3>>6.5.6  Any change in backing gas composition shall be considered an essential variable.<<HEADING_END>>
+<<HEADING level=3>>6.5.7  The oxygen content of the back purging gas at the weld shall be reduced to a maximum of 0.50 % (5000 ppm)
+before welding. An oxygen concentration monitoring system shall be established.<<HEADING_END>>
+<<HEADING level=3>>6.5.8  Shielding and back purging gases shall be argon or an argon/nitrogen mixture. Other shielding and back
+purging gases may be used if approved by the purchaser.<<HEADING_END>>
+<<HEADING level=3>>Table 3—Additional Chemical Requirements for Duplex and Super Duplex
+Stainless Steel Consumables and As-welded Deposits<<HEADING_END>>
+<<HEADING level=3>>Element
+Minimum Chemical Composition
+(Duplex)<<HEADING_END>>
+<<HEADING level=3>>Minimum Chemical Composition
+(Super Duplex)<<HEADING_END>>
+<<PARAGRAPH>>Nitrogen
+0.14 %
+0.20 %<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nickel
+8.0 %
+9.0 %<<PARAGRAPH_END>>
+<<PARAGRAPH>>Molybdenum
+3.0 %
+3.5 %<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE  At the option of the purchaser, a minimum Pitting Resistance Equivalent Number (PREN) may be specified.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Element                                                                                                      | Minimum Chemical Composition   | Minimum Chemical Composition   |
+|                                                                                                              | (Duplex)                       | (Super Duplex)                 |
+|:-------------------------------------------------------------------------------------------------------------|:-------------------------------|:-------------------------------|
+| Nitrogen                                                                                                     | 0.14 %                         | 0.20 %                         |
+| Nickel                                                                                                       | 8.0 %                          | 9.0 %                          |
+| Molybdenum                                                                                                   | 3.0 %                          | 3.5 %                          |
+| NOTE At the option of the purchaser, a minimum Pitting Resistance Equivalent Number (PREN) may be specified. |                                |                                |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+11<<PARAGRAPH_END>>
+<<HEADING level=3>>6.6 SAW<<HEADING_END>>
+<<HEADING level=3>>6.6.1  The flux trade name and designation used for the procedure qualification shall be specified in both the WPS
+and PQR.<<HEADING_END>>
+<<HEADING level=3>>6.6.2  Filler metal/flux classifications specified by the manufacturer for single-pass welding shall not be used for
+multi-pass welding.<<HEADING_END>>
+<<HEADING level=3>>6.6.3  Alloyed submerged arc fluxes shall not be used for welding low-alloy steels. Fluxes that compensate for arc
+losses of alloying elements are permitted.<<HEADING_END>>
+<<HEADING level=3>>6.6.4  Recrushed slag is not permitted for welding pressure-containing parts.<<HEADING_END>>
+<<HEADING level=3>>6.6.5  Controls shall be in place to ensure recovered flux is not contaminated in the recovery process and that the
+process meets the flux manufacturer’s requirements for protection from moisture.<<HEADING_END>>
+<<HEADING level=3>>6.7 Electroslag Welding (for Corrosion Resistant Weld Overlay)<<HEADING_END>>
+<<PARAGRAPH>>If the manufacturer proposes to use an active flux to attain the specified chemistry, the manufacturer shall submit
+samples produced at both extreme limits, maximum and minimum, of the specified heat input range. Both samples
+shall meet the overlay chemistry specifications.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8 Consumable Storage and Handling<<HEADING_END>>
+<<HEADING level=3>>6.8.1  Welding consumables shall be stored and handled in accordance with the manufacturer’s instructions.<<HEADING_END>>
+<<PARAGRAPH>>6.8.2  Storage and baking of welding consumables shall be carried out in separate ovens. The ovens shall be heated
+by electrical means and shall have automatic temperature control. Welding consumable storage and baking ovens
+shall have a visible temperature indicator.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8.3  The fabricator shall have a documented procedure covering the storage, segregation, distribution, and return
+of all welding consumables. Filler metal identity must be maintained.<<HEADING_END>>
+<<HEADING level=3>>6.9 Alloy Consumable Controls<<HEADING_END>>
+<<PARAGRAPH>>Prior to production welding, each heat and lot of consumables shall be subject to positive material identification (PMI)
+using a weld metal button/pad or other suitable means, as agreed with the purchaser. After PMI confirmation, alloy
+welding consumables shall be segregated and uniquely identified from other consumables in the shop.<<PARAGRAPH_END>>
+<<HEADING level=3>>7 Shielding and Purging Gases<<HEADING_END>>
+<<HEADING level=3>>7.1  When shielding gas(es) are used, the WPS shall indicate the shielding gas (or gas mixture), percent
+composition of gas(es) and flow rate.<<HEADING_END>>
+<<HEADING level=3>>7.2  Shielding gases shall meet the purity requirements of ASME/AWS SFA/A5.32/5.32M. Gas purity should be
+recorded on the PQR and WPS when a single gas is used.<<HEADING_END>>
+<<PARAGRAPH>>7.3  Back purging is required for the GTAW and GMAW processes for welding materials having a nominal chromium
+content greater than 2- 1 / 4  %, unless the joint is ground or back gouged to sound metal. For GMAW-S variations, see
+5.2.3 e).<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) When a back purge is used, the WPS shall state the gas used, including composition of the gas mixture and the
+flow rate.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>12
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Whenever a back purging gas is selected to prevent oxidation or scale formation on the underside of the weld, the
+purge shall be maintained until at least  1 / 4  in. (6.5 mm) depth of weld metal has been deposited.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) For socket, seal, and any other attachment welds on base materials less than  1 / 4  in. (6.5 mm) thick, the back
+purging shall be maintained throughout the welding operation.<<PARAGRAPH_END>>
+<<HEADING level=3>>8 Preheating and Interpass Temperature<<HEADING_END>>
+<<PARAGRAPH>>8.1  Preheating, where required, applies to all welding, tack welding, and thermal cutting. Minimum preheat
+requirements shall follow the applicable code and recommended practice such as Appendix R of ASME  BPVC
+Section VIII Division 1, Table 330.1.1 of ASME B31.3, API 934-A, API 934-C, API 934-E, and Annex XI of AWS D1.1.
+Any recommendations or requirements for preheat listed in the relevant code shall be considered mandatory.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2  The preheat temperature shall be applied, and for low-alloy steels, maintained until PWHT is completed
+throughout the entire thickness of the weld and at least 3 in. (75 mm) on each side of the weld, unless a
+dehydrogenation heat treatment (DHT) is applied immediately after welding is completed. Consideration should be
+given to lowering the preheat temperature to below Mf (martensite finish temperature) prior to PWHT.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.3  Preheat and interpass temperatures shall be checked by use of thermocouples, temperature indicating crayons,
+pyrometers or other suitable methods. For austenitic stainless steels, duplex stainless steels, and nickel alloys, digital
+hand-held contact thermocouples are preferred over temperature indicating crayons to avoid the potential
+contamination from tramp elements, such as fluorides, chlorides, and sulfides, which may be contained in the
+crayons.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.4  The maximum interpass temperature shall be specified in the WPS and PQR for austenitic stainless steels,
+duplex stainless steels, and non-ferrous alloys and when impact testing is required for carbon and low-alloy steels.
+Table 4 provides recommended interpass temperatures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.5  When welding high carbon equivalent forgings and fittings, special welding procedures, including preheat and
+cooling rate control for hardness management, needs to be developed to reduce the risk of hydrogen assisted
+cracking.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.6  The maximum interpass temperatures for duplex and super duplex stainless steels shall be according to
+Table 5.<<HEADING_END>>
+<<PARAGRAPH>>8.7  Preheat, interpass, and preheat maintenance temperatures shall be measured on the weld metal or on the
+immediately adjacent base metal. Temperature indicating crayons are not permitted directly on weld metal or on the
+joint preparation.<<PARAGRAPH_END>>
+<<HEADING level=3>>9 Post-weld Heat Treatment (PWHT)<<HEADING_END>>
+<<PARAGRAPH>>9.1  PWHT used for a PQR shall be in accordance with a procedure based on the requirements of the applicable
+code and purchase order. For production use, the heat treatment procedure shall be reviewed and approved by the
+purchaser prior to PWHT.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2  All WPSs specifying PWHT should indicate the following:<<HEADING_END>>
+<<PARAGRAPH>>a) maximum heating rate,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) holding temperature range,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) holding time,<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) maximum cooling rate.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+13<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 4—Recommended Maximum Interpass Temperatures<<HEADING_END>>
+<<HEADING level=3>>Material Group
+Maximum Interpass Temperature<<HEADING_END>>
+<<PARAGRAPH>>P-No. 1 (carbon steels)
+600 °F (315 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 3, P-No. 4, P-No. 5A, P-No. 5B,
+P-No. 5C, and P-No. 15E (low-alloy steels)
+600 °F (315 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 6 (Type 410)
+600 °F (315 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 6 (CA6NM)
+650 °F (345 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 7 (Type 405/410S)
+500 °F (260 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 8 (austenitic stainless steel)
+350 °F (175 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 10H (duplex and super duplex
+stainless steels)
+Refer to Table 5<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 11A, Group 1
+350 °F (175 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 41, P-No. 42
+300 °F (150 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>P-No. 43, P-No. 44, and P-No. 45
+350 °F (175 °C)<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 5—Maximum Recommended Interpass Temperatures for Duplex and Super Duplex Stainless Steels<<HEADING_END>>
+<<HEADING level=3>>Maximum Interpass Temperature<<HEADING_END>>
+<<HEADING level=3>>Base Metal or Component
+Thickness<<HEADING_END>>
+<<HEADING level=3>>Duplex Stainless Steel
+(e.g. UNS S32205)<<HEADING_END>>
+<<HEADING level=3>>Super Duplex Stainless Steel
+(e.g. UNS S32750)<<HEADING_END>>
+<<PARAGRAPH>><  1 / 8  in. (3 mm)
+120 °F (50 °C)
+120 °F (50 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>><  1 / 4  in. (6 mm)
+160 °F (70 °C)
+160 °F (70 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>><  3 / 8  in. (9.5 mm)
+210 °F (100 °C)
+210 °F (100 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>> or =  3 / 8  in. (9.5 mm)
+300 °F (150 °C)
+250 °F (120 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE  For P-No. 10H material, the production interpass temperature shall not exceed the interpass temperature used during
+procedure qualification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As an alternative, the WPS may reference a separate project-specific PWHT procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.3  For special heat treating methods, such as induction and internally fired, the PWHT procedure shall be
+approved by the purchaser prior to production.<<HEADING_END>>
+<<HEADING level=3>>9.4  Unless waived by the purchaser, PQR hardness testing shall be performed to verify that hardness requirements
+can be met following a specified PWHT.<<HEADING_END>>
+<<PARAGRAPH>>NOTE   Testing is often waived when PWHT is performed for reasons such as dimensional stability or construction code
+thickness requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.4.1  When testing is performed due to service conditions (NACE SP0472 or as defined by purchaser), testing
+requirements and methods given in 12.6.1 shall be used for PQR testing, unless otherwise specified by the
+purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.4.2  When testing is performed for reasons other than service related conditions, testing requirements shall be
+specified by the purchaser.<<HEADING_END>>
+<<PARAGRAPH>>9.5  Production hardness testing may be required by the purchaser to verify adequacy of heat treatments. The
+purchaser may specify testing requirements as noted in 12.6.2, or define company specific requirements.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Material Group                             | Maximum Interpass Temperature   |
+|:-------------------------------------------|:--------------------------------|
+| P-No. 1 (carbon steels)                    | 600 °F (315 °C)                 |
+| P-No. 3, P-No. 4, P-No. 5A, P-No. 5B,      | 600 °F (315 °C)                 |
+| P-No. 5C, and P-No. 15E (low-alloy steels) |                                 |
+| P-No. 6 (Type 410)                         | 600 °F (315 °C)                 |
+| P-No. 6 (CA6NM)                            | 650 °F (345 °C)                 |
+| P-No. 7 (Type 405/410S)                    | 500 °F (260 °C)                 |
+| P-No. 8 (austenitic stainless steel)       | 350 °F (175 °C)                 |
+| P-No. 10H (duplex and super duplex         | Refer to Table 5                |
+| stainless steels)                          |                                 |
+| P-No. 11A, Group 1                         | 350 °F (175 °C)                 |
+| P-No. 41, P-No. 42                         | 300 °F (150 °C)                 |
+| P-No. 43, P-No. 44, and P-No. 45           | 350 °F (175 °C)                 |
+<<TABLE_END>>
+<<TABLE_2>>
+| Base Metal or Component                                                                                                   | Maximum Interpass Temperature   |                              |
+| Thickness                                                                                                                 |                                 |                              |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------------|:-----------------------------|
+|                                                                                                                           | Duplex Stainless Steel          | Super Duplex Stainless Steel |
+|                                                                                                                           | (e.g. UNS S32205)               | (e.g. UNS S32750)            |
+| < 1/8 in. (3 mm)                                                                                                          | 120 °F (50 °C)                  | 120 °F (50 °C)               |
+| < 1/4 in. (6 mm)                                                                                                          | 160 °F (70 °C)                  | 160 °F (70 °C)               |
+| < 3/8 in. (9.5 mm)                                                                                                        | 210 °F (100 °C)                 | 210 °F (100 °C)              |
+| > or = 3/8 in. (9.5 mm)                                                                                                   | 300 °F (150 °C)                 | 250 °F (120 °C)              |
+| NOTE For P-No. 10H material, the production interpass temperature shall not exceed the interpass temperature used durin g |                                 |                              |
+| procedure qualification.                                                                                                  |                                 |                              |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>14
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>9.6  PWHT of austenitic stainless steel, duplex/super duplex stainless steel, and non-ferrous alloys requires
+approval by the purchaser.<<HEADING_END>>
+<<PARAGRAPH>>9.7  Except for weld overlays, welding procedure qualification tests for austenitic stainless steel to ferritic steel welds
+shall employ the maximum PWHT temperature limit specified in the welding procedure whenever the stainless steel
+is heated above 1300 °F (705 °C).<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.8  Repairing a PWHT’d component without PWHT requires that the repair meet all applicable construction code
+requirements, or follow NB-23 or API 510. Purchaser approval shall be obtained prior to performing the repair.
+Procedure qualifications shall be done in accordance with ASME IX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   If PWHT was originally conducted due to service requirements, specifically environmental cracking prevention, PWHT of
+the repair should be strongly considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.9  When repairs are made to cladding or overlay welds on low-alloy steels without subsequent PWHT, a minimum
+remaining clad or overlay thickness of  3 / 16  in. (4.8 mm) is required, unless it can be demonstrated that no new HAZ is
+formed in the base metal with thinner overlay.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.10  Exemption of code required PWHT for ferritic materials based on the use of austenitic or nickel-base filler
+materials is not permitted.<<HEADING_END>>
+<<HEADING level=3>>9.11  Code exemption of PWHT for P-No. 4 and P-No. 5 materials is not permitted for applications in sour or
+hydrogen service  8  or where the nominal chromium content of the material exceeds 1.25 %.<<HEADING_END>>
+<<HEADING level=3>>9.12  Table 6 lists suggested PWHT holding temperatures and times. Code requirements, project specifications and
+tempering temperatures should be considered when selecting final PWHT temperatures.<<HEADING_END>>
+<<HEADING level=3>>Table 6—PWHT Temperatures and Holding Times<<HEADING_END>>
+<<HEADING level=3>>Nominal
+Thickness at
+Weld
+(in.)<<HEADING_END>>
+<<HEADING level=3>>Holding
+Temperature
+(°F)  a<<HEADING_END>>
+<<HEADING level=3>>Time at Holding
+Temperature
+(hr)<<HEADING_END>>
+<<HEADING level=3>>P-No.
+Material Type<<HEADING_END>>
+<<HEADING level=3>>Service Environment<<HEADING_END>>
+<<PARAGRAPH>>1
+carbon steel
+according to
+code
+code
+1100 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+wet H 2 S
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+caustic
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+amine
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+carbonates
+1200 to 1250
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+HF acid
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+deaerator
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+carbon steel
+all
+ethanol
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+C- 1 / 2 Mo
+according to
+code
+code
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+C-Mn-Mo
+all
+all
+1150 to 1200
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+1Cr- 1 / 2 Mo,
+1  1 / 4 Cr- 1 / 2 Mo
+all
+for maximum tempering (creep)
+1275 to 1325
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+1Cr- 1 / 2 Mo,
+1  1 / 4 Cr- 1 / 2 Mo
+all
+for optimum high-temperature
+properties (toughness)
+1250 to 1300
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+The purchaser shall define the conditions for sour service (e.g. company specific or reference to NACE MR 0103) and/or
+hydrogen service (e.g. hydrogen partial pressure).<<PARAGRAPH_END>>
+<<TABLE_1>>
+|   P-No. | Material Type   | Nominal        | Service Environment           | Holding       | Time at Holding   |
+|         |                 | Thickness at   |                               | Temperature   | Temperature       |
+|         |                 | Weld           |                               | (°F) a        | (hr)              |
+|         |                 | (in.)          |                               |               |                   |
+|--------:|:----------------|:---------------|:------------------------------|:--------------|:------------------|
+|       1 | carbon steel    | according to   | code                          | 1100 to 1200  | 1, minimum        |
+|         |                 | code           |                               |               |                   |
+|       1 | carbon steel    | all            | wet H S                       | 1150 to 1200  | 1, minimum        |
+|         |                 |                | 2                             |               |                   |
+|       1 | carbon steel    | all            | caustic                       | 1150 to 1200  | 1, minimum        |
+|       1 | carbon steel    | all            | amine                         | 1150 to 1200  | 1, minimum        |
+|       1 | carbon steel    | all            | carbonates                    | 1200 to 1250  | 1, minimum        |
+|       1 | carbon steel    | all            | HF acid                       | 1150 to 1200  | 1, minimum        |
+|       1 | carbon steel    | all            | deaerator                     | 1150 to 1200  | 1, minimum        |
+|       1 | carbon steel    | all            | ethanol                       | 1150 to 1200  | 1, minimum        |
+|       3 | C-1/2Mo         | according to   | code                          | 1150 to 1200  | 1, minimum        |
+|         |                 | code           |                               |               |                   |
+|       3 | C-Mn-Mo         | all            | all                           | 1150 to 1200  | 1, minimum        |
+|       4 | 1Cr-1/2Mo,      | all            | for maximum tempering (creep) | 1275 to 1325  | 2, minimum        |
+|         | 1 1/4Cr-1/2Mo   |                |                               |               |                   |
+|       4 | 1Cr-1/2Mo,      | all            | for optimum high-temperature  | 1250 to 1300  | 2, minimum        |
+|         | 1 1/4Cr-1/2Mo   |                | properties (toughness)        |               |                   |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+15<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 6—PWHT Temperatures and Holding Times (Continued)<<HEADING_END>>
+<<HEADING level=3>>Nominal
+Thickness at
+Weld
+(in.)<<HEADING_END>>
+<<HEADING level=3>>Service Environment
+Holding
+Temperature
+(°F)  a<<HEADING_END>>
+<<HEADING level=3>>Time at Holding
+Temperature
+(hr)<<HEADING_END>>
+<<HEADING level=3>>P-No.
+Material Type<<HEADING_END>>
+<<PARAGRAPH>>heavy wall pressure vessels for
+high-pressure hydrogen service
+operating at or below
+825 °F (441 °C)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2, minimum,
+see to API 934-C for
+more details<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+1Cr- 1 / 2 Mo,
+1  1 / 4 Cr- 1 / 2 Mo
+all<<PARAGRAPH_END>>
+<<PARAGRAPH>>1225 to 1275<<PARAGRAPH_END>>
+<<PARAGRAPH>>2, minimum,
+see to API 934-E for
+more details<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+1  1 / 4 Cr- 1 / 2 Mo
+all
+pressure vessels for service above
+825 °F (440 °C)
+1225 to 1275<<PARAGRAPH_END>>
+<<PARAGRAPH>>5A
+2  1 / 4 Cr-1Mo
+all
+for maximum tempering (creep)
+1300 to 1350
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>5A
+2  1 / 4 Cr-1Mo
+all
+for maximum high-temperature
+properties (toughness)
+1275 to 1325
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>heavy wall pressure vessels for
+high-temperature, high-pressure
+hydrogen service<<PARAGRAPH_END>>
+<<PARAGRAPH>>2, minimum,
+see API 934-A for
+more details<<PARAGRAPH_END>>
+<<PARAGRAPH>>5A
+2  1 / 4 Cr-1Mo
+all<<PARAGRAPH_END>>
+<<PARAGRAPH>>1250 to 1300<<PARAGRAPH_END>>
+<<PARAGRAPH>>5B
+5Cr- 1 / 2 Mo
+all
+all
+1325 to 1375
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>5B
+9Cr-1Mo
+all
+all
+1350 to 1400
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>15E
+9Cr-1Mo-V
+according to
+code
+all
+1375 to 1425
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>heavy wall pressure vessels for
+high-temperature, high-pressure
+hydrogen service<<PARAGRAPH_END>>
+<<PARAGRAPH>>8, minimum,
+see API 934-A for
+more details<<PARAGRAPH_END>>
+<<PARAGRAPH>>5C
+2  1 / 2 Cr-1Mo-V
+all<<PARAGRAPH_END>>
+<<PARAGRAPH>>1275 to 1325<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+martensitic
+stainless steels<<PARAGRAPH_END>>
+<<PARAGRAPH>>according to
+code
+all
+according to
+code  b
+2, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+ferritic stainless steels
+according to
+code
+all
+according to
+code
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+austenitic
+stainless steels<<PARAGRAPH_END>>
+<<PARAGRAPH>>according to
+code
+all
+according to
+code  c
+according to code<<PARAGRAPH_END>>
+<<PARAGRAPH>>9A
+1  1 / 2  to 2  1 / 2  Ni
+according to
+code
+all
+1100 to 1150
+1, minimum
+9B
+3  1 / 2  Ni<<PARAGRAPH_END>>
+<<PARAGRAPH>>10H
+duplex stainless steels
+according to
+code
+all
+according to
+code
+according to code<<PARAGRAPH_END>>
+<<PARAGRAPH>>11A
+8 Ni, 9 Ni
+according to
+code
+all
+according to
+code  d
+1, minimum<<PARAGRAPH_END>>
+<<PARAGRAPH>>45
+alloy, 800, 800H,
+800HT<<PARAGRAPH_END>>
+<<PARAGRAPH>>according to
+code
+all
+according to
+code
+according to code<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) For quenched and tempered or normalized and tempered materials, the PWHT holding temperature shall be at least 25 °F (15 °C) below the
+original tempering temperature of the base metal, unless the fabricator demonstrates that mechanical properties can be achieved at a higher
+PWHT temperature and holding time.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) For Type CA6NM material, a double tempering heat treatment is required. Initial heat treatment at 1225  ° F to 1275  ° F, followed by air cooling
+to ambient temperature, and second heat treatment at 1100  ° F to 1150  ° F and air cooling to ambient temperature.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) For Type 321 and Type 347 materials, postweld thermal stabilization may be specified at 1600  ° F to 1650  ° F for two to four hours.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) For 9 % Ni, the entire vessel, assembly, or plate must be at the PWHT holding temperature at the same time. The cooling rate from the
+holding temperature shall not be less than 300  ° F (167  ° C) per hour down to a temperature of 600  ° F (315  ° C). A local or partial PWHT
+cannot be used since this results in portions of the structure being in the embrittlement range of 600  ° F to 1000  ° F (315  ° C to 540  ° C) for
+extended periods of time, thereby impairing material toughness.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| P-No.                                                                                                                                             | Material Type             | Nominal        | Service Environment                | Holding       | Time at Holding      |
+|                                                                                                                                                   |                           | Thickness at   |                                    | Temperature   | Temperature          |
+|                                                                                                                                                   |                           | Weld           |                                    | (°F) a        | (hr)                 |
+|                                                                                                                                                   |                           | (in.)          |                                    |               |                      |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|:---------------|:-----------------------------------|:--------------|:---------------------|
+| 4                                                                                                                                                 | 1Cr-1/2Mo,                | all            | heavy wall pressure vessels for    | 1225 to 1275  | 2, minimum,          |
+|                                                                                                                                                   | 1 1/4Cr-1/2Mo             |                | high-pressure hydrogen service     |               | see to API 934-C for |
+|                                                                                                                                                   |                           |                | operating at or below              |               | more details         |
+|                                                                                                                                                   |                           |                | 825 °F (441 °C)                    |               |                      |
+| 4                                                                                                                                                 | 1 1/4Cr-1/2Mo             | all            | pressure vessels for service above | 1225 to 1275  | 2, minimum,          |
+|                                                                                                                                                   |                           |                | 825 °F (440 °C)                    |               | see to API 934-E for |
+|                                                                                                                                                   |                           |                |                                    |               | more details         |
+| 5A                                                                                                                                                | 2 1/4Cr-1Mo               | all            | for maximum tempering (creep)      | 1300 to 1350  | 2, minimum           |
+| 5A                                                                                                                                                | 2 1/4Cr-1Mo               | all            | for maximum high-temperature       | 1275 to 1325  | 2, minimum           |
+|                                                                                                                                                   |                           |                | properties (toughness)             |               |                      |
+| 5A                                                                                                                                                | 2 1/4Cr-1Mo               | all            | heavy wall pressure vessels for    | 1250 to 1300  | 2, minimum,          |
+|                                                                                                                                                   |                           |                | high-temperature, high-pressure    |               | see API 934-A for    |
+|                                                                                                                                                   |                           |                | hydrogen service                   |               | more details         |
+| 5B                                                                                                                                                | 5Cr-1/2Mo                 | all            | all                                | 1325 to 1375  | 2, minimum           |
+| 5B                                                                                                                                                | 9Cr-1Mo                   | all            | all                                | 1350 to 1400  | 2, minimum           |
+| 15E                                                                                                                                               | 9Cr-1Mo-V                 | according to   | all                                | 1375 to 1425  | 2, minimum           |
+|                                                                                                                                                   |                           | code           |                                    |               |                      |
+| 5C                                                                                                                                                | 2 1/2Cr-1Mo-V             | all            | heavy wall pressure vessels for    | 1275 to 1325  | 8, minimum,          |
+|                                                                                                                                                   |                           |                | high-temperature, high-pressure    |               | see API 934-A for    |
+|                                                                                                                                                   |                           |                | hydrogen service                   |               | more details         |
+| 6                                                                                                                                                 | martensitic               | according to   | all                                | according to  | 2, minimum           |
+|                                                                                                                                                   | stainless steels          | code           |                                    | code b        |                      |
+| 7                                                                                                                                                 | ferritic stainless steels | according to   | all                                | according to  | 1, minimum           |
+|                                                                                                                                                   |                           | code           |                                    | code          |                      |
+| 8                                                                                                                                                 | austenitic                | according to   | all                                | according to  | according to code    |
+|                                                                                                                                                   | stainless steels          | code           |                                    | code c        |                      |
+| 9A                                                                                                                                                | 1 1/2 to 2 1/2 Ni         | according to   | all                                | 1100 to 1150  | 1, minimum           |
+|                                                                                                                                                   |                           | code           |                                    |               |                      |
+| 9B                                                                                                                                                | 3 1/2 Ni                  |                |                                    |               |                      |
+| 10H                                                                                                                                               | duplex stainless steels   | according to   | all                                | according to  | according to code    |
+|                                                                                                                                                   |                           | code           |                                    | code          |                      |
+| 11A                                                                                                                                               | 8 Ni, 9 Ni                | according to   | all                                | according to  | 1, minimum           |
+|                                                                                                                                                   |                           | code           |                                    | code d        |                      |
+| 45                                                                                                                                                | alloy, 800, 800H,         | according to   | all                                | according to  | according to code    |
+|                                                                                                                                                   | 800HT                     | code           |                                    | code          |                      |
+| a) For quenched and tempered or normalized and tempered materials, the PWHT holding temperature shall be at least 25 °F (15 °C) below the         |                           |                |                                    |               |                      |
+| original tempering temperature of the base metal, unless the fabricator demonstrates that mechanical properties can be achieved at a highe r      |                           |                |                                    |               |                      |
+| PWHT temperature and holding time.                                                                                                                |                           |                |                                    |               |                      |
+| b) For Type CA6NM material, a double tempering heat treatment is required. Initial heat treatment at 1225 °F to 1275 °F, followed by air coolin g |                           |                |                                    |               |                      |
+| to ambient temperature, and second heat treatment at 1100 °F to 1150 °F and air cooling to ambient temperature.                                   |                           |                |                                    |               |                      |
+| c) For Type 321 and Type 347 materials, postweld thermal stabilization may be specified at 1600 °F to 1650 °F for two to four hours.              |                           |                |                                    |               |                      |
+| d) For 9 % Ni, the entire vessel, assembly, or plate must be at the PWHT holding temperature at the same time. The cooling rate from th e         |                           |                |                                    |               |                      |
+| holding temperature shall not be less than 300 °F (167 °C) per hour down to a temperature of 600 °F (315 °C). A local or partial PWHT             |                           |                |                                    |               |                      |
+| cannot be used since this results in portions of the structure being in the embrittlement range of 600 °F to 1000 °F (315 °C to 540 °C) for       |                           |                |                                    |               |                      |
+| extended periods of time, thereby impairing material toughness.                                                                                   |                           |                |                                    |               |                      |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>16
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>9.13  Local PWHT involving circumferential bands around piping or vessels shall be performed according to AWS
+D10.10 and WRC Bulletin 452, respectively.<<HEADING_END>>
+<<HEADING level=3>>9.14  Local spot PWHT (called a “bull’s eye”) on vessels or piping shall require approval of the purchaser.<<HEADING_END>>
+<<HEADING level=3>>10 Cleaning and Surface Preparation<<HEADING_END>>
+<<HEADING level=3>>10.1  The methods for cleaning base metal surfaces to be welded shall be specified in the WPS.<<HEADING_END>>
+<<HEADING level=3>>10.2  For equipment that will be coated following fabrication, the purchaser should specify the extent of any
+additional weld surface preparation requirements.<<HEADING_END>>
+<<HEADING level=3>>10.3  Welding shall not be performed when the base metal surface is wet or damp.<<HEADING_END>>
+<<HEADING level=3>>10.4  For double-welded joints, the backside of the joints shall be cleaned/gouged to sound metal.<<HEADING_END>>
+<<HEADING level=3>>10.5  All slag shall be removed from the backside of each completed austenitic stainless steel or nickel-base alloy
+weld, unless otherwise permitted by the purchaser.<<HEADING_END>>
+<<PARAGRAPH>>10.6  Aluminum flake weld-through primers may be used for weld joint surface protection. The WPS should indicate
+the weld-through primer by type and brand. The use of other types of weld-through primers or coatings is not
+permitted, unless approved by the purchaser, and the purchaser may require additional procedure qualifications or
+weldability tests.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.7  Carbon steel wire brushes or other tools shall not be used on stainless steel, duplex or super duplex stainless
+steels, or non-ferrous materials, nor shall brushes or tools be used that have been previously used on carbon or low-
+alloy steel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.8  If carbon-arc cutting or gouging are used on austenitic stainless steels, the surface must be ground to a bright
+surface finish. Carbon-arc cutting or gouging is prohibited on duplex or super duplex stainless steels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Poor gouging technique can allow localized spots to absorb carbon. These spots are prone to sensitization and can
+result in a pit initiation site.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.9  For 9 % nickel material, machine or grind thermally cut edges to remove dross and burn serrations.<<HEADING_END>>
+<<HEADING level=3>>11 Special Procedure Qualification Requirements/Testing<<HEADING_END>>
+<<HEADING level=3>>11.1 General<<HEADING_END>>
+<<HEADING level=3>>11.1.1  PQRs for all welding processes shall include the results of any additional tests, when specified. Some
+examples are as follows.<<HEADING_END>>
+<<PARAGRAPH>>a) Hardness Testing—Record hardness results and location (e.g. weld metal, HAZ, and base metal).<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Impact Testing—Record the absorbed energy values with test temperature, specimen size, percent shear and
+lateral expansion (when required) for specified notch locations (e.g. weld metal and HAZ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.1.2  When specified by the purchaser, mockups simulating production conditions shall be performed whenever
+the accessibility and restraint of the code qualification coupon fails to simulate production conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.1.3  For special applications determined by the purchaser, such as, but not limited to severe corrosion service or
+high-temperature service, special qualification tests, such as stress corrosion cracking or temper embrittlement tests,
+may be specified.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+17<<PARAGRAPH_END>>
+<<HEADING level=3>>11.2 Tube-to-tubesheet Welding<<HEADING_END>>
+<<PARAGRAPH>>11.2.1  For all tube-to-tubesheet designs where the weld is the fundamental strength or pressure-containing
+element, WPSs shall be qualified and tested in accordance with ASME  BPVC  Section IX, QW-193, and QW-288. The
+vendor shall submit a complete fabrication plan (including assembly, cleaning, weld preparation, rolling and testing) to
+the purchaser for approval.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.2.2  WPSs for seal welding of tube-to-tubesheets shall be qualified in accordance with ASME  BPVC  Section IX,
+QW-202.6a, b, or c.<<HEADING_END>>
+<<HEADING level=3>>11.3 Additional Procedure Qualification Requirements for Duplex and Super Duplex Stainless
+Steels<<HEADING_END>>
+<<HEADING level=3>>11.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>Procedure qualifications shall be done on duplex and super duplex stainless steel base metals of the same UNS
+number as to be used in production and according to the following requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   These requirements do not apply to material that will be solution annealed.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.2 Thickness and Heat Input<<HEADING_END>>
+<<HEADING level=3>>11.3.2.1  The minimum and maximum qualified weld thickness ( t ) shall be as follows:<<HEADING_END>>
+<<PARAGRAPH>>a) For  t  < or =  5 / 8  in. (16 mm), the minimum qualified thickness shall be the thickness of the qualification test coupon
+(T) and the maximum qualified thickness shall be 2T, up to a maximum of  5 / 8  in. (16 mm).<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) For  t  >  5 / 8  in. (16 mm), but < 1- 1 / 8  in. (29 mm), the minimum and maximum qualified thicknesses may be qualified
+by qualification test coupons within this range.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) For  t  > or = 1- 1 / 8  in. (29 mm), the minimum qualified thickness is T and the maximum qualified thickness shall be
+1.2T.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.3.2.2  The heat input shall not exceed the maximum used during procedure qualification. The minimum heat input
+qualified shall be the higher of 0.5 kJ/mm (12.7 kJ/in.) or 50 % of the maximum used on the PQR. See ASME  BPVC
+Section IX, QW-409.1(c) and Appendix H for waveform-controlled welding.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.3 Welding Position<<HEADING_END>>
+<<PARAGRAPH>>For manual and semi-automatic welding, the procedure shall be qualified in the 3G, 5G, or 6G positions. Vertical weld
+progression shall be uphill.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.4 Ferrite to Austenite Ratio<<HEADING_END>>
+<<PARAGRAPH>>11.3.4.1  Measurement of the ferrite to austenite content in the deposited weld metal and heat affected zone (HAZ)
+shall be performed according to ASTM E562 and at a magnification of 400X, or greater. The number of fields and
+points per sampled area shall be in agreement with the guidance displayed in the 10 % relative accuracy column in
+ASTM E562, Table 3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As a guideline, magnification should be based on the initial determination of the sample areas to be tested to ensure
+that the microstructure can be clearly resolved without having adjacent grid points fall over the same constituent
+feature. A 100-point grid mapped over 10 fields in a target area (weld/HAZ) may be considered sufficient for material
+with 30 %, or greater, ferrite content.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>18
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.4.2  The following three areas shall be evaluated for ferrite/austenite and reported in the PQR:<<HEADING_END>>
+<<PARAGRAPH>>a) root pass,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) mid-thickness,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) cover pass (this is to be used as a reference for the test required on production welds).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ferrite content shall be measured in each location using both the point count method and ferrite scope. The ferrite
+scope testing at each location shall consist of 5 readings averaged using a ferrite scope calibrated in accordance with
+AWS A4.2M. The ferrite scope Ferrite Number (FN) readings are to be used as a reference during ferrite testing of
+production welds.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.4.3  Ferrite content shall be within the following ranges:<<HEADING_END>>
+<<PARAGRAPH>>a) weld metal—30 % to 65 %,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) HAZ—40 % to 65 %,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) base metal—40 % to 60 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  Ferrite content down to 25 % may be acceptable for the weld metal if corrosion or other tests are satisfactory to the
+purchaser. When a nickel alloy consumable is used, the ferrite content in the weld deposit is not required to be tested.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  To convert from ferrite % to FN, the following can be used: For 22 % Cr duplex stainless steel, ferrite % = 0.7  ×  FN; For
+25 % Cr duplex and super duplex stainless steels, ferrite % = 0.65  ×  FN.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.5 Hardness Testing<<HEADING_END>>
+<<HEADING level=3>>11.3.5.1  For duplex stainless steel, the maximum allowable hardness is 320 HV10.<<HEADING_END>>
+<<HEADING level=3>>11.3.5.2  For super duplex stainless steel, the maximum allowable hardness is 350 HV10.<<HEADING_END>>
+<<HEADING level=3>>11.3.6 Corrosion and Impact Testing<<HEADING_END>>
+<<HEADING level=3>>11.3.6.1 General<<HEADING_END>>
+<<PARAGRAPH>>Either the corrosion or impact test described below shall be performed on the PQR sample.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   The corrosion test is more sensitive and should be required for critical applications, as determined by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.6.2 Corrosion Test<<HEADING_END>>
+<<PARAGRAPH>>a) One test specimen that includes the weld, HAZ, and base metal shall be removed from each procedure
+qualification test coupon and tested in accordance with ASTM A923, Method C (for duplex and super duplex
+stainless steels), and examined at 20 ×  magnification. Acceptance criteria shall be per ASTM A923, except that no
+pitting is allowed. The Rapid Screening Test method per ASTM A923 is not permitted.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Third-party laboratories used for testing shall have prior experience with duplex stainless steel testing using ASTM
+G48 Method A or ASTM A923, Method C. The vendor shall submit the laboratory name and qualifications to the
+owner to be used for qualification and production testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) If the test results do not meet the acceptance criteria, then a new specimen may be taken and retested. The
+owner must be notified before proceeding with retesting.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+19<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.6.3 Impact Test<<HEADING_END>>
+<<PARAGRAPH>>a) Impact tests shall be performed in accordance with ASME  BPVC , Section VIII requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) For Charpy V notch impact tests of the weld metal and HAZ, three specimens for each location are required. The
+following values for grade UNS S32205 are required for full-size specimens.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) Weld metal: 25 ft-lb (34 J), average and 20 ft-lb (27 J), minimum at –40 °F (–40 °C),<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) HAZ: 40 ft-lb (54 J), average and 32 ft-lb (43 J), minimum at –40 °F (–40 °C).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Acceptance values for other grades of duplex stainless steel shall be agreed upon with the owner’s engineer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) The orientation of standard size specimens shall be per the governing code. If the specimen orientation is not
+specified, the orientation shall be per ASME  BPVC , Section VIII Div. 1, UG84. In addition, the weld metal impact
+specimen shall be removed from the T/2 (mid-wall) position. Furthermore, the HAZ impact specimen location may
+need to be adjusted to ensure the notch is completely in the HAZ, but should be as close as feasible to the T/2
+position.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) The lateral expansion shall be 0.015 in. (0.38 mm), minimum.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3.7 Tube-to-tubesheet Joints<<HEADING_END>>
+<<PARAGRAPH>>11.3.7.1  In addition to the macro-examination required by ASME  BPVC  Section IX, QW-193, the microstructure and
+ferrite content of one randomly selected weld section shall be assessed using the procedures detailed in 11.3.4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.3.7.2  Hardness (HV10) readings shall be taken in the weld deposit and tubesheet base metal, and HV5 readings
+shall be taken in the HAZ. A minimum of 6 readings shall be taken on each of the tube-to-tubesheet joints prepared
+for metallography. Hardness shall not be above 320 HV on duplex grades and shall not be above 350 HV for super
+duplex grades.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.3.7.3  When required by the purchaser for standard and 25 % Cr grades, a quadrant section of a tube-to-
+tubesheet weld shall be corrosion tested in accordance with 11.3.6.2. No pitting is allowed. This does not apply to
+dissimilar tube-to-tubesheet welds.<<PARAGRAPH_END>>
+<<HEADING level=3>>12 Other Items<<HEADING_END>>
+<<HEADING level=3>>12.1 Backing Materials<<HEADING_END>>
+<<PARAGRAPH>>Where metallic backing material is permitted, the P-No., or its nominal chemical composition shall be specified in the
+WPS and/or the applicable fabrication drawing. For joints between similar materials, the chemical composition of
+backing materials shall match the nominal base metal chemical composition.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.2 Peening<<HEADING_END>>
+<<PARAGRAPH>>Peening is permitted only with the approval of the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3 Weld Overlay and Clad Restoration (Back Cladding)<<HEADING_END>>
+<<HEADING level=3>>12.3.1  Weld overlays shall be qualified in accordance with ASME  BPVC  Section IX.<<HEADING_END>>
+<<HEADING level=3>>12.3.2  WPSs for weld overlay shall include the chemical composition/composition ranges of the major elements for
+the particular alloy (see Annex B).<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>20
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>12.3.3  Single-sided welding of clad or weld overlaid material shall be qualified using clad or overlaid materials.<<HEADING_END>>
+<<HEADING level=3>>12.3.4  Annex B provides detailed requirements (e.g. production chemical composition sampling) and guidelines for
+performing weld overlay and clad restoration (back cladding).<<HEADING_END>>
+<<HEADING level=3>>12.4 Temporary Attachments<<HEADING_END>>
+<<PARAGRAPH>>Temporary attachments welded to the base metal shall be compatible with the base metal and welded in accordance
+with a qualified weld procedure. Temporary attachments shall be removed by gouging or grinding and the base metal
+restored to its original condition before final heat treatment (if required), pressure testing, and final acceptance. The
+base metal shall be inspected with MT or PT upon removal of the attachment.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5 Stud Welding<<HEADING_END>>
+<<PARAGRAPH>>12.5.1  Automatically timed arc and resistance stud welding for attaching load-carrying studs shall be per UW-27,
+UW-28, and UW-29 of ASME  BPVC  Section VIII, Division 1 or AWS D1.1, Section 7 for structural attachment. A
+production test sample of at least five consecutively welded studs shall be tested at the beginning of each shift and
+after performing maintenance operations on the stud welding equipment. Note that adjustments might be necessary
+due to increased power draw during the shift.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.5.2  Automatically timed arc and resistance stud welding for attaching non-load-carrying studs (such as extended
+heat transfer surfaces and insulation attachment pins) shall be qualified on materials having the same nominal
+chemistries as the production welds and a WPS shall be prepared. A production test sample of at least five
+consecutively welded studs shall be tested at the beginning of each shift and after performing maintenance
+operations on automatic equipment.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.3  Production welds shall be bend or hammer tested in accordance with ASME  BPVC  Section IX, QW-192.
+When permitted by the purchaser, joints with less than 100 % fusion may be accepted.<<HEADING_END>>
+<<HEADING level=3>>12.6 Hardness Testing—Weld Procedure Qualification and Production Testing<<HEADING_END>>
+<<HEADING level=3>>12.6.1  When specified by the purchaser, hardness testing shall be performed in accordance with the latest edition of
+NACE MR0103 or NACE MR0175/ISO 15156.<<HEADING_END>>
+<<HEADING level=3>>12.6.2  Hardness testing results shall comply with the latest edition of NACE SP0472 and NACE MR0103.<<HEADING_END>>
+<<HEADING level=3>>12.7 Single-pass Welds<<HEADING_END>>
+<<PARAGRAPH>>Single-pass welds are not permitted, unless approved by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.8 Additional Production Requirements for Welding Duplex and Super Duplex Stainless Steel<<HEADING_END>>
+<<PARAGRAPH>>12.8.1  ASME  BPVC  Section VIII, Division 1 Required Production Test Plates: Each heat of plate used to fabricate
+shell and head segments shall be subjected to production testing. Test plates shall be made from the same heat as
+the base material and installed as run-off tabs at the end of longitudinal weld seams. The test plate shall be of
+sufficient size to equal the cooling gradient of the component. The samples shall be subjected to ferrite-to-austenite
+ratio testing as required in 11.3.4 and impact testing as required in 11.3.6.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.8.2  Pressure boundary welds shall have ferrite measurements made by using a ferrite scope calibrated in
+accordance with AWS A4.2M. A total of five (5) measurements shall be taken in the center of each weld cap and, if
+accessible, the root pass. Welds made from each weld procedure, welder, and heat/lot of filler metal shall be tested.
+The weld cap and root pass shall be prepared as recommended by the manufacturer of the testing instrument. The
+acceptance criteria shall be per 11.3.4.3.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+21<<PARAGRAPH_END>>
+<<HEADING level=3>>12.8.3  Whenever ferrite testing is required for production welds, the number of tests shall be as follows:<<HEADING_END>>
+<<PARAGRAPH>>a) For piping, each weld shall be tested and the number of tests for circumferential welds shall be as follows: for NPS
+up to 24, two (2) ferrite tests; for NPS 26 through NPS 36, three (3) ferrite tests; and for NPS 38 and larger, four (4)
+ferrite tests.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) For equipment, the main pressure-retaining welds should be tested at least once in every 10 ft. (3.0 m) of linear
+weld. Nozzle connection welds should have one (1) test per weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) See 11.3.4.1 for further details on ferrite measurements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>12.8.4  Hardness tests in the weld metal and base metal are required on the greater of  1 / 3  of all welded joints or one
+spot per 50 ft. (15.2 m) of weld. The maximum permitted hardness shall be per 11.3.5.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<HEADING level=2>>Annex A
+(informative)<<HEADING_END>>
+<<HEADING level=2>>Welding Consumables for Shielded Metal Arc Welding (SMAW)<<HEADING_END>>
+<<PARAGRAPH>>Table A.1, Table A.2, Table A.3, and Table A.4 provide generally accepted electrode selections for the base materials
+shown. They do not attempt to include all possible choices. Welding consumables not shown for a particular
+combination of base materials shall be approved by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>22<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+23<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.1—Carbon and Low-alloy Steel<<HEADING_END>>
+<<HEADING level=3>>Carbon-molybdenum Steel<<HEADING_END>>
+<<HEADING level=3>>1 and 1  1 / 4  Cr-1/2 Mo Steel<<HEADING_END>>
+<<HEADING level=3>>2  1 / 4  Cr-1 Mo Steel<<HEADING_END>>
+<<HEADING level=3>>2  1 / 4  Nickel Steel<<HEADING_END>>
+<<HEADING level=3>>3  1 / 2  Nickel Steel<<HEADING_END>>
+<<HEADING level=3>>5 Cr- 1 / 2  Mo Steel<<HEADING_END>>
+<<HEADING level=3>>9 % Nickel Steel<<HEADING_END>>
+<<HEADING level=3>>9 Cr-1 Mo Steel<<HEADING_END>>
+<<HEADING level=3>>Carbon Steel<<HEADING_END>>
+<<HEADING level=3>>Base Material
+(see Notes 1, 2, and 4)<<HEADING_END>>
+<<PARAGRAPH>>Carbon steel
+AB
+(see Note 3)
+AC
+AD
+ADE
+ADEF
+ADEFH
+AJ
+AK
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>Carbon-molybdenum steel
+C
+CD
+CDE
+CDE
+CDEFH
+*
+*
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 and 1  1 / 4  Cr- 1 / 2  Mo steel
+D
+DE
+DEF
+DEFH
+*
+*
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 / 4  Cr-1 Mo steel
+E
+EF
+EFH
+(see Note 4)
+*
+*
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>5 Cr- 1 / 2  Mo steel
+F
+FH
+*
+*
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>9 Cr-1 Mo steel
+H
+(see Note 4)
+*
+*
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>2  1 / 4  nickel steel
+J
+JK
+LM<<PARAGRAPH_END>>
+<<PARAGRAPH>>3  1 / 2  nickel steel
+K
+LM<<PARAGRAPH_END>>
+<<PARAGRAPH>>9 % nickel steel
+LM<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>A
+ASME/AWS SFA/A 5.1, Classification E70XX low hydrogen (see Note 5).<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+ASME/AWS SFA/A 5.1, Classification E6010 for root pass (see Note 5).<<PARAGRAPH_END>>
+<<PARAGRAPH>>C ASME/AWS SFA/A 5.5, Classification E70XX-A1, low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>D ASME/AWS SFA/A 5.5, Classification E70XX-B2L (see Note 6) or E80XX-B2, low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+ASME/AWS SFA/A 5.5, Classification E80XX-B3L (see Note 6) or E90XX-B3, low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F
+ASME/AWS SFA/A 5.5, Classification E80XX-B6 or E80XX-B6L (see Note 6), low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>H ASME/AWS SFA/A 5.5, Classification E80XX-B8 or E80XX-B8L (see Note 6), low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>J
+ASME/AWS SFA/A 5.5, Classification E80XX-C1 or E70XX-C1L, low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>K
+ASME/AWS SFA/A 5.5, Classification E80XX-C2 or E70XXC2L, low hydrogen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+ASME/AWS SFA/A 5.11, Classification ENiCrMo-3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>M ASME/AWS SFA/A 5.11, Classification ENiCrMo-6, ENiCrFe-4, ENiCrFe-9, ENiCrMo-3, ENiCrMo-4, ENiCrMo-10, ENiMo-8, or ENiMo-9.<<PARAGRAPH_END>>
+<<PARAGRAPH>>*
+An unlikely or unsuitable combination. Consult the owner’s engineer if this combination is needed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  This table refers to coated electrodes. For bare and cored wire welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode
+classifications (ASME/AWS SFA/A5.14, SFA/A5.17, SFA/A5.18, SFA/A5.20, SFA/A5.23, SFA/A5.28, SFA/A5.29, SFA/A5.34). Refer to the text for
+information on other processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  Higher alloy electrode specified in the table should normally be used to meet the required tensile strength or toughness after PWHT.
+The lower alloy electrode specified may be required in some applications to meet weld metal hardness requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 3  Other E60XX and E70XX welding electrodes may be used if approved by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 4  This table does not cover modified versions of Cr-Mo alloys.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 5  See 6.1.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 6  PWHT can cause the strength of these filler metals to drop below minimum requirements. Care should be taken to ensure adequate
+strength in the PWHT condition.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Base Material                                                                                                                               | leetS        | leetS               | leetS    | leetS   | leetS    | leetS        | leetS    | leetS    | leetS    |
+| (see Notes 1, 2, and 4)                                                                                                                     | nobraC       | munedbylom-nobraC   | oM       | oM      | oM       | oM           | lekciN   | lekciN   | lekciN   |
+|                                                                                                                                             |              |                     | 2/1-rC   | 1-rC    | 2/1-rC   | 1-rC         | 4/1      | 2/1      | %        |
+|                                                                                                                                             |              |                     | 4/1      | 4/1     | 5        | 9            | 2        | 3        | 9        |
+|                                                                                                                                             |              |                     | 1        | 2       |          |              |          |          |          |
+|                                                                                                                                             |              |                     | dna      |         |          |              |          |          |          |
+|                                                                                                                                             |              |                     | 1        |         |          |              |          |          |          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:--------------------|:---------|:--------|:---------|:-------------|:---------|:---------|:---------|
+| Carbon steel                                                                                                                                | AB           | AC                  | AD       | ADE     | ADEF     | ADEFH        | AJ       | AK       | *        |
+|                                                                                                                                             | (see Note 3) |                     |          |         |          |              |          |          |          |
+| Carbon-molybdenum steel                                                                                                                     |              | C                   | CD       | CDE     | CDE      | CDEFH        | *        | *        | *        |
+| 1 and 1 1/4 Cr-1/2 Mo steel                                                                                                                 |              |                     | D        | DE      | DEF      | DEFH         | *        | *        | *        |
+| 1/4 Cr-1 Mo steel                                                                                                                           |              |                     |          | E       | EF       | EFH          | *        | *        | *        |
+|                                                                                                                                             |              |                     |          |         |          | (see Note 4) |          |          |          |
+| 5 Cr-1/2 Mo steel                                                                                                                           |              |                     |          |         | F        | FH           | *        | *        | *        |
+| 9 Cr-1 Mo steel                                                                                                                             |              |                     |          |         |          | H            | *        | *        | *        |
+|                                                                                                                                             |              |                     |          |         |          | (see Note 4) |          |          |          |
+| 2 1/4 nickel steel                                                                                                                          |              |                     |          |         |          |              | J        | JK       | LM       |
+| 3 1/2 nickel steel                                                                                                                          |              |                     |          |         |          |              |          | K        | LM       |
+| 9 % nickel steel                                                                                                                            |              |                     |          |         |          |              |          |          | LM       |
+| Key                                                                                                                                         |              |                     |          |         |          |              |          |          |          |
+| A ASME/AWS SFA/A 5.1, Classification E70XX low hydrogen (see Note 5).                                                                       |              |                     |          |         |          |              |          |          |          |
+| B ASME/AWS SFA/A 5.1, Classification E6010 for root pass (see Note 5).                                                                      |              |                     |          |         |          |              |          |          |          |
+| C ASME/AWS SFA/A 5.5, Classification E70XX-A1, low hydrogen.                                                                                |              |                     |          |         |          |              |          |          |          |
+| D ASME/AWS SFA/A 5.5, Classification E70XX-B2L (see Note 6) or E80XX-B2, low hydrogen.                                                      |              |                     |          |         |          |              |          |          |          |
+| E ASME/AWS SFA/A 5.5, Classification E80XX-B3L (see Note 6) or E90XX-B3, low hydrogen.                                                      |              |                     |          |         |          |              |          |          |          |
+| F ASME/AWS SFA/A 5.5, Classification E80XX-B6 or E80XX-B6L (see Note 6), low hydrogen.                                                      |              |                     |          |         |          |              |          |          |          |
+| H ASME/AWS SFA/A 5.5, Classification E80XX-B8 or E80XX-B8L (see Note 6), low hydrogen.                                                      |              |                     |          |         |          |              |          |          |          |
+| J ASME/AWS SFA/A 5.5, Classification E80XX-C1 or E70XX-C1L, low hydrogen.                                                                   |              |                     |          |         |          |              |          |          |          |
+| K ASME/AWS SFA/A 5.5, Classification E80XX-C2 or E70XXC2L, low hydrogen.                                                                    |              |                     |          |         |          |              |          |          |          |
+| L ASME/AWS SFA/A 5.11, Classification ENiCrMo-3.                                                                                            |              |                     |          |         |          |              |          |          |          |
+| M ASME/AWS SFA/A 5.11, Classification ENiCrMo-6, ENiCrFe-4, ENiCrFe-9, ENiCrMo-3, ENiCrMo-4, ENiCrMo-10, ENiMo-8, or ENiMo-9.               |              |                     |          |         |          |              |          |          |          |
+| * An unlikely or unsuitable combination. Consult the owner’s engineer if this combination is needed.                                        |              |                     |          |         |          |              |          |          |          |
+| NOTE 1 This table refers to coated electrodes. For bare and cored wire welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode            |              |                     |          |         |          |              |          |          |          |
+| classifications (ASME/AWS SFA/A5.14, SFA/A5.17, SFA/A5.18, SFA/A5.20, SFA/A5.23, SFA/A5.28, SFA/A5.29, SFA/A5.34). Refer to the text fo r   |              |                     |          |         |          |              |          |          |          |
+| information on other processes.                                                                                                             |              |                     |          |         |          |              |          |          |          |
+| NOTE 2 Higher alloy electrode specified in the table should normally be used to meet the required tensile strength or toughness after PWHT. |              |                     |          |         |          |              |          |          |          |
+| The lower alloy electrode specified may be required in some applications to meet weld metal hardness requirements.                          |              |                     |          |         |          |              |          |          |          |
+| NOTE 3 Other E60XX and E70XX welding electrodes may be used if approved by the purchaser.                                                   |              |                     |          |         |          |              |          |          |          |
+| NOTE 4 This table does not cover modified versions of Cr-Mo alloys.                                                                         |              |                     |          |         |          |              |          |          |          |
+| NOTE 5 See 6.1.3.                                                                                                                           |              |                     |          |         |          |              |          |          |          |
+| NOTE 6 PWHT can cause the strength of these filler metals to drop below minimum requirements. Care should be taken to ensure adequate       |              |                     |          |         |          |              |          |          |          |
+| strength in the PWHT condition.                                                                                                             |              |                     |          |         |          |              |          |          |          |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<PARAGRAPH>>24
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.2—Stainless Steel Alloys<<HEADING_END>>
+<<HEADING level=3>>Type 304H Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 347H Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 410S Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 304L Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 316L Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 317L Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 405 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 410 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 304 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 310 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 316 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 321 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Type 347 Stainless Steel<<HEADING_END>>
+<<HEADING level=3>>Base Material
+(see Notes 1, 2, and 3)<<HEADING_END>>
+<<PARAGRAPH>>Carbon and low-alloy steel
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 405 stainless steel
+ABC
+ABC
+ABC
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 410S stainless steel
+ABC
+ABC
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 410 stainless steel
+ABC
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 304 stainless steel
+D
+DH
+DJ
+A
+DF
+DGH
+DI
+DE
+DE
+DE<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 304L stainless steel
+H
+DHJ
+A
+DF
+GH
+HI
+DE
+DE
+DE<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 304H stainless steel
+(see Note 5)
+J
+A
+DFJ
+DGHJ
+DIJ
+DEJ
+EJ
+EJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 310 stainless steel
+K
+AK
+A
+A
+A
+A
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 316 stainless steel
+F
+FG
+FI
+EF
+EF
+EF<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 316L stainless steel
+G
+GI
+EG
+EG
+EG<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 317L stainless steel
+I
+EI
+EI
+EI<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+(see
+Note 1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 321 stainless steel<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+E<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 347 stainless steel
+E
+E<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type 347H stainless steel
+(see Note 5)
+E<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>A
+ASME/AWS SFA/A 5.4, Classifications E309-XX or E309L-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+ASME/AWS SFA/A 5.11, Classification ENiCrFe-2 or -3 or ENiCrMo-3 (see Note 4).<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+ASME/AWS SFA/A 5.4, Classification E410-XX (0.05 % C max.) (heat treatment at 1400 °F required).<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+ASME/AWS SFA/A 5.4, Classification E308-XX or E308L-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+ASME/AWS SFA/A 5.4, Classification E347-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F
+ASME/AWS SFA/A 5.4, Classification E316-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>G
+ASME/AWS SFA/A 5.4, Classification E316L-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>H
+ASME/AWS SFA/A 5.4, Classification E308L-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+ASME/AWS SFA/A 5.4, Classification E317L-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>J
+ASME/AWS SFA/A 5.4, Classification E308H-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>K
+ASME/AWS SFA/A 5.4, Classification E310-XX.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  This table refers to coated electrodes. For bare wire or cored welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode
+classifications (ASME/AWS SFA/A 5.9, SFA/A5.14, SFA/A5.22, SFA/A5.34). Refer to the text for information on other processes. Either ER347
+or ER321 may be used for GTAW or PAW of Type 321 stainless steel.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  The higher alloy electrode specified in the table is normally preferred.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 3  See Section 6 weld metal delta ferrite requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 4  See 6.2.2 for the temperature limitation for nickel-base filler metals.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 5  E16-8-2 is often specified when the weld deposit will be exposed to high creep strains where sigma phase may affect performance.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Base Material                                                                                                                             | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       | leetS       |
+| (see Notes 1, 2, and 3)                                                                                                                   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   | sselniatS   |
+|                                                                                                                                           | 504         | S014        | 014         | 403         | L403        | H403        | 013         | 613         | L613        | L713        | 123         | 743         | H743        |
+|                                                                                                                                           | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        | epyT        |
+|:------------------------------------------------------------------------------------------------------------------------------------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|
+| Carbon and low-alloy steel                                                                                                                | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          |
+| Type 405 stainless steel                                                                                                                  | ABC         | ABC         | ABC         | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          |
+| Type 410S stainless steel                                                                                                                 |             | ABC         | ABC         | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          |
+| Type 410 stainless steel                                                                                                                  |             |             | ABC         | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          | AB          |
+| Type 304 stainless steel                                                                                                                  |             |             |             | D           | DH          | DJ          | A           | DF          | DGH         | DI          | DE          | DE          | DE          |
+| Type 304L stainless steel                                                                                                                 |             |             |             |             | H           | DHJ         | A           | DF          | GH          | HI          | DE          | DE          | DE          |
+| Type 304H stainless steel                                                                                                                 |             |             |             |             |             | J           | A           | DFJ         | DGHJ        | DIJ         | DEJ         | EJ          | EJ          |
+| (see Note 5)                                                                                                                              |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| Type 310 stainless steel                                                                                                                  |             |             |             |             |             |             | K           | AK          | A           | A           | A           | A           | A           |
+| Type 316 stainless steel                                                                                                                  |             |             |             |             |             |             |             | F           | FG          | FI          | EF          | EF          | EF          |
+| Type 316L stainless steel                                                                                                                 |             |             |             |             |             |             |             |             | G           | GI          | EG          | EG          | EG          |
+| Type 317L stainless steel                                                                                                                 |             |             |             |             |             |             |             |             |             | I           | EI          | EI          | EI          |
+| Type 321 stainless steel                                                                                                                  |             |             |             |             |             |             |             |             |             |             | E           | E           | E           |
+|                                                                                                                                           |             |             |             |             |             |             |             |             |             |             | (see        |             |             |
+|                                                                                                                                           |             |             |             |             |             |             |             |             |             |             | Note 1)     |             |             |
+| Type 347 stainless steel                                                                                                                  |             |             |             |             |             |             |             |             |             |             |             | E           | E           |
+| Type 347H stainless steel                                                                                                                 |             |             |             |             |             |             |             |             |             |             |             |             | E           |
+| (see Note 5)                                                                                                                              |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| Key                                                                                                                                       |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| A ASME/AWS SFA/A 5.4, Classifications E309-XX or E309L-XX.                                                                                |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| B ASME/AWS SFA/A 5.11, Classification ENiCrFe-2 or -3 or ENiCrMo-3 (see Note 4).                                                          |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| C ASME/AWS SFA/A 5.4, Classification E410-XX (0.05 % C max.) (heat treatment at 1400 °F required).                                        |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| D ASME/AWS SFA/A 5.4, Classification E308-XX or E308L-XX.                                                                                 |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| E ASME/AWS SFA/A 5.4, Classification E347-XX.                                                                                             |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| F ASME/AWS SFA/A 5.4, Classification E316-XX.                                                                                             |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| G ASME/AWS SFA/A 5.4, Classification E316L-XX.                                                                                            |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| H ASME/AWS SFA/A 5.4, Classification E308L-XX.                                                                                            |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| I ASME/AWS SFA/A 5.4, Classification E317L-XX.                                                                                            |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| J ASME/AWS SFA/A 5.4, Classification E308H-XX.                                                                                            |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| K ASME/AWS SFA/A 5.4, Classification E310-XX.                                                                                             |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| NOTE 1 This table refers to coated electrodes. For bare wire or cored welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode           |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| classifications (ASME/AWS SFA/A 5.9, SFA/A5.14, SFA/A5.22, SFA/A5.34). Refer to the text for information on other processes. Either ER347 |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| or ER321 may be used for GTAW or PAW of Type 321 stainless steel.                                                                         |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| NOTE 2 The higher alloy electrode specified in the table is normally preferred.                                                           |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| NOTE 3 See Section 6 weld metal delta ferrite requirements.                                                                               |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| NOTE 4 See 6.2.2 for the temperature limitation for nickel-base filler metals.                                                            |             |             |             |             |             |             |             |             |             |             |             |             |             |
+| NOTE 5 E16-8-2 is often specified when the weld deposit will be exposed to high creep strains where sigma phase may affect performance.   |             |             |             |             |             |             |             |             |             |             |             |             |             |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+25<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.3—Duplex Stainless Steels<<HEADING_END>>
+<<HEADING level=3>>Base
+Metals
+Duplex Alloys
+Undermatched Alloys
+Overmatched Alloys<<HEADING_END>>
+<<HEADING level=3>>S31803
+S32205
+J92205<<HEADING_END>>
+<<HEADING level=3>>P8
+(TP
+304)<<HEADING_END>>
+<<HEADING level=3>>P8
+(TP
+316)<<HEADING_END>>
+<<HEADING level=3>>P8
+(TP 254
+SMO)<<HEADING_END>>
+<<HEADING level=3>>S32550
+S32760
+J93380
+S32750
+S39274
+P1-P5<<HEADING_END>>
+<<HEADING level=3>>P43
+(IN 625)<<HEADING_END>>
+<<HEADING level=3>>P45
+(IN 825)<<HEADING_END>>
+<<HEADING level=3>>UNS
+S32304<<HEADING_END>>
+<<PARAGRAPH>>S32304
+A-DF
+A-DF
+A-DF
+A-DF
+A-DF
+A-DF
+AEF
+AEF
+AF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<PARAGRAPH>>S31803<<PARAGRAPH_END>>
+<<PARAGRAPH>>A-D
+A-D
+A-D
+A-D
+A-D
+AEF
+AEF
+AF
+GH
+GH
+GH
+S32205<<PARAGRAPH_END>>
+<<PARAGRAPH>>J92205
+A-D
+A-D
+A-D
+A-D
+A-D
+AEF
+AEF
+AF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<PARAGRAPH>>S32550
+B-D
+B-D
+B-D
+B-D
+ABEF
+ABEF
+ABF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<PARAGRAPH>>S32760
+CDGH
+CDGH
+CDGH
+A-DEF
+A-DEF
+A-DF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<PARAGRAPH>>J93380
+CDGH
+CDGH
+CDGH
+A-DEF
+A-DEF
+A-DF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<PARAGRAPH>>S32750
+CDGH
+CDGH
+A-DEF
+A-DEF
+A-DF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<PARAGRAPH>>S39274
+CDGH
+A-DEF
+A-DEF
+A-DF
+GH
+GH
+GH<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>A
+ASME SFA 5.4, Classification E2209—duplex filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+ASME SFA 5.4, Classification E2553—duplex filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+ASME SFA 5.4, Classification E2594—duplex filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+DP3W (unclassified)—duplex filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+ASME SFA 5.4, Classification E309L—high-alloy austenitic filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F
+ASME SFA 5.4, Classification E309LMo—high-alloy austenitic filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>G
+ASME SFA 5.11, Classification ENiCrMo-10—nickel-base filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>H
+ASME SFA 5.11, Classification ENiCrMo-14—nickel-base filler material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  This table refers to coated electrodes. For bare and cored wire welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode
+classification (ASME/AWS SFA/A5.9, SFA/A5.14, SFA/A5.22, and SFA/A5.34). Refer to the text for information on other processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  At times, ENiCrMo-10, ENiCrMo-13, and ENiCrMo-14 are used for duplex and super duplex weld joints when severe corrosion is
+anticipated.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Base                                                                                                                              | Duplex Alloys   |        |        |        |        |        | Undermatched Alloys   |       |      | Overmatched Alloys   |          |          |
+| Metals                                                                                                                            |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+|:----------------------------------------------------------------------------------------------------------------------------------|:----------------|:-------|:-------|:-------|:-------|:-------|:----------------------|:------|:-----|:---------------------|:---------|:---------|
+| UNS                                                                                                                               | S32304          | S31803 | S32550 | S32760 | S32750 | S39274 | P1-P5                 | P8    | P8   | P8                   | P43      | P45      |
+|                                                                                                                                   |                 | S32205 |        | J93380 |        |        |                       | (TP   | (TP  | (TP 254              | (IN 625) | (IN 825) |
+|                                                                                                                                   |                 | J92205 |        |        |        |        |                       | 304)  | 316) | SMO)                 |          |          |
+| S32304                                                                                                                            | A-DF            | A-DF   | A-DF   | A-DF   | A-DF   | A-DF   | AEF                   | AEF   | AF   | GH                   | GH       | GH       |
+| S31803                                                                                                                            |                 | A-D    | A-D    | A-D    | A-D    | A-D    | AEF                   | AEF   | AF   | GH                   | GH       | GH       |
+| S32205                                                                                                                            |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| J92205                                                                                                                            |                 | A-D    | A-D    | A-D    | A-D    | A-D    | AEF                   | AEF   | AF   | GH                   | GH       | GH       |
+| S32550                                                                                                                            |                 |        | B-D    | B-D    | B-D    | B-D    | ABEF                  | ABEF  | ABF  | GH                   | GH       | GH       |
+| S32760                                                                                                                            |                 |        |        | CDGH   | CDGH   | CDGH   | A-DEF                 | A-DEF | A-DF | GH                   | GH       | GH       |
+| J93380                                                                                                                            |                 |        |        | CDGH   | CDGH   | CDGH   | A-DEF                 | A-DEF | A-DF | GH                   | GH       | GH       |
+| S32750                                                                                                                            |                 |        |        |        | CDGH   | CDGH   | A-DEF                 | A-DEF | A-DF | GH                   | GH       | GH       |
+| S39274                                                                                                                            |                 |        |        |        |        | CDGH   | A-DEF                 | A-DEF | A-DF | GH                   | GH       | GH       |
+| Key                                                                                                                               |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| A ASME SFA 5.4, Classification E2209—duplex filler material.                                                                      |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| B ASME SFA 5.4, Classification E2553—duplex filler material.                                                                      |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| C ASME SFA 5.4, Classification E2594—duplex filler material.                                                                      |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| D DP3W (unclassified)—duplex filler material.                                                                                     |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| E ASME SFA 5.4, Classification E309L—high-alloy austenitic filler material.                                                       |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| F ASME SFA 5.4, Classification E309LMo—high-alloy austenitic filler material.                                                     |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| G ASME SFA 5.11, Classification ENiCrMo-10—nickel-base filler material.                                                           |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| H ASME SFA 5.11, Classification ENiCrMo-14—nickel-base filler material.                                                           |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| NOTE 1 This table refers to coated electrodes. For bare and cored wire welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode  |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| classification (ASME/AWS SFA/A5.9, SFA/A5.14, SFA/A5.22, and SFA/A5.34). Refer to the text for information on other processes.    |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| NOTE 2 At times, ENiCrMo-10, ENiCrMo-13, and ENiCrMo-14 are used for duplex and super duplex weld joints when severe corrosion is |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+| anticipated.                                                                                                                      |                 |        |        |        |        |        |                       |       |      |                      |          |          |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PARAGRAPH>>26
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.4—Copper-nickel and Nickel-base Alloys<<HEADING_END>>
+<<HEADING level=3>>Alloy 800 (N08800), 800H
+(N08810), 800HT (N08811)<<HEADING_END>>
+<<HEADING level=3>>70-30 and 90-10 Cu-Ni<<HEADING_END>>
+<<HEADING level=3>>Alloy C276 (N10276)<<HEADING_END>>
+<<HEADING level=3>>Alloy G-30 (N06030)<<HEADING_END>>
+<<HEADING level=3>>Alloy C-22 (N06022)<<HEADING_END>>
+<<HEADING level=3>>Nickel 200 (N02200)<<HEADING_END>>
+<<HEADING level=3>>Alloy G-3 (N06985)<<HEADING_END>>
+<<HEADING level=3>>Alloy 400 (N04400)<<HEADING_END>>
+<<HEADING level=3>>Alloy 600 (N06600)<<HEADING_END>>
+<<HEADING level=3>>Alloy 625 (N06625)<<HEADING_END>>
+<<HEADING level=3>>Alloy 825 (N08825)<<HEADING_END>>
+<<HEADING level=3>>Alloy B-2 (N10665)<<HEADING_END>>
+<<HEADING level=3>>Base Material
+(see Note 1)<<HEADING_END>>
+<<PARAGRAPH>>Carbon and low-alloy steel
+BC
+BC
+C
+A
+A
+A
+A
+D
+E
+F
+G
+H<<PARAGRAPH_END>>
+<<PARAGRAPH>>300 series stainless steel
+BC
+AC
+AC
+A
+A
+A
+A
+D
+E
+F
+G
+H<<PARAGRAPH_END>>
+<<PARAGRAPH>>400 series stainless steel
+B
+B
+AC
+A
+A
+A
+A
+D
+E
+F
+G
+H<<PARAGRAPH_END>>
+<<PARAGRAPH>>70-30 and 90-10 Cu-Ni
+B
+B
+C
+C
+C
+C
+C
+*
+*
+*
+*
+*<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 400 (N04400)
+B
+BC
+A
+A
+A
+A
+A
+A
+F
+A
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nickel 200 (N02200)
+C
+AC
+AC
+AC
+AC
+CD
+CE
+CF
+CG
+CH<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 800 (N08800), 800H
+(N08810), 800HT (N08811)
+(see Note 2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>K
+A
+A
+A
+DJ
+EJ
+FJ
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 600 (N06600)
+A
+AJ
+A
+DJ
+EJ
+FJ
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 625 (N06625)
+J
+J
+DJ
+EJ
+FJ
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 825 (N08825)
+J
+DJ
+EJ
+FJ
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy C-22 (N06022)
+D
+EJ
+FJ
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy C-276 (N10276)
+E
+FJ
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy B-2 (N10665)
+F
+GJ
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy G-3 (N06985)
+G
+HJ<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy G-30 (N06030)
+H<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>A
+ASME/AWS SFA/A 5.11, Classification ENiCrFe-2 or -3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+ASME/AWS SFA/A 5.11, Classification ENiCu-7.<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+ASME/AWS SFA/A 5.11, Classification ENi-1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+ASME/AWS SFA/A 5.11, Classification ENiCrMo-10.<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+ASME/AWS SFA/A 5.11, Classification ENiCrMo-4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F
+ASME/AWS SFA/A 5.11, Classification ENiMo-7.<<PARAGRAPH_END>>
+<<PARAGRAPH>>G
+ASME/AWS SFA/A 5.11, Classification ENiCrMo-9.<<PARAGRAPH_END>>
+<<PARAGRAPH>>H
+ASME/AWS SFA/A 5.11, Classification ENiCrMo-11.<<PARAGRAPH_END>>
+<<PARAGRAPH>>J
+ASME/AWS SFA/A 5.11, Classification ENiCrMo-3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>K
+ASME/AWS SFA/A 5.11, Classification ENiCrCoMo-1 or matching filler.<<PARAGRAPH_END>>
+<<PARAGRAPH>>* An unlikely or unsuitable combination. Consult the purchaser’s engineer if this combination is needed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  Table A.4 refers to coated electrodes. For bare or cored wire welding (SAW, GMAW, GTAW, FCAW), use equivalent electrode
+classification (ASME/AWS SFA/A 5.14, SFA/A5.34). Refer to the text for information on other processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  For Alloys 800, 800H, and 800HT, if sulfidation or stress relaxation cracking is a concern, use matching filler metals.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Base Material                                                                                                                   | iN-uC   | )00440N(   | )00220N(   | H008 )11880N(   | )00660N(   | )52660N(   | )52880N(   | )22060N(   | )67201N(   | )56601N(   | )58960N(   | )03060N(   |
+| (see Note 1)                                                                                                                    | 01-09   | 004        | 002        | ,)00880N(       | 006        | 526        | 528        | 22-C       | 672C       | 2-B        | 3-G        | 03-G       |
+|                                                                                                                                 | dna     | yollA      | lekciN     | TH008           | yollA      | yollA      | yollA      | yollA      | yollA      | yollA      | yollA      | yollA      |
+|                                                                                                                                 | 03-07   |            |            | 008 ,)01880N(   |            |            |            |            |            |            |            |            |
+|                                                                                                                                 |         |            |            | yollA           |            |            |            |            |            |            |            |            |
+|:--------------------------------------------------------------------------------------------------------------------------------|:--------|:-----------|:-----------|:----------------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
+| Carbon and low-alloy steel                                                                                                      | BC      | BC         | C          | A               | A          | A          | A          | D          | E          | F          | G          | H          |
+| 300 series stainless steel                                                                                                      | BC      | AC         | AC         | A               | A          | A          | A          | D          | E          | F          | G          | H          |
+| 400 series stainless steel                                                                                                      | B       | B          | AC         | A               | A          | A          | A          | D          | E          | F          | G          | H          |
+| 70-30 and 90-10 Cu-Ni                                                                                                           | B       | B          | C          | C               | C          | C          | C          | *          | *          | *          | *          | *          |
+| Alloy 400 (N04400)                                                                                                              |         | B          | BC         | A               | A          | A          | A          | A          | A          | F          | A          | A          |
+| Nickel 200 (N02200)                                                                                                             |         |            | C          | AC              | AC         | AC         | AC         | CD         | CE         | CF         | CG         | CH         |
+| Alloy 800 (N08800), 800H                                                                                                        |         |            |            | K               | A          | A          | A          | DJ         | EJ         | FJ         | GJ         | HJ         |
+| (N08810), 800HT (N08811)                                                                                                        |         |            |            |                 |            |            |            |            |            |            |            |            |
+| (see Note 2)                                                                                                                    |         |            |            |                 |            |            |            |            |            |            |            |            |
+| Alloy 600 (N06600)                                                                                                              |         |            |            |                 | A          | AJ         | A          | DJ         | EJ         | FJ         | GJ         | HJ         |
+| Alloy 625 (N06625)                                                                                                              |         |            |            |                 |            | J          | J          | DJ         | EJ         | FJ         | GJ         | HJ         |
+| Alloy 825 (N08825)                                                                                                              |         |            |            |                 |            |            | J          | DJ         | EJ         | FJ         | GJ         | HJ         |
+| Alloy C-22 (N06022)                                                                                                             |         |            |            |                 |            |            |            | D          | EJ         | FJ         | GJ         | HJ         |
+| Alloy C-276 (N10276)                                                                                                            |         |            |            |                 |            |            |            |            | E          | FJ         | GJ         | HJ         |
+| Alloy B-2 (N10665)                                                                                                              |         |            |            |                 |            |            |            |            |            | F          | GJ         | HJ         |
+| Alloy G-3 (N06985)                                                                                                              |         |            |            |                 |            |            |            |            |            |            | G          | HJ         |
+| Alloy G-30 (N06030)                                                                                                             |         |            |            |                 |            |            |            |            |            |            |            | H          |
+| Key                                                                                                                             |         |            |            |                 |            |            |            |            |            |            |            |            |
+| A ASME/AWS SFA/A 5.11, Classification ENiCrFe-2 or -3.                                                                          |         |            |            |                 |            |            |            |            |            |            |            |            |
+| B ASME/AWS SFA/A 5.11, Classification ENiCu-7.                                                                                  |         |            |            |                 |            |            |            |            |            |            |            |            |
+| C ASME/AWS SFA/A 5.11, Classification ENi-1.                                                                                    |         |            |            |                 |            |            |            |            |            |            |            |            |
+| D ASME/AWS SFA/A 5.11, Classification ENiCrMo-10.                                                                               |         |            |            |                 |            |            |            |            |            |            |            |            |
+| E ASME/AWS SFA/A 5.11, Classification ENiCrMo-4.                                                                                |         |            |            |                 |            |            |            |            |            |            |            |            |
+| F ASME/AWS SFA/A 5.11, Classification ENiMo-7.                                                                                  |         |            |            |                 |            |            |            |            |            |            |            |            |
+| G ASME/AWS SFA/A 5.11, Classification ENiCrMo-9.                                                                                |         |            |            |                 |            |            |            |            |            |            |            |            |
+| H ASME/AWS SFA/A 5.11, Classification ENiCrMo-11.                                                                               |         |            |            |                 |            |            |            |            |            |            |            |            |
+| J ASME/AWS SFA/A 5.11, Classification ENiCrMo-3.                                                                                |         |            |            |                 |            |            |            |            |            |            |            |            |
+| K ASME/AWS SFA/A 5.11, Classification ENiCrCoMo-1 or matching filler.                                                           |         |            |            |                 |            |            |            |            |            |            |            |            |
+| * An unlikely or unsuitable combination. Consult the purchaser’s engineer if this combination is needed.                        |         |            |            |                 |            |            |            |            |            |            |            |            |
+| NOTE 1 Table A.4 refers to coated electrodes. For bare or cored wire welding (SAW, GMAW, GTAW, FCAW), use equivalent electrod e |         |            |            |                 |            |            |            |            |            |            |            |            |
+| classification (ASME/AWS SFA/A 5.14, SFA/A5.34). Refer to the text for information on other processes.                          |         |            |            |                 |            |            |            |            |            |            |            |            |
+| NOTE 2 For Alloys 800, 800H, and 800HT, if sulfidation or stress relaxation cracking is a concern, use matching filler metals.  |         |            |            |                 |            |            |            |            |            |            |            |            |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<HEADING level=2>>Annex B
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Weld Overlay and Clad Restoration (Back Cladding)<<HEADING_END>>
+<<HEADING level=3>>B.1 General<<HEADING_END>>
+<<HEADING level=3>>B.1.1  Weld overlays shall be deposited with a minimum of two layers. Machine or automated single-layer overlays
+are permitted when approved by the purchaser.<<HEADING_END>>
+<<HEADING level=3>>B.1.2  ESW is permitted for weld overlay applications, provided that the following conditions are met.<<HEADING_END>>
+<<PARAGRAPH>>a) The procedure qualification demonstrates that metallographic examination of overlay cross sections; as required
+for hard-facing overlay per ASME  BPVC  Section IX, QW-453, Note 8; indicates that at least 5 % penetration has
+been achieved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) The welding procedure production tests required by the purchaser include metallographic examination of overlay
+cross sections to verify that the overlay penetrated into the base metal with no lack of fusion present.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) After welding and PWHT, spot UT is performed. For vessels, perform UT on at least four strips, approximately
+3.2 in. (80 mm) wide, along the full length of the shell and one (1) strip approximately 3.2 in. (80 mm) wide across
+each head on weld overlay. UT shall meet the requirements of ASTM 578, Level C.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.1.3  Overlap of adjacent weld beads shall be considered an essential variable and shall be the same in production
+as that used to qualify the weld overlay procedure.<<HEADING_END>>
+<<HEADING level=3>>B.1.4  The PQR chemical analysis shall report all elements for which specific values are given for the consumable in
+ASME  BPVC  Section II, Part C/AWS filler metal specifications.<<HEADING_END>>
+<<HEADING level=3>>B.1.5  Production weld overlay shall have the chemical composition checked using either:<<HEADING_END>>
+<<PARAGRAPH>>— a physical sample (e.g. drillings, chips) removed for quantitative analysis; or<<PARAGRAPH_END>>
+<<PARAGRAPH>>— a portable spectrograph or portable X-ray fluorescence machine approved by the purchaser.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.1.6  All elements specified for the production overlay chemical composition shall be analyzed and reported, except
+for carbon and nitrogen when using the X-ray fluorescence method. When carbon and nitrogen are specified, a
+physical sample is required for quantitative analysis. Alternatively, an optical emission spectrometer may be used to
+check all required elements, including carbon and nitrogen. Specified elements/acceptance requirements for
+production overlay and back cladding are found for the particular alloy(s) in B.3 through B.6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.1.7  By separate specification, the purchaser shall establish the method of measurement and requirements for the
+extent of ferrite and chemical composition checks on production welds. The frequency of sampling for production
+overlay shall be specified by the purchaser. If PWHT will be performed, the ferrite measurements shall be taken prior
+to PWHT.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.1.8  For the SAW, alloy additions made from the flux shall require approval by the purchaser.<<HEADING_END>>
+<<HEADING level=3>>B.1.9  All overlays shall be 100% liquid penetrant examined. If the item is PWHT, this examination shall be
+performed after PWHT.<<HEADING_END>>
+<<HEADING level=3>>B.1.10  Consumables for commonly used overlay systems are shown in Table B.1. The purchaser shall approve
+other systems.<<HEADING_END>>
+<<PARAGRAPH>>27<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<PARAGRAPH>>28
+API R ECOMMENDED  P RACTICE  582<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.1.11  When PWHT of the base metal is required, PWHT does not have to be performed for welding attachments to
+the overlay/clad when the actual overlay/clad thickness is  3 / 16  in. (4.8 mm) or greater. When the overlay/clad is less
+than  3 / 16  in. (4.8 mm) thick, a specially qualified WPS shall be provided to verify that the attachment weld does not
+affect the base material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   This requirement may be waived for P-No. 1 materials when PWHT is a requirement due to material thickness and not
+for process reasons.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.1.12  Electrode nominal diameter and ASME/AWS classification shall be considered essential variables.<<HEADING_END>>
+<<HEADING level=3>>Table B.1—Filler Material Selection for Overlay of Carbon and Low-alloy Steels<<HEADING_END>>
+<<HEADING level=3>>Weld Overlay Materials  a d<<HEADING_END>>
+<<HEADING level=3>>Overlay Material<<HEADING_END>>
+<<HEADING level=3>>Equipment Requiring PWHT
+Equipment Not Requiring PWHT<<HEADING_END>>
+<<HEADING level=3>>First Layer
+Top Layer(s)
+First Layer
+Top Layer(s)<<HEADING_END>>
+<<PARAGRAPH>>405/410 S
+ENiCrFe-2 or -3 or ERNiCr-3 or E/ER309/309L
+ENiCrFe-2 or -3 or ERNiCr-3 or E/ER309/309L<<PARAGRAPH_END>>
+<<PARAGRAPH>>304 SS
+b
+b
+E/ER309
+E/ER308<<PARAGRAPH_END>>
+<<PARAGRAPH>>304L SS
+E/ER/EQ309L
+E/ER/EQ308L
+E/ER/EQ309L
+E/ER/EQ308L<<PARAGRAPH_END>>
+<<PARAGRAPH>>316 SS
+b
+b
+E/ER309Mo
+E/ER316<<PARAGRAPH_END>>
+<<PARAGRAPH>>316L SS
+E/ER/EQ309LMo
+E/ER/EQ316L
+E/ER/EQ309LMo
+E/ER/EQ316L<<PARAGRAPH_END>>
+<<PARAGRAPH>>317L SS
+E/ER/EQ309LMo
+E/ER/EQ317L
+E/ER/EQ309LMo
+E/ER/EQ317L<<PARAGRAPH_END>>
+<<PARAGRAPH>>321/347 SS
+E/ER/EQ309L/
+E309Cb (Nb)
+E/ER/EQ347
+E/ER/EQ309L/
+E309Cb (Nb)
+E/ER/EQ347<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 20-Cb3
+E/ER/EQ320LR
+E/ER/EQ320LR
+E/ER/EQ320LR
+E/ER/EQ320LR<<PARAGRAPH_END>>
+<<PARAGRAPH>>Alloy 400
+E/ERNiCu-7  c
+E/ERNiCu-7
+E/ERNiCu-7  c
+E/ERNiCu-7<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Use of this table is limited to carbon and low-alloy steel backing materials.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) E/ER/EQ308 and E/ER/EQ316 are not normally used in the PWHT’d condition. The purchaser shall approve the use of non-low-carbon
+E/ER308 and E/ER316 in the PWHT’d condition.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) ENi-1 or ERNi-1 may be used as alternates.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) Table B.1 refers to coated electrodes and bare wires. For SAW and FCAW, use equivalent electrode classifications (ASME/AWS SFA/A5.9,
+SFA/A5.14, SFA/A5.22, and SFA/A5.34). Refer to the text for information on other processes.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2 Clad Restoration (Back Cladding)<<HEADING_END>>
+<<PARAGRAPH>>B.2.1  The clad layer shall be stripped back for a minimum distance of  3 / 16  in. (4.8 mm) from the edge of the bevel.
+The edge of the cladding shall be rounded with a minimum radius of  1 / 16  in. (1.5 mm) or tapered at a minimum angle
+of 30°. The stripped-back area shall be etched with either a nitric acid or copper sulfate solution to ensure complete
+removal of the clad.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.2.2  When the clad stripback depth impinges upon the minimum backing material design thickness, the overlay
+shall be qualified as a composite joint in accordance with QW-217 of ASME  BPVC  Section IX.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.3  Positive steps shall be taken to ensure that the weld joining the backing material does not come into contact
+with the cladding material.<<HEADING_END>>
+<<HEADING level=3>>B.3 Austenitic (300 Series) Stainless Steel Overlay<<HEADING_END>>
+<<HEADING level=3>>B.3.1  Austenitic stainless steel overlays or back cladding shall have a first layer that is predominantly austenitic and
+free of cracks.<<HEADING_END>>
+<<TABLE_1>>
+| Overlay Material                                                                                                                        | Weld Overlay Materials a d                  |              |                                             |              |
+|:----------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:-------------|:--------------------------------------------|:-------------|
+|                                                                                                                                         | Equipment Requiring PWHT                    |              | Equipment Not Requiring PWHT                |              |
+|                                                                                                                                         | First Layer                                 | Top Layer(s) | First Layer                                 | Top Layer(s) |
+| 405/410 S                                                                                                                               | ENiCrFe-2 or -3 or ERNiCr-3 or E/ER309/309L |              | ENiCrFe-2 or -3 or ERNiCr-3 or E/ER309/309L |              |
+| 304 SS                                                                                                                                  | b                                           | b            | E/ER309                                     | E/ER308      |
+| 304L SS                                                                                                                                 | E/ER/EQ309L                                 | E/ER/EQ308L  | E/ER/EQ309L                                 | E/ER/EQ308L  |
+| 316 SS                                                                                                                                  | b                                           | b            | E/ER309Mo                                   | E/ER316      |
+| 316L SS                                                                                                                                 | E/ER/EQ309LMo                               | E/ER/EQ316L  | E/ER/EQ309LMo                               | E/ER/EQ316L  |
+| 317L SS                                                                                                                                 | E/ER/EQ309LMo                               | E/ER/EQ317L  | E/ER/EQ309LMo                               | E/ER/EQ317L  |
+| 321/347 SS                                                                                                                              | E/ER/EQ309L/                                | E/ER/EQ347   | E/ER/EQ309L/                                | E/ER/EQ347   |
+|                                                                                                                                         | E309Cb (Nb)                                 |              | E309Cb (Nb)                                 |              |
+| Alloy 20-Cb3                                                                                                                            | E/ER/EQ320LR                                | E/ER/EQ320LR | E/ER/EQ320LR                                | E/ER/EQ320LR |
+| Alloy 400                                                                                                                               | E/ERNiCu-7 c                                | E/ERNiCu-7   | E/ERNiCu-7 c                                | E/ERNiCu-7   |
+| a) Use of this table is limited to carbon and low-alloy steel backing materials.                                                        |                                             |              |                                             |              |
+| b) E/ER/EQ308 and E/ER/EQ316 are not normally used in the PWHT’d condition. The purchaser shall approve the use of non-low-carbon       |                                             |              |                                             |              |
+| E/ER308 and E/ER316 in the PWHT’d condition.                                                                                            |                                             |              |                                             |              |
+| c) ENi-1 or ERNi-1 may be used as alternates.                                                                                           |                                             |              |                                             |              |
+| d) Table B.1 refers to coated electrodes and bare wires. For SAW and FCAW, use equivalent electrode classifications (ASME/AWS SFA/A5.9, |                                             |              |                                             |              |
+| SFA/A5.14, SFA/A5.22, and SFA/A5.34). Refer to the text for information on other processes.                                             |                                             |              |                                             |              |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<PARAGRAPH>>W ELDING  G UIDELINES   FOR   THE  C HEMICAL , O IL ,  AND  G AS  I NDUSTRIES
+29<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.3.2  The completed overlay shall have the chemical composition given in Table B.2. The location of the chemical
+composition sample shall be specified by the purchaser. The purchaser shall specify chemistries of austenitic overlay
+systems not shown in Table B.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.2—Chemical Composition Requirements for Austenitic Stainless Steel Overlays<<HEADING_END>>
+<<HEADING level=3>>Overlay Type
+% C (max.)
+% Cr (min.)
+% Ni (min.)
+% Mo
+% Cb (Nb)<<HEADING_END>>
+<<PARAGRAPH>>308
+0.08
+18.0
+8.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>308L
+0.04
+18.0
+8.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>316
+0.08
+16.0
+10.0
+2.0 to 3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>316L
+0.04
+16.0
+10.0
+2.0 to 3.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>317L
+0.04
+18.0
+11.0
+3.0 to 4.0<<PARAGRAPH_END>>
+<<PARAGRAPH>>347
+0.08
+17.0
+9.0
+8  ×  C min. to 1.0 max.<<PARAGRAPH_END>>
+<<PARAGRAPH>>B.3.3  The ferrite content of the final layer of weld overlay shall be in the range of 3 FN to 10 FN, except for Type 347
+which shall have a range of 5 FN to 11 FN. The minimum FN may be reduced to 3 FN, provided the fabricator submits
+data verifying that hot cracking will not occur using the lower FN consumable to be used in production and this is
+approved by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.4  Ferrite measurements shall be taken before PWHT.<<HEADING_END>>
+<<HEADING level=3>>B.3.5  Magnetic instruments for measuring ferrite shall be calibrated annually per AWS A4.2M.<<HEADING_END>>
+<<HEADING level=3>>B.4 Ferritic Stainless Steel Alloys<<HEADING_END>>
+<<PARAGRAPH>>The purchaser shall specify the requirements for ferritic stainless steel overlays.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.5 Monel Alloy 400 (67Ni-30Cu)<<HEADING_END>>
+<<PARAGRAPH>>B.5.1  The PQR shall report Ni, Cu, and Fe. The Fe content shall not exceed 7 % (5 % for HF acid service). Other
+chemical composition requirements (in addition to Fe) for the production overlay shall be specified by the purchaser.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.5.2  Where ferricyanide testing for the presence of free iron contamination on production welds is required, it is to
+be specified by the purchaser in a separate specification.<<HEADING_END>>
+<<HEADING level=3>>B.5.3  Single layer overlays are not permitted.<<HEADING_END>>
+<<HEADING level=3>>B.6 Nickel-base Alloys (Other Than Ni-Cu Alloy 400)<<HEADING_END>>
+<<PARAGRAPH>>The chemical composition requirements for overlay with nickel-base alloys other than Ni-Cu Alloy 400 shall be
+specified by the purchaser.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Overlay Type   |   % C (max.) |   % Cr (min.) |   % Ni (min.) | % Mo       | % Cb (Nb)              |
+|:---------------|-------------:|--------------:|--------------:|:-----------|:-----------------------|
+| 308            |         0.08 |            18 |             8 |            |                        |
+| 308L           |         0.04 |            18 |             8 |            |                        |
+| 316            |         0.08 |            16 |            10 | 2.0 to 3.0 |                        |
+| 316L           |         0.04 |            16 |            10 | 2.0 to 3.0 |                        |
+| 317L           |         0.04 |            18 |            11 | 3.0 to 4.0 |                        |
+| 347            |         0.08 |            17 |             9 |            | 8 × C min. to 1.0 max. |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<HEADING level=3>>Product No. C58203<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 38
+
+Total Tables: 13
+
+Table Reference List:
+[TABLE_1] Page: 12, Size: 4x2
+[TABLE_1] Page: 15, Size: 5x3
+[TABLE_1] Page: 16, Size: 5x3
+[TABLE_1] Page: 19, Size: 11x2
+[TABLE_2] Page: 19, Size: 7x3
+[TABLE_1] Page: 20, Size: 13x6
+[TABLE_1] Page: 21, Size: 19x6
+[TABLE_1] Page: 29, Size: 11x10
+[TABLE_1] Page: 30, Size: 16x14
+[TABLE_1] Page: 31, Size: 12x13
+[TABLE_1] Page: 32, Size: 17x13
+[TABLE_1] Page: 34, Size: 13x5
+[TABLE_1] Page: 35, Size: 7x6
+<<SECTION_END>>
+<<DOCUMENT_END>>

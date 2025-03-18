@@ -1,0 +1,1755 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>ISl3633:1993<<HEADING_END>>
+<<HEADING level=3>>( Reaffirmed 1998 )<<HEADING_END>>
+<<HEADING level=1>>Indian Standard
+SHIPBUILDING- MEASUREMENTAND
+REPORTINGOFLOCALVIBRATIONDATAOF
+SHIPSTRUCTURESANDEQUIPMENT-
+CODEOFPRACTICE<<HEADING_END>>
+<<PARAGRAPH>>UDC
+629: 12: 534q1.08<<PARAGRAPH_END>>
+<<PARAGRAPH>>Q BIS 1993<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF
+INDIAN
+STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG
+l
+NEW DELHI 110002<<PARAGRAPH_END>>
+<<HEADING level=3>>June  1993
+Price Group 5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Shipbuilding Sectional Committee,
+TED 17<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard was adopted by the Bureau of Indian Standards,
+after the draft finalized
+by the
+Shipbuilding Sectional Committee
+had been approved
+by the Transport
+Engineering
+Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The term
+‘  local vibration
+‘, as used in the shipbuilding industry,
+applies to the dynamic response of a
+structural
+element,
+an assembly of structural
+elements,
+machinery
+or equipment
+which vibrates at an
+amplitude
+significantly
+greater than that of the basic hull girder at the location.
+occur
+at a frequency
+of the hull girder or of a machinery
+component.
+This vibration
+may
+Typical examples include the
+vibration
+of parts of the superstructure,
+smokestack,
+mast, binnacle,
+turbine,
+pipe or deck plate. These
+local vibrations generally result from:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) local flexibility of supporting
+structural
+elements; or
+b) the vibratory
+characteristics
+of the machinery
+concerned.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In this standard,
+the term
+‘  vibration severity  ’  is used to describe the vibration
+conditions
+in the ship
+and, based on long established
+practice
+in the industry,
+the peak value of vibration
+velocity
+has been
+chosen as the primary quantity
+of measurement;
+since,
+however,
+much data have been accumulated
+in
+terms of vibration
+acceleration
+and vibration displacement,
+a plotting sheet has been adopted on which
+data may easily be plotted
+using any of these quantities
+of measurement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard
+establishes uniform procedures
+for gathering and presenting
+data on vibration
+of local
+structural
+elements
+or equipment in sea-going merchant
+ships.
+The procedures,
+where applicable,
+can
+also be used for inland ships and tug boats. Such data are necessary to establish uniformly the vibration
+characteristics
+present in various compartments
+on board ship and to provide a basis or design predic-
+tions, improvements
+and comparison
+against environmental
+vibration reference levels or criteria relative
+to reliability
+( of machines ), safety
+( of structures
+) and habitability.
+The data are not intended to
+apply to the evaluation
+of the vibration of machines with respect to noise control
+or to the design of
+the machine
+or eqmpment
+under
+consideration.
+These
+latter
+cases will generally
+require
+specific
+diagnostic treatment
+and include a broader frequency
+range and more specialized
+instrumentation
+than
+is necessary for these general considerations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Concern over local vibration may be caused by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) the stresses
+due to the vibration,
+for
+example,
+in the structure,
+in the equipment
+or
+attachments;
+b) the necessity of maintaining
+trouble-free
+operation
+of a machine
+or other
+equipment
+which
+might be jeopardized
+by the malfunction
+or degradation
+of components;
+c) the physical strain on man ( habitability
+and performance
+);
+d) the effects
+of the vibration
+on its environment,
+such as adjacent
+instruments,
+machines,
+equipment,
+etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard gives general principles of vibration measurement
+on board ships to improve
+vibration
+engineering. Therefore,
+in individual case, items to be measured may be selected or added to meet the
+aims of the vibration
+measurement
+of each ship.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the preparation
+of this standard,
+considerable
+assistance
+has been derived from
+IS0 4868  : 1984
+‘  Code for the measurement
+and reporting
+of local vibration
+data of ship structures
+and equipment ‘,
+issued by the International
+Organization
+for Standardization
+( IS0 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose of deciding whether a particular
+requirement
+of this standard is complied with, the final
+value, observed or calculated,
+expressing the result of a test or analysis, shall be rounded off in accor-
+dance with IS 2 : 1960 ‘ Rules for rounding off numerical values (  revised )‘.  The number of significant
+places retained
+in the rounded
+off value should be the same as that of the
+specified value in this
+standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS 13633 : 1993<<HEADING_END>>
+<<HEADING level=1>>Indian Standard
+SHIPBUILDING -MEASUREMBNTAND
+RBPORTINGOFLOCALVIBRATIONDATAOF
+SHIPSTRUCTURBSANDEQUIPMBNT-
+CODEOFPRACTICE<<HEADING_END>>
+<<HEADING level=3>>1  SCOPE<<HEADING_END>>
+<<HEADING level=3>>3.5  Severity of Vibration<<HEADING_END>>
+<<PARAGRAPH>>1.1  This
+standard
+deals
+with
+local
+vibration
+measured on structural
+elements,
+superstructures,
+decks, bulkheads,
+masts, machines,
+foundations,
+equipment, etc, and only relates to the measure-
+ment and reporting
+of the local vibration
+of the
+structure or equipment mounted thereon.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The peak value of vibration ( velocity
+accelera-
+tion or displacement ) during periods of steady-
+state
+vibration,
+representative
+of
+maximum
+repetitive behaviour, under the conditions defined
+in 4.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When using autographic
+records, suitable lengths
+of record may easily be recognized.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The frequency range considered includes propul-
+sion
+shaft
+rotational
+frequencies,
+rotational
+frequency of machines and other significant source
+frequencies,
+such as diesel firing, blade or vane
+passage etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When using electronic
+methods of recording
+and
+analysis,
+care
+shall be taken to use lengths
+of
+record, time constants and averaging times so that
+good approximation
+to the steady-state
+amplitude
+is obtained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2 REFERENCE<<PARAGRAPH_END>>
+<<PARAGRAPH>>4 MEASUREMENT
+OF DATA<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS
+13290 : 1992
+‘Shipbuilding
+-
+Measurement
+and reporting of shipboard vibration data -
+Code
+of practice’
+is a necessary adjunct to this standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1  Instrumentation<<HEADING_END>>
+<<PARAGRAPH>>41.1  Measurements
+shall
+preferably
+be
+made
+with an electronic
+system which produces a per-
+manent
+record.
+The
+transducers
+may generate
+signals
+proportional
+to acceleration,
+velocity or
+displacement.
+Recording
+can be made either on
+magnetic tape, paper oscillographs,
+or a combina-
+tion of both. Use of paper oscillographs during the
+tests
+means that
+the
+vibration
+traces
+can be
+inspected directly and is very helpful in evaluating
+existing
+vibration
+problems.
+When displacement
+rather
+than
+either
+velocity
+or
+acceleration
+is
+recorded, the desired
+low-frequency signals asso-
+ciated with significant
+vibratory
+motion are the
+major components of a recorded trace. Thus, they
+are
+readily
+evaluated
+since
+they
+overshadow
+possible
+higher
+frequency
+signals
+with
+low
+displacement
+amplitudes.<<PARAGRAPH_END>>
+<<HEADING level=3>>3  TERMINOLOGY<<HEADING_END>>
+<<PARAGRAPH>>For the purpose of this standard,
+the following
+definitions shall apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1 Free
+Route<<HEADING_END>>
+<<PARAGRAPH>>That  condition achieved when the ship is proceed-
+ing at a constant speed and course with minimum
+throttle or helm adjustment.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.2  Hull Girder<<HEADING_END>>
+<<PARAGRAPH>>The
+primary
+hull
+structure
+such as the
+shell
+plating and continuous strength decks contributing
+to flexural rigidity of the hull and the static and
+dynamic behaviour
+of which can be described by
+a free-free non-uniform beam approximation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1.2
+Provision shall be made for suitable attenua-
+tion control to enable the system to accommodate
+a wide range of amplitudes.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3  Hull Girder Vibration<<HEADING_END>>
+<<PARAGRAPH>>That component of vibration
+which exists at any
+particular transverse plane of the hull so that there
+is little or no relative motion
+between
+elements
+intersected by the plane.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1.3
+An event marker
+shall be provided on the
+propeller shaft.
+Its position
+with respect to top
+dead centre
+of cylinder No. 1 and a propeller
+blade shall be noted.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4 Local
+Vibration<<HEADING_END>>
+<<PARAGRAPH>>4.1.4 The
+complete
+measuring
+system shall be
+calibrated in the laboratory
+prior to the test and
+it is desirable
+to check the calibration
+of each
+recording channel before each stage of the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+dynamic
+response of a.structural
+element,
+deck, bulkhead or piece of equipment
+which is
+significantly greater than that of the hull girder at
+that location.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS 13633 : 1993<<HEADING_END>>
+<<PARAGRAPH>>4.3.5
+Local
+Machinery
+and Equipment
+Vibration<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1.5  Portable
+electronic
+and mechanical
+instru-
+ments
+capable
+of single-point
+measurement
+may
+be used.<<HEADING_END>>
+<<PARAGRAPH>>Vertical,
+athwartship
+and
+longitudinal
+vibration
+at
+the
+outside
+of
+machinery
+where
+there
+is
+evidence
+of large vibration
+amplitudes.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2  Preferable
+Test Conditions<<HEADING_END>>
+<<HEADING level=3>>4.2.1
+The
+preferable
+test
+conditions
+shall be as
+follows:<<HEADING_END>>
+<<HEADING level=3>>4.4  Quantities
+to be Measured<<HEADING_END>>
+<<PARAGRAPH>>The quantities
+to be measured
+are as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)  The test shall
+be
+conducted
+in a depth of
+water not less than
+five times the draught
+of the ship, with machinery
+running
+under
+normal
+conditions,
+unless otherwise
+specifi-
+ed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any one of displacement,
+velocity,
+accele-
+ration,
+pressure and strain;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Frequencies
+in cycles per second
+( Hz ) or
+cycles per minute;<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+-
+For exploratory
+purposes,
+tests may be
+carried out at the quayside if there is no reason to
+suppose
+that
+shallow
+water
+will influence
+the
+results.<<HEADING_END>>
+<<PARAGRAPH>>Shaft
+rotational
+frequency
+( speed )
+in
+revolutions
+per
+minute
+or revolutions
+per
+second;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>cl<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>The test
+shall be conducted
+in a quiet sea
+[ sea State 3 ( equivalent
+to wind speed of
+11 to 16 knots ) or less 1;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4  Phase, where appropriate.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5  Test Procedure<<HEADING_END>>
+<<HEADING level=3>>4.5.1
+Calibration
+of Recording
+Equipment<<HEADING_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+ship
+shall be
+ballasted
+to displace-
+ment
+as close
+as possible
+to the operating
+conditions
+within
+the
+ordinary
+ballasting
+capacity
+of the vessel. The draught
+aft shall
+ensure full immersion
+of the propeller;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Each channel
+shall be checked
+after completion
+of
+installation
+to ensure
+proper
+working
+condition,
+desired amplification
+setting and phasing.
+Checks
+shall be made at regular
+intervals.
+The calibration
+shall be recorded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>During
+the free-route
+portion of the test, the
+rudder
+angle
+shall be
+restricted
+to about
+two degrees
+port
+or starboard
+( minimum
+rudder action is desired ); and<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5.2
+Performance
+of Measurements<<PARAGRAPH_END>>
+<<HEADING level=2>>The
+data
+in
+the
+following
+conditions
+shall
+be
+recorded:
+a><<HEADING_END>>
+<<PARAGRAPH>>e)  Individual
+machines
+may
+be run in isola-
+tion
+as required
+to investigate
+particular
+problems.<<PARAGRAPH_END>>
+<<HEADING level=3>>In free
+route,
+at 3  to 10 rev/min increments
+from
+one-half
+to maximum
+speed.
+Addi-
+tional
+runs
+at
+smaller
+increments
+are
+required
+in
+the vicinity
+of critical
+speeds
+and near service speed;<<HEADING_END>>
+<<PARAGRAPH>>4.2.2
+Any divergence
+from
+these
+conditions
+shall
+be clearly stated in Table
+4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Free
+route
+runs
+at the operation
+speeds;
+and<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3
+Transducer
+Locations<<HEADING_END>>
+<<HEADING level=3>>4.3.1
+Stern<<HEADING_END>>
+<<PARAGRAPH>>Special
+runs
+at speeds
+reported
+to cause
+local vibrations,
+as needed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>cl<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vertical,
+athwartship
+and
+longitudinal
+measure-
+ments
+as close
+as possible
+to the centreline
+and
+the stern,
+to establish
+the hull
+girder
+vibration
+characteristics.
+The
+location
+shall be chosen
+so
+that
+the
+results
+are
+not
+influenced
+by
+local
+vibration
+effects.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+-
+For fire-route
+runs, permit
+the ship to
+steady on constant
+speed. Hold
+the speed for a
+sufficient time to permit
+recording
+of maximum
+and minimum
+vibration
+values
+( about
+1 min ).
+In multiple
+shaft ships, all shafts shall be run at,
+or as close as possible to, the same speed to deter-
+mine total vibration levels. In certain
+instances it
+may be preferable
+to run with a single shaft for
+the determination
+of vibration
+modes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3.2
+Superstructure<<PARAGRAPH_END>>
+<<HEADING level=3>>Vertical,
+athwartship
+and
+longitudinal
+measure-
+ments
+on the superstructure
+front bulkhead,
+at a
+minimum
+of three
+different
+deck levels.<<HEADING_END>>
+<<HEADING level=3>>5  ANALYSIS
+AND
+REPORTING
+OF DATA<<HEADING_END>>
+<<PARAGRAPH>>4.3.3
+Local Structures<<PARAGRAPH_END>>
+<<HEADING level=3>>5.1 Analysis<<HEADING_END>>
+<<PARAGRAPH>>Vertical,
+athwartship
+and
+longitudinal
+measure-
+ments
+at any local
+structure
+where
+evidence
+of
+local vibration
+occurs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Analysis
+shall provide
+the following
+information
+for all runs:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Severity
+of vibration
+at the propeller
+shaft
+rotational
+frequency
+for
+hull
+girder
+transducers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3.4
+Local Deck Traverse<<PARAGRAPH_END>>
+<<PARAGRAPH>>Vertical,
+athwartship
+and
+longitudinal
+measure-
+ments at a sufficient
+number
+of points in the area
+of local
+vibration
+to
+determine
+the
+relative
+vibration
+with respect
+to the hull girder.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+Severity
+of
+vibration
+at
+blade
+rate
+frequencies
+for hull girder and machinery
+transducers;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS 13633 : 1993<<HEADING_END>>
+<<PARAGRAPH>>Severity
+of vibration
+of each
+detectable
+harmonic of shaft rotational
+frequency or
+blade rate for hull
+girder and machinery
+transducers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f-1  Hull girder
+natural
+frequencies
+identified
+from stern measurements
+and any unusual
+vibration condition encountered;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Results
+from
+manoeuvres
+tabulated
+as
+indicated in Tables 6 and 7;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Severity of local structural vibration
+at all
+measurement
+locations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Weather
+conditions
+during
+the measure-
+ments, including sea state
+and direction
+relative to the ship;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mode shape of local
+vibrations.
+Use hull
+girder vibration
+as reference
+for the mode
+shape;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f 1<<PARAGRAPH_END>>
+<<PARAGRAPH>>Severity of vibrations of local machinery or
+equipment at all measurement locations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)  Method of analysis of results; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)  Type of instrument used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>For additional
+optional
+measurements,
+if
+specified, see IS 13290  :  1992.<<PARAGRAPH_END>>
+<<HEADING level=3>>6  RULES FOR PRESENTATION
+OF
+VIBRATION
+TEST RESULTS<<HEADING_END>>
+<<HEADING level=3>>NOTE
+-
+The presence
+of beating effects, if any,
+shall be noted by recording
+maximum and mini-
+mum values of the amplitudes
+and the frequency
+of the beat.<<HEADING_END>>
+<<HEADING level=3>>6.1  Use one graph each ( see Fig. 1 ) for vertical,
+athwartship
+and longitudinal
+hull vibration
+at
+stern.<<HEADING_END>>
+<<HEADING level=3>>5.2  Reporting
+of Data<<HEADING_END>>
+<<HEADING level=2>>Data reported shall include the following:
+a><<HEADING_END>>
+<<PARAGRAPH>>Identify
+severity of vibration
+for evaluation
+of
+habitability.
+Use  l  for objectionable,
+(J
+for
+questionable,
+and 0 for acceptable vibrations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The principal ship design characteristics:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) Complete
+Tables
+1, 2, 3 and 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) Provide a sketch of the inboard profile
+of hull and superstructure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.2 Use one graph
+( see Fig.
+1 ) each for all
+measuring points and directions of measurement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A sketch showing locations of hull girder
+and local transducers
+and their directions
+of measurement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b!<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.3 Additional
+graphs shall be used to identify
+phasing relationships,
+etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+-
+For local vibration
+measurements,
+it is
+particularly
+important
+that
+the precise
+position
+of transducers
+shall be noted
+since very small
+changes in position can lead to large changes in
+measured amplitude.
+Plots of displacement of velocity or accele-
+ration
+amplitudes
+versus speed for shaft
+rotational
+frequency,
+blade
+rate
+or
+any
+harmonic thereof. Make use of forms of the
+kind shown in Fig. 1, using the rules given
+in Table 5. Linear plots may also be used;<<PARAGRAPH_END>>
+<<HEADING level=1>>6.4 The following marks shall be used throughout
+the report for easy identification:
+0<<HEADING_END>>
+<<PARAGRAPH>>Propeller shaft frequency<<PARAGRAPH_END>>
+<<PARAGRAPH>>cl<<PARAGRAPH_END>>
+<<PARAGRAPH>>Blade rate<<PARAGRAPH_END>>
+<<HEADING level=1>>0
+A<<HEADING_END>>
+<<PARAGRAPH>>Twice blade rate<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Profiles of local
+deck vibration
+at each
+resonate from port to starboard
+and from
+the
+nearest
+aft to the nearest
+forward
+structural bulkhead;
+Tables of all significant
+vibration
+severities
+and
+their
+location
+and
+frequency,
+for
+machinery excited vibration;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Three times blade rate<<PARAGRAPH_END>>
+<<HEADING level=1>>0  v
+X<<HEADING_END>>
+<<PARAGRAPH>>Higher frequencies ( identify )<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Engine frequency ( identify predominant
+orders )<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS  13633 :  1993<<HEADING_END>>
+<<HEADING level=3>>Table 1 Particulars
+of Test Ship<<HEADING_END>>
+<<HEADING level=3>>[  Clause
+5.2(a)
+J<<HEADING_END>>
+<<HEADING level=3>>Ship Name<<HEADING_END>>
+<<HEADING level=3>>Particulars of Ship<<HEADING_END>>
+<<HEADING level=3>>Builder/Year
+Built<<HEADING_END>>
+<<HEADING level=3>>Hull<<HEADING_END>>
+<<HEADING level=3>>Main engines<<HEADING_END>>
+<<HEADING level=3>>No., kind and type<<HEADING_END>>
+<<HEADING level=3>>Kind and Type<<HEADING_END>>
+<<HEADING level=3>>Year Built<<HEADING_END>>
+<<HEADING level=3>>Class<<HEADING_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<HEADING level=3>>Bore and stroke, mm<<HEADING_END>>
+<<HEADING level=3>>Construction<<HEADING_END>>
+<<HEADING level=3>>No. of cylinders
+-
+Power, kW<<HEADING_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<HEADING level=3>>Length Lop between perdendicuIars,
+m<<HEADING_END>>
+<<HEADING level=3>>Breadth B moulded, m<<HEADING_END>>
+<<HEADING level=3>>Speed, revjmin
+-
+Location*<<HEADING_END>>
+<<HEADING level=3>>Depth  D  moulded,
+m<<HEADING_END>>
+<<HEADING level=3>>Draught
+I ( full load, ) m<<HEADING_END>>
+<<PARAGRAPH>>MVl<<PARAGRAPH_END>>
+<<PARAGRAPH>>_
+.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mv2<<PARAGRAPH_END>>
+<<HEADING level=3>>Unbalance
+couplet,
+N.m<<HEADING_END>>
+<<HEADING level=3>>DisplacementA
+( full load ), t<<HEADING_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mll<<PARAGRAPH_END>>
+<<HEADING level=3>>Block coefficient Cn<<HEADING_END>>
+<<HEADING level=3>>Dead weight, t
+-<<HEADING_END>>
+<<HEADING level=3>>Propellers<<HEADING_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<HEADING level=3>>Light weight, t
+-~<<HEADING_END>>
+<<HEADING level=3>>No. and type<<HEADING_END>>
+<<HEADING level=3>>IV<<HEADING_END>>
+<<HEADING level=3>>Second moment of area of
+midship section, m4<<HEADING_END>>
+<<HEADING level=3>>___<<HEADING_END>>
+<<PARAGRAPH>>-<<PARAGRAPH_END>>
+<<HEADING level=3>>-z<<HEADING_END>>
+<<HEADING level=3>>No. of blades<<HEADING_END>>
+<<HEADING level=3>>-<<HEADING_END>>
+<<HEADING level=3>>Pitch ratio<<HEADING_END>>
+<<HEADING level=3>>Av<<HEADING_END>>
+<<HEADING level=3>>Shear area of midship
+section, ms<<HEADING_END>>
+<<HEADING level=3>>Expanded
+area ratio<<HEADING_END>>
+<<HEADING level=3>>I--  Ah
+I<<HEADING_END>>
+<<HEADING level=3>>Sketch of midship section<<HEADING_END>>
+<<HEADING level=3>>Skew in degrees
+_p
+Diameter  Dp,  m<<HEADING_END>>
+<<HEADING level=3>>Speed, rev/min<<HEADING_END>>
+<<HEADING level=3>>Type and number of rudders<<HEADING_END>>
+<<HEADING level=3>>Sketch of screw aperturet<<HEADING_END>>
+<<HEADING level=3>>Remarks  :<<HEADING_END>>
+<<HEADING level=3>>*For diesel engines, the distance from the aft perpendicular
+to centre
+of engine.
+For
+turbine,
+the approximate
+location, for example, amidships, semi-aft or aft.<<HEADING_END>>
+<<HEADING level=3>>tin the case
+of an engine
+having
+unbalanced
+forces
+and/or
+any
+other
+excitation
+necessary
+to describe
+the
+vibratory
+phenomenon,
+the value shall be added in the ‘Remarks’
+column.<<HEADING_END>>
+<<HEADING level=3>>$Substitute appropriate
+sketch in multiple screw or ducted propeller ship.
+.<<HEADING_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS 13633 : 1<<HEADING_END>>
+<<HEADING level=3>>Table 2 Particulars
+of Propulsion-Shaft
+System<<HEADING_END>>
+<<HEADING level=3>>[ Clause  5.2(a)
+]<<HEADING_END>>
+<<HEADING level=3>>Particulars of Propulsion-Shaft
+System
+Number
+of Shafts<<HEADING_END>>
+<<HEADING level=3>>Maximum
+and Normal Speed, rev/min<<HEADING_END>>
+<<HEADING level=3>>Type of Bushing Material<<HEADING_END>>
+<<HEADING level=3>>Shaft Alignment
+( Straight or Rational )<<HEADING_END>>
+<<PARAGRAPH>>-<<PARAGRAPH_END>>
+<<HEADING level=3>>Rotating
+Parts<<HEADING_END>>
+<<HEADING level=3>>Stationary
+Parts<<HEADING_END>>
+<<HEADING level=3>>Diameter
+C*
+Support*
+mm
+mm
+_____--p<<HEADING_END>>
+<<HEADING level=3>>Diameter
+mm
+Length
+mm<<HEADING_END>>
+<<HEADING level=3>>a)  Stern tube aft bearing<<HEADING_END>>
+<<HEADING level=3>>1 Tall Shaft<<HEADING_END>>
+<<PARAGRAPH>>__<<PARAGRAPH_END>>
+<<HEADING level=1>>-_
+-
+____
+I I
+--<<HEADING_END>>
+<<HEADING level=3>>2 First intermediate
+shaft<<HEADING_END>>
+<<HEADING level=3>>b) Stern tube forward bearing
+-<<HEADING_END>>
+<<HEADING level=3>>3 Second intermediate
+shaft<<HEADING_END>>
+<<HEADING level=3>>c) First intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<HEADING level=3>>4 Third intermediate
+shaft<<HEADING_END>>
+<<HEADING level=3>>d) Second intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>____
+_~__ -<<PARAGRAPH_END>>
+<<PARAGRAPH>>-_<<PARAGRAPH_END>>
+<<HEADING level=3>>5 Fourth intermediate
+shaft<<HEADING_END>>
+<<HEADING level=3>>e) Third intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>___-
+-<<PARAGRAPH_END>>
+<<HEADING level=3>>6 Thurst shaft
+I
+I<<HEADING_END>>
+<<HEADING level=3>>f  )  Fourth intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>____
+__Y<<PARAGRAPH_END>>
+<<HEADING level=1>>---  I !
+___
+--<<HEADING_END>>
+<<HEADING level=3>>Diumcter
+Mass
+mm
+t<<HEADING_END>>
+<<HEADING level=3>>Mass polar mo-
+ment of  inertia
+t.ms<<HEADING_END>>
+<<HEADING level=3>>g) Fifth intermediate
+bearing
+-<<HEADING_END>>
+<<HEADING level=3>>h) Sixth intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>-<<PARAGRAPH_END>>
+<<PARAGRAPH>>--<<PARAGRAPH_END>>
+<<HEADING level=3>>Second reduction gear
+-._...J-
+First reduction gear
+I
+--
+Flywheel
+1<<HEADING_END>>
+<<HEADING level=3>>j) Seventh intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>--
+--<<PARAGRAPH_END>>
+<<HEADING level=3>>k) Eighth intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>._<<PARAGRAPH_END>>
+<<PARAGRAPH>>___
+--<<PARAGRAPH_END>>
+<<HEADING level=3>>m)  Ninth intermediate
+bearing<<HEADING_END>>
+<<PARAGRAPH>>I<<PARAGRAPH_END>>
+<<PARAGRAPH>>--<<PARAGRAPH_END>>
+<<HEADING level=3>>Aft part of the shafting<<HEADING_END>>
+<<HEADING level=3>>n) Thrust block<<HEADING_END>>
+<<PARAGRAPH>>. .<<PARAGRAPH_END>>
+<<PARAGRAPH>>--<<PARAGRAPH_END>>
+<<PARAGRAPH>>. _<<PARAGRAPH_END>>
+<<HEADING level=3>>Mass,  t,  and density,
+kg/ma, of propeller<<HEADING_END>>
+<<HEADING level=3>>p) Bull gearing aft bearing<<HEADING_END>>
+<<HEADING level=1>>--
+I I<<HEADING_END>>
+<<HEADING level=3>>Mass polar moment of
+inertia
+of propeller,
+t.ms<<HEADING_END>>
+<<HEADING level=3>>q) Bullgearing forward bearing<<HEADING_END>>
+<<PARAGRAPH>>-<<PARAGRAPH_END>>
+<<HEADING level=3>>Distance
+mm<<HEADING_END>>
+<<PARAGRAPH>>Stz$ess
+N/m<<PARAGRAPH_END>>
+<<HEADING level=3>>Sketch of thrust block and its foundation
+with major
+scantlings<<HEADING_END>>
+<<HEADING level=3>>Aft
+support
+of
+tail
+shaft<<HEADING_END>>
+<<HEADING level=3>>$<<HEADING_END>>
+<<HEADING level=3>>Forward
+support
+of
+tail shaft<<HEADING_END>>
+<<HEADING level=3>>§<<HEADING_END>>
+<<HEADING level=3>>Intermediate
+bearing<<HEADING_END>>
+<<HEADING level=3>>frequency
+First
+(-/
+(-<<HEADING_END>>
+<<HEADING level=3>>c/min
+Second
+I<<HEADING_END>>
+<<HEADING level=3>>Sketch
+of shaft system
+showing
+relative
+location
+of rotating
+and stationary
+parts.
+Indicate
+the
+length
+of aft
+bushing (L) and (L/D).<<HEADING_END>>
+<<HEADING level=3>>*Diametral
+clearance.<<HEADING_END>>
+<<HEADING level=3>>TFor example,
+on double bottom,
+in propeller bossing.<<HEADING_END>>
+<<HEADING level=3>>IDistance
+between the propeller centre of gravity and aft support of the tail shaft.<<HEADING_END>>
+<<HEADING level=3>>§Distance between two tail shaft supports.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>IS 13633 : 1993<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 Particulars of Main Diesel Engines or Turbine Driven Plants<<HEADING_END>>
+<<HEADING level=3>>[  Clause 5.2(a)
+]<<HEADING_END>>
+<<HEADING level=3>>Particulars
+of Main Engine<<HEADING_END>>
+<<HEADING level=3>>Manufacturer<<HEADING_END>>
+<<HEADING level=3>>Natural
+frequency
+of shafting and crankshaft
+or gearing
+and turbines, c/min*<<HEADING_END>>
+<<HEADING level=3>>Kind<<HEADING_END>>
+<<HEADING level=3>>Type
+Mode<<HEADING_END>>
+<<HEADING level=3>>Longitudinal
+Torsional<<HEADING_END>>
+<<HEADING level=3>>Maximum
+Normal
+First<<HEADING_END>>
+<<HEADING level=3>>Brake  :
+Second
+Shaft  :<<HEADING_END>>
+<<HEADING level=3>>Output,
+kW<<HEADING_END>>
+<<HEADING level=3>>Rotational
+frequency,
+rev/min
+Third<<HEADING_END>>
+<<HEADING level=3>>Main diesel engine<<HEADING_END>>
+<<HEADING level=3>>-
+Number of cylinders<<HEADING_END>>
+<<HEADING level=3>>Mass and position in 1ongitudinaI and vertical direction of
+centre of gravity relative to crankshaft axis<<HEADING_END>>
+<<HEADING level=3>>Cylinder bore<<HEADING_END>>
+<<HEADING level=3>>Cylinder stroke<<HEADING_END>>
+<<HEADING level=3>>Mass polar moment of inertia with respect to crankshaft
+axis<<HEADING_END>>
+<<HEADING level=3>>Indicate
+angle
+and
+cylinder
+No.,
+Propeller
+blade
+and event marker<<HEADING_END>>
+<<HEADING level=3>>Stiffness values of thrust block, N/m<<HEADING_END>>
+<<PARAGRAPH>>FORWARD
+RUNNING
+( LOOKING
+FORWARD)<<PARAGRAPH_END>>
+<<HEADING level=3>>FOOX
+N
+couple
+N.m<<HEADING_END>>
+<<PARAGRAPH>>Order<<PARAGRAPH_END>>
+<<HEADING level=3>>Firing order<<HEADING_END>>
+<<HEADING level=3>>First<<HEADING_END>>
+<<HEADING level=3>>Free
+forces
+and
+couples
+due
+to
+unbalance<<HEADING_END>>
+<<HEADING level=3>>Second
+.<<HEADING_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<PARAGRAPH>>. .<<PARAGRAPH_END>>
+<<HEADING level=3>>Guide forces (H  )
+and couples ( K )<<HEADING_END>>
+<<PARAGRAPH>>.<<PARAGRAPH_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<PARAGRAPH>>-<<PARAGRAPH_END>>
+<<HEADING level=3>>Sketch of crankshaft or reduction gear system showing its major scantlings.<<HEADING_END>>
+<<HEADING level=3>>*Give details of balances, detuners, dampers, etc, which could influence vibration.<<HEADING_END>>
+<<HEADING level=3>>6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 13633 : 1993<<HEADING_END>>
+<<HEADING level=3>>Table 4
+Conditions
+During
+Vibration
+Measurements
+[ Clauses  4.2.2 and 5.2 (a) ]<<HEADING_END>>
+<<HEADING level=3>>Test Conditions<<HEADING_END>>
+<<HEADING level=3>>Date<<HEADING_END>>
+<<HEADING level=3>>Place<<HEADING_END>>
+<<PARAGRAPH>>Sea state ( Beaufort
+No. )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Type and characteristics
+of measuring
+instruments<<PARAGRAPH_END>>
+<<PARAGRAPH>>Height
+of swell,
+m
+I ~~<<PARAGRAPH_END>>
+<<HEADING level=3>>RELATIVE
+HEADING
+ANGLE,
+1N DEGREES<<HEADING_END>>
+<<PARAGRAPH>>/<<PARAGRAPH_END>>
+<<HEADING level=3>>‘&Y/E
+DIRECTION<<HEADING_END>>
+<<PARAGRAPH>>Depth of water, m<<PARAGRAPH_END>>
+<<PARAGRAPH>>Draught
+forward,
+m<<PARAGRAPH_END>>
+<<PARAGRAPH>>Draught
+aft, m<<PARAGRAPH_END>>
+<<PARAGRAPH>>Mean draught,
+m<<PARAGRAPH_END>>
+<<PARAGRAPH>>Test displacement
+A, t<<PARAGRAPH_END>>
+<<PARAGRAPH>>_<<PARAGRAPH_END>>
+<<PARAGRAPH>>Propeller
+immersion
+from shaft centre-
+line to water surface,
+m<<PARAGRAPH_END>>
+<<PARAGRAPH>>-<<PARAGRAPH_END>>
+<<PARAGRAPH>>Loading
+Plan<<PARAGRAPH_END>>
+<<HEADING level=3>>Table
+5 Results
+of Vibration
+Measurements<<HEADING_END>>
+<<HEADING level=3>>[ Clause 5.2 (c) ]<<HEADING_END>>
+<<HEADING level=3>>Listing of Location OF Measurements
+Shaft Speed
+Peak Amplitude*
+and Frequency
+( Refer to Sketch )
+rev/min
+Hz<<HEADING_END>>
+<<PARAGRAPH>>Station
+Frame
+Item
+Transducers
+Vertical
+Athwartship
+Longitudinal
+Remarks
+Location
+c-
+_h__7r-_~---_?C_-_<<PARAGRAPH_END>>
+<<PARAGRAPH>>t
+Hz
+t
+HZ
+t
+HZ<<PARAGRAPH_END>>
+<<HEADING level=1>>(1)
+(2)
+(5)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(121
+I
+!<<HEADING_END>>
+<<PARAGRAPH>>Ship  :. . . . . . . . . . . . . . . . . . . . . . . . . . . -. . . .
+Test date  * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -- _<<PARAGRAPH_END>>
+<<PARAGRAPH>>*Indicate
+whether
+velocity,
+acceleration
+or displacement
+amplitudes
+are reported.<<PARAGRAPH_END>>
+<<PARAGRAPH>>TEnter the following
+units accordingly:<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm for displacement
+mm/s for velocity
+( preferred
+)
+mm/s* for acceleration.<<PARAGRAPH_END>>
+<<HEADING level=3>>7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS 13633  :  1993<<HEADING_END>>
+<<HEADING level=3>>Table 6 Results
+of Vibration
+Measurements
+During
+Manoeuvres
+( Optional
+)<<HEADING_END>>
+<<HEADING level=3>>[ Clause 5.2 (g) )<<HEADING_END>>
+<<HEADING level=3>>Manoeuvres
+/
+Initial
+Order*
+Shaft Speed<<HEADING_END>>
+<<HEADING level=3>>Frequency,
+Hz, and Maximum
+Amplitude?<<HEADING_END>>
+<<PARAGRAPH>>rev/min
+Stern
+Other
+Selected
+Location
+identify<<PARAGRAPH_END>>
+<<PARAGRAPH>>RR, 2xBR
+Vertical
+Athwart-
+Longitu-
+Vertical
+ship
+Athwart-
+Longitu-
+dinal
+ship
+dinal<<PARAGRAPH_END>>
+<<HEADING level=3>>/<<HEADING_END>>
+<<PARAGRAPH>>(1)
+(2)
+(3)
+_
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+_____--
+Hard turn to
+port
+I<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hard turn to
+starboard
+/
+__-<<PARAGRAPH_END>>
+<<HEADING level=1>>Crashback
+I
+I<<HEADING_END>>
+<<PARAGRAPH>>Notes:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ship: _. . . .._.._. _.._.......  . . .._.......
+Test date: . . .._. . . . . . . . . . .  _ . . . ._.... . . . __<<PARAGRAPH_END>>
+<<HEADING level=3>>*After
+order number,
+identify
+blade rate ( BR ) or twice blade rate ( 2  x  BR ).<<HEADING_END>>
+<<PARAGRAPH>>+Indicate
+whether
+velocity,
+acceleration
+or displacement
+amplitudes
+reported
+and
+enter
+the
+following
+unite
+accordingly:<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm for displacement<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm/s for velocity
+( preferred
+)<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm/s* for acceleration.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 7 Longitudinal
+Vibration
+of the Propulsion
+System
+During
+Manoeuvres
+( Optional
+)<<HEADING_END>>
+<<HEADING level=3>>[  Clause  5.2 (g) ]<<HEADING_END>>
+<<HEADING level=1>>I
+Intitial Shaft
+Speed
+rev/min<<HEADING_END>>
+<<HEADING level=3>>Manoeuvres
+Run No.<<HEADING_END>>
+<<HEADING level=3>>Frequency, Hz, and Maximum
+Amplitudes*<<HEADING_END>>
+<<PARAGRAPH>>Thrust
+Thrust
+Bull
+Gear
+Gear
+HP
+HP
+Conden-
+Bearing
+Bearing
+Gear
+Case
+Case
+Tur-
+Tur-
+ser
+Housing
+Founda-
+Shaft
+Foun-
+Top
+bine
+bine
+tion
+dation<<PARAGRAPH_END>>
+<<PARAGRAPH>>(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>(4)
+(5)
+(6!
+(7)
+(8)
+(9)
+(10;
+(11)<<PARAGRAPH_END>>
+<<HEADING level=3>>(2)<<HEADING_END>>
+<<PARAGRAPH>>(3)
+--<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hard turn to
+port<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hard turn to
+starboard<<PARAGRAPH_END>>
+<<PARAGRAPH>>Crashback<<PARAGRAPH_END>>
+<<PARAGRAPH>>Notes:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ship: . . . . _ . . . . . . . . . . . . . . . .._..........._.
+Test date: .-......-
+. . . . .._.......
+. . . . . . . .._.<<PARAGRAPH_END>>
+<<PARAGRAPH>>*Indicate
+whether
+velocity,
+acceleration
+or
+displacement
+amplitudes
+are reported
+and enter the following
+units
+accordingly:<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm for displacement<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm/s for velocity
+( preferred
+)<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm/s* for acceleration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>Standard Mark
+The use of the Standard
+Mark is governed
+by the provisions
+of the
+Bureau  qf  Indian
+Standards act, 1986  and the Rules and Regulations
+made thereunder.
+The Standard
+Mark on
+products
+covered
+by an Indian
+Standard
+conveys
+the assurance
+that
+they
+have
+been
+produced
+to comply with the requirements
+of that standard under a well defined system of
+inspection,
+testing and quality control which is devised and supervised by BIS and operated
+by the producer.
+Standard marked products
+are also continuously
+checked by BIS for con-
+formity to that standard as a further safeguard.
+Details of conditions
+under which a licence
+for the use of the Standard
+Mark may be granted
+to manufacturers
+or producers may be
+obtained
+from the Bureau of Indian Standards.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>Bureau of Indian Standards
+\<<PARAGRAPH_END>>
+<<PARAGRAPH>>BIS  is a statutory
+institution
+established
+under  the
+Bureau of  Indian Standurds
+Act,  I986 to promote
+harmonious
+development
+of the
+activities
+of standardization,
+marking
+and quality certification
+of
+goods and attending
+to connected
+matters
+in the country.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright<<PARAGRAPH_END>>
+<<PARAGRAPH>>BIS  has the copyright of all its publications.
+No part of these publications
+may be reproduced
+m any
+form without the prior permission in writing of BIS. This does not preclude the free use, in the course of
+implementing
+the standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to copyright
+be addressed to the Director
+( Publications
+), BIS.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Review of Indian Standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>Amendments
+are issued to standards as the need
+arises on the basis of comments.
+Standards
+are  any
+reviewed periodically;
+a standard
+along with amendments
+is reaffirmed when such review indicates that
+no changes are needed; if the review
+indicates
+that
+changes are needed, it is taken up for revision.
+Users of Indian
+Standards
+should ascertain
+that
+they are in possession of the latest amendments
+or
+edition
+by referring
+to the
+latest
+issue of ‘BIS Handbook’
+and ‘Standards
+Monthly
+Additions’.
+Comments on this Indian Standard
+may be sent to BIS giving the following reference:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dot  : No.  TED 17 ( 827 )<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments Issued  Since Publication<<HEADING_END>>
+<<PARAGRAPH>>Amend No.
+Date of Issue
+Text Affected<<PARAGRAPH_END>>
+<<PARAGRAPH>>BUREAU OF INDIAN STANDARDS<<PARAGRAPH_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan,
+9 Bahadur Shah Afar
+Marg, New Delhi 110002
+Telephones
+:  331 01 31, 331 13 75<<PARAGRAPH_END>>
+<<PARAGRAPH>>Telegrams
+:  Manaksanstha
+( Common to all offices )<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices  :<<PARAGRAPH_END>>
+<<PARAGRAPH>>Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central  :  Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI
+110002<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+331 01 31
+331 13 75<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern  :  l/ 14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola
+CALCUTTA
+700054<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+37 84 99,
+37 85 61
+37 86 26,
+37 86 62<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern
+: SC0 445-446, Sector 35-C, CHANDIGARH
+160036<<PARAGRAPH_END>>
+<<PARAGRAPH>>I
+53 38 43,
+53 16 40
+53 23 84<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern
+: C. I. T. Campus, IV Cross Road, MADRAS 600113
+1
+235 02 16,
+235 04 42
+235 15 19,
+235 23 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+:  Manakalaya,
+E9 MIDC, Marol,
+Andheri ( East )
+BOMBAY 400093
+632 92 95,
+632 78 58
+632 78 91,
+632 78 92<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches
+:  AHMADABAD.
+BANGALORE.
+BHOPAL.
+BHUBANESHWAR.
+COIMBATORE.
+FARIDABAD.
+GHAZTABAD.
+GUWAHATT.
+HYDERABAD.
+JAIPUR.
+KANPUR.
+LUCKNOW.
+PATNA.
+THIRUVANANTHAPURAM.
+.<<PARAGRAPH_END>>
+<<HEADING level=3>>Prlnted at New India Prlntfng Press, Khorja. India<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 13
+<<SECTION_END>>
+<<DOCUMENT_END>>

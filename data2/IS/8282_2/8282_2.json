@@ -1,0 +1,2975 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 8282 ( Part-2)  : 1996",
+          "bbox": [
+            353.26,
+            20.61,
+            481.42,
+            33.1
+          ],
+          "block_id": "b1_0",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            191.26,
+            169.66,
+            305.14,
+            187.65
+          ],
+          "block_id": "b1_1",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "INSTALLATION,\nMAINTENANCE\nAND OBSERVATIONS\nOF PORE PRESSURE MEASURING\nDEVICES IN\nCONCRETE AND MASONRY DAMS -\nCODE OF PRACTICE",
+          "bbox": [
+            27.58,
+            194.98,
+            466.18,
+            279.71
+          ],
+          "block_id": "b1_2",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 2 VIBRATING WIRE TYPE CELL",
+          "bbox": [
+            160.06,
+            284.53,
+            343.92,
+            295.66
+          ],
+          "block_id": "b1_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ICS 93.160;~91.220",
+          "bbox": [
+            210.46,
+            351.58,
+            294.22,
+            361.65
+          ],
+          "block_id": "b1_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0 BIS 1996",
+          "bbox": [
+            230.62,
+            650.62,
+            281.26,
+            660.69
+          ],
+          "block_id": "b1_5",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "BUREAU\nOF\nINDIAN\nSTANDARDS",
+          "bbox": [
+            135.34,
+            672.21,
+            354.46,
+            684.45
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "MANAK BHAVAN, 9 BAHADUFC SHAH ZAFAR MARG",
+          "bbox": [
+            134.62,
+            687.34,
+            374.86,
+            697.41
+          ],
+          "block_id": "b1_7",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NEW DELHI 110002",
+          "bbox": [
+            210.94,
+            702.46,
+            300.7,
+            712.53
+          ],
+          "block_id": "b1_8",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "October\n1996\nPrice Group 3",
+          "bbox": [
+            22.06,
+            729.58,
+            491.4,
+            741.57
+          ],
+          "block_id": "b1_9",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 510.7280578613281,
+        "height": 766.0800170898438
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Hydraulic Structures Instrumentation\nSectional Committee, RVD 16",
+          "bbox": [
+            18.58,
+            22.08,
+            316.18,
+            34.89
+          ],
+          "block_id": "b2_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FOREWORD",
+          "bbox": [
+            18.82,
+            101.04,
+            75.22,
+            113.85
+          ],
+          "block_id": "b2_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard ( Part 2 ) was adopted by the Bureau of Indian Standards, after the draft finalized by the\nHydraulic Structures Instrumentation\nSectional Committee had been approved by the River Valley Division\nCouncil.",
+          "bbox": [
+            19.06,
+            120.0,
+            488.98,
+            156.09
+          ],
+          "block_id": "b2_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Stress and stability analysis of concrete and masonry dams is carried out by considering the existence of uplift\nacross different horizontal planes, having uplift intensity-distribution\nin accordance with the design criteria\nin practice. The effect of the uplift is to induce instability on account of resulting buoyancy in weight of the\nmaterial in dam above the horizontal section under consideration.",
+          "bbox": [
+            19.3,
+            162.48,
+            489.46,
+            210.57
+          ],
+          "block_id": "b2_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Arrays of pore pressure cells in concrete and masonry at different elevations, spaced at suitable distances from\nthe upstream face, would provide information on the status of pore pressure at the time of observation.",
+          "bbox": [
+            19.54,
+            216.72,
+            488.74,
+            241.29
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Large concrete and masonry dams are provided with a row or rows of internal formed drains. A record of the\npore pressure development and its variations would indicate the effectiveness and adequacy of these drains. At\nthe same time, any sudden and significant variations in the pore pressure development may be indicative of\nsome structural damage or deficiency in the dam material, warranting timely remedial measures being undertaken.",
+          "bbox": [
+            19.54,
+            247.44,
+            490.9,
+            295.53
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For measuring the pore~pressures in the body of concrete and masonry dams, the following device/instruments\nare used:",
+          "bbox": [
+            20.02,
+            301.68,
+            482.98,
+            326.25
+          ],
+          "block_id": "b2_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nUplift pressure pipes; and",
+          "bbox": [
+            55.54,
+            332.4,
+            187.54,
+            345.21
+          ],
+          "block_id": "b2_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nElectrical pressure cells which maybe of two types, namely",
+          "bbox": [
+            55.54,
+            351.36,
+            334.66,
+            364.17
+          ],
+          "block_id": "b2_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1) Electrical resistance Jype pore pressure cells, and",
+          "bbox": [
+            74.98,
+            370.08,
+            307.54,
+            382.89
+          ],
+          "block_id": "b2_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2)\nVibrating wire type pore pressure cells.\n.",
+          "bbox": [
+            74.02,
+            389.04,
+            471.22,
+            401.85
+          ],
+          "block_id": "b2_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Uplift pressure pipes and electrical resistance type pressure cells are covered in IS 6532: 1972 \u2018Code of practice\nfor design, installation, observation and maintenance of uplift pressure pipes for hydraulic structures on permeable\nfoundations\u2019 and IS 8282 ( Part 1 )  :  1976 \u2018Code of practice for installation, maintenance and observation of\npore pressure measuring devices in concrete and masonry dams: Part 1 Electrical resistance type cell\u2019 respectively.\nThis standard, Part 2 covers the vibrating wire type pressure cells only.",
+          "bbox": [
+            20.5,
+            407.76,
+            491.86,
+            468.09
+          ],
+          "block_id": "b2_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In the formulation\nof this standard due weightage has been given to international\nco-ordination\namong the\nstandards and practices prevailing in different countries. In addition, the practices in the field in this country\nhave also been considered.",
+          "bbox": [
+            20.98,
+            474.24,
+            491.14,
+            510.81
+          ],
+          "block_id": "b2_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For the purpose of deciding whether a particular requirement of this standard is complied with, the final value,\nobserved or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with\nIS 2  :  1960 \u2018Rules for rounding off numeiical values  (  revised )\u2018.  The number of significant places retained\nin the rounded off value should be the same as that of the specified value in this standard.",
+          "bbox": [
+            20.74,
+            516.72,
+            491.38,
+            565.29
+          ],
+          "block_id": "b2_13",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 510.51995849609375,
+        "height": 735.0560302734375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 8282 ( Part 2 )  :  1996",
+          "bbox": [
+            346.01,
+            8.9,
+            459.29,
+            20.77
+          ],
+          "block_id": "b3_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            177.05,
+            26.82,
+            289.49,
+            44.82
+          ],
+          "block_id": "b3_0",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "INSTALLATION,\nMAINTENANCE\nAND OBSERVATIONS\nOF PORE PRESSURE MEASURING\nDEVICES IN\nCON-CRETE AND MASONRY DAMS -\nCODE -OF PRACTICE",
+          "bbox": [
+            12.89,
+            51.9,
+            451.97,
+            137.12
+          ],
+          "block_id": "b3_2",
+          "font_size": 15.8,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 2 VIBRATING WIRE TYPE CELL",
+          "bbox": [
+            145.85,
+            141.94,
+            327.56,
+            153.06
+          ],
+          "block_id": "b3_3",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 SCOPE\n4 NUMBER AND LOCATION",
+          "bbox": [
+            12.65,
+            171.52,
+            378.41,
+            184.32
+          ],
+          "block_id": "b3_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard ( Part 2 ) covers the details of installation,\nmaintenance and observation of vibrating wire type\npore pressure measuring cells in concrete and masonry\ndams.",
+          "bbox": [
+            11.93,
+            190.48,
+            227.93,
+            238.08
+          ],
+          "block_id": "b3_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Representative blocks of the dam should be selected\nfor the installation of these cells. Generally one of\nthe deepest overflow and non-overflow sections should\nbe selected for instrumentation.\nThe cells should\nbe installed in two or three levels in rows. The bottom\nrow of pore pressure cells may be located a little\nabove the foundation level ( say about 1.5 m ) or as\nmay be required by the design. The second row may\nbe installed at one-third or half the height of the dam.\nThe spacing of the cells in each row may be 10 to\n15 metres along the width of the dam.",
+          "bbox": [
+            244.73,
+            192.88,
+            462.17,
+            322.8
+          ],
+          "block_id": "b3_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 REFERENCES",
+          "bbox": [
+            12.41,
+            244.0,
+            85.61,
+            256.8
+          ],
+          "block_id": "b3_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The Indian Standard IS 103 34: 1982 \u2018Code of practice\nfor selection, splicing, installation and providing\nprotection\nto the open ends of cables used for\nconnecting\nresistance type measuring devices in\nconcrete and masonry dams\u2019 is a necessary adjunct\nto this standard.",
+          "bbox": [
+            12.17,
+            262.96,
+            229.13,
+            334.8
+          ],
+          "block_id": "b3_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5 EQUIPMENT\n3 INSTRUMENT",
+          "bbox": [
+            12.89,
+            331.12,
+            314.09,
+            353.52
+          ],
+          "block_id": "b3_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The equipment consists of vibrating wire type pore\npressure transducer, a signal cable and a frequency\nindicator/read out unit.\nThe basic principle of the vibrating wire transducer\nis that the change in natural frequency of stretched\nwire depends on the change of the tension in the wire.\nIn this instrument, one end of the gauge wire is attached\nto the centre of circular membrane and the other\nend is secured to the top of the transducer housing.",
+          "bbox": [
+            13.37,
+            352.24,
+            461.45,
+            460.8
+          ],
+          "block_id": "b3_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1  Vibrating\nWire Type Pore Pressure\nCell -\nOperating\nPrinciple",
+          "bbox": [
+            13.13,
+            357.76,
+            222.65,
+            381.59
+          ],
+          "block_id": "b3_10",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1 Transducer",
+          "bbox": [
+            246.65,
+            398.93,
+            308.09,
+            408.95
+          ],
+          "block_id": "b3_12",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A  typical vibrating wire type piezometer assembly\nis illustrated in Fig. 1.",
+          "bbox": [
+            246.65,
+            418.0,
+            460.97,
+            442.56
+          ],
+          "block_id": "b3_13",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The pressure\ntransducer\nconsists\nof a hollow\ncylindrical body made of non-corrodable metal like\nferro-manganese, bronze or stainless steel. The body\nhouses a stainless steel membrane to which one end\nof the vibrating wire element is secured. The other\nend of the vibrating wire element is secured to the\nbody. Close to this wire element a magnet assembly\nis mounted.\nCable connections are taken out from\nthe magnet assembly through the top end of the\npiezometer body and sealed with protective seal to\nprevent leakage of water.to the vibrating wire assembly.\nThe magnet assembly connected through the cable\nto the frequency indicator should be capable of exciting\nand picking up the frequency of vibrations that are\nread on the indicator.\nThe transducer\nshould\nincorporate suitable diodes for over-voltage protection\nto avoid damage from transient voltages and lightening,\netc.",
+          "bbox": [
+            246.65,
+            450.88,
+            464.57,
+            665.04
+          ],
+          "block_id": "b3_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Fluid pressure applied to the membrane\ncauses\ndeflection of the membrane with consequent change\nin the tension of the wire and its resonant frequency.\nThus~the frequency of the gauge wire is a measure\nof the deflection\nof the membrane\nwhich is\nproportional to the pressure change.",
+          "bbox": [
+            14.33,
+            466.96,
+            230.81,
+            538.8
+          ],
+          "block_id": "b3_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1.1 The main advantages of vibrating wire type\ninstruments are given below:",
+          "bbox": [
+            14.81,
+            544.96,
+            230.09,
+            569.52
+          ],
+          "block_id": "b3_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nEasy to read.",
+          "bbox": [
+            36.89,
+            575.68,
+            113.69,
+            590.16
+          ],
+          "block_id": "b3_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nEffects of signal cable resistance, contact\nresistance\u2019, leakage to ground or length of\nsignal cable are negligible.",
+          "bbox": [
+            36.65,
+            590.8,
+            231.29,
+            627.6
+          ],
+          "block_id": "b3_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nFrequency signal permits datatransmission\nover long distance and thus suitable for\nremote observation.",
+          "bbox": [
+            37.37,
+            630.16,
+            230.81,
+            666.96
+          ],
+          "block_id": "b3_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 480.3199768066406,
+        "height": 735.68798828125
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 8282 ( Part 2 )  :  1996",
+          "bbox": [
+            26.4,
+            7.06,
+            139.68,
+            18.93
+          ],
+          "block_id": "b4_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "READOUT\nUNIT",
+          "bbox": [
+            148.32,
+            36.04,
+            207.17,
+            44.61
+          ],
+          "block_id": "b4_1",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "MAGNET SYSTEM",
+          "bbox": [
+            237.36,
+            137.8,
+            296.45,
+            146.37
+          ],
+          "block_id": "b4_2",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "VIBRATING\nWIRE",
+          "bbox": [
+            237.36,
+            155.8,
+            297.65,
+            164.37
+          ],
+          "block_id": "b4_3",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PERFORATEDSTEEL\nMEMBRANE",
+          "bbox": [
+            237.12,
+            182.68,
+            349.26,
+            191.25
+          ],
+          "block_id": "b4_4",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "RUBBER MEMBRANE",
+          "bbox": [
+            238.32,
+            231.4,
+            307.26,
+            239.97
+          ],
+          "block_id": "b4_5",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FILTER",
+          "bbox": [
+            238.32,
+            253.24,
+            261.17,
+            261.81
+          ],
+          "block_id": "b4_6",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Principle of Vibrating-Wire\nType Piezometer",
+          "bbox": [
+            163.92,
+            272.31,
+            335.56,
+            283.19
+          ],
+          "block_id": "b4_7",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "GLAND BODY",
+          "bbox": [
+            124.32,
+            293.8,
+            169.25,
+            302.37
+          ],
+          "block_id": "b4_8",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "FIG. 1  TYPICALVIBRATING\nWIRE TYPE PIEZOMIXER\nASSEMBLY",
+          "bbox": [
+            140.64,
+            373.68,
+            374.34,
+            386.48
+          ],
+          "block_id": "b4_9",
+          "font_size": 8.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": ".",
+          "bbox": [
+            470.4,
+            384.1,
+            475.2,
+            395.97
+          ],
+          "block_id": "b4_19",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "wire piezometer shall be TO.1 percent of full range.",
+          "bbox": [
+            262.32,
+            401.52,
+            477.36,
+            414.32
+          ],
+          "block_id": "b4_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The lower end of the transducer body houses a filter\nelement of low or high air entry value. The filter\nelements should be made of either Sintered Bronze\nor Ceramic.",
+          "bbox": [
+            29.52,
+            401.76,
+            244.32,
+            450.08
+          ],
+          "block_id": "b4_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.2  Signal\nCable",
+          "bbox": [
+            262.56,
+            420.48,
+            336.0,
+            433.28
+          ],
+          "block_id": "b4_21",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Cable to connect the transducer to the-readout unit\nshould be selected depending on the environments\nin which the cable is laid.",
+          "bbox": [
+            263.04,
+            436.8,
+            478.56,
+            473.36
+          ],
+          "block_id": "b4_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The permeability and bubbling pressure ( pressure\nof entry of air ) of filter element should be as follows:",
+          "bbox": [
+            30.0,
+            456.48,
+            245.52,
+            481.04
+          ],
+          "block_id": "b4_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "For normal environment; cables with two core single\npair cable with annealed copper conductors and with\ncopper shielding;\nheavy PVC coating should be\nadequate.\u2019 However in adverse environments, steel\narmoured\npetroleum jelly filled and polyethylene\ninsulated cable should be used.\nHeavily armoured\ncables with 10, 20 or more pairs should be used to\nconnect junction boxes to the instrument houses.",
+          "bbox": [
+            263.04,
+            476.64,
+            480.48,
+            572.24
+          ],
+          "block_id": "b4_23",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Material",
+          "bbox": [
+            29.52,
+            492.94,
+            61.92,
+            502.76
+          ],
+          "block_id": "b4_12",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Permeability\nBubbling\nPressure",
+          "bbox": [
+            86.4,
+            492.94,
+            240.72,
+            502.99
+          ],
+          "block_id": "b4_14",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sintered\nbronze",
+          "bbox": [
+            30.96,
+            509.52,
+            64.8,
+            534.08
+          ],
+          "block_id": "b4_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "lo-\u2019 cm/s\n0.1 bar",
+          "bbox": [
+            85.2,
+            509.52,
+            204.0,
+            522.56
+          ],
+          "block_id": "b4_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Ceramic\n10.\u2019 cm/s to\n10.\u2019 cm/s\n1 bar to 4.5 bar",
+          "bbox": [
+            30.96,
+            540.24,
+            231.36,
+            565.28
+          ],
+          "block_id": "b4_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The diameter of the piezometer should generally be\n32 mm for normal applications.\nIn special cases\npiezometer of other diameters, say, 42 mm or 78\nmm may be used.",
+          "bbox": [
+            30.72,
+            571.44,
+            248.16,
+            619.76
+          ],
+          "block_id": "b4_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3  Readout/Data\nLogger",
+          "bbox": [
+            264.48,
+            576.0,
+            376.08,
+            588.8
+          ],
+          "block_id": "b4_24",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A simple, portable, battery operated readout unit with\n4-Digit LCD display should be used.\nCalibration\ndata for each transducer should be provided when a\nsimple readout unit to ready frequency is used, for\nconverting\nthe frequency\nreadings\nto relevant\nengineering units.",
+          "bbox": [
+            264.48,
+            592.08,
+            481.68,
+            664.88
+          ],
+          "block_id": "b4_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The working range of the piezometer should be up to\n20 bar. However, capacities up to 60 bar may be used\nfor special applications. The accuracy of the vibrating",
+          "bbox": [
+            31.2,
+            626.16,
+            248.16,
+            662.96
+          ],
+          "block_id": "b4_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            255.36,
+            672.96,
+            262.56,
+            685.76
+          ],
+          "block_id": "b4_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 498.2080078125,
+        "height": 748.2239990234375
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS  8282 (  Part  2 )  :  1996",
+          "bbox": [
+            340.97,
+            13.68,
+            456.65,
+            26.48
+          ],
+          "block_id": "b5_11",
+          "font_size": 9.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Readout units wiih facility to read the relevant\nengineering units directly on the display may be used\nin place of the frequency readout units.",
+          "bbox": [
+            5.69,
+            29.76,
+            222.41,
+            66.08
+          ],
+          "block_id": "b5_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "near the top of a lift, where placement\ncan be\naccomplished after concreting in the area has been\ncompleted. A hole just large enough to accommodate\nthe instrument and about 300 mm deep should be\ndug at the desired location.\nFine sand cushioning\nshould be provided before placing mortar around the\ninstrument.",
+          "bbox": [
+            238.97,
+            30.24,
+            455.93,
+            113.84
+          ],
+          "block_id": "b5_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Sophisticated\nDatalogging\nwith Microprocessor/\n_Microcontroller for remote sensing and centralised\nlogging/controlling capabilities may also be employed.",
+          "bbox": [
+            4.49,
+            72.24,
+            222.17,
+            109.04
+          ],
+          "block_id": "b5_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6  CALIBRATION",
+          "bbox": [
+            6.65,
+            114.96,
+            87.53,
+            127.76
+          ],
+          "block_id": "b5_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.2.2 Frames or brackets to hold the cell in position\nduring embedment, should not be used, since these\nwould possibly provide a leakage path directly, to\nthe cell. Concrete or mortar (as the case may be)\nshould be placed by hand around the instrument and\ntamped lightly so as to obtain contact between the\nbody of the cell and the surrounding concrete/masonry.\nExcessive tamping of the concrete/masonry\nshould\nbe avoided as this would result in a highly impermeable\nzone around the cell and affect the normal build-up\nof\nhydrostatic\npressure.\nAfter embedment,\na\ntemporary cover of boards laid over the cell locations\nprovide protection\nuntil the concrete/mortar\nhas\nhardened.\nThe ends of cables attached to the pore\npressure cells which remain uncovered for a while\nuntil these are properly terminated in a terminal board.\nshould be protected by cable protection caps. This\nprecaution is considered necessary with..a view tb\nprevent moisture and water entering the pore pressure\ncells through the cable ends.",
+          "bbox": [
+            239.69,
+            120.24,
+            458.33,
+            356.96
+          ],
+          "block_id": "b5_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Each transducer should be calibrated separately on\na suitable calibrating system in the laboratory prior\nto taking the instrument to field for installation.\nIt\nis not practicable\nto recalibrate\na sensor after\ninstallation and therefore good long term stability\nof the sensors is important to obtain reliable results,\nThe sensor should be capable of being overloaded\nto 1.5 times its rated capacity.\nWhile calibrating\nthe sensors, the transducers should be over-loaded\nby 10 percent at least 10 times to stabilize the\ncalibrated readings.\nEach transducer\nshould be\nprovided with a separate calibration certificate.",
+          "bbox": [
+            5.93,
+            134.16,
+            224.33,
+            276.32
+          ],
+          "block_id": "b5_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Usually the gauge wire and the body of the transducer\nare made of materials having similar coefficient of\nthermal expansion so that temperature variations,\nif any, have minor influence on the readings.\nThe\ntransducers are to be calibrated in various temperatures\nwithin its working range and the thermal coefficient\nshould be recorded in calibration certificate.",
+          "bbox": [
+            8.09,
+            282.72,
+            225.05,
+            366.56
+          ],
+          "block_id": "b5_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3  Cables and  Conduits",
+          "bbox": [
+            241.85,
+            363.6,
+            351.05,
+            376.4
+          ],
+          "block_id": "b5_14",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7  INSTALLATION",
+          "bbox": [
+            9.29,
+            373.2,
+            96.17,
+            386.0
+          ],
+          "block_id": "b5_5",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "It is advisable to calculate in advance the exact length\nof cable required to be attached with each_of the cells\nas the splicing should be avoided to the extent possible.",
+          "bbox": [
+            242.09,
+            382.8,
+            458.57,
+            419.36
+          ],
+          "block_id": "b5_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.1 Saturation",
+          "bbox": [
+            9.77,
+            392.4,
+            68.57,
+            405.2
+          ],
+          "block_id": "b5_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.1.1 The tip of the piezometer containing the filter\nelement should be detached from the transducer. The\nceramic element should be boiled in clean water for\nabout 10 minutes. The water with the filter should\nthen be cooled and the transducer body should be\nattached to the filter element under water.\nThe\nassembly should be kept-soaked in water for at least\n24 h before installation.\nIn case of Sintered Bronze\n~element, only immersion in distilled water for about\n30 min is sufficient.",
+          "bbox": [
+            8.81,
+            411.84,
+            226.49,
+            531.2
+          ],
+          "block_id": "b5_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.1 In estimating the length of the cable to be added,\na suitable route between the point of embedment of\nthe instrument and the terminal station in the~gallery\nshould be selected by study of the drawings.\nIn\nselecting the route, due consideration should be given\nto the construction procedures involved in placing\nthe concrete/masonry where the instrument is to be\nembedded and to possible obstructions along the\nchosen route.\nAfter the selected route has been\nverified, the length of the cable required should be\nestimated, and a small amount usually 10 percent or\n2 m, whichever is larger, should be added to allow\nfor extra length required due to normal variations\nfrom the selected route.\nThe length of the cable\nshould-be limited as far as possible. In any case it\nshould not exceed 80 m.",
+          "bbox": [
+            242.57,
+            426.0,
+            460.49,
+            616.88
+          ],
+          "block_id": "b5_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If the piezometer is used in a borehole, the tip and\nfilter should be covered by a rubber membrane to\nprevent escape of water from the filter element before\nthe piezometer reaches the ground water level. A\nstring should be connected to the end of this rubber\nmembrane for pulling the membrane off the filter\nelement when the water level is reached.",
+          "bbox": [
+            10.97,
+            537.84,
+            227.93,
+            621.92
+          ],
+          "block_id": "b5_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.2 In general, cables are run horizontally without\nconduit in the concrete\nand in conduits in the\nmasonry\nand run in downward\nand upward",
+          "bbox": [
+            244.25,
+            622.8,
+            459.53,
+            659.36
+          ],
+          "block_id": "b5_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2 Placement\nof Piezometer",
+          "bbox": [
+            12.41,
+            628.56,
+            138.41,
+            641.36
+          ],
+          "block_id": "b5_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.2.1 The pore pressure cells are usually located",
+          "bbox": [
+            12.65,
+            647.76,
+            226.25,
+            660.56
+          ],
+          "block_id": "b5_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            234.17,
+            680.16,
+            241.37,
+            692.96
+          ],
+          "block_id": "b5_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 476.8320007324219,
+        "height": 726.7919921875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 8282 ( Part 2 )  :  1996",
+          "bbox": [
+            24.67,
+            15.82,
+            137.95,
+            27.7
+          ],
+          "block_id": "b6_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "directions in conduits both in the concrete and the\nmasonry. The conduit may be of any material which\nwill not collapse in the fresh concrete/masonry.\nThe\nsize of the conduit may be chosenin accordance with\nthe procedure given in IS 10334  :  1982.",
+          "bbox": [
+            24.43,
+            33.0,
+            241.15,
+            92.85
+          ],
+          "block_id": "b6_1",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "consequently. The normal prefix used for pore pressure\ncells is PP. When the cable lead is connected to a\ncell, an identification\nband with the instrument\nidentification number should be stamped or punched\non it and crimped to the cable about 900 mm from\nthe cell. A similar band should be crimped about 300\nmm from the free end of the cable. In addition a\nfew more markers, consisting of the identification\nnumber marked on white tape and covered with linen\nand friction tape, should be placed around the cable\nnear the reading end.",
+          "bbox": [
+            258.19,
+            33.0,
+            476.35,
+            163.89
+          ],
+          "block_id": "b6_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.3 If the cable leads are to cross contraction\njoints in the structure, a slack cable recess should\nbe provided at the crossing point. This may consist\nof a wooden box block out, forming a recess into\nwhich the cable is run. During placement of concrete/\nmasonry in the adjacent block, a 300 mm loop of\nslack cable should be left in the unfilled block out\nand the remaining length of cable laid in the usual\nmanner.",
+          "bbox": [
+            24.19,
+            98.04,
+            242.83,
+            205.65
+          ],
+          "block_id": "b6_2",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.5  Terminal\nBoxes",
+          "bbox": [
+            259.39,
+            169.32,
+            346.51,
+            182.13
+          ],
+          "block_id": "b6_10",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7.5.1\nLocation\nof Terminal\nBoxes",
+          "bbox": [
+            259.63,
+            189.38,
+            407.95,
+            199.52
+          ],
+          "block_id": "b6_11",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Permanent facilities for taking readings are provided\nin terminal recess usually located in blockouts on\nwalls of galleries nearest to the instruments.\nThe\nreading stations for all embedded instruments in a\nmonolith should be located in same monolith if\npossible, to avoid running of cable leads across\ncontraction joints.\nSeparate terminal recesses for\ncable leads from different types of instruments are\nnot required.\nWhere a gallery or similar\nsemi-\nprotected location is not available, a conveniently\naccessible exterior location may be selected and\nsecured against unauthorized tampering.",
+          "bbox": [
+            259.39,
+            205.32,
+            477.31,
+            347.01
+          ],
+          "block_id": "b6_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.4 Cables should be threaded individually into\nthe conduit, so that each cable could support its own\nweight. At the entrance of the cables into the conduits\nsuitable protection such as padding with burlap, should\nbe provided around each cable and in the interstices\nbetween the cables to prevent sharp bends and to\nprevent the entry of concrete/mortar\nand grout into\nthe conduit.",
+          "bbox": [
+            25.87,
+            210.84,
+            243.31,
+            305.73
+          ],
+          "block_id": "b6_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.5\nGroup of cables running horizontally\nin a\nconcrete lift may be taped together at intervals and\nlaid on the top of the last but one layer of concrete\nin the lift, covered with pads of fresh concrete/mortar\nat several points along the length. The placement of\nthe final concrete lift layer\nshould be allowed to\nproceed in the normal manner.",
+          "bbox": [
+            26.59,
+            310.92,
+            244.27,
+            395.01
+          ],
+          "block_id": "b6_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.5.2  Lighting",
+          "bbox": [
+            260.83,
+            352.68,
+            320.35,
+            365.49
+          ],
+          "block_id": "b6_13",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Normal gallery lighting is usually not adequate and\na supplementary fixture for lighting should be provided\nat the terminal reading station.\n.",
+          "bbox": [
+            260.59,
+            370.92,
+            477.31,
+            407.25
+          ],
+          "block_id": "b6_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.6 The layout shouId be so planned that cells and\nterminal boxes are located in the same block.",
+          "bbox": [
+            27.55,
+            400.2,
+            244.03,
+            425.01
+          ],
+          "block_id": "b6_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.5.3  Moisture\nPrevention",
+          "bbox": [
+            261.31,
+            412.68,
+            372.43,
+            425.49
+          ],
+          "block_id": "b6_15",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.3.7 In cases where a number of cables from widely\nspread points are collected at one central point and\nrun downward into a conduit, a very successful plan\nis to run the cable in two steps. A collecting box or\nconcrete form is erected around the grouped conduits\nso that the lift is left about 450 mm low at the\nconduits. During the placement of the concrete in\nwhich the cells are embedded, the cables arebrought\nhorizontally to the collection point, coiled and hung\nout of the fresh concrete.\nAs soon as the concrete\nhas set sufficiently to bear traffic, the cable coils\nare taken down the conduit to the terminal boxes.\nThe advantage is that it is much easier to sort out\nand run the cables when they are not muddled with\nfresh concrete/mortar.",
+          "bbox": [
+            28.27,
+            430.44,
+            245.71,
+            609.81
+          ],
+          "block_id": "b6_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "To reduce corrosion at the cable terminals and panel\nboard connections, which is usually a serious problem\nin dam galleries,\nan electrical\nstrip heater\nor\nincandescent lamp should be installed within the\nterminal recesses and permanently kept on. A bulb\nprovided in the recess for lighting may also serve\nthis purpose.",
+          "bbox": [
+            260.83,
+            431.16,
+            478.27,
+            515.25
+          ],
+          "block_id": "b6_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.5.4  Installing\nTerminal\nEquipment",
+          "bbox": [
+            262.51,
+            520.2,
+            418.99,
+            533.01
+          ],
+          "block_id": "b6_17",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "After all the cable leads have been brought into a\nterminal recess, the surplus lengths of cables should\nbe cut off and the end of individual conductors prepared\nfor permanent\nconnection\nto the panel board or\nterminal strip.\nProper care should be taken for\nidentification\nof the cables and cells.",
+          "bbox": [
+            262.51,
+            538.44,
+            479.71,
+            610.53
+          ],
+          "block_id": "b6_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.4  Identification\nof Cables\nand Cells",
+          "bbox": [
+            29.95,
+            615.24,
+            200.83,
+            628.05
+          ],
+          "block_id": "b6_7",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "8  COLLECTION\nOF COMPLEMENTA4RY\nDATA",
+          "bbox": [
+            262.51,
+            615.96,
+            450.91,
+            640.27
+          ],
+          "block_id": "b6_19",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Each cell should be identified by some kind of code\nnumber. A preferable identification mark is a letter\nprefix designating the type of instrument and numbered",
+          "bbox": [
+            29.71,
+            633.48,
+            245.95,
+            669.81
+          ],
+          "block_id": "b6_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1  The collection of related and supporting data\npertaining to structural behaviour is an integral part",
+          "bbox": [
+            262.99,
+            645.96,
+            478.99,
+            670.77
+          ],
+          "block_id": "b6_20",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            253.63,
+            682.67,
+            260.11,
+            692.48
+          ],
+          "block_id": "b6_21",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 498.1839904785156,
+        "height": 758.8880004882812
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 8282 (  Part 2 )  :  1996",
+          "bbox": [
+            346.13,
+            18.87,
+            461.57,
+            31.67
+          ],
+          "block_id": "b7_21",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "of the instrumentation\nprogramme,\nand should\nproceed concurrently\nwith the installation\nof the\ninstruments\nand the readings\nof the embedded\ninstruments. Types of information required to support\nor clarify the instrument observation results include\nthe following:",
+          "bbox": [
+            12.29,
+            34.95,
+            228.05,
+            106.55
+          ],
+          "block_id": "b7_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The value of calibration factor K and the value of\nconstant  A  provided by the instrument manufacturer\nby calibrating the instruments in the factory.",
+          "bbox": [
+            244.13,
+            35.43,
+            461.09,
+            71.75
+          ],
+          "block_id": "b7_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The values of  K  and  A  are substituted in the following\nformulae to arrive at the value of frequency  F  of the\nvibrating wire at  \u2018t\u2019 \u201cC.",
+          "bbox": [
+            244.37,
+            77.91,
+            460.13,
+            114.23
+          ],
+          "block_id": "b7_23",
+          "font_size": 9.3,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Construction\nProgress\n-\nschematic\nconcretelmasonary placing diagram showing\nlift placement\ndates, concrete\nplacing\ntemperatures and lift thickness.",
+          "bbox": [
+            48.29,
+            112.71,
+            228.05,
+            161.27
+          ],
+          "block_id": "b7_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)",
+          "bbox": [
+            30.53,
+            112.9,
+            42.82,
+            127.41
+          ],
+          "block_id": "b7_1",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "=  K [(f,*-f)+C(t-t,J\n-A",
+          "bbox": [
+            294.77,
+            122.41,
+            402.05,
+            134.28
+          ],
+          "block_id": "b7_34",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P",
+          "bbox": [
+            280.13,
+            124.21,
+            287.33,
+            134.03
+          ],
+          "block_id": "b7_24",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            244.85,
+            141.51,
+            270.29,
+            154.31
+          ],
+          "block_id": "b7_25",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "K\n=",
+          "bbox": [
+            264.53,
+            156.87,
+            290.45,
+            169.67
+          ],
+          "block_id": "b7_26",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "calibration factor (barlflZ*),",
+          "bbox": [
+            298.37,
+            156.87,
+            418.13,
+            169.67
+          ],
+          "block_id": "b7_35",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Concrete Mixes -  cement contents, water-\ncement\nratios,\nand typical\ncombined\naggregates gradings for interior and exterior\nmixes.",
+          "bbox": [
+            48.29,
+            168.63,
+            227.57,
+            216.47
+          ],
+          "block_id": "b7_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)",
+          "bbox": [
+            30.53,
+            168.82,
+            43.06,
+            183.33
+          ],
+          "block_id": "b7_2",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "zero frequency (HZ2) at  tOoC,",
+          "bbox": [
+            298.37,
+            174.15,
+            423.65,
+            186.95
+          ],
+          "block_id": "b7_36",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f,\n=",
+          "bbox": [
+            262.85,
+            176.31,
+            290.45,
+            189.11
+          ],
+          "block_id": "b7_27",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "frequency, (HZ) at  t\u201dC,",
+          "bbox": [
+            298.37,
+            191.43,
+            394.61,
+            204.23
+          ],
+          "block_id": "b7_37",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f\n=",
+          "bbox": [
+            263.09,
+            193.59,
+            290.69,
+            206.39
+          ],
+          "block_id": "b7_28",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "pressure (bar) at  t\u201dC,",
+          "bbox": [
+            298.37,
+            208.71,
+            389.57,
+            221.51
+          ],
+          "block_id": "b7_38",
+          "font_size": 9.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "P\n=",
+          "bbox": [
+            264.77,
+            211.09,
+            290.69,
+            220.91
+          ],
+          "block_id": "b7_29",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c>",
+          "bbox": [
+            31.01,
+            220.15,
+            50.3,
+            239.61
+          ],
+          "block_id": "b7_3",
+          "font_size": 14.2,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Fine Aggregate\n-\ntypical fine aggregate\ngradings, before and after mixing.",
+          "bbox": [
+            48.53,
+            223.83,
+            226.13,
+            248.63
+          ],
+          "block_id": "b7_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "coefficient of temperature\nHZ2/\u201cC,",
+          "bbox": [
+            298.61,
+            225.99,
+            451.25,
+            238.79
+          ],
+          "block_id": "b7_39",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c\n=",
+          "bbox": [
+            265.49,
+            228.61,
+            290.93,
+            238.43
+          ],
+          "block_id": "b7_30",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "zero offset (bar),",
+          "bbox": [
+            298.85,
+            243.75,
+            372.29,
+            256.55
+          ],
+          "block_id": "b7_40",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A\n=",
+          "bbox": [
+            264.29,
+            246.13,
+            290.93,
+            255.95
+          ],
+          "block_id": "b7_31",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Air Entrained\n-\namount of entrained air,\nadmixture used, how introduced.",
+          "bbox": [
+            48.05,
+            255.99,
+            228.53,
+            280.79
+          ],
+          "block_id": "b7_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)",
+          "bbox": [
+            31.25,
+            256.18,
+            43.54,
+            270.69
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "temperature\nof instrument at the time\nof calibration\nin \u2018C, and\ntemperature of instrument at the time\nof observation in \u201cC.",
+          "bbox": [
+            297.41,
+            261.03,
+            460.61,
+            309.59
+          ],
+          "block_id": "b7_41",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "to\n=",
+          "bbox": [
+            265.49,
+            263.41,
+            291.17,
+            273.23
+          ],
+          "block_id": "b7_32",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "t\n=",
+          "bbox": [
+            265.73,
+            285.01,
+            291.17,
+            296.99
+          ],
+          "block_id": "b7_33",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)",
+          "bbox": [
+            31.49,
+            288.34,
+            43.78,
+            302.85
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Cement Type -\nsource or sources, physical\nand chemical properties, including heat of\nhydration.",
+          "bbox": [
+            49.25,
+            288.39,
+            229.49,
+            324.71
+          ],
+          "block_id": "b7_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.2  The observations of the pore pressure cells should\nbegin as soon as the instruments are covered and\nmay continue at gradually increased time intervals.\nThe pore pressures within concrete/masonry develop\nslowly and occur only when hydrostatic\nhead is\nsustained for an extendedperiod against the upstream\nconcrete/masonry\nsurface. The pore pressure cells\n\u2019\nmay be read initially at 1 to 3 h intervals after\nembedment and subsequent readings may be taken\nat weekly intervals after the reservoir level has reached\nthe level of the instruments and until the operating\nreservoir elevation has been attained and twice monthly\nthereafter.",
+          "bbox": [
+            245.33,
+            310.95,
+            480.53,
+            465.35
+          ],
+          "block_id": "b7_42",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0",
+          "bbox": [
+            31.73,
+            332.5,
+            40.42,
+            347.01
+          ],
+          "block_id": "b7_6",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Aggregate\n-\ntypes\nof\ngeologic\nclassification,\npetrographic\ndescription,\nsources, and chemical properties.",
+          "bbox": [
+            48.53,
+            332.55,
+            224.21,
+            369.11
+          ],
+          "block_id": "b7_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Curing and Insulation\n-\ntype and method\nof curing, type, location and duration of\ninsulation protection, if any.",
+          "bbox": [
+            49.97,
+            376.71,
+            230.21,
+            413.27
+          ],
+          "block_id": "b7_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Pool Elevations\n-\ndaily reservoir\nand\ntailwater elevations.",
+          "bbox": [
+            49.73,
+            420.63,
+            229.25,
+            445.19
+          ],
+          "block_id": "b7_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Foundation\nConditions\n-\nfinal\nrock\nelevations, unusual geologic features.",
+          "bbox": [
+            49.97,
+            452.55,
+            228.29,
+            477.11
+          ],
+          "block_id": "b7_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "j)",
+          "bbox": [
+            31.25,
+            452.98,
+            40.18,
+            467.49
+          ],
+          "block_id": "b7_7",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10 RECORD OF OBSERVATION AND\nMETHOD OF ANALYSIS",
+          "bbox": [
+            247.25,
+            473.43,
+            429.17,
+            498.23
+          ],
+          "block_id": "b7_43",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Much of the information listed above will usually\nbe available from investigations carried out prior to\nand during the project design stage or may be obtained\nunder usual construction control operations.",
+          "bbox": [
+            14.69,
+            484.71,
+            230.93,
+            533.27
+          ],
+          "block_id": "b7_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The observations made of the embedded cells should\nbe suitably recorded. A recommended proforma for\nthe record of observations\nand for transfer\nif\nobservations to a permanent record in office is given\nin Annex A. This data sheet form may be got printed\nin advance upon which the observation! can be noted\nas they are taken and for preparation of permanent\nrecords.",
+          "bbox": [
+            247.01,
+            506.55,
+            463.01,
+            602.63
+          ],
+          "block_id": "b7_44",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.1.1 Observers should be alert to detect cracks or\nsimilar evidences of structural distress which ~may\ndevelop; and record time of occurrence, initial size\nand extent and subsequent changes in size and extent,\nand any corrective action taken.",
+          "bbox": [
+            15.41,
+            539.43,
+            234.77,
+            599.75
+          ],
+          "block_id": "b7_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9 OBSERVATIONS",
+          "bbox": [
+            16.37,
+            606.15,
+            102.05,
+            618.95
+          ],
+          "block_id": "b7_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Alternatively, if a Central Data Acquisition System\nis used, the data is automatically\ncollected and\npresented in the formats required by the method of\nanalysis used.",
+          "bbox": [
+            248.21,
+            610.95,
+            464.69,
+            659.27
+          ],
+          "block_id": "b7_45",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.1  The readings of resonant frequency change should\nbe taken with the help of readout unit.",
+          "bbox": [
+            16.37,
+            625.11,
+            231.89,
+            649.67
+          ],
+          "block_id": "b7_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 478.5360107421875,
+        "height": 733.9520263671875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS 8282 ( Part 2 ) : 1996",
+          "bbox": [
+            15.82,
+            26.34,
+            135.39,
+            36.41
+          ],
+          "block_id": "b8_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEX A\n( Clause 10 )",
+          "bbox": [
+            209.02,
+            45.05,
+            273.84,
+            71.93
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PROFORMA FOR RECORD OFOBSERVATIONS OF VIBRATING WJRE TYPE PORE",
+          "bbox": [
+            47.5,
+            88.02,
+            433.23,
+            98.09
+          ],
+          "block_id": "b8_2",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PRESSURE CELL",
+          "bbox": [
+            199.9,
+            101.22,
+            280.11,
+            111.29
+          ],
+          "block_id": "b8_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Project\n:",
+          "bbox": [
+            16.54,
+            125.91,
+            70.06,
+            138.71
+          ],
+          "block_id": "b8_4",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nInstrument\nName",
+          "bbox": [
+            70.06,
+            145.11,
+            165.34,
+            157.91
+          ],
+          "block_id": "b8_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nInstrument Manufacturer\n:",
+          "bbox": [
+            69.82,
+            163.83,
+            219.34,
+            176.63
+          ],
+          "block_id": "b8_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Location\n:",
+          "bbox": [
+            17.02,
+            182.55,
+            73.42,
+            195.35
+          ],
+          "block_id": "b8_7",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Calibration Temp (t,)",
+          "bbox": [
+            268.06,
+            201.03,
+            359.26,
+            213.83
+          ],
+          "block_id": "b8_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Initial frequency f,\n:",
+          "bbox": [
+            17.74,
+            201.27,
+            130.3,
+            214.07
+          ],
+          "block_id": "b8_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Temperature Coefficient",
+          "bbox": [
+            268.06,
+            219.75,
+            370.06,
+            232.55
+          ],
+          "block_id": "b8_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Calibration Factor (K)\n:",
+          "bbox": [
+            17.74,
+            220.23,
+            130.54,
+            233.03
+          ],
+          "block_id": "b8_9",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Zero Offsets (A)\n:",
+          "bbox": [
+            17.74,
+            238.95,
+            130.54,
+            251.75
+          ],
+          "block_id": "b8_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "PorePressure\nP=K[(r-fZ)+C(t-to)].+.4",
+          "bbox": [
+            16.54,
+            257.67,
+            170.62,
+            270.47
+          ],
+          "block_id": "b8_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Temp  of\nLocation\nof Cell",
+          "bbox": [
+            100.54,
+            295.59,
+            138.94,
+            331.55
+          ],
+          "block_id": "b8_15",
+          "font_size": 8.8,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Date\nR.WL\nin  m",
+          "bbox": [
+            18.22,
+            296.41,
+            76.54,
+            320.39
+          ],
+          "block_id": "b8_14",
+          "font_size": 9.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Remarks",
+          "bbox": [
+            420.7,
+            296.77,
+            453.1,
+            306.59
+          ],
+          "block_id": "b8_20",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Pore\nPressure\nin Metres\nof Water\nHead",
+          "bbox": [
+            359.02,
+            297.25,
+            398.38,
+            354.35
+          ],
+          "block_id": "b8_19",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Observed\nChange\nin\nFrequency\nFrequency\n(f) H,\n<L-f Wz",
+          "bbox": [
+            163.66,
+            297.73,
+            281.98,
+            333.77
+          ],
+          "block_id": "b8_17",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Pore\nPressure\n(P) Bar",
+          "bbox": [
+            303.58,
+            297.73,
+            338.62,
+            331.31
+          ],
+          "block_id": "b8_18",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(t)\u201cc",
+          "bbox": [
+            111.82,
+            335.17,
+            130.78,
+            344.99
+          ],
+          "block_id": "b8_16",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Observer\u2019s Signature:",
+          "bbox": [
+            307.18,
+            517.35,
+            397.42,
+            530.15
+          ],
+          "block_id": "b8_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Date:",
+          "bbox": [
+            307.42,
+            536.55,
+            330.46,
+            549.35
+          ],
+          "block_id": "b8_22",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            245.74,
+            693.73,
+            252.22,
+            703.55
+          ],
+          "block_id": "b8_23",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 498.2400207519531,
+        "height": 750.031982421875
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bureau of Indian Standards",
+          "bbox": [
+            15.84,
+            20.71,
+            139.68,
+            31.84
+          ],
+          "block_id": "b9_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS is a statutory institution established-under the  Bureau oflndian StandardsAct,\n1986 to  promote harmonious\ndevelopment of the activities of standardization,\nmarking and quality certification of goods and attending to\nconnected matters in the country.",
+          "bbox": [
+            15.36,
+            41.87,
+            480.72,
+            76.99
+          ],
+          "block_id": "b9_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright",
+          "bbox": [
+            15.84,
+            87.67,
+            59.52,
+            98.8
+          ],
+          "block_id": "b9_2",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without\nthe prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the\nstandard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to\ncopyright be addressed to the Director (Publications), BIS.",
+          "bbox": [
+            15.6,
+            108.83,
+            480.96,
+            154.99
+          ],
+          "block_id": "b9_3",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Review of Indian Standards",
+          "bbox": [
+            16.56,
+            165.67,
+            139.92,
+            176.8
+          ],
+          "block_id": "b9_4",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amendments are issued to standards as the need arises on the basis~of comments. Standards are also reviewed\nperiodically; a standard along with amendments is reaffirmed when such review indicates that no changes are\nneeded; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards\nshould ascertain that they are in possession of the latest amendments or edition by referring to the latest issue\nof \u2018BIS Handbook\u2019 and \u2018Standards  :  Monthly Addition!;\u2018.",
+          "bbox": [
+            16.56,
+            187.07,
+            480.72,
+            244.03
+          ],
+          "block_id": "b9_5",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This Indian Standard has been developed from Dot : No. RVD 16 ( 178 )",
+          "bbox": [
+            17.04,
+            255.95,
+            339.6,
+            268.75
+          ],
+          "block_id": "b9_6",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Amendments Issued Since Publication",
+          "bbox": [
+            164.16,
+            288.07,
+            331.68,
+            299.2
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Amend No.\nDate of Issue\nText Affected",
+          "bbox": [
+            32.16,
+            312.35,
+            477.36,
+            325.63
+          ],
+          "block_id": "b9_8",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Headquarters:\nBUREAU\nOF\nINDIAN\nSTANDARDS",
+          "bbox": [
+            18.24,
+            412.69,
+            362.4,
+            441.07
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Telegrams: Manaksanstha\n( Common to\nall offices )",
+          "bbox": [
+            368.88,
+            446.27,
+            482.4,
+            480.91
+          ],
+          "block_id": "b9_14",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002\nTelephones  :  323 01 31, 323 94 02, 323 83 75",
+          "bbox": [
+            18.48,
+            446.51,
+            295.44,
+            470.11
+          ],
+          "block_id": "b9_10",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Telephone",
+          "bbox": [
+            435.36,
+            486.11,
+            477.12,
+            498.91
+          ],
+          "block_id": "b9_15",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Regional Offices:",
+          "bbox": [
+            18.72,
+            486.59,
+            91.68,
+            499.39
+          ],
+          "block_id": "b9_11",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "323 76 17\nI  323 3841",
+          "bbox": [
+            434.16,
+            504.11,
+            483.36,
+            530.11
+          ],
+          "block_id": "b9_16",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Central  :  Manak Bhavan, 9 Bahadur Shah Zafar Marg\nNEW DELHI 110002",
+          "bbox": [
+            19.2,
+            504.59,
+            250.32,
+            528.43
+          ],
+          "block_id": "b9_12",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1\n337 84 99, 337 85 61\n337 86 26, 337 86 62",
+          "bbox": [
+            378.72,
+            540.35,
+            482.4,
+            566.35
+          ],
+          "block_id": "b9_17",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Eastern  :  l/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola\nCALCUTTA 700054",
+          "bbox": [
+            19.2,
+            541.07,
+            286.8,
+            564.91
+          ],
+          "block_id": "b9_13",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Northern : SC0 335-336, Sector 34-A, CHANDIGARH 160022\n1\n60 38 43\n60 20 25",
+          "bbox": [
+            19.44,
+            565.79,
+            482.16,
+            591.79
+          ],
+          "block_id": "b9_18",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Southern : C. I. T. Campus, IV Cross Road, MADRAS 6004 13\nI\n235~02 16,235 04 42\n235 15 19,235 23 15",
+          "bbox": [
+            20.16,
+            593.15,
+            484.08,
+            619.39
+          ],
+          "block_id": "b9_19",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Western  :  Manakalaya, E9 MIDC, Marol, Andheri (East)\nI\n8329295,8327858\nMUMBAI 400093\n8327891,8327892",
+          "bbox": [
+            20.64,
+            620.03,
+            466.8,
+            645.79
+          ],
+          "block_id": "b9_20",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Branches  :  AHMADABAD.\nBANGALORE.\nBHOPAL.\nBHUBANESHWAR.\nCOIMBATORE.\nFARIDABAD.\nGHAZIABAD.\nGUWAHATI.\nHYDERABAD.\nJAIPUR.\nKANPUR.\nLUCKNOW.\nPATNA.\nTHIRUVANANTHAPURAM.",
+          "bbox": [
+            20.64,
+            654.11,
+            448.08,
+            689.95
+          ],
+          "block_id": "b9_21",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Printed at New India Printing Press, Khujs. India",
+          "bbox": [
+            342.0,
+            733.25,
+            482.76,
+            741.57
+          ],
+          "block_id": "b9_22",
+          "font_size": 6.2,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 510.6639709472656,
+        "height": 776.7999877929688
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": []
+}

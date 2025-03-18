@@ -1,0 +1,1458 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992
+(Reaffirmed 1998)
+Edition 4.1
+(1998-01)<<HEADING_END>>
+<<IMAGE_1>>
+[Image 1 contains text: WANT AAP
+Brak war aes cra HATA Sea STAT
+ct tifa alec
+WT 1 aa, AR an saa waawa
+Gs 2 344d Yicaa
+(HAT TAA)]
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>USE OF STRUCTURAL STEEL IN OVERHEAD
+TRANSMISSION LINE TOWERS — CODE
+OF PRACTICE<<HEADING_END>>
+<<HEADING level=3>>PART 1
+MATERIAL, LOADS AND PERMISSIBLE STRESSES<<HEADING_END>>
+<<HEADING level=1>>Section 2
+Permissible Stresses
+( Third Revision )<<HEADING_END>>
+<<PARAGRAPH>>(Incorporating Amendment No. 1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>UDC 621.315.668.2<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BIS 2002<<PARAGRAPH_END>>
+<<HEADING level=3>>B U R E A U
+O F
+I N D I A N
+S T A N D A R D S
+MANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG
+NEW   DELHI   110002<<HEADING_END>>
+<<HEADING level=3>>Price Group 6<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Structural Engineering Sectional Committee, CED 7<<PARAGRAPH_END>>
+<<PARAGRAPH>>FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard (Third Revision) was adopted by the Bureau of Indian Standards, after the
+draft finalized by the Structural Engineering Sectional Committee had been approved by the Civil
+Engineering Division Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard has been prepared with a view to establish uniform practices for design, fabrication,
+testing and inspection of overhead transmission line towers. Part 1 of the standard covers
+requirements in regard to material, types of towers, loading and permissible stresses apart from
+other relevant design provisions. Provisions for fabrication, galvanizing, inspection and packing
+have been covered in Part 2 whereas provisions for testing of these towers have been covered in
+Part 3 of the standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This standard (Part 1) was first published in 1967 and subsequently revised in 1973 and 1977. In
+this revision, the code has been split in two sections namely Section 1 Materials and loads, and
+Section 2 Permissible stresses. Other major modifications effected in this revision (Section 2) are
+as under:
+a) Permissible stresses in structural members have been given in terms of the yield strength of
+the material. With the inclusion of bolts of property class 5.6 of IS 12427 : 1988, permissible
+stresses for these bolts have also been included.
+b) Critical stress in compression  F cr  has been modified for width/thickness ratio of the angles
+exceeding the limiting value for calculating the allowable unit compressive stresses.
+c) Effective slenderness ratios (  KL / r  ) for redundant members have been included and
+provisions further elaborated.
+d) Examples for the determination of slenderness ratios have been extended to include ‘ K ’ and
+‘ X ’ bracings with and without secondary members.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Designs provisions or other items not covered in this standard shall generally be in accordance
+with IS 800 : 1984 ‘Code of practice for general construction in steel (  second revision  )’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>While preparing this standard, practices prevailing in the country in this field have been kept in
+view. Assistance has also been derived from the ‘Guide for design of steel transmission line towers’
+(second edition) — ASCE Manual No. 52, issued by American Society of Civil Engineers (ASCE)
+New York, 1988.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This edition 4.1 incorporates Amendment No. 1 (January 1998). Side bar indicates modification of
+the text as the result of incorporation of the amendments.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the purpose of deciding whether a particular requirement of this Code is complied with, the
+final value, observed or calculated, expressing the result of a test, shall be rounded off in
+accordance with IS 2 : 1960 ‘Rules for rounding off numerical values (  revised  )’. The number of
+significant places retained in the rounded off value should be the same as that of the specified
+value in this standard.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>USE OF STRUCTURAL STEEL IN OVERHEAD
+TRANSMISSION LINE TOWERS — CODE
+OF PRACTICE<<HEADING_END>>
+<<HEADING level=3>>PART 1
+MATERIAL, LOADS AND PERMISSIBLE STRESSES<<HEADING_END>>
+<<HEADING level=1>>Section 2
+Permissible Stresses
+( Third Revision )<<HEADING_END>>
+<<PARAGRAPH>>exceed the following percentage of the ultimate
+strength of the conductor:<<PARAGRAPH_END>>
+<<HEADING level=3>>1 SCOPE<<HEADING_END>>
+<<HEADING level=3>>1.1  This standard (Part 1/Sec 2) stipulates the
+permissible
+stresses
+and
+other
+design
+parameters to be adopted in the design of
+self-supporting steel lattice towers for overhead
+transmission lines.<<HEADING_END>>
+<<PARAGRAPH>>Initial unloaded tension
+35 percent
+Final unloaded tension
+25 percent<<PARAGRAPH_END>>
+<<PARAGRAPH>>provided that the ultimate tension under
+everyday
+temperature
+and
+full
+wind
+or
+minimum temperature and two-thirds wind
+pressure does not exceed 70 percent of the
+ultimate tensile strength of the cable.<<PARAGRAPH_END>>
+<<HEADING level=3>>1.1.1  Materials, type of towers, loading and
+broken wire conditions are covered in Section 1
+of this standard.<<HEADING_END>>
+<<HEADING level=3>>1.1.2  Provisions on fabrication and testing of
+transmission line towers have been covered in
+Part 2 and Part 3 respectively of the standard.<<HEADING_END>>
+<<HEADING level=3>>5 PERMISSIBLE STRESSES<<HEADING_END>>
+<<HEADING level=3>>5.1 Axial Stresses in Tension<<HEADING_END>>
+<<PARAGRAPH>>NOTE — While formulating the provisions of this
+standard it has been assumed that the structural
+connections are through bolts.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The estimated tensile stresses on the net
+effective sectional areas (  see  9  ) in various
+members,
+shall
+not
+exceed
+minimum
+guaranteed yield stress of the material.
+However in case the angle section is connected
+by one leg only, the estimated tensile stress on
+the net effective sectional area shall not exceed
+F y , where  F y , is the minimum guaranteed yield
+stress of the material.<<PARAGRAPH_END>>
+<<HEADING level=3>>1.2  This standard does not cover guyed towers.
+These will be covered in a separate standard.<<HEADING_END>>
+<<HEADING level=3>>2 REFERENCES<<HEADING_END>>
+<<PARAGRAPH>>The Indian Standards listed in Annex A are
+necessary adjuncts to this standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Axial Stresses in Compression<<HEADING_END>>
+<<HEADING level=3>>3 STATUTORY REQUIREMENTS<<HEADING_END>>
+<<HEADING level=3>>5.2.1  The estimated compressive stresses in
+various members shall not exceed the values
+given by the formulae in  5.2.2 .<<HEADING_END>>
+<<HEADING level=3>>3.1  Statutory requirement as laid down in the
+‘ Indian Electricity Rules, 1956 ’ or by any other
+statutory body applicable to such structures as
+covered in this standard shall be satisfied.<<HEADING_END>>
+<<HEADING level=3>>5.2.2  The allowable unit stress  F a , in MPa on
+the gross cross sectional area of the axially
+loaded compression members shall be:<<HEADING_END>>
+<<PARAGRAPH>>3.2  Compliance with this code does not relieve
+any one from the responsibility of observing
+local and state byelaws, fire and safety laws
+and
+other
+civil
+aviation
+requirements
+applicable to such structures.<<PARAGRAPH_END>>
+<<IMAGE_2>>
+[Image 2 contains text: ( KL/r ) ] x Fy
+~ 21 CG
+= " when KL/r < Co
+C
+me XE when KL/r > Ce
+= “CRLn]
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<HEADING level=3>>4 CONDUCTOR TENSION<<HEADING_END>>
+<<PARAGRAPH>>and,<<PARAGRAPH_END>>
+<<HEADING level=3>>4.1  The
+conductor
+tension
+at
+everyday
+temperature and without external load should not<<HEADING_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1
+Ultimate Stresses in Bolts, MPa
+(  Clause  5.4 )<<HEADING_END>>
+<<PARAGRAPH>>C e
+=<<PARAGRAPH_END>>
+<<PARAGRAPH>>π  2  E / F y<<PARAGRAPH_END>>
+<<PARAGRAPH>>F y
+= minimum guaranteed yield stress of
+the material, MPa
+E
+= modulus, of elasticity of steel that is
+2 × 10 5  MPa,
+KL / r  = largest effective slenderness ratio of
+any
+unbraced
+segment
+of
+the
+member,
+L
+= unbraced length of the compression
+member (  see   6.1.1  ) in cm, and
+r
+= appropriate radius of gyration in
+cm.<<PARAGRAPH_END>>
+<<HEADING level=3>>Nature of Stress
+Permissible
+Stress for Bolts
+of Property
+Class<<HEADING_END>>
+<<HEADING level=3>>Remarks<<HEADING_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>4.6
+5.6
+(1)
+(2)
+(3)
+(4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Shear<<PARAGRAPH_END>>
+<<HEADING level=3>>Shear stress on gross
+area of bolts
+218
+310
+For gross area of
+bolts (  see  10.4  ).
+For bolts in double
+shear the area to
+be assumed shall
+be twice the area
+defined<<HEADING_END>>
+<<HEADING level=3>>5.2.2.1  The
+formulae
+given
+in
+5.2.2
+are
+applicable provided the largest width thickness
+ratio  b / t  is not more than the limiting value
+given by:
+(  b / t  ) lim  = 210/<<HEADING_END>>
+<<PARAGRAPH>>Bearing<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bearing stress on
+gross diameter of
+bolts<<PARAGRAPH_END>>
+<<HEADING level=3>>436
+620
+For the bolt area in
+bearing (  see   10.5  )<<HEADING_END>>
+<<PARAGRAPH>>F y<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tension<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>Axial tensile stress
+194
+250
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>b  = distance from edge of fillet to the
+extreme fibre in mm, and
+t  = thickness of flange in mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>6 SLENDERNESS RATIOS<<HEADING_END>>
+<<HEADING level=3>>6.1  The slenderness ratios of compression and
+redundant members shall be determined as
+follows:<<HEADING_END>>
+<<HEADING level=3>>5.2.2.2  Where the width thickness ratio exceeds
+the limits given in  5.2.2.1 , the formulae given
+in  5.2.2  shall be used substituting for  F y  the
+value  F cr  given by:<<HEADING_END>>
+<<PARAGRAPH>>Type of Members
+Value of KL /r<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)  Compression Members<<PARAGRAPH_END>>
+<<IMAGE_3>>
+[Image 3 contains text: 1]
+<<PARAGRAPH>>a)<<PARAGRAPH_END>>
+<<PARAGRAPH>>i) Leg sections or joint
+members bolted in both
+faces at connections for
+0 <  L / r   <  120<<PARAGRAPH_END>>
+<<PARAGRAPH>>L / r<<PARAGRAPH_END>>
+<<PARAGRAPH>>and<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii) Members
+with
+concentric loading at
+both
+ends
+of
+the
+unsupported panel for
+0 <  L / r  <  120<<PARAGRAPH_END>>
+<<PARAGRAPH>>L / r<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — The maximum permissible value of  b / t  for any
+type of steel shall not exceed 25.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3  The redundant members shall be checked
+individually for 2.5 percent of axial load carried
+by the member to which it supports.<<HEADING_END>>
+<<PARAGRAPH>>iii) Member
+with
+concentric loading at
+one end and normal
+framing eccentricity at
+the other end of the
+unsupported panel for
+0 <  L / r  <  120<<PARAGRAPH_END>>
+<<PARAGRAPH>>30 + 0.75  L / r<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Stresses in Bolts<<HEADING_END>>
+<<PARAGRAPH>>Ultimate stresses in bolts conforming to
+property class 4.6 of IS 6639 : 1972 and to
+property class 5.6 of IS 12427 : 1988 shall not
+exceed the value given in Table 1. For bolts
+conforming
+to
+IS 3757 : 1985,
+permissible
+stresses and other provisions governing the use
+of high strength bolts reference shall be made
+to IS 4000 : 1992.<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv) Member with normal
+framing
+eccentricities
+at both ends of the
+unsupported panel for
+0 <  L / r  <  120<<PARAGRAPH_END>>
+<<PARAGRAPH>>60 + 0.50  L / r<<PARAGRAPH_END>>
+<<PARAGRAPH>>v) Member
+unrestrained
+against rotation at both
+ends of the unsupported
+panel for 120  <   L / r   <
+200<<PARAGRAPH_END>>
+<<PARAGRAPH>>L / r<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.1  Where the material of bolt and the
+structural member are of different grades, the
+bearing strength of the joint shall be governed
+by the lower of the two.<<HEADING_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>7 MINIMUM THICKNESS<<HEADING_END>>
+<<PARAGRAPH>>vi) Member
+partially
+restrained
+against
+rotation at one end of
+the unsupported panel
+for 120  <  L / r   <  225<<PARAGRAPH_END>>
+<<PARAGRAPH>>28.6 + 0.762  L / r<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1  Minimum thickness of galvanized and
+painted tower members shall be as follows:<<HEADING_END>>
+<<PARAGRAPH>>Minimum Thickness,
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>vii) Member
+partially
+restrained
+against
+rotation at both ends of
+the unsupported panel
+for 120  <   L / r   <  250<<PARAGRAPH_END>>
+<<PARAGRAPH>>46.2 + 0.615  L / r<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>Galvanized
+Painted<<PARAGRAPH_END>>
+<<PARAGRAPH>>Leg members, ground
+wire peak member and
+lower members of cross
+arms in compression<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+6<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)  Redundant Members<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other members
+4
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>i) For 0 <  L / r  < 250
+L / r<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2  Gusset plates shall be designed to resist the
+shear, direct and flexural stresses acting on the
+weakest or critical section. Re-entrant cuts
+shall be avoided as far as practical. Minimum
+thickness of gusset shall be 2 mm more than
+lattice it connects only in case when the lattice
+is directly connected on the gusset outside the
+leg member. In no case the gusset shall be less
+than 5 mm in thickness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — The values of  KL / r  corresponding to (a) (vi)
+and (a) (vii), the following evaluation is suggested:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1 The restrained member must be connected to the
+restraining member with at least two bolts.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2 The restraining member must have a stiffness factor
+I / L  in the stress plane (  I  = Moment of inertia and  L  =
+Length ) that equals or exceeds the sum of the
+stiffness factors in the stress plane of the restrained
+members that are connected to it.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3 Angle members connected by one leg should have the
+holes located as close to the outstanding leg as
+feasible. Normal framing eccentricities at load
+transfer connection imply that connection holes are
+located between the heel of the angle end the
+centreline of the framing leg.<<PARAGRAPH_END>>
+<<HEADING level=3>>8 NET SECTIONAL AREA FOR TENSION
+MEMBER<<HEADING_END>>
+<<PARAGRAPH>>8.1  The net sectional area shall be the least
+area which is to be obtained by deducting from
+the gross sectional area, the area of all holes
+cut by any straight, diagonal or zigzag line
+across the member. In determining the total
+area of the holes to be deducted from gross
+sectional area, the full area of the first hole
+shall be counted, plus a fraction part  X , of each
+succeeding hole cut by the line of holes under
+consideration. The value of  X  shall be
+determined from the formula:<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.1  In calculating the slenderness ratio of the
+members, the length  L  should be the distance
+between the intersections of the centre of
+gravity lines at each end of the member.<<HEADING_END>>
+<<PARAGRAPH>>6.2  Examples showing the application of the
+procedure given in  6.1  and  6.1.1  and method of
+determining the slenderness ratio of legs and
+bracings with or without secondary members
+are given in Annex B.<<PARAGRAPH_END>>
+<<PARAGRAPH>>P 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>X   .  = 1 –<<PARAGRAPH_END>>
+<<PARAGRAPH>>4 gd
+----------<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE — Where test and/or analysis demonstrate that
+any other type of bracing pattern if found technically
+suitable, the same can be adopted.<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3  The limiting values  KL / r  shall be as follows:<<HEADING_END>>
+<<PARAGRAPH>>P  =
+longitudinal spacing (stagger), that is
+the distance between two successive
+holes in the line of holes under
+consideration;<<PARAGRAPH_END>>
+<<PARAGRAPH>>Leg members, ground wire peak
+member and lower members of the
+cross arms in compression<<PARAGRAPH_END>>
+<<PARAGRAPH>>120<<PARAGRAPH_END>>
+<<PARAGRAPH>>g
+=
+transverse spacing (gauge), that is the
+distance
+between
+the
+same
+two
+consecutive holes as for  P ; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other members carrying computed
+stresses
+200<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+=
+diameter of holes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Redundant
+members
+and
+those
+carrying nominal stresses
+250<<PARAGRAPH_END>>
+<<PARAGRAPH>>For holes in opposite legs of angles, the value of
+g  should be the sum of the gauges from the
+back of the angle less the thickness of the
+angle.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4  Slenderness ratio  L / r  of a member carrying
+axial tension only, shall not exceed 400.<<HEADING_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>designed as a single tee connected to one side of
+a gusset only in accordance with  9.2 .<<HEADING_END>>
+<<HEADING level=3>>9 NET EFFECTIVE AREA FOR ANGLE
+SECTION IN TENSION<<HEADING_END>>
+<<PARAGRAPH>>NOTE — The area of the leg of an angle shall be taken
+as the product of the thickness and the length from the
+outer corner minus half the thickness, and the area of
+the leg of a tee as the product of the thickness and the
+depth minus the thickness of the table.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.1  In the case of single angle connected
+through one leg, the net effective section of the
+angle shall be taken as:
+A 1  +  A 2 k<<HEADING_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<HEADING level=3>>10 BOLTING<<HEADING_END>>
+<<PARAGRAPH>>A 1  = effective
+sectional
+area
+of
+the
+connected leg.
+A 2  = the gross cross-sectional area of the
+unconnected leg, and<<PARAGRAPH_END>>
+<<HEADING level=3>>10.1 Minimum Diameter of Bolts<<HEADING_END>>
+<<PARAGRAPH>>The diameter of bolts shall not be less than
+12 mm<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2 Preferred Sizes of Bolts<<HEADING_END>>
+<<PARAGRAPH>>3 A 1
+3 A 1
+A 2
++
+(
+)
+-----------------------------<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bolts used for erection of transmission line
+towers shall be of diameter 12, 16 and 20 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>k
+=<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3  The length of bolts shall be such that the
+threaded portion does not lie in the plane of
+contact of members. The projected portion of
+the bolt beyond the nut shall be between 3 to
+8 mm.<<HEADING_END>>
+<<PARAGRAPH>>where lug angles are used, the effective
+sectional area of the whole of the angle member
+shall be considered.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2  In the case of pair of angles back to back in
+tension connected by one leg of each angle to
+the same side of gusset, the net effective area
+shall be taken as:
+A 1  +  A 2 k<<HEADING_END>>
+<<HEADING level=3>>10.4 Gross Area of Bolt<<HEADING_END>>
+<<PARAGRAPH>>For the purpose of calculating the shear stress,
+the gross area of bolts shall be taken as the
+nominal area of the bolt.<<PARAGRAPH_END>>
+<<HEADING level=3>>where
+A 1  and  A 2  are as defined in  9.1 , and<<HEADING_END>>
+<<HEADING level=3>>10.5  The bolt area for bearing shall be taken as
+d  ×  t  where  d  is the nominal diameter of the
+bolt, and  t  the thickness of the thinner of the
+parts jointed.<<HEADING_END>>
+<<PARAGRAPH>>5 A 1
+5 A 1
+A 2
++
+------------------------<<PARAGRAPH_END>>
+<<PARAGRAPH>>k  =<<PARAGRAPH_END>>
+<<HEADING level=3>>10.6  The net area of a bolt in tension shall be
+taken as the area at the root of the thread.<<HEADING_END>>
+<<PARAGRAPH>>9.3  The angles connected together back-to-back
+(in contact) or separated back-to-back by a
+distance not exceeding the aggregate thickness
+of the connected parts shall be provided with
+stich bolt at a a pitch not exceeding 1 000 mm.
+The slenderness ratio of individual component
+between adjacent stich bolts shall not be more
+than that of the two members together.
+9.4  Where the angles are back to back but not
+connected as per  9.3 , each angle shall be
+designed as a single angle connected through
+one leg only in accordance with  9.1 .
+9.5  When two tees are placed back to back but
+are not connected as per  9.3 , each tee shall be<<PARAGRAPH_END>>
+<<HEADING level=3>>10.7 Holes for Bolting<<HEADING_END>>
+<<PARAGRAPH>>The diameter of the hole drilled/punched shall
+not be more than the nominal diameter of the
+bolt plus 1.5 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>11 FRAMING<<HEADING_END>>
+<<PARAGRAPH>>11.1  The angle between any two members
+common to a joint of a trussed frame shall
+preferably be greater than 20° and never less
+than
+15°
+due
+to
+uncertainty
+of
+stress
+distribution
+between
+two
+closely
+spaced
+members.<<PARAGRAPH_END>>
+<<HEADING level=3>>ANNEX A
+(  Clause  2 )<<HEADING_END>>
+<<HEADING level=3>>LIST OF REFERRED INDIAN STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>IS No.
+Title<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS No.
+Title<<PARAGRAPH_END>>
+<<PARAGRAPH>>4000 : 1992
+Code
+of
+practice
+for
+high
+strength
+bolts
+in
+steel
+structures
+6639 : 1972
+Hexagonal
+bolt
+for
+steel
+structures
+12427 : 1988
+Transmission tower bolts<<PARAGRAPH_END>>
+<<PARAGRAPH>>800 : 1984
+Code of practice for use of
+structural
+steel
+in
+general
+building construction (  revised  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>3757 : 1985
+High strength structural bolts
+(  second revision  )<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>ANNEX B
+(  Clause  6.2 )<<HEADING_END>>
+<<HEADING level=3>>EXAMPLES OF DETERMINATION OF SLENDERNESS RATIOS<<HEADING_END>>
+<<HEADING level=3>>B-0  Example of determining the effective length of compression members of towers based on the
+provision given in  6.1  are given below.<<HEADING_END>>
+<<HEADING level=3>>B-1 LEG MEMBER USING SYMMETRICAL BRACING<<HEADING_END>>
+<<IMAGE_4>>
+[Image 4 contains text: x
+\ a"
+a
+v / |
+x
+| LEG,
+: |
+|
+uJ
+wil
+sie
+Ww
+F
+Zz -_
+Ww | u
+OlO
+* MEASURED LENGTH]
+<<PARAGRAPH>>Method of Loading /
+Rigidity of Joints
+Slenderness Ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+--------
+KL<<PARAGRAPH_END>>
+<<PARAGRAPH>>r
+--------
+L
+r vv
+--------
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Concentric loading
+from 0 to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+--------
+KL<<PARAGRAPH_END>>
+<<PARAGRAPH>>r
+--------
+L
+r vv
+--------
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>No restraint at ends
+from 120 to 200<<PARAGRAPH_END>>
+<<HEADING level=3>>B-2 LEG MEMBER USING STAGGERED BRACING<<HEADING_END>>
+<<PARAGRAPH>>Method of Loading /
+Rigidity of Joints
+Slenderness Ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r yy
+--------
+L
+r vv
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>Concentric loading
+or 0.67
+from 0<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL<<PARAGRAPH_END>>
+<<PARAGRAPH>>r
+--------
+L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r yy
+--------
+L
+r vv
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>No restraint at ends
+or 0.67
+from 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL<<PARAGRAPH_END>>
+<<PARAGRAPH>>r
+--------
+L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>to 200<<PARAGRAPH_END>>
+<<PARAGRAPH>>5<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>B-3 EFFECT OF END CONNECTIONS ON MEMBER CAPACITY<<HEADING_END>>
+<<PARAGRAPH>>Method of Loading / Rigidity of
+Joints
+Slenderness Ratio<<PARAGRAPH_END>>
+<<IMAGE_5>>
+[Image 5 contains text: se. TNH#RA . TORO]
+<<PARAGRAPH>>Tension system with compression
+strut (eccentricity in critical
+axis)<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>from 0 to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+60
+0.5  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bracing
+Requirements
+(  Single
+Angle Members  ):
+Single
+bolt
+connection,
+no
+restraint at ends<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>from 120 to 200<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple bolt connection partial
+restraint at both ends
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<HEADING level=3>>B-4 CONCENTRIC LOADING TWO ANGLE MEMBER<<HEADING_END>>
+<<PARAGRAPH>>Method of Loading / Rigidity
+of Joints
+Slenderness Ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tension system strut compression
+concentric loading
+or
+from 0 to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+--------
+L
+r yy
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bracing Requirements  (  Two Angle
+Member  ):
+Single
+bolt
+connection,
+no
+restraint at ends
+or
+from 120 to 200<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+--------
+L
+r yy
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple bolt connection, partial
+restraint at ends
+or
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+--------
+L
+r yy
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>B-5 HORIZONTAL MEMBER OF  K -BRACING-TWO ANGLE MEMBER<<HEADING_END>>
+<<IMAGE_6>>
+[Image 6 contains text: ie
+[sth
+~~-—tomm
+Tas Ne
+!
+x
+%* MEASURED LENGTH]
+<<PARAGRAPH>>Method of Loading / Rigidity
+of Joints
+Slenderness Ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tension-compression
+system
+with compression strut:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple
+bolts
+connection
+partial restraint at ends
+and intermediate<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.5
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bracing Requirements  (  Two
+Angle Member  ):<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>Concentric
+load
+at
+ends,
+eccentric
+loading
+at
+intermediate
+in
+both
+directions<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.5
+from 0 to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+30
+0.75  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Concentric loading at ends
+and intermediate
+0.5
+from 0 to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>B-6 EFFECT OF SUBDIVIDED PANELS FOR THE HORIZONTAL MEMBER AND END
+CONNECTIONS ON MEMBER CAPACITY<<HEADING_END>>
+<<IMAGE_7>>
+[Image 7 contains text: ie = =| * MEASURED
+Ost LENGTH
+x
+V
+~~
+| ‘v]
+<<PARAGRAPH>>Method of Loading / Rigidity
+of Joints
+Slenderness Ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tension
+system
+with
+compression strut :<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eccentricity in critical axis
+0.5
+from 0 to 120<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+60
+0.50  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bracing Requirements :<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single bolt connection, no
+restraint
+at
+ends
+for
+intermediate<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.5
+from 120 to 200<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple bolt connection at
+ends. Single bolt connection
+at intermediate point:
+Partial restraint at one end,
+on restraint at intermediate
+0.5
+from 120 to 225<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+28.6
+0.762  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partial restraint at both ends
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple bolt connection<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r vv
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partial restraint at ends and
+intermediate
+0.5
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>8<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>B-7 CONCENTRIC LOADING TWO ANGLE MEMBER, SUBDIVIDED PANELS OF A
+HORIZONTAL MEMBER<<HEADING_END>>
+<<IMAGE_8>>
+[Image 8 contains text: *%
+['"—s|_* MEASURED
+a, LENGTH
+x
+“irs
+1 omm
+SWE
+|
+x]
+<<PARAGRAPH>>Method of Loading / Rigidity
+of Panel
+Slenderness Ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tension
+system
+with
+compression strut:
+0.5
+from 0 to 120
+Concentric loading<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bracing Requirements:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single bolt connection, no
+restraint
+at
+ends
+and
+intermediate
+0.5
+from 120 to 200<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+L
+r ----
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple bolt connection at
+ends. Single bolt connection
+at intermediate joint<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partial restraint at one end,
+no restraint at intermediate
+0.5
+from 120 to 200<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+28.6
+0.762  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partial restraint at both ends
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Multiple
+bolt
+connection
+Partial restraint at ends
+and intermediate<<PARAGRAPH_END>>
+<<PARAGRAPH>>L
+r yy
+-------- or  L<<PARAGRAPH_END>>
+<<PARAGRAPH>>0.5
+from 120 to 250<<PARAGRAPH_END>>
+<<PARAGRAPH>>r xx
+--------<<PARAGRAPH_END>>
+<<PARAGRAPH>>KL
+r
+--------
+46.2
+0.615  L
+r ----
++
+=
+
+
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>B-8 X-BRACINGS WITH AND WITHOUT SECONDARY MEMBERS<<HEADING_END>>
+<<PARAGRAPH>>Slenderness Ratio Critical of:<<PARAGRAPH_END>>
+<<IMAGE_9>>
+[Image 9 contains text: iJ
+3M OASY S$ 102.0. [OL 9 [cM UNNIES IE geweg’ pinay rpc gtA gecsnseg
+sng tpeu quis ype brecce any qué actA daicgyA’ pat ws pe bysccq m
+OD (pC zZUVWCL I CILpon cérscpyoLge’ ms tps posad jrdmg 12 .cms0acq’
+tps pumbyjc ye yee of gossm® biccee’ pqgey spe qecsureq brecez coursmeq
+tpe esusbyc pA epimk? icbese rpc qecsuem® brocces Inet qcecuipeq nury
+p32 pecy coyecreg ny ¢pc eccoug coursIucL sq’ spcL [MLEper sktespiou OF
+gecsurcg Oso Ipc eFIUICL’ CEM fo pc ples confsyIcL gue pdnigq rpse
+yosrn® biccez sic bonieq oy icp ppe pidniq suq tpyt vouc of tpc esq r
+course.’ bszem® 1¢ ppron€p tpe egmme. sug rsRmR CyLC tpt OLA pS
+SPC Speojmte AopTmc OL me SERLcEsc: pont tpc jrdmig oy Tro ¥ zcconq
+pdarg mw s aniespyjc coursiuct tpe opie of dig poms gf Jesat spice rrmce
+300-WICcLOY Jp BICAC to [pc UeSLGe 0.] & epou mrognece If rro [pe posaA
+mM Oo; covgiunone zaicamwe sacikp po usyicLrs] cosiec. (psu spo
+1S22 tsa onc bercene of type Lersmeg myreirsy byzece rpc zicac ry onc
+cooy £0 Loom rcusbe1gs(nLc sUq EPCls 2ICAC OACL ¥ 20D-WICLOD J? picac NUE]
+TAT Les YBAckars — yom spe quegq esusbjc of yuc sBExcBsrc 10
+V2 Lioccqaic
+30 10 000
+Ww 2 000
+30 . 3 000
+0.3 ( puc shExcBgrec ) 300
+beret) &
+qBEickors . OL Zanrbys
+Worn: giss dh Fama QsrBys
+V¢ Qembye —— pL pe worn ase op'reze esmbje epsyy pe v2 poyjome:
+psac 3 ebecrpe Bisaid 0; 5.00 F0-01F
+; WITT LO qercusnm’ cosy suq pRmrc’ cpe pesad pidnrgq reeq apsyy
+; yWouoprowopcuscuc 1-4
+CStpou scriscpyorge 1-28
+i BLomopouws 3-88
+: Reuscue 0-88
+PPS’S-fSAsplowocrpsue 3-d3
+Quai
+Trdg abscilc
+(pe yoyommv® ebecipc Srygargice of eye qrycicut jrdmiqz:
+bioqnee ¥ mrxpne of rpe qcezticq abecrpc BxrsarA mosA pc commbnreq jLous
+W2°3 pe sbbroxnosyre: sojnmeca of usyrerisy2 fo pe compmicq fo
+12 538@ (B¥4s 11) - 1903
+:]
+<<HEADING level=3>>B-8.1
+AB / r vv<<HEADING_END>>
+<<HEADING level=3>>B-8.2<<HEADING_END>>
+<<PARAGRAPH>>a)
+AC / r vv  or  CB / r vv  or
+*AB / r xx  or * AB / r yy  or
+*AD / r vv<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+AC / r vv  or  CB / r vv  or
+*AD / r vv<<PARAGRAPH_END>>
+<<PARAGRAPH>>AD / r vv  or * AF / r xx  or
+DC / r vv  or * AE / r vv  or
+CB / r vv  or
+*AB / r xx  or * AB / r yy  or
+EF / r vv<<PARAGRAPH_END>>
+<<HEADING level=3>>B-8.3
+a)<<HEADING_END>>
+<<PARAGRAPH>>AD / r vv  or * AF / r xx  or
+DC / r vv  or * AE / r vv  or
+CB / r vv  or
+AC / r xx  or * AC / r vy  or
+EF / r vv<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>AD / r vv  or * AF / r xx  or
+DC / r vv  or
+CB / r vv  or * AE / r vv  or
+EF / r vv<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)<<PARAGRAPH_END>>
+<<HEADING level=3>>B-8.4
+AE / r vv  or * AF / r xx  or
+ED / r vv  or * AE / r vv  or
+DC / r vv  or  CB / r vv<<HEADING_END>>
+<<PARAGRAPH>>*Application for tension compression system only  i . e . tensile stresses in one bracing must be at least equal to 75 percent
+of the compressive stress in the other bracing.
+#The corner stay should be designed to provide lateral support adequately.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>IS 802 (Part 1/Sec 2) : 1992<<HEADING_END>>
+<<HEADING level=3>>B-9  K -BRACINGS WITH AND WITHOUT SECONDARY MEMBERS<<HEADING_END>>
+<<PARAGRAPH>>Slenderness Ratio Critical of:<<PARAGRAPH_END>>
+<<IMAGE_10>>
+[Image 10 contains text: v WY
+A |
+aN ho
+B y »v¥(MIN.)]
+<<HEADING level=3>>B-9.1
+AB / r vv<<HEADING_END>>
+<<HEADING level=3>>B-9.2
+a)
+AC / r vv
+or
+CB / r vv
+or
+AB / r xx
+or
+AB / r yy<<HEADING_END>>
+<<PARAGRAPH>>b)
+AC / r vv
+or
+CB / r vv<<PARAGRAPH_END>>
+<<HEADING level=3>>B-9.3
+a)
+AD / r vv
+or
+DC / r vv
+or
+CB / r vv
+or
+AB / r xx
+or
+AB / r yy<<HEADING_END>>
+<<PARAGRAPH>>AD / r vv
+or
+DC / r vv
+or
+CB / r vv
+or
+AC / r xx
+or
+AC / r yy<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+AD / r vv
+or
+DC / r vv
+or
+CB / r vv<<PARAGRAPH_END>>
+<<HEADING level=3>>B-9.4
+AE / r vv
+or
+ED / r vv
+or
+DC / r vv
+or
+CB / r vv<<HEADING_END>>
+<<PARAGRAPH>>#The corner stay should be designed to provide lateral support adequately.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>Bureau of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>BIS is a statutory institution established under the  Bureau of Indian Standards Act , 1986 to promote
+harmonious development of the activities of standardization, marking and quality certification of goods and
+attending to connected matters in the country.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>BIS has the copyright of all its publications. No part of these publications may be reproduced in any form
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to copyright be addressed to the Director (Publications), BIS.<<PARAGRAPH_END>>
+<<HEADING level=3>>Review of Indian Standards<<HEADING_END>>
+<<PARAGRAPH>>Amendments are issued to standards as the need arises on the basis of comments. Standards are also
+reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no
+changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users of
+Indian Standards should ascertain that they are in possession of the latest amendments or edition by
+referring to the latest issue of ‘BIS Catalogue’ and ‘Standards : Monthly Additions’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard has been developed from Doc : No. CED 7 (4725)<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments Issued Since Publication<<HEADING_END>>
+<<HEADING level=3>>Amend No.
+Date of Issue
+Text Affected<<HEADING_END>>
+<<PARAGRAPH>>Amd. No. 1
+January 1998<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU OF INDIAN STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>Headquarters:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002.
+Telephones: 323 01 31, 323 33 75, 323 94 02
+Telegrams: Manaksanstha
+(Common to all offices)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Regional Offices:
+Telephone<<PARAGRAPH_END>>
+<<PARAGRAPH>>Central
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI 110002
+323 76 17
+323 38 41<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eastern
+: 1/14 C. I. T. Scheme VII M, V. I. P. Road, Kankurgachi
+KOLKATA 700054
+337 84 99, 337 85 61
+337 86 26, 337 91 20<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022
+60 38 43
+60 20 25<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600113
+235 02 16, 235 04 42
+235 15 19, 235 23 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Western
+: Manakalaya, E9 MIDC, Marol, Andheri (East)
+MUMBAI 400093
+832 92 95, 832 78 58
+832 78 91, 832 78 92<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE.
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR.
+LUCKNOW. NAGPUR. NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM.
+VISHAKHAPATNAM.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 14
+Total Images: 10
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 3320x1558
+[IMAGE_2] Page: 3, Size: 1480x714
+[IMAGE_3] Page: 4, Size: 1479x347
+[IMAGE_4] Page: 7, Size: 1272x2004
+[IMAGE_5] Page: 8, Size: 960x983
+[IMAGE_6] Page: 9, Size: 1080x978
+[IMAGE_7] Page: 10, Size: 1184x1408
+[IMAGE_8] Page: 11, Size: 1256x1417
+[IMAGE_9] Page: 12, Size: 1112x399
+[IMAGE_10] Page: 13, Size: 1160x392
+<<SECTION_END>>
+<<DOCUMENT_END>>

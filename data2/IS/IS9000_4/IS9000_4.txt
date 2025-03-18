@@ -1,0 +1,1179 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=3>>IS/IS0
+9000-4
+:  1993<<HEADING_END>>
+<<HEADING level=3>>( Reaffirmed 1997 )<<HEADING_END>>
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=2>>QUA-LITY
+MANAGEMENT
+AND
+QUALITY
+ASSURANCE
+STANDARDS<<HEADING_END>>
+<<HEADING level=3>>PART
+4
+GUIDE
+TO DEPENDABILITY
+PROGRAMME
+MANAGEMENT<<HEADING_END>>
+<<PARAGRAPH>>Second
+Reprint
+AUGUST
+1997<<PARAGRAPH_END>>
+<<PARAGRAPH>>( Incorporating
+Amendment
+No.
+1 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>UDC
+658.60<<PARAGRAPH_END>>
+<<PARAGRAPH>>0
+BIS
+1~997<<PARAGRAPH_END>>
+<<HEADING level=3>>BUREAU
+OF
+INDIAN
+STANDARDS<<HEADING_END>>
+<<HEADING level=3>>MANAK
+BHAVAN,
+9 BAHADUR
+SHAH
+ZAFAR
+MARG
+NEW
+DELHI
+110002<<HEADING_END>>
+<<HEADING level=3>>March
+1994
+Price
+Group
+4<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>Quality Management
+Sectional
+Committee,
+MSD 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>NATIONAL
+FOREWORD<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Indian Standard which is identical with IS0 9000-4  :  1993 ‘Quality management
+and quality assurance
+standards
+-
+Part 4  :  Guide
+to dependability
+programme
+management’,
+-issued
+by the International
+Organization
+for Standardization
+(ISO),
+was ~adopted by the Bureau
+of Indian
+Standards
+on the
+recommendation
+of the Quality
+Management
+Sectional
+Committee
+(MSD
+2), and
+approval
+of  the
+Management
+and Systems Division
+Council.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The text of the IS0
+Standard
+has been approved
+as suitable
+for publication
+as Indian
+Standard
+without
+deviations.
+Certain conventions
+are, however, not identical
+to those used in Indian Standards.
+Attention
+is
+particularly
+drawn to the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Wherever
+the words ‘International
+Standard’ appear referring to this standard,
+they should be read as
+‘Indian Standard’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the adopted standard,
+normative
+references
+appear to certain International
+Standards
+for which Indian
+Standards
+also exist. The corresponding
+Indian Standards which are to be substituted
+in their place are listed
+below along with their degree of equivalence
+for the editions indicated:<<PARAGRAPH_END>>
+<<HEADING level=3>>ZnrernutionaI
+Correspondinglndian
+Standard
+Degree  of
+Standard
+Equivalence<<HEADING_END>>
+<<HEADING level=3>>IEC 50 (191)  :  1990
+IS 1885(Part 39)‘) Electrotechnical
+vocabulary
+-
+Part 39
+Technically
+:  Dependability
+of electronic
+and electrical
+items ( second
+Equivalent
+revisiori )<<HEADING_END>>
+<<PARAGRAPH>>Identical<<PARAGRAPH_END>>
+<<HEADING level=3>>IS/IS0
+8402
+:  1994 Quality
+management
+and quality
+assurance -
+Vocabulary
+(first revision )<<HEADING_END>>
+<<HEADING level=3>>IS0  8402  :  1994<<HEADING_END>>
+<<PARAGRAPH>>Identical<<PARAGRAPH_END>>
+<<HEADING level=3>>IS/IS0
+9001  :  1994 Quality systems -
+Model for quality
+assurance
+in  design, development,
+production,
+installation
+and servicing
+(first  revision )<<HEADING_END>>
+<<PARAGRAPH>>IS0 9001:
+1994<<PARAGRAPH_END>>
+<<PARAGRAPH>>Identical<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0 9002  :  1994
+IS/IS0
+9002  :  1994 Quality systems -
+Model for quality
+assurance
+in production,
+iustallatiou
+aud servicing
+(  first
+revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0 9003  :  1994
+IS/IS0
+9003 : 1994 Quality systems -
+Model for quality
+assurance in final inspection
+and test  (first revision )
+Identical<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0 9004-l
+:  1994
+IS/IS0
+9004-l
+:  1994 Quality
+management
+and quality
+Identical
+system elements -
+Part 1  :  Guidelines
+(fourth  revision )<<PARAGRAPH_END>>
+<<PARAGRAPH>>The  latest editions of referred standards, at the time of publication
+of this~amendment,
+have been mentioned
+for the information
+of users of this standard, even though some of them were brought out after publication
+of
+this standard.
+However, till this standard is revised, specific clause references may tally with those in earlier
+editions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In ‘the adopted
+standard,
+normative
+reference
+has also beeu made to ‘IEC 300-2  : XX,  Dependabtiity
+management
+-
+Part 2  :  Dependability
+programme
+elements
+and tasks’, which is under consideration
+for
+publication
+as an International
+Standard. The Committee
+would review the provisions
+of this Iuternatioual
+Standard as and when it is published
+and decide whether it may be adopted as Iudiau Standard.
+‘)
+A-
+to  be published.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<PARAGRAPH>>IS/lSO  9000-4
+:  1993<<PARAGRAPH_END>>
+<<HEADING level=1>>Indian Standard<<HEADING_END>>
+<<HEADING level=1>>QUALITY MANAGEMENTAND
+QUALITY ASSURANCE STANDARDS<<HEADING_END>>
+<<PARAGRAPH>>PART 4 GUIDE TO DEPENDABILITY PRORAMME MANAGEMENT<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+Scape<<PARAGRAPH_END>>
+<<PARAGRAPH>>This
+par!
+of
+IEC
+3OO/ISO 9000
+provides
+guidance
+on
+dependability
+programme
+management.
+It covers
+the
+essential
+features
+of  a  comprehensive
+dependability
+programme for the planning,
+organization,
+direction
+and control of resources
+to produce
+~products which will be reliable
+and maintainable.
+In management
+terms, it is concerned
+with what h-as to be done, and why, and when and how it has to be done, but it is not
+specific
+about who should
+do it and where,
+because
+organizations
+and projects
+vary
+widely.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of IEC 3OO/ISO 9000 is applicable to hardware and/or software products,
+where
+dependability
+characteristics
+are significant
+during the operation
+and -maintenance
+phase.
+The requirements
+are maimed primarily
+at controlling
+influences
+on dependability
+at all
+product life-cycle phases from product planning to operation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any agreement
+using the guidance
+given
+in this part of IEC 3OO/ISO 9000 may use
+selected
+parts to fit particular
+circumstances.
+The parties involved
+shall agree upon and
+record the extent to which it is applied, including the guidance given in other parts of the
+IEC 300 series. Any selected clauses used in this way become requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTES<<HEADING_END>>
+<<HEADING level=3>>1
+The guidance given in this part of IEC 3OO/ISO 9000 primarily applies to a supplier with a small
+number of qualified customers but it can also be applied to the supply of consumer products.<<HEADING_END>>
+<<HEADING level=3>>2
+The -guidance given in this part of IEC 3OO/ISO 9000 addresses the life-cycle phases as defined and
+would also apply to any further subdivision of phases.<<HEADING_END>>
+<<HEADING level=3>>3
+The masculine gender is used in this part of IEC 3OO/ISO 9000 to represent also the feminine gender
+where applied to persons.<<HEADING_END>>
+<<HEADING level=3>>4
+In the context of this part of IEC 3OO/ISO 9000 the terms ‘document’ and ‘documentation’
+are not
+restricted to-paper media.<<HEADING_END>>
+<<HEADING level=3>>5
+The term “customer’ used in this part of IEC 3OO/ISO 9000 is synonymous with the term ‘purchaser’.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>IS/IS0
+9000-4
+: 1993<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following
+normative
+documents
+contain
+provisions
+which, through
+reference
+in this
+text constitute
+provisions
+of this part of IEC 3OO/ISO~9000. At the time of publication,
+the
+editions indicated were valid. All normative documents
+are subject to revision,
+and parties
+to agreements
+based on this part of IEC 3OO/ISO 9000 are encouraged
+to investigate
+the
+possibility
+of applying
+the most recent editions of the normative
+documents
+listed below.
+Members of IEC and IS0 maintain registers of currently valid International
+Standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>IEC 50(191):
+1990,
+International
+Electrotechnical
+Vocabulary
+(IEV)
+- Chapter
+191 -
+Dependability
+and quality of service<<PARAGRAPH_END>>
+<<PARAGRAPH>>IEC 300-2: XX,  Dependability
+management
+- Part 2: Dependability
+programme
+elements
+and tasks  (future publication
+under consideration)<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0  8402: 1986, Quality - Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0 9001: 1987,  Quality systems - Model ~for quality asxrance
+in design/development,
+production,
+installation
+and servicing<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0
+9002:
+1987,
+Quality
+systems
+- Model
+for quality
+assurance
+in production
+and
+ins talla tion<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0 9003: 1987,  Quality systems - Model for quality assurance in final inspection and test<<PARAGRAPH_END>>
+<<PARAGRAPH>>IS0 9004: 1987,  Quality management
+and quality system elemen?s - Guidelines<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes
+of this part of IEC 3OO/ISO 9000, the terms and definitions
+of IEC 50
+(191) and IS0 8402 apply, together with the following particular terms and definitions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1
+dependability:
+The collective
+term used to describe the availability
+performance
+and
+its
+inf~luencing
+factors:
+reliability
+performance,
+maintainability
+performance
+and
+maintenance
+support performance.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+-  Dependability
+is used only for general descriptions
+in non-quantitative
+terms.<<HEADING_END>>
+<<PARAGRAPH>>3.2
+dependability
+pro_gramme:
+The organizational
+structure,
+responsibilities,
+proce-
+dures, processes
+and resources used for managing dependability.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- A dependability
+programme
+covers all phases of a product’s
+life cycle from planning
+to operation<<HEADING_END>>
+<<HEADING level=3>>and possibly disposal.
+A dependability
+programme
+is composed
+of-programme
+elements
+divided into tasks.<<HEADING_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>is/is0
+9000-4
+:  1993<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3
+dependability
+plan:  A document
+setting
+out the specific
+dependability
+practices,
+resources and sequence of activities
+relevant to a particular product, contract or project.<<HEADING_END>>
+<<PARAGRAPH>>3.4
+product:
+Any specified deliverable
+goods or service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Management
+responsibiiities<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1
+Policy<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+a document
+expressing
+his policy
+and
+objectives
+regarding
+the dependability
+characteristics
+of his products
+and the related
+support services.
+This document
+may constitute
+a part ~of a quality
+policy document
+pre-
+pared in accordance
+with 4.1;1 of IS0 9001 and the guidance
+given in 4.2 and 4.3 of
+IS0 9004.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+Organization<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+programme
+elements
+and resources
+in his
+organization
+to achieve assurance
+of dependability.
+These elements
+can be product
+and
+project
+independent
+as well
+as project
+or product
+specific.
+They
+should
+be easily
+identifiable,
+and may be independent
+of but suitably
+interfaced
+with the organization
+responsible
+for performing
+quality assurance
+activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The functions
+to achieve
+assurance
+of dependability
+and quality
+assurance
+may have
+common organizational
+elements,
+in which case they may be integrated
+and executed
+in
+conjunction,
+but still remain identifiable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.3
+Quality system<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+showid establish
+and maintain
+a documented
+quality system in accordance
+with qS0 9001, IS0 9002 or IS0 9003, as applicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.4
+Market research and product planning<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should establish
+and maintain procedures
+for market research to determine
+the needs of prospective
+customers for the ~dependability of products being considered
+for
+~market introduction,
+and for converting
+these needs into specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Early product planning
+activities,
+including
+feasibility
+studies, should be conducted
+on the
+basis of dependability
+specifications,
+based on market research.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5
+Management
+review<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+carry out reviews,
+at management
+level and with appropriate
+time
+intervals,
+of the dependability
+programme adopted in accordance
+with the guidance
+given
+in this part of IEC 3OO/iSO 9000. Records of such reviews should be maintained.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE - These reviews should be coordinated with the management reviews done in accordance with
+4.1.3 of IS0 9001.<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>WISO
+9000-4
+~: 1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.6
+Dependability
+programme-reviews<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+procedures
+for a systematic,
+recurrent
+and
+independent
+review
+of the adequacy
+of processes,
+procedures
+and tools
+used for his
+dependability
+programme,
+including;<<PARAGRAPH_END>>
+<<PARAGRAPH>>-
+review of the dependability
+programme
+and its elements. and tasks,
+including
+the
+rationale for their selection;<<PARAGRAPH_END>>
+<<PARAGRAPH>>-
+review of all documents
+describing
+the programme,
+its elements, tasks and results;<<PARAGRAPH_END>>
+<<PARAGRAPH>>-
+consideration
+of the effective
+performance
+and achievement
+of the dependability
+programme and approval of any changes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>-
+evaluation
+of the cost-effectiveness
+of the programme
+in terms
+of its benefits;
+higher dependability,
+lower maintenance
+cost, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Product or project Independent programme elements<<HEADING_END>>
+<<PARAGRAPH>>-5.1
+Dependability
+programme
+implementation<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+be capable
+of implementing
+a dependability
+programme,
+wifh task
+selection
+based on IEC 300-2, to ensure that the specified dependability
+requirements
+are
+met.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The structure
+and elements of the dependability
+programme
+and the detailed descriptions
+of the procedures,
+analysis
+methods, tools and statistical
+principles
+used to define, control
+and evaluate dependability
+characteristics
+should be documented.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2
+Methods<<HEADING_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+access
+to effective
+statistical
+and other
+relevant
+qualitative
+and quantitative
+methods
+and models
+appropriate
+for prediction,
+analysis
+and estimation
+of dependability
+characteristics
+of his products.
+Education
+and
+training
+programmes
+should be issued and implemented
+for any personnel
+categories
+that
+will use the methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3
+Data banks<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+data banks
+to provide
+feedback
+on the
+dependability
+of its products,
+from testing and/or operation,
+in order to assist in product
+design,
+current
+product
+improvement,
+maintenance
+support
+~planning, or as otherwise
+needed for the dependability
+programme.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.4
+Dependability
+records<<PARAGRAPH_END>>
+<<PARAGRAPH>>All documents
+containing
+requirements
+for dependability
+and their allocation,
+dependability
+plans and results of dependability
+analyses and predictions,
+dependability
+test instructions
+and results, and field data analysis
+records should be retained for an appropriate
+period,
+defined with relation to the expected product life time. A master list of relevant documents,
+including
+their revision
+status, should be established
+and maintained
+in accordance
+with
+4.5 of IS0 9001.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<PARAGRAPH>>IS/IS0
+9000-4
+: 1993<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Product or project specific programme elements<<HEADING_END>>
+<<HEADING level=3>>6.1
+Planning and management<<HEADING_END>>
+<<PARAGRAPH>>The supplier
+should develop a dependability
+plan as a part of the general product plan or
+project plan.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The dependability
+plan should
+be reviewed,
+and if necessary
+revised,
+at project
+and
+product
+reviews.
+These  reviews
+should
+also verify that the programme
+elements
+and
+tasks,
+analyses,
+and
+results
+conform
+to the
+plan
+and the
+specified
+dependability
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier should establish
+and maintain’ procedures for securing traceability,
+as defined
+in IEC 300-2, of dependability
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Dependability
+is one of the driving factors in the configuration
+management
+procedure,
+which should be established
+and maintained
+by the supplier in accordance
+with guidance
+given in 8.8 of IS0 9004.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- The
+programme
+tasks
+are defined
+in 6.1 of  IEC
+300-2
+(dependability
+plans;
+project decision
+management;
+traceability
+management;
+configuration
+management).<<HEADING_END>>
+<<PARAGRAPH>>6.2
+Contract review and liaison<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should establish
+and maintain procedures
+for contract
+review, performed
+in
+accordance
+with 4.3 of IS0 9001, in order to ensure that the dependability
+requirements
+and the
+conditions
+and constraints
+for definition
+of dependability
+requirements
+are
+adequately
+specified
+and documented,
+that any dependability
+requirements
+differing from
+those in the tender are resolved, that operations
+and maintenance
+sunoort conditions
+are
+adequately
+defined
+by the customer
+and that acceptance
+testing
+criteria
+are specified.
+Records which include decisions taken at these reviews should be maintained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier should appoint a management representative
+to interface with the customer<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- The
+programme
+tasks
+are
+defined
+in
+6.2
+of
+IEC
+300-2
+(contract
+review;
+management
+representative).<<HEADING_END>>
+<<PARAGRAPH>>6.3
+Dependability
+requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+prepare
+specifications
+which
+contain
+qualitative
+and ~quantitative
+requirements
+for
+availability
+performance,
+reliability
+performance
+and
+maintainability
+performance.
+The maintenance
+support assumptions
+should be clearly stated, taking into
+account any customer-provided
+information.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+perform a requirements
+review activity
+prior to the start of design.
+This review should
+ensure that any incomplete,
+ambiguous
+or confiicting
+dependability
+requirements
+are clarified or modified. The overall dependability
+requirements
+should, as
+appropriate.
+be allocated to the various parts of the product to be designed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>‘5<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>IS/IS0
+9000-4
+:  1993<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTES<<HEADING_END>>
+<<HEADING level=3>>1
+Dependability
+requirements
+may need to be redefined
+during the products
+life cycle.<<HEADING_END>>
+<<HEADING level=3>>2
+The programme
+tasks are defined
+in 6.3 of IEC 300-2
+(specification
+of dependability
+requirements;<<HEADING_END>>
+<<HEADING level=3>>requirements
+interpretation;
+requirements
+allocation).<<HEADING_END>>
+<<PARAGRAPH>>6.4
+Engineering<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+guidelines
+and practices
+for design
+of the
+product
+and its maintenance
+support
+to ensure that the desired
+dependability
+will be
+achieved.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+-  The programme
+tasks
+are defined
+in 6.4 of IEC 300-2
+(reliability
+engineering;
+maintainability<<HEADING_END>>
+<<HEADING level=3>>engineering;
+maintenance
+support engineering;
+testability
+engineering;
+human factors engineering).<<HEADING_END>>
+<<PARAGRAPH>>6.5
+Externally provided products<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+supplier
+should
+establish
+and
+maintain
+procedures
+to
+specify
+dependability
+requirements
+for externally
+provided products.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The
+supplier
+should
+require
+and ensure
+that
+all requirements
+of the dependability
+programme
+are fulfilled
+by any subcontracted
+hardware
+or software
+parts of the final
+product.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- The programme
+tasks are defined in 6.5 of IEC 300-2
+(subcontracted
+products; customer
+provided<<HEADING_END>>
+<<HEADING level=3>>products).<<HEADING_END>>
+<<PARAGRAPH>>6.6
+Analysis, prediction
+and design review<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+identify
+and perform dependability
+analysis,
+prediction
+and formal
+design review activities
+(programme tasks) adequate for the product or project.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+-  The programme
+tasks are defined in 6.6 of IEC 300-2
+(fault mode and effects analysis;
+fault tree
+analysis;
+stress and load analysis;
+human factors analysis:
+predictions;
+trade-off
+analysis;
+risk analysis;<<PARAGRAPH_END>>
+<<HEADING level=3>>formal design review).<<HEADING_END>>
+<<PARAGRAPH>>6.7
+Verification,
+validation and test<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+establish
+and maintain
+procedures
+for effective
+and adequate
+verification
+and validation
+of dependability
+requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+-  The programme
+tasks are defined in 6.7 of IEC 300-2
+(verification,
+validation
+and test planning;<<HEADING_END>>
+<<HEADING level=3>>life testing; dependability
+testing; reliability
+growth testing; production testing; acceptance
+testing; reliability
+stress screening).<<HEADING_END>>
+<<PARAGRAPH>>6.8
+Life-cycle cost programme<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should establish
+and maintain
+procedures
+for assessing
+the life-cycle
+cost
+elements for the product or project.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+-  The programme
+element
+is defined in 6.8 of IEC 300-2
+(life-cycle
+cost programme).<<HEADING_END>>
+<<PARAGRAPH>>6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>IS/IS0
+9000-4
+: 1993<<PARAGRAPH_END>>
+<<PARAGRAPH>>6.9
+Operation and maintenance
+support planning<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier should provide the customer with information
+needed for the operation
+of the
+prolduct,<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should
+identify
+and advise
+the customer
+on the maintenance
+support
+requirements
+for the product,
+including
+recommendations
+on spare
+parts
+(range
+and
+scale), test equipment, special tools, maintenance
+personnel
+skill levels, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- The programme
+tasks are-defined
+in 6.9 of IEC 360-2
+(maintenance
+support planning;
+installation;<<HEADING_END>>
+<<HEADING level=3>>support services;
+support engineering;
+spares provisioning).<<HEADING_END>>
+<<PARAGRAPH>>6.10
+Improvements
+and modifications<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier should establish
+and maintain procedures
+for a systematic
+identification
+and
+implementation
+of
+any
+necessary
+improvement
+of the
+reliability
+performance
+and
+maintainability
+performance
+of the product and of the maintenance
+support performance,
+in order to ensure conformity to dependability
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The suppiier
+should
+establish
+and maintain
+procedures
+to ensure
+that
+changes
+or
+modifications
+of the product or changes to data related to its dependability
+characteristics
+will
+result
+in a review
+and, as necessary,
+revision
+of all analyses
+and predictions
+previously
+done in order to determine
+the possible
+influence
+on dependability
+and the
+possible need to initiate and implement product improvements.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- The programme
+tasks are defined
+in 6.10 of IEC 300-2
+(improvement
+programmes,
+modification<<HEADING_END>>
+<<HEADING level=3>>control).<<HEADING_END>>
+<<PARAGRAPH>>6.1.1
+Experiences
+feedback<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier should establish
+and maintain procedures
+for handling,
+storage and analysis
+of failure and fault data from testing and manufacturing
+and of operational
+dependability
+inforlmation received from the customer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The supplier
+should define and communicate
+to the customer information
+on his need for
+field data and cooperate with the customer in the establishment
+of appropriate
+procedures
+for field data collection,
+storage and analysis.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE
+- The programme
+tasks are, defined in 6.11 of IEC 300-2
+(data acquisition;
+data analysis).<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 9
+<<SECTION_END>>
+<<DOCUMENT_END>>

@@ -1,0 +1,533 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO/IEC
+17050-1<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2004-10-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Conformity assessment — Supplier's
+declaration of conformity —<<HEADING_END>>
+<<HEADING level=1>>Part 1:
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>Évaluation de la conformité — Déclaration de conformité du
+fournisseur —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 1: Exigences générales<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO/IEC 17050-1:2004(E)<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: 1So} IEC]
+<<PARAGRAPH>>©  ISO 2004<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Org anization for Standardization        |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>©   ISO 2004<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2004 — All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) and IEC (the International Electrotechnical
+Commission) form the specialized system for worldwide standardization. National bodies that are members of
+ISO or IEC participate in the development of International Standards through technical committees
+established by the respective organization to deal with particular fields of technical activity. ISO and IEC
+technical committees collaborate in fields of mutual interest. Other international organizations, governmental
+and non-governmental, in liaison with ISO and IEC, also take part in the work. In the field of conformity
+assessment, the ISO Committee on conformity assessment (CASCO) is responsible for the development of
+International Standards and Guides.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Draft International Standards are circulated to the national bodies for voting. Publication as an International
+Standard requires approval by at least 75 % of the national bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 17050-1 was prepared by the ISO  Committee on conformity assessment  (CASCO).<<PARAGRAPH_END>>
+<<PARAGRAPH>>It was circulated for voting to the national bodies of both ISO and IEC, and was approved by both
+organizations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition of ISO/IEC 17050-1, together with ISO/IEC 17050-2, cancels and replaces the second edition
+of ISO/IEC Guide 22:1996,  General criteria for supplier's declaration of conformity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 17050 consists of the following parts, under the general title  Conformity assessment — Supplier's
+declaration of conformity :<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Part 1: General requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Part 2: Supporting documentation<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2004 — All r ights reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2004 — All                                                 |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO/IEC 17050 has been developed with the objective of providing general requirements for a
+supplier’s declaration of conformity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It addresses one of the three types of attestation of conformity, namely attestation undertaken by the first party
+(e.g. the supplier of a product). Other types are second-party attestation (e.g. where a user issues an
+attestation for the product the user is using) or third-party attestation. Each of these three types is used in the
+market in order to increase confidence in the conformity of an object.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO/IEC 17050 specifies requirements applicable when the individual or organization responsible
+for fulfilment of specified requirements (supplier) provides a declaration that a product (including service),
+process, management system, person or body is in conformity with specified requirements, which can include
+normative documents such as standards, guides, technical specifications, laws and regulations. Such a
+declaration of conformity can also make reference to the results of assessments by one or more first, second
+or third parties. Such references are not to be interpreted as reducing the responsibility of the supplier in any
+way.<<PARAGRAPH_END>>
+<<PARAGRAPH>>These general requirements are applicable to all sectors. However, these requirements might need to be
+supplemented for specific purposes, for example for use in connection with regulations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A supplier's declaration of conformity of a product (including service), process, management system, person
+or body to specified requirements can be substantiated by supporting documentation under the responsibility
+of the supplier. In cases where this is desirable, or necessary, reference is made to ISO/IEC 17050-2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2004 — All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=1>>Conformity assessment — Supplier's declaration
+of conformity —<<HEADING_END>>
+<<HEADING level=1>>Part 1:
+General requirements<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO/IEC 17050 specifies general requirements for a supplier’s declaration of conformity in cases
+where it is desirable, or necessary, that conformity of an object to the specified requirements be attested,
+irrespective of the sector involved. For the purposes of this part of ISO/IEC 17050, the object of a declaration
+of conformity can be a product, process, management system, person or body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO/IEC 17050 does not define any particular object for the declaration of conformity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Instead of “supplier's declaration of conformity”, the term “declaration of conformity” can be used when
+appropriate.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 17000:2004,  Conformity assessment — Vocabulary and general principles<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO/IEC 17000 apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+“Supplier's declaration of conformity” is a “declaration” as defined in ISO/IEC 17000, i.e. first-party attestation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+To avoid any confusion with attestation by certification bodies, the term “self-certification” is deprecated and
+should not be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Purpose of the declaration of conformity<<HEADING_END>>
+<<PARAGRAPH>>The purpose of the declaration is to give assurance of conformity of the identified object to specified
+requirements to which the declaration refers, and to make clear who is responsible for that conformity and
+declaration. A supplier’s declaration of conformity may be used alone or in conjunction with another conformity
+assessment procedure for regulatory or non-regulatory purposes.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2004 — All r ights reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2004 — All                                                 |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=3>>5
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>The issuer (issuing organization or person) of a declaration of conformity shall be responsible for issuing,
+maintaining, extending, reducing, suspending or withdrawing the declaration and the conformity of the object
+to the specified requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The declaration of conformity shall be based on results of an appropriate type of conformity assessment
+activity (e.g. testing, measurement, auditing, inspection or examination) carried out by one or more first,
+second or third parties. Conformity assessment bodies involved, where applicable, should consult relevant
+International Standards, Guides and other normative documents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where a declaration of conformity is for a group of products of a similar type, it shall cover each individual
+product of the group. Where a declaration of conformity is for similar products delivered over a period of time,
+it shall cover each product as delivered or accepted.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is recommended, as good conformity assessment practice, that the person reviewing the conformity
+assessment results be different from the signatory.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Contents of the declaration of conformity<<HEADING_END>>
+<<PARAGRAPH>>6.1
+The issuer of the declaration of conformity shall ensure that the declaration contains sufficient
+information to enable the recipient of the declaration of conformity to identify the issuer of the declaration, the
+object of the declaration, the standards or other specified requirements with which conformity is declared, and
+the person signing for and on behalf of the issuer of the declaration of conformity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>As a minimum, the declaration of conformity shall contain the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+unique identification of the declaration of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the name and contact address of the issuer of the declaration of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the identification of the object of the declaration of conformity (e.g. name, type, date of production or
+model number of a product, description of a process, management system, person or body, and/or other
+relevant supplementary information);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+the statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+a complete and clear list of standards or other specified requirements, as well as the selected options, if
+any;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+the date and place of issue of the declaration of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+the signature (or equivalent sign of validation), name and function of the authorized person(s) acting on
+behalf of the issuer;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+any limitation on the validity of the declaration of conformity.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2
+Additional supporting information may be provided to relate the declaration to the conformity
+assessment results on which it is based, for example:<<HEADING_END>>
+<<PARAGRAPH>>a)
+the name and address of any conformity assessment body involved (e.g. testing or calibration laboratory,
+inspection body, certification body);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+reference to relevant conformity assessment reports, and the date of the reports;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+reference to any management systems involved;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2004 — All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<PARAGRAPH>>d)
+reference to the accreditation documents of conformity assessment bodies involved where the scope of
+accreditation is relevant to the declaration of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+reference to the existence of associated supporting documentation, such as that described in
+ISO/IEC 17050-2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+additional information regarding certificates, registrations or marks that have been obtained;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+other activities or programmes of the conformity assessment body (e.g. membership in an agreement
+group).<<PARAGRAPH_END>>
+<<PARAGRAPH>>References in the documentation to conformity assessment results shall not misrepresent their applicability
+nor mislead the recipient of the declaration of conformity.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Form of declaration of conformity<<HEADING_END>>
+<<PARAGRAPH>>See Annex A for an example of a declaration of conformity. The declaration of conformity may be in hardcopy,
+electronic media, or any other suitable medium.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Accessibility<<HEADING_END>>
+<<PARAGRAPH>>A copy of the declaration of conformity may be included in other documentation, such as a statement,
+catalogue, invoice, user's instructions or website, relevant to the object of the declaration of conformity.<<PARAGRAPH_END>>
+<<HEADING level=3>>9
+Product marking<<HEADING_END>>
+<<PARAGRAPH>>If any marking is placed on the product to indicate the existence of a declaration of conformity, such marking
+shall be in such a format that it will not be confused with any certification mark. Such marking shall be
+traceable to the declaration of conformity.<<PARAGRAPH_END>>
+<<HEADING level=3>>10 Continuing validity of the declaration of conformity<<HEADING_END>>
+<<PARAGRAPH>>10.1  The issuer of the declaration of conformity shall have procedures in place to ensure the continued
+conformity of the object, as delivered or accepted, with the stated requirements of the declaration of
+conformity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2  The issuer of the declaration of conformity shall have procedures in place to re-evaluate the validity of
+the declaration of conformity, in the event of<<HEADING_END>>
+<<PARAGRAPH>>h)
+changes significantly affecting the object’s design or specification,<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+changes in the standards to which conformity of the object is stated,<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+changes in the ownership or structure of management of the supplier, if relevant, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+relevant information indicating that the object may no longer conform to the specified requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2004 — All r ights reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2004 — All                                                 |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(informative)
+Supplier's declaration of conformity<<HEADING_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>A.1 Guidance to complete the form of declaration of conformity<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Numbers 1) to 7) refer to the form shown in A.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+Every declaration of conformity should be uniquely identified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+The responsible issuer should be unequivocally specified. For large organizations, it may be necessary to
+specify operational groups or departments.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+a)
+The “object” should be unequivocally described so that the declaration of conformity may be related
+to the object in question.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+b)
+For mass-produced products, it is not necessary to give individual serial numbers. In such cases it is
+sufficient to give the name, type, model number, etc.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4)
+For products, an alternative conformity statement may be: “As delivered, the object of the declaration
+described above is in conformity with the requirements of the following documents”.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5)
+Requirements documents should be listed with their identification numbers, titles and dates of issue.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6)
+Text should appear here only if any limitation on the validity of the declaration of conformity and/or any
+additional information are given. The latter information may, for example, correspond to 6.2 or may make
+reference to related product marking in accordance with Clause 9. Such product marking or other
+indication (e.g. on the product) may be an attachment to the declaration of conformity.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7)
+Full name and function of the signing person(s) authorised by the issuer's management to sign on its
+behalf should be given. The number of signatures, or equivalent, included will be the minimum
+determined by the legal form of the issuer’s organization.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2004 — All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=3>>A.2 Example of form of declaration of conformity<<HEADING_END>>
+<<HEADING level=3>>Supplier's declaration of conformity  (in accordance with ISO/IEC 17050-1)<<HEADING_END>>
+<<HEADING level=3>>1)
+No.  .........................................<<HEADING_END>>
+<<HEADING level=3>>2)
+Issuer's name:
+..................................................................................................................<<HEADING_END>>
+<<HEADING level=3>>Issuer's address:
+..................................................................................................................<<HEADING_END>>
+<<PARAGRAPH>>..................................................................................................................<<PARAGRAPH_END>>
+<<HEADING level=3>>3)
+Object of the declaration:
+..................................................................................................................<<HEADING_END>>
+<<PARAGRAPH>>..................................................................................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>..................................................................................................................<<PARAGRAPH_END>>
+<<HEADING level=3>>4)
+The object of the declaration described above is in conformity with the requirements of the
+following documents:<<HEADING_END>>
+<<PARAGRAPH>>Documents No.
+Title
+Edition/Date of issue<<PARAGRAPH_END>>
+<<PARAGRAPH>>5)
+..........................
+.............................................................................
+................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>..........................
+.............................................................................
+................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>..........................
+.............................................................................
+................................................<<PARAGRAPH_END>>
+<<HEADING level=3>>Additional information:<<HEADING_END>>
+<<PARAGRAPH>>6)
+.................................................................................................................................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>.................................................................................................................................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>.................................................................................................................................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>Signed for and on behalf of:<<PARAGRAPH_END>>
+<<PARAGRAPH>>..................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>..................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Place and date of issue)<<PARAGRAPH_END>>
+<<PARAGRAPH>>7)
+..................................................
+............................................................................................................<<PARAGRAPH_END>>
+<<PARAGRAPH>>(Name, function)
+(Signature or equivalent authorized by the issuer)<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2004 — All r ights reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2004 — All                                                 |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 9000:2000,  Quality management systems — Fundamentals and vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO 19011:2002,  Guidelines for quality and/or environmental management systems auditing<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+ISO/IEC 17020:1998,  General criteria for the operation of various types of bodies performing
+inspection<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+ISO/IEC 17021:— 1) ,  Conformity assessment — General requirements for bodies providing assessment
+and certification for management systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+ISO/IEC 17024:2003,  Conformity assessment — General requirements for bodies operating
+certification of persons<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+ISO/IEC 17025:1999,  General requirements for the competence of testing and calibration laboratories<<PARAGRAPH_END>>
+<<PARAGRAPH>>[7]
+ISO/IEC 17040:— 2) ,  General requirements for peer assessment of conformity assessment bodies and
+accreditation bodies<<PARAGRAPH_END>>
+<<PARAGRAPH>>[8]
+ISO/IEC 17050-2:2004,  Conformity assessment — Supplier’s declaration of conformity — Part   2:
+Supporting documentation<<PARAGRAPH_END>>
+<<PARAGRAPH>>[9]
+ISO/IEC Guide 65:1996,  General requirements for bodies operating product certification systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) To be published. (Revision of ISO/IEC Guide 62:1996 and ISO/IEC Guide 66:1999)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) To be published.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2004 — All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 6                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO/IEC 17050-1:2004(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,,,`,-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  03.120.20<<HEADING_END>>
+<<PARAGRAPH>>Price based on 6 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2004 — All rights rese rved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Reproduced by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2004 — All rights rese                                     |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Reproduced by IHS under license with ISO                         |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 12
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 763x354
+
+Total Tables: 12
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 3x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 3x1
+[TABLE_1] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

@@ -1,0 +1,2627 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<PARAGRAPH>>ISO 9712:2012
+(Incorporating Amendment No. 1)<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing—Qualification
+and certification of NDT personnel<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>This Australian Standard® was prepared by Committee MT-007, Non-Destructive Testing of
+Metals and Materials. It was approved on behalf of the Council of Standards Australia on
+20 October 2014.
+This Standard was published on 6 November 2014.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The following are represented on Committee MT-007:
+Australian Aerospace Non-Destructive Testing Committee
+Australian Industry Group
+Australian Institute for Non-Destructive Testing
+Australian Nuclear Science and Technology Organisation
+Australian Pipeline Industry Association
+Austroads
+Bureau of Steel Manufacturers of Australia
+Department of Defence (Australia)
+Engineers Australia
+National Association of Testing Authorities Australia
+New Zealand Non-Destructive Testing Association
+TestSafe Australia
+Welding Technology Institute of Australia
+WorkSafe Victoria<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Standard was issued in draft form for comment as DR AS ISO 9712:2014.
+Standards Australia wishes to acknowledge the participation of the expert individuals that
+contributed to the development of this Standard through their representation on the
+Committee and through the public comment period.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Keeping Standards up-to-date
+Australian Standards® are living documents that reflect progress in science, technology and
+systems. To maintain their currency, all Standards are periodically reviewed, and new editions
+are published. Between editions, amendments may be issued.
+Standards may also be withdrawn. It is important that readers assure themselves they are
+using a current Standard, which should include any amendments that may have been
+published since the Standard was published.
+Detailed information about Australian Standards, drafts, amendments and new projects can
+be found by visiting  www.standards.org.au
+Standards Australia welcomes suggestions for improvements, and encourages readers to
+notify us immediately of any apparent inaccuracies or ambiguities. Contact us via email at
+mail@standards.org.au , or write to Standards Australia, GPO Box 476, Sydney, NSW 2001.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<PARAGRAPH>>(Incorporating Amendment No. 1)<<PARAGRAPH_END>>
+<<HEADING level=1>>Australian Standard ®<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing—Qualification
+and certification of NDT personnel<<HEADING_END>>
+<<PARAGRAPH>>Originated as AS 3998—1992.
+Third edition 2006.
+AS 3998—2006 revised and redesignated AS ISO 9712:2014.
+Reissued incorporating Amendment No. 1 (February 2015).<<PARAGRAPH_END>>
+<<PARAGRAPH>>© Standards Australia Limited<<PARAGRAPH_END>>
+<<PARAGRAPH>>All rights are reserved. No part of this work may be reproduced or copied in any form or by
+any means, electronic or mechanical, including photocopying, without the written
+permission of the publisher, unless otherwise permitted under the Copyright Act 1968.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published by SAI Global Limited under licence from Standards Australia Limited, GPO Box
+476, Sydney, NSW 2001, Australia<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISBN 978 1 74342 869 6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>AS ISO 9712:2014
+ii<<HEADING_END>>
+<<PARAGRAPH>>This Standard was prepared by the Standards Australia Committee MT-007, Non-Destructive Testing
+of Metals and Materials, to supersede AS 3998—2006,  Non-destructive testing—Qualification and
+certification of personnel .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Standard incorporates Amendment No. 1 (January 2015). The changes required by the
+Amendment are indicated in the text by a marginal bar and amendment number against the clause,
+note, table, figure or part thereof affected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The objective of this Standard is to specify requirements for principles for the qualification and
+certification of personnel who perform industrial non-destructive testing (NDT).<<PARAGRAPH_END>>
+<<PARAGRAPH>>This Standard is identical with, and has been reproduced from ISO 9712:2012,  Non-destructive
+testing—Qualification and certification of NDT personnel .<<PARAGRAPH_END>>
+<<PARAGRAPH>>As this Standard is reproduced from an International Standard, the following applies:<<PARAGRAPH_END>>
+<<PARAGRAPH>>(a)
+In the source text ‘this International Standard’ should read ‘this Australian Standard’.<<PARAGRAPH_END>>
+<<PARAGRAPH>>(b)
+A full point substitutes for a comma when referring to a decimal marker.<<PARAGRAPH_END>>
+<<PARAGRAPH>>References to International Standards should be replaced by references to Australian or
+Australian/New Zealand Standards, as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference to International Standard
+Australian/New Zealand Standard<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC
+AS/NZS ISO/IEC
+17024
+Conformity assessment—General
+requirements for bodies operating
+certification of persons<<PARAGRAPH_END>>
+<<PARAGRAPH>>17024
+Conformity assessment—General
+requirements for bodies operating
+certification of persons<<PARAGRAPH_END>>
+<<PARAGRAPH>>The terms ‘normative’ and ‘informative’ have been used in this Standard to define the application of
+the annex to which they apply. A ‘normative’ annex is an integral part of a Standard, whereas an
+‘informative’ annex is only for information and guidance.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+iii<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword  .............................................................................................................................................................................  v<<HEADING_END>>
+<<HEADING level=3>>Introduction  ....................................................................................................................................................................... vi<<HEADING_END>>
+<<HEADING level=3>>1
+Scope  ......................................................................................................................................................................  1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references  .........................................................................................................................................  1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions  .........................................................................................................................................  2<<HEADING_END>>
+<<HEADING level=3>>4
+Methods and abbreviated terms  ......................................................................................................................  5<<HEADING_END>>
+<<PARAGRAPH>>5
+Responsibilities  ...................................................................................................................................................  5
+5.1
+General  ...................................................................................................................................................................  5
+5.2
+Certification body  ................................................................................................................................................  5
+5.3
+Authorized qualification body  ..........................................................................................................................  6
+5.4
+Examination centre  .............................................................................................................................................  6
+5.5
+Employer  ................................................................................................................................................................  7
+5.6
+Candidate  ...............................................................................................................................................................  8
+5.7
+Certificate holders  ...............................................................................................................................................  8<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+Levels of qualification  ........................................................................................................................................  8
+6.1
+Level 1  ....................................................................................................................................................................  8
+6.2
+Level 2  ....................................................................................................................................................................  8
+6.3
+Level 3  ....................................................................................................................................................................  9<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Eligibility  ................................................................................................................................................................  9
+7.1
+General  ...................................................................................................................................................................  9
+7.2
+Training  ..................................................................................................................................................................  9
+7.3
+Industrial NDT experience  ...............................................................................................................................  11
+7.4
+Vision requirements — all levels  ................................................................................................................... 12<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+Qualification examination  ............................................................................................................................... 13
+8.1
+General  ................................................................................................................................................................. 13
+8.2
+Examination content and grading for Level 1 and Level 2  ..................................................................... 13
+8.3
+Examination content and grading for Level 3  ........................................................................................... 15
+8.4
+Conduct of examinations  ................................................................................................................................ 17
+8.5
+Re-examination  .................................................................................................................................................. 17
+8.6
+Examination exemptions  ................................................................................................................................. 18<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+Certification  ......................................................................................................................................................... 18
+9.1
+Administration  .................................................................................................................................................... 18
+9.2
+Certificates and/or wallet cards  ..................................................................................................................... 18
+9.3
+Digital certificates  ............................................................................................................................................. 19
+9.4
+Validity  .................................................................................................................................................................. 19<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+Renewal  ................................................................................................................................................................ 19<<HEADING_END>>
+<<PARAGRAPH>>11
+Recertification  .................................................................................................................................................... 20
+11.1
+General  ................................................................................................................................................................. 20
+11.2
+Level 1 and 2  ....................................................................................................................................................... 20
+11.3
+Level 3  .................................................................................................................................................................. 20<<PARAGRAPH_END>>
+<<HEADING level=3>>12
+Files  ....................................................................................................................................................................... 21<<HEADING_END>>
+<<HEADING level=3>>13
+Transition period  ............................................................................................................................................... 21<<HEADING_END>>
+<<HEADING level=3>>14
+Transition between EN 473:2008, [4]  ISO 9712:2005 and this International Standard  ...................... 22<<HEADING_END>>
+<<HEADING level=3>>Annex A  (normative)  Sectors  ........................................................................................................................................ 23<<HEADING_END>>
+<<PARAGRAPH>>Annex B  (normative)  Minimum number and type of specimens for the Level 1 and Level 2
+practical examination  ....................................................................................................................................... 24<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex C  (normative)  Structured credit system for Level 3 recertification  ....................................................... 25<<HEADING_END>>
+<<PARAGRAPH>>© ISO 2012 – All rights reserved
+iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<HEADING level=3>>AS ISO 9712:2014
+iv<<HEADING_END>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex D  (normative)  Grading practical examination .............................................................................................. 27<<HEADING_END>>
+<<HEADING level=3>>Annex E  (informative)  Engineering of NDT  ................................................................................................................ 30<<HEADING_END>>
+<<HEADING level=3>>Bibliography  ..................................................................................................................................................................... 31<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>AS ISO 9712:2014
+v<<HEADING_END>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>Since the effectiveness of any application of non-destructive testing (NDT) depends upon the capabilities of
+the persons who perform or are responsible for the test, a procedure has been developed to provide a means
+of evaluating and documenting the competence of personnel whose duties require the appropriate theoretical
+and practical knowledge of the non-destructive tests they perform, specify, supervise, monitor or evaluate. An
+added incentive stems from the worldwide comparability of a wide range of industrial applications requiring
+common non-destructive testing approaches.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When certification of NDT personnel is required in product standards, regulations, codes or specifications, it is
+important to certify the personnel in accordance with this International Standard. When latitude is provided in
+the criteria within this International Standard, the certification body has the final decision in determining specific
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When there is no requirement in legislation, in standard or in the order for certification of NDT personnel, it is
+for employers of such personnel to decide how to assure themselves that they are competent to do the work
+assignments. Thus, they may employ people who are already certified or they may apply their own expertise
+so as to assure themselves that their employee has the necessary competence. In this last case, prudent
+employers would no doubt use this International Standard as a reference document.<<PARAGRAPH_END>>
+<<HEADING level=3>>vi
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>AS ISO 9712:2014
+vi<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>AS ISO 9712:2014
+1<<HEADING_END>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=2>>Non-destructive testing—Qualification and certification of NDT
+personnel<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing — Qualification and certification of
+NDT personnel<<HEADING_END>>
+<<HEADING level=3>>1 Scope<<HEADING_END>>
+<<PARAGRAPH>>This International Standard specifies requirements for principles for the qualification and certification of
+personnel who perform industrial non-destructive testing (NDT).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+The term “industrial” implies the exclusion of applications in the field of medicine.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The system specified in this International Standard can also apply to other NDT methods or to new techniques
+within an established NDT method, provided a comprehensive scheme of certification exists and the method
+or technique is covered by International, regional or national standards or the new NDT method or technique
+has been demonstrated to be effective to the satisfaction of the certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+CEN/TR 14748 [5]  can be used as guidance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The certification covers proficiency in one or more of the following methods:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+acoustic emission testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+eddy current testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+infrared thermographic testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+leak testing (hydraulic pressure tests excluded);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+magnetic testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+penetrant testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+radiographic testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+strain gauge testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+ultrasonic testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+visual testing (direct unaided visual tests and visual tests carried out during the application of another NDT
+method are excluded).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 3
+This International Standard specifies requirements for what are, in effect, third party conformity assessment
+schemes. These requirements do not directly apply to conformity assessment by second or first parties, but relevant parts
+of this International Standard can be referred to in such arrangements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 4
+Wherever gender specific words such as “his”, “her”, “he” or “she” appear in this International Standard, the
+other gender is also applicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>2 Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced document
+(including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO/IEC 17024,  Conformity assessment — General requirements for bodies operating certification of persons<<PARAGRAPH_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+1<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+2<<HEADING_END>>
+<<HEADING level=3>>3	 Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the following terms and definitions apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+authorized qualification body
+body, independent of the employer, authorized by the certification body to prepare and administer
+qualification examinations<<HEADING_END>>
+<<PARAGRAPH>>3.2
+basic examination
+written examination, at Level 3, which demonstrates the candidate’s knowledge of the materials science and
+process technology and types of discontinuities, the specific qualification and certification system, and the
+basic principles of NDT methods as required for Level 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+For an explanation of the three levels of qualification, see Clause 6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+The qualification and certification system is specified in this International Standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3
+candidate
+individual seeking qualification and certification who gains experience under the supervision of personnel
+having a qualification acceptable to the certification body<<HEADING_END>>
+<<HEADING level=3>>3.4
+certificate
+document issued by the certification body under specified provisions, indicating that the named person has
+demonstrated the competence(s) defined on the certificate<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+The provisions are specified in this International Standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.5
+certification
+procedure used by the certification body to confirm that the qualification requirements for a method, level and
+sector have been fulfilled, leading to the issuing of a certificate<<HEADING_END>>
+<<HEADING level=3>>3.6
+certification body
+body that administers procedures for certification according to specified requirements<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+The requirements are specified in this International Standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.7
+employer
+organization for which the candidate works on a regular basis<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+An employer can also be a candidate at the same time.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+examination centre
+centre approved by the certification body where qualification examinations are carried out<<HEADING_END>>
+<<PARAGRAPH>>3.9
+examiner
+person certified to Level 3 in the method and product or industrial sector for which he is authorized by the
+certification body to conduct, supervise and grade the qualification examination<<PARAGRAPH_END>>
+<<HEADING level=3>>3.10
+general examination
+written examination, at Level 1 or Level 2, concerned with the principles of an NDT method<<HEADING_END>>
+<<HEADING level=3>>2
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+3<<HEADING_END>>
+<<PARAGRAPH>>3.11
+industrial experience
+experience, acceptable to the certification body, gained under qualified supervision, in the application of the
+NDT method in the sector concerned, needed to acquire the skill and knowledge to fulfil the provisions of
+qualification<<PARAGRAPH_END>>
+<<HEADING level=3>>3.12
+invigilator
+person authorized by the certification body to supervise examinations<<HEADING_END>>
+<<PARAGRAPH>>3.13
+job-specific training
+training, provided by the employer (or his agent) to the certificate holder in those aspects of non-destructive
+testing specific to the employer’s products, NDT equipment, NDT procedures, and applicable codes, standards,
+specifications and procedures, leading to the award of operating authorizations<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.14
+main-method examination
+written examination, at Level 3, which demonstrates the candidate’s general and specific knowledge, and the
+ability to write NDT procedures for the NDT method as applied in the industrial or product sector(s) for which
+certification is sought<<PARAGRAPH_END>>
+<<HEADING level=3>>3.15
+multiple choice examination question
+wording of a question giving rise to four potential replies, only one of which is correct, the remaining three being
+incorrect or incomplete<<HEADING_END>>
+<<HEADING level=3>>3.16
+NDT instruction
+written description of the precise steps to be followed in testing to an established standard, code, specification
+or NDT procedure<<HEADING_END>>
+<<HEADING level=3>>3.17
+NDT method
+discipline applying a physical principle in non-destructive testing<<HEADING_END>>
+<<PARAGRAPH>>EXAMPLE
+Ultrasonic testing.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.18
+NDT procedure
+written description of all essential parameters and precautions to be applied when non-destructively testing
+products in accordance with standard(s), code(s) or specification(s)<<HEADING_END>>
+<<HEADING level=3>>3.19
+NDT technique
+specific way of utilizing an NDT method<<HEADING_END>>
+<<PARAGRAPH>>EXAMPLE
+Immersion ultrasonic testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.20
+NDT training
+process of instruction in theory and practice in the NDT method in which certification is sought, which takes the
+form of training courses to a syllabus approved by the certification body<<PARAGRAPH_END>>
+<<HEADING level=3>>3.21
+operating authorization
+written statement issued by the employer, based upon the scope of certification, authorizing the individual to
+carry out defined tasks<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Such authorization can be dependent on the provision of job-specific training.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+3<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+4<<HEADING_END>>
+<<HEADING level=3>>3.22
+practical examination
+assessment of practical skills, in which the candidate demonstrates familiarity with, and the ability to perform, the test<<HEADING_END>>
+<<HEADING level=3>>3.23
+qualification
+demonstration of physical attributes, knowledge, skill, training and experience required to properly perform
+NDT tasks<<HEADING_END>>
+<<PARAGRAPH>>3.24
+qualification examination
+examination, administered by the certification body or the authorized qualification body, which assesses the
+general, specific and practical knowledge and the skill of the candidate<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.25
+qualified supervision
+supervision of candidates gaining experience by NDT personnel certified in the same method under supervision
+or by non-certified personnel who, in the opinion of the certification body, possess the knowledge, skill, training,
+and experience required to properly perform such supervision<<PARAGRAPH_END>>
+<<HEADING level=3>>3.26
+sector
+particular section of industry or technology where specialized NDT practices are used, requiring specific
+product-related knowledge, skill, equipment or training<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+A sector can be interpreted to mean a product (welded products, castings) or an industry (aerospace, in-
+service testing). See Annex A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.27
+significant interruption
+absence or change of activity which prevents the certified individual from practising the duties corresponding
+to the level in the method and the sector(s) within the certified scope, for either a continuous period in excess
+of one year or two or more periods for a total time exceeding two years<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Legal holidays or periods of sickness or courses of less than 30  days are not taken into account when
+calculating the interruption.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.28
+specific examination
+written examination, at Level 1 or Level 2, concerned with testing techniques applied in a particular sector(s),
+including knowledge of the product(s) tested and of codes, standards, specifications, procedures and
+acceptance criteria<<PARAGRAPH_END>>
+<<HEADING level=3>>3.29
+specification
+document stating requirements<<HEADING_END>>
+<<HEADING level=3>>3.30
+specimen
+sample used in practical examinations, possibly including radiographs and data sets, which is representative
+of products typically tested in the applicable sector<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+A specimen can include more than one area or volume to be tested.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.31
+specimen master report
+model answer, indicating the optimum result for a practical examination given a defined set of conditions
+(equipment type, settings, technique, specimen, etc.) against which the candidate’s test report is graded<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+5<<HEADING_END>>
+<<PARAGRAPH>>3.32
+supervision
+act of directing the application of NDT performed by other NDT personnel, which includes the control of actions
+involved in the preparation of the test, performance of the test and reporting of the results<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.33
+validation
+act of demonstrating that a verified procedure works in practice and fulfils its intended function, normally
+achieved by actual witnessing, demonstration, field or laboratory tests or selected trials<<PARAGRAPH_END>>
+<<HEADING level=3>>3.34
+renewal
+procedure for revalidation of a certificate without examination at any time up to five years after success in an
+initial, supplementary or recertification examination<<HEADING_END>>
+<<HEADING level=3>>3.35
+recertification
+procedure for revalidation of a certificate by examination or by otherwise satisfying the certification body that
+the published criteria for recertification are satisfied<<HEADING_END>>
+<<HEADING level=3>>4	 Methods and abbreviated terms<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this International Standard, the abbreviated terms listed in Table 1 are used to identify NDT
+methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Methods and abbreviated terms<<HEADING_END>>
+<<HEADING level=3>>NDT method
+Abbreviated terms<<HEADING_END>>
+<<PARAGRAPH>>Acoustic emission testing
+AT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Eddy current testing
+ET<<PARAGRAPH_END>>
+<<PARAGRAPH>>Infrared thermographic testing
+TT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Leak testing
+LT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Magnetic testing
+MT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Penetrant testing
+PT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Radiographic testing
+RT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Strain gauge testing
+ST<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ultrasonic testing
+UT<<PARAGRAPH_END>>
+<<PARAGRAPH>>Visual testing
+VT<<PARAGRAPH_END>>
+<<HEADING level=3>>5	 Responsibilities<<HEADING_END>>
+<<HEADING level=3>>5.1	 General<<HEADING_END>>
+<<PARAGRAPH>>The certification system, which shall be controlled and administered by a certification body (with the assistance,
+where necessary, of authorized qualification bodies), includes all procedures necessary to demonstrate the
+qualification of an individual to carry out tasks in a specific NDT method and product or industrial sector,
+leading to certification of competence.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2	 Certification body<<HEADING_END>>
+<<HEADING level=3>>5.2.1
+The certification body shall fulfil the requirements of ISO/IEC 17024.<<HEADING_END>>
+<<HEADING level=3>>5.2.2
+The certification body:<<HEADING_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+5<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| NDT method                     | Abbreviated terms   |
+|:-------------------------------|:--------------------|
+| Acoustic emission testing      | AT                  |
+| Eddy current testing           | ET                  |
+| Infrared thermographic testing | TT                  |
+| Leak testing                   | LT                  |
+| Magnetic testing               | MT                  |
+| Penetrant testing              | PT                  |
+| Radiographic testing           | RT                  |
+| Strain gauge testing           | ST                  |
+| Ultrasonic testing             | UT                  |
+| Visual testing                 | VT                  |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+6<<HEADING_END>>
+<<PARAGRAPH>>a)
+shall initiate, promote, maintain and administer the certification scheme according to ISO/IEC 17024 and
+this International Standard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+shall publish specifications for training courses that include the syllabi which embody the content of
+recognized documents, e.g. ISO/TR 25107 [2]  or equivalent;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+may delegate, under its direct responsibility, the detailed administration of qualification to authorized
+qualification bodies, to which it shall issue specifications and/or procedures covering facilities, personnel,
+calibration and control of NDT equipment, examination materials, specimens, conduct of examinations,
+examination grading, records, etc.;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+shall conduct an initial audit and subsequent periodic surveillance audits of the authorized qualification
+body(ies) to ensure their conformity to the specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+shall monitor, in accordance with a documented procedure, all delegated functions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+shall approve properly staffed and equipped examination centres which it shall monitor on a periodic basis;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+shall establish an appropriate system for the maintenance of records, which shall be retained for at least
+one certification cycle (10 years);<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+shall be responsible for the issue of all certificates;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+shall be responsible for the definition of sectors (see Annex A);<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+shall be responsible for ensuring the security of all examination materials (specimens, master reports, question
+banks, examination papers, etc.) and shall ensure that specimens are not in use for training purposes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+shall require all candidates and certificate holders to give a signed or stamped undertaking to abide by a
+code of ethics which it shall develop for the purpose and publish.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3	 Authorized qualification body<<HEADING_END>>
+<<HEADING level=3>>5.3.1
+Where established, the authorized qualification body shall:<<HEADING_END>>
+<<PARAGRAPH>>a)
+work under the control of and apply the specifications issued by the certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+be independent of any single predominant interest;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+ensure that it is impartial with respect to each candidate seeking qualification, bringing to the attention of
+the certification body any actual or potential threat to its impartiality;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+apply a documented quality management system approved by the certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+have the resources and expertise necessary to establish, monitor and control examinations centres,
+including examinations and the calibration and control of the equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+prepare, supervise and administer examinations under the responsibility of an examiner authorized by the
+certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+maintain appropriate qualification and examination records according to the requirements of the
+certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2
+If there are no authorized qualification bodies, the certification body shall fulfil the requirements of the
+qualification body.<<HEADING_END>>
+<<HEADING level=3>>5.4	 Examination centre<<HEADING_END>>
+<<HEADING level=3>>5.4.1
+The examination centre shall:<<HEADING_END>>
+<<PARAGRAPH>>a)
+work under the control of the certification body or authorized qualification body;<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+7<<HEADING_END>>
+<<PARAGRAPH>>b)
+apply a documented quality procedure approved by the certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+have the resources needed to administer examinations, including the calibration and control of equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+have adequate qualified staff, premises and equipment to ensure satisfactory qualification examinations
+for the levels, methods, and sectors concerned;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+prepare and conduct examinations under the responsibility of an examiner authorized by the certification
+body, using only those examination questionnaires and specimens established or approved by the
+certification body for that purpose;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+use only specimens prepared or approved by the certification body or qualification body for the practical
+examinations conducted at that centre (when more than one examination centre exists, each shall have
+examination specimens of comparable test difficulty containing similar discontinuities)  — under no
+circumstances shall specimens be used for training purposes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+maintain appropriate qualification and examination records according to the requirements of the
+certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.4.2
+An examination centre can be situated at an employer’s premises. In this case, the certification body
+shall require additional controls to preserve impartiality and the examinations shall be conducted only in the
+presence of, and under the control of, an authorized representative of the certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5	 Employer<<HEADING_END>>
+<<PARAGRAPH>>5.5.1
+The employer shall introduce the candidate to the certification body or the authorized qualification body
+and document the validity of the personal information provided. This information shall include the declaration
+of education, training and experience and visual acuity needed to determine the eligibility of the candidate. If
+the candidate is unemployed or self-employed, the declaration of education, training and experience shall be
+attested to by at least one independent party acceptable to the certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5.2
+Neither the employer nor his staff shall be directly involved in the qualification examination.<<HEADING_END>>
+<<HEADING level=3>>5.5.3
+In respect of certified personnel under their control the employer shall be responsible for:<<HEADING_END>>
+<<PARAGRAPH>>a)
+all that concerns the authorization to operate, i.e. providing job-specific training (if necessary);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+issuing the written authorization to operate;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the results of NDT operations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+ensuring that the annual visual acuity requirements of 7.4 a) are met;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+verifying continuity in the application of the NDT method without significant interruption;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+ensuring that personnel hold valid certification relevant to their tasks within the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+maintaining appropriate records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is recommended that these responsibilities be described in a documented procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5.4
+A self-employed individual shall assume all responsibilities ascribed to the employer.<<HEADING_END>>
+<<PARAGRAPH>>5.5.5
+Certification to this International Standard provides an attestation of general competence of the NDT
+operator. It does not represent an authorization to operate, since this remains the responsibility of the employer,
+and the certified employee may require additional specialized knowledge of parameters such as equipment,
+NDT procedures, materials and products specific for the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where required by regulatory requirements and codes, the authorization to operate shall be given in writing by
+the employer in accordance with a quality procedure that defines any employer-required job-specific training<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+7<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+8<<HEADING_END>>
+<<PARAGRAPH>>and examinations designed to verify the certificate holder’s knowledge of relevant industry code(s), standard(s),
+NDT procedures, equipment, and acceptance criteria for the tested products.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.6	 Candidate<<HEADING_END>>
+<<PARAGRAPH>>Candidates, whether employed, self-employed or unemployed shall:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+provide documentary evidence of satisfactory completion of a course of training;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+provide verifiable documentary evidence that the required experience has been gained under qualified
+supervision;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+provide documentary evidence of vision satisfying the requirements of 7.4;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+abide by a code of ethics published by the certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.7	 Certificate holders<<HEADING_END>>
+<<PARAGRAPH>>Certificate holders shall:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+abide by a code of ethics published by the certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+undergo an annual test of visual acuity in accordance with 7.4 a), and submit the results of tests to the employer;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+notify the certification body and the employer in the event that the conditions for validity of certification are
+not fulfilled.<<PARAGRAPH_END>>
+<<HEADING level=3>>6	 Levels of qualification<<HEADING_END>>
+<<HEADING level=3>>6.1	 Level 1<<HEADING_END>>
+<<PARAGRAPH>>6.1.1
+An individual certified to Level 1 has demonstrated competence to carry out NDT according to written
+instructions and under the supervision of Level 2 or Level 3 personnel. Within the scope of the competence
+defined on the certificate, Level 1 personnel may be authorized by the employer to perform the following in
+accordance with NDT instructions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+set up NDT equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+perform the tests;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+record and classify the results of the tests according to written criteria;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+report the results.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.1.2
+Level 1 certified personnel shall neither be responsible for the choice of test method or technique to be
+used, nor for the interpretation of test results.<<HEADING_END>>
+<<HEADING level=3>>6.2	 Level 2<<HEADING_END>>
+<<PARAGRAPH>>An individual certified to Level 2 has demonstrated competence to perform NDT according to NDT
+procedures. Within the scope of the competence defined on the certificate, Level 2 personnel may be
+authorized by the employer to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+select the NDT technique for the testing method to be used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+define the limitations of application of the testing method;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+translate NDT codes, standards, specifications, and procedures into NDT instructions adapted to the
+actual working conditions;<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+9<<HEADING_END>>
+<<PARAGRAPH>>d)
+set up and verify equipment settings;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+perform and supervise tests;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+interpret and evaluate results according to applicable standards, codes, specifications or procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+carry out and supervise all tasks at or below Level 2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+provide guidance for personnel at or below Level 2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+report the results of NDT.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3	 Level 3<<HEADING_END>>
+<<HEADING level=3>>6.3.1
+An individual certified to Level 3 has demonstrated competence to perform and direct NDT operations
+for which he is certified. Level 3 personnel have demonstrated:<<HEADING_END>>
+<<PARAGRAPH>>a)
+the competence to evaluate and interpret results in terms of existing standards, codes, and specifications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+sufficient practical knowledge of applicable materials, fabrication, process, and product technology to
+select NDT methods, establish NDT techniques, and assist in establishing acceptance criteria where none
+are otherwise available;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+a general familiarity with other NDT methods.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2
+Within the scope of the competence defined on the certificate, Level 3 personnel may be authorized to:<<HEADING_END>>
+<<PARAGRAPH>>a)
+assume full responsibility for a test facility or examination centre and staff;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+establish, review for editorial and technical correctness, and validate NDT instructions and procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+interpret standards, codes, specifications, and procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+designate the particular test methods, procedures, and NDT instructions to be used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+carry out and supervise all tasks at all levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+provide guidance for NDT personnel at all levels.<<PARAGRAPH_END>>
+<<HEADING level=3>>7	 Eligibility<<HEADING_END>>
+<<HEADING level=3>>7.1	 General<<HEADING_END>>
+<<PARAGRAPH>>The candidate shall fulfil the minimum requirements of vision and training prior to the qualification examination
+and shall fulfil the minimum requirements for industrial experience prior to certification.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2	 Training<<HEADING_END>>
+<<PARAGRAPH>>7.2.1
+The candidate shall provide documentary evidence, acceptable to the certification body, that he has
+satisfactorily completed training in the method and level for which the certification is sought.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.2
+For all levels, the candidate shall satisfactorily complete a course of theoretical and practical training
+recognized by the certification body.<<HEADING_END>>
+<<PARAGRAPH>>For Level 3, in addition to the minimum training given in Table 2, the preparation for qualification can be completed
+in different ways dependent on the scientific and technical background of the candidate, including attendance<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+9<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+10<<HEADING_END>>
+<<PARAGRAPH>>at other training courses, conferences or seminars, studying books, periodicals and other specialized printed
+or electronic materials.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Guidelines for NDT personnel training organizations are given in ISO/TR 25108. [3]<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.3
+The minimum duration of training undertaken by the candidate for certification shall be as defined in
+7.2.4 and Table 2 for the applicable NDT method, with the possible reductions defined in 7.2.5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This duration is based upon candidates possessing adequate mathematical skills and prior knowledge of
+materials and processes. If it is not the case, additional training may be required by the certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Training hours include both practical and theoretical courses.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When creating industrial sectors as defined in Annex A, the certification body should consider whether the
+minimum training requirements in Table 2 are sufficient or should be increased.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.4
+Direct access to Level 2 requires the total hours shown in Table 2 for Levels 1 and 2.<<HEADING_END>>
+<<PARAGRAPH>>Direct access to Level 3 requires the total hours shown in Table 2 for Levels 1, 2, and 3. When considering the
+responsibilities of a certified Level 3 (see 6.3) and the content of Part C of the basic examination for Level 3
+(see Table 6), additional training about the other NDT methods may be necessary.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2 — Minimum training requirements<<HEADING_END>>
+<<HEADING level=3>>NDT method
+Level 1<<HEADING_END>>
+<<HEADING level=3>>Level 2<<HEADING_END>>
+<<HEADING level=3>>Level 3<<HEADING_END>>
+<<PARAGRAPH>>h<<PARAGRAPH_END>>
+<<PARAGRAPH>>h<<PARAGRAPH_END>>
+<<PARAGRAPH>>h<<PARAGRAPH_END>>
+<<PARAGRAPH>>AT
+40
+64
+48<<PARAGRAPH_END>>
+<<PARAGRAPH>>ET
+40
+48
+48<<PARAGRAPH_END>>
+<<PARAGRAPH>>LT
+B — Pressure method
+24
+32
+32<<PARAGRAPH_END>>
+<<PARAGRAPH>>C — Tracer gas method
+24
+40
+40<<PARAGRAPH_END>>
+<<PARAGRAPH>>MT
+16
+24
+32<<PARAGRAPH_END>>
+<<PARAGRAPH>>PT
+16
+24
+24<<PARAGRAPH_END>>
+<<PARAGRAPH>>ST
+16
+24
+20<<PARAGRAPH_END>>
+<<PARAGRAPH>>TT
+40
+80
+40<<PARAGRAPH_END>>
+<<PARAGRAPH>>RT
+40
+80
+40<<PARAGRAPH_END>>
+<<PARAGRAPH>>UT
+40
+80
+40<<PARAGRAPH_END>>
+<<PARAGRAPH>>VT
+16
+24
+24<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For RT, training hours do not include radiation safety training.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2.5
+The possible reductions in training duration are as described hereafter, provided that, when several
+reductions are applicable, the total reduction does not exceed 50 % of the training duration. Any reduction
+requires acceptance by the certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+For all levels:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 for candidates seeking certification in more than one method (e.g. MT, PT), or for those already
+certified and seeking certification in another method, when the training syllabus concerned duplicates
+certain aspects (e.g. product technology), the total number of training hours for these methods (e.g.
+PT, MT, VT) may be reduced in line with the training syllabus;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 for candidates who have graduated in a relevant subject from technical college or university, or have
+completed at least two years of relevant engineering or science study at college or university, the total
+required number of training hours may be reduced by up to 50 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+It is appropriate for the subject to be relevant to the NDT method (chemistry, mathematics or physics)
+and/or to the product or industry sector (chemistry, metallurgy, engineering, etc.).<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| NDT method                                                            | Level 1   | Level 2   | Level 3   |
+|                                                                       | h         | h         | h         |
+|:----------------------------------------------------------------------|:----------|:----------|:----------|
+| AT                                                                    | 40        | 64        | 48        |
+| ET                                                                    | 40        | 48        | 48        |
+| B — Pressure method                                                   | 24        | 32        | 32        |
+| LT                                                                    |           |           |           |
+| C — Tracer gas method                                                 |           |           |           |
+|                                                                       | 24        | 40        | 40        |
+| MT                                                                    | 16        | 24        | 32        |
+| PT                                                                    | 16        | 24        | 24        |
+| ST                                                                    | 16        | 24        | 20        |
+| TT                                                                    | 40        | 80        | 40        |
+| RT                                                                    | 40        | 80        | 40        |
+| UT                                                                    | 40        | 80        | 40        |
+| VT                                                                    | 16        | 24        | 24        |
+| NOTE For RT, training hours do not include radiation safety training. |           |           |           |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+11<<HEADING_END>>
+<<PARAGRAPH>>b)
+For Levels 1 and 2, when the certification sought is limited:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 in application (e.g. automated ET, UT of bar, tube, and rod or normal beam ultrasonic thickness and
+lamination testing of rolled steel plate);<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 in technique (e.g. RT using only radioscopy);<<PARAGRAPH_END>>
+<<PARAGRAPH>>the training duration may be reduced by up to 50 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+For direct access to Level 2 RT when certification is restricted to the film interpretation and to only one
+product sector, a minimum training requirement of 56 h applies.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3	 Industrial NDT experience<<HEADING_END>>
+<<HEADING level=3>>7.3.1	 General<<HEADING_END>>
+<<PARAGRAPH>>The minimum duration of experience to be gained in the sector where the candidate is seeking certification shall
+be as given in Table 3, with the possible reductions given in 7.3.3. When the candidate is seeking certification
+in more than one method, the total time of experience shall be the sum of the experience in each method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For Level 2 certification, the intent of this International Standard is that work experience consists of time as a
+Level 1. If the individual is being qualified directly to Level 2, with no time at Level 1, the experience shall consist
+of the sum of the times required for Level 1 and Level 2. No reduction in the period of experience shall be allowed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For all levels, a minimum period of experience prior to examination shall be defined by certification body
+(a fraction or percentage of the total requirement in Table 3, as appropriate). In the event that a part of the
+experience is sought following successful examination, the results of the examination shall remain valid for two
+years or for the total experience time required for the methods concerned, whichever is the greater.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Documentary evidence of experience shall be confirmed by the employer and submitted to the certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 3 — Minimum industrial experience<<HEADING_END>>
+<<HEADING level=3>>NDT method
+Experience
+months a<<HEADING_END>>
+<<HEADING level=3>>Level 1
+Level 2
+Level 3<<HEADING_END>>
+<<PARAGRAPH>>AT, ET, LT, RT, UT, TT
+3
+9
+18<<PARAGRAPH_END>>
+<<PARAGRAPH>>MT, PT, ST, VT
+1
+3
+12<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Work experience is based on a nominal 40 h/week or the legal week of work. When an individual
+works in excess of 40 h/week, he may be credited with experience based on the total hours, but he
+shall be required to produce evidence of this experience.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.2	 Level 3<<HEADING_END>>
+<<PARAGRAPH>>Level 3 responsibilities require knowledge beyond the technical scope of any specific NDT method. This broad
+knowledge may be acquired through a variety of combinations of education, training and experience. Table 3
+details minimum experience for candidates who have successfully completed a technical school or at least two
+years of engineering or science study at an accredited college or university. If this is not the case, the duration
+has to be multiplied by a factor of 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For Level 3 certification, the intent of this International Standard is that work experience consists of time as a
+Level 2. If the individual is being qualified directly from Level 1 to Level 3, with no time at Level 2, the experience
+shall consist of the sum of the times required for Level 2 and Level 3. No reduction in the period of experience
+shall be allowed.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+11<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| NDT method                                                                                        | Experience                |    |    |
+|                                                                                                   | monthsa                   |    |    |
+|                                                                                                   | Level 1 Level 2 Level 3   |    |    |
+|:--------------------------------------------------------------------------------------------------|:--------------------------|:---|:---|
+| AT, ET, LT, RT, UT, TT                                                                            | 3                         | 9  | 18 |
+| MT, PT, ST, VT                                                                                    | 1                         | 3  | 12 |
+| a Work experience is based on a nominal 40 h/week or the legal week of work. When an individual   |                           |    |    |
+| works in excess of 40 h/week, he may be credited with experience based on the total hours, but he |                           |    |    |
+| shall be required to produce evidence of this experience.                                         |                           |    |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+12<<HEADING_END>>
+<<HEADING level=3>>7.3.3	 Possible reductions<<HEADING_END>>
+<<PARAGRAPH>>7.3.3.1
+The possible reductions in duration of experience are as described hereafter, provided that, when
+several reductions are applicable, the total reduction does not exceed 50 % of the experience duration. Any
+reduction does require acceptance by the certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When considering possible reduction in the duration of experience, the certification body should take into
+consideration the following elements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 The quality of experience can be variable, and skills may be assimilated more quickly in an environment
+where the experience is concentrated and has a high degree of relevance to the certification sought.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 When gaining experience simultaneously in two or more surface NDT methods, i.e. MT, PT and VT, the
+experience gained in the application of one NDT method may be complementary to the experience gained
+in one or more other surface methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 Experience in one sector of an NDT method for which certification is already held may be complementary
+to the experience in a different sector of the same NDT method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 The level and quality of education possessed by the candidate should also be considered. This is
+particularly the case for the Level 3 candidate but it can also be applicable for other levels.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.3.2
+Credit for work experience may be gained simultaneously in two or more of the NDT methods covered
+by this International Standard, with the reduction of total required experience as follows:<<HEADING_END>>
+<<PARAGRAPH>>—	 two testing methods: reduction of total required time by 25 %;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 three testing methods: reduction of total required time by 33 %;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 four or more testing methods: reduction of total required time by 50 %.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In all cases, the candidate shall be required to show that for each of the testing methods for which he seeks
+certification, he has a minimum of 50% of the time required in Table 3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.3.3
+In all cases, the candidate shall be required to show that for each of the NDT method and sector
+combinations for which he seeks certification, he has at least half of the experience required, and this shall
+never be less than one month in duration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.3.4
+When the certification sought is limited in application (e.g. thickness measurement or automated
+testing), experience duration may be reduced by up to 50 % but shall not be less than one month.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3.3.5
+Up to 50 % of the practical experience time may be achieved by an appropriate practical course, the
+duration of which may be weighted by a maximum factor of 5. This procedure shall not be used in conjunction
+with that specified in 7.3.3.4. The course shall concentrate on practical solutions of frequently occurring testing
+problems and should involve a significant element of testing known defective specimens. The programme shall
+be approved by the certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4	 Vision requirements — all levels<<HEADING_END>>
+<<PARAGRAPH>>The candidate shall provide documentary evidence of satisfactory vision in accordance with the following
+requirements:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+near vision acuity shall permit reading a minimum of Jaeger number 1 or Times Roman N 4.5 or equivalent
+letters (having a height of 1,6 mm) at not less than 30 cm with one or both eyes, either corrected or uncorrected;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+colour vision shall be sufficient that the candidate can distinguish and differentiate contrast between the
+colours or shades of grey used in the NDT method concerned, as specified by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The certification body may consider replacing the requirements in a) by compliance with an appropriate alternative.<<PARAGRAPH_END>>
+<<HEADING level=3>>12
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+13<<HEADING_END>>
+<<HEADING level=3>>Subsequent to certification, the tests of near visual acuity shall be carried out annually and verified by the employer .<<HEADING_END>>
+<<HEADING level=3>>8	 Qualification examination<<HEADING_END>>
+<<HEADING level=3>>8.1	 General<<HEADING_END>>
+<<PARAGRAPH>>The qualification examination shall cover a given NDT method as applied in one industrial sector or one or
+more product sectors. The certification body shall define and publish the maximum amount of time allowed
+for the candidate to complete each examination, which shall be based upon the number and difficulty of the
+questions. The average time allowed for questions requiring narrative answers shall be determined by the
+certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2	 Examination content and grading for Level 1 and Level 2<<HEADING_END>>
+<<HEADING level=3>>8.2.1	 General examination<<HEADING_END>>
+<<PARAGRAPH>>The general examination shall include only questions selected in an unpredictable way from the certification
+body’s or authorized qualification body’s collection of general examination questions valid at the date of
+examination. The candidate shall be required, as a minimum, to give answers to the number of multiple choice
+questions shown in Table 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where not otherwise addressed by national regulations, there shall be an additional examination on radiation
+safety for the radiographic test method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Examinations on the radiographic test method may include either X‑ or gamma‑radiation or both, depending
+upon the procedure of the certification body.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 4 — Required minimum number of questions — General examinations<<HEADING_END>>
+<<HEADING level=3>>NDT method
+Number of questions<<HEADING_END>>
+<<PARAGRAPH>>AT, ET, TT, RT, UT
+40<<PARAGRAPH_END>>
+<<PARAGRAPH>>LT, MT, PT, ST, VT
+30<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.2	 Specific examination<<HEADING_END>>
+<<PARAGRAPH>>The specific examination shall include only questions selected from the certification body’s or authorized
+qualification body’s current collection of specific questions related to the sector(s) concerned.<<PARAGRAPH_END>>
+<<PARAGRAPH>>During the specific examination, the candidate shall be required to give answers to at least 20 multiple choice
+questions, including questions involving calculations, NDT procedures and questions on codes, standards and
+specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the specific examination covers two or more sectors, the minimum number of questions shall be at least 30,
+evenly spread between the industrial or product sectors concerned (see Annex A).<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.3	 Practical examination<<HEADING_END>>
+<<PARAGRAPH>>8.2.3.1
+The practical examination shall involve applying the test to prescribed specimens, recording (and, for
+Level 2 candidates, interpreting) the resulting information to the degree required, and reporting the results in the
+required format. Specimens used for training purposes shall not be used for examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.3.2
+Each specimen shall be uniquely identified and have a master report which includes all of the
+equipment settings used to detect specified discontinuities contained within the specimen, which shall be
+uniquely identified by an appropriate permanent marking to ensure that it is completely traceable. Such marking
+shall not interfere with the practical testing or inspection of the specimen and shall, wherever practicable, be
+concealed from the candidate while the specimen is being used for examination. The master report shall be<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+13<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| NDT method         |   Number of questions |
+|:-------------------|----------------------:|
+| AT, ET, TT, RT, UT |                    40 |
+| LT, MT, PT, ST, VT |                    30 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+14<<HEADING_END>>
+<<PARAGRAPH>>compiled based upon at least two independent tests, and shall be validated by a Level 3 certificate holder for
+use in grading examinations. The independent test reports from which the master report is compiled shall be
+retained as records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.3.3
+Specimens shall be sector specific, simulating field geometries and shall contain discontinuities
+representative of those likely to occur during manufacturing or in service. They may be natural, artificial or
+implanted. For Level 2 evaluation tasks, data sets or films can be used instead of real specimens.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Specimens used for calibration or for measurement tasks (e.g. thickness or coating measurement) do not need
+to contain discontinuities. For RT, the specimen need not contain discontinuities since these are exhibited in
+the radiographs for interpretation. Similarly, for AT, TT, and ST the specimen(s) need not contain discontinuities
+since these are exhibited in the data sets for Level 2 interpretation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Guidelines on discontinuity types in examination specimens can be found in CEN/TS 15053 [6]  or ISO/TS 22809. [1]<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.3.4
+The certification body shall ensure that the number of areas or volumes to be tested is adequate to the
+level, NDT method and sector concerned, and that those areas or volumes contain reportable discontinuities.
+The requirements for the number of specimens and number of areas or volumes to be tested in the Level 1 and
+Level 2 practical examinations are given in Annex B.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.3.5
+The Level 1 candidate shall follow the NDT instruction(s) provided by the examiner.<<HEADING_END>>
+<<HEADING level=3>>8.2.3.6
+The Level 2 candidate shall select the applicable NDT technique and determine the operating
+conditions related to a given code, standard or specification.<<HEADING_END>>
+<<PARAGRAPH>>8.2.3.7
+For those examinations where discontinuities are normally replaced by artificial sources or data, the
+Level 1 candidate shall demonstrate the ability to set up and calibrate the equipment, verify its sensitivity and
+record the test data; the Level 2 candidate shall also demonstrate the ability to interpret and evaluate previously
+recorded test data.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.3.8
+The time allowed for the examination depends on the number of specimens and on their complexity.
+The average time allowed shall be defined by the certification body. The recommended maximum time allowed
+for each area or volume tested is:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+for Level 1: 2 h;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+for Level 2: 3 h.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.3.9
+Level 2 candidates shall draft at least one NDT Instruction suitable for Level 1 personnel, for a
+specimen selected by the examiner.<<HEADING_END>>
+<<PARAGRAPH>>The recommended maximum time allowed for this part of the examination is 2 h.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.4	 Grading of the Level 1 and Level 2 qualification examination<<HEADING_END>>
+<<PARAGRAPH>>8.2.4.1
+The general, specific and practical examinations shall be graded separately. When conventional
+pre-prepared paper-based examinations are used, an examiner shall be responsible for the grading of the
+examinations by comparison with model answers. At the option of the certification body, e-assessment systems
+that automatically score candidate responses against stored data and grade the completed written examination
+according to prepared algorithms may be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.4.2
+The grading of the practical examination shall be based on items 1 to 4 in Table 5, with the recommended
+weighting factors in relation to the level and method as applicable.<<HEADING_END>>
+<<HEADING level=3>>14
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+15<<HEADING_END>>
+<<HEADING level=3>>Table 5 — Subjects and weighting factors for grading — Practical examination<<HEADING_END>>
+<<HEADING level=3>>Weighting factor<<HEADING_END>>
+<<HEADING level=3>>Item a
+Subject<<HEADING_END>>
+<<HEADING level=3>>Level 1<<HEADING_END>>
+<<HEADING level=3>>Level 2<<HEADING_END>>
+<<PARAGRAPH>>%<<PARAGRAPH_END>>
+<<PARAGRAPH>>%<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+Knowledge of the NDT apparatus, including the function and verification of
+the setting of the apparatus.
+20
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>The application of NDT to the specimen. This consists of the following parts:<<PARAGRAPH_END>>
+<<PARAGRAPH>>for Level 2, selection of the techniques and determination of the operating
+conditions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>the preparation (surface condition) and visual examination of the specimen;<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>35
+20<<PARAGRAPH_END>>
+<<PARAGRAPH>>the setting up of the apparatus;<<PARAGRAPH_END>>
+<<PARAGRAPH>>the performance of the test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>the operations after the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+The detection and reporting of the discontinuities and, for Level 2, their
+characterization (position, orientation, dimensions and type) and evaluation.
+45
+55<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+For Level 2, drafting the written instruction for Level 1.
+—
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Table D.1 gives guidance on additional details on each item, which should be taken into account, as applicable by the examiner.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.4.3
+To be eligible for certification, the candidate shall obtain a minimum grade of 70 % in each part of the
+examination (general, specific, and practical). In addition, for the practical examination, a minimum grade of
+70 % shall be obtained for each specimen tested, and for the NDT instruction, as applicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.4.4
+The general and specific parts of the examination are graded by comparing the replies given by the
+candidate against answer keys approved by the certification body. Each correct reply scores 1 point and the
+mark attributed to the tests is the sum of the points obtained. For the final calculation, the mark of each test is
+expressed as a percentage.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.2.4.5
+For the Level 2 candidates, the specimen for which the instruction is produced shall be graded with
+an overall grade of 100 in accordance with Table D.1. The other specimens (without instruction) shall be graded
+with an overall grade of 85 in accordance with Table D.1 (see 8.2.4.2), and the final grade shall be calculated by
+multiplying by 100/85. The instruction shall be graded with an overall grade of 15 in accordance with Table D.1
+(see 8.2.4.2), and, for comparing with the 70 % required in 8.2.4.3, this value shall be multiplied by 100/15.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For AT, the required test instruction may relate to a specimen which is not tested during the practical examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3	 Examination content and grading for Level 3<<HEADING_END>>
+<<HEADING level=3>>8.3.1	 General<<HEADING_END>>
+<<PARAGRAPH>>All candidates for Level 3 certification in any NDT method shall have successfully completed (with a grade of
+≥ 70 %) the practical examination for Level 2 in the relevant sector and method, except for the drafting of NDT
+instructions for Level 1 (see 8.2.3.9). A candidate who is Level 2 in the same NDT method and product sector
+or who has successfully passed a Level 2 practical examination for the NDT method in an industrial sector, as
+defined in Annex A is exempt from passing again the Level 2 practical examination. This exemption is only valid
+for the product sectors covered by the industrial sector concerned and, in any other circumstances, the relevant
+sector is the sector in which the candidate seeks Level 3 certification.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3.2	 Basic examination<<HEADING_END>>
+<<PARAGRAPH>>8.3.2.1
+This written examination shall assess the candidate’s knowledge of the basic subjects using at least the
+number of multiple choice questions shown in Table 6. Examination questions shall be selected in an unpredictable
+way from the current collection of questions approved by the certification body at the time of the examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+15<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Itema                                                                                                                             | Subject                                                                       | Weighting factor   |    |
+|                                                                                                                                   |                                                                               | Level 1 Level 2    |    |
+|                                                                                                                                   |                                                                               | % %                |    |
+|:----------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:-------------------|:---|
+| 1                                                                                                                                 | Knowledge of the NDT apparatus, including the function and verification of    | 20                 | 10 |
+|                                                                                                                                   | the setting of the apparatus.                                                 |                    |    |
+| 2                                                                                                                                 | The application of NDT to the specimen. This consists of the following parts: | 35                 | 20 |
+|                                                                                                                                   | for Level 2, selection of the techniques and determination of the operating   |                    |    |
+|                                                                                                                                   | conditions;                                                                   |                    |    |
+|                                                                                                                                   | the preparation (surface condition) and visual examination of the specimen;   |                    |    |
+|                                                                                                                                   | the setting up of the apparatus;                                              |                    |    |
+|                                                                                                                                   | the performance of the test;                                                  |                    |    |
+|                                                                                                                                   | the operations after the test.                                                |                    |    |
+| 3                                                                                                                                 | The detection and reporting of the discontinuities and, for Level 2, their    | 45                 | 55 |
+|                                                                                                                                   | characterization (position, orientation, dimensions and type) and evaluation. |                    |    |
+| 4                                                                                                                                 | For Level 2, drafting the written instruction for Level 1.                    | —                  | 15 |
+| a Table D.1 gives guidance on additional details on each item, which should be taken into account, as applicable by the examiner. |                                                                               |                    |    |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+16<<HEADING_END>>
+<<HEADING level=3>>Table 6 — Minimum required number of basic examination questions<<HEADING_END>>
+<<HEADING level=3>>Part
+Subject
+Number of
+questions<<HEADING_END>>
+<<PARAGRAPH>>A
+Technical knowledge in materials science and process technology.
+25<<PARAGRAPH_END>>
+<<PARAGRAPH>>B
+Knowledge of the certification body’s qualification and certification system based
+on this International Standard. This may be an open book examination.
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>C
+General knowledge of at least four methods as required for Level 2 and chosen
+by the candidate from the methods given in Clause 1. These four methods shall
+include at least one volumetric method (UT or RT).<<PARAGRAPH_END>>
+<<PARAGRAPH>>15
+for each test method
+(total 60)<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.3.2.2
+It is recommended that the basic examination be passed first and remain valid, provided that the first
+main method examination is passed within five years after passing the basic examination. A candidate holding
+a valid Level 3 certificate is exempt from the need to retake the basic examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3.3	 Main method examination<<HEADING_END>>
+<<PARAGRAPH>>This written examination shall assess the candidate’s knowledge of the main method subjects using the
+minimum required number of multiple choice questions shown in Table 7. Examination questions shall be
+selected in an unpredictable way from the current collection of questions approved by the certification body at
+the time of the examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 7 — Minimum required number of main method examination questions<<HEADING_END>>
+<<HEADING level=3>>Part
+Subject
+Number of
+questions<<HEADING_END>>
+<<PARAGRAPH>>D
+Level 3 knowledge relating to the test method applied.
+30<<PARAGRAPH_END>>
+<<PARAGRAPH>>E
+Application of the NDT method in the sector concerned, including the applicable
+codes, standards, specifications and procedures. This may be an open book
+examination in relation to codes, standards, specifications and procedures.
+20<<PARAGRAPH_END>>
+<<PARAGRAPH>>Drafting of one or more NDT procedures in the relevant sector. The applicable
+codes, standards, specifications and other procedures shall be available to the
+candidate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>F<<PARAGRAPH_END>>
+<<PARAGRAPH>>—<<PARAGRAPH_END>>
+<<PARAGRAPH>>For a candidate who has already drafted a NDT procedure in a successfully
+passed Level 3 examination, the certification body may replace the drafting of a
+procedure with the critical analysis of an existing NDT procedure covering the
+relevant method and sector, and containing errors and/or omissions.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3.4	 Grading of Level 3 qualification examinations<<HEADING_END>>
+<<HEADING level=3>>8.3.4.1	 General<<HEADING_END>>
+<<PARAGRAPH>>The grading of the basic and main method examinations shall be done separately. To be eligible for certification,
+a candidate shall pass both the basic and main method examinations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the three parts A, B, and C of the basic examination and parts D and E of the main method, the following
+requirements apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When conventional pre-prepared paper-based examinations are used, an examiner shall be responsible for the
+grading of the examinations by comparing the replies given by the candidate against answer keys approved by
+the certification body. Each correct reply scores 1 point and the mark attributed to the tests is the sum of the
+points obtained. For the final calculation, the mark of each test is expressed as a percentage.<<PARAGRAPH_END>>
+<<PARAGRAPH>>At the option of the certification body, e-assessment systems that automatically score candidate responses
+against stored data and grade the completed written examination according to prepared algorithms may be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>16
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Part   | Subject                                                                            | Number of            |
+|        |                                                                                    | questions            |
+|:-------|:-----------------------------------------------------------------------------------|:---------------------|
+| A      | Technical knowledge in materials science and process technology.                   | 25                   |
+| B      | Knowledge of the certification body’s qualification and certification system based | 10                   |
+|        | on this International Standard. This may be an open book examination.              |                      |
+| C      | General knowledge of at least four methods as required for Level 2 and chosen      | 15                   |
+|        | by the candidate from the methods given in Clause 1. These four methods shall      | for each test method |
+|        | include at least one volumetric method (UT or RT).                                 | (total 60)           |
+<<TABLE_END>>
+<<TABLE_2>>
+| Part   | Subject                                                                          | Number of   |
+|        |                                                                                  | questions   |
+|:-------|:---------------------------------------------------------------------------------|:------------|
+| D      | Level 3 knowledge relating to the test method applied.                           | 30          |
+| E      | Application of the NDT method in the sector concerned, including the applicable  | 20          |
+|        | codes, standards, specifications and procedures. This may be an open book        |             |
+|        | examination in relation to codes, standards, specifications and procedures.      |             |
+| F      | Drafting of one or more NDT procedures in the relevant sector. The applicable    | —           |
+|        | codes, standards, specifications and other procedures shall be available to the  |             |
+|        | candidate.                                                                       |             |
+|        | For a candidate who has already drafted a NDT procedure in a successfully        |             |
+|        | passed Level 3 examination, the certification body may replace the drafting of a |             |
+|        | procedure with the critical analysis of an existing NDT procedure covering the   |             |
+|        | relevant method and sector, and containing errors and/or omissions.              |             |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+17<<HEADING_END>>
+<<HEADING level=3>>8.3.4.2	 Basic examination<<HEADING_END>>
+<<PARAGRAPH>>In order to pass the basic examination, the candidate shall obtain a minimum grade of 70 % in each of
+parts A, B, and C.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3.4.3	 Main method examination<<HEADING_END>>
+<<PARAGRAPH>>In order to pass the main method examination, the candidate shall obtain a minimum grade of 70 % in each of
+parts D, E, and F.<<PARAGRAPH_END>>
+<<PARAGRAPH>>See Table D.2 for the recommended weighting of the written examination procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4	 Conduct of examinations<<HEADING_END>>
+<<HEADING level=3>>8.4.1
+All examinations shall be conducted in examination centres established, approved, and monitored by
+the certification body, either directly or through an authorized qualification body.<<HEADING_END>>
+<<PARAGRAPH>>8.4.2
+At the examination, the candidate shall have in his possession valid proof of identification and an official
+notification of the examination, which shall be shown to the examiner or invigilator upon demand.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.4.3
+Any candidate who, during the course of the examination, does not abide by the examination rules
+or who perpetrates, or is an accessory to, fraudulent conduct shall be excluded from all further qualification
+examinations for a period of at least one year.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.4.4
+Examination questions shall be validated by the certification body. When conventional pre-prepared
+paper-based examinations are used, the examination papers shall be validated and approved by an examiner,
+and the grading shall be done in accordance with procedures approved by the certification body (see 8.2.4 and
+8.3.4). When e-assessment systems that select questions present the “written” examination to a candidate
+on a computer and grade the examinations, are used, the certification body shall validate and approve the
+e-assessment system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.4.5
+Written (whether e-assessment or conventional) and practical qualification examinations shall be
+invigilated by an examiner or by one or more trained invigilators placed under an examiner’s responsibility.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4.6
+An examiner shall not be permitted to examine any candidate:<<HEADING_END>>
+<<PARAGRAPH>>a)
+that he has trained for the examination for a period of two years from the date of the conclusion of the
+training activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+who is working (permanently or temporarily) in the same facility as the examiner.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4.7
+With the approval of the certification body, a candidate for a practical examination may use his own equipment.<<HEADING_END>>
+<<HEADING level=3>>8.4.8
+Candidates shall not be permitted to bring into the examination area personal items, unless specifically
+authorized to do so by the examiner.<<HEADING_END>>
+<<HEADING level=3>>8.5	 Re-examination<<HEADING_END>>
+<<HEADING level=3>>8.5.1
+A candidate failing for reasons of unethical behaviour shall wait at least 12 months before reapplying
+(see 8.4.3).<<HEADING_END>>
+<<PARAGRAPH>>8.5.2
+A candidate who fails to obtain the pass grade for any examination part, may be re-examined twice in
+the failed part(s), provided that the re-examination takes place not sooner than one month, unless further training
+acceptable to the certification body is satisfactorily completed, nor later than two years after the original examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+17<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+18<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+“Examination parts”   in this context refers to: for Levels 1 and 2, the general, specific, and practical examinations;
+for the Level 3 basic examination, Parts A, B, and C; for the Level 3 main-method examination, Parts D, E, and F.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.5.3
+A candidate failing all permitted re-examination shall apply for and take the examination in accordance
+with the procedure established for new candidates.<<HEADING_END>>
+<<HEADING level=3>>8.6	 Examination exemptions<<HEADING_END>>
+<<PARAGRAPH>>8.6.1
+A certified Level 1 or Level 2 individual changing sectors or adding another sector for the same NDT
+method shall be required to take only the new sector specific and practical examinations for that method.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8.6.2
+A certified Level 3 individual changing sectors or adding another sector for the same NDT method is
+exempt from the need to retake the basic examination and the Level 3 part D of the main method examination
+(see Table 7).<<PARAGRAPH_END>>
+<<HEADING level=3>>9	 Certification<<HEADING_END>>
+<<HEADING level=3>>9.1	 Administration<<HEADING_END>>
+<<PARAGRAPH>>A candidate fulfilling all conditions shall be certified and evidence of this certification shall be made available by
+the certification body. This can be achieved with the issue of hard copy certificate(s) and/or wallet card(s) (see
+9.2), and/or by electronically uploading and displaying the relevant information on the certification body’s website.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.2	 Certificates and/or wallet cards<<HEADING_END>>
+<<PARAGRAPH>>Certificates and/or corresponding wallet cards shall include at least:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the family name and forename of the certified individual;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the date of issue of the certification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the date upon which certification expires;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+a reference to this International Standard (ISO 9712:2012);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+the level of certification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+the name of the certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+the NDT method(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+the applicable sector(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+if applicable, the scope of limitations to the certifications and/or the special applications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+a unique personal identification number;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+the signature of the certified individual;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+a photograph of the certified individual in the case of the wallet card;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m)	 a device to prevent falsification of the wallet card, e.g. use of a cold seal, welding into plastic;<<PARAGRAPH_END>>
+<<PARAGRAPH>>n)
+the signature of a designated representative of the certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>There may be a special space on either or both the certificate and the wallet card for the signature and stamp of
+the employer authorizing the holder of the certificate to operate (see 3.21). With this the employer demonstrates
+taking responsibility for the test results.<<PARAGRAPH_END>>
+<<HEADING level=3>>18
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+19<<HEADING_END>>
+<<HEADING level=3>>9.3	 Digital certificates<<HEADING_END>>
+<<PARAGRAPH>>9.3.1
+Digital certification may be provided in lieu of or as well as physical (hard copy) certificate(s). In this
+case, subject to compliance with national regulations, the following data are available without request (online, at
+the website of the certification body) to interested parties:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 the legal name, contact information and, where applicable, accreditation status of the certification body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 the family name and forename of the certified individual;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 a unique personal identification number for the certified individual;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 a photographic image of the certified individual (taken within the past 10 years);<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 the dates of issue and expiry of the certification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 the scope of certification, including the level, NDT method(s), and applicable sector(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 any limitations to the certification, if applicable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>9.3.2
+Where the data listed in 9.3.1 can be printed directly from the certification body’s website, the printed
+output shall include a date of print and a statement that the current certification status can be verified at the
+relevant website.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.4	 Validity<<HEADING_END>>
+<<HEADING level=3>>9.4.1	 General<<HEADING_END>>
+<<PARAGRAPH>>The maximum period of validity of the certificate is five years. The period of validity shall commence (date of
+issue of the certification) when all of the requirements for certification (training, experience, satisfactory vision
+test, success in examination) are fulfilled.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Certification becomes invalid:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+at the discretion of the certification body, e.g. after reviewing evidence of behaviour incompatible with the
+certification procedures or failure to abide by a code of ethics;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+if the individual becomes physically incapable of performing his duties based upon failure of the visual
+acuity examination taken annually under the responsibility of his employer;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+if a significant interruption (see 3.27) takes place in the method for which the individual is certified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+if the individual fails recertification, until such time as the individual meets the requirements for recertification
+or initial certification.<<PARAGRAPH_END>>
+<<HEADING level=3>>9.4.2	 Revalidation<<HEADING_END>>
+<<PARAGRAPH>>The certification body shall define the conditions for revalidation in the case of 9.4.1, a) and b).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For revalidation of the certification after a significant interruption, the individual shall pass a recertification
+examination. The certification is revalidated for a new period of validity of five years from the date of the
+revalidation.<<PARAGRAPH_END>>
+<<HEADING level=3>>10	Renewal<<HEADING_END>>
+<<HEADING level=3>>10.1	  Prior to the completion of the first period of validity and every 10 years thereafter, certification may be
+renewed by the certification body for a new period of five years on production of:<<HEADING_END>>
+<<PARAGRAPH>>a)
+documentary evidence of a satisfactory visual acuity examination taken within the preceding 12 months;<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+19<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+20<<HEADING_END>>
+<<PARAGRAPH>>b)
+verifiable documentary evidence of continued satisfactory work activity without significant interruption
+(see 3.27) in the method and sector for which certificate renewal is sought.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the criterion b) for renewal is not met, the individual shall follow the same rules as for recertification (see Clause 11).<<PARAGRAPH_END>>
+<<PARAGRAPH>>10.2	  It is the responsibility of the certificate holder to initiate the procedure required for renewal. The renewal
+files shall be presented within six months before the date of expiration of the certification. As an exception, and
+based upon decision of the certification body, files presented within 12 months after the date of expiration may
+be considered. Over this period, no exception is admitted and the candidate shall be permitted to attempt a
+recertification examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>11	 Recertification<<HEADING_END>>
+<<HEADING level=3>>11.1	 General<<HEADING_END>>
+<<PARAGRAPH>>Prior to the completion of each second period of validity (every 10  years), the certified individual may be
+recertified by the certification body for a new period of five years or less, provided the individual meets the
+criterion for renewal specified in 10.1 a) and meets the applicable conditions described in the following.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the responsibility of certificate holders to initiate the procedures required to obtain recertification. If the
+recertification is applied for more than 12 months after expiry of the period of validity, a complete examination
+(general, specific, and practical) for Level 1 and Level 2 and a main method examination for Level 3 shall again
+be passed successfully.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.2	 Level 1 and 2<<HEADING_END>>
+<<HEADING level=3>>11.2.1 	 Levels 1 and 2 certificate holders seeking recertification shall meet the criterion for renewal specified in
+10.1 b) and satisfy 11.2.2.<<HEADING_END>>
+<<PARAGRAPH>>11.2.2	  The individual shall successfully complete a practical examination which demonstrates continued
+competence to carry out work within the scope defined on the certificate. This shall include testing specimens
+(see Table B.1) appropriate to the scope of certification to be revalidated and in addition, for Level 2, the
+production of a written instruction suitable for the use of Level 1 personnel (see 8.2.3.9). If the individual fails to
+achieve a grade of at least 70 % for each specimen tested (weighted according to the guidance in Table 5), and,
+for Level 2, for the instruction, two retests of the whole recertification examination shall be allowed after at least
+7 days and within six months of the first attempt at the recertification examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the event of failure in the two allowable retests, the certificate shall not be revalidated and, to regain
+certification for that level, sector and method, the candidate shall apply for new certification. In this case, no
+examination exemptions shall be awarded by virtue of any other valid certification held.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.3	 Level 3<<HEADING_END>>
+<<HEADING level=3>>11.3.1 	 Level 3 certificate holders seeking recertification shall provide evidence of continued qualification
+confirmed by:<<HEADING_END>>
+<<PARAGRAPH>>a)
+satisfying the Level 3 requirements of 11.3.2 for a written examination;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+meeting the requirements for a structured credit system, as given in Annex C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The individual may decide between the examination or credit system for recertification. If the credit system is
+chosen and requires submission of employer’s documents or access to an employer’s premises, the individual
+shall provide to the certification body a written statement of approval from the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In both cases (written examination or credit system), the individual shall either provide appropriate documented
+evidence, acceptable to the certification body, of his continued practical competence in the method or pass a
+Level 2 practical examination, as specified in 11.2.2, except for the drafting of NDT instructions.<<PARAGRAPH_END>>
+<<HEADING level=3>>20
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+21<<HEADING_END>>
+<<PARAGRAPH>>11.3.2 	 The individual shall successfully complete an examination that includes a minimum of 20 questions on
+the application of the test method in the sector(s) concerned which demonstrates an understanding of current
+NDT techniques, standards, codes or specifications, and applied technology and, at the option of the certification
+body, five additional questions on the requirements of the certification scheme.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.3.3 	 If the individual fails to achieve a grade of at least 70 % in the recertification examination, a maximum
+of two retests of the recertification examination shall be allowed. The time period within which all tests are to be
+taken shall be 12 months, unless otherwise extended by the certification body.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the event of failure in the two allowable retests, the certificate shall not be revalidated and, to regain
+certification for that sector and method the candidate shall be required to achieve success in the appropriate
+main method examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>11.3.4 	 A candidate who applies for and does not meet the requirements of the credit system shall be recertified
+in accordance with 11.3.2. In the event of failure at the first attempt at recertification by examination, only
+one retest of the recertification examination shall be allowed within 12 months of the date of application for
+recertification via the structured credit system.<<PARAGRAPH_END>>
+<<HEADING level=3>>12	Files<<HEADING_END>>
+<<PARAGRAPH>>The certification body or its authorized qualification bodies shall maintain:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+an actual list or database of all certified individuals classified according to level, NDT method and sector;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+an individual file for each candidate who has not been certified, for at least five years from the date of application;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+an individual file(s) for each certified individual and for each individual whose certification has lapsed containing:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+photograph or digital image taken within the past 10 years,<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+application forms,<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+examination documents, such as questionnaires, answers, description of specimens, records, results
+of test, NDT procedures, and grade sheets,<<PARAGRAPH_END>>
+<<PARAGRAPH>>4)
+renewal and recertification documents, including evidence of visual acuity and continuous activity,<<PARAGRAPH_END>>
+<<PARAGRAPH>>5)
+reason(s) for any withdrawal of certification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Individual files shall be kept under suitable conditions of safety and confidentiality for as long as the certificate
+remains valid and for at least one full certification cycle after the certification has lapsed.<<PARAGRAPH_END>>
+<<HEADING level=3>>13	Transition period<<HEADING_END>>
+<<PARAGRAPH>>13.1	  The aim of this clause is to permit the initiation of the system when a certification body applies the
+certification scheme to an NDT method, which is not yet covered within its scheme or when a new sector is
+created. The certification body may temporarily appoint, for a period not exceeding five years from the date of
+implementation of the new method or sector, duly qualified personnel as examiners (see 3.9) for the purpose of
+conducting, supervising and grading the qualification examinations. The five year implementation period is not
+to be used by the certification body as a means to certify candidates who do not meet all the qualification and
+certification requirements of this International Standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.2 	 Duly qualified personnel means that such personnel:<<HEADING_END>>
+<<PARAGRAPH>>a)
+have the knowledge of the principles of NDT and the specific knowledge in relation to the sector;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+have industrial experience of the application of the NDT method;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+have the ability to conduct qualification examinations;<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+21<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+22<<HEADING_END>>
+<<PARAGRAPH>>d)
+be able to interpret the questionnaire and results of qualification examinations.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.3	  Within two years of the date of appointment, these examiners shall have gained certification by satisfying
+the requirements for recertification as described in 11.3.1.<<HEADING_END>>
+<<HEADING level=3>>14	Transition between EN 473:2008, [4]  ISO 9712:2005 and this International Standard<<HEADING_END>>
+<<PARAGRAPH>>Certification according to EN 473:2008 [4]  and/or ISO 9712:2005, awarded before publication of this International
+Standard, remains valid until the next mandatory step in the certification process, i.e. renewal or recertification,
+which shall be carried out according to this International Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Certification according to this International Standard is considered as fulfilling the requirements of both
+EN 473:2008 and ISO 9712:2005; consequently, any requirement for certification to either of these standards
+is fulfilled by a certification according to this International Standard.<<PARAGRAPH_END>>
+<<HEADING level=3>>22
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+23<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(normative)
+Sectors<<HEADING_END>>
+<<HEADING level=3>>A.1
+General<<HEADING_END>>
+<<PARAGRAPH>>When creating a sector, the certification body may standardize according to the reference lists of sectors in A.2
+and A.3. This does not preclude the development of additional sectors to satisfy national needs.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2
+Product sectors<<HEADING_END>>
+<<PARAGRAPH>>These include<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+castings (c) (ferrous and nonferrous materials);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+forgings (f) (all types of forgings: ferrous and non-ferrous materials);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+welds (w) (all types of welds, including soldering, for ferrous and non-ferrous materials);<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+tubes and pipes (t) (seamless, welded, ferrous and non-ferrous materials, including flat products for the
+manufacturing of welded pipes);<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+wrought products (wp) except forgings (e.g. plates, bar, rods);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+composite materials (p).<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3
+Industrial sectors<<HEADING_END>>
+<<PARAGRAPH>>Sectors combining a number of product sectors including all or some products or defined materials (e.g. ferrous
+and non-ferrous metals or non-metals like ceramics, plastics, and composites):<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+manufacturing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+pre- and in-service testing which includes manufacturing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+railway maintenance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+aerospace.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When creating an industrial sector, the certification body shall precisely define in its published documentation
+the scope of the new sector concerned in terms of product, object or item.<<PARAGRAPH_END>>
+<<PARAGRAPH>>An individual certified in an industrial sector shall be regarded also as holding certification in the individual
+sectors from which the industrial sector is composed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Sector certification may be available at all three levels of competence in all NDT methods or may be limited to
+particular methods or levels. However arranged, the scope of certification shall be defined on the certificate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For composite materials, the certification body shall define the requirements for qualification examination.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+23<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+24<<HEADING_END>>
+<<HEADING level=2>>Annex B
+(normative)
+Minimum number and type of specimens for the Level 1 and Level 2
+practical examination<<HEADING_END>>
+<<HEADING level=3>>Table B.1 — Minimum number and type of specimens for the practical examination of Levels 1 and 2<<HEADING_END>>
+<<HEADING level=3>>Product sectors
+Method and level<<HEADING_END>>
+<<HEADING level=3>>UT1
+UT2
+RT1
+RT2
+ET1
+ET2
+MT1
+MT2
+PT1
+PT2
+LT1
+LT2
+VT1
+VT2
+AT1
+AT2<<HEADING_END>>
+<<HEADING level=3>>Castings
+2
+2
+2
+2  +
+12 rs
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<HEADING level=3>>Forgings
+2
+2
+2
+2  +
+12 rs
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<HEADING level=3>>Welds
+2
+2
+2
+2  +
+12 rs
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<HEADING level=3>>Tubes and pipes
+2
+2
+2
+2  +
+12 rs
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<HEADING level=3>>Wrought
+products
+2
+2
+2
+2  +
+12 rs
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<HEADING level=3>>Industrial
+sectors
+(combining two
+or more product
+sectors)<<HEADING_END>>
+<<HEADING level=3>>UT1
+UT2
+RT1
+RT2
+ET1
+ET2
+MT1
+MT2
+PT1
+PT2
+LT1
+LT2
+VT1
+VT2
+AT1
+AT2<<HEADING_END>>
+<<HEADING level=3>>Metal
+manufacturing
+2
+2
+2
+2  +
+12 rs
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<PARAGRAPH>>1  +  2
+ds<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+cw  +
+24 rs<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w
+3
+3
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<HEADING level=3>>Pre- and in-
+service testing<<HEADING_END>>
+<<PARAGRAPH>>c/f t
+w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c w<<PARAGRAPH_END>>
+<<PARAGRAPH>>t w<<PARAGRAPH_END>>
+<<PARAGRAPH>>t w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f w<<PARAGRAPH_END>>
+<<PARAGRAPH>>c/f t
+w<<PARAGRAPH_END>>
+<<HEADING level=3>>Railway
+maintenance
+2
+2
+—
+—
+2
+2
+2
+2
+2
+2
+—
+—
+2
+2
+—
+—<<HEADING_END>>
+<<HEADING level=3>>Aerospace
+3
+3
+2
+2  +
+12 rs
+3
+3
+2
+2
+2
+2
+—
+—
+2
+2
+1
+1  +  2
+ds<<HEADING_END>>
+<<PARAGRAPH>>For ST, the minimum number of specimens is 1 for Level 1 and 2 for Level 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For TT, the minimum number of specimens is 1  +  2 ds per industrial application.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where the practical examination requires the testing of more than one specimen, the second or any subsequent specimens shall be different in
+character, e.g. in product form, material specification, shape, size, and discontinuity type, from those tested previously.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where, after the number of specimens required, product sectors are indicated by appropriate letters, this means that specimens from these sectors
+shall be included in the practical examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For radiographic examination, Level 1 and Level 2 candidates shall radiograph at least two volumes — except for Level 2 candidates having passed a
+Level 1 qualification examination, where at least one volume is to be radiographed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For leak-testing examination involving both pressure change and tracer gas, at least one specimen shall be tested for each.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where a sector examination involves the testing of more than one product type, then the specimens tested shall be representative of all products or
+shall be selected at random by the examiner from the product range or materials which make up the sector.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A set of radiographs (12 or 24) shall be considered as one specimen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Key: c  ≡  casting; f  ≡  forging; w  ≡  weld; t  ≡  tube; c/f  ≡  casting or forging; rs  ≡  radiographs; ds  ≡  datasets<<PARAGRAPH_END>>
+<<HEADING level=3>>24
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Product sectors                                                                                                                                     | Method and level                                                  |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+|                                                                                                                                                     | UT1 UT2 RT1 RT2 ET1 ET2 MT1 MT2 PT1 PT2 LT1 LT2 VT1 VT2 AT1 AT2   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:------|:----|:------|:----|:----|:------|:------|:------|:------|:----|:----|:------|:------|:------|:------|
+| Castings                                                                                                                                            | 2                                                                 | 2     | 2   | 2 +   | 2   | 2   | 2     | 2     | 2     | 2     | 2   | 2   | 2     | 2     | 1     | 1 + 2 |
+|                                                                                                                                                     |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| Forgings                                                                                                                                            | 2                                                                 | 2     | 2   | 2 +   | 2   | 2   | 2     | 2     | 2     | 2     | 2   | 2   | 2     | 2     | 1     | 1 + 2 |
+|                                                                                                                                                     |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| Welds                                                                                                                                               | 2                                                                 | 2     | 2   | 2 +   | 2   | 2   | 2     | 2     | 2     | 2     | 2   | 2   | 2     | 2     | 1     | 1 + 2 |
+|                                                                                                                                                     |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| Tubes and pipes                                                                                                                                     | 2                                                                 | 2     | 2   | 2 +   | 2   | 2   | 2     | 2     | 2     | 2     | 2   | 2   | 2     | 2     | 1     | 1 + 2 |
+|                                                                                                                                                     |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| Wrought                                                                                                                                             | 2                                                                 | 2     | 2   | 2 +   | 2   | 2   | 2     | 2     | 2     | 2     | 2   | 2   | 2     | 2     | 1     | 1 + 2 |
+| products                                                                                                                                            |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| Industrial                                                                                                                                          | UT1                                                               | UT2   | RT1 | RT2   | ET1 | ET2 | MT1   | MT2   | PT1   | PT2   | LT1 | LT2 | VT1   | VT2   | AT1   | AT2   |
+| sectors                                                                                                                                             |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| (combining two                                                                                                                                      |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| or more product                                                                                                                                     |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| sectors)                                                                                                                                            |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Metal                                                                                                                                               | 2                                                                 | 2     | 2   | 2 +   | 2   | 2   | 2     | 2     | 2     | 2     | 2   | 2   | 2     | 2     | 1     | 1 + 2 |
+| manufacturing                                                                                                                                       |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| Pre- and in-                                                                                                                                        | 3                                                                 | 3     | 2   | 2     | 3   | 3   | 3     | 3     | 3     | 3     | 3   | 3   | 3     | 3     | 1     | 1 + 2 |
+| service testing                                                                                                                                     | c/f w                                                             | c/f w | c w | cw +  | t w | t w | c/f w | c/f w | c/f w | c/f w |     |     | c/f w | c/f w | c/f t | ds    |
+|                                                                                                                                                     |                                                                   |       |     | 24 rs |     |     |       |       |       |       |     |     |       |       | w     | c/f t |
+|                                                                                                                                                     |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       | w     |
+| Railway                                                                                                                                             | 2                                                                 | 2     | —   | —     | 2   | 2   | 2     | 2     | 2     | 2     | —   | —   | 2     | 2     | —     | —     |
+| maintenance                                                                                                                                         |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Aerospace                                                                                                                                           | 3                                                                 | 3     | 2   | 2 +   | 3   | 3   | 2     | 2     | 2     | 2     | —   | —   | 2     | 2     | 1     | 1 + 2 |
+|                                                                                                                                                     |                                                                   |       |     | 12 rs |     |     |       |       |       |       |     |     |       |       |       | ds    |
+| For ST, the minimum number of specimens is 1 for Level 1 and 2 for Level 2.                                                                         |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| For TT, the minimum number of specimens is 1 + 2 ds per industrial application.                                                                     |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Where the practical examination requires the testing of more than one specimen, the second or any subsequent specimens shall be different in        |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| character, e.g. in product form, material specification, shape, size, and discontinuity type, from those tested previously.                         |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Where, after the number of specimens required, product sectors are indicated by appropriate letters, this means that specimens from these sectors   |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| shall be included in the practical examination.                                                                                                     |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| For radiographic examination, Level 1 and Level 2 candidates shall radiograph at least two volumes — except for Level 2 candidates having passed a  |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Level 1 qualification examination, where at least one volume is to be radiographed.                                                                 |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| For leak-testing examination involving both pressure change and tracer gas, at least one specimen shall be tested for each.                         |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Where a sector examination involves the testing of more than one product type, then the specimens tested shall be representative of all products or |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| shall be selected at random by the examiner from the product range or materials which make up the sector.                                           |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| A set of radiographs (12 or 24) shall be considered as one specimen.                                                                                |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+| Key: c ≡ casting; f ≡ forging; w ≡ weld; t ≡ tube; c/f ≡ casting or forging; rs ≡ radiographs; ds ≡ datasets                                        |                                                                   |       |     |       |     |     |       |       |       |       |     |     |       |       |       |       |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+25<<HEADING_END>>
+<<HEADING level=2>>Annex C
+(normative)
+Structured credit system for Level 3 recertification<<HEADING_END>>
+<<PARAGRAPH>>In this system, the Level 3 candidate gains credit for participation, during the five years prior to recertification,
+in the various NDT activities shown in Table C.1. Limits are placed on the maximum number of points which can
+be gained in each year, and in any activity over the five years, to ensure an even spread of activities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To be eligible for recertification:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+a minimum of 70 points shall be accrued during the five year validity of the certificate;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+a maximum of 25 points per year are accepted.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In addition to the recertification application, the candidate shall submit evidence of satisfying the criteria of
+Table C.1 as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 agenda and list of attendees for the meetings under items 1 to 4;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 a brief description of research and development under item 5;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 references of technical or scientific publications authored under item 5;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 a summary of training delivered under item 6;<<PARAGRAPH_END>>
+<<PARAGRAPH>>—	 for each certificate, evidence of work activity per year under item 7.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+25<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+26<<HEADING_END>>
+<<HEADING level=3>>Table C.1 — Structured credit system for Level 3 recertification<<HEADING_END>>
+<<HEADING level=3>>Points
+accorded for
+each item
+(or function)<<HEADING_END>>
+<<HEADING level=3>>Maximum
+points per
+5 year period
+per item<<HEADING_END>>
+<<HEADING level=3>>Maximum
+points per
+year per item<<HEADING_END>>
+<<HEADING level=3>>Item
+Activity<<HEADING_END>>
+<<PARAGRAPH>>1
+Membership of an NDT society, attendance at seminars,
+symposia, conferences and/or courses covering NDT
+and related sciences and technologies
+1
+3
+8 a<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.1
+Attendance at international and national standardization
+committees
+1
+3
+8 a<<PARAGRAPH_END>>
+<<PARAGRAPH>>2.2
+Convenorship of standardization committees
+1
+3
+8 ab<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1
+Attendance at sessions of other NDT committees
+1
+3
+8 a<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.2
+Convenorship of sessions of other NDT committees
+1
+3
+8 ab<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.1
+Attendance at sessions of NDT related working groups
+1
+5
+15 a<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.2
+Convenorship of NDT related working groups
+1
+5
+15 ab<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.1
+NDT related technical/scientific contributions or
+publications
+3
+6
+20 cd<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2
+NDT related research work published
+3
+6
+15 cd<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3
+NDT research activity
+3
+6
+15 cd<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+NDT technical instructor (per 2 h) and/or NDT examiner
+(per examination)
+1
+10
+30 d<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Professional activity
+—
+—
+—<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.1
+within a NDT facility, NDT training centre or NDT
+examination facility or for Engineering of NDT
+(see Annex E) (for each full year)
+10
+10
+40 d<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.2
+Dealing with disputes referring to clients
+1
+5
+15 d<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.3
+Development of NDT applications
+1
+5
+15 d<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Maximum points for items 1 to 4: 20.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Points to be given for both convenorship and attendance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+If there is more than one author, the lead author shall define points for the other authors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+Maximum points for each of items 5 and 6: 30, and 7: 50.<<PARAGRAPH_END>>
+<<HEADING level=3>>26
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Item                                                                                           | Activity                                                 | Points          | Maximum         | Maximum         |
+|                                                                                                |                                                          | accorded for    | points per      | points per      |
+|                                                                                                |                                                          | each item       | year per item   | 5 year period   |
+|                                                                                                |                                                          | (or function)   |                 | per item        |
+|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------|:----------------|:----------------|:----------------|
+| 1                                                                                              | Membership of an NDT society, attendance at seminars,    | 1               | 3               | 8a              |
+|                                                                                                | symposia, conferences and/or courses covering NDT        |                 |                 |                 |
+|                                                                                                | and related sciences and technologies                    |                 |                 |                 |
+| 2.1                                                                                            | Attendance at international and national standardization | 1               | 3               | 8a              |
+|                                                                                                | committees                                               |                 |                 |                 |
+| 2.2                                                                                            | Convenorship of standardization committees               | 1               | 3               | 8ab             |
+| 3.1                                                                                            | Attendance at sessions of other NDT committees           | 1               | 3               | 8a              |
+| 3.2                                                                                            | Convenorship of sessions of other NDT committees         | 1               | 3               | 8ab             |
+| 4.1                                                                                            | Attendance at sessions of NDT related working groups     | 1               | 5               | 15a             |
+| 4.2                                                                                            | Convenorship of NDT related working groups               | 1               | 5               | 15ab            |
+| 5.1                                                                                            | NDT related technical/scientific contributions or        | 3               | 6               | 20cd            |
+|                                                                                                | publications                                             |                 |                 |                 |
+| 5.2                                                                                            | NDT related research work published                      | 3               | 6               | 15cd            |
+| 5.3                                                                                            | NDT research activity                                    | 3               | 6               | 15cd            |
+| 6                                                                                              | NDT technical instructor (per 2 h) and/or NDT examiner   | 1               | 10              | 30d             |
+|                                                                                                | (per examination)                                        |                 |                 |                 |
+| 7                                                                                              | Professional activity                                    | —               | —               | —               |
+| 7.1                                                                                            | within a NDT facility, NDT training centre or NDT        | 10              | 10              | 40d             |
+|                                                                                                | examination facility or for Engineering of NDT           |                 |                 |                 |
+|                                                                                                | (see Annex E) (for each full year)                       |                 |                 |                 |
+| 7.2                                                                                            | Dealing with disputes referring to clients               | 1               | 5               | 15d             |
+| 7.3                                                                                            | Development of NDT applications                          | 1               | 5               | 15d             |
+| a Maximum points for items 1 to 4: 20.                                                         |                                                          |                 |                 |                 |
+| b Points to be given for both convenorship and attendance.                                     |                                                          |                 |                 |                 |
+| c If there is more than one author, the lead author shall define points for the other authors. |                                                          |                 |                 |                 |
+| d Maximum points for each of items 5 and 6: 30, and 7: 50.                                     |                                                          |                 |                 |                 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+27<<HEADING_END>>
+<<HEADING level=2>>Annex D
+(normative)
+Grading practical examination<<HEADING_END>>
+<<HEADING level=3>>D.1
+Grading of Level 1 and Level 2 practical examination — guidance on the per-
+centile weighting<<HEADING_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+27<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+28<<HEADING_END>>
+<<HEADING level=3>>Table D.1 — Guidance on the percentile weighting for practical examination of Levels 1 and 2<<HEADING_END>>
+<<HEADING level=3>>Subject
+Level 1
+Level 2<<HEADING_END>>
+<<HEADING level=3>>Part 1 — Knowledge of the NDT apparatus :<<HEADING_END>>
+<<PARAGRAPH>>a) system control and functional checks;
+10
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) verification of settings.
+10
+5<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+20
+10<<HEADING_END>>
+<<HEADING level=3>>Part 2 — Application of the NDT method :<<HEADING_END>>
+<<PARAGRAPH>>a) preparation of the specimen (e.g. surface condition), including visual
+examination;
+5
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) for Level 2, the selection of the NDT technique and determination of operating
+conditions;
+n/a
+7<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) setting up of the NDT apparatus;
+15
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) performance of the test;
+10
+5<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) post test procedures (e.g. demagnetization, cleaning, preservation).
+5
+1<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+35
+20<<HEADING_END>>
+<<HEADING level=3>>Part 3 — Detection of discontinuities and reporting : a<<HEADING_END>>
+<<PARAGRAPH>>a) detection of mandatory reportable discontinuities;
+20
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) characterization (type, position, orientation, apparent dimensions, etc.);
+15
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Level 2 evaluation against code, standard, specification or procedure criteria;
+n/a
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) production of the test report.
+10
+10<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+45
+55<<HEADING_END>>
+<<HEADING level=3>>Part 4 — NDT instruction writing (Level 2 candidates) : b<<HEADING_END>>
+<<PARAGRAPH>>a) foreword (scope, reference documents);
+—
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) personnel;
+—
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) apparatus to be used, including settings;
+—
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) product (description or drawing, including area of interest and purpose of the
+test);
+—
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) test conditions, including preparation for testing;
+—
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>f) detailed instructions for application of the test;
+—
+3<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) recording and classifying the results of test;
+—
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) reporting the results.
+—
+1<<PARAGRAPH_END>>
+<<HEADING level=3>>Total
+—
+15<<HEADING_END>>
+<<HEADING level=3>>Overall grade for practical examination
+100 %
+100 %<<HEADING_END>>
+<<PARAGRAPH>>To be successful, the candidate should achieve not less than 70 % in the NDT instruction writing part, i.e. 10,5 marks
+out of the 15,0 marks allowed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+The candidate failing to report a discontinuity specified on the specimen master report as “mandatory for candidates to report”
+when performing the test under the conditions specified in the master report shall be awarded zero marks for part 3 of the practical
+examination relating to the specimen tested. For RT, this condition applies to radiographic interpretation, i.e. failing one “mandatory to
+report” discontinuity on one radiograph leads to zero marks for the set of radiographs in part 3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+The Level 2 candidate is required to produce an NDT instruction, suitable for Level 1 personnel, for a specimen selected by the
+examiner. When the Level 2 candidate is testing a specimen for which no NDT instruction is required, the grade is calculated as a
+percentage of the 85 remaining marks.<<PARAGRAPH_END>>
+<<HEADING level=3>>28
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Subject                                                                                                                                    | Level 1   | Level 2   |
+|:-------------------------------------------------------------------------------------------------------------------------------------------|:----------|:----------|
+| Part 1 — Knowledge of the NDT apparatus:                                                                                                   | 10        | 5         |
+| a) system control and functional checks;                                                                                                   | 10        | 5         |
+| b) verification of settings.                                                                                                               |           |           |
+| Total                                                                                                                                      | 20        | 10        |
+| Part 2 — Application of the NDT method:                                                                                                    | 5         | 2         |
+| a) preparation of the specimen (e.g. surface condition), including visual                                                                  | n/a       | 7         |
+| examination;                                                                                                                               | 15        | 5         |
+| b) for Level 2, the selection of the NDT technique and determination of operating                                                          | 10        | 5         |
+| conditions;                                                                                                                                | 5         | 1         |
+| c) setting up of the NDT apparatus;                                                                                                        |           |           |
+| d) performance of the test;                                                                                                                |           |           |
+| e) post test procedures (e.g. demagnetization, cleaning, preservation).                                                                    |           |           |
+| Total                                                                                                                                      | 35        | 20        |
+| Part 3 — Detection of discontinuities and reporting:a                                                                                      | 20        | 15        |
+| a) detection of mandatory reportable discontinuities;                                                                                      | 15        | 15        |
+| b) characterization (type, position, orientation, apparent dimensions, etc.);                                                              | n/a       | 15        |
+| c) Level 2 evaluation against code, standard, specification or procedure criteria;                                                         | 10        | 10        |
+| d) production of the test report.                                                                                                          |           |           |
+| Total                                                                                                                                      | 45        | 55        |
+| Part 4 — NDT instruction writing (Level 2 candidates):b                                                                                    | —         | 1         |
+| a) foreword (scope, reference documents);                                                                                                  | —         | 1         |
+| b) personnel;                                                                                                                              | —         | 3         |
+| c) apparatus to be used, including settings;                                                                                               | —         | 2         |
+| d) product (description or drawing, including area of interest and purpose of the                                                          | —         | 2         |
+| test);                                                                                                                                     | —         | 3         |
+| e) test conditions, including preparation for testing;                                                                                     | —         | 2         |
+| f) detailed instructions for application of the test;                                                                                      | —         | 1         |
+| g) recording and classifying the results of test;                                                                                          |           |           |
+| h) reporting the results.                                                                                                                  |           |           |
+| Total                                                                                                                                      | —         | 15        |
+| Overall grade for practical examination                                                                                                    | 100 %     | 100 %     |
+| To be successful, the candidate should achieve not less than 70 % in the NDT instruction writing part, i.e. 10,5 marks                     |           |           |
+| out of the 15,0 marks allowed.                                                                                                             |           |           |
+| a The candidate failing to report a discontinuity specified on the specimen master report as “mandatory for candidates to report”          |           |           |
+| when performing the test under the conditions specified in the master report shall be awarded zero marks for part 3 of the practical       |           |           |
+| examination relating to the specimen tested. For RT, this condition applies to radiographic interpretation, i.e. failing one “mandatory to |           |           |
+| report” discontinuity on one radiograph leads to zero marks for the set of radiographs in part 3.                                          |           |           |
+| b The Level 2 candidate is required to produce an NDT instruction, suitable for Level 1 personnel, for a specimen selected by the          |           |           |
+| examiner. When the Level 2 candidate is testing a specimen for which no NDT instruction is required, the grade is calculated as a          |           |           |
+| percentage of the 85 remaining marks.                                                                                                      |           |           |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+29<<HEADING_END>>
+<<HEADING level=3>>D.2
+Weighting of Level 3 NDT procedure examination<<HEADING_END>>
+<<HEADING level=3>>Table D.2 — Guidance on the percentile weighting for the Level 3 NDT procedure examination<<HEADING_END>>
+<<HEADING level=3>>Subject
+% maximum<<HEADING_END>>
+<<HEADING level=3>>Part 1 — General :<<HEADING_END>>
+<<PARAGRAPH>>a) scope (field of application, product);
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) document control;
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) normative references and complementary information.
+4<<PARAGRAPH_END>>
+<<HEADING level=3>>Sub-total
+8<<HEADING_END>>
+<<HEADING level=3>>Part 2 — NDT personnel
+2<<HEADING_END>>
+<<HEADING level=3>>Part 3 — Materials and equipment :<<HEADING_END>>
+<<PARAGRAPH>>a) main NDT equipment (including defining calibration status and pre-test serviceability checks);
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) ancillary equipment (reference and calibration blocks, consumables, measuring equipment,
+viewing aids, etc.).
+10<<PARAGRAPH_END>>
+<<HEADING level=3>>Sub-total
+20<<HEADING_END>>
+<<HEADING level=3>>Part 4 — Test piece :<<HEADING_END>>
+<<PARAGRAPH>>a) physical condition and surface preparation (temperature, access, removal of protective coatings,
+roughness, etc.);
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) description of area or volume to be tested, including reference datum;
+1<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) discontinuities sought.
+3<<PARAGRAPH_END>>
+<<HEADING level=3>>Sub-total
+5<<HEADING_END>>
+<<HEADING level=3>>Part 5 — Performance of the test :<<HEADING_END>>
+<<PARAGRAPH>>a) NDT method(s) and technique(s) to be used;
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) setting up the apparatus;
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) conducting the test (including reference to NDT instructions);
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) characterization of discontinuities.
+10<<PARAGRAPH_END>>
+<<HEADING level=3>>Sub-total
+40<<HEADING_END>>
+<<HEADING level=3>>Part 6 — Acceptance criteria
+7<<HEADING_END>>
+<<HEADING level=3>>Part 7 — Post test procedure :<<HEADING_END>>
+<<PARAGRAPH>>a) disposition of non-conforming product (labelling, segregation);
+2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) restoration of protective coatings (where required).
+1<<PARAGRAPH_END>>
+<<HEADING level=3>>Sub-total
+3<<HEADING_END>>
+<<HEADING level=3>>Part 8 — Production of the test report
+5<<HEADING_END>>
+<<HEADING level=3>>Part 9 — Overall presentation
+10<<HEADING_END>>
+<<HEADING level=3>>Grand total
+100<<HEADING_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+29<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Subject                                                                                             | % maximum   |
+|:----------------------------------------------------------------------------------------------------|:------------|
+| Part 1 — General:                                                                                   | 2           |
+| a) scope (field of application, product);                                                           | 2           |
+| b) document control;                                                                                | 4           |
+| c) normative references and complementary information.                                              |             |
+| Sub-total                                                                                           | 8           |
+| Part 2 — NDT personnel                                                                              | 2           |
+| Part 3 — Materials and equipment:                                                                   | 10          |
+| a) main NDT equipment (including defining calibration status and pre-test serviceability checks);   | 10          |
+| b) ancillary equipment (reference and calibration blocks, consumables, measuring equipment,         |             |
+| viewing aids, etc.).                                                                                |             |
+| Sub-total                                                                                           | 20          |
+| Part 4 — Test piece:                                                                                | 1           |
+| a) physical condition and surface preparation (temperature, access, removal of protective coatings, | 1           |
+| roughness, etc.);                                                                                   | 3           |
+| b) description of area or volume to be tested, including reference datum;                           |             |
+| c) discontinuities sought.                                                                          |             |
+| Sub-total                                                                                           | 5           |
+| Part 5 — Performance of the test:                                                                   | 10          |
+| a) NDT method(s) and technique(s) to be used;                                                       | 10          |
+| b) setting up the apparatus;                                                                        | 10          |
+| c) conducting the test (including reference to NDT instructions);                                   | 10          |
+| d) characterization of discontinuities.                                                             |             |
+| Sub-total                                                                                           | 40          |
+| Part 6 — Acceptance criteria                                                                        | 7           |
+| Part 7 — Post test procedure:                                                                       | 2           |
+| a) disposition of non-conforming product (labelling, segregation);                                  | 1           |
+| b) restoration of protective coatings (where required).                                             |             |
+| Sub-total                                                                                           | 3           |
+| Part 8 — Production of the test report                                                              | 5           |
+| Part 9 — Overall presentation                                                                       | 10          |
+| Grand total                                                                                         | 100         |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+30<<HEADING_END>>
+<<HEADING level=2>>Annex E
+(informative)
+Engineering of NDT<<HEADING_END>>
+<<HEADING level=3>>E.1
+Definition<<HEADING_END>>
+<<PARAGRAPH>>Engineering of NDT covers all the activities linked to NDT, from the design of the equipment to the responsibility
+of preparation, implementation and verification of NDT (in manufacturing and in service) of the same equipment
+belonging to industrial or technical installations.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2
+Non-exhaustive list of activities covered<<HEADING_END>>
+<<PARAGRAPH>>The activities covered include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+at design stage, definition of requirements to be taken into account and/or verification of inspectability
+during manufacturing and, where applicable, in service, of equipment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+selection of NDT techniques to be implemented in manufacturing and/or in service;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+comparison of specific prescriptions of different codes and standards;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+establish or validates the NDT procedures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+technical evaluation of NDT suppliers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+evaluation of NDT techniques, notably in the frame of expertise;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+treatment (technical evaluation) of non-conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+justification to the customers and where applicable, to the associated safety authorities, of practices implemented;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+responsibility for a NDT facility;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+co-ordination and supervision of NDT personnel activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+qualification — validation of NDT techniques:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+establishment of input information’s including the inspection objectives,<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+definition of the necessary mocks-up for open and, where necessary, blind tests,<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+implementation of practical tests,<<PARAGRAPH_END>>
+<<PARAGRAPH>>4)
+preparation of technical justification including when necessary, modelling,<<PARAGRAPH_END>>
+<<PARAGRAPH>>5)
+preparation or validation of NDT procedures,<<PARAGRAPH_END>>
+<<PARAGRAPH>>6)
+preparation or validation of qualification dossiers;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+establishment of in-service inspection programmes for industrial installations or definition of rules for the
+establishment of such programmes.<<PARAGRAPH_END>>
+<<HEADING level=3>>30
+© ISO 2012 – All rights reserved<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_39>>
+<<HEADING level=3>>ISO 9712:2012(E)<<HEADING_END>>
+<<HEADING level=3>>AS ISO 9712:2014
+31<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO/TS 22809,  Non-destructive testing — Discontinuities in specimens for use in qualification examinations<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO/TR 25107,  Non-destructive testing — Guidelines for NDT training syllabuses<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+ISO/TR 25108,  Non-destructive testing — Guidelines for NDT personnel training organizations<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+EN  473:2008,  Non-destructive testing  — Qualification and certification of NDT personnel  —
+General principles<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+CEN/TR 14748,  Non-destructive testing — Methodology for qualification of non-destructive tests<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+CEN/TS  15053,  Non-destructive testing  — Recommendations for discontinuities-types in test
+specimens for examination<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2012 – All rights reserved
+31<<HEADING_END>>
+<<HEADING level=3>>﻿<<HEADING_END>>
+<<PARAGRAPH>>www.standards.org.au
+© Standards Australia<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<HEADING level=3>>AS ISO 9712:2014
+32<<HEADING_END>>
+<<PARAGRAPH>>AMENDMENT CONTROL SHEET<<PARAGRAPH_END>>
+<<PARAGRAPH>>AS ISO 9712:2014<<PARAGRAPH_END>>
+<<PARAGRAPH>>Amendment No. 1 (2015)<<PARAGRAPH_END>>
+<<PARAGRAPH>>SUMMARY: This Amendment applies to the History block and Preface.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published on 16 February 2015.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_41>>
+<<HEADING level=3>>AS ISO 9712:2014
+33<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_42>>
+<<HEADING level=3>>AS ISO 9712:2014
+34<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_43>>
+<<PARAGRAPH>>Standards Australia
+Standards Australia develops Australian Standards® and other documents of public benefit and national interest.
+These Standards are developed through an open process of consultation and consensus, in which all interested
+parties are invited to participate. Through a Memorandum of Understanding with the Commonwealth Government,
+Standards Australia is recognized as Australia’s peak non-government national standards body. Standards Australia
+also supports excellence in design and innovation through the Australian Design Awards.
+For further information visit  www.standards.org.au
+Australian Standards®
+Committees of experts from industry, governments, consumers and other relevant sectors prepare Australian
+Standards. The requirements or recommendations contained in published Standards are a consensus of the views
+of representative interests and also take account of comments received from other sources. They reflect the latest
+scientific and industry experience. Australian Standards are kept under continuous review after publication and are
+updated regularly to take account of changing technology.
+International Involvement
+Standards Australia is responsible for ensuring the Australian viewpoint is considered in the formulation of
+International Standards and that the latest international experience is incorporated in national Standards. This role is
+vital in assisting local industry to compete in international markets. Standards Australia represents Australia at both
+the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC).
+Sales and Distribution
+Australian Standards®, Handbooks and other documents developed by Standards Australia are printed and
+distributed under licence by SAI Global Limited.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_44>>
+<<PARAGRAPH>>For information regarding the development of Standards contact:
+Standards Australia Limited
+GPO Box 476
+Sydney NSW 2001
+Phone: 02 9237 6000
+Fax: 02 9237 6010
+Email: mail@standards.org.au
+Internet: www.standards.org.au
+For information regarding the sale and distribution of Standards contact:
+SAI Global Limited
+Phone: 13 12 42
+Fax: 1300 65 49 49
+Email: sales@saiglobal.com<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISBN 978 1 74342 869 6<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_45>>
+<<HEADING level=2>>This page has been left intentionally blank.<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 45
+
+Total Tables: 11
+
+Table Reference List:
+[TABLE_1] Page: 13, Size: 11x2
+[TABLE_1] Page: 18, Size: 13x4
+[TABLE_1] Page: 19, Size: 4x4
+[TABLE_1] Page: 21, Size: 3x2
+[TABLE_1] Page: 23, Size: 6x4
+[TABLE_1] Page: 24, Size: 4x3
+[TABLE_2] Page: 24, Size: 4x3
+[TABLE_1] Page: 32, Size: 12x17
+[TABLE_1] Page: 34, Size: 17x5
+[TABLE_1] Page: 36, Size: 12x3
+[TABLE_1] Page: 37, Size: 16x2
+<<SECTION_END>>
+<<DOCUMENT_END>>

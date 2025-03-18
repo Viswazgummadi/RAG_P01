@@ -1,0 +1,3254 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>BS EN ISO 17636-2:2013<<HEADING_END>>
+<<IMAGE_1>>
+[Image 1 contains text: ue aii ——as
+eh]
+<<HEADING level=1>>BSI Standards Publication<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of
+welds — Radiographic testing
+Part 2: X- and gamma-ray techniques with
+digital detectors<<HEADING_END>>
+<<PARAGRAPH>>NO COPYING WITHOUT BSI PERMISSION EXCEPT AS PERMITTED BY COPYRIGHT LAW<<PARAGRAPH_END>>
+<<PARAGRAPH>>™<<PARAGRAPH_END>>
+<<HEADING level=2>>raising standards worldwide<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013
+BRITISH STANDARD<<PARAGRAPH_END>>
+<<HEADING level=3>>National foreword<<HEADING_END>>
+<<PARAGRAPH>>This British Standard is the UK implementation of EN ISO
+17636-2:2013. Together with BS EN ISO 17636-1:2013, it
+supersedes BS EN 1435:1997, which is withdrawn.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The UK participation in its preparation was entrusted to Technical
+Committee WEE/46, Non-destructive testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A list of organizations represented on this committee can be
+obtained on request to its secretary.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This publication does not purport to include all the necessary
+provisions of a contract. Users are responsible for its correct
+application.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© The British Standards Institution 2013. Published by BSI Standards
+Limited 2013<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISBN 978 0 580 65755 9<<PARAGRAPH_END>>
+<<PARAGRAPH>>ICS 25.160.40<<PARAGRAPH_END>>
+<<HEADING level=3>>Compliance with a British Standard cannot confer immunity from
+legal obligations.<<HEADING_END>>
+<<PARAGRAPH>>This British Standard was published under the authority of the
+Standards Policy and Strategy Committee on 31 January 2013.<<PARAGRAPH_END>>
+<<HEADING level=3>>Amendments issued since publication<<HEADING_END>>
+<<PARAGRAPH>>Date
+Text affected<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=1>>EN ISO 17636-2<<HEADING_END>>
+<<HEADING level=1>>EUROPEAN STANDARD<<HEADING_END>>
+<<HEADING level=1>>NORME EUROPÉENNE<<HEADING_END>>
+<<HEADING level=3>>EUROPÄISCHE NORM<<HEADING_END>>
+<<PARAGRAPH>>January 2013<<PARAGRAPH_END>>
+<<PARAGRAPH>>ICS 25.160.40
+Supersedes EN 1435:1997<<PARAGRAPH_END>>
+<<PARAGRAPH>>English Version<<PARAGRAPH_END>>
+<<HEADING level=2>>Non-destructive testing of welds - Radiographic testing - Part 2:
+X- and gamma-ray techniques with digital detectors (ISO 17636-<<HEADING_END>>
+<<HEADING level=2>>2:2013)<<HEADING_END>>
+<<PARAGRAPH>>Contrôle non destructif des assemblages soudés - Contrôle<<PARAGRAPH_END>>
+<<PARAGRAPH>>Zerstörungsfreie Prüfung von Schweißverbindungen -<<PARAGRAPH_END>>
+<<PARAGRAPH>>Durchstrahlungsprüfung - Teil 2: Röntgen- und
+Gammastrahlungstechniken mit digitalen Detektoren (ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>par radiographie - Partie 2: Techniques par rayons X ou
+gamma à l'aide de détecteurs numériquess (ISO 17636-<<PARAGRAPH_END>>
+<<PARAGRAPH>>17636-2:2013)<<PARAGRAPH_END>>
+<<PARAGRAPH>>2:2013)<<PARAGRAPH_END>>
+<<PARAGRAPH>>This European Standard was approved by CEN on 14 December 2012.
+CEN members are bound to comply with the CEN/CENELEC Internal Regulations which stipulate the conditions for giving this European
+Standard the status of a national standard without any alteration. Up-to-date lists and bibliographical references concerning such national
+standards may be obtained on application to the CEN-CENELEC Management Centre or to any CEN member.
+This European Standard exists in three official versions (English, French, German). A version in any other language made by translation
+under the responsibility of a CEN member into its own language and notified to the CEN-CENELEC Management Centre has the same
+status as the official versions.
+CEN members are the national standards bodies of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, Former Yugoslav Republic of Macedonia, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania,
+Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey and United
+Kingdom.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EUROPEAN COMMITTEE FOR STANDARDIZATION
+COMITÉ EUROPÉEN DE NORMALISATION
+EUROPÄISCHES KOMITEE FÜR NORMUNG<<PARAGRAPH_END>>
+<<HEADING level=3>>Management Centre:  Avenue Marnix 17,  B-1000 Brussels<<HEADING_END>>
+<<PARAGRAPH>>© 2013 CEN
+All rights of exploitation in any form and by any means reserved
+worldwide for CEN national Members.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ref. No. EN ISO 17636-2:2013: E<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>EN ISO 17636-2:2013 (E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>This document (EN ISO 17636-2:2013) has been prepared by Technical Committee CEN/TC 121 “Welding”
+the secretariat of which is held by DIN, in collaboration with Technical Committee ISO/TC 44 "Welding and
+allied processes".<<PARAGRAPH_END>>
+<<PARAGRAPH>>This European Standard shall be given the status of a national standard, either by publication of an identical
+text or by endorsement, at the latest by July 2013, and conflicting national standards shall be withdrawn at the
+latest by July 2013.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. CEN [and/or CENELEC] shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document supersedes EN 1435:1997.<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to the CEN/CENELEC Internal Regulations, the national standards organisations of the following
+countries are bound to implement this European Standard: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech
+Republic, Denmark, Estonia, Finland, Former Yugoslav Republic of Macedonia, France, Germany, Greece,
+Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal,
+Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey and the United Kingdom.<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................ iv<<HEADING_END>>
+<<HEADING level=3>>Introduction ......................................................................................................................................................... v<<HEADING_END>>
+<<HEADING level=3>>1
+Scope ...................................................................................................................................................... 1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references ............................................................................................................................ 1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ........................................................................................................................... 2<<HEADING_END>>
+<<HEADING level=3>>4
+Symbols and terms ............................................................................................................................... 5<<HEADING_END>>
+<<HEADING level=3>>5
+Classification of radiographic techniques .......................................................................................... 6<<HEADING_END>>
+<<PARAGRAPH>>6
+General ................................................................................................................................................... 7
+6.1
+Protection against ionizing radiation .................................................................................................. 7
+6.2
+Surface preparation and stage of manufacture ................................................................................. 7
+6.3
+Location of the weld in the radiograph ............................................................................................... 8
+6.4
+Identification of radiographs ................................................................................................................ 8
+6.5
+Marking ................................................................................................................................................... 8
+6.6
+Overlap of digital images ...................................................................................................................... 8
+6.7
+Types and positions of image quality indicators (IQI) ....................................................................... 8
+6.8
+Minimum image quality values ............................................................................................................ 9
+6.9
+Personnel qualification ....................................................................................................................... 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Recommended techniques for making digital radiographs ............................................................ 10
+7.1
+Test arrangements .............................................................................................................................. 10
+7.2
+Choice of tube voltage and radiation source ................................................................................... 16
+7.3
+Detector systems and metal screens ................................................................................................ 18
+7.4
+Alignment of beam .............................................................................................................................. 20
+7.5
+Reduction of scattered radiation ....................................................................................................... 20
+7.6
+Source-to-object distance .................................................................................................................. 22
+7.7
+Geometric magnification technique .................................................................................................. 25
+7.8
+Maximum area for a single exposure ................................................................................................ 26
+7.9
+Processing ........................................................................................................................................... 26
+7.10
+Monitor viewing conditions and storage of digital radiographs .................................................... 27<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Examination report .............................................................................................................................. 28<<HEADING_END>>
+<<HEADING level=3>>Annex A  (normative)   Recommended number of exposures which give an acceptable examination<<HEADING_END>>
+<<HEADING level=3>>of a circumferential butt weld ............................................................................................................ 30<<HEADING_END>>
+<<HEADING level=3>>Annex B  (normative)   Minimum image quality values ................................................................................... 35<<HEADING_END>>
+<<HEADING level=3>>Annex C  (normative)   Determination of basic spatial resolution .................................................................. 41<<HEADING_END>>
+<<HEADING level=3>>Annex D  (normative)   Determination of minimum grey values for CR practice .......................................... 45<<HEADING_END>>
+<<HEADING level=3>>Annex E  (informative)   Grey values, general remarks .................................................................................... 50<<HEADING_END>>
+<<HEADING level=3>>Bibliography ...................................................................................................................................................... 52<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+iii<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17636-2 was prepared by the European Committee for Standardization (CEN) in collaboration with ISO
+Technical Committee TC 44,  Welding and allied processes , Subcommittee SC 5,  Testing and inspection of
+welds  in accordance with the Agreement on technical cooperation between ISO and CEN (Vienna Agreement).<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition, together with ISO 17636-1, cancels and replaces ISO 17636:2003, of which it constitutes a
+technical revision.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17636 consists of the following parts, under the general title  Non-destructive testing of welds —
+Radiographic testing :<<PARAGRAPH_END>>
+<<PARAGRAPH>>   Part 1: X- and gamma-ray techniques with film<<PARAGRAPH_END>>
+<<PARAGRAPH>>   Part 2: X- and gamma-ray techniques with digital detectors<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main changes are that:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  the normative references have been updated;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  the document has been divided into two parts — this part of ISO 17636 is applicable to radiographic<<PARAGRAPH_END>>
+<<PARAGRAPH>>testing with digital detectors;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  X-ray devices up to 1 000 kV have been included;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Annex C on determination of basic spatial resolution has been added;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Annex D on determination of minimum grey values for CR practice has been introduced;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Annex E with general remarks on grey values has been added;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  the text has been editorially revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Requests for official interpretations of any aspect of this part of ISO 17636 should be directed to the
+Secretariat of ISO/TC 44/SC 5 via your national standards body. A complete listing of these bodies can be
+found at   www.iso.org .<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2013 – All rights reserved<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>This International Standard specifies fundamental techniques of radiography with the object of enabling
+satisfactory and repeatable results to be obtained economically. The techniques are based on generally
+recognized practice and fundamental theory of the subject, inspection of fusion welded joints with digital
+radiographic detectors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Digital detectors provide a digital grey value image which can be viewed and evaluated with a computer only.
+The practice describes the recommended procedure for detector selection and radiographic practice.
+Selection of computer, software, monitor, printer and viewing conditions are important but are not the main
+focus of this part of ISO 17636.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The procedure specified in this part of ISO 17636 provides the minimum requirements and practice which
+permits exposure and acquisition of digital radiographs with equivalent sensitivity for detection of
+imperfections as film radiography, specified in ISO 17636-1.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+v<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of welds — Radiographic testing —<<HEADING_END>>
+<<HEADING level=1>>Part 2:
+X- and gamma-ray techniques with digital detectors<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 17636 specifies fundamental techniques of digital radiography with the object of enabling
+satisfactory and repeatable results to be obtained economically. The techniques are based on generally
+recognized practice and fundamental theory of the subject.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 17636 applies to the digital radiographic examination of fusion welded joints in metallic
+materials. It applies to the joints of plates and pipes. Besides its conventional meaning, “pipe”, as used in this
+International Standard, covers other cylindrical bodies such as tubes, penstocks, boiler drums, and pressure
+vessels.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+This part of ISO 17636 complies with EN 14784-2. [6]<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 17636 specifies the requirements for digital radiographic X- and gamma-ray testing by either
+computed radiography (CR) or radiography with digital detector arrays (DDA) of the welded joints of metallic
+plates and tubes for the detection of imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Digital detectors provide a digital grey value (GV) image which can be viewed and evaluated using a computer.
+This part of ISO 17636 specifies the recommended procedure for detector selection and radiographic practice.
+Selection of computer, software, monitor, printer and viewing conditions are important, but are not the main
+focus of this part of ISO 17636. The procedure specified in this part of ISO 17636 provides the minimum
+requirements for radiographic practice which permit exposure and acquisition of digital radiographs with
+equivalent sensitivity for detection of imperfections as film radiography, as specified in ISO 17636-1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 17636 does not specify acceptance levels for any of the indications found on the digital
+radiographs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If contracting parties apply lower test criteria, it is possible that the quality achieved is significantly lower than
+when this part of ISO 17636 is strictly applied.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5576,  Non-destructive testing — Industrial X-ray and gamma-ray radiology — Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing  ------  Qualification and certification of NDT personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 16371-1:2011,  Non-destructive testing  ------  Industrial computed radiography with storage phosphor
+imaging plates  ------  Part 1: Classification of systems<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+1<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>ISO 19232 – 1,  Non-destructive testing ------ Image quality of radiographs ------ Part 1: Image quality indicators
+(wire type) — Determination of image quality value<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 19232 – 2,  Non-destructive testing ------ Image quality of radiographs ------ Part 2: Image quality indicators
+(step/hole type) — Determination of image quality value<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 19232 – 4, Non-destructive testing ------ Image quality of radiographs ------ Part 4: Experimental evaluation of
+image quality values and image quality tables<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 19232 – 5,  Non-destructive testing ------ Image quality of radiographs ------ Part 5: Image quality indicators
+(duplex wire type) ------ Determination of image unsharpness value<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 12543 (all parts),  Non-destructive testing  ------  Characteristics of focal spots in industrial X-ray systems for
+use in non-destructive testing<<PARAGRAPH_END>>
+<<PARAGRAPH>>EN 12679,  Non-destructive testing  ------  Determination of the size of industrial radiographic sources  ------
+Radiographic method<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 5576 and the following apply.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.1
+computed radiography
+CR
+storage phosphor imaging plate system
+complete system comprising a storage phosphor imaging plate (IP) and a corresponding read-out unit
+(scanner or reader), which converts the information from the IP into a digital image<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.2
+storage phosphor imaging plate
+IP
+photostimulable luminescent material capable of storing a latent radiographic image of a material being
+examined and, upon stimulation by a source of red light of appropriate wavelength, generates luminescence
+proportional to radiation absorbed<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+When performing computed radiography, an IP is used in lieu of a film. When establishing techniques related
+to source size or focal geometries, the IP is referred to as a detector, i.e. source-to-detector distance (SDD).<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.3
+digital detector array system
+DDA system
+electronic device converting ionizing or penetrating radiation into a discrete array of analogue signals which
+are subsequently digitized and transferred to a computer for display as a digital image corresponding to the
+radiologic energy pattern imparted upon the input region of the device<<PARAGRAPH_END>>
+<<HEADING level=3>>3.4
+structure noise of imaging plate
+structure noise of IP
+structure   due to inhomogeneities in the sensitive layer (graininess) and surface of an imaging plate<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1
+After scanning of the exposed imaging plate, the inhomogeneities appear as overlaid fixed pattern noise in the
+digital image.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+This noise limits the maximum achievable image quality of digital CR images and can be compared with the
+graininess in film images.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>3.5
+structure noise of digital detector array
+structure noise of DDA
+structure   due to different properties of detector elements (pixels)<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+After read-out of the exposed uncalibrated DDA, the inhomogeneities of the DDA appear as overlaid fixed
+pattern noise in the digital image. Therefore, all DDAs require, after read-out, a software based calibration (software and
+guidelines are provided by the manufacturer). A suitable calibration procedure reduces the structure noise.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.6
+grey value
+GV
+numeric value of a pixel in a digital image<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+This is typically interchangeable with the terms pixel value, detector response, analogue-to-digital unit, and
+detector signal.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.7
+linearized grey value
+GV lin
+numeric value of a pixel which is directly proportional to the detector exposure dose, having a value of zero if
+the detector was not exposed<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+This is typically interchangeable with the terms linearized pixel value, and linearized detector signal.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+basic spatial resolution of a digital detector<<HEADING_END>>
+<<PARAGRAPH>>detector
+b
+SR
+corresponds to half of the measured detector unsharpness in a digital image and corresponds to the effective
+pixel size and indicates the smallest geometrical detail, which can be resolved with a digital detector at
+magnification equal to one<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+For this measurement, the duplex wire IQI is placed directly on the digital detector array or imaging plate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+The measurement of unsharpness is described in ISO 19232-5, see also ASTM E2736 [13]  and
+ASTM E1000. [8]<<PARAGRAPH_END>>
+<<HEADING level=3>>3.9
+basic spatial resolution of a digital image<<HEADING_END>>
+<<PARAGRAPH>>image
+b
+SR
+corresponds to half of the measured image unsharpness in a digital image and corresponds to the effective
+pixel size and indicates the smallest geometrical detail, which can be resolved in a digital image<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+For this measurement, the duplex wire IQI is placed directly on the object (source side).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+The measurement of unsharpness is described in ISO 19232-5, see also ASTM E2736, [13]  and
+ASTM E1000. [8]<<PARAGRAPH_END>>
+<<HEADING level=3>>3.10
+signal-to-noise ratio
+SNR
+ratio of mean value of the linearized grey values to the standard deviation of the linearized grey values (noise)
+in a given region of interest in a digital image<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>3.11
+normalized signal-to-noise ratio
+SNR N
+signal-to-noise ratio, SNR, normalized by the basic spatial resolution, SR b , as measured directly in the digital
+image and/or calculated from the measured SNR, SNR measured , by<<PARAGRAPH_END>>
+<<PARAGRAPH>>88,6 μm
+SNR
+SNR
+SR
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>N
+measured<<PARAGRAPH_END>>
+<<PARAGRAPH>>b<<PARAGRAPH_END>>
+<<HEADING level=3>>3.12
+contrast-to-noise ratio
+CNR
+ratio of the difference of the mean signal levels between two image areas to the averaged standard deviation
+of the signal levels<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+The contrast-to-noise ratio describes a component of image quality and depends approximately on the product
+of radiographic attenuation coefficient and SNR. In addition to adequate CNR, it is also necessary for a digital radiograph
+to possess adequate unsharpness or basic spatial resolution to resolve desired features of interest.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.13
+normalized contrast-to-noise ratio
+CNR N
+contrast-to-noise ratio, CNR, normalized by the basic spatial resolution, SR b , as measured directly in the
+digital image and/or calculated from the measured CNR, i.e.<<PARAGRAPH_END>>
+<<PARAGRAPH>>88,6 μm
+CNR
+CNR
+SR
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>N<<PARAGRAPH_END>>
+<<PARAGRAPH>>b<<PARAGRAPH_END>>
+<<HEADING level=3>>3.14
+aliasing
+artefacts that appear in an image when the spatial frequency of the input is higher than the output is capable
+of reproducing<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Aliasing often appears as jagged or stepped sections in a line or as moiré patterns.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.15
+cluster kernel pixel
+CKP
+bad pixel which does not have five or more good neighbourhood pixels<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+See ASTM E2597 [11]  for details on bad pixels and CKP.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.16
+nominal thickness
+t
+thickness of the parent material only where manufacturing tolerances do not have to be taken into account<<HEADING_END>>
+<<HEADING level=3>>3.17
+penetration thickness change
+ t
+change of penetrated thickness relative to the nominal thickness due to beam angle<<HEADING_END>>
+<<HEADING level=3>>3.18
+penetrated thickness
+w
+thickness of material in the direction of the radiation beam calculated on the basis of the nominal thicknesses
+of all penetrated walls<<HEADING_END>>
+<<HEADING level=3>>4
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>3.19
+object-to-detector distance
+b
+largest (maximum) distance between the radiation side of the radiographed part of the test object and the
+sensitive layer of the detector along the central axis of the radiation beam<<PARAGRAPH_END>>
+<<HEADING level=3>>3.20
+source size
+d
+size of the radiation source or focal spot size<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+See EN 12679 or EN 12543.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.21
+source-to-detector distance
+SDD
+distance between the source of radiation and the detector, measured in the direction of the beam<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+SDD =  f      b<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>f
+source-to-object distance<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+object-to-detector distance<<PARAGRAPH_END>>
+<<HEADING level=3>>3.22
+source-to-object distance
+f
+distance between the source of radiation and the source side of the test object, most distant from the detector,
+measured along the central axis of the radiation beam<<HEADING_END>>
+<<HEADING level=3>>3.23
+external diameter
+D e
+nominal external diameter of the pipe<<HEADING_END>>
+<<HEADING level=3>>3.24
+geometric magnification
+v
+ratio of source-to-detector distance SDD to source-to-object distance,  f<<HEADING_END>>
+<<HEADING level=3>>4
+Symbols and abbreviated terms<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this standard, the symbols given in Table 1 apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1 — Symbols and abbreviated terms<<HEADING_END>>
+<<HEADING level=3>>Symbol
+Term<<HEADING_END>>
+<<PARAGRAPH>>b
+object-to-detector distance<<PARAGRAPH_END>>
+<<PARAGRAPH>>b ’
+object-to-detector distance perpendicular to test object<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+source size, focal spot size<<PARAGRAPH_END>>
+<<PARAGRAPH>>D e
+external diameter<<PARAGRAPH_END>>
+<<PARAGRAPH>>f
+source-to-object distance<<PARAGRAPH_END>>
+<<PARAGRAPH>>f   ′
+source-to-object distance perpendicular to test object<<PARAGRAPH_END>>
+<<PARAGRAPH>>SNR
+signal-to-noise ratio<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>SNR N
+normalized signal-to-noise ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>t
+nominal thickness<<PARAGRAPH_END>>
+<<PARAGRAPH>> t
+penetration thickness change<<PARAGRAPH_END>>
+<<PARAGRAPH>>u G
+geometric unsharpness<<PARAGRAPH_END>>
+<<PARAGRAPH>>u i
+inherent unsharpness of the detector system, excluding any geometric unsharpness, measured from
+the digital image with a duplex wire IQI adjacent to the detector<<PARAGRAPH_END>>
+<<PARAGRAPH>>u im
+required image unsharpness measured in the digital image at the object plane with a duplex wire IQI<<PARAGRAPH_END>>
+<<PARAGRAPH>>u T
+total image unsharpness, including geometric unsharpness, measured in the digital image at the
+detector plane with a duplex wire IQI at the object plane<<PARAGRAPH_END>>
+<<PARAGRAPH>>v
+geometric magnification<<PARAGRAPH_END>>
+<<PARAGRAPH>>w
+penetrated thickness<<PARAGRAPH_END>>
+<<PARAGRAPH>>CKP
+cluster kernel pixel<<PARAGRAPH_END>>
+<<PARAGRAPH>>CNR
+contrast-to-noise ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>CNR N
+normalized contrast-to-noise ratio<<PARAGRAPH_END>>
+<<PARAGRAPH>>CR
+computed radiography<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+detector<<PARAGRAPH_END>>
+<<PARAGRAPH>>DDA
+digital detector array<<PARAGRAPH_END>>
+<<PARAGRAPH>>IP
+storage phosphor imaging plate<<PARAGRAPH_END>>
+<<PARAGRAPH>>IQI
+image quality indicator<<PARAGRAPH_END>>
+<<PARAGRAPH>>S
+radiation source<<PARAGRAPH_END>>
+<<PARAGRAPH>>SDD
+source-to detector-distance<<PARAGRAPH_END>>
+<<PARAGRAPH>>SR b
+basic spatial resolution as determined with a duplex wire IQI adjacent to the detector<<PARAGRAPH_END>>
+<<PARAGRAPH>>detector
+b
+SR
+basic spatial resolution of a digital detector<<PARAGRAPH_END>>
+<<PARAGRAPH>>image
+b
+SR
+basic spatial resolution as determined with a duplex wire IQI on the source side of the object<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Classification of radiographic techniques and compensation principles<<HEADING_END>>
+<<HEADING level=3>>5.1 Classification<<HEADING_END>>
+<<PARAGRAPH>>The radiographic techniques are divided into two classes:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Class A: basic techniques;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  Class B: improved techniques.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Class B techniques are used when class A might be insufficiently sensitive.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Better techniques compared to class B are possible and may be agreed between the contracting parties by
+specification of all appropriate test parameters.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The choice of digital radiographic technique shall be agreed between the contracting parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nevertheless, the visibility of flaws using film radiography or digital radiography is equivalent when using class
+A and class B techniques, respectively. The visibility shall be proven by the use of IQIs according to
+ISO 19232-1 or ISO 19232-2 and ISO 19232-5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If, for technical reasons, it is not possible to meet one of the conditions specified for class B, such as the type
+of radiation source or the source-to-object distance,  f , it may be agreed between the contracting parties that<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>the condition selected may be that specified for class A. The loss of sensitivity shall be compensated by an
+increase of minimum grey value and SNR N  for CR or SNR N  for the DDA-technique (recommended increase of
+SNR N  by a factor >1,4). Because of the better sensitivity compared to class A, the test specimen may be
+regarded as being examined to class B, if the correct IQI sensitivity is achieved. This does not apply if the
+special SDD reduction as described in 7.6 for test arrangements 7.1.4 and 7.1.5 are used.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Compensation principles, CP I, CP II or CP III<<HEADING_END>>
+<<HEADING level=3>>5.2.1
+General . Three rules (see 5.2.2 to 5.2.4) are applied in this part of ISO 17636 for radiography with
+digital detectors to achieve a sufficient contrast sensitivity.<<HEADING_END>>
+<<PARAGRAPH>>Application of these rules requires the achievement of a minimum contrast-to-noise ratio, CNR N , normalized to
+the detector basic spatial resolution per detectable material thickness difference   w . If the required normalized
+contrast-to-noise ratio (CNR N  per   w ) cannot be achieved due to an insufficient value of one of the following
+parameters, this can be compensated by an increase in the SNR.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.2
+CP I . Compensation for reduced contrast (e.g. by increased tube voltage) by increased SNR (e.g. by
+increased tube current or exposure time).<<HEADING_END>>
+<<PARAGRAPH>>5.2.3
+CP II . Compensation for insufficient detector sharpness (the value of SR b  higher than specified) by
+increased SNR (increase in the single IQI wire or step hole value for each missing duplex wire pair value).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2.4
+CP III . Compensation for increased local interpolation unsharpness, due to bad pixel correction for
+DDAs, by increased SNR.<<HEADING_END>>
+<<HEADING level=3>>5.2.5
+Theoretical background . These compensation principles are based on the following approximation
+for small flaw sizes (  w  <<  w ):<<HEADING_END>>
+<<PARAGRAPH>>SNR
+CNR<<PARAGRAPH_END>>
+<<PARAGRAPH>>SR
+µ
+c
+w
+
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>eff
+N<<PARAGRAPH_END>>
+<<PARAGRAPH>>b<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+is a constant;<<PARAGRAPH_END>>
+<<PARAGRAPH>>µ eff  is the effective attenuation coefficient, which is equivalent to the specific material contrast;<<PARAGRAPH_END>>
+<<PARAGRAPH>>CNRN
+is the normalized CNR, as measured in the digital image.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+General preparations and requirements<<HEADING_END>>
+<<HEADING level=3>>6.1 Protection against ionizing radiation<<HEADING_END>>
+<<PARAGRAPH>>WARNING — Exposure of any part of the human body to X-rays or gamma-rays can be highly
+injurious to health. Wherever X-ray equipment or radioactive sources are in use, appropriate legal
+requirements shall be applied.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Local or national or international safety precautions when using ionizing radiation shall be strictly applied.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Surface preparation and stage of manufacture<<HEADING_END>>
+<<PARAGRAPH>>In general, surface preparation is not necessary, but where surface imperfections or coatings can cause
+difficulty in detecting defects, the surface shall be ground smooth or the coatings shall be removed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Unless otherwise specified, digital radiography shall be carried out after the final stage of manufacture, e.g.
+after grinding or heat treatment.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>6.3 Location of the weld in the radiograph<<HEADING_END>>
+<<PARAGRAPH>>Where the digital radiograph does not show the weld, high density markers shall be placed on either side of
+the weld.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.4 Identification of radiographs<<HEADING_END>>
+<<PARAGRAPH>>Symbols shall be affixed to each section of the object being digitally radiographed. The images of these
+symbols shall appear in the digital radiograph outside the region of interest where possible and shall ensure
+unambiguous identification of the section.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.5 Marking<<HEADING_END>>
+<<PARAGRAPH>>Permanent markings on the object to be examined shall be made in order to accurately locate the position of
+each digital radiograph (e.g. zero point, direction, identification, measure).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where the nature of the material and/or its service conditions do not permit permanent marking, the location
+may be recorded by means of accurate sketches or photographs.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.6 Overlap of digital images<<HEADING_END>>
+<<PARAGRAPH>>When digitally radiographing an area with two or more separate detectors (imaging plates), they shall overlap
+sufficiently to ensure that the complete region of interest is digitally radiographed. This shall be verified by a
+high density marker on the surface of the object which is to appear on each digital image. If the radiographs
+are taken sequentially, the high density marker shall be visible on each of the radiographs.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.7 Types and positions of image quality indicators<<HEADING_END>>
+<<PARAGRAPH>>The quality of image shall be verified by use of image quality indicators (IQIs) in accordance with ISO 19232-5
+and ISO 19232-1 or ISO 19232-2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Following the procedure outlined in Annex C, a reference image is required for the verification of the basic
+spatial resolution of the digital detector system. The basic spatial resolution or duplex wire value shall be
+determined to verify whether the system hardware meets the requirements specified as a function of the
+penetrated material thickness in Tables B.13 and B.14. In this case, the duplex wire IQI shall be positioned
+directly on the digital detector. The use of a duplex wire IQI (ISO 19232-5) for production radiographs is not
+compulsory. The requirement for using a duplex wire IQI additionally to a single wire IQI for production
+radiographs may be part of the agreement between the contracting parties. For use on production radiographs,
+the duplex wire IQI shall be positioned on the object. The measured basic spatial resolution of the digital<<PARAGRAPH_END>>
+<<PARAGRAPH>>image
+b
+SR<<PARAGRAPH_END>>
+<<PARAGRAPH>>image (
+) (see Annex C), shall not exceed the maximum values specified as a function of the<<PARAGRAPH_END>>
+<<PARAGRAPH>>penetrated material thickness (Tables B.13 or B.14). For single image inspection, the single wall thickness is
+taken as the penetrated material thickness. For double wall double image inspection (Figures 11 or 12), with
+the duplex wire on the source side of the pipe, the penetrated material thickness is taken as the pipe diameter<<PARAGRAPH_END>>
+<<PARAGRAPH>>image
+b
+SR<<PARAGRAPH_END>>
+<<PARAGRAPH>>for determination of the required basic spatial resolution (
+) from Tables B.13 and B.14. The basic<<PARAGRAPH_END>>
+<<PARAGRAPH>>detector
+b
+SR<<PARAGRAPH_END>>
+<<PARAGRAPH>>spatial resolution of the detector (
+) for double wall double image inspection shall correspond to the
+values of Tables B.13 and B.14 chosen on the basis of twice the nominal single wall thickness as the
+penetrated material thickness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the geometric magnification technique (see 7.7) is applied with  v     1,2, then the duplex wire IQI (ISO 19232-
+5) shall be used on all production radiographs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The duplex wire IQI shall be positioned tilted by a few degrees (2° to 5°) to the digital rows or columns of the
+digital image. If the IQI is positioned at 45° to the digital lines or rows the obtained IQI number shall be
+reduced by one.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>The contrast sensitivity of digital images shall be verified by use of IQIs, in accordance with the specific
+application as given in Tables B.1 to B.12 (see also ISO 19232-1 or ISO 19232-2).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The single wire or step hole IQIs used shall be placed preferably on the source side of the test object at the
+centre of the area of interest on the parent metal beside the weld. The IQI shall be in close contact with the
+surface of the object. Its location shall be in a section of uniform thickness characterized by a uniform grey
+value (mean) in the digital image.<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to the IQI type used, cases a) and b) shall be considered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+When using a single wire IQI, the wires shall be directed perpendicular to the weld and its location shall
+ensure that at least 10 mm of the wire length shows in a section of uniform grey value or SNR N , which is
+normally in the parent metal adjacent to the weld. For exposures in accordance with 7.1.6 and 7.1.7, the
+IQI can be placed with the wires across the pipe axis and they should not be projected into the image of
+the weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+When using a step hole IQI, it shall be placed in such a way that the hole number required is placed close
+to the weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For exposures in accordance with 7.1.6 and 7.1.7, the IQI type used can be placed either on the source or on
+the detector side. If the IQIs cannot be placed in accordance with the above conditions, the IQIs are placed on
+the detector side and the image quality shall be determined at least once from comparison exposure with one
+IQI placed at the source side and one at the detector side under the same conditions. If filters are used in front
+of the detector, the IQI shall be placed in front of the filter.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For double wall exposures, when the IQI is placed on the detector side, the above test is not necessary. In this
+case, refer to the correspondence tables (Tables B.9 to B.14).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where the IQIs are placed on the detector side, the letter F shall be placed near the IQI and it shall be stated
+in the test report.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The identification numbers and, when used, the lead letter F, shall not be in the area of interest, except when
+geometric configuration makes it impractical.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If steps have been taken to guarantee that digital radiographs of similar test objects and regions are produced
+with identical exposure and processing techniques, and no differences in the image quality value are likely,
+the image quality need not be verified for every digital radiograph. The extent of image quality verification
+should be subject to agreement between the contracting parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For exposures of pipes with diameter 200 mm and above with the source centrally located at least three IQIs
+should be placed equally spaced at the circumference. The IQI images are then considered representative for
+the whole circumference.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.8 Minimum image quality values<<HEADING_END>>
+<<PARAGRAPH>>Tables B.1 to B.14 show the minimum quality values for metallic materials. For other materials these
+requirements or corresponding requirements may be agreed upon by contracting parties. The requirements
+shall be determined in accordance with ISO 19232-4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In the case where Ir 192 or Se 75 sources are used, IQI values worse than the ones listed in Tables B.1 to
+B.12 may be accepted by agreement of contracting parties as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>Double wall, double image techniques, both class A and B ( w     2 t ):<<PARAGRAPH_END>>
+<<PARAGRAPH>>  10 mm     w     25 mm 1 wire or step hole value less for Ir 192;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  5 mm     w     12 mm 1 wire or step hole value less for Se 75.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+9<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>Single wall single image and double wall single image techniques, class A:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  10 mm     w     24 mm 2 wire or step hole values less for Ir 192;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  24 mm     w     30 mm 1 wire or step hole value less for Ir 192;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  5 mm     w     24 mm 1 wire or step hole value less for Se 75.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Single wall single image and double wall single image techniques, class B:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  10 mm     w     40 mm 1 wire or step hole value less for Ir 192;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  5 mm     w     20 mm 1 wire or step hole value less for Se 75.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.9 Personnel qualification<<HEADING_END>>
+<<PARAGRAPH>>Personnel performing non-destructive examination in accordance with this part of ISO 17636 shall be qualified
+in accordance with ISO 9712 or equivalent to an appropriate level in the relevant industrial sector. The
+personnel shall be able to prove they have undergone additional training and qualification in digital industrial
+radiology.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Recommended techniques for making digital radiographs<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Unless otherwise explained, definitions of the symbols used in Figures 1 to 21 can be found in Clause 4.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1 Test arrangements<<HEADING_END>>
+<<HEADING level=3>>7.1.1 General<<HEADING_END>>
+<<PARAGRAPH>>Normally digital radiographic techniques in accordance with 7.1.2 to 7.1.9 shall be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The elliptical technique (double wall and double image) in accordance with Figure 11 should not be used for
+external diameter  D e  > 100 mm or wall thickness  t  > 8 mm or weld width > D e  / 4. Two 90° displaced images
+are sufficient if  t  /  D e  < 0,12, otherwise three images are needed. The distance between the two projected
+weld images shall be about one weld width.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When it is difficult to carry out an elliptical examination for  D e     100 mm, the perpendicular technique in
+accordance with 7.1.7 may be used (see Figure 12). In this case, three exposures 120 ° or 60 ° apart are
+required.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For test arrangements in accordance with Figures 11, 13, and 14, the inclination of the beam shall be kept as
+small as possible and be such as to prevent superimposition of the two images. The source-to-object distance,
+f ,  shall be kept as small as possible for the technique shown in Figure 13, in accordance with 7.6. The IQI
+shall be placed close to the detector with a lead letter F.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Other digital radiographic techniques may be agreed by the contracting parties when it is useful, e.g. for
+reasons such as the geometry of the piece or differences in material thickness. In 7.1.9, an example of such a
+case is presented. Additionally, thickness compensation with the same material may be applied.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+In Annex A the minimum number of digital radiographs necessary is given in order to obtain an acceptable
+radiographic coverage of the total circumference of a butt weld in pipe.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the geometric magnification technique is not used, the detector shall be placed as close to the object as
+possible.<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>If flexible detectors are not applicable and rigid cassettes or planar digital detector arrays are used as shown
+in Figures 2 b), 8 b), 13 b), and 14 b), the source-to-detector distance SDD shall be calculated from the wall
+thickness  t  and the largest distance of the detector to the source side surface of the object  b  and the focal spot
+size or source size  d , as specified in 7.6, Formulae (3) and (4).<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1.2 Radiation source located in front of the object and with the detector at the opposite side
+(see Figure 1)<<HEADING_END>>
+<<HEADING level=3>>Figure 1 — Test arrangement for plane welds and single wall penetration<<HEADING_END>>
+<<HEADING level=3>>7.1.3 Radiation source located outside the object and detector inside  (see Figures 2 to 4)<<HEADING_END>>
+<<HEADING level=3>>a)  with curved detectors
+b)  with planar detectors<<HEADING_END>>
+<<HEADING level=3>>Figure 2 — Test arrangement for single wall penetration of curved objects<<HEADING_END>>
+<<HEADING level=3>>Figure 3 —Test arrangement for single-wall penetration of curved objects (set-in weld)<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+11<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Figure 4 —Test arrangement for single wall penetration of curved objects (set-on weld)<<HEADING_END>>
+<<HEADING level=3>>7.1.4 Radiation source centrally located inside the object and with the detector outside
+(see Figures 5 to 7)<<HEADING_END>>
+<<HEADING level=3>>Figure 5 —Test arrangement for single wall penetration of curved objects, planar detectors not<<HEADING_END>>
+<<HEADING level=3>>applicable<<HEADING_END>>
+<<HEADING level=3>>Figure 6 —Test arrangement for single wall penetration of curved objects (set-in weld)<<HEADING_END>>
+<<HEADING level=3>>Figure 7 — Test arrangement for single wall penetration of curved objects (set-on weld)<<HEADING_END>>
+<<HEADING level=3>>12
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>7.1.5 Radiation source located off-centre inside the object and detector outside  (see Figures 8 to 10)<<HEADING_END>>
+<<HEADING level=3>>a)  with curved detectors
+b)  with planar detectors<<HEADING_END>>
+<<HEADING level=3>>Figure 8 — Test arrangement for single wall penetration of curved objects<<HEADING_END>>
+<<HEADING level=3>>Figure 9 —Test arrangement for single wall penetration of curved object (set-in weld)<<HEADING_END>>
+<<HEADING level=3>>Figure 10 —Test arrangement for single wall penetration of curved objects (set-on weld)<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+13<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>7.1.6 Elliptic technique  (see Figure 11)<<HEADING_END>>
+<<HEADING level=3>>Figure 11 —Test arrangement for double wall penetration double image of curved objects for<<HEADING_END>>
+<<HEADING level=3>>evaluation of both walls (source and detector outside of the test object)<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+The source-to-object distance can be approximated by the perpendicular distance  f  ’, calculated from  b ’.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.1.7 Perpendicular technique  (see Figure 12)<<HEADING_END>>
+<<HEADING level=3>>Figure 12 —Test arrangement for double wall penetration double image of curved objects for<<HEADING_END>>
+<<HEADING level=3>>evaluation of both walls (source and detector outside of the test object)<<HEADING_END>>
+<<HEADING level=3>>7.1.8 Radiation source located outside the object and detector on the other side  (see Figures 13 to 18)<<HEADING_END>>
+<<HEADING level=3>>a)  with curved detectors
+b)  with planar detectors<<HEADING_END>>
+<<HEADING level=3>>Figure 13 — Test arrangement for double wall penetration single image of curved objects for<<HEADING_END>>
+<<HEADING level=3>>evaluation of the wall next to the detector with the IQI placed close to the detector<<HEADING_END>>
+<<HEADING level=3>>14
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>a)  with curved detectors
+b)  with planar detectors<<HEADING_END>>
+<<HEADING level=3>>Figure 14 — Test arrangement for double wall penetration single image<<HEADING_END>>
+<<HEADING level=3>>Figure 15 —Test arrangement for double wall penetration single image of longitudinal welds<<HEADING_END>>
+<<HEADING level=3>>Figure 16 —Test arrangement for double wall penetration single image of curved objects for<<HEADING_END>>
+<<HEADING level=3>>evaluation of the wall next to the detector<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+15<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+compensating edge<<PARAGRAPH_END>>
+<<HEADING level=3>>a)  Test arrangement without compensating edge
+b)  Test arrangement with compensating edge<<HEADING_END>>
+<<HEADING level=3>>Figure 17 —Test arrangement for penetration of fillet welds<<HEADING_END>>
+<<HEADING level=3>>Figure 18 —Test arrangement for penetration of fillet welds<<HEADING_END>>
+<<HEADING level=3>>7.1.9 Technique for different material thicknesses  (see Figure 19)<<HEADING_END>>
+<<HEADING level=3>>Figure 19 —Multi-detector technique, applicable for CR<<HEADING_END>>
+<<HEADING level=3>>7.2 Choice of tube voltage and radiation source<<HEADING_END>>
+<<HEADING level=3>>7.2.1 X-ray devices up to 1 000 kV<<HEADING_END>>
+<<PARAGRAPH>>To maintain good flaw sensitivity, the X-ray tube voltage should be as low as possible and the SNR N  in the
+digital image should be as high as possible. Recommended maximum values of X-ray tube voltage versus
+penetrated thickness are given in Figure 20. These maximum values are best practice values for film
+radiography.<<PARAGRAPH_END>>
+<<HEADING level=3>>16
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>After accurate calibration, DDAs can provide sufficient image quality at significantly higher voltages than those
+shown in Figure 20.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Imaging plates with high structure noise in the sensitive IP layer (coarse grained) should be applied with about
+20 % less X-ray voltage than indicated in Figure 20 for class B testing. High definition imaging plates, which
+are exposed similarly to X-ray films and having low structure noise (fine grained) can be exposed with the
+X-ray voltages of Figure 20 or significantly higher if the SNR N  is sufficiently increased.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+CP I:<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+an improvement in contrast sensitivity can be achieved by an increase in contrast at constant SNRN [by reduction of
+tube voltage and compensation by higher exposure (e.g. milliampère   minutes)]; or<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+improvement in contrast sensitivity by an increase in SNRN [by higher exposure (e.g. milliampère   minutes)] at
+constant contrast (constant kilovolt level);<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+increased tube voltage [at a constant exposure (e.g. milliampère minutes)] reduces the contrast and increases the
+SNRN. The contrast sensitivity improves if the increase in SNRN is higher than the contrast reduction due to the
+higher energy.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>U
+X-ray voltage
+1
+copper and nickel and alloys<<PARAGRAPH_END>>
+<<PARAGRAPH>>w
+penetrated thickness
+2
+steel<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+titanium and alloys<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+aluminium and alloys<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 20 —X-ray voltage for X-ray devices up to 1 000 kV as a function of penetrated thickness and<<HEADING_END>>
+<<HEADING level=3>>material<<HEADING_END>>
+<<PARAGRAPH>>For some applications where there is a thickness change across the area of the object being radiographed, a
+modification of technique with a higher voltage may be used, but it should be noted that an excessively high
+tube voltage leads to a loss of defect detection sensitivity.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+17<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>7.2.2 Other radiation sources<<HEADING_END>>
+<<PARAGRAPH>>The recommended penetrated thickness ranges for gamma-ray sources and X-ray equipment above 1 MeV
+are given in Table 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>On thin steel specimens, gamma-rays from Se 75, Ir 192 and Co 60 sources do not produce digital
+radiographs having as good a defect detection sensitivity as X-rays used with appropriate technique
+parameters. However, because of the advantages of gamma-ray sources in handling and accessibility,
+Table 2 gives a range of thicknesses for which each of these gamma-ray sources may be used when the use
+of X-ray tubes is difficult.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By agreement between the contracting parties, the penetrated material thickness may be further reduced to
+10 mm for Ir 192 and 5 mm for Se 75.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For certain applications, wider material thickness ranges may be permitted, if sufficient image quality can be
+achieved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In cases where digital radiographs are produced by CR using gamma-rays, the total travel time to and from
+the source position shall not exceed 10 % of the total exposure time. Using DDAs, the capture time shall start
+after the source is in position and shall end before the source is moved back.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 2 — Penetrated thickness range for gamma-ray sources and X-ray equipment with energy above<<HEADING_END>>
+<<HEADING level=3>>1 MeV for steel, copper and nickel base alloys<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness<<HEADING_END>>
+<<PARAGRAPH>>w
+mm<<PARAGRAPH_END>>
+<<HEADING level=3>>Radiation source<<HEADING_END>>
+<<HEADING level=3>>Class A
+Class B<<HEADING_END>>
+<<PARAGRAPH>>Tm 170
+w     5
+w     5<<PARAGRAPH_END>>
+<<PARAGRAPH>>Yb 169 a
+1     w     15
+2     w     12<<PARAGRAPH_END>>
+<<PARAGRAPH>>Se 75 b
+10     w     40
+14     w     40<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ir 192
+20     w     100
+20     w     90<<PARAGRAPH_END>>
+<<PARAGRAPH>>Co 60
+40     w     200
+60     w     150<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray equipment with energy from 1 MeV to 4 MeV
+30     w     200
+50     w     180<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray equipment with energy from 4 MeV to 12 MeV
+w     50
+w     80<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray equipment with energy above 12 MeV
+w     80
+w     100<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+For aluminium and titanium, the penetrated material thickness is 10 mm     w    70 mm for class A and 25 mm     w    55 mm for
+class B.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+For aluminium and titanium, the penetrated material thickness is 35 mm     w     120 mm for class A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The maximum penetrated thicknesses as given in Table 2 may be exceeded if sufficient IQI sensitivity can be
+proven.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3 Detector systems and metal screens<<HEADING_END>>
+<<HEADING level=3>>7.3.1 Minimum normalized signal-to-noise ratio<<HEADING_END>>
+<<PARAGRAPH>>For digital radiographic examination, minimum SNR N  values as given in Tables 3 and 4 or minimum grey
+values (CR only) shall be achieved. Annex D describes the procedure for measurement of SNR N  and provides
+a conversion table for users who prefer to use unnormalized measured SNR values instead of normalized
+SNR N  values.<<PARAGRAPH_END>>
+<<HEADING level=3>>18
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>Equivalent minimum grey values for CR may be used instead of minimum SNR N  values if they are determined
+by means of the procedure of Annex D for the IP used, the scanner used and its settings and the required
+SNR N  of Tables 3 and 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The SNR N  value shall be measured beside the weld near the wire or step hole IQIs in the thicker part of the
+parent material in a zone of homogeneous wall thickness and grey values. The grey values in CR (only) shall
+be measured in the region of interest in the weldment near the wire or step hole IQI. Since the roughness of
+the material influences image noise and SNR N , the values in Table 3 are recommended values only. The
+minimum SNR N  values shall be increased by a factor of 1,4 in comparison to Tables 3 and 4 if the SNR N
+measurement is performed adjacent to the weld in the heat-affected zone, except if the weld cap and root are
+flush with the parent material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+In film radiography, the optical density is typically between 3,5 and 4 if measured in the heat-affected zone
+(HAZ)/parent material. This corresponds to a higher SNR N  by about 1,4 in comparison to the centre of the weld, which
+should have an optical density of 2 or higher. It is highly recommended that the SNR N  be measured in the heat-affected
+zone, because this is typically an area of constant grey level and enables accurate measurements of the SNR N .<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex D describes the method for determination of equivalent minimum grey values (for CR only) in lieu of the
+required SNR N .<<PARAGRAPH_END>>
+<<PARAGRAPH>>Annex D also provides a conversion table for users who prefer the measurement of unnormalized SNR
+instead of SNR N . The minimum unnormalized SNR is determined from the SR b  of the detector and the
+required SNR N  values in Tables 3 and 4.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The user shall define minimum grey values or SNR N  or SNR values for CR (see Annex D) for acceptance of
+digital images. The user shall define minimum SNR N  or SNR values (see Annex D) for radiography with DDAs
+for acceptance of digital images in analogy to the minimum optical density for film radiography. If no special
+values are defined, the values of Tables 3 and 4 shall be achieved. The minimum SNR N  values are given in
+Tables 3 and 4 for different radiation sources and material thicknesses.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+For details of SNR N  measurement, see ISO 16371-1, ASTM E 2446 [10]  (for CR) or ASTM E2597 [11]  (for DDA)
+and Annex D.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3.2 Compensation principle II<<HEADING_END>>
+<<PARAGRAPH>>If both IQI sensitivities (contrast sensitivity by single IQI wires or step holes on the one hand and spatial
+resolution of the detector by duplex wire IQIs on the other) of Table B.1 to Table B.14 cannot be achieved by
+the detector system and exposure conditions used, an increase in single IQI wire visibility or step hole visibility
+shall compensate for the exceeded unsharpness values (or exceeded SR b  values).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For example, if the required values of D12 and W16 (for 5 mm thickness, class B — Tables B.3 and B.14) are
+not achieved at the same time for a specific detector set-up, then the values D11 and W17 provide an
+equivalent detection sensitivity. The compensation shall be limited to a maximum increase of two single wires
+for two missing resolved duplex wire pairs. If the required flaw sensitivity can be demonstrated for the specific
+application, by agreement between the contracting parties, the compensation may be extended to a maximum
+of three single wires for three missing resolved duplex wire pairs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For digital detectors (DDA), the contrast sensitivity depends on the used integration time and tube current
+(milliampères) for acquisition of the radiographic images for a given distance and tube voltage, so the single
+wire or step hole IQI visibility can be increased by increased exposure time and/or tube current setting. This
+applies also for CR, but with a limitation due to the maximum achievable SNR N  due to the structure noise of
+the sensitive PSL layer of imaging plates. The maximum achievable SNR N  for DDA radiography is limited by
+the quality of the calibration procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The SR b  of the detector is fixed by design and hardware parameters.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the magnification technique is used, the SR b  shall be taken from the magnified image (SR b  of the image)
+and the duplex wire IQI measurement with the duplex wire IQI on the object (see 7.7).<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+19<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>7.3.3 Metal screens for IPs and shielding<<HEADING_END>>
+<<PARAGRAPH>>When using metal front screens, good contact between the sensitive detector layer and screens is required.
+This may be achieved either by using vacuum-packed IPs or by applying pressure. Lead screens not in
+intimate contact with the IPs may contribute to image unsharpness. The intensification obtained by use of lead
+screens in contact with imaging plates is significantly smaller than in film radiography.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Many IPs are very sensitive to low energy backscatter and X-ray fluorescence of back-shielding from lead.
+This effect contributes significantly to edge unsharpness and reduced CNR, and should be minimized. It is
+recommended that steel or copper shielding be used directly behind the IPs. Also a steel or copper shielding
+between a backscatter lead plate and the IP may improve the image quality. Modern cassette and detector
+designs may consider this effect and can be constructed in a way such that additional steel or copper
+shielding outside the cassette is not required.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Due to the protection layer between the lead and the sensitive layer of an IP, the effect of intensification by
+electrons is considerably reduced and appears at higher energies. Depending on the radiation energy and protection layer
+design, the effect of intensification amounts to between 20 % and 100 % only (compared to no screen) at typical X-ray
+energies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The small intensification effect generated by a lead screen in contact with an IP can be compensated for by
+increased exposure time or milliampère   minutes, if no lead screens are used. Since lead screens in contact
+with IPs may generate scratches on IPs, if not carefully separated for the scan process, lead screens should
+be used for intermediate filtering of scattered radiation outside of cassettes. No intermediate filtering is
+recommended for inspecting steel specimen having a thickness < 12 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tables 3 and 4 show the recommended screen materials and thicknesses for different radiation sources.
+Other screen thicknesses may be also agreed between the contracting parties provided the required image
+quality is achieved. The usage of metal screens is recommended in front of IPs, and they may also reduce the
+influence of scattered radiation when used with DDAs.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4 Alignment of beam<<HEADING_END>>
+<<PARAGRAPH>>The beam of radiation shall be directed to the centre of the area being examined and should be perpendicular
+to the object surface at that point, except when it can be demonstrated that certain imperfections are best
+revealed by a different alignment of the beam. In this case, an appropriate alignment of the beam can be
+permitted. Other ways of digital radiographing may be agreed between the contracting parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EXAMPLE
+For better detection of lack of side wall fusion, the beam direction should be aligned with the weld
+preparation angles.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.5 Reduction of scattered radiation<<HEADING_END>>
+<<HEADING level=3>>7.5.1 Metal filters and collimators<<HEADING_END>>
+<<PARAGRAPH>>In order to reduce the effect of scattered radiation, direct radiation shall be collimated as much as possible to
+the section under examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>With Se 75, Ir 192, and Co 60 radiation sources or X-ray sources above 1 MW, or in the case of edge scatter,
+a sheet of lead can be used as a filter of low energy scattered radiation between the object and the cassette
+or DDA. The thickness of this sheet is 0,5 mm to 2 mm in accordance with the penetrated thickness. Other
+materials than lead, e.g. tin, copper or steel, can also be used as a filter. A thin steel or copper screen should
+be positioned between the lead sheet and the detector.<<PARAGRAPH_END>>
+<<HEADING level=3>>20
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Table 3 — Minimum SNR N  values (CR and DDA) and metal front screens (screens for CR only) for<<HEADING_END>>
+<<HEADING level=3>>digital radiography of steels, copper and nickel based alloys<<HEADING_END>>
+<<HEADING level=3>>C
+Type and thickness of metal front<<HEADING_END>>
+<<HEADING level=3>>Minimum   SNR N<<HEADING_END>>
+<<HEADING level=3>>Radiation source
+Penetrated material<<HEADING_END>>
+<<HEADING level=3>>thickness<<HEADING_END>>
+<<HEADING level=3>>screens<<HEADING_END>>
+<<PARAGRAPH>>w<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm
+Class A
+Class B<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials<<PARAGRAPH_END>>
+<<PARAGRAPH>>100
+150
+None<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50 kV<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials  d
+ 50 kV to 150 kV
+70
+120
+0 to 0,1 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials  d
+ 150 kV to 250 kV
+70
+100
+0 to 0,1 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50
+70
+100
+0 to 0,3 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials  d
+ 250 kV to 350 kV<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50
+70
+70
+0 to 0,3 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50
+70
+100
+0 to 0,3 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials  d
+ 350 kV to 1 000 kV<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50
+70
+70
+0 to 0,3 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>> 5
+70
+120
+0 to 0,1 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Yb 169  d<<PARAGRAPH_END>>
+<<PARAGRAPH>> 5
+70
+100
+0 to 0,1 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50
+70
+100
+0 to 0,3 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Ir 192  d , Se 75  d<<PARAGRAPH_END>>
+<<PARAGRAPH>> 50
+70
+70
+0,1 to 0,4 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>> 100
+70
+100
+0,3 to 0,8 (Fe or Cu) + 0,6 to 2 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Co 60  a, b<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials  a, b    1 to 5<<PARAGRAPH_END>>
+<<PARAGRAPH>> 100
+70
+70
+0,3 to 0,8 (Fe or Cu) + 0,6 to 2 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>MV<<PARAGRAPH_END>>
+<<PARAGRAPH>> 100
+70
+100
+0,6 to 4 (Fe, Cu or Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials  a, b<<PARAGRAPH_END>>
+<<PARAGRAPH>> 5 MV<<PARAGRAPH_END>>
+<<PARAGRAPH>> 100
+70
+70
+0,6 to 4 (Fe, Cu or Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+In the case of multiple screens (Fe+Pb), the steel screen shall be located between the IP and the lead screen.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+Instead of Fe or Fe+Pb also copper, tantalum or tungsten screens may be used if the image quality can be proven.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+If the SNR N  is measured in the HAZ/parent material these values shall be multiplied by 1,4, except if the weld cap and root are
+flush with the parent material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+Pb screens may be replaced completely or partially by Fe or Cu screens. The equivalent thickness for Fe or Cu is three times the
+Pb thickness.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 4 — Minimum SNR N  values (CR and DDA) and metal front screens (screens for CR only) for the<<HEADING_END>>
+<<HEADING level=3>>digital radiography of aluminium and titanium<<HEADING_END>>
+<<HEADING level=3>>Radiation source
+Minimum SNR N b
+Type and thickness of metal front<<HEADING_END>>
+<<HEADING level=3>>screens<<HEADING_END>>
+<<PARAGRAPH>>Class A
+Class B
+mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials    150 kV
+70
+120
+ 0,03 (Pb)<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials > 150 kV to 250 kV
+70
+100
+ 0,2 (Pb)  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>X-ray potentials > 250 kV to 500 kV
+70
+100
+ 0,2 (Pb)  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>Yb 169
+70
+100
+ 0,2 (Pb)  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>Se 75
+70
+100
+ 0,3 (Pb)  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Instead of 0,2 mm lead, a 0,1 mm screen with an additional filter of 0,1 mm may be used outside of the cassette.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+If the SNR N  is measured in the HAZ/parent material these values shall be multiplied by 1,4, except if the weld cap
+and root are flush with the parent material.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+21<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>7.5.2 Interception of backscattered radiation<<HEADING_END>>
+<<PARAGRAPH>>The presence of backscattered radiation shall be checked for each new CR test arrangement by means of a
+lead letter B (with a minimum height of 10 mm and a minimum thickness of 1,5 mm) placed immediately
+behind each cassette. If the image of this symbol records as a lighter image on the digital radiograph
+(negative presentation, i.e. decreased linearized grey value), it shall be rejected. If the symbol is darker
+(increased linearized grey value), or invisible, the digital radiograph is acceptable and demonstrates good
+protection against backscattered radiation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If necessary, the detector shall be shielded from backscattered radiation by a sheet of lead of at least 1 mm
+thickness or a sheet of tin of at least 1,5 mm thickness, placed behind the detector. An additional shielding of
+steel or copper (about 0,5 mm thickness) shall be applied between the lead shield and the detector to reduce
+the influence of lead X-ray fluorescence radiation. No lead screens shall be used in contact with the back side
+of the detector for radiation energies above 80 keV.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.6 Source-to-object distance<<HEADING_END>>
+<<PARAGRAPH>>The minimum source-to-object distance  f min  depends on the source size or focal spot size  d  and on the object-
+to-detector distance  b . The source size or focal spot size  d  shall be in accordance with EN 12543 or EN 12679.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When the source size or focal spot size is defined by two dimensions, the larger shall be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For exposure geometries, except for those in Figures 2 b), 8 b), 13 b), and 14 b), the distance  f  shall, where
+practicable, be chosen so that the ratio of this distance to the source size or focal spot size,  d , i.e.  f / d , is not
+less than the values given by Formulae (1) and (2):<<PARAGRAPH_END>>
+<<PARAGRAPH>>2/3
+7,5
+f
+b
+d   
+(1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>for class A and for class B<<PARAGRAPH_END>>
+<<PARAGRAPH>>2/3
+15
+f
+b
+d   <<PARAGRAPH_END>>
+<<PARAGRAPH>>(2)<<PARAGRAPH_END>>
+<<PARAGRAPH>>where  b  is expressed in millimetres.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the distance  b  is less than 1,2 t,  then the dimension  b  in Formulae (1) and (2) and Figure 21 shall be
+replaced by the nominal thickness,  t .<<PARAGRAPH_END>>
+<<PARAGRAPH>>For determination of the source-to-object distance,  f min , the nomogram in Figure 21 may be used. This
+nomogram is based on Formulae (1) and (2).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For exposure geometries set on the basis of Figures 2 b), 8 b), 13 b), and 14 b), the distance  f  shall , where
+practicable, be chosen so that the ratio of this distance to the source size,  d , i.e.  f / d , is not below the values
+given by Formulae (3) and (4):<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+7,5
+f
+b
+d
+t
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>(3)<<PARAGRAPH_END>>
+<<PARAGRAPH>>for class A and for class B<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+15
+f
+b
+d
+t
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>(4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<HEADING level=3>>22
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>t
+is the nominal thickness, in millimetres, to inspect;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+is the object-to-detector distance, in millimetres.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In class A, if detection of planar imperfections is a requirement, the minimum source-to-object distance  f min
+shall be the same as for class B in order to reduce the geometric unsharpness by a factor of 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In critical technical applications of crack-sensitive materials, more sensitive radiographic techniques than
+class B shall be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Class B
+Class A<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 21 — Nomogram for the determination of minimum source-to-object distance  f min  in relation to<<HEADING_END>>
+<<HEADING level=3>>object-to-detector distance  b  and the source size  d<<HEADING_END>>
+<<PARAGRAPH>>detector
+i
+b
+2SR
+u  <<PARAGRAPH_END>>
+<<PARAGRAPH>>Both the inherent unsharpness (
+) of a digital detector system and the geometric unsharpness
+( u G ) contribute to the total unsharpness ( u T ) in the image if not corrected by means of geometric
+magnification:<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+23<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>2
+2
+T
+i
+G
+u
+u
+u
+
+
+(5)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Therefore, it is recommended that the distance  f min  be increased to compensate for any additional
+unsharpness of the detector system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If digital detectors are used, which have a greater inherent unsharpness than X-ray film, conditions a) and b)
+are recommended, if similar low total image unsharpness values, as defined by the procedure of ISO 17636-1
+(film radiography), are to be achieved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Provided the object is in contact with the detector (this is not valid for the geometric magnification<<PARAGRAPH_END>>
+<<PARAGRAPH>>technique), then select digital detectors so that the detector basic spatial resolution (SR b ) is less than the
+values given in Formulae (6) and (7) depending on the object to detector distance  b :<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+
+(6)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+SR
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>for class A and<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+
+(7)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+SR
+30<<PARAGRAPH_END>>
+<<PARAGRAPH>>for class B.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) If an unsharpness comparable to that obtained with film radiography (ISO 17636-1) is to be achieved,<<PARAGRAPH_END>>
+<<PARAGRAPH>>then  f min  should be increased compared with the values given by Formulae (1) or (2) (and Figure 21)
+using the following Formulae (8) and (9) if Formula (6) or (7) is fulfilled:<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+f
+d<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>(8)<<PARAGRAPH_END>>
+<<HEADING level=2>>
+<<HEADING_END>>
+<<PARAGRAPH>>min
+2/3
+2
+2
+b
+7,5
+4SR<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>for class A and<<PARAGRAPH_END>>
+<<PARAGRAPH>>2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+f
+d<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+<<PARAGRAPH_END>>
+<<PARAGRAPH>>(9)<<PARAGRAPH_END>>
+<<HEADING level=2>>
+<<HEADING_END>>
+<<PARAGRAPH>>min
+2/3
+2
+2
+b
+15
+4SR<<PARAGRAPH_END>>
+<<PARAGRAPH>><<PARAGRAPH_END>>
+<<PARAGRAPH>>for class B.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Formula (1) or (2) or Figure 21 can determine  f min , if the detector basic spatial resolution SR b  is much less
+than required by Formula (6) or (7) or the IQI visibility as defined in Tables B.1 to B. 12 is achieved by
+increased SNR (CP II).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tables B.13 and B.14 provide the maximum total image unsharpness values and SR b  requirements for
+sufficient image quality for class A and class B, respectively.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When using the elliptic technique specified in 7.1.6 or the perpendicular technique specified in 7.1.7,  b  shall be
+replaced by the external diameter  D e  of the pipe in Formulae (1) and (2) and in Figure 21.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When the source is outside the object and the detector is on the other side (technique described in 7.1.8 as
+double wall penetration and single image) the minimum source-to-object distance is determined only by the
+wall thickness (i.e. not by the pipe diameter).<<PARAGRAPH_END>>
+<<HEADING level=3>>24
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>Where possible it is preferable to avoid usage of a double wall technique (see 7.1.6 to 7.1.8) by placing the
+radiation source inside the object to be radiographed, to achieve a more suitable direction of examination (see
+7.1.4 and 7.1.5). The reduction in minimum source-to-object distance should not be greater than 20 %.When
+the source is located centrally inside the object and the detector outside (technique shown in 7.1.4) and
+provided that the IQI requirements are met, this percentage may be increased. However, the reduction in
+minimum source-to-object distance shall not be greater than 50 %. A further reduction can be agreed by the
+contracting parties provided that the IQI requirements are met.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.7 Geometric magnification technique<<HEADING_END>>
+<<PARAGRAPH>>An obstacle to the application of CR and DDA systems for weld radiography is the large (≥50 µm) pixel size of
+most digital detector arrays and most IP–scanner systems compared with the small grain size in film (which
+leads to film having very high spatial resolution). This difficulty can be circumvented by taking advantage of
+the unique property of DDAs to increase the SNR N  (CP II) in the image and/or the geometric magnification if
+needed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Geometric magnification is different from digital magnification (zoom) of displayed images. Only geometric
+magnification provides a reduction in image unsharpness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the required IQI-sensitivity (proven by single wire or step hole IQI) and SR b  (proven by duplex wire IQI, see
+also Annex C) do not meet the requirements given in the appropriate Tables B.1 to B.14, one option is to
+increase the image signal to noise ratio (see 7.3.2, CP II).<<PARAGRAPH_END>>
+<<PARAGRAPH>>Another option is the application of the geometric magnification technique with increased distance between
+the IP or DDA and the object combined with usage of an X-ray tube with a small focal spot or a gamma-ray
+source with small source size.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Finally, after employing both methods, if the required IQI values are still not visible, that CR system or the
+DDA cannot be used for that examination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The correct selection of magnification shall be proven by usage of the duplex wire IQI on the object in all
+production radiographs. The duplex wire IQI shall be positioned on the side of the object nearer to the detector,
+if 2SR b      d  (source or focal spot size  d ). Otherwise, the duplex wire IQI shall be positioned on the source side
+of the object. It is recommended that duplex wire IQIs are positioned on both sides of the object for selection
+of the magnification value, but only one needs to be seen in the final production radiographs after selection of
+the correct magnification factor and source size or focal spot size.<<PARAGRAPH_END>>
+<<PARAGRAPH>>IQIs may disturb digital images if automated defect recognition is applied. If no IQIs are used for a series of
+production radiographs, the image quality shall be proven periodically by reference images with wire IQIs or
+step hole IQIs and duplex IQIs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The image unsharpness  u Im  can be estimated from the magnification  v , the geometric unsharpness  u G  and the
+SR b  by Formula (10):<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+
+
+2
+2
+Im
+G
+b
+1
+2SR
+u
+u
+ν
+
+
+(10)<<PARAGRAPH_END>>
+<<PARAGRAPH>>with<<PARAGRAPH_END>>
+<<PARAGRAPH>>
+
+
+
+
+
+
+
+
+
+
+G<<PARAGRAPH_END>>
+<<PARAGRAPH>>SDD
+1
+(
+1)
+u
+d
+f
+d
+(11)<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>SR b  is the basic spatial resolution of the detector with a magnification of 1;<<PARAGRAPH_END>>
+<<PARAGRAPH>>SDD   is the source-to-detector distance;<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+25<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>f
+is the source-to-object distance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>u G
+is the geometric unsharpness;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+is the focal spot size or source size in accordance with EN 12543 or EN 12679;<<PARAGRAPH_END>>
+<<PARAGRAPH>>v
+is the geometric magnification given by the ratio SDD/ f ;<<PARAGRAPH_END>>
+<<PARAGRAPH>>u Im
+is the required maximum image unsharpness in accordance with Table B.13 or Table B.14 for
+class A or B testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The magnification shall be increased and/or the focal spot size shall be decreased to reduce the image
+unsharpness so that it is less than or equal to the appropriate value specified in Tables B.13 or B.14. This
+shall be proven by a duplex wire IQI positioned on the object, as described in the preceding.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The magnification factor is typically different for the source and the detector sides of the object. Therefore, the
+magnification  v  should be selected for the object centre. The variation of the magnification value between the
+source side and the detector side should be within ±25 %. Smaller magnification values may be chosen if the
+CP II as described in 7.3.2 is used.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.8 Maximum area for a single exposure<<HEADING_END>>
+<<PARAGRAPH>>The number of digital radiographs for a complete examination of flat welds (see Figures 1, 15, 17, and 18) and
+of curved welds with the radiation source arranged off-centre (see Figures 2 to 4 and 8 to 16) should be
+specified in accordance with technical requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The ratio of the penetrated thickness at the outer edge of an evaluated area of uniform thickness to that at the
+centre beam shall not be more than 1,1 for class B and 1,2 for class A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The SNR N  values resulting from any variation of penetrated thickness should not be lower than those
+indicated in Table 3 or 4. Alternatively, GVs may be used for CR as shown in Annex D.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The size of the area to be examined includes the weld and the heat-affected zones. In general, about 10 mm
+of parent metal shall be examined on each side of the weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Recommendations for the number of digital radiographs are indicated in Annex A which gives an acceptable
+examination of a circumferential butt weld.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.9 Processing<<HEADING_END>>
+<<HEADING level=3>>7.9.1 Scan and read-out of image<<HEADING_END>>
+<<PARAGRAPH>>Detectors or scanners are to be used in accordance with the conditions recommended by the detector or
+scanner manufacturer to obtain the selected image quality. The digital radiographs should be free from
+artefacts due to processing and handling or other causes which would interfere with interpretation.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.9.2 Calibration of DDAs<<HEADING_END>>
+<<PARAGRAPH>>If using DDAs, the detector calibration procedure, as recommended by the manufacturer, shall be applied.
+The detector shall be calibrated with a background image (without radiation) and at least with one gain image
+(X-rays on and homogeneously exposed). Multi-gain calibration will increase the achievable SNR N  and
+linearity but takes more time. To minimize the noise due to calibration, all calibration images shall be taken
+with an exposure dose (milliampère minutes or gigabecquerel minutes) at least twice as large as the dose
+used for the inspection radiographs. Calibrated images should be treated as original images for quality
+assurance if the procedure has been documented. The calibration shall be performed periodically and if the
+exposure conditions change significantly.<<PARAGRAPH_END>>
+<<HEADING level=3>>26
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>7.9.3 Bad pixel interpolation<<HEADING_END>>
+<<PARAGRAPH>>Bad pixels are underperforming detector elements of DDAs. They are described in ASTM E2597. [11]<<PARAGRAPH_END>>
+<<PARAGRAPH>>If using DDAs, the detector shall be mapped to determine the bad pixel map in accordance with the
+manufacturer guideline. This bad pixel map shall be documented. Bad pixel interpolation is acceptable and an
+essential procedure for radiography with DDAs. It is recommended that only DDAs having no cluster kernel
+pixels (CKP) in the region of interest (ROI) be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>DDAs without CKPs and CR shall be applied for inspection, which have a basic spatial resolution (SR b ) of the
+detector less than or equal to that required in Table B.13 or B.14. If the magnification technique is used, then
+the
+shall be determined from the measured image as described in Annex C but with the duplex IQI
+directly on the test object (see 7.7). This SR b  value shall be less than or equal to the values given in Table
+B.13 or B.14. If the detector or image SR b  is higher than specified in Table B.13 or B.14, the CP II, as
+described in 7.2.3, may then be applied.<<PARAGRAPH_END>>
+<<PARAGRAPH>>image
+b
+SR<<PARAGRAPH_END>>
+<<PARAGRAPH>>image
+b
+SR<<PARAGRAPH_END>>
+<<PARAGRAPH>>If using DDAs or imaging plates for inspection of flaw sizes of the order of the image
+the required
+SNR N  shall be increased significantly. The inspection shall be performed on the basis of an agreement
+between the contracting parties. The specified increase in SNR N  may compensate for locally increased
+unsharpness due to bad pixel interpolation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The evaluation for bad pixels shall be performed periodically.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+By analogy to the CP II the increased SNR N  also compensates also for the local unsharpness caused by bad
+pixel interpolation. This is considered as CP III.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.9.4 Image processing<<HEADING_END>>
+<<PARAGRAPH>>7.9.4.1  The digital data of the radiographic detector shall be evaluated with linearized grey value
+representation which is directly proportional to the radiation dose for determination of SNR, SR b  and SNR N .
+For optimal image display, contrast and brightness should be interactively adjustable. Optional filter functions,
+profile plots and an SNR, SNR N  tool should be integrated into the software for image display and evaluation.
+For critical image analysis the operator shall interpret the image with a zoom factor between 1:1 (meaning 1
+pixel of the digital radiograph is presented by one monitor pixel) and 1:2 (meaning 1 pixel of the digital
+radiograph is presented by four monitor pixels).<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.9.4.2  Further means of image processing applied on the stored raw data (e.g. high pass filtering for image
+display) shall be documented, be repeatable and be agreed between the contracting parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.9.4.3  If further image processing (e.g. high pass filtering) is used when evaluating single wire or step hole
+IQI values, then the same filter parameters shall be used for both weld evaluation and IQI value determination.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.10 Monitor viewing conditions and storage of digital radiographs<<HEADING_END>>
+<<PARAGRAPH>>The digital radiographs shall be examined in a darkened room. The monitor setup shall be verified with a
+suitable test image.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The display for image evaluation shall fulfil minimum requirements a) to d):<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) minimal brightness of 250 cd/m 2 ;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) display of at least 256 shades of grey;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) minimum displayable light intensity ratio of 1:250;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) display of at least 1 million pixels of a pixel size <0,3 mm.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+27<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>The original images (region of interest) shall be stored at the full resolution as delivered by the detector
+system. Only image processing connected with the detector calibration (e.g. offset correction, gain calibration
+for detector equalization and bad pixel correction, see ASTM E2597 [11]  for more details) to provide artefact-
+free detector images shall be applied before storage of these raw data.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The data storage shall be redundant and supported by suitable back-up strategies to ensure long-time storage
+using lossless data compression only.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Test report<<HEADING_END>>
+<<PARAGRAPH>>For each exposure, or set of exposures, a test report shall be made giving information on the digital
+radiographic technique used, and on any other special circumstances which would allow a better
+understanding of the results.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The test report shall include at least the following information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) name of the examination body;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) object;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) material;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) heat treatment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) geometry of the weld;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+material thickness;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) welding process;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) specification of examination including requirements for acceptance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+digital radiographic technique and class, required IQI sensitivity in accordance with this part of ISO 17636<<PARAGRAPH_END>>
+<<PARAGRAPH>>(ISO 17636-2:2012);<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+test arrangement in accordance with 7.1;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k) magnification;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+system of marking used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m) detector position plan;<<PARAGRAPH_END>>
+<<PARAGRAPH>>n) radiation source, type and size of focal spot and identification of equipment used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>o) detector, screens and filters and detector basic spatial resolution;<<PARAGRAPH_END>>
+<<PARAGRAPH>>p) achieved and required SNR N  for DDAs or achieved and required grey values and/or SNR N  for CR;<<PARAGRAPH_END>>
+<<PARAGRAPH>>q) for CR: scanner type and parameters such as pixel size, scan speed, gain, laser intensity, laser spot size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>r)
+for DDAs: type and parameters such as gain, frame time, frame number, pixel size, calibration procedure;<<PARAGRAPH_END>>
+<<PARAGRAPH>>s) tube voltage used and current or source type and activity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>t)
+time of exposure and source-to-detector distance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>u) type and position of image quality indicators;<<PARAGRAPH_END>>
+<<HEADING level=3>>28
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_37>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>v) results of examination including data on software used, IQI readings;<<PARAGRAPH_END>>
+<<PARAGRAPH>>w)  image-processing parameters used, e.g. of the digital filters;<<PARAGRAPH_END>>
+<<PARAGRAPH>>x) any deviation from this part of ISO 17636, by special agreement;<<PARAGRAPH_END>>
+<<PARAGRAPH>>y) name, certification and signature of the responsible person(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>z) date(s) of exposure and test report.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+29<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_38>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Recommended number of exposures which give an acceptable<<HEADING_END>>
+<<HEADING level=2>>examination of a circumferential butt weld<<HEADING_END>>
+<<PARAGRAPH>>The minimum number of exposures required is presented in Figures A.1 to A.4, which are valid for pipes with
+an external diameter exceeding 100 mm.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When the deviation of the wall thickness of the joint to be examined, when using a single exposure   t / t  does
+not exceed 20 %, Figures A.3 and A.4 are used. This technique is recommended only when the possibility of
+having transverse cracks is small or the weld is examined for such imperfections by other non-destructive
+examination methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When   t / t  is less than or equal to 10 %, Figures A.1 and A.2 are used. In this case, it is likely that transverse
+cracks are also detected.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the object is examined for single transverse cracks, then the required minimum number of digital
+radiographs increases compared with the values in Figures A.1 to A.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>30
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_39>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>Figure A.1 — Minimum number of exposures  N  for single wall penetration with source outside, with a
+maximum permissible increase in penetrated thickness   t / t  due to inclined penetration in the areas to<<PARAGRAPH_END>>
+<<HEADING level=3>>be evaluated of  10 %  (class B), as a function of ratios  t / D e  and  D e / f<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+31<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+pipe wall<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.2 — Minimum number of exposures  N  for off-centre penetration with source inside and for<<HEADING_END>>
+<<PARAGRAPH>>double wall penetration, with a maximum permissible increase in penetrated thickness   t / t  due to
+inclined penetration in the areas to be evaluated of  10 %  (class B), as a function of ratios  t / D e  and<<PARAGRAPH_END>>
+<<HEADING level=3>>D e / SDD<<HEADING_END>>
+<<HEADING level=3>>32
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_41>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>Figure A.3 — Minimum number of exposures  N  for single wall penetration with source outside, with a
+maximum permissible increase in penetrated thickness   t / t  due to inclined penetration in the areas to<<PARAGRAPH_END>>
+<<HEADING level=3>>be evaluated of  20 %  (class A), as a function of ratios  t / D e  and  D e / f<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+33<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_42>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+pipe wall<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure A.4 — Minimum number of exposures  N  for off-centre penetration with source inside and for<<HEADING_END>>
+<<PARAGRAPH>>double wall penetration, with a maximum permissible increase in penetrated thickness   t / t  due to
+inclined penetration in the areas to be evaluated of 20 % (class A), as a function of ratios  t / D e  and<<PARAGRAPH_END>>
+<<HEADING level=3>>D e /SDD<<HEADING_END>>
+<<HEADING level=3>>34
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_43>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Annex B
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Minimum image quality values<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+35<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_44>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>B.1 Single wall technique; IQI on source side<<HEADING_END>>
+<<HEADING level=3>>Table B.1 — Wire IQI
+Table B.2 — Step and hole IQI<<HEADING_END>>
+<<HEADING level=3>>Image quality class A
+Image quality class A<<HEADING_END>>
+<<HEADING level=3>>Nominal thickness  t<<HEADING_END>>
+<<HEADING level=3>>IQI value
+Nominal thickness   t<<HEADING_END>>
+<<HEADING level=3>>IQI value<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<PARAGRAPH>>to
+1,2
+W 18
+to
+2,0
+H   3<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+1,2
+to
+2,0
+W 17
+above
+2,0
+to
+3,5
+H   4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+2,0
+to
+3,5
+W 16
+above
+3,5
+to
+6
+H   5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+3,5
+to
+5,0
+W 15
+above
+6
+to
+10
+H   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+5,0
+to
+7
+W 14
+above
+10
+to
+15
+H   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+7
+to
+10
+W 13
+above
+15
+to
+24
+H   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+10
+to
+15
+W 12
+above
+24
+to
+30
+H   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+15
+to
+25
+W 11
+above
+30
+to
+40
+H 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+25
+to
+32
+W 10
+above
+40
+to
+60
+H 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+32
+to
+40
+W   9
+above
+60
+to
+100
+H 12<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+40
+to
+55
+W   8
+above
+100
+to
+150
+H 13<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+55
+to
+85
+W   7
+above
+150
+to
+200
+H 14<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+85
+to
+150
+W   6
+above
+200
+to
+250
+H 15<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+150
+to
+250
+W   5
+above
+250
+to
+320
+H 16<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+250
+W   4
+above
+320
+to
+400
+H 17<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+400
+H 18<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.3 — Wire IQI
+Table B.4 — Step and hole IQI<<HEADING_END>>
+<<HEADING level=3>>Image quality class B
+Image quality class B<<HEADING_END>>
+<<HEADING level=3>>Nominal thickness   t<<HEADING_END>>
+<<HEADING level=3>>IQI value
+Nominal thickness   t<<HEADING_END>>
+<<HEADING level=3>>IQI value<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<PARAGRAPH>>to
+1,5
+W 19
+to
+2,5
+H   2<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+1,5
+to
+2,5
+W 18
+above
+2,5
+to
+4
+H   3<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+2,5
+to
+4
+W 17
+above
+4
+to
+8
+H   4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+4
+to
+6
+W 16
+above
+8
+to
+12
+H   5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+6
+to
+8
+W 15
+above
+12
+to
+20
+H   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+8
+to
+12
+W 14
+above
+20
+to
+30
+H   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+12
+to
+20
+W 13
+above
+30
+to
+40
+H   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+20
+to
+30
+W 12
+above
+40
+to
+60
+H   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+30
+to
+35
+W 11
+above
+60
+to
+80
+H 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+35
+to
+45
+W 10
+above
+80
+to
+100
+H 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+45
+to
+65
+W   9
+above
+100
+to
+150
+H 12<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+65
+to
+120
+W   8
+above
+150
+to
+200
+H 13<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+120
+to
+200
+W   7
+above
+200
+to
+250
+H 14<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+200
+to
+350
+W   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+350
+W   5<<PARAGRAPH_END>>
+<<HEADING level=3>>36
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_45>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>B.2 Double wall technique; double image; IQI on source side<<HEADING_END>>
+<<HEADING level=3>>Table B.5 — wire IQI
+Table B.6 — Step and hole IQI<<HEADING_END>>
+<<HEADING level=3>>Image quality class A
+Image quality class A<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value
+Penetrated thickness   w<<HEADING_END>>
+<<HEADING level=3>>IQI value<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<PARAGRAPH>>to
+1,2
+W 18
+to
+1
+H 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+1,2
+to
+2
+W 17
+above
+1
+to
+2
+H 4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+2
+to
+3,5
+W 16
+above
+2
+to
+3,5
+H 5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+3,5
+to
+5
+W 15
+above
+3,5
+to
+5,5
+H 6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+5
+to
+7
+W 14
+above
+5,5
+to
+10
+H 7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+7
+to
+12
+W 13
+above
+10
+to
+19
+H 8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+12
+to
+18
+W 12
+above
+19
+to
+35
+H 9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+18
+to
+30
+W 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+30
+to
+40
+W 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+40
+to
+50
+W   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+50
+to
+60
+W   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+60
+to
+85
+W   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+85
+to
+120
+W   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+120
+to
+220
+W   5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+220
+to
+380
+W   4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+380
+W   3<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.7 — Wire IQI
+Table B.8 — Step and hole IQI<<HEADING_END>>
+<<HEADING level=3>>Image quality class B
+Image quality class B<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value
+Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<PARAGRAPH>>to
+1,5
+W 19
+to
+1
+H 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+1,5
+to
+2,5
+W 18
+above
+1
+to
+2,5
+H 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+2,5
+to
+4
+W 17
+above
+2,5
+to
+4
+H 4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+4
+to
+6
+W 16
+above
+4
+to
+6
+H 5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+6
+to
+8
+W 15
+above
+6
+to
+11
+H 6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+8
+to
+15
+W 14
+above
+11
+to
+20
+H 7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+15
+to
+25
+W 13
+above
+20
+to
+35
+H 8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+25
+to
+38
+W 12<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+38
+to
+45
+W 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+45
+to
+55
+W 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+55
+to
+70
+W   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+70
+to
+100
+W   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+100
+to
+170
+W   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+170
+to
+250
+W   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+250
+W   5<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+37<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_46>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>B.3 Double wall technique: single or double image; IQI on detector side<<HEADING_END>>
+<<HEADING level=3>>Table B.9 — Wire IQI
+Table B.10 — Step and hole IQI<<HEADING_END>>
+<<HEADING level=3>>Image quality class A
+Image quality class A<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value
+Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<PARAGRAPH>>to
+1,2
+W 18
+to
+2
+H   3<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+1,2
+to
+2
+W 17
+above
+2
+to
+5
+H   4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+2
+to
+3,5
+W 16
+above
+5
+to
+9
+H   5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+3,5
+to
+5
+W 15
+above
+9
+to
+14
+H   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+5
+to
+10
+W 14
+above
+14
+to
+22
+H   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+10
+to
+15
+W 13
+above
+22
+to
+36
+H   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+15
+to
+22
+W 12
+above
+36
+to
+50
+H   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+22
+to
+38
+W 11
+above
+50
+to
+80
+H 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+38
+to
+48
+W 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+48
+to
+60
+W   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+60
+to
+85
+W   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+85
+to
+125
+W   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+125
+to
+225
+W   6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+225
+to
+375
+W   5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+375
+W   4<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.11 — Wire IQI
+Table B.12 — Step and hole IQI<<HEADING_END>>
+<<HEADING level=3>>Image quality class B
+Image quality class B<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value
+Penetrated thickness  w<<HEADING_END>>
+<<HEADING level=3>>IQI value<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<HEADING level=3>>mm<<HEADING_END>>
+<<PARAGRAPH>>to
+1,5
+W 19
+to
+2,5
+H 2<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+1,5
+to
+2,5
+W 18
+above
+2,5
+to
+5,5
+H 3<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+2,5
+to
+4
+W 17
+above
+5,5
+to
+9,5
+H 4<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+4
+to
+6
+W 16
+above
+9,5
+to
+15
+H 5<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+6
+to
+12
+W 15
+above
+15
+to
+24
+H 6<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+12
+to
+18
+W 14
+above
+24
+to
+40
+H 7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+18
+to
+30
+W 13
+above
+40
+to
+60
+H 8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+30
+to
+45
+W 12
+above
+60
+to
+80
+H 9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+45
+to
+55
+W 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+55
+to
+70
+W 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+70
+to
+100
+W   9<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+100
+to
+180
+W   8<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+180
+to
+300
+W   7<<PARAGRAPH_END>>
+<<PARAGRAPH>>above
+300
+W   6<<PARAGRAPH_END>>
+<<HEADING level=3>>38
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_47>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>B.4 Unsharpness<<HEADING_END>>
+<<HEADING level=3>>Table B.13 — Maximum image unsharpness for all techniques Class A<<HEADING_END>>
+<<HEADING level=3>>Image Quality Class A: Duplex wire ISO 19232-5<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness<<HEADING_END>>
+<<HEADING level=3>>Minimum IQI value and
+maximum unsharpness<<HEADING_END>>
+<<HEADING level=3>>Maximum basic spatial
+resolution (equivalent to wire<<HEADING_END>>
+<<PARAGRAPH>>w a<<PARAGRAPH_END>>
+<<PARAGRAPH>>(ISO 19232-5) b<<PARAGRAPH_END>>
+<<HEADING level=3>>thickness and spacing) b<<HEADING_END>>
+<<PARAGRAPH>>image
+SRb<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>w     1,0
+D 13<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10
+0,05<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,0     w     1,5
+D 12
+0,125
+0,063<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,5     w    2
+D 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+0,08<<PARAGRAPH_END>>
+<<PARAGRAPH>>2     w    5
+D 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+0,10<<PARAGRAPH_END>>
+<<PARAGRAPH>>5     w    10
+D 9
+0,26
+0,13<<PARAGRAPH_END>>
+<<PARAGRAPH>>10     w    25
+D 8
+0,32
+0,16<<PARAGRAPH_END>>
+<<PARAGRAPH>>25     w    55
+D 7
+0,40
+0,20<<PARAGRAPH_END>>
+<<PARAGRAPH>>55     w    150
+D 6
+0,50
+0,25<<PARAGRAPH_END>>
+<<PARAGRAPH>>150     w    250
+D 5
+0,64
+0,32<<PARAGRAPH_END>>
+<<PARAGRAPH>>w   > 250
+D 4
+0,80
+0,4<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+For double wall technique, single image, the nominal thickness  t  shall be used instead of the penetrated thickness  w .<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+The IQI reading for system selection (see Annex C) applies for contact radiography. If geometric magnification technique (see 7.7)
+is used, the IQI reading shall be performed in the corresponding reference radiographs.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+39<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_48>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Table B.14 — Maximum image unsharpness for all techniques Class B<<HEADING_END>>
+<<HEADING level=3>>Image Quality Class B: Duplex wire ISO 19232-5<<HEADING_END>>
+<<HEADING level=3>>Penetrated thickness<<HEADING_END>>
+<<HEADING level=3>>Minimum IQI value and maximum<<HEADING_END>>
+<<HEADING level=3>>Maximum basic spatial resolution<<HEADING_END>>
+<<PARAGRAPH>>w  a<<PARAGRAPH_END>>
+<<HEADING level=3>>unsharpness
+(ISO 19232-5)  b<<HEADING_END>>
+<<PARAGRAPH>>(equivalent to wire thickness and<<PARAGRAPH_END>>
+<<HEADING level=3>>spacing)  b<<HEADING_END>>
+<<PARAGRAPH>>image
+SRb<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>mm<<PARAGRAPH_END>>
+<<PARAGRAPH>>w     1,5
+D 13+<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,08
+0,04<<PARAGRAPH_END>>
+<<PARAGRAPH>>1,5     w     4
+D 13<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,10
+0,05<<PARAGRAPH_END>>
+<<PARAGRAPH>>4     w     8
+D 12
+0,125
+0,063<<PARAGRAPH_END>>
+<<PARAGRAPH>>8     w     12
+D 11<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,16
+0,08<<PARAGRAPH_END>>
+<<PARAGRAPH>>12     w     40
+D 10<<PARAGRAPH_END>>
+<<PARAGRAPH>>0,20
+0,10<<PARAGRAPH_END>>
+<<PARAGRAPH>>40     w     120
+D 9
+0,26
+0,13<<PARAGRAPH_END>>
+<<PARAGRAPH>>120     w     200
+D 8
+0,32
+0,16<<PARAGRAPH_END>>
+<<PARAGRAPH>>w     200
+D 7
+0,40
+0,20<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+For double wall technique, single image, the nominal thickness  t  shall be used instead of the penetrated thickness  w .<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+The IQI reading for system selection (see Annex C) applies for contact radiography. If geometric magnification technique (see 7.7)
+is used, the IQI reading shall be performed in the corresponding reference radiographs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+“D 13+” is achieved if the duplex wire pair D 13 is resolved with a dip larger than 20 %.<<PARAGRAPH_END>>
+<<HEADING level=3>>40
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_49>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Annex C
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Determination of basic spatial resolution<<HEADING_END>>
+<<PARAGRAPH>>Linearized grey levels are the precondition for the measurement of correct basic spatial resolution values. This
+means the grey values need to be proportional to the radiation exposure at a given location of the image. This
+is typically supported by the manufacturer's software.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The duplex wire IQI shall be positioned directly on the detector surface or cassette surface and shall be read
+in accordance with ISO 19232-5 for determination of the detector basic spatial resolution SR b .<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+If the duplex wire IQI is positioned on a test object, instead of directly on the detector, a measurement of the
+image basic spatial resolution
+is then obtained, not the detector basic spatial resolution SR b
+.
+image
+SRb<<PARAGRAPH_END>>
+<<PARAGRAPH>>detector
+SRb<<PARAGRAPH_END>>
+<<PARAGRAPH>>If the first unsharp wire pair cannot be recognized clearly (see ISO 19232-5), the 20 % dip method shall be
+applied as follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>On the digital radiograph, the first wire pair giving a modulation (dip) of less than 20 % in relation to the double
+peak size (see Figure C.1) shall be documented as result of the IQI test [e.g. D8 as shown in Figure C.1 c)]. A
+profile function of the image-processing software shall be used to recognize the first wire pair with a dip of less
+than 20 % [when averaged over both minima — see Figure C.1 d)]. The profile shall also be averaged [see
+Figure C.1 b) and c)] over at least 21 single line profiles to improve the SNR in the profile plot.<<PARAGRAPH_END>>
+<<PARAGRAPH>>By usage of the duplex wire IQI, conforming to ISO 19232-5, the inherent image unsharpness  u i  shall be
+determined and the basic spatial resolution SR b  of the detector shall be calculated with:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1
+SR
+2
+i u
+
+(C.1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>b<<PARAGRAPH_END>>
+<<PARAGRAPH>>The duplex wire IQI shall be positioned at an angle of approximately 2° to 5° towards the pixel line or column
+orientation in order to avoid aliasing effects as shown in Figure C.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The determination of the basic spatial resolution for a digital detector system (SR b ) shall be performed under
+one of the following exposure conditions without object:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) inspection of light alloys:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  tube voltage 90 kV,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  prefilter 1 mm Al;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) inspection of steel and copper alloys   20 mm penetrated thickness:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  tube voltage 160 kV,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  prefilter 1 mm Cu;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) inspection of steel and copper alloys   20 mm penetrated thickness:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  tube voltage 220 kV,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  prefilter 2 mm Cu;<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+41<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_50>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>d) gamma-radiography or high energy radiography:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  use the gamma-ray source as specified or X-ray source   1 MV,<<PARAGRAPH_END>>
+<<PARAGRAPH>>  prefilter 2 mm Cu or 4 mm steel for Se 75, Ir 192, and 4 mm Cu or 8 mm steel for Co 60 or X-ray<<PARAGRAPH_END>>
+<<PARAGRAPH>>voltage   1 MV.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The duplex wire shall be positioned directly on the detector surface or cassette surface. The source to
+detector distance shall be (100 ± 5) cm. The mean grey value in the digital image shall exceed 50 % of the
+maximum grey value the SNR shall exceed 100 for standard systems with pixel size ≥80 µm or 70 for high-
+resolution systems with pixel size <80 µm in the reference radiograph. The basic spatial resolution (see
+Formula C.1) as measured in the reference radiograph for the digital system   used and the system settings
+shall be recorded in the test report .<<PARAGRAPH_END>>
+<<PARAGRAPH>>The detector basic spatial resolution of CR systems shall be measured both perpendicular and parallel to the
+scanning direction of the laser. The higher value of the two SR b  values shall be used as the resulting detector<<PARAGRAPH_END>>
+<<PARAGRAPH>>basic spatial resolution (SR b  or
+).
+detector
+SRb<<PARAGRAPH_END>>
+<<HEADING level=3>>42
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_51>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<IMAGE_2>>
+[Image 2 contains text: em ||| ine]
+<<HEADING level=3>>a)  Image of the duplex wire IQI as shown in a radiograph<<HEADING_END>>
+<<HEADING level=3>>b)  Profile of the duplex wire IQI averaged from at least 21 lines<<HEADING_END>>
+<<HEADING level=3>>c)  Zoomed profile of wire pair D7 and D8
+d)  Scheme for calculation of the dip value<<HEADING_END>>
+<<HEADING level=3>>(in %) with:  dip = 100    (A    B    2C)/(A+B)<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>D7, D8
+duplex wire IQI values<<PARAGRAPH_END>>
+<<PARAGRAPH>>X
+distance<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y
+amplitude<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.1 — Example for duplex wire IQI evaluation with resulting IQI value D8, being the first one<<HEADING_END>>
+<<HEADING level=3>>with a dip   20%<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+43<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_52>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>detector
+SRb<<PARAGRAPH_END>>
+<<PARAGRAPH>>For improved accuracy in the measurement of the SR b  or
+value the 20 % dip value should be<<PARAGRAPH_END>>
+<<PARAGRAPH>>interpolated from the modulation depth (dip) of the neighbour duplex wire modulations. Figure C.2 represents
+the corresponding procedure for a high-resolution CR system.<<PARAGRAPH_END>>
+<<IMAGE_3>>
+[Image 3 contains text: : | | F J |
+
+a! i | |
+: ls Non | en a = ae
+ee fees
+
+a SS  — —]
+<<HEADING level=3>>a)  Profile plot of measured profile of a high-resolution system with determined modulation depths<<HEADING_END>>
+<<HEADING level=3>>(dips)<<HEADING_END>>
+<<HEADING level=3>>b)  Interpolation of modulation depth vs. duplex wire diameter (corresponds to SR b ) . The 20 % value is<<HEADING_END>>
+<<HEADING level=3>>determined from the intersection with the 20 % line resulting in iSR b  of 66 µm<<HEADING_END>>
+<<PARAGRAPH>>detector
+b
+iSR<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure C.2 — Example of the determination of the interpolated basic spatial resolution (
+) by
+interpolation from the measured modulation (dip) of the neighbour duplex wire elements<<HEADING_END>>
+<<PARAGRAPH>>The dependence of modulation (dip) from wire diameter should be fitted with a polynomial of second order for
+calculation of the intersection with the 20 % line as indicated in Figure C.2. Modulation values greater than
+zero shall be used for the interpolationonly.<<PARAGRAPH_END>>
+<<PARAGRAPH>>detector
+b
+iSR<<PARAGRAPH_END>>
+<<PARAGRAPH>>The interpolated SR b -value (see Figure C.2) shall be recorded as “interpolated SR b -value” or
+. This
+value may be used instead of the non-interpolated SR b  value by agreement of the contracting parties.<<PARAGRAPH_END>>
+<<HEADING level=3>>44
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_53>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Annex D
+(normative)<<HEADING_END>>
+<<HEADING level=2>>Determination of minimum grey values for CR practice<<HEADING_END>>
+<<HEADING level=3>>D.1 Determination of SNR N  from SNR measured<<HEADING_END>>
+<<PARAGRAPH>>The procedure for measurement of the signal-to-noise ratio is specified in ISO 16371-1:2011, 6.1, in detail.
+The measured signal to noise ratio, SNR measured , is typically determined in a window of 20    55 pixels (called
+the region of interest) as the ratio of the linearized mean grey value to its standard deviation as specified in
+ISO 16371-1:2011, 6.1.1. The linearized grey value is directly proportional to the dose of radiation at the
+measured region of interest (ROI) and it is zero for unexposed areas. This mode shall be selected for SNR N
+measurements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The window for the SNR measurement should be limited in width to 20 pixels. The length can be   55 pixel.
+Larger length increases the accuracy of the SNR measurement. This applies especially if the median of the line SNR
+values is considered in the software tool as specified in ISO 16371-1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For similar radiation exposures, unsharp digital systems achieve a higher measured SNR than sharp ones,
+but have lower performance for detection of fine flaws than sharp systems. Therefore, the measured SNR is
+normalized by the basic spatial resolution. Systems with same normalized basic spatial resolution have similar
+visualization performance for fine details.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The normalization is based on the basic spatial resolution value of the CR system (SR b ) as provided by the
+manufacturer or determined by the user by the procedure specified in Annex C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All SNR N  values are normalized as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>88,6 µm
+SNR
+SNR
+SR
+
+
+(D.1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>N
+measured<<PARAGRAPH_END>>
+<<PARAGRAPH>>b<<PARAGRAPH_END>>
+<<PARAGRAPH>>The SNR N  value is typically provided by the manufacturer's software, if the basic spatial resolution has been
+entered in the software tool and a ROI is marked for measurement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A new qualification of the CR system by measurement of the basic spatial resolution, SR b , is required if any
+scanner parameters, such as pixel resolution, scan speed and/or the imaging plate type, have been changed.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Table D.1 provides SNR N  values and the conversion to unnormalized SNR values for CR systems with
+different SR b  performance. If the manufacturer's software does not provide SNR N  values, the user can
+determine the converted SNR values for usage instead of the SNR N  values from Table D.1.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+45<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_54>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=3>>Table D.1 — Required SNR measured  values for selected CR systems with different SR b  as equivalent to<<HEADING_END>>
+<<HEADING level=3>>SNR N<<HEADING_END>>
+<<HEADING level=3>>System
+parameter
+High definition system
+Standard system<<HEADING_END>>
+<<PARAGRAPH>>Duplex wire
+qualification
+13+
+13
+12
+11
+10
+9
+8
+7
+6<<PARAGRAPH_END>>
+<<PARAGRAPH>>Basic spatial
+resolution SR b
+40 µm
+50 µm
+63 µm
+80 µm
+100 µm
+130 µm
+160 µm
+200 µm
+250 µm<<PARAGRAPH_END>>
+<<PARAGRAPH>>Required SNR N
+(Tables 3 and 4)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Required SNR measured<<PARAGRAPH_END>>
+<<PARAGRAPH>>150
+65
+85
+110
+135
+170
+220
+270
+340
+425<<PARAGRAPH_END>>
+<<PARAGRAPH>>120
+55
+70
+85
+110
+135
+180
+220
+270
+340<<PARAGRAPH_END>>
+<<PARAGRAPH>>100
+45
+60
+75
+90
+115
+150
+185
+225
+285<<PARAGRAPH_END>>
+<<PARAGRAPH>>70
+35
+40
+50
+65
+80
+105
+130
+160
+200<<PARAGRAPH_END>>
+<<HEADING level=3>>D.2 Determination of minimum grey values<<HEADING_END>>
+<<PARAGRAPH>>When performing a CR inspection of objects of inhomogeneous thickness, it may be preferable to specify
+minimum grey levels instead of minimum SNR N  values, because SNR N  measurements need a zone of
+homogeneous grey level distribution in the digital image. It also may simplify the usage of different image-
+processing software.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Linearized grey levels are the precondition for the measurement of correct SNR N  values and equivalent grey
+values. This means the grey values need to be directly proportional (no offset) to the radiation exposure at a
+given location of the scanned imaging plate. This is typically supported by the manufacturer’s software.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The dependence of image SNR N  on the grey mean value can be exploited using the CR technology, if no
+image processing has been performed and the CR system provides linearized grey levels. The relationship
+between grey levels and SNR N  can be used for a given set of scanner type and scanner parameters and the
+same type and brand of imaging plates only. Changing any scanner settings such as pixel size, scan speed,
+photomultiplier voltage or gain requires a new determination of the minimum grey value equivalent to the
+required SNR N .<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+For CR, the correlation between SNR N  and mean grey value is widely independent of the kilovolt and
+milliampère settings above 50 kV to a few megavolt X-ray tube voltage and also for gamma-ray sources. This does not
+apply to DDAs. A qualification of minimum grey values, being equivalent to minimum SNR N  values can be used with any
+of the exposure conditions as specified in Annex C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>To determine a minimum grey value as being equivalent to a minimum SNR N  value of Table 3 or 4, the
+procedure can be applied as specified in a) to d).<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Perform an exposure of a step wedge as specified in Figure D.1. The use of a step wedge with large area<<PARAGRAPH_END>>
+<<PARAGRAPH>>steps is recommended to avoid shading effects. The step wedge should cover the complete digital image
+of the detector.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Measure in each step the mean grey value and the SNR N  as shown in Figure D.2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Plot in a graph the measured SNR N  (or SNR) as a function of the mean grey value (see Figure D.3).<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) Determine the equivalent minimum grey value for the minimum SNR N  which is required for the<<PARAGRAPH_END>>
+<<PARAGRAPH>>specification in accordance with Table 3 or Table 4. Table D.2 shows an example.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The resulting grey value can be taken for determination of the minimum CR grey value GV min  equivalent to
+the minimum optical film density in film radiography (see Figure D.3).<<PARAGRAPH_END>>
+<<HEADING level=3>>46
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_55>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>Alternatively to the procedure above, the IP can be exposed sequentially with different exposures
+(milliampère minutes)  (X-ray sources) or exposure times (gamma-ray sources). The exposures should be
+taken under the same conditions as described in Annex C.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Additional screens or plates of steel or aluminium shall be used in front of the IP cassette or IP envelope, if
+this is applied for the production radiographs. The minimum grey values GV min  shall be determined from the
+digital radiographs in equivalence to the achieved and required SNR N  or SNR (see Figure D.3) as specified in
+Table D.1.<<PARAGRAPH_END>>
+<<PARAGRAPH>>No SNR or SNR N  values need to be measured in the production radiographs, if the specified minimum grey
+value GV min  is achieved everywhere in the region of interest in a production radiograph.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is recommended that a diagram is plotted as shown in Figure D.3 for better accuracy.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If minimum grey values GV min  are used for the specification, the exact settings of the CR scanner and the
+corresponding IP type shall be documented.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The final specification of the minimum grey values should be given in a table as in for example Table D.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+X-ray tube<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+Cu-filter<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+Collimator<<PARAGRAPH_END>>
+<<PARAGRAPH>>4
+Cu-step wedge<<PARAGRAPH_END>>
+<<PARAGRAPH>>5
+IP in cassette<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure D.1 — Set up for determination of CR equivalent grey values for required minimum SNR N  of<<HEADING_END>>
+<<HEADING level=3>>Tables 3 or 4<<HEADING_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+47<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_56>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<IMAGE_4>>
+[Image 4 contains text: edrsemitit (2364 x 2964) Sa
+a A> G8 \Sa [aa
+Vo
+(33)
+stat size end
+horizontal [1952 [200 fist
+vetical [1426 [55 [1480
+samples in window : 1100
+win median ma
+1, 993 1015 1031
+| mesn stdev —_mean/stdew
+1015 5.174 1758
+SW messunements according to EW 143784:
+median single fine mean 1015
+median single ine stdev: 5,624 |
+unnnommalized SNR: 181
+basic spatisl resolution (mm 0.13
+Noimalsed SNR: qa
+Mem | Recall
+pixel O.1 mm SA: 0.13 mm]
+<<HEADING level=3>>Figure D.2 — Measurement results of mean grey value and SNR N  of a step of the step wedge image<<HEADING_END>>
+<<HEADING level=3>>Table D.2 — Example for a specification of minimum grey values  (see also Figure D.3)<<HEADING_END>>
+<<HEADING level=3>>Corresponding
+minimum grey levels<<HEADING_END>>
+<<HEADING level=3>>Corresponding
+minimum grey levels<<HEADING_END>>
+<<HEADING level=3>>Required SNR N<<HEADING_END>>
+<<HEADING level=3>>for gain set 1<<HEADING_END>>
+<<HEADING level=3>>for gain set 2<<HEADING_END>>
+<<PARAGRAPH>>150
+1 250
+2 500<<PARAGRAPH_END>>
+<<PARAGRAPH>>120
+1 015
+2 030<<PARAGRAPH_END>>
+<<PARAGRAPH>>100
+590
+1 180<<PARAGRAPH_END>>
+<<PARAGRAPH>>70
+270
+540<<PARAGRAPH_END>>
+<<HEADING level=3>>48
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_57>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<IMAGE_5>>
+[Image 5 contains text: Y 180
+fama J
+ef |
+140 ae
+SNRy= 120 | |
+“| Tee
+| Zen
+100 —|——swr,= 100 .
+ise by
+80 | $l ee ~
+wi-70 | | |
+“|e
+if | [| median single line mean : 1015
+ee eae teh
+20 unnnomalized SNR: 181
+oe | | {| | |
+° 1000 2000 3000 4000 5000 Normalised SNR: 121
+x]
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+step wedge measurement value<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+fitted curve for step wedge measurement<<PARAGRAPH_END>>
+<<PARAGRAPH>>X
+grey value GV<<PARAGRAPH_END>>
+<<PARAGRAPH>>Y
+normalized SNR N<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure D.3 — Graphical plot of SNR N  vs. mean grey values as measured in accordance with Figure D.2<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+The grey values can be specified as equivalent value for different SNR N  values of the CR scanner used, its
+scan parameters (e.g. gain set 1) and IP type.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Some scanner systems may provide degraded SNR N  values at very high grey values and low gain settings. If
+this is observed, maximum grey levels shall also be specified which shall not be exceeded.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+49<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_58>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Annex E
+(informative)<<HEADING_END>>
+<<HEADING level=2>>Grey values, general remarks<<HEADING_END>>
+<<HEADING level=3>>E.1 Introduction<<HEADING_END>>
+<<PARAGRAPH>>In computed radiography, grey values may be used to render visual perceptions (visibility) as function of
+image contrast and noise (SNR or grey value is used in lieu of optical density and film system class in film
+radiography); thus, linear original grey values are used to measure the quantity of radiation penetrating a
+particular area of a part. With this relationship, a grey value of “0” corresponds to “0” radiation dose (white in a
+negative presentation as in film radiography) whereas a grey value of “4095” corresponds to a saturated
+detector (black in a negative presentation as in film radiography) for a 12 bit CR system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>grey value and SNR N  measurements shall be performed using qualified software tools that determine average
+grey value (mean value) within an ROI and/or SNR N  which is the ratio of the average grey value to the
+standard deviation of the grey values within the ROI. The minimum image area of the ROI shall contain
+1 100 pixels (i.e. 20    55 pixels, see ISO 16371-1) for quantitative measurements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Measured grey values of imaging plates are exactly proportional to the exposure dose for a given radiation
+quality. The internal (electronic) gain setting of the scanner and the photomultiplier properties as well as the analogue-to-
+digital converter properties (e.g. number of bits) determine the proportionality factor between dose and grey value. Any
+changes of these parameters require a new qualification of the minimum grey values as determined in Annex D. Some
+systems provide grey values in a logarithmic or square root characteristic or normalized values with unknown zero value.
+These values shall be linearized and related to the real zero value (corresponding to zero exposure dose), otherwise the
+grey values shall not be treated as equivalent to the optical density of films and cannot be used for SNR or CNR
+measurements. grey values and SNR N  values shall be determined before any digital filtering of the digital radiograph.<<PARAGRAPH_END>>
+<<HEADING level=3>>E.2 Noise control<<HEADING_END>>
+<<PARAGRAPH>>Computed radiographic images become “noisy”, when exposed under suboptimal conditions. Excessive CR
+image noise (low SNR N  or CNR) can become a significant obstacle to the achievement of image quality
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Suboptimal conditions to avoid include a) to f).<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Low exposure doses from X-ray or gamma-ray sources yield low CNRs. The CNR increases nonlinearly<<PARAGRAPH_END>>
+<<PARAGRAPH>>with increasing exposure (milliampère seconds or gigabecquerel minutes) up to the maximum achievable
+value due to the structure noise (fixed pattern noise) of real detectors.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) IPs generate image noise due to the internal structure of the radiation sensitive crystals and surface<<PARAGRAPH_END>>
+<<PARAGRAPH>>roughness. For high-quality level radiography, IPs should be selected with low structure noise (fine-
+grained type). The manufacturer should provide information on the maximum achievable SNR N  of the IP–
+scanner systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) DDAs generate structure noise due to different properties of the detector elements. These can be<<PARAGRAPH_END>>
+<<PARAGRAPH>>equalized by a calibration procedure. Modern calibration strategies allow very high SNRs to be achieved.
+Thermal and other effects as well as the limited exposure time of calibration images limit the effectiveness
+of the calibration and a small residual fixed pattern noise remains.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) Noise is generated by some materials, such as highly nickel-based alloys or rough surfaces. The noise<<PARAGRAPH_END>>
+<<PARAGRAPH>>may hide the visibility of fine flaws and even reduce the IQI reading.<<PARAGRAPH_END>>
+<<HEADING level=3>>50
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_59>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<PARAGRAPH>>e) Backscatter contributes to the grey value level in the images and to the noise significantly. Since it does<<PARAGRAPH_END>>
+<<PARAGRAPH>>not typically contribute to the radiographic image contrast (CNR) the visibility of IQIs is reduced.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+Excessively high radiation energy yields low contrast at constant noise level (for the same grey value<<PARAGRAPH_END>>
+<<PARAGRAPH>>level). This reduces the CNR and therefore the IQI visibility. This may be compensated by increasing the
+required grey level or reduction of X-ray voltage in comparison to film radiography (CP I).<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2013 – All rights reserved
+51<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_60>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17636-2:2013(E)<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 5579,  Non-destructive testing — Radiographic testing of metallic materials using film and X- or
+gamma-rays — Basic rules<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+ISO 5580,  Non-destructive testing — Industrial radiographic illuminators — Minimum requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3]
+ISO 19232 – 3,  Non-destructive testing ------ Image quality of radiographs ------ Part 3: Image quality classes
+for ferrous metals<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4]
+EN 444,  Non-destructive testing  ------  General principles for radiographic examination of metallic
+materials by X- and gamma-rays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[5]
+EN 12681,  Founding ― Radiographic examination<<PARAGRAPH_END>>
+<<PARAGRAPH>>[6]
+EN   14784-2,  Non-destructive testing — Industrial computed radiography with storage phosphor
+imaging plates — Part 2: General principles for testing of metallic materials using X-rays and gamma
+rays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[7]
+EN   25580,  Non-destructive testing — Industrial radiographic illuminators — Minimum requirements
+(ISO 5580:1985)<<PARAGRAPH_END>>
+<<PARAGRAPH>>[8]
+ASTM E1000,  Standard Guide for Radioscopy<<PARAGRAPH_END>>
+<<PARAGRAPH>>[9]
+ASTM E2445,  Standard Practice for Qualification and Long-Term Stability of Computed Radiology
+Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[10]
+ASTM E2446,  Standard Practice for Classification of Computed Radiology Systems<<PARAGRAPH_END>>
+<<PARAGRAPH>>[11]
+ASTM E2597,  Standard Practice for Manufacturing Characterization of Digital Detector Arrays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[12]
+ASTM E2698,  Standard Practice for Radiological Examination Using Digital Detector Arrays<<PARAGRAPH_END>>
+<<PARAGRAPH>>[13]
+ASTM E2736,  Standard Guide for Digital Detector Array Radiology<<PARAGRAPH_END>>
+<<PARAGRAPH>>[14]
+ASTM E 2737,  Standard Practice for Digital Detector Array Performance Evaluation and Long-Term
+Stability<<PARAGRAPH_END>>
+<<HEADING level=3>>52
+© ISO 2013 – All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_61>>
+<<PARAGRAPH>>BS EN ISO 17636-2:2013<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_62>>
+<<PARAGRAPH>>This page deliberately left blank<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_63>>
+<<PARAGRAPH>>This page deliberately left blank<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_64>>
+<<HEADING level=1>>British Standards Institution (BSI)<<HEADING_END>>
+<<PARAGRAPH>>BSI is the independent national body responsible for preparing British Standards and other
+standards-related publications, information and services. It presents the UK view on standards in
+Europe and at the international level.<<PARAGRAPH_END>>
+<<HEADING level=2>>BSI is incorporated by Royal Charter. British Standards and other standardisation products are
+published by BSI Standards Limited .<<HEADING_END>>
+<<PARAGRAPH>>Revisions
+British Standards and PASs are periodically updated by amendment or
+revision. Users of British Standards and PASs should make sure that they
+possess the latest amendments or editions.
+It is the constant aim of BSI to improve the quality of our products and
+services. We would be grateful if anyone finding an inaccuracy or ambiguity
+while using British Standards would inform the Secretary of the technical
+committee responsible, the identity of which can be found on the inside front
+cover. Similary for PASs, please notify BSI Customer Services.
+Tel: +44 (0)20 8996 9001  Fax: +44 (0)20 8996 7001<<PARAGRAPH_END>>
+<<HEADING level=2>>Information on standards
+BSI provides a wide range of information on national, European
+and international standards through its Knowledge Centre.<<HEADING_END>>
+<<HEADING level=3>>Tel: +44 (0)20 8996 7004  Fax: +44 (0)20 8996 7005
+Email: knowledgecentre@bsigroup.com<<HEADING_END>>
+<<PARAGRAPH>>BSI Subscribing Members are kept up to date with standards developments
+and receive substantial discounts on the purchase price
+of standards. For details of these and other benefits contact Membership
+Administration.<<PARAGRAPH_END>>
+<<HEADING level=3>>Tel: +44 (0)20 8996 7002  Fax: +44 (0)20 8996 7001
+Email: membership@bsigroup.com<<HEADING_END>>
+<<PARAGRAPH>>BSI offers BSI Subscribing Members an individual updating service called
+PLUS which ensures that subscribers automatically receive the latest editions
+of British Standards and PASs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Information regarding online access to British Standards and PASs
+via British Standards Online can be found at
+www.bsigroup.com/BSOL
+Further information about British Standards is available on the BSI website
+at  www.bsi-group.com/standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tel: +44 (0)20 8996 7669 Fax: +44 (0)20 8996 7001
+Email: plus@bsigroup.com
+Buying standards
+You may buy PDF and hard copy versions of standards directly using a
+credit card from the BSI Shop on the website  www.bsigroup.com/shop.
+In addition all orders for BSI, international and foreign standards publications
+can be addressed to BSI Customer Services.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright
+All the data, software and documentation set out in all British Standards and
+other BSI publications are the property of and copyrighted by BSI, or some
+person or entity that own copyright in the information used (such as the
+international standardisation bodies) has formally licensed such information
+to BSI for commerical publication and use. Except as permitted under the
+Copyright, Designs and Patents Act 1988 no extract may be reproduced,
+stored in a retrieval system or transmitted in any form or by any means –
+electronic, photocopying, recording or otherwise – without prior written
+permission from BSI. This does not preclude the free use, in the course of
+implementing the standard, of necessary details such as symbols, and size,
+type or grade designations. If these details are to be used for any other
+purpose than implementation then the prior written permission of BSI must
+be obtained. Details and advice can be obtained from the Copyright &
+Licensing Department.<<PARAGRAPH_END>>
+<<HEADING level=3>>Tel: +44 (0)20 8996 9001 Fax: +44 (0)20 8996 7001
+Email: orders@bsigroup.com<<HEADING_END>>
+<<PARAGRAPH>>In response to orders for international standards, BSI will supply the British
+Standard implementation of the relevant international standard, unless
+otherwise requested.<<PARAGRAPH_END>>
+<<HEADING level=3>>Tel: +44 (0)20 8996 7070
+Email: copyright@bsigroup.com<<HEADING_END>>
+<<HEADING level=3>>BSI<<HEADING_END>>
+<<PARAGRAPH>>389 Chiswick High Road London W4 4AL UK<<PARAGRAPH_END>>
+<<PARAGRAPH>>Tel +44 (0)20 8996 9001
+Fax +44 (0)20 8996 7001
+www.bsigroup.com/standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>raising standards worldwide ™<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 64
+Total Images: 5
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 250x233
+[IMAGE_2] Page: 51, Size: 856x222
+[IMAGE_3] Page: 52, Size: 915x384
+[IMAGE_4] Page: 56, Size: 921x777
+[IMAGE_5] Page: 57, Size: 944x517
+<<SECTION_END>>
+<<DOCUMENT_END>>

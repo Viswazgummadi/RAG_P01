@@ -1,0 +1,1097 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            31.43,
+            34.17,
+            85.19,
+            86.01
+          ],
+          "block_id": "img1_0"
+        },
+        {
+          "type": "text",
+          "content": "Designation: A780/A780M \u2013 09",
+          "bbox": [
+            91.3,
+            47.61,
+            249.88,
+            58.58
+          ],
+          "block_id": "b1_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Standard Practice for\nRepair of Damaged and Uncoated Areas of Hot-Dip\nGalvanized Coatings 1",
+          "bbox": [
+            88.31,
+            99.44,
+            430.8,
+            142.57
+          ],
+          "block_id": "b1_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This standard is issued under the \ufb01xed designation A780/A780M; the number immediately following the designation indicates the year\nof original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval.\nA superscript epsilon ( \u00b4 ) indicates an editorial change since the last revision or reapproval.",
+          "bbox": [
+            88.31,
+            156.93,
+            495.44,
+            182.37
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard has been approved for use by agencies of the Department of Defense.",
+          "bbox": [
+            88.31,
+            189.78,
+            346.92,
+            197.27
+          ],
+          "block_id": "b1_4",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope*\n1.1 This practice describes methods that may be used to\nrepair damaged hot-dip galvanized coatings on hardware,\nstructural shapes, and other products fabricated prior to hot-dip\ngalvanizing, and uncoated areas remaining after initial hot-dip\ngalvanizing. The damage may be the result of welding or\ncutting (\ufb02ame), in which case the coating will be damaged\npredominantly by burning. This practice can also be used to\nrepair hot-dip galvanized coatings damaged by excessively\nrough handling during shipping or erection. Requirements\nconcerning the renovation of uncoated areas remaining after\ninitial hot-dip galvanizing are contained within the applicable\nmaterial speci\ufb01cation.\n1.2 This practice describes the use of low melting point zinc\nalloy repair rods or powders made speci\ufb01cally for this purpose,\nthe use of paints containing zinc dust, and the use of sprayed\nzinc (metallizing).\n1.3 The extent of repair shall be limited to an area mutually\nagreeable to the contracting parties. Similarly, contracting\nparties shall agree to the repair method to be used.\n1.4 This speci\ufb01cation is applicable to orders in either\ninch-pound units (as A780) or in SI units (as A780M).\nInch-pound units and SI units are not necessarily exact\nequivalents. Within the text of this speci\ufb01cation and where\nappropriate, SI units are shown in brackets. Each system shall\nbe used independently of the other without combining values in\nany way.",
+          "bbox": [
+            31.43,
+            218.5,
+            282.91,
+            529.92
+          ],
+          "block_id": "b1_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.5  This standard does not purport to address the safety\nproblems, if any, associated with its use. It is the responsibility\nof the user of this standard to establish appropriate safety and\nhealth practices and determine the applicability of regulatory\nlimitations prior to use.",
+          "bbox": [
+            300.84,
+            218.5,
+            552.33,
+            274.38
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Referenced Documents\n2.1  ASTM Standards: 2",
+          "bbox": [
+            300.84,
+            283.86,
+            412.32,
+            308.4
+          ],
+          "block_id": "b1_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A902  Terminology Relating to Metallic Coated Steel Prod-\nucts\nD520  Speci\ufb01cation for Zinc Dust Pigment\n2.2\nSociety for Protective Coatings (SSPC) Documents: 3",
+          "bbox": [
+            310.31,
+            309.9,
+            552.31,
+            354.3
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SSPC-PA2  Measurement of Dry Paint Thickness with Mag-\nnetic Gages\nSSPC-SP2  Hand Tool Cleaning\nSSPC-SP5/NACE No.1  White Metal Blast Cleaning\nSSPC-SP10/NACE No.2  Near-White Blast Cleaning\nSSPC-SP11  Power Tool Cleaning to Bare Metal",
+          "bbox": [
+            310.31,
+            355.8,
+            552.33,
+            423.15
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Terminology\n3.1\nDe\ufb01nitions \u2014For de\ufb01nitions of terms used in this\npractice, refer to Terminology  A902 .",
+          "bbox": [
+            300.84,
+            432.53,
+            552.31,
+            468.55
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4. Materials\n4.1  Properties \u2014The material used for repairs shall have the\nfollowing characteristics:\n4.1.1 One application of the material shall provide a coating\nthickness of at least 2.0 mils (50.8 \u00b5m).",
+          "bbox": [
+            300.83,
+            477.93,
+            552.3,
+            536.9
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1  This practice is under the jurisdiction of ASTM Committee  A05  on Metallic-\nCoated Iron and Steel Products and is the direct responsibility of Subcommittee\nA05.13  on Structural Shapes and Hardware Speci\ufb01cations.\nCurrent edition approved May 1, 2009. Published May 2009. Originally\napproved in 1980. Last previous edition approved in 2006 as A780 \u2013 01(2006). DOI:\n10.1520/A0780_A0780M-09.",
+          "bbox": [
+            31.43,
+            559.26,
+            282.9,
+            614.63
+          ],
+          "block_id": "b1_12",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2  For referenced ASTM standards, visit the ASTM website, www.astm.org, or\ncontact ASTM Customer Service at service@astm.org. For  Annual Book of ASTM\nStandards  volume information, refer to the standard\u2019s Document Summary page on\nthe ASTM website.\n3  Available from Society for Protective Coatings (SSPC), 40 24th St., 6th Floor,\nPittsburgh, PA 15222-4656, http://www.sspc.org.",
+          "bbox": [
+            300.84,
+            559.26,
+            552.31,
+            614.63
+          ],
+          "block_id": "b1_13",
+          "font_size": 7.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "*A Summary of Changes section appears at the end of this standard.",
+          "bbox": [
+            171.84,
+            723.47,
+            411.93,
+            731.45
+          ],
+          "block_id": "b1_15",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Copyright \u00a9 ASTM International. 100 Barr Harbour Drive, P.O. box C700 West Conshohocken, Pennsylvania 19428-2959, United States",
+          "bbox": [
+            31.43,
+            737.21,
+            393.88,
+            743.2
+          ],
+          "block_id": "b1_16",
+          "font_size": 6.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright by ASTM Int'l (all rights reserved); Wed Jul 11 05:04:07 EDT 2012\nDownloaded/printed by\nAnjan Sen (Albawardi+Steel+Industries) pursuant to License Agreement. No further reproductions authorized.",
+          "bbox": [
+            47.41,
+            745.49,
+            377.73,
+            774.06
+          ],
+          "block_id": "b1_18",
+          "font_size": 7.4,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b1_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_0",
+          "bbox": [
+            31.43,
+            34.17,
+            85.19,
+            86.01
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2739868164062
+      },
+      "image_id_map": {
+        "img1_0": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            232.37,
+            29.93,
+            261.17,
+            55.13
+          ],
+          "block_id": "img2_16"
+        },
+        {
+          "type": "text",
+          "content": "A780/A780M \u2013 09",
+          "bbox": [
+            262.3,
+            37.38,
+            351.37,
+            48.35
+          ],
+          "block_id": "b2_17",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1.2 The applied coating shall provide barrier protection\nand shall preferably be anodic to steel.\n4.1.3 Application of the coating material shall be possible\nunder shop or \ufb01eld conditions.\n4.2  Types \u2014There are three types of material that possess\nthe required properties and may be used to repair damaged\ngalvanized coatings, as follows:\n4.2.1  Zinc-Based Solders \u2014Zinc alloy solders are to be used\nfor repairs. The most common types of solders are zinc-\ncadmium, zinc-tin-lead, and zinc-tin-copper alloys. Zinc-\ncadmium and zinc-tin-lead alloys have liquidus temperatures in\nthe ranges from 518 to 527\u00b0F (270 to 275\u00b0C) and 446 to 500\u00b0F\n(230 to 260\u00b0C), respectively. (The liquidus temperature is that\ntemperature above which an alloy is completely molten.) The\nzinc-tin-copper alloys have a liquidus temperature in the range\nfrom 660 to 670\u00b0F (349 to 354\u00b0C), but they are applied while\nin a semisolid state in the preferred application temperature\nrange from 480 to 570\u00b0F (250 to 300\u00b0C). The solders can be\nused in rod form or as powders.  Annex A1  describes the use of\nzinc-based solders.\n4.2.2  Paints Containing Zinc Dust \u2014These are usually\nbased on organic binders, pre-mixed and formulated speci\ufb01-",
+          "bbox": [
+            31.43,
+            58.99,
+            282.9,
+            309.93
+          ],
+          "block_id": "b2_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "cally for use on steel surfaces. Paints containing zinc dust, with\nconcentrations of zinc dust in the range of 65 to 69 % or above\n92 % in the dried \ufb01lm, are considered equally effective for the\nrepair of damaged galvanized coatings. The repair paint to be\nused shall be selected by the galvanizer, unless the purchaser\nspeci\ufb01es a particular concentration or paint system. Corrosion\nresistance and service performance are very dependent on the\nproperties of the paint system, the extent of surface prepara-\ntion, and skills of individual applicators.  Annex A2  describes\nthe use of paints containing zinc dust. Speci\ufb01cation  D520\ndescribes the zinc dust component of these paints.\n4.2.3  Sprayed Zinc \u2014This method involves the application\nof a zinc coating by spraying the surface to be repaired with\ndroplets of molten metal using wire or ribbon, or powder\nprocesses.  Annex A3  describes the use of sprayed zinc.\n4.3 For further information, reference may be made to the\npapers, procedures, and speci\ufb01cations in Refs.  ( 1 )  through  ( 4 )\n(see list of references at the end of this practice).",
+          "bbox": [
+            300.83,
+            58.99,
+            552.31,
+            264.04
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5. Keywords\n5.1 coatings\u2014zinc; galvanized coating repair; galvanized\ncoatings; touch-up; zinc coating repair; zinc coatings",
+          "bbox": [
+            300.83,
+            273.91,
+            552.3,
+            309.93
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ANNEXES",
+          "bbox": [
+            268.02,
+            341.5,
+            315.7,
+            351.47
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(Mandatory Information)",
+          "bbox": [
+            242.24,
+            365.46,
+            341.5,
+            374.44
+          ],
+          "block_id": "b2_4",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A1. REPAIR USING ZINC-BASED ALLOYS",
+          "bbox": [
+            201.53,
+            388.41,
+            382.21,
+            397.39
+          ],
+          "block_id": "b2_5",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A1.1\nClean the surface to be reconditioned using a wire\nbrush, a light grinding action, or mild blasting. To ensure that\na smooth reconditioned coating can be effected, surface prepa-\nration shall extend into the surrounding, undamaged galva-\nnized coating.",
+          "bbox": [
+            31.43,
+            415.41,
+            282.88,
+            471.29
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "burned. Wire brush the surface to be reconditioned during\npreheating. Pre-\ufb02ux, if necessary.",
+          "bbox": [
+            300.84,
+            415.41,
+            552.3,
+            436.87
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A1.4\nRub the cleaned, preheated area with the repair stick\nto deposit an evenly distributed layer of the zinc alloy. When\npowdered zinc alloys are used, sprinkle the powder on the\ncleaned, preheated surface and spread out with a spatula or\nsimilar tool. The thickness of the applied coating shall be as\nagreed upon between the contracting parties.",
+          "bbox": [
+            300.84,
+            445.05,
+            552.3,
+            512.41
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A1.2\nIf the area to be reconditioned includes welds, \ufb01rst\nremove all weld \ufb02ux residue and weld spatter (of a size that\ncannot be removed by wire brushing or blast cleaning) by\nmechanical means, such as chipping, grinding, or power\nscaling, etc.",
+          "bbox": [
+            31.43,
+            482.75,
+            282.9,
+            538.63
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A1.5\nWhen the repair has been effected, remove \ufb02ux\nresidue by rinsing with water or wiping with a damp cloth.",
+          "bbox": [
+            300.84,
+            520.59,
+            552.28,
+            542.05
+          ],
+          "block_id": "b2_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A1.3 Preheat the cleaned area to be reconditioned to at least\n600\u00b0F (315\u00b0C). Do not overheat the surface beyond 750\u00b0F\n(400\u00b0C), nor allow the surrounding galvanized coating to be",
+          "bbox": [
+            31.43,
+            550.09,
+            282.9,
+            583.02
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A1.6 Take thickness measurements with either a magnetic,\nelectromagnetic, or eddy-current gage to ensure that the\napplied coating is as speci\ufb01ed.",
+          "bbox": [
+            300.84,
+            550.14,
+            552.3,
+            583.06
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A2. REPAIR USING PAINTS CONTAINING ZINC DUST",
+          "bbox": [
+            175.76,
+            612.63,
+            407.97,
+            621.61
+          ],
+          "block_id": "b2_13",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A2.1 Preparation of the damaged surface will be in\ufb02uenced\nby the type of paint selected and the anticipated service\nconditions. Experience shows that in general, organic zinc-rich\nsystems are tolerant of marginal surface preparation. Most\norganic paints containing zinc dust are not critical of climatic\nor atmospheric conditions for curing. The following general\nguidelines shall apply:",
+          "bbox": [
+            31.43,
+            639.63,
+            282.91,
+            718.46
+          ],
+          "block_id": "b2_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A2.1.1 Surfaces to be reconditioned with paints containing\nzinc dust shall be clean, dry, and free of oil, grease, preexisting\npaint, and corrosion by-products.\nA2.1.2 Where anticipated, \ufb01eld service conditions include\nimmersion, blast clean the surface in accordance with SSPC-\nSP10/NACE No. 2 near white metal. For less critical \ufb01eld\nexposure conditions, clean the surface to bare metal, in",
+          "bbox": [
+            300.84,
+            639.63,
+            552.31,
+            718.46
+          ],
+          "block_id": "b2_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright by ASTM Int'l (all rights reserved); Wed Jul 11 05:04:07 EDT 2012\nDownloaded/printed by\nAnjan Sen (Albawardi+Steel+Industries) pursuant to License Agreement. No further reproductions authorized.",
+          "bbox": [
+            47.41,
+            745.49,
+            377.73,
+            774.06
+          ],
+          "block_id": "b2_20",
+          "font_size": 7.4,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b2_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_16",
+          "bbox": [
+            232.37,
+            29.93,
+            261.17,
+            55.13
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2739868164062
+      },
+      "image_id_map": {
+        "img2_16": 2
+      }
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            232.37,
+            29.93,
+            261.17,
+            55.13
+          ],
+          "block_id": "img3_18"
+        },
+        {
+          "type": "text",
+          "content": "A780/A780M \u2013 09",
+          "bbox": [
+            262.3,
+            37.38,
+            351.37,
+            48.35
+          ],
+          "block_id": "b3_19",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "accordance with  SSPC-SP11 , as a minimum. Where circum-\nstances do not allow blast or power tool cleaning, it is\npermissible to hand tool areas clean in accordance with\nSSPC-SP2 . To ensure that a smooth reconditioned coating can\nbe effected, surface preparation shall extend into the undam-\naged galvanized coating. The method and extent of surface\npreparation shall be mutually agreeable to the contracting\nparties.\nA2.1.3 If the area to be reconditioned includes welds, \ufb01rst\nremove all weld \ufb02ux residue and weld spatter (of a size that\ncannot be removed by wire brushing or blast cleaning) by\nmechanical means, such as chipping, grinding, or power\nscaling, etc.",
+          "bbox": [
+            31.43,
+            58.99,
+            282.91,
+            206.66
+          ],
+          "block_id": "b3_0",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A2.1.4 Spray or brush-apply the paints containing zinc dust\nto the prepared area. Apply the paint as in accordance with the\nmanufacturer\u2019s printed instructions in a single application\nemploying multiple passes to achieve a dry \ufb01lm thickness to be\nagreed upon between the contracting parties. Allow adequate\ncuring time before subjecting repaired items to service condi-\ntions in accordance with the manufacturer\u2019s printed instruc-\ntions.\nA2.1.5 Take thickness measurements with either a mag-\nnetic, electromagnetic, or eddy-current gage to ensure that the\napplied coating is as speci\ufb01ed in accordance with  SSPC-PA2 .",
+          "bbox": [
+            300.84,
+            58.99,
+            552.32,
+            190.66
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3. REPAIR USING SPRAYED ZINC (METALLIZING)",
+          "bbox": [
+            178.59,
+            236.25,
+            405.15,
+            245.23
+          ],
+          "block_id": "b3_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A3.1 Surfaces to be reconditioned by zinc metallizing shall\nbe clean, dry and free of oil, grease, and corrosion products.",
+          "bbox": [
+            31.43,
+            263.25,
+            282.9,
+            284.71
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "means of metal-spraying pistols fed with either zinc wire or\nzinc powder. Apply the sprayed coating as soon as possible\nafter surface preparation and before visible deterioration of the\nsurface has occurred.",
+          "bbox": [
+            300.84,
+            263.25,
+            552.3,
+            307.66
+          ],
+          "block_id": "b3_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.2\nIf the area to be reconditioned includes welds, \ufb01rst\nremove all \ufb02ux residue and weld spatter of a size or type that\ncannot be removed by blast cleaning by mechanical means,\nthat is, chipping, etc.",
+          "bbox": [
+            31.43,
+            294.98,
+            282.9,
+            339.38
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.6 The surface of the sprayed coating shall be of uniform\ntexture, free of lumps, coarse areas, and loosely adherent\nparticles.",
+          "bbox": [
+            300.84,
+            317.13,
+            552.3,
+            350.06
+          ],
+          "block_id": "b3_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.3\nBlast clean the surface to be reconditioned in accor-\ndance with SSPC-SP5/NACE No. 1, white metal.",
+          "bbox": [
+            31.43,
+            349.75,
+            282.88,
+            371.21
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.7\nThe nominal thickness of the sprayed zinc coating\nshall be previously agreed upon between the contracting\nparties.",
+          "bbox": [
+            300.84,
+            359.54,
+            552.3,
+            392.47
+          ],
+          "block_id": "b3_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.4 To ensure that a smooth reconditioned coating can be\neffected, surface preparation shall be extended into the sur-\nrounding undamaged galvanized coating.",
+          "bbox": [
+            31.43,
+            381.58,
+            282.9,
+            414.5
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.8 Take thickness measurements with either a magnetic,\nelectromagnetic, or eddy-current gage to ensure that the\napplied coating is as speci\ufb01ed.",
+          "bbox": [
+            300.84,
+            401.95,
+            552.3,
+            434.87
+          ],
+          "block_id": "b3_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A3.5\nApply the coating to the clean and dry surface by",
+          "bbox": [
+            40.91,
+            424.88,
+            282.87,
+            434.85
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "REFERENCES",
+          "bbox": [
+            258.32,
+            466.44,
+            325.4,
+            476.42
+          ],
+          "block_id": "b3_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( 1 )  Van Eijnsbergen, J. F. H., et al, \u201cReconditioning Damaged Galvanized\nSurfaces,\u2019\u2019 6th International Conference on Hot Dip Galvanizing,\nInterlaken, June 1961, pp. 128\u2013141.\n( 2 ) SSPC-Paint-20,\u201c Zinc Rich Coatings, Type I Inorganic, Type II\nOrganic,\u2019\u2019 Steel Structures Painting Council, 4400 Fifth Ave., Pitts-\nburgh, PA 15213, 1979.",
+          "bbox": [
+            31.43,
+            494.27,
+            282.91,
+            552.73
+          ],
+          "block_id": "b3_13",
+          "font_size": 8.5,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( 3 ) MIL-P-21035 (Ships), Military Speci\ufb01cation,\u201c Paint, High Zinc Dust\nContent, Galvanizing Repair,\u2019\u2019 Amendment 1, U.S. Government\nPrinting Office, Washington, DC, 1970.\n( 4 )  \u201cRecommended Practices for Fused Thermal Sprayed Deposits,\u2019\u2019\nAmerican Welding Society, Inc., 550 N.W. LeJeune Rd., Miami, FL\n33135, 1975.",
+          "bbox": [
+            300.84,
+            494.27,
+            552.31,
+            552.73
+          ],
+          "block_id": "b3_14",
+          "font_size": 8.5,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "SUMMARY OF CHANGES",
+          "bbox": [
+            230.88,
+            584.64,
+            352.85,
+            594.62
+          ],
+          "block_id": "b3_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Committee A05 has identi\ufb01ed the location of selected changes to this standard since the last issue\n(A780 \u2013 01(2006)) that may impact the use of this standard. (May 1, 2009)",
+          "bbox": [
+            67.35,
+            610.67,
+            516.39,
+            632.62
+          ],
+          "block_id": "b3_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( 1 ) Revised  1.4  and changed designation to make standard\napplicable in both units.",
+          "bbox": [
+            31.43,
+            650.21,
+            282.89,
+            671.77
+          ],
+          "block_id": "b3_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright by ASTM Int'l (all rights reserved); Wed Jul 11 05:04:07 EDT 2012\nDownloaded/printed by\nAnjan Sen (Albawardi+Steel+Industries) pursuant to License Agreement. No further reproductions authorized.",
+          "bbox": [
+            47.41,
+            745.49,
+            377.73,
+            774.06
+          ],
+          "block_id": "b3_22",
+          "font_size": 7.4,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b3_20",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img3_18",
+          "bbox": [
+            232.37,
+            29.93,
+            261.17,
+            55.13
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2739868164062
+      },
+      "image_id_map": {
+        "img3_18": 3
+      }
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            232.37,
+            29.93,
+            261.17,
+            55.13
+          ],
+          "block_id": "img4_3"
+        },
+        {
+          "type": "text",
+          "content": "A780/A780M \u2013 09",
+          "bbox": [
+            262.3,
+            37.38,
+            351.37,
+            48.35
+          ],
+          "block_id": "b4_4",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned\nin this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk\nof infringement of such rights, are entirely their own responsibility.",
+          "bbox": [
+            88.31,
+            59.19,
+            495.68,
+            83.13
+          ],
+          "block_id": "b4_0",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is subject to revision at any time by the responsible technical committee and must be reviewed every \ufb01ve years and\nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards\nand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the\nresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should\nmake your views known to the ASTM Committee on Standards, at the address shown below.",
+          "bbox": [
+            88.31,
+            96.6,
+            495.66,
+            137.51
+          ],
+          "block_id": "b4_1",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,\nUnited States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above\naddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website\n(www.astm.org). Permission rights to photocopy the standard may also be secured from the ASTM website (www.astm.org/\nCOPYRIGHT/).",
+          "bbox": [
+            88.31,
+            150.98,
+            495.66,
+            191.89
+          ],
+          "block_id": "b4_2",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Copyright by ASTM Int'l (all rights reserved); Wed Jul 11 05:04:07 EDT 2012\nDownloaded/printed by\nAnjan Sen (Albawardi+Steel+Industries) pursuant to License Agreement. No further reproductions authorized.",
+          "bbox": [
+            47.41,
+            745.49,
+            377.73,
+            774.06
+          ],
+          "block_id": "b4_7",
+          "font_size": 7.4,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            289.61,
+            750.47,
+            294.1,
+            759.45
+          ],
+          "block_id": "b4_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img4_3",
+          "bbox": [
+            232.37,
+            29.93,
+            261.17,
+            55.13
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 583.7100219726562,
+        "height": 781.2739868164062
+      },
+      "image_id_map": {
+        "img4_3": 4
+      }
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "ar be\nINTERNATIONAL",
+      "position": {
+        "x0": 31.43,
+        "y0": 34.17,
+        "x1": 85.19,
+        "y1": 86.01,
+        "width": 53.76,
+        "height": 51.84
+      },
+      "size": {
+        "width": 224,
+        "height": 216
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 2,
+      "path": "pdf_images/p2_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 232.37,
+        "y0": 29.93,
+        "x1": 261.17,
+        "y1": 55.13,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 3,
+      "page": 3,
+      "path": "pdf_images/p3_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 232.37,
+        "y0": 29.93,
+        "x1": 261.17,
+        "y1": 55.13,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 4,
+      "page": 4,
+      "path": "pdf_images/p4_i1.png",
+      "text": "rd?",
+      "position": {
+        "x0": 232.37,
+        "y0": 29.93,
+        "x1": 261.17,
+        "y1": 55.13,
+        "width": 28.8,
+        "height": 25.2
+      },
+      "size": {
+        "width": 120,
+        "height": 105
+      },
+      "format": "png"
+    }
+  ]
+}

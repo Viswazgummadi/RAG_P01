@@ -1,0 +1,5741 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO\n10005",
+          "bbox": [
+            494.54,
+            59.0,
+            561.26,
+            110.53
+          ],
+          "block_id": "b1_0",
+          "font_size": 24.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "First edition\n1995-09-15",
+          "bbox": [
+            513.76,
+            122.43,
+            561.26,
+            141.33
+          ],
+          "block_id": "b1_1",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Quality management \u2014 Guidelines for\nquality plans",
+          "bbox": [
+            229.61,
+            318.11,
+            525.64,
+            351.71
+          ],
+          "block_id": "b1_3",
+          "font_size": 16.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Management de la qualit\u00e9 \u2014 Lignes directrices pour les plans qualit\u00e9",
+          "bbox": [
+            229.61,
+            382.62,
+            542.84,
+            392.62
+          ],
+          "block_id": "b1_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            229.61,
+            721.25,
+            296.44,
+            783.42
+          ],
+          "block_id": "img1_5"
+        },
+        {
+          "type": "text",
+          "content": "Reference number\nISO 10005:1995(E)",
+          "bbox": [
+            485.22,
+            765.48,
+            561.26,
+            784.38
+          ],
+          "block_id": "b1_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img1_5",
+          "bbox": [
+            229.61,
+            721.25,
+            296.44,
+            783.42
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {
+        "img1_5": 1
+      }
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)",
+          "bbox": [
+            28.35,
+            39.54,
+            123.11,
+            50.54
+          ],
+          "block_id": "b2_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Contents\nPage",
+          "bbox": [
+            28.35,
+            113.1,
+            360.0,
+            136.95
+          ],
+          "block_id": "b2_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1\nScope ..............................................................................................   1",
+          "bbox": [
+            28.35,
+            149.17,
+            358.33,
+            159.17
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2\nNormative reference .......................................................................   1",
+          "bbox": [
+            28.35,
+            171.38,
+            358.33,
+            181.38
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3\nDefinitions\n.................................................................................   1",
+          "bbox": [
+            28.35,
+            193.59,
+            358.33,
+            203.59
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4\nPreparation, review, acceptance and revision of the quality plan\n2",
+          "bbox": [
+            28.35,
+            215.8,
+            358.33,
+            225.8
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1\nPreparation\n..............................................................................   2",
+          "bbox": [
+            28.35,
+            238.01,
+            358.33,
+            248.01
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.2\nReview and acceptance\n.........................................................   3",
+          "bbox": [
+            28.35,
+            260.22,
+            358.33,
+            270.22
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.3\nRevision\n..................................................................................   3",
+          "bbox": [
+            28.35,
+            282.43,
+            358.33,
+            292.43
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5\nContents of the quality plan\n......................................................   3",
+          "bbox": [
+            28.35,
+            304.64,
+            358.33,
+            314.64
+          ],
+          "block_id": "b2_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.1\nManagement responsibilities\n.................................................   4",
+          "bbox": [
+            28.35,
+            326.85,
+            358.33,
+            336.85
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2\nQuality plan and quality system\n.............................................   4",
+          "bbox": [
+            28.35,
+            349.06,
+            358.33,
+            359.06
+          ],
+          "block_id": "b2_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.3\nContract review\n......................................................................   4",
+          "bbox": [
+            28.35,
+            371.27,
+            358.33,
+            381.27
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.4\nDesign control\n........................................................................   4",
+          "bbox": [
+            28.35,
+            393.48,
+            358.33,
+            403.48
+          ],
+          "block_id": "b2_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.5\nDocument and data control\n....................................................   4",
+          "bbox": [
+            28.35,
+            415.69,
+            358.33,
+            425.69
+          ],
+          "block_id": "b2_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.6\nPurchasing\n..............................................................................   4",
+          "bbox": [
+            28.35,
+            437.9,
+            358.33,
+            447.9
+          ],
+          "block_id": "b2_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.7\nControl of customer-supplied product\n....................................   4",
+          "bbox": [
+            28.35,
+            460.11,
+            358.33,
+            470.11
+          ],
+          "block_id": "b2_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.8\nProduct identification and traceability\n.....................................   5",
+          "bbox": [
+            28.35,
+            482.32,
+            358.33,
+            492.32
+          ],
+          "block_id": "b2_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.9\nProcess control\n.......................................................................   5",
+          "bbox": [
+            28.35,
+            504.53,
+            358.33,
+            514.53
+          ],
+          "block_id": "b2_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.10\nInspection and testing\n..........................................................   5",
+          "bbox": [
+            28.35,
+            526.74,
+            358.33,
+            536.74
+          ],
+          "block_id": "b2_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.11\nControl of inspection, measuring and test equipment\n.........   5",
+          "bbox": [
+            28.35,
+            548.95,
+            358.33,
+            558.95
+          ],
+          "block_id": "b2_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.12\nInspection and test status\n....................................................   5",
+          "bbox": [
+            28.35,
+            571.16,
+            358.33,
+            581.16
+          ],
+          "block_id": "b2_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.13\nControl of nonconforming product\n.......................................   6",
+          "bbox": [
+            28.35,
+            593.37,
+            358.33,
+            603.37
+          ],
+          "block_id": "b2_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.14\nCorrective and preventive action\n..........................................   6",
+          "bbox": [
+            28.35,
+            615.58,
+            358.33,
+            625.58
+          ],
+          "block_id": "b2_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.15\nHandling, storage, packaging, preservation and delivery\n.....   6",
+          "bbox": [
+            28.35,
+            637.79,
+            358.33,
+            647.79
+          ],
+          "block_id": "b2_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.16\nControl of quality records\n.....................................................   6",
+          "bbox": [
+            28.35,
+            660.0,
+            358.33,
+            670.0
+          ],
+          "block_id": "b2_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.17\nQuality audits\n........................................................................   6",
+          "bbox": [
+            28.35,
+            682.21,
+            358.33,
+            692.21
+          ],
+          "block_id": "b2_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\n1995\nAll rights reserved. Unless otherwise specified, no part of this publication may be reproduced\nor utilized in any form or by any means, electronic or mechanical, including photocopying and\nmicrofilm, without permission in writing from the publisher.\nInternational Organization for Standardization\nCase Postale 56 \u2022 CH-1211 Gen\u00e8ve 20 \u2022 Switzerland\nPrinted in Switzerland",
+          "bbox": [
+            28.35,
+            711.47,
+            360.03,
+            778.83
+          ],
+          "block_id": "b2_27",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ii",
+          "bbox": [
+            28.35,
+            808.61,
+            32.79,
+            818.61
+          ],
+          "block_id": "b2_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            235.28,
+            39.01,
+            566.93,
+            50.54
+          ],
+          "block_id": "b3_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.18\nTraining\n.................................................................................   6",
+          "bbox": [
+            235.28,
+            104.85,
+            565.26,
+            114.85
+          ],
+          "block_id": "b3_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.19\nServicing\n...............................................................................   6",
+          "bbox": [
+            235.28,
+            126.85,
+            565.26,
+            136.85
+          ],
+          "block_id": "b3_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.20\nStatistical techniques\n............................................................   7",
+          "bbox": [
+            235.28,
+            148.85,
+            565.26,
+            158.85
+          ],
+          "block_id": "b3_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Annexes",
+          "bbox": [
+            235.28,
+            175.85,
+            276.4,
+            185.85
+          ],
+          "block_id": "b3_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A\nSimplified examples of formats for the presentation of quality\nplans\n.........................................................................................\n8",
+          "bbox": [
+            235.28,
+            197.85,
+            565.26,
+            218.85
+          ],
+          "block_id": "b3_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "B\nBibliography\n............................................................................   15",
+          "bbox": [
+            235.28,
+            230.85,
+            565.26,
+            240.85
+          ],
+          "block_id": "b3_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "iii",
+          "bbox": [
+            560.27,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b3_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            39.01,
+            359.99,
+            50.54
+          ],
+          "block_id": "b4_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Foreword",
+          "bbox": [
+            28.35,
+            215.1,
+            92.91,
+            229.1
+          ],
+          "block_id": "b4_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ISO (the International Organization for Standardization) is a worldwide\nfederation of national standards bodies (ISO member bodies). The work\nof preparing International Standards is normally carried out through ISO\ntechnical committees. Each member body interested in a subject for\nwhich a technical committee has been established has the right to be\nrepresented on that committee. International organizations, governmental\nand non-governmental, in liaison with ISO, also take part in the work. ISO\ncollaborates closely with the International Electrotechnical Commission\n(IEC) on all matters of electrotechnical standardization.",
+          "bbox": [
+            28.35,
+            243.25,
+            360.04,
+            341.25
+          ],
+          "block_id": "b4_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Draft International Standards adopted by the technical committees are\ncirculated to the member bodies for voting. Publication as an International\nStandard requires approval by at least 75 % of the member bodies casting\na vote.",
+          "bbox": [
+            28.35,
+            350.5,
+            360.0,
+            393.5
+          ],
+          "block_id": "b4_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "International Standard ISO 10005 was prepared by Technical Committee\nISO/TC 176, Quality management and quality assurance, Subcommittee\nSC 2, Quality systems.",
+          "bbox": [
+            28.34,
+            402.75,
+            360.0,
+            434.75
+          ],
+          "block_id": "b4_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Annexes A and B of this International Standard are for information only.",
+          "bbox": [
+            28.35,
+            444.0,
+            350.6,
+            454.0
+          ],
+          "block_id": "b4_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "iv",
+          "bbox": [
+            28.35,
+            808.61,
+            35.57,
+            818.61
+          ],
+          "block_id": "b4_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            235.28,
+            39.01,
+            566.93,
+            50.54
+          ],
+          "block_id": "b5_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Introduction",
+          "bbox": [
+            235.28,
+            215.1,
+            317.72,
+            229.1
+          ],
+          "block_id": "b5_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This International Standard was prepared to address the need for a\nmechanism to relate generic requirements on quality system elements to\nthe specific requirements of a particular product, project or contract.\nIts provisions should be considered advisory and not requirements.",
+          "bbox": [
+            235.28,
+            243.25,
+            566.97,
+            286.25
+          ],
+          "block_id": "b5_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A quality plan may be used within an organization to ensure that specific\nrequirements for quality are being appropriately planned and addressed for\nidentified products during production. A quality plan may be used to indi-\ncate the specific application of a quality system to a given development\nproject, whether for a marketable product or for an in-house facility.\nA quality plan may also be used by the supplier in a contractual situation\nto demonstrate to the customer how the specific requirements for quality\nof a particular contract will be met. In many cases, it may be beneficial to\nobtain customer input to the development of the quality plan.",
+          "bbox": [
+            235.28,
+            295.5,
+            566.96,
+            393.5
+          ],
+          "block_id": "b5_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The quality plan should be compatible with other plans that may be pre-\npared.",
+          "bbox": [
+            235.28,
+            402.75,
+            566.89,
+            423.75
+          ],
+          "block_id": "b5_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "v",
+          "bbox": [
+            561.93,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b5_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            39.01,
+            359.99,
+            50.54
+          ],
+          "block_id": "b6_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "vi",
+          "bbox": [
+            28.34,
+            808.61,
+            35.56,
+            818.61
+          ],
+          "block_id": "b6_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "INTERNATIONAL STANDARD  \uf6d9 ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            45.66,
+            566.91,
+            57.19
+          ],
+          "block_id": "b7_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Quality management \u2014 Guidelines for quality plans",
+          "bbox": [
+            56.69,
+            185.32,
+            506.75,
+            203.32
+          ],
+          "block_id": "b7_1",
+          "font_size": 18.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "for compliance with requirements. A quality plan may\nalso be used where a documented quality system\ndoes not exist, in which case procedures may need\nto be developed to support the quality plan.",
+          "bbox": [
+            325.98,
+            260.41,
+            566.93,
+            306.71
+          ],
+          "block_id": "b7_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1 Scope",
+          "bbox": [
+            56.69,
+            261.26,
+            110.71,
+            273.26
+          ],
+          "block_id": "b7_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1.1\nThis International Standard provides guidelines\nto assist suppliers in the preparation, review, accept-\nance and revision of quality plans.",
+          "bbox": [
+            56.69,
+            288.36,
+            297.63,
+            323.35
+          ],
+          "block_id": "b7_3",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE 1\nAnnex B contains a bibliography of International\nStandards which provide information that may prove helpful\nto those involved in the preparation and review of quality\nplans.",
+          "bbox": [
+            325.98,
+            319.4,
+            566.94,
+            361.07
+          ],
+          "block_id": "b7_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "It is intended for use in two situations:",
+          "bbox": [
+            56.69,
+            334.53,
+            231.14,
+            344.53
+          ],
+          "block_id": "b7_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nas guidance to a supplier organization in meeting\nthe requirements of ISO 9001, ISO 9002 or\nISO 9003 relative to the preparation of a quality\nplan; or",
+          "bbox": [
+            56.69,
+            357.63,
+            297.65,
+            403.93
+          ],
+          "block_id": "b7_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2 Normative reference",
+          "bbox": [
+            325.98,
+            394.32,
+            462.69,
+            406.32
+          ],
+          "block_id": "b7_13",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nas guidance to a supplier organization in preparing\na quality plan when the supplier does not have\nsuch a quality system.",
+          "bbox": [
+            56.69,
+            417.03,
+            297.66,
+            451.23
+          ],
+          "block_id": "b7_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The following standard contains provisions which,\nthrough reference in this text, constitute provisions\nof this International Standard. At the time of publi-\ncation, the edition indicated was valid. All standards\nare subject to revision, and parties to agreements\nbased on this International Standard are encouraged\nto investigate the possibility of applying the most re-\ncent edition of the standard indicated below. Mem-\nbers of IEC and ISO maintain registers of currently\nvalid International Standards.",
+          "bbox": [
+            325.98,
+            419.16,
+            566.94,
+            538.06
+          ],
+          "block_id": "b7_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "In both situations, the quality plan is supplemental to\nthe supplier's generic quality system documentation\nand should not duplicate the generic documentation.\nFor convenience in situations of type b), this Inter-\nnational Standard includes features that are covered\nin the generic requirements of ISO 9001, ISO 9002\nand ISO 9003.",
+          "bbox": [
+            56.69,
+            462.41,
+            297.64,
+            545.01
+          ],
+          "block_id": "b7_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "ISO 8402:1994, Quality management and quality as-\nsurance \u2014 Vocabulary.",
+          "bbox": [
+            325.98,
+            551.16,
+            568.44,
+            573.26
+          ],
+          "block_id": "b7_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Quality plans provide a mechanism to tie specific re-\nquirements of the product, project or contract to ex-\nisting generic quality system procedures. They do not\nrequire the development of a comprehensive set of\nprocedures or instructions over and above those al-\nready existing, although some additional documented\nprocedures may be necessary.",
+          "bbox": [
+            56.69,
+            556.19,
+            297.65,
+            638.79
+          ],
+          "block_id": "b7_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3 Definitions",
+          "bbox": [
+            325.98,
+            606.31,
+            406.66,
+            618.31
+          ],
+          "block_id": "b7_16",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "For the purposes of this International Standard, the\ndefinitions given in ISO 8402, together with the fol-\nlowing definitions, apply. Terms which are repeated\nhere for clarity but have been defined in other Inter-\nnational Standards are identified by the placement of\nthe number of the standard after the term being de-\nfined.",
+          "bbox": [
+            325.98,
+            631.15,
+            566.95,
+            713.75
+          ],
+          "block_id": "b7_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1.2\nThis International Standard is applicable where\na quality plan is to be used for a particular product,\nproject or contract. A quality plan may be applicable\nto any product of the generic product categories\n(hardware, software, processed materials and ser-\nvices) or industry/economic sectors.",
+          "bbox": [
+            56.69,
+            654.3,
+            297.64,
+            725.58
+          ],
+          "block_id": "b7_9",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.1\ncontract:  Agreed requirements between a sup-\nplier and customer transmitted by any means.",
+          "bbox": [
+            325.98,
+            727.52,
+            566.92,
+            749.62
+          ],
+          "block_id": "b7_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A quality plan may be used to monitor and assess\nadherence to the requirements for quality, but these\nguidelines are not intended to be used as a checklist",
+          "bbox": [
+            56.69,
+            736.75,
+            297.66,
+            770.95
+          ],
+          "block_id": "b7_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 9001 ]",
+          "bbox": [
+            325.98,
+            759.84,
+            376.54,
+            770.96
+          ],
+          "block_id": "b7_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            561.36,
+            808.61,
+            566.92,
+            818.61
+          ],
+          "block_id": "b7_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b8_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.2\nproject:  Unique process consisting of a set of\ncoordinated and controlled activities with start and\nfinish dates, undertaken to achieve an objective con-\nforming to specific requirements, including the con-\nstraints of time, cost and resources.",
+          "bbox": [
+            28.35,
+            89.03,
+            269.31,
+            147.43
+          ],
+          "block_id": "b8_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.7\nquality plan:  Document setting out the specific\nquality practices, resources and sequence of activities\nrelevant to a particular product, project or contract.",
+          "bbox": [
+            297.64,
+            89.03,
+            538.58,
+            123.23
+          ],
+          "block_id": "b8_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            297.64,
+            135.91,
+            327.14,
+            144.91
+          ],
+          "block_id": "b8_21",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11\nA quality plan usually makes reference to the parts of\nthe quality manual applicable to the specific case.",
+          "bbox": [
+            297.64,
+            156.8,
+            538.59,
+            176.69
+          ],
+          "block_id": "b8_22",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            28.35,
+            160.11,
+            57.85,
+            169.11
+          ],
+          "block_id": "b8_2",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nAn individual project may form part of a larger project\nstructure.",
+          "bbox": [
+            28.35,
+            181.0,
+            269.29,
+            200.89
+          ],
+          "block_id": "b8_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12\nDepending on the scope of the plan, a qualifier may be\nused, for example, \u201cquality assurance plan\u201d, \u201cquality man-\nagement plan\u201d.",
+          "bbox": [
+            297.64,
+            188.58,
+            538.59,
+            219.36
+          ],
+          "block_id": "b8_23",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3\nIn some types of projects, the objectives are refined and\nthe project characteristics defined progressively as the pro-\nject proceeds.",
+          "bbox": [
+            28.35,
+            212.78,
+            269.31,
+            243.56
+          ],
+          "block_id": "b8_4",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            297.64,
+            224.55,
+            348.2,
+            235.67
+          ],
+          "block_id": "b8_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.8\nquality system:  Organizational structure, pro-\ncedures, processes and resources needed to imple-\nment quality management.",
+          "bbox": [
+            297.64,
+            249.02,
+            538.6,
+            283.22
+          ],
+          "block_id": "b8_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4\nThe outcome of a project may be one or several units\nof a product.",
+          "bbox": [
+            28.35,
+            255.44,
+            269.27,
+            275.33
+          ],
+          "block_id": "b8_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.3\ntype test:  Test or series of tests directed\ntowards approval of a design conducted to determine\nthat it is capable of meeting the requirements of the\nproduct specification.",
+          "bbox": [
+            28.35,
+            288.65,
+            269.3,
+            334.95
+          ],
+          "block_id": "b8_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            297.64,
+            295.9,
+            327.14,
+            304.9
+          ],
+          "block_id": "b8_26",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13\nThe quality system should be as comprehensive as\nneeded to meet the quality objectives.",
+          "bbox": [
+            297.64,
+            316.79,
+            538.59,
+            336.68
+          ],
+          "block_id": "b8_27",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.4\nwitness testing:  Testing of a product in the\npresence of the customer's representative or a third\nparty.",
+          "bbox": [
+            28.35,
+            348.05,
+            269.32,
+            382.25
+          ],
+          "block_id": "b8_7",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "14\nThe quality system of an organization is designed pri-\nmarily to satisfy the internal managerial needs of the or-\nganization. It is broader than the requirements of a particular\ncustomer who evaluates only the relevant part of the quality\nsystem.",
+          "bbox": [
+            297.64,
+            348.57,
+            538.75,
+            401.13
+          ],
+          "block_id": "b8_28",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.5\nprocedure:  Specified way to perform an activity.",
+          "bbox": [
+            28.35,
+            395.35,
+            269.29,
+            405.35
+          ],
+          "block_id": "b8_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "15\nFor contractual or mandatory quality assessment pur-\nposes, demonstration of the implementation of identified\nquality system elements may be required.",
+          "bbox": [
+            297.64,
+            413.02,
+            538.59,
+            443.8
+          ],
+          "block_id": "b8_29",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            28.35,
+            418.03,
+            57.85,
+            427.03
+          ],
+          "block_id": "b8_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nIn many cases, procedures are documented (e.g. quality\nsystem procedures).",
+          "bbox": [
+            28.35,
+            438.92,
+            269.28,
+            458.81
+          ],
+          "block_id": "b8_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            297.64,
+            454.13,
+            348.2,
+            465.25
+          ],
+          "block_id": "b8_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6\nWhen a procedure is to be documented, the term\n\u201cwritten procedure\u201d or \u201cdocumented procedure\u201d is fre-\nquently used.",
+          "bbox": [
+            28.35,
+            470.7,
+            269.3,
+            501.48
+          ],
+          "block_id": "b8_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4\nPreparation, review, acceptance\nand revision of the quality plan",
+          "bbox": [
+            297.64,
+            483.09,
+            500.36,
+            509.61
+          ],
+          "block_id": "b8_31",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7\nA written or documented procedure usually contains the\npurpose and scope of an activity; what shall be done and\nby whom; when, where and how it shall be done; what\nmaterials, equipment and documents shall be used; and\nhow it shall be controlled and recorded.",
+          "bbox": [
+            28.35,
+            513.36,
+            269.33,
+            565.92
+          ],
+          "block_id": "b8_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.1 Preparation",
+          "bbox": [
+            297.64,
+            525.98,
+            385.05,
+            536.98
+          ],
+          "block_id": "b8_32",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "When preparing a quality plan, quality activities appli-\ncable to the situation should be defined and docu-\nmented.",
+          "bbox": [
+            297.64,
+            549.93,
+            538.61,
+            584.13
+          ],
+          "block_id": "b8_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            28.35,
+            576.2,
+            78.91,
+            587.31
+          ],
+          "block_id": "b8_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Much of the generic documentation needed may be\ncontained in the supplier's quality manual and docu-\nmented procedures. This documentation may need to\nbe selected, adapted and/or supplemented. The qual-\nity plan shows how the supplier's generic docu-\nmented procedures are related to and applied to any\nnecessary additional procedures peculiar to the prod-\nuct, project or contract in order to attain specified\nquality objectives.",
+          "bbox": [
+            297.64,
+            595.37,
+            538.6,
+            702.17
+          ],
+          "block_id": "b8_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.6\nproduct:  Result of activities or processes.",
+          "bbox": [
+            28.35,
+            600.41,
+            242.25,
+            610.41
+          ],
+          "block_id": "b8_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTES",
+          "bbox": [
+            28.35,
+            623.09,
+            57.85,
+            632.09
+          ],
+          "block_id": "b8_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8\nA product may include service, hardware, processed\nmaterials, software, or a combination thereof.",
+          "bbox": [
+            28.35,
+            643.98,
+            269.3,
+            663.87
+          ],
+          "block_id": "b8_16",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9\nA product can be tangible (e.g. assemblies or processed\nmaterials) or intangible (e.g. knowledge or concepts), or a\ncombination thereof.",
+          "bbox": [
+            28.35,
+            675.76,
+            269.32,
+            706.54
+          ],
+          "block_id": "b8_17",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The quality plan should indicate, either directly or by\nreference to appropriate documented procedures or\nother documents, how the required activities are to\nbe carried out.",
+          "bbox": [
+            297.64,
+            713.41,
+            538.59,
+            759.71
+          ],
+          "block_id": "b8_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10\nA product can be either intended (e.g. offering to cus-\ntomers) or unintended (e.g. polluant or unwanted effects).",
+          "bbox": [
+            28.35,
+            718.43,
+            269.3,
+            738.32
+          ],
+          "block_id": "b8_18",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ ISO 8402 ]",
+          "bbox": [
+            28.35,
+            748.59,
+            78.91,
+            759.71
+          ],
+          "block_id": "b8_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            28.35,
+            808.61,
+            33.91,
+            818.61
+          ],
+          "block_id": "b8_36",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b9_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The format and level of detail in the plan should be\nconsistent with any agreed customer requirement,\nthe supplier's method of operation and the complexity\nof the activities to be performed. The plan should be\nas brief as possible, consistent with meeting the pro-\nvisions of this International Standard. (Simplified\nexamples of alternative presentations of quality plans\nare contained in annex A.)",
+          "bbox": [
+            56.69,
+            89.03,
+            297.85,
+            183.73
+          ],
+          "block_id": "b9_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "stages, the supplier should submit the quality plan for\neach stage to the customer prior to the start of that\nstage.",
+          "bbox": [
+            325.98,
+            89.03,
+            566.96,
+            123.23
+          ],
+          "block_id": "b9_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Procedures referenced in the plan should be made\navailable to the customer, where agreed in the con-\ntract.",
+          "bbox": [
+            325.98,
+            134.4,
+            566.95,
+            168.6
+          ],
+          "block_id": "b9_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.3 Revision",
+          "bbox": [
+            325.98,
+            184.13,
+            396.9,
+            195.13
+          ],
+          "block_id": "b9_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "A quality plan may be a stand-alone document when\na supplier does not have a documented quality sys-\ntem. A quality plan may also be included as part of\nanother document or documents (e.g. product or pro-\nject plan), depending on such things as customer re-\nquirements or the business practices of a specific\nsupplier. It may be necessary to develop a quality plan\nthat consists of a number of parts, each of which re-\npresents a plan for a distinct stage, such as for de-\nsign, purchasing, production, or inspection and test,\nor for particular activities such as the dependability\nplan.",
+          "bbox": [
+            56.69,
+            195.03,
+            297.67,
+            338.13
+          ],
+          "block_id": "b9_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The supplier should revise the plan, when appropriate,\nto reflect changes that have been made to the prod-\nuct, project or contract, changes to the manner in\nwhich the product is produced or the service is pro-\nvided, or changes in quality assurance practices.",
+          "bbox": [
+            325.98,
+            208.01,
+            567.16,
+            266.41
+          ],
+          "block_id": "b9_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Changes to the quality plan should be reviewed for\nimpact and adequacy by the same authorized group\nwhich conducted the review of the original quality\nplan.",
+          "bbox": [
+            325.98,
+            277.59,
+            566.92,
+            323.89
+          ],
+          "block_id": "b9_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Subject to the specific requirements of a contract,\nproposed changes to the plan should be submitted to\nthe customer for review and acceptance before they\nare implemented.",
+          "bbox": [
+            325.98,
+            335.07,
+            566.94,
+            381.37
+          ],
+          "block_id": "b9_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "NOTE 16\nWhen drafting a textural quality plan, the fol-\nlowing conventions may be used:",
+          "bbox": [
+            56.69,
+            350.8,
+            297.66,
+            370.69
+          ],
+          "block_id": "b9_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 \u201cshall\u201d to express a provision that is binding between\ntwo or more parties;",
+          "bbox": [
+            56.69,
+            383.58,
+            297.64,
+            403.47
+          ],
+          "block_id": "b9_4",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nContents of the quality plan",
+          "bbox": [
+            325.98,
+            409.41,
+            506.67,
+            421.41
+          ],
+          "block_id": "b9_19",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 \u201cwill\u201d to express a declaration of purpose or intent by\none party;",
+          "bbox": [
+            56.69,
+            416.36,
+            297.68,
+            436.25
+          ],
+          "block_id": "b9_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)  Structure",
+          "bbox": [
+            325.98,
+            434.08,
+            388.49,
+            444.08
+          ],
+          "block_id": "b9_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 \u201cshould\u201d to express a recommendation among other\npossibilities;",
+          "bbox": [
+            56.69,
+            449.14,
+            297.66,
+            469.03
+          ],
+          "block_id": "b9_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The contents of the quality plan should be based on\nthis International Standard and the supplier's docu-\nmented quality system. It is not essential that the\nquality plan follow the structure and numbering of any\nISO 9000 standards and the alignment of the para-\ngraphs in this International Standard is only intended\nto ease use and understanding.",
+          "bbox": [
+            325.98,
+            457.18,
+            566.96,
+            539.78
+          ],
+          "block_id": "b9_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 \u201cmay\u201d to indicate a course of action permissible within\nthe limits of the quality plan.",
+          "bbox": [
+            56.69,
+            481.92,
+            297.65,
+            501.81
+          ],
+          "block_id": "b9_7",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2\nReview and acceptance",
+          "bbox": [
+            56.69,
+            519.98,
+            207.07,
+            530.98
+          ],
+          "block_id": "b9_8",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The quality plan should be reviewed for adequacy and\nformally approved by an authorized group that in-\ncludes representatives from all affected functions\nwithin the supplier's organization.",
+          "bbox": [
+            56.69,
+            543.99,
+            297.64,
+            590.29
+          ],
+          "block_id": "b9_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The elements described in the following subclauses\nshould be addressed, where relevant to the require-\nments of the product, project or contract.",
+          "bbox": [
+            325.98,
+            552.88,
+            566.94,
+            587.08
+          ],
+          "block_id": "b9_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nScope of the quality plan",
+          "bbox": [
+            325.98,
+            600.18,
+            464.6,
+            610.18
+          ],
+          "block_id": "b9_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "In contractual situations, a quality plan may be sub-\nmitted to the customer by the supplier for review and\nacceptance, either as part of the precontract award-\nbidding process or after the contract has been\nawarded.",
+          "bbox": [
+            56.69,
+            601.59,
+            297.66,
+            659.99
+          ],
+          "block_id": "b9_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The scope of the quality plan should be defined and\nshould include, but not be limited to:",
+          "bbox": [
+            325.98,
+            623.28,
+            566.95,
+            645.38
+          ],
+          "block_id": "b9_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the product or project to which it is to be ap-\nplied;",
+          "bbox": [
+            343.48,
+            658.48,
+            566.96,
+            680.58
+          ],
+          "block_id": "b9_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "If the plan is submitted as part of the bidding process\nand a contract is subsequently awarded, the plan\nshould be reviewed and, where appropriate, revised\nto reflect any changes in requirements that may have\noccurred as a result of precontract negotiations.",
+          "bbox": [
+            56.69,
+            671.29,
+            297.66,
+            729.69
+          ],
+          "block_id": "b9_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the scope of the contract to which it is to be\napplied;",
+          "bbox": [
+            343.48,
+            693.68,
+            566.9,
+            715.78
+          ],
+          "block_id": "b9_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the product, project and or contract quality\nobjectives (these quality objectives should be\nexpressed in measurable terms wherever\npossible);",
+          "bbox": [
+            343.48,
+            728.88,
+            566.93,
+            775.18
+          ],
+          "block_id": "b9_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "When a quality plan is required by a contract, it should\nnormally be submitted prior to the start of the re-\nquired activities. Where the contract is conducted in",
+          "bbox": [
+            56.69,
+            740.99,
+            297.66,
+            775.19
+          ],
+          "block_id": "b9_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            561.37,
+            808.6,
+            566.93,
+            818.6
+          ],
+          "block_id": "b9_28",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 10,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b10_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "\u2014 specific exclusions;",
+          "bbox": [
+            45.85,
+            89.03,
+            147.53,
+            99.03
+          ],
+          "block_id": "b10_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe arrangements for the review, verification and\nvalidation of design output conformity to design\ninput requirements;",
+          "bbox": [
+            297.64,
+            89.03,
+            538.57,
+            123.23
+          ],
+          "block_id": "b10_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 the conditions of its validity.",
+          "bbox": [
+            45.85,
+            112.13,
+            186.96,
+            122.13
+          ],
+          "block_id": "b10_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nwhere applicable, the extent to which the cus-\ntomer is to be involved in design activities, such\nas participation in design reviews and design\nverification.",
+          "bbox": [
+            297.64,
+            136.33,
+            538.61,
+            182.63
+          ],
+          "block_id": "b10_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.1 Management responsibilities",
+          "bbox": [
+            28.35,
+            145.53,
+            207.44,
+            156.53
+          ],
+          "block_id": "b10_3",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should identify individuals within the sup-\nplier's organization who are responsible for:",
+          "bbox": [
+            28.35,
+            169.82,
+            269.26,
+            191.92
+          ],
+          "block_id": "b10_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should reference applicable codes, stan-\ndards, specifications and regulatory requirements, as\nappropriate.",
+          "bbox": [
+            297.64,
+            193.86,
+            538.59,
+            228.06
+          ],
+          "block_id": "b10_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nensuring that the activities required by the speci-\nfied quality system or contract are planned, im-\nplemented and controlled and their progress\nmonitored;",
+          "bbox": [
+            28.35,
+            205.02,
+            269.3,
+            251.32
+          ],
+          "block_id": "b10_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.5\nDocument and data control",
+          "bbox": [
+            297.64,
+            244.75,
+            469.37,
+            255.75
+          ],
+          "block_id": "b10_21",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\ncommunicating requirements peculiar to the\nspecific product, project or contract to all affected\ndepartments, subcontractors and customers, and\nresolving problems that arise at the interfaces\nbetween such groups;",
+          "bbox": [
+            28.35,
+            264.42,
+            269.31,
+            322.82
+          ],
+          "block_id": "b10_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan shoud indicate:",
+          "bbox": [
+            297.64,
+            268.69,
+            407.12,
+            278.69
+          ],
+          "block_id": "b10_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nthe documents and data applicable to the product,\nproject or contract;",
+          "bbox": [
+            297.64,
+            291.79,
+            538.56,
+            313.89
+          ],
+          "block_id": "b10_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nhow such documents and data will be identified;",
+          "bbox": [
+            297.64,
+            326.99,
+            534.06,
+            336.99
+          ],
+          "block_id": "b10_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nreviewing the results of any audits conducted;",
+          "bbox": [
+            28.35,
+            335.92,
+            254.21,
+            345.92
+          ],
+          "block_id": "b10_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nhow, and from whom, access to such documents\nand data can be obtained;",
+          "bbox": [
+            297.64,
+            350.09,
+            538.57,
+            372.19
+          ],
+          "block_id": "b10_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nauthorizing requests for exemption from quality\nsystem elements;",
+          "bbox": [
+            28.35,
+            359.02,
+            269.3,
+            381.12
+          ],
+          "block_id": "b10_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nhow, and by whom, such documents and data are\nreviewed and approved.",
+          "bbox": [
+            297.64,
+            385.29,
+            538.57,
+            407.39
+          ],
+          "block_id": "b10_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\ncontrolling corrective actions (see 5.14).",
+          "bbox": [
+            28.35,
+            394.22,
+            224.77,
+            404.22
+          ],
+          "block_id": "b10_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.6 Purchasing",
+          "bbox": [
+            297.64,
+            424.08,
+            381.99,
+            435.08
+          ],
+          "block_id": "b10_27",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.2\nQuality plan and quality system",
+          "bbox": [
+            28.35,
+            427.62,
+            223.33,
+            438.62
+          ],
+          "block_id": "b10_10",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate:",
+          "bbox": [
+            297.64,
+            448.03,
+            409.34,
+            458.03
+          ],
+          "block_id": "b10_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Much of the necessary quality plan documentation\nwill normally exist as part of the quality system docu-\nmentation. The quality plan need only refer to this\ndocumentation and show how it is to be applied to\nthe specific situation in question. Where an element\nof such documentation does not already exist but is\nrequired, the quality plan should identify it and also\nidentify when, how and by whom it will be prepared\nand approved.",
+          "bbox": [
+            28.35,
+            451.91,
+            269.31,
+            558.71
+          ],
+          "block_id": "b10_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nany important products that are to be purchased,\nfrom whom, and the relevant quality assurance\nrequirements;",
+          "bbox": [
+            297.64,
+            471.13,
+            538.6,
+            505.33
+          ],
+          "block_id": "b10_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe methods to be used to evaluate, select and\ncontrol subcontractors;",
+          "bbox": [
+            297.64,
+            518.43,
+            538.59,
+            540.53
+          ],
+          "block_id": "b10_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nrequirements for, and reference to, subcontractor\nquality plans, where appropriate;",
+          "bbox": [
+            297.64,
+            553.63,
+            538.6,
+            575.73
+          ],
+          "block_id": "b10_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.3 Contract review",
+          "bbox": [
+            28.35,
+            582.12,
+            138.99,
+            593.12
+          ],
+          "block_id": "b10_12",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "d)\nthe methods to be used to satisfy regulatory re-\nquirements which apply to purchased products.",
+          "bbox": [
+            297.64,
+            588.83,
+            538.55,
+            610.93
+          ],
+          "block_id": "b10_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate when, how and by whom the\nrequirements specified for the product, project or\ncontract are to be reviewed.",
+          "bbox": [
+            28.35,
+            606.4,
+            269.5,
+            640.6
+          ],
+          "block_id": "b10_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.7\nControl of customer-supplied product",
+          "bbox": [
+            297.64,
+            627.61,
+            523.14,
+            638.61
+          ],
+          "block_id": "b10_33",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate:",
+          "bbox": [
+            297.64,
+            651.56,
+            409.34,
+            661.56
+          ],
+          "block_id": "b10_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should also indicate how the results of this\nreview are to be recorded and how conflicts or ambi-\nguities in requirements are to be resolved.",
+          "bbox": [
+            28.35,
+            652.17,
+            269.33,
+            686.37
+          ],
+          "block_id": "b10_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nhow products provided by the customer (such as\nmaterial, tooling, test equipment, software, data\nor services) are identified and controlled;",
+          "bbox": [
+            297.64,
+            674.66,
+            538.6,
+            708.86
+          ],
+          "block_id": "b10_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.4 Design control",
+          "bbox": [
+            28.35,
+            709.78,
+            131.64,
+            720.78
+          ],
+          "block_id": "b10_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe methods to be used to verify that customer-\nsupplied products meet specified requirements;",
+          "bbox": [
+            297.64,
+            721.96,
+            538.59,
+            744.06
+          ],
+          "block_id": "b10_36",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate:",
+          "bbox": [
+            28.35,
+            734.06,
+            140.05,
+            744.06
+          ],
+          "block_id": "b10_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nwhen, how and by whom the design process is\nto be carried out, controlled and documented;",
+          "bbox": [
+            28.35,
+            757.16,
+            269.29,
+            779.26
+          ],
+          "block_id": "b10_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nthe methods to be used to deal with noncon-\nforming products.",
+          "bbox": [
+            297.64,
+            757.16,
+            538.59,
+            779.26
+          ],
+          "block_id": "b10_37",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            28.35,
+            808.61,
+            33.91,
+            818.61
+          ],
+          "block_id": "b10_38",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 11,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b11_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nwhere each inspection and test point is located in\nthe process sequence;",
+          "bbox": [
+            325.98,
+            89.03,
+            566.91,
+            111.13
+          ],
+          "block_id": "b11_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.8\nProduct identification and traceability",
+          "bbox": [
+            56.69,
+            89.34,
+            282.23,
+            100.34
+          ],
+          "block_id": "b11_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Where traceability is a requirement, the plan should\ndefine its scope and extent, including how affected\nproducts are to be identified. Identification methods\nshould also be considered when traceability is not re-\nquired.",
+          "bbox": [
+            56.69,
+            113.94,
+            297.64,
+            172.34
+          ],
+          "block_id": "b11_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nwhat characteristics are to be inspected and\ntested at each point, the procedures and accept-\nance criteria to be used, and any special tools,\ntechniques or personnel qualifications required;",
+          "bbox": [
+            325.98,
+            124.23,
+            566.95,
+            170.53
+          ],
+          "block_id": "b11_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\nwhere the customer has established points for\nwitness or verification of selected characteristics\nof a product or its production and installation pro-\ncesses;",
+          "bbox": [
+            325.98,
+            183.63,
+            566.92,
+            229.93
+          ],
+          "block_id": "b11_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate:",
+          "bbox": [
+            56.69,
+            184.23,
+            168.39,
+            194.23
+          ],
+          "block_id": "b11_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nhow contractual and regulatory traceability re-\nquirements are identified and incorporated into\nworking documents;",
+          "bbox": [
+            56.69,
+            207.33,
+            297.64,
+            241.53
+          ],
+          "block_id": "b11_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)\nwhere inspections or tests are required to be\nwitnessed or performed by regulatory authorities;",
+          "bbox": [
+            325.98,
+            243.03,
+            566.92,
+            265.13
+          ],
+          "block_id": "b11_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nwhat records relating to such traceability require-\nments are to be generated and how they are to\nbe controlled and distributed.",
+          "bbox": [
+            56.69,
+            254.63,
+            297.61,
+            288.83
+          ],
+          "block_id": "b11_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "g)\nwhere, when and how the supplier intends, or is\nrequired by the customer or regulatory authorities,\nto use third parties to perform:",
+          "bbox": [
+            325.98,
+            278.23,
+            566.93,
+            312.43
+          ],
+          "block_id": "b11_24",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.9 Process control",
+          "bbox": [
+            56.69,
+            318.6,
+            164.26,
+            329.6
+          ],
+          "block_id": "b11_6",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1) type tests;",
+          "bbox": [
+            343.48,
+            325.53,
+            408.76,
+            335.53
+          ],
+          "block_id": "b11_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate how the production, instal-\nlation and servicing processes will be controlled to\nensure that specified requirements are met.",
+          "bbox": [
+            56.69,
+            343.21,
+            297.65,
+            377.41
+          ],
+          "block_id": "b11_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2)\nwitness testing (including on-site acceptance);",
+          "bbox": [
+            343.48,
+            348.63,
+            566.92,
+            358.63
+          ],
+          "block_id": "b11_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3) product verification;",
+          "bbox": [
+            343.48,
+            371.73,
+            449.32,
+            381.73
+          ],
+          "block_id": "b11_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Where appropriate, the plan should include or refer-\nence but should not be limited to:",
+          "bbox": [
+            56.69,
+            389.3,
+            297.63,
+            411.4
+          ],
+          "block_id": "b11_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4) product validation;",
+          "bbox": [
+            343.48,
+            394.83,
+            442.66,
+            404.83
+          ],
+          "block_id": "b11_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5)\nmaterial, product, process or personnel certi-\nfication.",
+          "bbox": [
+            343.48,
+            417.93,
+            566.92,
+            440.03
+          ],
+          "block_id": "b11_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nrelevant documented procedures;",
+          "bbox": [
+            56.69,
+            424.5,
+            225.35,
+            434.5
+          ],
+          "block_id": "b11_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nthe process steps;",
+          "bbox": [
+            56.69,
+            447.6,
+            157.54,
+            457.6
+          ],
+          "block_id": "b11_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.11\nControl of inspection, measuring\nand test equipment",
+          "bbox": [
+            325.98,
+            467.84,
+            531.95,
+            492.15
+          ],
+          "block_id": "b11_30",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nmethods to be used to monitor and control pro-\ncesses and product characteristics;",
+          "bbox": [
+            56.69,
+            470.7,
+            297.63,
+            492.8
+          ],
+          "block_id": "b11_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate the control system to be\nused for inspection, measuring and test equipment\nspecifically intended for use for the product, project\nor contract, including:",
+          "bbox": [
+            325.98,
+            505.65,
+            566.95,
+            551.95
+          ],
+          "block_id": "b11_31",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nacceptability criteria for workmanship;",
+          "bbox": [
+            56.69,
+            505.9,
+            244.18,
+            515.9
+          ],
+          "block_id": "b11_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\nuse of qualified processes, associated equipment\nand personnel;",
+          "bbox": [
+            56.69,
+            529.0,
+            297.61,
+            551.1
+          ],
+          "block_id": "b11_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)\ntools, techniques and methods to be used to\nachieve specified requirements.",
+          "bbox": [
+            56.69,
+            564.2,
+            297.6,
+            586.3
+          ],
+          "block_id": "b11_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nidentification of such equipment;",
+          "bbox": [
+            325.98,
+            565.05,
+            490.73,
+            575.05
+          ],
+          "block_id": "b11_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nmethod of calibration;",
+          "bbox": [
+            325.98,
+            588.15,
+            441.27,
+            598.15
+          ],
+          "block_id": "b11_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Where installation is a requirement, the plan should\nindicate how the product will be installed and which\ncharacteristics have to be verified at that time.",
+          "bbox": [
+            56.69,
+            598.19,
+            297.63,
+            632.39
+          ],
+          "block_id": "b11_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nmethod of indicating and recording calibration\nstatus;",
+          "bbox": [
+            325.98,
+            611.25,
+            566.91,
+            633.35
+          ],
+          "block_id": "b11_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nwhat records of usage of such equipment are to\nbe maintained so that the validity of previous re-\nsults can be determined when such equipment is\nfound to be out of calibration.",
+          "bbox": [
+            325.98,
+            646.45,
+            566.95,
+            692.75
+          ],
+          "block_id": "b11_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.10\nInspection and testing",
+          "bbox": [
+            56.69,
+            662.16,
+            207.05,
+            673.16
+          ],
+          "block_id": "b11_16",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate:",
+          "bbox": [
+            56.69,
+            686.76,
+            168.39,
+            696.76
+          ],
+          "block_id": "b11_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nany relevant inspection and test plan (the items\nbelow may all be part of an inspection and test\nplan);",
+          "bbox": [
+            56.69,
+            709.86,
+            297.67,
+            744.06
+          ],
+          "block_id": "b11_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.12\nInspection and test status",
+          "bbox": [
+            325.98,
+            720.56,
+            495.9,
+            731.56
+          ],
+          "block_id": "b11_36",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate any specific requirements\nand methods for the identification of the inspection\nand test status of products, documents and data.",
+          "bbox": [
+            325.98,
+            745.06,
+            566.94,
+            779.26
+          ],
+          "block_id": "b11_37",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nhow the supplier will verify subcontractor product\nconformance to specified requirements;",
+          "bbox": [
+            56.69,
+            757.16,
+            297.65,
+            779.26
+          ],
+          "block_id": "b11_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            561.37,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b11_38",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 12,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b12_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\nwhat the legal or regulatory requirements are and\nhow they are to be satistied;",
+          "bbox": [
+            297.64,
+            89.03,
+            538.56,
+            111.13
+          ],
+          "block_id": "b12_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.13\nControl of nonconforming product",
+          "bbox": [
+            28.35,
+            89.34,
+            242.83,
+            100.34
+          ],
+          "block_id": "b12_1",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate how nonconforming products\nare identified and controlled to prevent misuse until\nproper disposal.",
+          "bbox": [
+            28.35,
+            113.78,
+            269.56,
+            147.98
+          ],
+          "block_id": "b12_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nwhat form the records will take (such as hard\ncopy or electronic media);",
+          "bbox": [
+            297.64,
+            124.23,
+            538.61,
+            146.33
+          ],
+          "block_id": "b12_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nhow legibility, storage, retrievability, disposition\nand confidentiality requirements will be defined\nand satisfied;",
+          "bbox": [
+            297.64,
+            159.43,
+            538.6,
+            193.63
+          ],
+          "block_id": "b12_20",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Quality plans may need to define specific limitations,\nsuch as the degree or type of rework allowed.",
+          "bbox": [
+            28.35,
+            159.7,
+            269.29,
+            181.8
+          ],
+          "block_id": "b12_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should address how and under what cir-\ncumstances the supplier would request a concession\nfor a product which does not meet specified require-\nments. In doing so, the plan should indicate:",
+          "bbox": [
+            28.35,
+            193.53,
+            269.3,
+            239.83
+          ],
+          "block_id": "b12_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\nwhat methods will be used to ensure that records\nare available when required;",
+          "bbox": [
+            297.64,
+            206.73,
+            538.55,
+            228.83
+          ],
+          "block_id": "b12_21",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "f)\nwhat records are to be supplied to the customer,\nwhen and by what means;",
+          "bbox": [
+            297.64,
+            241.93,
+            538.59,
+            264.03
+          ],
+          "block_id": "b12_22",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nwho would have the responsibility to request such\nconcessions;",
+          "bbox": [
+            28.35,
+            252.93,
+            269.32,
+            275.03
+          ],
+          "block_id": "b12_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "g)\nin what language the records will be provided.",
+          "bbox": [
+            297.64,
+            277.13,
+            523.5,
+            287.13
+          ],
+          "block_id": "b12_23",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nhow such a request would be made;",
+          "bbox": [
+            28.35,
+            288.13,
+            211.44,
+            298.13
+          ],
+          "block_id": "b12_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.17 Quality audits",
+          "bbox": [
+            297.64,
+            308.11,
+            404.01,
+            319.11
+          ],
+          "block_id": "b12_24",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nwhat information is to be provided and in what\nform;",
+          "bbox": [
+            28.35,
+            311.23,
+            269.29,
+            333.33
+          ],
+          "block_id": "b12_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate the nature and extent of\nquality audits to be undertaken and how the results\nare to be used to correct and prevent recurrence of\nnonconformities which affect the product, project or\ncontract.",
+          "bbox": [
+            297.64,
+            332.27,
+            538.62,
+            390.67
+          ],
+          "block_id": "b12_25",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nwho has been identified as having the responsi-\nbility and authoritiy to accept or reject such con-\ncessions.",
+          "bbox": [
+            28.35,
+            346.43,
+            269.32,
+            380.63
+          ],
+          "block_id": "b12_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Such audits may include:",
+          "bbox": [
+            297.64,
+            402.12,
+            409.88,
+            412.12
+          ],
+          "block_id": "b12_26",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.14\nCorrective and preventive action",
+          "bbox": [
+            28.35,
+            407.16,
+            233.13,
+            418.16
+          ],
+          "block_id": "b12_9",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\ninternal audits by the supplier;",
+          "bbox": [
+            297.64,
+            425.22,
+            450.71,
+            435.22
+          ],
+          "block_id": "b12_27",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The quality plan shoud indicate the preventive and\ncorrective actions and follow-up activities that are\nspecific to the product, project or contract in order to\navoid the appearance or repetition of nonconformities.\nThose responsible for initiation and approval of cor-\nrective and preventive action should be identified.",
+          "bbox": [
+            28.35,
+            431.6,
+            269.51,
+            502.1
+          ],
+          "block_id": "b12_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\ncustomer audits of the supplier;",
+          "bbox": [
+            297.64,
+            448.32,
+            458.49,
+            458.32
+          ],
+          "block_id": "b12_28",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c)\nsupplier/customer audits of subcontractors;",
+          "bbox": [
+            297.64,
+            471.42,
+            509.61,
+            481.42
+          ],
+          "block_id": "b12_29",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\nthird-party or regulatory authority audits of the\nsupplier and subcontractors, including those car-\nried out for quality system certification/regis-\ntration purposes.",
+          "bbox": [
+            297.64,
+            494.52,
+            538.6,
+            540.82
+          ],
+          "block_id": "b12_30",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.15\nHandling, storage, packaging,\npreservation and delivery",
+          "bbox": [
+            28.35,
+            528.64,
+            217.83,
+            552.95
+          ],
+          "block_id": "b12_11",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5.18 Training",
+          "bbox": [
+            297.64,
+            561.8,
+            373.44,
+            572.8
+          ],
+          "block_id": "b12_31",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate:",
+          "bbox": [
+            28.35,
+            566.39,
+            140.05,
+            576.39
+          ],
+          "block_id": "b12_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should address any specific training required\nfor personnel carrying out a process that is a subject\nof the plan, and how such training is to be ac-\ncomplished and recorded.",
+          "bbox": [
+            297.64,
+            585.96,
+            538.58,
+            632.26
+          ],
+          "block_id": "b12_32",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nhow the specified requirements for handling,\nstorage, packaging and delivery are to be met;",
+          "bbox": [
+            28.35,
+            589.49,
+            269.31,
+            611.59
+          ],
+          "block_id": "b12_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nhow the product will be delivered to the specified\nsite in a manner that will ensure that its required\ncharacteristics are not degraded.",
+          "bbox": [
+            28.35,
+            624.69,
+            269.28,
+            658.89
+          ],
+          "block_id": "b12_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This should include:",
+          "bbox": [
+            297.64,
+            643.71,
+            386.56,
+            653.71
+          ],
+          "block_id": "b12_33",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\ntraining of new personnel;",
+          "bbox": [
+            297.64,
+            666.81,
+            432.94,
+            676.81
+          ],
+          "block_id": "b12_34",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.16\nControl of quality records",
+          "bbox": [
+            28.35,
+            685.42,
+            196.43,
+            696.42
+          ],
+          "block_id": "b12_15",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "b)\ntraining of existing personnel in new or revised\noperating methods.",
+          "bbox": [
+            297.64,
+            689.91,
+            538.59,
+            712.01
+          ],
+          "block_id": "b12_35",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The plan should indicate how records specific to the\nproduct, project or contract are to be controlled, in-\ncluding:",
+          "bbox": [
+            28.35,
+            709.86,
+            269.3,
+            744.06
+          ],
+          "block_id": "b12_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.19 Servicing",
+          "bbox": [
+            297.64,
+            733.0,
+            378.95,
+            744.0
+          ],
+          "block_id": "b12_36",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "a)\nwhat records are to be kept, for how long, where\nand by whom;",
+          "bbox": [
+            28.35,
+            757.16,
+            269.29,
+            779.26
+          ],
+          "block_id": "b12_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Where servicing is a specified requirement, the plan\nshould indicate how the supplier intends to assure",
+          "bbox": [
+            297.64,
+            757.16,
+            538.55,
+            779.26
+          ],
+          "block_id": "b12_37",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            28.35,
+            808.61,
+            33.91,
+            818.61
+          ],
+          "block_id": "b12_38",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 13,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b13_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "conformance to applicable servicing requirements,\nsuch as:",
+          "bbox": [
+            56.69,
+            89.03,
+            297.64,
+            111.13
+          ],
+          "block_id": "b13_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "d)\ntraining of customer personnel;",
+          "bbox": [
+            325.98,
+            89.03,
+            484.06,
+            99.03
+          ],
+          "block_id": "b13_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "e)\navailability of initial and on-going technical support\nduring the agreed time period.",
+          "bbox": [
+            325.98,
+            112.13,
+            566.92,
+            134.23
+          ],
+          "block_id": "b13_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a)\nregulatory and legislative requirements;",
+          "bbox": [
+            56.69,
+            124.23,
+            250.88,
+            134.23
+          ],
+          "block_id": "b13_2",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b)\nindustry codes and practices;",
+          "bbox": [
+            56.69,
+            147.33,
+            205.32,
+            157.33
+          ],
+          "block_id": "b13_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5.20 Statistical techniques",
+          "bbox": [
+            325.98,
+            149.75,
+            472.09,
+            160.75
+          ],
+          "block_id": "b13_7",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "c)\nservice level agreements;",
+          "bbox": [
+            56.69,
+            170.43,
+            189.21,
+            180.43
+          ],
+          "block_id": "b13_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Where specific statistical techniques are required,\nthey should be indicated in the plan.",
+          "bbox": [
+            325.98,
+            172.54,
+            566.94,
+            194.64
+          ],
+          "block_id": "b13_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            561.37,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b13_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 14,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b14_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Annex A\n(informative)",
+          "bbox": [
+            244.46,
+            121.82,
+            322.24,
+            152.76
+          ],
+          "block_id": "b14_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Simplified examples of formats for the presentation of quality plans",
+          "bbox": [
+            53.88,
+            170.69,
+            512.78,
+            184.69
+          ],
+          "block_id": "b14_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "This annex provides examples of some of the ways\nin which quality plans may be presented. (See figures\nA.1 to A.4 and table A.1.)",
+          "bbox": [
+            28.35,
+            206.95,
+            269.32,
+            241.15
+          ],
+          "block_id": "b14_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Presentation of quality plans can be in any form\ndeemed suitable for meeting the agreed require-\nments. Even though the examples shown are in the\nform of flow diagrams, other forms better suited to a\nspecific situation may be used. A textual presentation\nrather than a diagrammatic one may be more appro-\npriate in certain circumstances. Similarly, a diagram-\nmatic form may be supplemented with text.",
+          "bbox": [
+            297.64,
+            206.95,
+            538.62,
+            301.65
+          ],
+          "block_id": "b14_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The examples shown should not be taken as being\ncomplete as regards the quality plan content defined\nin clause 5 of this International Standard. Actual\nquality plans may be more complex. It would normally\nbe expected that all of the elements would be cov-\nered, unless under some exceptional circumstance\nthey do not apply to the case under review.",
+          "bbox": [
+            28.35,
+            252.32,
+            269.32,
+            334.92
+          ],
+          "block_id": "b14_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            28.35,
+            808.61,
+            33.91,
+            818.61
+          ],
+          "block_id": "b14_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 15,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b15_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "NOTE \u2014 The service quality plan should also contain written descriptions and/or references to procedures or\nother documents for activities not shown on the flowchart, such as:",
+          "bbox": [
+            90.71,
+            539.53,
+            532.26,
+            559.42
+          ],
+          "block_id": "b15_2",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 document control,",
+          "bbox": [
+            90.71,
+            565.3,
+            197.23,
+            574.3
+          ],
+          "block_id": "b15_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 product traceability,",
+          "bbox": [
+            90.71,
+            580.19,
+            202.71,
+            589.19
+          ],
+          "block_id": "b15_4",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 third-party involvement,",
+          "bbox": [
+            90.71,
+            595.08,
+            218.72,
+            604.08
+          ],
+          "block_id": "b15_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 nonconformance,",
+          "bbox": [
+            90.71,
+            609.96,
+            193.74,
+            618.96
+          ],
+          "block_id": "b15_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 quality audits,",
+          "bbox": [
+            90.71,
+            624.85,
+            179.21,
+            633.85
+          ],
+          "block_id": "b15_7",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 quality records,",
+          "bbox": [
+            90.71,
+            639.73,
+            185.22,
+            648.73
+          ],
+          "block_id": "b15_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "\u2014 management responsibilities.",
+          "bbox": [
+            90.71,
+            654.62,
+            241.74,
+            663.62
+          ],
+          "block_id": "b15_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Figure A.1 \u2014 Example of a format for a quality plan for services",
+          "bbox": [
+            155.4,
+            693.95,
+            468.2,
+            703.95
+          ],
+          "block_id": "b15_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9",
+          "bbox": [
+            561.37,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b15_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 16,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b16_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10",
+          "bbox": [
+            28.35,
+            808.61,
+            39.47,
+            818.61
+          ],
+          "block_id": "b16_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 17,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b17_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Figure A.2 \u2014 Example of a format for a quality plan for manufactured product",
+          "bbox": [
+            120.96,
+            749.11,
+            502.63,
+            759.11
+          ],
+          "block_id": "b17_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11",
+          "bbox": [
+            555.81,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b17_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 18,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b18_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Procedure\nnumber",
+          "bbox": [
+            113.46,
+            122.3,
+            131.14,
+            160.97
+          ],
+          "block_id": "b18_2",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IT - 6",
+          "bbox": [
+            430.31,
+            132.32,
+            447.99,
+            150.95
+          ],
+          "block_id": "b18_3",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Inspection",
+          "bbox": [
+            81.72,
+            150.2,
+            89.72,
+            189.76
+          ],
+          "block_id": "b18_5",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Parameters",
+          "bbox": [
+            118.3,
+            176.05,
+            126.3,
+            219.61
+          ],
+          "block_id": "b18_6",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Storage",
+          "bbox": [
+            517.67,
+            183.5,
+            525.67,
+            211.06
+          ],
+          "block_id": "b18_4",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Length",
+          "bbox": [
+            430.31,
+            185.38,
+            447.99,
+            210.29
+          ],
+          "block_id": "b18_7",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Verification,\ninstruction",
+          "bbox": [
+            113.46,
+            230.97,
+            131.14,
+            277.2
+          ],
+          "block_id": "b18_8",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "VI - 29",
+          "bbox": [
+            161.85,
+            242.75,
+            169.85,
+            266.31
+          ],
+          "block_id": "b18_9",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Responsible\nfunction",
+          "bbox": [
+            113.46,
+            287.66,
+            131.14,
+            333.89
+          ],
+          "block_id": "b18_10",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Workstation",
+          "bbox": [
+            161.85,
+            289.66,
+            169.85,
+            332.77
+          ],
+          "block_id": "b18_11",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "D",
+          "bbox": [
+            314.09,
+            308.33,
+            331.77,
+            315.22
+          ],
+          "block_id": "b18_15",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A",
+          "bbox": [
+            178.03,
+            308.54,
+            195.71,
+            315.22
+          ],
+          "block_id": "b18_12",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "B",
+          "bbox": [
+            223.38,
+            308.54,
+            241.06,
+            315.22
+          ],
+          "block_id": "b18_13",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "C",
+          "bbox": [
+            268.74,
+            308.54,
+            286.42,
+            315.22
+          ],
+          "block_id": "b18_14",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Process control",
+          "bbox": [
+            81.72,
+            312.84,
+            89.72,
+            371.95
+          ],
+          "block_id": "b18_21",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Inspection and testing",
+          "bbox": [
+            517.67,
+            339.36,
+            525.67,
+            418.93
+          ],
+          "block_id": "b18_20",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Control chart\nRef. No. 1",
+          "bbox": [
+            314.09,
+            347.63,
+            341.45,
+            393.86
+          ],
+          "block_id": "b18_19",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Check sheet\nRef. No. 1",
+          "bbox": [
+            178.03,
+            348.3,
+            205.39,
+            393.18
+          ],
+          "block_id": "b18_17",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Check sheet\nRef. No. 2",
+          "bbox": [
+            223.38,
+            348.3,
+            250.74,
+            393.2
+          ],
+          "block_id": "b18_18",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Control\nmethod",
+          "bbox": [
+            113.46,
+            355.86,
+            131.14,
+            385.63
+          ],
+          "block_id": "b18_16",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Instruction\nfor process\ncontrol\nnumber",
+          "bbox": [
+            103.78,
+            408.94,
+            140.82,
+            451.6
+          ],
+          "block_id": "b18_22",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "IPC - 22",
+          "bbox": [
+            161.85,
+            415.83,
+            169.85,
+            444.72
+          ],
+          "block_id": "b18_23",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Measure length",
+          "bbox": [
+            314.09,
+            464.41,
+            331.77,
+            520.87
+          ],
+          "block_id": "b18_28",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Quality\ncharacteristic\nto be\ncontrolled\n(process\ncondition to be\nchecked)",
+          "bbox": [
+            81.72,
+            465.74,
+            147.8,
+            519.53
+          ],
+          "block_id": "b18_24",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Temperature,\npressure",
+          "bbox": [
+            223.38,
+            468.63,
+            250.74,
+            516.64
+          ],
+          "block_id": "b18_26",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Temperature",
+          "bbox": [
+            178.03,
+            469.74,
+            195.71,
+            515.53
+          ],
+          "block_id": "b18_25",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Length",
+          "bbox": [
+            268.74,
+            480.18,
+            286.42,
+            505.08
+          ],
+          "block_id": "b18_27",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Yield",
+          "bbox": [
+            430.31,
+            483.96,
+            447.99,
+            501.3
+          ],
+          "block_id": "b18_29",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Work\ninstruction\nnumber",
+          "bbox": [
+            101.08,
+            534.33,
+            128.44,
+            575.67
+          ],
+          "block_id": "b18_30",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "WI - 123",
+          "bbox": [
+            178.03,
+            539.46,
+            195.71,
+            570.53
+          ],
+          "block_id": "b18_31",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "WI - 321",
+          "bbox": [
+            223.38,
+            539.46,
+            241.06,
+            570.53
+          ],
+          "block_id": "b18_32",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manufacturing",
+          "bbox": [
+            517.67,
+            575.25,
+            525.67,
+            626.81
+          ],
+          "block_id": "b18_33",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Preheating",
+          "bbox": [
+            178.03,
+            592.57,
+            195.71,
+            630.8
+          ],
+          "block_id": "b18_35",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Process\nstage",
+          "bbox": [
+            105.92,
+            597.02,
+            123.6,
+            626.36
+          ],
+          "block_id": "b18_34",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Forming",
+          "bbox": [
+            223.38,
+            597.02,
+            241.06,
+            626.36
+          ],
+          "block_id": "b18_36",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Cutting",
+          "bbox": [
+            268.74,
+            598.79,
+            286.42,
+            624.58
+          ],
+          "block_id": "b18_37",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1)\nSymbols are as follows:",
+          "bbox": [
+            481.38,
+            630.3,
+            489.38,
+            730.74
+          ],
+          "block_id": "b18_43",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Process\nflow\nchart  1)",
+          "bbox": [
+            101.08,
+            653.71,
+            128.44,
+            683.05
+          ],
+          "block_id": "b18_38",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Part A",
+          "bbox": [
+            194.97,
+            705.48,
+            212.65,
+            727.67
+          ],
+          "block_id": "b18_42",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Part",
+          "bbox": [
+            110.76,
+            708.79,
+            118.76,
+            724.35
+          ],
+          "block_id": "b18_40",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Figure A.3 \u2014 Example of a format of a quality plan for a processed material",
+          "bbox": [
+            98.16,
+            752.73,
+            468.73,
+            762.73
+          ],
+          "block_id": "b18_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "12",
+          "bbox": [
+            28.35,
+            808.61,
+            39.47,
+            818.61
+          ],
+          "block_id": "b18_44",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 842.0,
+        "height": 594.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 19,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b19_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Figure A.4 \u2014 Simplified example of a software life cycle",
+          "bbox": [
+            176.78,
+            659.97,
+            446.81,
+            669.97
+          ],
+          "block_id": "b19_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13",
+          "bbox": [
+            555.81,
+            808.6,
+            566.93,
+            818.6
+          ],
+          "block_id": "b19_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 20,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b20_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Table A.1 \u2014 Software quality plan \u2014 Activity reference  (see figure A.4)",
+          "bbox": [
+            111.48,
+            251.16,
+            455.43,
+            261.16
+          ],
+          "block_id": "b20_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Ref.\nActivity description\nProcedure\nComment\nAssigned to\nApproval\nauthority",
+          "bbox": [
+            37.22,
+            271.71,
+            521.11,
+            291.6
+          ],
+          "block_id": "b20_2",
+          "font_size": 9.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1\nContract review\nQM 5.2\nContract M & P 1091\nAMM",
+          "bbox": [
+            42.97,
+            302.36,
+            439.65,
+            312.36
+          ],
+          "block_id": "b20_3",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2\nReview plans\nPMM 5.4\nGT",
+          "bbox": [
+            42.97,
+            318.25,
+            433.9,
+            327.25
+          ],
+          "block_id": "b20_4",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3\nRequirements review\nQM 5.3\nProduce Doc. RS001\nSME",
+          "bbox": [
+            42.97,
+            333.14,
+            437.9,
+            342.14
+          ],
+          "block_id": "b20_5",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4\nDesign\nPMM 5.6\nProduce Doc. DS001\nUT",
+          "bbox": [
+            42.97,
+            348.03,
+            433.9,
+            357.03
+          ],
+          "block_id": "b20_6",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5\nDesign review\nQM 5.6\nUse expert review\nSME",
+          "bbox": [
+            42.97,
+            362.92,
+            437.9,
+            371.92
+          ],
+          "block_id": "b20_7",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6\nSoftware implementation\nSDM 5.6\nUse C+ +",
+          "bbox": [
+            42.97,
+            377.81,
+            309.29,
+            386.81
+          ],
+          "block_id": "b20_8",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7\nCode review\nQM 5.7\nUse Fagan inspection",
+          "bbox": [
+            42.97,
+            392.7,
+            356.43,
+            401.7
+          ],
+          "block_id": "b20_9",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8\nUnit tests\nSDM 5.7",
+          "bbox": [
+            42.97,
+            407.59,
+            249.21,
+            416.59
+          ],
+          "block_id": "b20_10",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9\nSystem integration\nSDM 5.7",
+          "bbox": [
+            42.97,
+            422.48,
+            249.21,
+            431.48
+          ],
+          "block_id": "b20_11",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10\nSystem test\nQM 5.7\nUse customer data",
+          "bbox": [
+            40.47,
+            437.37,
+            346.41,
+            446.37
+          ],
+          "block_id": "b20_12",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11\nClear nonconformances\nQM 5.7",
+          "bbox": [
+            40.47,
+            452.26,
+            244.22,
+            461.26
+          ],
+          "block_id": "b20_13",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12\nUser acceptance tests\nQM 5.8\nClient witnessing only",
+          "bbox": [
+            40.47,
+            467.15,
+            358.42,
+            476.15
+          ],
+          "block_id": "b20_14",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "13\nTechnical transfer\nPMM 5.9",
+          "bbox": [
+            40.47,
+            482.04,
+            251.21,
+            491.04
+          ],
+          "block_id": "b20_15",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "14",
+          "bbox": [
+            28.35,
+            808.61,
+            39.47,
+            818.61
+          ],
+          "block_id": "b20_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 21,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "\uf6d9  ISO\nISO 10005:1995(E)",
+          "bbox": [
+            56.69,
+            34.19,
+            566.93,
+            45.72
+          ],
+          "block_id": "b21_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Annex B\n(informative)",
+          "bbox": [
+            272.8,
+            121.82,
+            350.58,
+            152.76
+          ],
+          "block_id": "b21_1",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Bibliography",
+          "bbox": [
+            269.29,
+            170.69,
+            354.08,
+            184.69
+          ],
+          "block_id": "b21_2",
+          "font_size": 14.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "[ 1 ]  ISO 9000-1:1994, Quality management and\nquality assurance standards \u2014 Part 1: Guide-\nlines for selection and use.",
+          "bbox": [
+            62.81,
+            205.83,
+            299.18,
+            241.15
+          ],
+          "block_id": "b21_3",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 9 ]  ISO 9004-2:1991, Quality management and\nquality system elements \u2014 Part 2: Guidelines\nfor services.",
+          "bbox": [
+            332.11,
+            205.83,
+            568.46,
+            241.15
+          ],
+          "block_id": "b21_11",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 2 ]  ISO 9000-2:1993, Quality management and\nquality assurance standards \u2014 Part 2: Generic\nguidelines for the application of ISO 9001, ISO\n9002 and ISO 9003.",
+          "bbox": [
+            62.82,
+            253.13,
+            299.18,
+            300.55
+          ],
+          "block_id": "b21_4",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 10 ]  ISO 9004-3:1993, Quality management and\nquality system elements \u2014 Part 3: Guidelines\nfor processed materials.",
+          "bbox": [
+            326.54,
+            253.13,
+            568.46,
+            288.45
+          ],
+          "block_id": "b21_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 11 ]  ISO 10007:1995,\nQuality\nmanagement\n\u2014\nGuidelines for configuration management.",
+          "bbox": [
+            326.54,
+            300.43,
+            568.45,
+            323.65
+          ],
+          "block_id": "b21_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 3 ]  ISO 9000-3:1991, Quality management and\nquality assurance standards \u2014 Part 3: Guide-\nlines for the application of ISO 9001 to the de-\nvelopment,\nsupply\nand maintenance\nof\nsoftware.",
+          "bbox": [
+            62.82,
+            312.53,
+            299.18,
+            372.05
+          ],
+          "block_id": "b21_5",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 12 ]  ISO 10011-1:1990, Guidelines for auditing qual-\nity systems \u2014 Part 1: Auditing.",
+          "bbox": [
+            326.54,
+            335.63,
+            568.45,
+            358.85
+          ],
+          "block_id": "b21_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 13 ]  ISO 10011-2:1991, Guidelines for auditing qual-\nity systems \u2014 Part 2: Qualification criteria for\nquality systems auditors.",
+          "bbox": [
+            326.55,
+            370.83,
+            568.45,
+            406.15
+          ],
+          "block_id": "b21_15",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 4 ]  ISO 9000-4:1993, Quality management and\nquality assurance standards \u2014 Part 4: Guide to\ndependability programme management.",
+          "bbox": [
+            62.81,
+            384.03,
+            299.15,
+            419.35
+          ],
+          "block_id": "b21_6",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 14 ]  ISO 10011-3:1991, Guidelines for auditing qual-\nity systems \u2014 Part 3: Management of audit\nprogrammes.",
+          "bbox": [
+            326.54,
+            418.13,
+            568.46,
+            453.45
+          ],
+          "block_id": "b21_16",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 5 ]  ISO 9001:1994, Quality systems \u2014 Model for\nquality assurance in design, development, pro-\nduction, installation and servicing.",
+          "bbox": [
+            62.81,
+            431.33,
+            299.18,
+            466.65
+          ],
+          "block_id": "b21_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 15 ]  ISO 10012-1:1992, Quality assurance require-\nments for measuring equipment \u2014 Part 1:\nMetrological confirmation system for measuring\nequipment.",
+          "bbox": [
+            326.54,
+            465.43,
+            568.48,
+            512.85
+          ],
+          "block_id": "b21_17",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 6 ]  ISO 9002:1994, Quality systems \u2014 Model for\nquality assurance in production, installation and\nservicing.",
+          "bbox": [
+            62.81,
+            478.63,
+            299.18,
+            513.95
+          ],
+          "block_id": "b21_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 16 ]  ISO 10013:1995,\nGuidelines\nfor\ndeveloping\nquality manuals.",
+          "bbox": [
+            326.54,
+            524.83,
+            568.46,
+            548.05
+          ],
+          "block_id": "b21_18",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 7 ]  ISO 9003:1994, Quality systems \u2014 Model for\nquality assurance in final inspection and test.",
+          "bbox": [
+            62.81,
+            525.93,
+            299.18,
+            549.15
+          ],
+          "block_id": "b21_9",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 17 ]  IEC 300-2:\u2014 1) , Dependability programme man-\nagement \u2014 Part 2: Dependability programme\nelements and tasks.",
+          "bbox": [
+            326.54,
+            560.03,
+            568.48,
+            595.35
+          ],
+          "block_id": "b21_19",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "[ 8 ]  ISO 9004-1:1994, Quality management and\nquality system elements \u2014 Part 1: Guidelines.",
+          "bbox": [
+            62.81,
+            561.13,
+            299.15,
+            584.35
+          ],
+          "block_id": "b21_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1)  To be published.",
+          "bbox": [
+            56.69,
+            770.05,
+            138.73,
+            779.05
+          ],
+          "block_id": "b21_20",
+          "font_size": 9.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "15",
+          "bbox": [
+            555.81,
+            808.61,
+            566.93,
+            818.61
+          ],
+          "block_id": "b21_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 22,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ISO 10005:1995(E)\n\uf6d9 ISO",
+          "bbox": [
+            28.35,
+            34.19,
+            538.58,
+            45.72
+          ],
+          "block_id": "b22_0",
+          "font_size": 11.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "ICS 03.120.10",
+          "bbox": [
+            28.35,
+            731.13,
+            105.06,
+            743.13
+          ],
+          "block_id": "b22_1",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Descriptors:   quality management,  quality assurance,  quality assurance systems,  components,  general conditions.",
+          "bbox": [
+            28.35,
+            752.66,
+            457.75,
+            760.66
+          ],
+          "block_id": "b22_2",
+          "font_size": 8.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Price based on 15 pages",
+          "bbox": [
+            28.35,
+            772.48,
+            117.26,
+            780.48
+          ],
+          "block_id": "b22_3",
+          "font_size": 8.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 594.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "table_18_1",
+      "page": 18,
+      "rows": 4,
+      "columns": 11,
+      "has_header": true,
+      "data": [
+        [
+          "Part",
+          "Process\nflow\nchart 1)",
+          "Process\nstage",
+          "Work\ninstruction\nnumber",
+          "Quality\ncharacteristic\nto be\ncontrolled\n(process\ncondition to be\nchecked)",
+          "Process control",
+          "",
+          "",
+          "",
+          "Inspection",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Instruction\nfor process\ncontrol\nnumber",
+          "Control\nmethod",
+          "Responsible\nfunction",
+          "Verification,\ninstruction",
+          "Parameters",
+          "Procedure\nnumber"
+        ],
+        [
+          "Part A",
+          "",
+          "Preheating\nForming\nCutting",
+          "WI - 123\nWI - 321",
+          "Temperature\nTemperature,\npressure\nLength\nMeasure length\nYield",
+          "IPC - 22",
+          "Check sheet\nRef. No. 1\nCheck sheet\nRef. No.2\nControl chart\nRef. No.1",
+          "Workstation\nA\nB\nC\nD",
+          "VI - 29",
+          "Length",
+          "IT - 6"
+        ],
+        [
+          "1) Symbols are as follows:\nManufacturing Inspection and testing Storage",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Part                                         | Process    | Process    | Work          | Quality           | Process control   |               |             |               | Inspection   |           |\n|                                              | flow       | stage      | instruction   | characteristic    |                   |               |             |               |              |           |\n|                                              | chart 1)   |            | number        | to be             |                   |               |             |               |              |           |\n|                                              |            |            |               | controlled        |                   |               |             |               |              |           |\n|                                              |            |            |               | (process          |                   |               |             |               |              |           |\n|                                              |            |            |               | condition to be   |                   |               |             |               |              |           |\n|                                              |            |            |               | checked)          |                   |               |             |               |              |           |\n|:---------------------------------------------|:-----------|:-----------|:--------------|:------------------|:------------------|:--------------|:------------|:--------------|:-------------|:----------|\n|                                              |            |            |               |                   | Instruction       | Control       | Responsible | Verification, | Parameters   | Procedure |\n|                                              |            |            |               |                   | for process       | method        | function    | instruction   |              | number    |\n|                                              |            |            |               |                   | control           |               |             |               |              |           |\n|                                              |            |            |               |                   | number            |               |             |               |              |           |\n| Part A                                       |            | Preheating | WI - 123      | Temperature       | IPC - 22          | Check sheet   | Workstation | VI - 29       | Length       | IT - 6    |\n|                                              |            | Forming    | WI - 321      | Temperature,      |                   | Ref. No. 1    | A           |               |              |           |\n|                                              |            | Cutting    |               | pressure          |                   | Check sheet   | B           |               |              |           |\n|                                              |            |            |               | Length            |                   | Ref. No.2     | C           |               |              |           |\n|                                              |            |            |               | Measure length    |                   | Control chart | D           |               |              |           |\n|                                              |            |            |               | Yield             |                   | Ref. No.1     |             |               |              |           |\n| 1) Symbols are as follows:                   |            |            |               |                   |                   |               |             |               |              |           |\n| Manufacturing Inspection and testing Storage |            |            |               |                   |                   |               |             |               |              |           |"
+    },
+    {
+      "table_id": "table_20_1",
+      "page": 20,
+      "rows": 2,
+      "columns": 6,
+      "has_header": true,
+      "data": [
+        [
+          "Ref.",
+          "Activity description",
+          "Procedure",
+          "Comment",
+          "Assigned to",
+          "Approval\nauthority"
+        ],
+        [
+          "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13",
+          "Contract review\nReview plans\nRequirements review\nDesign\nDesign review\nSoftware implementation\nCode review\nUnit tests\nSystem integration\nSystem test\nClear nonconformances\nUser acceptance tests\nTechnical transfer",
+          "QM5.2\nPMM5.4\nQM5.3\nPMM5.6\nQM5.6\nSDM5.6\nQM5.7\nSDM5.7\nSDM5.7\nQM5.7\nQM5.7\nQM5.8\nPMM5.9",
+          "Contract M&P 1091\nProduce Doc. RS001\nProduce Doc. DS001\nUse expert review\nUse C+ +\nUse Fagan inspection\nUse customer data\nClient witnessing only",
+          "AMM\nGT\nSME\nUT\nSME",
+          ""
+        ]
+      ],
+      "markdown": "| Ref.   | Activity description    | Procedure   | Comment                | Assigned to   | Approval    |\n|        |                         |             |                        |               | authority   |\n|:-------|:------------------------|:------------|:-----------------------|:--------------|:------------|\n| 1      | Contract review         | QM5.2       | Contract M&P 1091      | AMM           |             |\n| 2      | Review plans            | PMM5.4      | Produce Doc. RS001     | GT            |             |\n| 3      | Requirements review     | QM5.3       | Produce Doc. DS001     | SME           |             |\n| 4      | Design                  | PMM5.6      | Use expert review      | UT            |             |\n| 5      | Design review           | QM5.6       | Use C+ +               | SME           |             |\n| 6      | Software implementation | SDM5.6      | Use Fagan inspection   |               |             |\n| 7      | Code review             | QM5.7       | Use customer data      |               |             |\n| 8      | Unit tests              | SDM5.7      | Client witnessing only |               |             |\n| 9      | System integration      | SDM5.7      |                        |               |             |\n| 10     | System test             | QM5.7       |                        |               |             |\n| 11     | Clear nonconformances   | QM5.7       |                        |               |             |\n| 12     | User acceptance tests   | QM5.8       |                        |               |             |\n| 13     | Technical transfer      | PMM5.9      |                        |               |             |"
+    }
+  ],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 1,
+      "path": "pdf_images/p1_i1.png",
+      "text": "\u2014\u2014\n1so\nSRS \u2014",
+      "position": {
+        "x0": 229.61,
+        "y0": 721.25,
+        "x1": 296.44,
+        "y1": 783.42,
+        "width": 66.83,
+        "height": 62.16
+      },
+      "size": {
+        "width": 315,
+        "height": 293
+      },
+      "format": "png"
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 18) - 1984\n(Reaffirmed 2002)\nEdition 2.1\n(1999-12)\nUDC 628.1/.3 : 543.3 : 543.813",
+          "bbox": [
+            71.2,
+            32.61,
+            552.12,
+            83.85
+          ],
+          "block_id": "b1_2",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Indian Standard",
+          "bbox": [
+            264.52,
+            96.57,
+            358.82,
+            108.57
+          ],
+          "block_id": "b1_4",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "METHODS OF SAMPLING AND TEST (PHYSICAL AND\nCHEMICAL) FOR WATER AND WASTE WATER",
+          "bbox": [
+            122.08,
+            116.25,
+            505.29,
+            146.13
+          ],
+          "block_id": "b1_5",
+          "font_size": 13.9,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "PART 18\nVOLATILE AND FIXED RESIDUE (TOTAL, FILTERABLE\nAND NON-FILTERABLE)",
+          "bbox": [
+            135.4,
+            155.85,
+            488.04,
+            176.85
+          ],
+          "block_id": "b1_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Water Sectional Committee, CDC 26 and Panel for Methods of Test for Water and Effluents, CDC 26 : Pl [Ref : Doc : CDC 26 : (8850)]",
+          "bbox": [
+            56.43,
+            167.52,
+            64.35,
+            660.0
+          ],
+          "block_id": "b1_3",
+          "font_size": 7.9,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "( First Revision )",
+          "bbox": [
+            265.72,
+            184.65,
+            357.72,
+            196.65
+          ],
+          "block_id": "b1_7",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "(Incorporating Amendment No. 1)",
+          "bbox": [
+            233.44,
+            207.75,
+            390.03,
+            217.71
+          ],
+          "block_id": "b1_8",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "1. Scope  \u2014 Prescribes a gravimetric method for the determination of volatile and fixed portions of\ntotal, filterable and non-filterable residues. The method is applicable to all types of water and waste\nwater.",
+          "bbox": [
+            79.24,
+            232.83,
+            544.23,
+            264.75
+          ],
+          "block_id": "b1_9",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2. Terminology",
+          "bbox": [
+            79.24,
+            271.89,
+            156.86,
+            281.85
+          ],
+          "block_id": "b1_10",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2.1  Total Fixed Residue  \u2014 The dish with residue after completion of test for total residue is heated in\na muffle furnace at 550\u00b0C for 1 hour. Total fixed and volatile residue are calculated from loss in mass,\non ignition.",
+          "bbox": [
+            79.24,
+            289.23,
+            544.1,
+            321.27
+          ],
+          "block_id": "b1_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.2  Filterable Fixed Residue  \u2014 The dish with residue after completion of test for filterable residue is\nheated in a muffle furnace at 550\u00b0C for 1 hour. Filterable fixed and volatile residue are calculated\nfrom loss of mass, on ignition.",
+          "bbox": [
+            79.24,
+            328.23,
+            544.25,
+            360.27
+          ],
+          "block_id": "b1_12",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2.3  Non-filterable Fixed Residue  \u2014 The filter with residue after completion of test for non-filterable\nresidue is heated in a muffle furnace at 550\u00b0C for 1 hour. Non-filterable fixed and volatile residue are\ncalculated from loss in mass after ignition.",
+          "bbox": [
+            79.24,
+            367.23,
+            544.25,
+            399.27
+          ],
+          "block_id": "b1_13",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3. Limitations",
+          "bbox": [
+            79.24,
+            406.41,
+            151.18,
+            416.37
+          ],
+          "block_id": "b1_14",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.1  The test is subject to many errors due to loss of water of crystallization, loss of volatile matter\nprior to combustion, incomplete oxidation of certain complex organics and decomposition of mineral\nsalts during combustion.",
+          "bbox": [
+            79.24,
+            423.75,
+            544.18,
+            455.79
+          ],
+          "block_id": "b1_15",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3.2  The results should not be considered as accurate measure of organic carbon in the sample.",
+          "bbox": [
+            79.24,
+            462.75,
+            512.74,
+            472.77
+          ],
+          "block_id": "b1_16",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3.3  An important source of error in the determination is failure to obtain a representative sample.",
+          "bbox": [
+            79.24,
+            479.79,
+            531.43,
+            489.81
+          ],
+          "block_id": "b1_17",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4. Apparatus",
+          "bbox": [
+            79.24,
+            496.89,
+            145.07,
+            506.85
+          ],
+          "block_id": "b1_18",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.1  Evaporating Dish  \u2014 90 mm, 100 ml capacity made of platinum, porcelain, silica or borosilicate\nglass. Platinum is suitable for all tests; porcelain, silica and glass may be used for samples with a\np H value less than 9.0.",
+          "bbox": [
+            79.24,
+            514.35,
+            544.14,
+            546.52
+          ],
+          "block_id": "b1_19",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4.2  Steam-Bath",
+          "bbox": [
+            79.24,
+            553.4,
+            151.44,
+            563.56
+          ],
+          "block_id": "b1_20",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.3  Drying Oven \u2014  With thermostatic control for maintaining temperature up to 180 \u00b1 2\u00b0C.",
+          "bbox": [
+            79.24,
+            570.27,
+            501.9,
+            580.48
+          ],
+          "block_id": "b1_21",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.4  Desiccator  \u2014 Provided with a colour indicating desiccant.",
+          "bbox": [
+            79.24,
+            587.31,
+            361.29,
+            597.52
+          ],
+          "block_id": "b1_22",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.5  Muffle Furnace  \u2014 Capable of operation at 550\u00b0C.",
+          "bbox": [
+            79.24,
+            604.35,
+            323.68,
+            614.56
+          ],
+          "block_id": "b1_23",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4.6  Analytical Balance \u2014  Of 200 g capacity and capable of weighing to nearest 0.1 mg.",
+          "bbox": [
+            79.24,
+            621.27,
+            478.11,
+            631.48
+          ],
+          "block_id": "b1_24",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5. Sample Preservation and Handling  \u2014 Preservation is not practical. Refrigeration or chilling\nto 4\u00b0C is recommended.",
+          "bbox": [
+            79.24,
+            638.31,
+            544.18,
+            659.31
+          ],
+          "block_id": "b1_25",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6. Procedure",
+          "bbox": [
+            79.24,
+            666.32,
+            145.19,
+            676.28
+          ],
+          "block_id": "b1_26",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.1  Heat the clean evaporating dish to 550\u00b0C for 1 hour. Cool, desiccate, weigh and store in desiccator\nuntil ready for use.",
+          "bbox": [
+            79.24,
+            683.79,
+            544.03,
+            704.79
+          ],
+          "block_id": "b1_27",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Adopted 25 January 1984\n\u00a9 BIS 2002\nPrice Group 1",
+          "bbox": [
+            96.4,
+            741.75,
+            515.51,
+            752.13
+          ],
+          "block_id": "b1_1",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "B U R E A U\nO F\nI N D I A N\nS T A N D A R D S\nMANAK   BHAVAN ,  9   BAHADUR   SHAH   ZAFAR   MARG\nNEW   DELHI   110002",
+          "bbox": [
+            158.92,
+            760.77,
+            468.66,
+            801.45
+          ],
+          "block_id": "b1_0",
+          "font_size": 12.4,
+          "is_bold": true,
+          "is_heading": true
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS : 3025 (Part 18) - 1984",
+          "bbox": [
+            70.72,
+            55.29,
+            217.99,
+            67.29
+          ],
+          "block_id": "b2_0",
+          "font_size": 12.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.2  Select volume of the sample which has residue between 25 and 250 mg, preferably between 100\nand 200 mg. This volume may be estimated from values of specific conductance. To obtain a\nmeasurable residue, successive aliquots of sample may be added to the sample dish.",
+          "bbox": [
+            70.72,
+            83.79,
+            524.38,
+            115.83
+          ],
+          "block_id": "b2_2",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.3  Pipette this volume in a weighed evaporating dish on steam-bath. Evaporation may also be\nperformed in a drying oven. The temperature shall be lowered to approximately 98\u00b0C to prevent\nboiling and splattering of the sample. After complete evaporation of water from the residue,\ntransfer the dish to an oven at 103-105\u00b0C or 179-181\u00b0C and dry to constant mass, that is, till the\ndifference in the successive weighings is less than 0.5 mg. Drying for a long duration (usually 1 to\n2 hours) is done to elliminate necessity of checking for constant mass. The time for drying to\nconstant mass with a given type of sample when a number of samples of nearly same type are to be\nanalysed, has to be determined by trial.",
+          "bbox": [
+            70.72,
+            120.87,
+            524.47,
+            207.75
+          ],
+          "block_id": "b2_3",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.4  Weigh the dish as soon as it has cooled avoiding residue to stay for long time as some residues\nare hygroscopic and may absorb water from desiccant that is absolutely dry.",
+          "bbox": [
+            70.72,
+            212.79,
+            524.21,
+            233.79
+          ],
+          "block_id": "b2_4",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.5  After weighing, ignite the dish in a muffle furnace at 550\u00b0C for 1 hour. After ignition, allow the\nvessel to partially cool in air and transfer to desiccator, cool and weigh.",
+          "bbox": [
+            70.72,
+            238.83,
+            524.31,
+            259.83
+          ],
+          "block_id": "b2_5",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Note  \u2014 Residues from determination of total, filterable or non-filterable solids as determined In IS : 3025\n(Part 15)-1984 \u2018Methods of sampling and test (physical and chemical) for water and waste water: Part 15 Total residue\n(total solids \u2014 dissolved and suspended)\u2019, IS : 3025 (Part 16)-1984 \u2018Method of sampling and test (physical and chemical)\nfor water and waste water: Part 16 Filterable residue (total dissolved solids)\u2019 and IS : 3025 (Part 17)-1984 \u2018Methods of\nsampling and test (physical and chemical) for water and waste water: Part 17 Non-filterable residue (total suspended\nsolids)\u2019 may also be used for the determination of volatile and fixed residue (as the case may be).\n7. Calculations \u2014  Calculate the fixed residue and volatile residue as follows (total, filterable or\nnon-filterable):",
+          "bbox": [
+            70.72,
+            264.11,
+            524.4,
+            342.75
+          ],
+          "block_id": "b2_6",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Volatile residue, mg/l\nA\nB\n\u2013\n(\n)  1 000\nV\n------------------------------------\n=",
+          "bbox": [
+            156.76,
+            343.03,
+            332.4,
+            368.09
+          ],
+          "block_id": "b2_13",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Fixed residue, mg/l\nB\nC\n\u2013\n(\n)  1 000\nV\n------------------------------------\n=",
+          "bbox": [
+            157.24,
+            374.35,
+            323.4,
+            399.41
+          ],
+          "block_id": "b2_14",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where\nA  = mass in mg of residue and dish/filter before ignition,\nB  = mass in mg of residue and dish/filter after ignition,\nC  = mass in mg of dish/filter, and\nV  = volume in ml of the sample.",
+          "bbox": [
+            99.04,
+            406.35,
+            404.7,
+            472.61
+          ],
+          "block_id": "b2_7",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8. Report \u2014  Report to the nearest whole number for values up to 100 mg/l and to three significant\nfigures for higher values. Report the temperature of determination.",
+          "bbox": [
+            70.72,
+            477.39,
+            524.35,
+            498.27
+          ],
+          "block_id": "b2_8",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "E X P L A N A T O R Y\nN O T E",
+          "bbox": [
+            204.64,
+            589.15,
+            390.41,
+            601.15
+          ],
+          "block_id": "b2_9",
+          "font_size": 12.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The volatile and fixed components in the residue may be determined igniting the sample at\n550\u00b0C. The determination is useful in the control of waste water plant operation because it offers a\nrough approximation of the amount of organic matter present in the solid fraction of waste water,\nactivated sludge, industrial wastes, or bottom sediments. Since the results may also reflect loss of\nwater of crystallization, loss of volatile organic matter before combustion, incomplete oxidation of\ncertain complex organics, and decomposition of mineral salts during combustion, it may not yield\nan accurate measure of organic carbon.",
+          "bbox": [
+            70.72,
+            606.39,
+            524.36,
+            682.35
+          ],
+          "block_id": "b2_10",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This method supersedes  9  of IS : 2488 (Part 5)-1976 \u2018Methods of sampling and test for industrial\neffluents, Part 5\u2019 and  11  of IS : 3025-1964 \u2018Methods of sampling and test (physical and chemical)\nfor water used in industry\u2019.",
+          "bbox": [
+            70.72,
+            687.39,
+            524.31,
+            719.31
+          ],
+          "block_id": "b2_11",
+          "font_size": 10.0,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "This edition 2.1 incorporates Amendment No. 1 (December 1999). Side bar indicates\nmodification of the text as the result of incorporation of the amendment.",
+          "bbox": [
+            70.72,
+            724.35,
+            524.23,
+            745.35
+          ],
+          "block_id": "b2_12",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            294.76,
+            764.19,
+            300.3,
+            774.15
+          ],
+          "block_id": "b2_1",
+          "font_size": 10.0,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "table_1_1",
+      "page": 1,
+      "rows": 3,
+      "columns": 3,
+      "has_header": true,
+      "data": [
+        [
+          "Indian Standard\nMETHODS OF SAMPLING AND TEST (PHYSICAL AND\nCHEMICAL) FOR WATER AND WASTE WATER\nPART 18 VOLATILE AND FIXED RESIDUE (TOTAL, FILTERABLE\nAND NON-FILTERABLE)\n( First Revision )\n(Incorporating Amendment No. 1)",
+          "",
+          ""
+        ],
+        [
+          "1.Scope \u2014 Prescribes a gravimetric method for the determination of volatile and fixed portions of\ntotal, filterable and non-filterable residues. The method is applicable to all types of water and waste\nwater.\n2. Terminology\n2.1Total Fixed Residue \u2014 The dish with residue after completion of test for total residue is heated in\na muffle furnace at 550\u00b0C for 1 hour. Total fixed and volatile residue are calculated from loss in mass,\non ignition.\n2.2Filterable Fixed Residue \u2014 The dish with residue after completion of test for filterable residue is\nheated in a muffle furnace at 550\u00b0C for 1 hour. Filterable fixed and volatile residue are calculated\nfrom loss of mass, on ignition.\n2.3Non-filterable Fixed Residue \u2014 The filter with residue after completion of test for non-filterable\nresidue is heated in a muffle furnace at 550\u00b0C for 1 hour. Non-filterable fixed and volatile residue are\ncalculated from loss in mass after ignition.\n3. Limitations\n3.1The test is subject to many errors due to loss of water of crystallization, loss of volatile matter\nprior to combustion, incomplete oxidation of certain complex organics and decomposition of mineral\nsalts during combustion.\n3.2The results should not be considered as accurate measure of organic carbon in the sample.\n3.3An important source of error in the determination is failure to obtain a representative sample.\n4. Apparatus\n4.1Evaporating Dish \u2014 90mm, 100ml capacity made of platinum, porcelain, silica or borosilicate\nglass. Platinum is suitable for all tests; porcelain, silica and glass may be used for samples with a\npHvalue less than 9.0.\n4.2Steam-Bath\n4.3Drying Oven \u2014 With thermostatic control for maintaining temperature up to 180 \u00b1 2\u00b0C.\n4.4Desiccator \u2014 Provided with a colour indicating desiccant.\n4.5Muffle Furnace \u2014 Capable of operation at 550\u00b0C.\n4.6Analytical Balance \u2014 Of 200g capacity and capable of weighing to nearest 0.1mg.\n5.Sample Preservation and Handling \u2014 Preservation is not practical. Refrigeration or chilling\nto 4\u00b0C is recommended.\n6. Procedure\n6.1Heat the clean evaporating dish to 550\u00b0C for 1 hour. Cool, desiccate, weigh and store in desiccator\nuntil ready for use.",
+          "",
+          ""
+        ],
+        [
+          "Adopted 25 January 1984",
+          "\u00a9 BIS 2002",
+          "Price Group 1"
+        ]
+      ],
+      "markdown": "| Indian Standard                                                                                          |            |               |\n| METHODS OF SAMPLING AND TEST (PHYSICAL AND                                                               |            |               |\n| CHEMICAL) FOR WATER AND WASTE WATER                                                                      |            |               |\n| PART 18 VOLATILE AND FIXED RESIDUE (TOTAL, FILTERABLE                                                    |            |               |\n| AND NON-FILTERABLE)                                                                                      |            |               |\n| ( First Revision )                                                                                       |            |               |\n| (Incorporating Amendment No. 1)                                                                          |            |               |\n|:---------------------------------------------------------------------------------------------------------|:-----------|:--------------|\n| 1.Scope \u2014 Prescribes a gravimetric method for the determination of volatile and fixed portions of        |            |               |\n| total, filterable and non-filterable residues. The method is applicable to all types of water and waste  |            |               |\n| water.                                                                                                   |            |               |\n| 2. Terminology                                                                                           |            |               |\n| 2.1Total Fixed Residue \u2014 The dish with residue after completion of test for total residue is heated in   |            |               |\n| a muffle furnace at 550\u00b0C for 1 hour. Total fixed and volatile residue are calculated from loss in mass, |            |               |\n| on ignition.                                                                                             |            |               |\n| 2.2Filterable Fixed Residue \u2014 The dish with residue after completion of test for filterable residue is   |            |               |\n| heated in a muffle furnace at 550\u00b0C for 1 hour. Filterable fixed and volatile residue are calculated     |            |               |\n| from loss of mass, on ignition.                                                                          |            |               |\n| 2.3Non-filterable Fixed Residue \u2014 The filter with residue after completion of test for non-filterable    |            |               |\n| residue is heated in a muffle furnace at 550\u00b0C for 1 hour. Non-filterable fixed and volatile residue are |            |               |\n| calculated from loss in mass after ignition.                                                             |            |               |\n| 3. Limitations                                                                                           |            |               |\n| 3.1The test is subject to many errors due to loss of water of crystallization, loss of volatile matter   |            |               |\n| prior to combustion, incomplete oxidation of certain complex organics and decomposition of mineral       |            |               |\n| salts during combustion.                                                                                 |            |               |\n| 3.2The results should not be considered as accurate measure of organic carbon in the sample.             |            |               |\n| 3.3An important source of error in the determination is failure to obtain a representative sample.       |            |               |\n| 4. Apparatus                                                                                             |            |               |\n| 4.1Evaporating Dish \u2014 90mm, 100ml capacity made of platinum, porcelain, silica or borosilicate           |            |               |\n| glass. Platinum is suitable for all tests; porcelain, silica and glass may be used for samples with a    |            |               |\n| pHvalue less than 9.0.                                                                                   |            |               |\n| 4.2Steam-Bath                                                                                            |            |               |\n| 4.3Drying Oven \u2014 With thermostatic control for maintaining temperature up to 180 \u00b1 2\u00b0C.                  |            |               |\n| 4.4Desiccator \u2014 Provided with a colour indicating desiccant.                                             |            |               |\n| 4.5Muffle Furnace \u2014 Capable of operation at 550\u00b0C.                                                       |            |               |\n| 4.6Analytical Balance \u2014 Of 200g capacity and capable of weighing to nearest 0.1mg.                       |            |               |\n| 5.Sample Preservation and Handling \u2014 Preservation is not practical. Refrigeration or chilling            |            |               |\n| to 4\u00b0C is recommended.                                                                                   |            |               |\n| 6. Procedure                                                                                             |            |               |\n| 6.1Heat the clean evaporating dish to 550\u00b0C for 1 hour. Cool, desiccate, weigh and store in desiccator   |            |               |\n| until ready for use.                                                                                     |            |               |\n| Adopted 25 January 1984                                                                                  | \u00a9 BIS 2002 | Price Group 1 |"
+    }
+  ],
+  "images": []
+}

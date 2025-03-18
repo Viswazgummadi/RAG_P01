@@ -1,0 +1,533 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=1>>INTERNATIONAL
+STANDARD
+ISO
+10893-12<<HEADING_END>>
+<<PARAGRAPH>>First edition
+2011-04-01<<PARAGRAPH_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 12:
+Automated full peripheral ultrasonic
+thickness testing of seamless and welded
+(except submerged arc-welded) steel
+tubes<<HEADING_END>>
+<<PARAGRAPH>>Essais non destructifs des tubes en acier —<<PARAGRAPH_END>>
+<<PARAGRAPH>>Partie 12: Contrôle automatisé de l'épaisseur par ultrasons sur toute la
+circonférence des tubes en acier sans soudure et soudés (sauf à l'arc
+immergé sous flux en poudre)<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Reference number
+ISO 10893-12:2011(E)<<PARAGRAPH_END>>
+<<PARAGRAPH>>©  ISO 2011<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Provided by IHS under lice nse with ISO                          |
+|:-----------------------------------------------------------------|
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<HEADING level=3>>PDF disclaimer<<HEADING_END>>
+<<PARAGRAPH>>This PDF file may contain embedded typefaces. In accordance with Adobe's licensing policy, this file may be printed or viewed but
+shall not be edited unless the typefaces which are embedded are licensed to and installed on the computer performing the editing. In
+downloading this file, parties accept therein the responsibility of not infringing Adobe's licensing policy. The ISO Central Secretariat
+accepts no liability in this area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Adobe is a trademark of Adobe Systems Incorporated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details of the software products used to create this PDF file can be found in the General Info relative to the file; the PDF-creation
+parameters were optimized for printing. Every care has been taken to ensure that the file is suitable for use by ISO member bodies. In
+the unlikely event that a problem relating to it is found, please inform the Central Secretariat at the address given below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<IMAGE_1>>
+[Image 1 contains text: A\]
+<<HEADING level=3>>COPYRIGHT PROTECTED DOCUMENT
+©   ISO 2011<<HEADING_END>>
+<<PARAGRAPH>>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying and microfilm, without permission in writing from either ISO at the address below or
+ISO's member body in the country of the requester.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO copyright office
+Case postale 56  •  CH-1211 Geneva 20
+Tel.  + 41 22 749 01 11
+Fax  + 41 22 749 09 47
+E-mail  copyright@iso.org
+Web  www.iso.org<<PARAGRAPH_END>>
+<<PARAGRAPH>>Published in Switzerland<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| ii                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword ............................................................................................................................................................iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope......................................................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references............................................................................................................................1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions ...........................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>4
+General requirements ...........................................................................................................................2<<HEADING_END>>
+<<HEADING level=3>>5
+Test method ...........................................................................................................................................3<<HEADING_END>>
+<<HEADING level=3>>6
+Reference tube.......................................................................................................................................3<<HEADING_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking...................................................................................................3<<HEADING_END>>
+<<HEADING level=3>>8
+Acceptance ............................................................................................................................................4<<HEADING_END>>
+<<HEADING level=3>>9
+Test report..............................................................................................................................................5<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+iii<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893-12 was prepared by Technical Committee ISO/TC 17,  Steel , Subcommittee SC 19,  Technical
+delivery conditions for steel tubes for pressure purposes .<<PARAGRAPH_END>>
+<<PARAGRAPH>>This first edition cancels and replaces ISO 10543:1993, which has been technically revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 10893 consists of the following parts, under the general title  Non-destructive testing of steel tubes :<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 1: Automated electromagnetic testing of seamless and welded (except submerged arc-welded) steel
+tubes for the verification of leaktightness<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 2: Automated eddy current testing of seamless and welded (except submerged arc-welded) steel
+tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 3: Automated full peripheral flux leakage testing of seamless and welded (except submerged
+arc-welded) ferromagnetic steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 4: Liquid penetrant inspection of seamless and welded steel tubes for the detection of surface
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 5: Magnetic particle inspection of seamless and welded ferromagnetic steel tubes for the detection of
+surface imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 6: Radiographic testing of the weld seam of welded steel tubes for the detection of imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 7: Digital radiographic testing of the weld seam of welded steel tubes for the detection of
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 8: Automated ultrasonic testing of seamless and welded steel tubes for the detection of laminar
+imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 9: Automated ultrasonic testing for the detection of laminar imperfections in strip/plate used for the
+manufacture of welded steel tubes<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 10: Automated full peripheral ultrasonic testing of seamless and welded (except submerged
+arc-welded) steel tubes for the detection of longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2011 – All rights reserved<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| iv                                                               |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>⎯   Part 11: Automated ultrasonic testing of the weld seam of welded steel tubes for the detection of
+longitudinal and/or transverse imperfections<<PARAGRAPH_END>>
+<<PARAGRAPH>>⎯   Part 12: Automated full peripheral ultrasonic thickness testing of seamless and welded (except
+submerged arc-welded) steel tube s<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+v<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 10893-12:2011(E)<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of steel tubes —<<HEADING_END>>
+<<HEADING level=1>>Part 12:
+Automated full peripheral ultrasonic thickness testing of
+seamless and welded (except submerged arc-welded) steel
+tubes<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This part of ISO 10893 specifies requirements for the automated full peripheral ultrasonic testing of seamless
+and welded steel tubes, with the exception of submerged arc-welded (SAW) tubes, for wall thickness
+measurement. It specifies the testing method and corresponding calibration procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1
+Full peripheral testing does not necessarily mean that 100 % of the tube surface is scanned.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2
+This test can be carried out simultaneously with full peripheral ultrasonic testing for the detection of laminar
+imperfections (see ISO 10893-8) using the same ultrasonic transducers for both inspection requirements. Under these
+circumstances, the minimum lamination size under detection determines the percentage of the tube surface for scanning,
+according to ISO 10893-8.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 can also be applicable to the testing of circular hollow sections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This part of ISO 10893 is applicable to the thickness measurement of tubes with a specified outside diameter
+equal to or greater than 25,4 mm and a minimum wall thickness of 2,6 mm, unless otherwise agreed on.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 5577,  Non-destructive testing — Ultrasonic inspection — Vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9712,  Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 11484,  Steel products — Employer's qualification system for non-destructive testing (NDT) personnel<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+1<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 5577 and ISO 11484 and the
+following apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+reference tube
+tube or length of tube used for calibration purposes<<HEADING_END>>
+<<HEADING level=3>>3.2
+reference sample
+sample (e.g. segment of tube, plate or strip) used for calibration purposes<<HEADING_END>>
+<<PARAGRAPH>>NOTE
+Only the term “reference tube” is used in this part of ISO 10893, also covering the term “reference sample”.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.3
+tube
+hollow long product open at both ends, of any cross-sectional shape<<HEADING_END>>
+<<HEADING level=3>>3.4
+seamless tube
+tube made by piercing a solid product to obtain a tube hollow, which is further processed, either hot or cold,
+into its final dimensions<<HEADING_END>>
+<<PARAGRAPH>>3.5
+welded tube
+tube made by forming a hollow profile from a flat product and welding adjacent edges together, and which
+after welding can be further processed, either hot or cold, into its final dimensions<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.6
+electric welded tube
+tube made by pressure welding, in a continuous or non-continuous process, in which strip is formed cold into
+a hollow profile and the seam weld made by heating the adjacent edges through the resistance to the passage
+of high- or low-frequency current, and pressing the edges together<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The electric current can be applied either by direct electrode contact or by induction.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.7
+manufacturer
+organization that manufactures products in accordance with the relevant standard(s) and declares the
+compliance of the delivered products with all applicable provisions of the relevant standard(s)<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+agreement
+contractual arrangement between the manufacturer and purchaser at the time of enquiry and order<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>4.1
+Unless otherwise specified by the product standard or agreed between purchaser and manufacturer, an
+ultrasonic test shall be carried out on tubes after completion of all the primary production process operations
+(rolling, heat treating, cold and hot working, sizing and primary straightening, etc.).<<PARAGRAPH_END>>
+<<HEADING level=3>>4.2
+The tubes under test shall be sufficiently straight to ensure the validity of the test. The surfaces shall be
+free of foreign matter, which can interfere with the validity of the test.<<HEADING_END>>
+<<PARAGRAPH>>4.3
+This test shall be carried out by suitably trained operators, qualified in accordance with ISO 9712,
+ISO 11484, or equivalent, and supervised by competent personnel nominated by the manufacturer. In the
+case of third-party inspection, this shall be agreed on by the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| 2                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>The operating authorization issued by the employer shall be according to a written procedure. Non-destructive
+testing (NDT) operations shall be authorized by a level 3 NDT individual approved by the employer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+The definition of levels 1, 2 and 3 can be found in appropriate International Standards, e.g. ISO 9712 and
+ISO 11484.<<PARAGRAPH_END>>
+<<HEADING level=3>>5
+Test method<<HEADING_END>>
+<<PARAGRAPH>>5.1
+The tube shall be tested using the ultrasonic single or multiple pulse echo technique, with piezoelectric
+or electromagnetic transducers. The ultrasound shall be transmitted in the direction normal to the tube surface,
+to determine that the tube thickness meets the specified requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.2
+During testing, the tubes and the probe assembly shall be moved relative to each other such that (with
+the exception provided in Note 2 of Clause 1) the tube surface shall be scanned over equidistant non-
+coincident helical paths along the entire length of the tube. Unless specified in the product standards or
+agreed on by the manufacturer and purchaser, the minimum coverage shall be at the manufacturer's
+discretion according to his manufacturing process, but shall be not less than 10 % of the surface area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Other scanning routes can be used by agreement between the purchaser and manufacturer.<<PARAGRAPH_END>>
+<<PARAGRAPH>>5.3
+The suggested maximum width of each transducer, or each active aperture when using phased array
+transducers, should be 25 mm measured in any direction. However, manufacturers may use larger
+transducers provided they can demonstrate their capability for detecting the adopted reference standard; on
+request, this capability shall be demonstrated.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4
+The equipment shall be capable of classifying tubes as either acceptable or suspect by means of an
+automated trigger/alarm level combined with a marking and/or recording and/or sorting system.<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+Reference tube<<HEADING_END>>
+<<PARAGRAPH>>6.1
+The reference tube (or partly scanned tube) shall have the same nominal diameter and thickness, same
+surface finish, heat treatment and delivery condition (e.g. as-rolled, normalized, quenched and tempered) as
+the tubes under test, and shall have similar acoustic properties (e.g. sound velocity and attenuation
+coefficient).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2
+The reference tube (or machined reference sample or machined block or hollow bar of steel) shall, at
+the manufacturer's discretion, either<<HEADING_END>>
+<<PARAGRAPH>>a)
+have a known area with a predetermined thickness with an accuracy better than  ± 0,1 mm, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+have a machined section(s) either at the specified minimum thickness or having one section at minimum
+thickness and one section between minimum and maximum thickness limits. The thickness of the
+reference tube used for calibrating the ultrasonic equipment shall have a tolerance of  ± 0,05 mm or  ± 0,2 %,
+whichever is the greater.<<PARAGRAPH_END>>
+<<HEADING level=3>>7
+Equipment calibration and checking<<HEADING_END>>
+<<PARAGRAPH>>7.1
+At the start of each test cycle, the equipment shall be calibrated statically using the selected reference
+tube such that it indicates the thickness of the reference tube with an accuracy better than  ± 0,10 mm or  ± 2 %,
+whichever is the greater, such that a trigger/alarm condition is produced whenever the specified thickness
+limit(s) is exceeded.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The manufacturer shall demonstrate that the results achieved during the production testing are consistent with
+those achieved at the static calibration.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+3<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>7.2
+During the production testing of the tubes, the relative rotational and translational speeds shall be
+chosen such that the tube surface is scanned in accordance with 5.2. Relative speed of movement during
+testing shall not vary by more than  ± 10 %.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3
+The calibration of the equipment shall be checked at regular intervals during the production testing of
+tubes of the same specified diameter, thickness and grade.<<HEADING_END>>
+<<PARAGRAPH>>The frequency of checking the calibration shall be at least every 4 h, but also whenever there is an equipment
+operator team changeover and at the start and end of production.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4
+The equipment shall be recalibrated if any of the parameters which were used during the initial
+calibration are changed.<<HEADING_END>>
+<<PARAGRAPH>>7.5
+If, on checking during production testing, the calibration requirements are not satisfied even after taking
+into account an additional accuracy tolerance given in 7.6, all the tubes tested since the previous check shall
+be retested after the equipment has been recalibrated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.6
+To allow for system drift, an additional thickness accuracy tolerance of +1 % or +0,05 mm, whichever is
+the greater in excess of that stated in 7.1, shall be taken into account during checking of the equipment
+calibration during production testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7.7
+By agreement between the manufacturer and the purchaser, it shall be demonstrated that at the
+advancing and/or rotating speed and pulse repetition frequency used, the equipment is capable of detecting a
+non-conforming thickness.<<PARAGRAPH_END>>
+<<HEADING level=3>>8
+Acceptance<<HEADING_END>>
+<<HEADING level=3>>8.1
+Any tube producing no trigger/alarm condition (see 7.1) shall be deemed to have passed this test.<<HEADING_END>>
+<<PARAGRAPH>>8.2
+Any tube producing a trigger/alarm condition (see 7.1) shall be designated suspect or, at the
+manufacturer's discretion, may be retested. If, after two consecutive retests, all signals are lower than the
+trigger/alarm level, the tube shall be deemed to have passed this test; otherwise, the tube shall be designated
+as suspect.<<PARAGRAPH_END>>
+<<HEADING level=3>>8.3
+For suspect tubes, one or more of the following actions shall be taken, subject to the requirements of
+the product standard.<<HEADING_END>>
+<<PARAGRAPH>>a)
+If the manufacturer can prove that the trigger/alarm condition arises from a combination of minor
+imperfections, e.g. inclusion clusters, not individually or in combination extensive enough to cause
+rejection, the tube shall be deemed to have passed the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+If applicable, the suspect area of the tube exhibiting thickening in excess of the upper tolerance limit may
+be dressed by a suitable method. After checking that the remaining wall thickness is within the specified
+tolerances, the tube shall be deemed to have passed the test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+The suspect area shall be cropped off.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+The tube shall be deemed not to have passed this test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2011 – All rights reserved<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| The frequency of checking the calibration shall be at least every 4 h, but also whenever there is an equipment   |
+|:-----------------------------------------------------------------------------------------------------------------|
+| operator team changeover and at the start and end of production.                                                 |
+<<TABLE_END>>
+<<TABLE_2>>
+| 4                                                                |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<HEADING level=3>>9
+Test report<<HEADING_END>>
+<<PARAGRAPH>>When specified, the manufacturer shall submit to the purchaser a test report that includes at least the
+following information:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+reference to this part of ISO 10893, i.e. ISO 10893-12;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+statement of conformity;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+any deviation, by agreement or otherwise, from the procedures specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+product designation by steel grade and size;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+type and details of the test technique(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+equipment calibration method used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+description of the reference standard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+date of test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+operator identification.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2011 – All rig hts reserved
+5<<HEADING_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All ri                                              |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<HEADING level=3>>ISO 10893-12:2011(E)<<HEADING_END>>
+<<PARAGRAPH>>--`,,```,,,,````-`-`,,`,,`,`,,`---<<PARAGRAPH_END>>
+<<HEADING level=3>>ICS  23.040.10;  77.040.20;  77.140.75<<HEADING_END>>
+<<PARAGRAPH>>Price based on 5 pages<<PARAGRAPH_END>>
+<<PARAGRAPH>>© ISO 2011 – All rights reserv ed<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright International Organization for Standardization
+Provided by IHS under license with ISO<<PARAGRAPH_END>>
+<<PARAGRAPH>>Not for Resale
+No reproduction or networking permitted without license from IHS<<PARAGRAPH_END>>
+<<TABLE_1>>
+| © ISO 2011 – All rights reser                                    |
+| Copyright International Organization for Standardization         |
+|:-----------------------------------------------------------------|
+| Provided by IHS under license with ISO                           |
+| No reproduction or networking permitted without license from IHS |
+<<TABLE_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 12
+Total Images: 1
+
+Image Reference Table:
+[IMAGE_1] Page: 2, Size: 81x71
+
+Total Tables: 13
+
+Table Reference List:
+[TABLE_1] Page: 1, Size: 2x1
+[TABLE_1] Page: 2, Size: 3x1
+[TABLE_1] Page: 3, Size: 3x1
+[TABLE_1] Page: 4, Size: 3x1
+[TABLE_1] Page: 5, Size: 3x1
+[TABLE_1] Page: 6, Size: 3x1
+[TABLE_1] Page: 7, Size: 3x1
+[TABLE_1] Page: 8, Size: 3x1
+[TABLE_1] Page: 9, Size: 3x1
+[TABLE_1] Page: 10, Size: 2x1
+[TABLE_2] Page: 10, Size: 3x1
+[TABLE_1] Page: 11, Size: 3x1
+[TABLE_1] Page: 12, Size: 3x1
+<<SECTION_END>>
+<<DOCUMENT_END>>

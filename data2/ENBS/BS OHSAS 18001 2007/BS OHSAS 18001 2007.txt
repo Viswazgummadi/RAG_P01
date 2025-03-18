@@ -1,0 +1,2232 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=2>>BS OHSAS 18001:2007<<HEADING_END>>
+<<HEADING level=1>>OCCUPATIONAL HEALTH AND SAFETY ASSESSMENT SERIES<<HEADING_END>>
+<<HEADING level=1>>Occupational health and safety
+management systems – Requirements<<HEADING_END>>
+<<IMAGE_1>>
+[Image 1 contains text: Th—~ an @
+2 Gi oe
+2 Pel |
+British Standards]
+<<HEADING level=3>>NO COPYING WITHOUT BSI PERMISSION EXCEPT AS PERMITTED BY COPYRIGHT LAW<<HEADING_END>>
+<<HEADING level=3>>raising standards worldwide ™<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>BS OHSAS 18001:2007<<HEADING_END>>
+<<HEADING level=1>>National foreword<<HEADING_END>>
+<<HEADING level=3>>Publishing information<<HEADING_END>>
+<<PARAGRAPH>>This British Standard was published by BSI. It is the official UK
+implementation of OHSAS 18001:2007, which supersedes OHSAS 18001:1999.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BS OHSAS 18001 will be maintained in line with any changes to
+OHSAS 18001, subject to the approval of BSI Technical Committee HS/1,
+Occupational health and safety management , which collated the UK comments
+on the second Working Draft of OHSAS 18001 and put forward its preferred
+position.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A list of organizations represented on this committee can be obtained on
+request to its secretary.<<PARAGRAPH_END>>
+<<HEADING level=3>>Contractual and legal considerations<<HEADING_END>>
+<<PARAGRAPH>>In the UK, and Europe generally, there are various legal requirements for
+occupational health and safety that apply to the potentially harmful effects of
+work activities and which extend beyond the workplace to those affected by
+workplace activities (see Note to  3.12  on the definition of occupational health
+and safety). It is essential for the organization to take the matters addressed
+by these legal requirements into account in establishing, implementing and
+maintaining its OH&S management system – and in particular when
+identifying hazards, assessing risks and determining controls (see  4.3.1
+and  4.3.2 ). This standard ought therefore to be read in conjunction with
+BS 8800 and HSG 65, 1)  which give good practice guidance on complying with
+such legal requirements in the UK.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This publication does not purport to include all the necessary provisions of a
+contract. Users are responsible for its correct application.<<PARAGRAPH_END>>
+<<HEADING level=3>>Compliance with a British Standard cannot confer immunity from
+legal obligations.<<HEADING_END>>
+<<HEADING level=3>>Publishing and copyright information
+The BSI copyright notice displayed in this document indicates when the
+document was last issued.<<HEADING_END>>
+<<PARAGRAPH>>© BSI 2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISBN 978 0 580 59404 5<<PARAGRAPH_END>>
+<<HEADING level=3>>Publication history
+First published July 2007<<HEADING_END>>
+<<HEADING level=3>>Amendments issued since publication<<HEADING_END>>
+<<HEADING level=3>>Amd. no.
+Date
+Text affected<<HEADING_END>>
+<<PARAGRAPH>>1)  BS 8800,  Occupational health and safety management systems – Guide , and HSG 65,
+Successful health and safety management .<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Acknowledgement    ii
+Foreword    iii
+Introduction    v<<PARAGRAPH_END>>
+<<HEADING level=3>>1
+Scope    1
+2
+Reference publications    1
+3
+Terms and definitions     2
+4
+OH&S management system requirements    5<<HEADING_END>>
+<<PARAGRAPH>>Annexes
+Annex A (informative) Correspondence between OHSAS 18001:2007,
+ISO 14001:2004 and ISO 9001:2000    15
+Annex B (informative) Correspondence between OHSAS 18001,
+OHSAS 18002, and the ILO-OSH:2001  Guidelines on occupational
+safety and health management systems     18<<PARAGRAPH_END>>
+<<PARAGRAPH>>Bibliography    22<<PARAGRAPH_END>>
+<<HEADING level=3>>List of figures
+Figure 1 – OH&S management system model for this OHSAS
+Standard    vi<<HEADING_END>>
+<<PARAGRAPH>>List of tables
+Table A.1 – Correspondence between OHSAS 18001:2007,
+ISO 14001:2004 and ISO 9001:2000    15
+Table B.1 – Correspondence between the clauses of the OHSAS
+documents and the clauses of the ILO-OSH Guidelines    20<<PARAGRAPH_END>>
+<<HEADING level=3>>Summary of pages<<HEADING_END>>
+<<PARAGRAPH>>This document comprises a front cover, an inside front cover,
+pages i to viii, pages 1 to 22, an inside back cover and a back cover.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+i<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Acknowledgement<<HEADING_END>>
+<<PARAGRAPH>>This edition of OHSAS 18001 has been developed with the assistance of the
+following cooperating organizations:<<PARAGRAPH_END>>
+<<PARAGRAPH>>American Industrial Hygiene Association (AIHA)
+Asociación Española de Normalización y Certificación (AENOR)
+Association of British Certification Bodies (ABCB)
+British Standards Institution (BSI)
+Bureau Veritas
+Comisi ó n Federal de Electricidad (CFE), (Gerencia de la seguridad industrial)
+Czech Accreditation Institute (CAI)
+Det Norske Veritas (DNV)
+DS Certification A/S
+EEF the manufacturers’ organisation
+ENLAR Compliance Services, Inc.
+Health and Safety Executive 1)<<PARAGRAPH_END>>
+<<PARAGRAPH>>Hong Kong Quality Assurance Agency (HKQAA)
+Inspecta Certification
+Institution of Occupational Safety and Health (IOSH)
+Instituto Argentino de Normalización y Certificación (IRAM)
+Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC)
+Instituto de Normas Técnicas de Costa Rica   (INTECO)
+Instituto Mexicano de Normalización y Certificación (IMNC)
+Instituto Uruguayo de Normas Técnicas (UNIT)
+ITS Consultants
+Japan Industrial Safety and Health Association (JISHA)
+Japanese Standards Association (JSA)
+Korea Gas Safety Corporation (ISO Certificate Division)
+Lloyds Register Quality Assurance (LRQA)
+Management Systems Certification Limited
+National Standards Authority of Ireland (NSAI)
+National University of Singapore (NUS)
+Nederlands Normalisatie-instituut (NEN)
+NPKF ELECTON
+NQA
+Quality Management Institute (QMI)
+SABS Commercial (Pty) Ltd.
+Service de Normalisation Industrielle Marocaine (SNIMA)
+SGS United Kingdom Ltd
+SIRIM QAS International
+SPRING Singapore
+Standards Institution of Israel (SII)
+Standards New Zealand (SNZ)
+Sucofindo International Certification Services (SICS)
+Swedish Industry Association (Sinf)
+TÜV Rheinland Cert GmbH – TÜV Rheinland Group
+Standards Association of Zimbabwe (SAZ)<<PARAGRAPH_END>>
+<<PARAGRAPH>>We would also like to recognize the invaluable contribution made by those many
+organizations who took the time to review the working drafts of
+OHSAS 18001, and who submitted comments for consideration. This helped us
+greatly in improving the standard, and is much appreciated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+As the regulatory authority responsible for health and safety in Great Britain,
+the Health and Safety Executive would wish to make it clear that reliance on the
+OHSAS Standard by organizations will not absolve them from compliance with
+any of their legal health and safety obligations under the laws of England &
+Wales, and Scotland.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ii
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>This Occupational Health and Safety Assessment Series (OHSAS)
+Standard and the accompanying OHSAS 18002,  Guidelines for the
+implementation of OHSAS 18001 , have been developed in response to
+customer demand for a recognizable occupational health and safety
+management system standard against which their management systems
+can be assessed and certified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>OHSAS 18001 has been developed to be compatible with the
+ISO 9001:2000 (Quality) and ISO 14001:2004 (Environmental)
+management systems standards, in order to facilitate the integration of
+quality, environmental and occupational health and safety management
+systems by organizations, should they wish to do so.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard will be reviewed or amended when considered
+appropriate. Reviews will be conducted when new editions of either
+ISO 9001 or ISO 14001 are published, to ensure continuing
+compatibility.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard will be withdrawn on publication of its contents
+in, or as, an International Standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard has been drafted in accordance with the rules
+given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This second edition cancels and replaces the first edition
+(OHSAS 18001:1999), which has been technically revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The principal changes with respect to the previous edition are as
+follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+The importance of “health” has now been given greater emphasis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+OHSAS 18001 now refers to itself as a standard, not a
+specification, or document, as in the earlier edition. This reflects
+the increasing adoption of OHSAS 18001 as the basis for national
+standards on occupational health and safety management systems.<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+The “Plan-Do-Check-Act” model diagram is only given in the
+Introduction, in its entirety, and not also as sectional diagrams at
+the start of each major clause.<<PARAGRAPH_END>>
+<<HEADING level=3>>•
+Reference publications in Clause  2  have been limited to purely
+international documents.<<HEADING_END>>
+<<PARAGRAPH>>•
+New definitions have been added, and existing definitions revised.<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+Significant improvement in alignment with ISO 14001:2004
+throughout the standard, and improved compatibility with
+ISO 9001:2000.<<PARAGRAPH_END>>
+<<HEADING level=3>>•
+The term “tolerable risk” has been replaced by the term
+“acceptable risk” (see  3.1 ).<<HEADING_END>>
+<<HEADING level=3>>•
+The term “accident” is now included in the term “incident”
+(see  3.9 ).<<HEADING_END>>
+<<HEADING level=3>>•
+The definition of the term “hazard” no longer refers to “damage to
+property or damage to the workplace environment” (see  3.6 ).<<HEADING_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+iii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>BS OHSAS 1 8 0 0 1:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is now considered that such “damage” is not directly related to
+occupational health and safety management, which is the purpose of
+this OHSAS Standard, and that it is included in the field of asset
+management. Instead, the risk of such “damage” having an effect on
+occupational health and safety should be identified through the
+organization’s risk assessment process, and be controlled through the
+application of appropriate risk controls.<<PARAGRAPH_END>>
+<<HEADING level=3>>•
+Sub-clauses  4.3.3  and  4.3.4  have been merged, in line with
+ISO 14001:2004.<<HEADING_END>>
+<<HEADING level=3>>•
+A new requirement has been introduced for the consideration of
+the hierarchy of controls as part of OH&S planning (see  4.3.1 ).<<HEADING_END>>
+<<HEADING level=3>>•
+Management of change is now more explicitly addressed
+(see  4.3.1  and  4.4.6 ).<<HEADING_END>>
+<<HEADING level=3>>•
+A new clause on the “Evaluation of compliance” (see  4.5.2 ) has
+been introduced.<<HEADING_END>>
+<<HEADING level=3>>•
+New requirements have been introduced for participation and
+consultation (see  4.4.3.2 ).<<HEADING_END>>
+<<HEADING level=3>>•
+New requirements have been introduced for the investigation of
+incidents (see  4.5.3.1 ).<<HEADING_END>>
+<<PARAGRAPH>>This publication does not purport to include all necessary provisions of
+a contract. Users are responsible for its correct application.<<PARAGRAPH_END>>
+<<HEADING level=3>>Compliance with this Occupational Health and Safety
+Assessment Series (OHSAS) Standard cannot confer immunity
+from legal obligations.<<HEADING_END>>
+<<PARAGRAPH>>iv
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Introduction<<HEADING_END>>
+<<PARAGRAPH>>Organizations of all kinds are increasingly concerned with achieving
+and demonstrating sound occupational health and safety (OH&S)
+performance by controlling their OH&S risks, consistent with their
+OH&S policy and objectives. They do so in the context of increasingly
+stringent legislation, the development of economic policies and other
+measures that foster good OH&S practices, and increased concern
+expressed by interested parties about OH&S issues.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Many organizations have undertaken OH&S “reviews” or “audits” to
+assess their OH&S performance. On their own, however, these
+“reviews” and “audits” may not be sufficient to provide an organization
+with the assurance that its performance not only meets, but will
+continue to meet, its legal and policy requirements. To be effective, they
+need to be conducted within a structured management system that is
+integrated within the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The OHSAS Standards covering OH&S management are intended to
+provide organizations with the elements of an effective OH&S
+management system that can be integrated with other management
+requirements and help organizations achieve OH&S and economic
+objectives. These standards, like other International Standards, are not
+intended to be used to create non-tariff trade barriers or to increase or
+change an organization’s legal obligations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard specifies requirements for an OH&S management
+system to enable an organization to develop and implement a policy and
+objectives which take into account legal requirements and information
+about OH&S risks. It is intended to apply to all types and sizes of
+organizations and to accommodate diverse geographical, cultural and
+social conditions. The basis of the approach is shown in Figure 1. The
+success of the system depends on commitment from all levels and
+functions of the organization, and especially from top management. A
+system of this kind enables an organization to develop an OH&S policy,
+establish objectives and processes to achieve the policy commitments,
+take action as needed to improve its performance and demonstrate the
+conformity of the system to the requirements of this OHSAS Standard.
+The overall aim of this OHSAS Standard is to support and promote good
+OH&S practices, in balance with socio-economic needs. It should be
+noted that many of the requirements can be addressed concurrently or
+revisited at any time.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The second edition of this OHSAS Standard is focused on clarification
+of the first edition, and has taken due consideration of the provisions of
+ISO 9001, ISO14001, ILO-OSH, and other OH&S management system
+standards or publications to enhance the compatibility of these
+standards for the benefit of the user community.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+V<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>There is an important distinction between this OHSAS Standard, which
+describes the requirements for an organization’s OH&S management
+system and can be used for certification/registration and/or
+self-declaration of an organization’s OH&S management system, and a
+non-certifiable guideline intended to provide generic assistance to an
+organization for establishing, implementing or improving an OH&S
+management system. OH&S management encompasses a full range of
+issues, including those with strategic and competitive implications.
+Demonstration of successful implementation of this OHSAS Standard
+can be used by an organization to assure interested parties that an
+appropriate OH&S management system is in place.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Those organizations requiring more general guidance on a broad range
+of OH&S management system issues are referred to OHSAS 18002. Any
+reference to other International Standards is for information only.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1
+OH&S management system model for this OHSAS Standard<<HEADING_END>>
+<<PARAGRAPH>>Continual Improvement<<PARAGRAPH_END>>
+<<PARAGRAPH>>OH&S policy<<PARAGRAPH_END>>
+<<PARAGRAPH>>Management
+review<<PARAGRAPH_END>>
+<<PARAGRAPH>>Planning<<PARAGRAPH_END>>
+<<PARAGRAPH>>Implementation
+and operation<<PARAGRAPH_END>>
+<<PARAGRAPH>>Checking and
+corrective action<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   This OHSAS Standard is based on the methodology known as
+Plan-Do-Check-Act (PDCA). PDCA can be briefly described as follows.<<PARAGRAPH_END>>
+<<HEADING level=3>>•
+Plan : establish the objectives and processes necessary to deliver
+results in accordance with the organization’s OH&S policy.<<HEADING_END>>
+<<HEADING level=3>>•
+Do : implement the processes.<<HEADING_END>>
+<<HEADING level=3>>•
+Check : monitor and measure processes against OH&S policy,
+objectives, legal and other requirements, and report the results.<<HEADING_END>>
+<<HEADING level=3>>•
+Act : take actions to continually improve OH&S performance.<<HEADING_END>>
+<<PARAGRAPH>>Many organizations manage their operations via the application of a
+system of processes and their interactions, which can be referred to as the
+“process approach”. ISO 9001 promotes the use of the process approach.
+Since PDCA can be applied to all processes, the two methodologies are
+considered to be compatible.<<PARAGRAPH_END>>
+<<PARAGRAPH>>vi
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard contains requirements that can be objectively
+audited; however it does not establish absolute requirements for OH&S
+performance beyond the commitments, in the OH&S policy, to comply
+with applicable legal requirements and with other requirements to
+which the organization subscribes, to the prevention of injury and ill
+health and to continual improvement. Thus, two organizations carrying
+out similar operations but having different OH&S performance can both
+conform to its requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OH&S Standard does not include requirements specific to other
+management systems, such as those for quality, environmental,
+security, or financial management, though its elements can be aligned
+or integrated with those of other management systems. It is possible for
+an organization to adapt its existing management system(s) in order to
+establish an OH&S management system that conforms to the
+requirements of this OHSAS Standard. It is pointed out, however, that
+the application of various elements of the management system might
+differ depending on the intended purpose and the interested parties
+involved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The level of detail and complexity of the OH&S management system, the
+extent of documentation and the resources devoted to it depend on a
+number of factors, such as the scope of the system, the size of an
+organization and the nature of its activities, products and services, and
+the organizational culture. This may be the case in particular for small
+and medium-sized enterprises.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+vii<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>viii
+•
+© BSI 2007
+This page deliberately left blank<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Occupational health and safety
+management systems  –
+Requirements<<HEADING_END>>
+<<HEADING level=1>>1 Scope<<HEADING_END>>
+<<PARAGRAPH>>This Occupational Health and Safety Assessment Series (OHSAS)
+Standard specifies requirements for an occupational health and safety
+(OH&S) management system, to enable an organization to control its
+OH&S risks and improve its OH&S performance. It does not state
+specific OH&S performance criteria, nor does it give detailed
+specifications for the design of a management system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard is applicable to any organization that wishes to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+establish an OH&S management system to eliminate or minimize
+risks to personnel and other interested parties who could be
+exposed to OH&S hazards associated with its activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+implement, maintain and continually improve an OH&S
+management system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+assure itself of its conformity with its stated OH&S policy;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+demonstrate conformity with this OHSAS Standard by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+making a self-determination and self-declaration, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+seeking confirmation of its conformance by parties having an
+interest in the organization, such as customers, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+seeking confirmation of its self-declaration by a party external
+to the organization, or<<PARAGRAPH_END>>
+<<PARAGRAPH>>4)
+seeking certification/registration of its OH&S management
+system by an external organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All the requirements in this OHSAS Standard are intended to be
+incorporated into any OH&S management system. The extent of the
+application will depend on such factors as the OH&S policy of the
+organization, the nature of its activities and the risks and complexity of
+its operations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This OHSAS Standard is intended to address occupational health and
+safety, and is not intended to address other health and safety areas such
+as employee wellbeing/wellness programmes, product safety, property
+damage or environmental impacts.<<PARAGRAPH_END>>
+<<HEADING level=1>>2 Reference publications<<HEADING_END>>
+<<PARAGRAPH>>Other publications that provide information or guidance are listed in the
+bibliography. It is advisable that the latest editions of such publications
+be consulted. Specifically, reference should be made to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>OHSAS 18002,  Occupational health and safety management
+systems  –  Guidelines for the implementation of OHSAS 18001<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Labour Organization:2001,  Guidelines on Occupational
+Health and Safety Management Systems (OSH-MS)<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+1<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>3 Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the following terms and definitions
+apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.1
+acceptable risk
+risk that has been reduced to a level that can be tolerated by the
+organization having regard to its legal obligations and its own
+OH&S policy (3.16)<<HEADING_END>>
+<<HEADING level=3>>3.2
+audit
+systematic, independent and documented process for obtaining “audit
+evidence” and evaluating it objectively to determine the extent to which
+“audit criteria” are fulfilled<<HEADING_END>>
+<<HEADING level=3>>[ISO 9000:2005,  3.9.1 ]<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   Independent does not necessarily mean external to the
+organization. In many cases, particularly in smaller organizations,
+independence can be demonstrated by the freedom from responsibility for
+the activity being audited.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2   For further guidance on “audit evidence” and “audit criteria”,
+see ISO 19011.<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.3
+continual improvement
+recurring process of enhancing the  OH&S management
+system  ( 3.13 ) in order to achieve improvements in overall
+OH&S performance  ( 3.15 ) consistent with the  organization’s  ( 3.17 )
+OH&S policy  ( 3.16 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1   The process need not take place in all areas of activity
+simultaneously.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE 2   Adapted from ISO 14001:2004,  3.2 .<<HEADING_END>>
+<<HEADING level=3>>3.4
+corrective action
+action to eliminate the cause of a detected  nonconformity  ( 3.11 ) or
+other undesirable situation<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   There can be more than one cause for a nonconformity.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE 2   Corrective action is taken to prevent recurrence whereas
+preventive action  ( 3.18 ) is taken to prevent occurrence.<<HEADING_END>>
+<<HEADING level=3>>[ISO 9000:2005,  3.6.5 ]<<HEADING_END>>
+<<HEADING level=3>>3.5
+document
+information and its supporting medium<<HEADING_END>>
+<<PARAGRAPH>>NOTE   The medium can be paper, magnetic, electronic or optical
+computer disc, photograph or master sample, or a combination thereof.<<PARAGRAPH_END>>
+<<HEADING level=3>>[ISO 14001:2004,  3.4 ]<<HEADING_END>>
+<<HEADING level=3>>3.6
+hazard
+source, situation, or act with a potential for harm in terms of human
+injury or  ill health  ( 3.8 ), or a combination of these<<HEADING_END>>
+<<HEADING level=3>>3.7
+hazard identification
+process of recognizing that a  hazard  ( 3.6 ) exists and defining its
+characteristics<<HEADING_END>>
+<<PARAGRAPH>>2
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>3.8
+ill health
+identifiable, adverse physical or mental condition arising from and/or
+made worse by a work activity and/or work-related situation<<HEADING_END>>
+<<HEADING level=3>>3.9
+incident
+work-related event(s) in which an injury or  ill health  ( 3.8 ) (regardless
+of severity) or fatality occurred, or could have occurred<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   An accident is an incident which has given rise to injury, ill
+health or fatality.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2   An incident where no injury, ill health, or fatality occurs may
+also be referred to as a “near-miss”, “near-hit”, “close call” or “dangerous
+occurrence”.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE 3   An emergency situation (see  4.4.7 ) is a particular type of
+incident.<<HEADING_END>>
+<<HEADING level=3>>3.10
+interested party
+person or group, inside or outside the  workplace  ( 3.23 ), concerned
+with or affected by the  OH&S performance  ( 3.15 ) of an
+organization  ( 3.17 )<<HEADING_END>>
+<<HEADING level=3>>3.11
+nonconformity
+non-fulfilment of a requirement<<HEADING_END>>
+<<HEADING level=3>>[ISO 9000:2005,  3.6.2 ; ISO 14001,  3.15 ]<<HEADING_END>>
+<<PARAGRAPH>>NOTE   A nonconformity can be any deviation from:<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+relevant work standards, practices, procedures, legal
+requirements, etc.<<PARAGRAPH_END>>
+<<HEADING level=3>>•
+OH&S management system  ( 3.13 ) requirements.<<HEADING_END>>
+<<PARAGRAPH>>3.12
+occupational health and safety (OH&S)
+conditions and factors that affect, or could affect, the health and safety
+of employees or other workers (including temporary workers and
+contractor personnel), visitors, or any other person in the
+workplace  ( 3.23 )<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Organizations can be subject to legal requirements for the health
+and safety of persons beyond the immediate workplace, or who are
+exposed to the workplace activities.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.13
+OH&S management system
+part of an  organization’s  ( 3.17 ) management system used to develop
+and implement its  OH&S policy  ( 3.16 ) and manage its  OH&S
+risks  ( 3.21 )<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   A management system is a set of interrelated elements used to
+establish policy and objectives and to achieve those objectives.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2   A management system includes organizational structure,
+planning activities (including, for example, risk assessment and the
+setting of objectives), responsibilities, practices,  procedures  ( 3.19 ),
+processes and resources.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE 3   Adapted from ISO 14001:2004,  3.8 .<<HEADING_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+3<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>3.14
+OH&S objective
+OH&S goal, in terms of  OH&S performance  ( 3.15 ), that an
+organization  ( 3.17 ) sets itself to achieve<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   Objectives should be quantified wherever practicable.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE 2    4.3.3  requires that OH&S objectives are consistent with the
+OH&S policy  ( 3.16 ).<<HEADING_END>>
+<<HEADING level=3>>3.15
+OH&S performance
+measurable results of an  organization’s  ( 3.17 ) management of its
+OH&S risks  ( 3.21 )<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   OH&S performance measurement includes measuring the
+effectiveness of the organization’s controls.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2   In the context of  OH&S management systems  ( 3.13 ), results can
+also be measured against the  organization’s  ( 3.17 )  OH&S policy  ( 3.16) ,
+OH&S objectives  ( 3.14 ), and other   OH&S performance requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>3.16
+OH&S policy
+overall intentions and direction of an  organization  ( 3.17 ) related to its
+OH&S performance  ( 3.15 ) as formally expressed by top management<<HEADING_END>>
+<<HEADING level=3>>NOTE 1   The OH&S policy provides a framework for action and for the
+setting of  OH&S objectives  ( 3.14 )<<HEADING_END>>
+<<HEADING level=3>>NOTE 2   Adapted from ISO 14001:2004,  3.11 .<<HEADING_END>>
+<<PARAGRAPH>>3.17
+organization
+company, corporation, firm, enterprise, authority or institution, or part
+or combination thereof, whether incorporated or not, public or private,
+that has its own functions and administration<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   For organizations with more than one operating unit, a single
+operating unit may be defined as an organization.<<PARAGRAPH_END>>
+<<HEADING level=3>>[ISO 14001:2004,  3.16 ]<<HEADING_END>>
+<<HEADING level=3>>3.18
+preventive action
+action to eliminate the cause of a potential  nonconformity  ( 3.11 ) or
+other undesirable potential situation<<HEADING_END>>
+<<PARAGRAPH>>NOTE 1   There can be more than one cause for a potential nonconformity.<<PARAGRAPH_END>>
+<<HEADING level=3>>NOTE 2   Preventive action is taken to prevent occurrence whereas
+corrective action  ( 3.4 ) is taken to prevent recurrence.<<HEADING_END>>
+<<HEADING level=3>>[ISO 9000:2005,  3.6.4 ]<<HEADING_END>>
+<<HEADING level=3>>3.19
+procedure
+specified way to carry out an activity or a process<<HEADING_END>>
+<<PARAGRAPH>>NOTE   Procedures can be documented or not.<<PARAGRAPH_END>>
+<<HEADING level=3>>[ISO 9000:2005,  3.4.5 ]<<HEADING_END>>
+<<HEADING level=3>>3.20
+record
+document  ( 3.5 ) stating results achieved or providing evidence of
+activities performed<<HEADING_END>>
+<<HEADING level=3>>[ISO 14001:2004,  3.20 ]<<HEADING_END>>
+<<HEADING level=3>>3.21
+risk
+combination of the likelihood of an occurrence of a hazardous event or
+exposure(s) and the severity of injury or  ill health  ( 3.8 ) that can be
+caused by the event or exposure(s)<<HEADING_END>>
+<<PARAGRAPH>>4
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>3.22
+risk assessment
+process of evaluating the  risk(s)  ( 3.21 ) arising from a hazard(s), taking
+into account the adequacy of any existing controls, and deciding
+whether or not the risk(s) is acceptable<<PARAGRAPH_END>>
+<<HEADING level=3>>3.23
+workplace
+any physical location in which work related activities are performed
+under the control of the organization<<HEADING_END>>
+<<PARAGRAPH>>NOTE   When giving consideration to what constitutes a workplace, the
+organization  ( 3.17 ) should take into account the OH&S effects on
+personnel who are, for example, travelling or in transit (e.g. driving,
+flying, on boats or trains), working at the premises of a client or customer,
+or working at home.<<PARAGRAPH_END>>
+<<HEADING level=1>>4 OH&S management system
+requirements<<HEADING_END>>
+<<HEADING level=2>>4.1
+General requirements<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, document, implement, maintain and
+continually improve an OH&S management system in accordance with
+the requirements of this OHSAS Standard and determine how it will fulfil
+these requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall define and document the scope of its OH&S
+management system.<<PARAGRAPH_END>>
+<<HEADING level=2>>4.2
+OH&S policy<<HEADING_END>>
+<<PARAGRAPH>>Top management shall define and authorize the organization’s OH&S
+policy and ensure that within the defined scope of its OH&S
+management system it:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+is appropriate to the nature and scale of the organization’s OH&S
+risks;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+includes a commitment to prevention of injury and ill health and
+continual improvement in OH&S management and OH&S
+performance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+includes a commitment to at least comply with applicable legal
+requirements and with other requirements to which the
+organization subscribes that relate to its OH&S hazards;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+provides the framework for setting and reviewing OH&S
+objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+is documented, implemented and maintained;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+is communicated to all persons working under the control of the
+organization with the intent that they are made aware of their
+individual OH&S obligations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+is available to interested parties; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+is reviewed periodically to ensure that it remains relevant and
+appropriate to the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+5<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=2>>4.3
+Planning<<HEADING_END>>
+<<HEADING level=3>>4.3.1
+Hazard identification, risk assessment and
+determining controls<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) for the ongoing hazard identification, risk assessment, and
+determination of necessary controls.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The procedure(s) for hazard identification and risk assessment shall
+take into account:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+routine and non-routine activities;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+activities of all persons having access to the workplace (including
+contractors and visitors);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+human behaviour, capabilities and other human factors;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+identified hazards originating outside the workplace capable of
+adversely affecting the health and safety of persons under the
+control of the organization within the workplace;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+hazards created in the vicinity of the workplace by work-related
+activities under the control of the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1   It may be more appropriate for such hazards to be assessed
+as an environmental aspect.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+infrastructure, equipment and materials at the workplace, whether
+provided by the organization or others;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+changes or proposed changes in the organization, its activities, or
+materials;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+modifications to the OH&S management system, including
+temporary changes, and their impacts on operations, processes,
+and activities;<<PARAGRAPH_END>>
+<<HEADING level=3>>i)
+any applicable legal obligations relating to risk assessment and
+implementation of necessary controls (see also the NOTE to  3.12 );<<HEADING_END>>
+<<PARAGRAPH>>j)
+the design of work areas, processes, installations,
+machinery/equipment, operating procedures and work
+organization, including their adaptation to human capabilities.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization’s methodology for hazard identification and risk
+assessment shall:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+be defined with respect to its scope, nature and timing to ensure it
+is proactive rather than reactive; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+provide for the identification, prioritization and documentation of
+risks, and the application of controls, as appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the management of change, the organization shall identify the
+OH&S hazards and OH&S risks associated with changes in the
+organization, the OH&S management system, or its activities, prior to
+the introduction of such changes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall ensure that the results of these assessments are
+considered when determining controls.<<PARAGRAPH_END>>
+<<PARAGRAPH>>6
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>When determining controls, or considering changes to existing
+controls, consideration shall be given to reducing the risks according to
+the following hierarchy:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+elimination;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+substitution;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+engineering controls;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+signage/warnings and/or administrative controls;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+personal protective equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall document and keep the results of identification
+of hazards, risk assessments and determined controls up-to-date.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall ensure that the OH&S risks and determined
+controls are taken into account when establishing, implementing and
+maintaining its OH&S management system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2   For further guidance on hazard identification, risk assessment
+and determining controls, see OHSAS 18002.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3.2
+Legal and other requirements<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) for identifying and accessing the legal and other OH&S
+requirements that are applicable to it.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall ensure that these applicable legal requirements
+and other requirements to which the organization subscribes are taken
+into account in establishing, implementing and maintaining its OH&S
+management system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall keep this information up-to-date.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall communicate relevant information on legal and
+other requirements to persons working under the control of the
+organization, and other relevant interested parties.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3.3
+Objectives and programme(s)<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain documented
+OH&S objectives, at relevant functions and levels within the
+organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The objectives shall be measurable, where practicable, and consistent
+with the OH&S policy, including the commitments to the prevention of
+injury and ill health, to compliance with applicable legal requirements
+and with other requirements to which the organization subscribes, and
+to continual improvement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When establishing and reviewing its objectives, an organization shall
+take into account the legal requirements and other requirements to
+which the organization subscribes, and its OH&S risks. It shall also
+consider its technological options, its financial, operational and
+business requirements, and the views of relevant interested parties.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+7<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+programme(s) for achieving its objectives. Programme(s) shall include
+as a minimum:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+designation of responsibility and authority for achieving objectives
+at relevant functions and levels of the organization; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the means and time-frame by which the objectives are to be
+achieved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The programme(s) shall be reviewed at regular and planned intervals,
+and adjusted as necessary, to ensure that the objectives are achieved.<<PARAGRAPH_END>>
+<<HEADING level=2>>4.4
+Implementation and operation<<HEADING_END>>
+<<HEADING level=3>>4.4.1
+Resources, roles, responsibility, accountability and
+authority<<HEADING_END>>
+<<PARAGRAPH>>Top management shall take ultimate responsibility for OH&S and the
+OH&S management system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top management shall demonstrate its commitment by:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+ensuring the availability of resources essential to establish,
+implement, maintain and improve the OH&S management system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1   Resources include human resources and specialized skills,
+organizational infrastructure, technology and financial resources.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+defining roles, allocating responsibilities and accountabilities, and
+delegating authorities, to facilitate effective OH&S management;
+roles, responsibilities, accountabilities, and authorities shall be
+documented and communicated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall appoint a member(s) of top management with
+specific responsibility for OH&S, irrespective of other responsibilities,
+and with defined roles and authority for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+ensuring that the OH&S management system is established,
+implemented and maintained in accordance with this OHSAS
+Standard;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+ensuring that reports on the performance of the OH&S
+management system are presented to top management for review
+and used as a basis for improvement of the OH&S management
+system.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2   The top management appointee (e.g. in a large
+organization, a Board or executive committee member) may delegate
+some of their duties to a subordinate management representative(s)
+while still retaining accountability.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The identity of the top management appointee shall be made available
+to all persons working under the control of the organization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All those with management responsibility shall demonstrate their
+commitment to the continual improvement of OH&S performance.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall ensure that persons in the workplace take
+responsibility for aspects of OH&S over which they have control,
+including adherence to the organization’s applicable OH&S
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.2
+Competence, training and awareness<<HEADING_END>>
+<<PARAGRAPH>>The organization shall ensure that any person(s) under its control
+performing tasks that can impact on OH&S is (are) competent on the
+basis of appropriate education, training or experience, and shall retain
+associated records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall identify training needs associated with its OH&S
+risks and its OH&S management system. It shall provide training or take
+other action to meet these needs, evaluate the effectiveness of the
+training or action taken, and retain associated records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) to make persons working under its control aware of:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the OH&S consequences, actual or potential, of their work
+activities, their behaviour, and the OH&S benefits of improved
+personal performance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+their roles and responsibilities and importance in achieving
+conformity to the OH&S policy and procedures and to the
+requirements of the OH&S management system, including
+emergency preparedness and response requirements (see  4.4.7 );<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+the potential consequences of departure from specified
+procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Training procedures shall take into account differing levels of:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+responsibility, ability, language skills and literacy; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+risk.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.3
+Communication, participation and consultation<<HEADING_END>>
+<<HEADING level=3>>4.4.3.1
+Communication<<HEADING_END>>
+<<PARAGRAPH>>With regard to its OH&S hazards and OH&S management system, the
+organization shall establish, implement and maintain a procedure(s)
+for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+internal communication among the various levels and functions of
+the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+communication with contractors and other visitors to the
+workplace;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+receiving, documenting and responding to relevant
+communications from external interested parties.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.3.2
+Participation and consultation<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the participation of workers by their:<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+appropriate involvement in hazard identification, risk assessments
+and determination of controls;<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+appropriate involvement in incident investigation;<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+involvement in the development and review of OH&S policies and
+objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+9<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+consultation where there are any changes that affect their OH&S;<<PARAGRAPH_END>>
+<<PARAGRAPH>>•
+representation on OH&S matters.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Workers shall be informed about their participation arrangements,
+including who is their representative(s) on OH&S matters.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+consultation with contractors where there are changes that affect
+their OH&S.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall ensure that, when appropriate, relevant external
+interested parties are consulted about pertinent OH&S matters.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.4
+Documentation<<HEADING_END>>
+<<PARAGRAPH>>The OH&S management system documentation shall include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the OH&S policy and objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+description of the scope of the OH&S management system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+description of the main elements of the OH&S management system
+and their interaction, and reference to related documents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+documents, including records, required by this OHSAS Standard;
+and<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+documents, including records, determined by the organization to
+be necessary to ensure the effective planning, operation and
+control of processes that relate to the management of its OH&S
+risks.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   It is important that documentation is proportional to the level of
+complexity, hazards and risks concerned and is kept to the minimum
+required for effectiveness and efficiency.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.5
+Control of documents<<HEADING_END>>
+<<PARAGRAPH>>Documents required by the OH&S management system and by this
+OHSAS Standard shall be controlled. Records are a special type of
+document and shall be controlled in accordance with the requirements
+given in  4.5.4 .<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+approve documents for adequacy prior to issue;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+review and update as necessary and re-approve documents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+ensure that changes and the current revision status of documents
+are identified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+ensure that relevant versions of applicable documents are available
+at points of use;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+ensure that documents remain legible and readily identifiable;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+ensure that documents of external origin determined by the
+organization to be necessary for the planning and operation of the
+OH&S management system are identified and their distribution
+controlled; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+prevent the unintended use of obsolete documents and apply
+suitable identification to them if they are retained for any purpose.<<PARAGRAPH_END>>
+<<PARAGRAPH>>10
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.6
+Operational control<<HEADING_END>>
+<<PARAGRAPH>>The organization shall determine those operations and activities that are
+associated with the identified hazard(s) where the implementation of
+controls is necessary to manage the OH&S risk(s). This shall include the
+management of change (see  4.3.1 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>For those operations and activities, the organization shall implement
+and maintain:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+operational controls, as applicable to the organization and its
+activities; the organization shall integrate those operational
+controls into its overall OH&S management system;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+controls related to purchased goods, equipment and services;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+controls related to contractors and other visitors to the workplace;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+documented procedures, to cover situations where their absence
+could lead to deviations from the OH&S policy and the objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+stipulated operating criteria where their absence could lead to
+deviations from the OH&S policy and objectives.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.7
+Emergency preparedness and response<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s):<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+to identify the potential for emergency situations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+to respond to such emergency situations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall respond to actual emergency situations and
+prevent or mitigate associated adverse OH&S consequences.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In planning its emergency response the organization shall take account
+of the needs of relevant interested parties, e.g. emergency services and
+neighbours.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall also periodically test its procedure(s) to respond
+to emergency situations, where practicable, involving relevant
+interested parties as appropriate.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall periodically review and, where necessary, revise
+its emergency preparedness and response procedure(s), in particular,
+after periodical testing and after the occurrence of emergency situations
+(see  4.5.3 ).<<PARAGRAPH_END>>
+<<HEADING level=2>>4.5
+Checking<<HEADING_END>>
+<<HEADING level=3>>4.5.1
+Performance measurement and monitoring<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) to monitor and measure OH&S performance on a regular
+basis. This procedure(s) shall provide for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+both qualitative and quantitative measures, appropriate to the
+needs of the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+monitoring of the extent to which the organization’s OH&S
+objectives are met;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+monitoring the effectiveness of controls (for health as well as for
+safety);<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+11<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+proactive measures of performance that monitor conformance
+with the OH&S programme(s), controls and operational criteria;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+reactive measures of performance that monitor ill health, incidents
+(including accidents, near-misses, etc.), and other historical
+evidence of deficient OH&S performance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+recording of data and results of monitoring and measurement
+sufficient to facilitate subsequent corrective action and preventive
+action analysis.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If equipment is required to monitor or measure performance, the
+organization shall establish and maintain procedures for the calibration
+and maintenance of such equipment, as appropriate. Records of
+calibration and maintenance activities and results shall be retained.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.2
+Evaluation of compliance<<HEADING_END>>
+<<PARAGRAPH>>4.5.2.1  Consistent with its commitment to compliance [see  4.2 c)], the
+organization shall establish, implement and maintain a procedure(s) for
+periodically evaluating compliance with applicable legal requirements
+(see  4.3.2 ).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall keep records of the results of the periodic
+evaluations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   The frequency of periodic evaluation may vary for differing legal
+requirements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>4.5.2.2  The organization shall evaluate compliance with other
+requirements to which it subscribes (see  4.3.2 ). The organization may
+wish to combine this evaluation with the evaluation of legal compliance
+referred to in  4.5.2.1  or to establish a separate procedure(s).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall keep records of the results of the periodic
+evaluations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   The frequency of periodic evaluation may vary for differing other
+requirements to which the organization subscribes.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.3
+Incident investigation, nonconformity, corrective
+action and preventive action<<HEADING_END>>
+<<HEADING level=3>>4.5.3.1
+Incident investigation<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) to record, investigate and analyse incidents in order to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+determine underlying OH&S deficiencies and other factors that
+might be causing or contributing to the occurrence of incidents;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+identify the need for corrective action;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+identify opportunities for preventive action;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+identify opportunities for continual improvement;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+communicate the results of such investigations.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The investigations shall be performed in a timely manner.<<PARAGRAPH_END>>
+<<HEADING level=3>>Any identified need for corrective action or opportunities for preventive
+action shall be dealt with in accordance with the relevant parts
+of  4.5.3.2 .<<HEADING_END>>
+<<PARAGRAPH>>12
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>The results of incident investigations shall be documented and
+maintained.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.3.2
+Nonconformity, corrective action and preventive action<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) for dealing with actual and potential nonconformity(ies)
+and for taking corrective action and preventive action. The
+procedure(s) shall define requirements for:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+identifying and correcting nonconformity(ies) and taking action(s)
+to mitigate their OH&S consequences;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+investigating nonconformity(ies), determining their cause(s) and
+taking actions in order to avoid their recurrence;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+evaluating the need for action(s) to prevent nonconformity(ies)
+and implementing appropriate actions designed to avoid their
+occurrence;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+recording and communicating the results of corrective action(s)
+and preventive action(s) taken; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+reviewing the effectiveness of corrective action(s) and preventive
+action(s) taken.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where the corrective action and preventive action identifies new or
+changed hazards or the need for new or changed controls, the
+procedure shall require that the proposed actions shall be taken through
+a risk assessment prior to implementation.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any corrective action or preventive action taken to eliminate the causes
+of actual and potential nonconformity(ies) shall be appropriate to the
+magnitude of problems and commensurate with the OH&S risk(s)
+encountered.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall ensure that any necessary changes arising from
+corrective action and preventive action are made to the OH&S
+management system documentation.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.4
+Control of records<<HEADING_END>>
+<<PARAGRAPH>>The organization shall establish and maintain records as necessary to
+demonstrate conformity to the requirements of its OH&S management
+system and of this OHSAS Standard, and the results achieved.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The organization shall establish, implement and maintain a
+procedure(s) for the identification, storage, protection, retrieval,
+retention and disposal of records.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Records shall be and remain legible, identifiable and traceable.<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.5
+Internal audit<<HEADING_END>>
+<<PARAGRAPH>>The organization shall ensure that internal audits of the OH&S
+management system are conducted at planned intervals to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+determine whether the OH&S management system:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1)
+conforms to planned arrangements for OH&S management,
+including the requirements of this OHSAS Standard; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>2)
+has been properly implemented and is maintained; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>3)
+is effective in meeting the organization’s policy and objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+13<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+provide information on the results of audits to management.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Audit programme(s) shall be planned, established, implemented and
+maintained by the organization, based on the results of risk assessments
+of the organization’s activities, and the results of previous audits.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Audit procedure(s) shall be established, implemented and maintained
+that address:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+the responsibilities, competencies, and requirements for planning
+and conducting audits, reporting results and retaining associated
+records; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the determination of audit criteria, scope, frequency and methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Selection of auditors and conduct of audits shall ensure objectivity and
+the impartiality of the audit process.<<PARAGRAPH_END>>
+<<HEADING level=2>>4.6
+Management review<<HEADING_END>>
+<<PARAGRAPH>>Top management shall review the organization’s OH&S management
+system, at planned intervals, to ensure its continuing suitability,
+adequacy and effectiveness. Reviews shall include assessing
+opportunities for improvement and the need for changes to the OH&S
+management system, including the OH&S policy and OH&S objectives.
+Records of the management reviews shall be retained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Input to management reviews shall include:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+results of internal audits and evaluations of compliance with
+applicable legal requirements and with other requirements to
+which the organization subscribes;<<PARAGRAPH_END>>
+<<HEADING level=3>>b)
+the results of participation and consultation (see  4.4.3 );<<HEADING_END>>
+<<PARAGRAPH>>c)
+relevant communication(s) from external interested parties,
+including complaints;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+the OH&S performance of the organization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+the extent to which objectives have been met;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+status of incident investigations, corrective actions and preventive
+actions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+follow-up actions from previous management reviews;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+changing circumstances, including developments in legal and
+other requirements related to OH&S; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+recommendations for improvement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The outputs from management reviews shall be consistent with the
+organization’s commitment to continual improvement and shall include
+any decisions and actions related to possible changes to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+OH&S performance;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+OH&S policy and objectives;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+resources; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+other elements of the OH&S management system.<<PARAGRAPH_END>>
+<<HEADING level=3>>Relevant outputs from management review shall be made available for
+communication and consultation (see  4.4.3 ).<<HEADING_END>>
+<<PARAGRAPH>>14
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_25>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Annex A (informative)  Correspondence between
+OHSAS 18001:2007, ISO 14001:2004
+and ISO 9001:2000<<HEADING_END>>
+<<HEADING level=3>>Table A.1
+Correspondence between OHSAS 18001:2007, ISO 14001:2004
+and ISO 9001:2000<<HEADING_END>>
+<<HEADING level=3>>OHSAS 18001:2007
+ISO 14001:2004
+ISO 9001:2000<<HEADING_END>>
+<<HEADING level=3>>—
+Introduction
+—
+Introduction
+0
+0.1
+0.2
+0.3
+0.4<<HEADING_END>>
+<<PARAGRAPH>>Introduction
+General
+Process approach
+Relationship with ISO 9004
+Compatibility with other
+management systems<<PARAGRAPH_END>>
+<<HEADING level=3>>1
+Scope
+1
+Scope
+1
+1.1
+1.2<<HEADING_END>>
+<<PARAGRAPH>>Scope
+General
+Application<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references
+2
+Normative references
+2
+Normative reference<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions
+3
+Terms and definitions
+3
+Terms and definitions<<HEADING_END>>
+<<HEADING level=3>>4
+OH&S management system
+elements (title only)
+4
+Environmental management
+system requirements (title
+only)<<HEADING_END>>
+<<HEADING level=3>>4
+Quality management system
+(title only)<<HEADING_END>>
+<<HEADING level=3>>4.1
+General requirements
+4.1
+General requirements
+4.1
+5.5<<HEADING_END>>
+<<PARAGRAPH>>General requirements
+Responsibility, authority and
+communication
+Responsibility and authority<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5.1<<HEADING_END>>
+<<HEADING level=3>>4.2
+OH&S policy
+4.2
+Environmental policy
+5.1
+5.3
+8.5.1<<HEADING_END>>
+<<PARAGRAPH>>Management commitment
+Quality policy
+Continual improvement<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3
+Planning (title only)
+4.3
+Planning (title only)
+5.4
+Planning (title only)<<HEADING_END>>
+<<HEADING level=3>>4.3.1
+Hazard identification, risk
+assessment and
+determining controls<<HEADING_END>>
+<<HEADING level=3>>4.3.1
+Environmental aspects
+5.2
+7.2.1<<HEADING_END>>
+<<PARAGRAPH>>Customer focus
+Determination of
+requirements related to the
+product
+Review of requirements
+related to the product<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.2<<HEADING_END>>
+<<HEADING level=3>>4.3.2
+Legal and other
+requirements
+4.3.2
+Legal and other
+requirements
+5.2
+7.2.1
+Customer focus
+Determination of
+requirements related to the
+product<<HEADING_END>>
+<<HEADING level=3>>4.3.3
+Objectives and
+programme(s)
+4.3.3
+Objectives, targets and
+programme(s)
+5.4.1
+5.4.2<<HEADING_END>>
+<<PARAGRAPH>>Quality objectives
+Quality management system
+planning
+Continual improvement<<PARAGRAPH_END>>
+<<HEADING level=3>>8.5.1<<HEADING_END>>
+<<HEADING level=3>>4.4
+Implementation and
+operation (title only)
+4.4
+Implementation and
+operation (title only)
+7
+Product realization (title
+only)<<HEADING_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+15<<PARAGRAPH_END>>
+<<TABLE_1>>
+| OHSAS 18001:2007   |                             | ISO 14001:2004   |                            | ISO 9001:2000   |                               |
+|:-------------------|:----------------------------|:-----------------|:---------------------------|:----------------|:------------------------------|
+| —                  | Introduction                | —                | Introduction               | 0               | Introduction                  |
+|                    |                             |                  |                            | 0.1             | General                       |
+|                    |                             |                  |                            | 0.2             | Process approach              |
+|                    |                             |                  |                            | 0.3             | Relationship with ISO 9004    |
+|                    |                             |                  |                            | 0.4             | Compatibility with other      |
+|                    |                             |                  |                            |                 | management systems            |
+| 1                  | Scope                       | 1                | Scope                      | 1               | Scope                         |
+|                    |                             |                  |                            | 1.1             | General                       |
+|                    |                             |                  |                            | 1.2             | Application                   |
+| 2                  | Normative references        | 2                | Normative references       | 2               | Normative reference           |
+| 3                  | Terms and definitions       | 3                | Terms and definitions      | 3               | Terms and definitions         |
+| 4                  | OH&S management system      | 4                | Environmental management   | 4               | Quality management system     |
+|                    | elements (title only)       |                  | system requirements (title |                 | (title only)                  |
+|                    |                             |                  | only)                      |                 |                               |
+| 4.1                | General requirements        | 4.1              | General requirements       | 4.1             | General requirements          |
+|                    |                             |                  |                            | 5.5             | Responsibility, authority and |
+|                    |                             |                  |                            | 5.5.1           | communication                 |
+|                    |                             |                  |                            |                 | Responsibility and authority  |
+| 4.2                | OH&S policy                 | 4.2              | Environmental policy       | 5.1             | Management commitment         |
+|                    |                             |                  |                            | 5.3             | Quality policy                |
+|                    |                             |                  |                            | 8.5.1           | Continual improvement         |
+| 4.3                | Planning (title only)       | 4.3              | Planning (title only)      | 5.4             | Planning (title only)         |
+| 4.3.1              | Hazard identification, risk | 4.3.1            | Environmental aspects      | 5.2             | Customer focus                |
+|                    | assessment and              |                  |                            | 7.2.1           | Determination of              |
+|                    | determining controls        |                  |                            | 7.2.2           | requirements related to the   |
+|                    |                             |                  |                            |                 | product                       |
+|                    |                             |                  |                            |                 | Review of requirements        |
+|                    |                             |                  |                            |                 | related to the product        |
+| 4.3.2              | Legal and other             | 4.3.2            | Legal and other            | 5.2             | Customer focus                |
+|                    | requirements                |                  | requirements               | 7.2.1           | Determination of              |
+|                    |                             |                  |                            |                 | requirements related to the   |
+|                    |                             |                  |                            |                 | product                       |
+| 4.3.3              | Objectives and              | 4.3.3            | Objectives, targets and    | 5.4.1           | Quality objectives            |
+|                    | programme(s)                |                  | programme(s)               | 5.4.2           | Quality management system     |
+|                    |                             |                  |                            | 8.5.1           | planning                      |
+|                    |                             |                  |                            |                 | Continual improvement         |
+| 4.4                | Implementation and          | 4.4              | Implementation and         | 7               | Product realization (title    |
+|                    | operation (title only)      |                  | operation (title only)     |                 | only)                         |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_26>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.1
+Correspondence between OHSAS 18001:2007, ISO 14001:2004
+and ISO 9001:2000  ( continued )<<HEADING_END>>
+<<HEADING level=3>>OHSAS 18001:2007
+ISO 14001:2004
+ISO 9001:2000<<HEADING_END>>
+<<HEADING level=3>>4.4.1
+Resources, roles,
+responsibility,
+accountability and
+authority<<HEADING_END>>
+<<HEADING level=3>>4.4.1
+Resources, roles,
+responsibility and
+authority<<HEADING_END>>
+<<HEADING level=3>>5.1
+5.5.1
+5.5.2
+6.1
+6.3<<HEADING_END>>
+<<PARAGRAPH>>Management commitment
+Responsibility and authority
+Management representative
+Provision of resources
+Infrastructure<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.2
+Competence, training
+and awareness
+4.4.2
+Competence, training and
+awareness
+6.2.1
+6.2.2
+(Human resources) General
+Competence, awareness and
+training<<HEADING_END>>
+<<HEADING level=3>>4.4.3
+Communication,
+participation and
+consultation<<HEADING_END>>
+<<HEADING level=3>>4.4.3
+Communication
+5.5.3
+7.2.3
+Internal communication
+Customer communication<<HEADING_END>>
+<<HEADING level=3>>4.4.4
+Documentation
+4.4.4
+Documentation
+4.2.1
+(Documentation requirements)
+General<<HEADING_END>>
+<<HEADING level=3>>4.4.5
+Control of documents
+4.4.5
+Control of documents
+4.2.3
+Control of documents<<HEADING_END>>
+<<HEADING level=3>>4.4.6
+Operational control
+4.4.6
+Operational control
+7.1
+7.2
+7.2.1<<HEADING_END>>
+<<PARAGRAPH>>Planning of product realization
+Customer-related processes
+Determination of requirements
+related to the product
+Review of requirements related
+to the product
+Design and development
+planning
+Design and development
+inputs
+Design and development
+outputs
+Design and development
+review
+Design and development
+verification
+Design and development
+validation
+Control of design and
+development changes
+Purchasing process
+Purchasing information
+Verification of purchased
+product
+Production and service
+provision
+Control of production and
+service provision
+Validation of processes for
+production and service
+provision
+Preservation of product<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2.2<<HEADING_END>>
+<<HEADING level=3>>7.3.1<<HEADING_END>>
+<<HEADING level=3>>7.3.2<<HEADING_END>>
+<<HEADING level=3>>7.3.3<<HEADING_END>>
+<<HEADING level=3>>7.3.4<<HEADING_END>>
+<<HEADING level=3>>7.3.5<<HEADING_END>>
+<<HEADING level=3>>7.3.6<<HEADING_END>>
+<<HEADING level=3>>7.3.7<<HEADING_END>>
+<<HEADING level=3>>7.4.1
+7.4.2
+7.4.3<<HEADING_END>>
+<<HEADING level=3>>7.5<<HEADING_END>>
+<<HEADING level=3>>7.5.1<<HEADING_END>>
+<<HEADING level=3>>7.5.2<<HEADING_END>>
+<<HEADING level=3>>7.5.5<<HEADING_END>>
+<<PARAGRAPH>>16
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<TABLE_1>>
+| OHSAS 18001:2007   |                      | ISO 14001:2004   |                          | ISO 9001:2000   |                                 |
+|:-------------------|:---------------------|:-----------------|:-------------------------|:----------------|:--------------------------------|
+| 4.4.1              | Resources, roles,    | 4.4.1            | Resources, roles,        | 5.1             | Management commitment           |
+|                    | responsibility,      |                  | responsibility and       | 5.5.1           | Responsibility and authority    |
+|                    | accountability and   |                  | authority                | 5.5.2           | Management representative       |
+|                    | authority            |                  |                          | 6.1             | Provision of resources          |
+|                    |                      |                  |                          | 6.3             | Infrastructure                  |
+| 4.4.2              | Competence, training | 4.4.2            | Competence, training and | 6.2.1           | (Human resources) General       |
+|                    | and awareness        |                  | awareness                | 6.2.2           | Competence, awareness and       |
+|                    |                      |                  |                          |                 | training                        |
+| 4.4.3              | Communication,       | 4.4.3            | Communication            | 5.5.3           | Internal communication          |
+|                    | participation and    |                  |                          | 7.2.3           | Customer communication          |
+|                    | consultation         |                  |                          |                 |                                 |
+| 4.4.4              | Documentation        | 4.4.4            | Documentation            | 4.2.1           | (Documentation requirements)    |
+|                    |                      |                  |                          |                 | General                         |
+| 4.4.5              | Control of documents | 4.4.5            | Control of documents     | 4.2.3           | Control of documents            |
+| 4.4.6              | Operational control  | 4.4.6            | Operational control      | 7.1             | Planning of product realization |
+|                    |                      |                  |                          | 7.2             | Customer-related processes      |
+|                    |                      |                  |                          | 7.2.1           | Determination of requirements   |
+|                    |                      |                  |                          | 7.2.2           | related to the product          |
+|                    |                      |                  |                          | 7.3.1           | Review of requirements related  |
+|                    |                      |                  |                          | 7.3.2           | to the product                  |
+|                    |                      |                  |                          | 7.3.3           | Design and development          |
+|                    |                      |                  |                          | 7.3.4           | planning                        |
+|                    |                      |                  |                          | 7.3.5           | Design and development          |
+|                    |                      |                  |                          | 7.3.6           | inputs                          |
+|                    |                      |                  |                          | 7.3.7           | Design and development          |
+|                    |                      |                  |                          | 7.4.1           | outputs                         |
+|                    |                      |                  |                          | 7.4.2           | Design and development          |
+|                    |                      |                  |                          | 7.4.3           | review                          |
+|                    |                      |                  |                          | 7.5             | Design and development          |
+|                    |                      |                  |                          | 7.5.1           | verification                    |
+|                    |                      |                  |                          | 7.5.2           | Design and development          |
+|                    |                      |                  |                          | 7.5.5           | validation                      |
+|                    |                      |                  |                          |                 | Control of design and           |
+|                    |                      |                  |                          |                 | development changes             |
+|                    |                      |                  |                          |                 | Purchasing process              |
+|                    |                      |                  |                          |                 | Purchasing information          |
+|                    |                      |                  |                          |                 | Verification of purchased       |
+|                    |                      |                  |                          |                 | product                         |
+|                    |                      |                  |                          |                 | Production and service          |
+|                    |                      |                  |                          |                 | provision                       |
+|                    |                      |                  |                          |                 | Control of production and       |
+|                    |                      |                  |                          |                 | service provision               |
+|                    |                      |                  |                          |                 | Validation of processes for     |
+|                    |                      |                  |                          |                 | production and service          |
+|                    |                      |                  |                          |                 | provision                       |
+|                    |                      |                  |                          |                 | Preservation of product         |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_27>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>Table A.1
+Correspondence between OHSAS 18001:2007, ISO 14001:2004
+and ISO 9001:2000  ( continued )<<HEADING_END>>
+<<HEADING level=3>>OHSAS 18001:2007
+ISO 14001:2004
+ISO 9001:2000<<HEADING_END>>
+<<HEADING level=3>>4.4.7
+Emergency preparedness
+and response
+4.4.7
+Emergency preparedness
+and response
+8.3
+Control of nonconforming
+product<<HEADING_END>>
+<<HEADING level=3>>4.5
+Checking (title only)
+4.5
+Checking (title only)
+8
+Measurement, analysis and
+improvement (title only)<<HEADING_END>>
+<<HEADING level=3>>4.5.1
+Performance
+measurement and
+monitoring<<HEADING_END>>
+<<HEADING level=3>>4.5.1
+Monitoring and
+measurement
+7.6<<HEADING_END>>
+<<PARAGRAPH>>Control of monitoring and
+measuring devices
+(Measurement, analysis and
+improvement)
+General
+Monitoring and measurement
+of processes
+Monitoring and measurement
+of product
+Analysis of data<<PARAGRAPH_END>>
+<<HEADING level=3>>8.1
+8.2.3<<HEADING_END>>
+<<HEADING level=3>>8.2.4<<HEADING_END>>
+<<HEADING level=3>>8.4<<HEADING_END>>
+<<HEADING level=3>>4.5.2
+Evaluation of compliance  4.5.2
+Evaluation of compliance
+8.2.3<<HEADING_END>>
+<<PARAGRAPH>>Monitoring and measurement
+of processes
+Monitoring and measurement
+of product<<PARAGRAPH_END>>
+<<HEADING level=3>>8.2.4<<HEADING_END>>
+<<HEADING level=3>>4.5.3
+Incident investigation,
+nonconformity,
+corrective action and
+preventive action (title
+only)<<HEADING_END>>
+<<PARAGRAPH>>—
+—
+—
+—<<PARAGRAPH_END>>
+<<HEADING level=3>>4.5.3.1
+Incident investigation
+—
+—
+—
+—<<HEADING_END>>
+<<HEADING level=3>>4.5.3.2
+Nonconformity,
+corrective and preventive
+action<<HEADING_END>>
+<<HEADING level=3>>4.5.3
+Nonconformity, corrective
+action and preventive
+action<<HEADING_END>>
+<<HEADING level=3>>8.3<<HEADING_END>>
+<<PARAGRAPH>>Control of nonconforming
+product
+Analysis of data
+Corrective action
+Preventive action<<PARAGRAPH_END>>
+<<HEADING level=3>>8.4
+8.5.2
+8.5.3<<HEADING_END>>
+<<HEADING level=3>>4.5.4
+Control of records
+4.5.4
+Control of records
+4.2.4
+Control of records<<HEADING_END>>
+<<HEADING level=3>>4.5.5
+Internal audit
+4.5.5
+Internal audit
+8.2.2
+Internal audit<<HEADING_END>>
+<<HEADING level=3>>4.6
+Management review
+4.6
+Management review
+5.1
+5.6
+5.6.1
+5.6.2
+5.6.3
+8.5.1<<HEADING_END>>
+<<PARAGRAPH>>Management commitment
+Management review (title only)
+General
+Review input
+Review output
+Continual improvement<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+17<<PARAGRAPH_END>>
+<<TABLE_1>>
+| OHSAS 18001:2007   |                           | ISO 14001:2004   |                           | ISO 9001:2000   |                                |
+|:-------------------|:--------------------------|:-----------------|:--------------------------|:----------------|:-------------------------------|
+| 4.4.7              | Emergency preparedness    | 4.4.7            | Emergency preparedness    | 8.3             | Control of nonconforming       |
+|                    | and response              |                  | and response              |                 | product                        |
+| 4.5                | Checking (title only)     | 4.5              | Checking (title only)     | 8               | Measurement, analysis and      |
+|                    |                           |                  |                           |                 | improvement (title only)       |
+| 4.5.1              | Performance               | 4.5.1            | Monitoring and            | 7.6             | Control of monitoring and      |
+|                    | measurement and           |                  | measurement               | 8.1             | measuring devices              |
+|                    | monitoring                |                  |                           | 8.2.3           | (Measurement, analysis and     |
+|                    |                           |                  |                           | 8.2.4           | improvement)                   |
+|                    |                           |                  |                           | 8.4             | General                        |
+|                    |                           |                  |                           |                 | Monitoring and measurement     |
+|                    |                           |                  |                           |                 | of processes                   |
+|                    |                           |                  |                           |                 | Monitoring and measurement     |
+|                    |                           |                  |                           |                 | of product                     |
+|                    |                           |                  |                           |                 | Analysis of data               |
+| 4.5.2              | Evaluation of compliance  | 4.5.2            | Evaluation of compliance  | 8.2.3           | Monitoring and measurement     |
+|                    |                           |                  |                           | 8.2.4           | of processes                   |
+|                    |                           |                  |                           |                 | Monitoring and measurement     |
+|                    |                           |                  |                           |                 | of product                     |
+| 4.5.3              | Incident investigation,   | —                | —                         | —               | —                              |
+|                    | nonconformity,            |                  |                           |                 |                                |
+|                    | corrective action and     |                  |                           |                 |                                |
+|                    | preventive action (title  |                  |                           |                 |                                |
+|                    | only)                     |                  |                           |                 |                                |
+| 4.5.3.1            | Incident investigation    | —                | —                         | —               | —                              |
+| 4.5.3.2            | Nonconformity,            | 4.5.3            | Nonconformity, corrective | 8.3             | Control of nonconforming       |
+|                    | corrective and preventive |                  | action and preventive     | 8.4             | product                        |
+|                    | action                    |                  | action                    | 8.5.2           | Analysis of data               |
+|                    |                           |                  |                           | 8.5.3           | Corrective action              |
+|                    |                           |                  |                           |                 | Preventive action              |
+| 4.5.4              | Control of records        | 4.5.4            | Control of records        | 4.2.4           | Control of records             |
+| 4.5.5              | Internal audit            | 4.5.5            | Internal audit            | 8.2.2           | Internal audit                 |
+| 4.6                | Management review         | 4.6              | Management review         | 5.1             | Management commitment          |
+|                    |                           |                  |                           | 5.6             | Management review (title only) |
+|                    |                           |                  |                           | 5.6.1           | General                        |
+|                    |                           |                  |                           | 5.6.2           | Review input                   |
+|                    |                           |                  |                           | 5.6.3           | Review output                  |
+|                    |                           |                  |                           | 8.5.1           | Continual improvement          |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_28>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Annex B (informative)  Correspondence between
+OHSAS 18001, OHSAS 18002, and
+the ILO-OSH:2001  Guidelines on
+occupational safety and health
+management systems<<HEADING_END>>
+<<HEADING level=2>>B.1
+Introduction<<HEADING_END>>
+<<PARAGRAPH>>This annex identifies the key differences between the International
+Labour Organization’s ILO-OSH Guidelines and the OHSAS documents,
+and provides a comparative assessment of their differing requirements.<<PARAGRAPH_END>>
+<<HEADING level=3>>It should be noted that  no areas of significant difference have been
+identified .<<HEADING_END>>
+<<PARAGRAPH>>Consequently, those organizations that have implemented an OH&S
+management system that is compliant with OHSAS 18001 may be
+reassured that their OH&S management system will also be compatible
+with the recommendations of the ILO-OSH Guidelines.<<PARAGRAPH_END>>
+<<HEADING level=3>>A correspondence table between the individual clauses of the OHSAS
+documents and those of the ILO-OSH Guidelines is given in  B.4 .<<HEADING_END>>
+<<HEADING level=2>>B.2
+Overview<<HEADING_END>>
+<<PARAGRAPH>>The two prime objectives of the ILO-OSH Guidelines are:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+to assist countries in the establishment of a national framework for
+occupational health and safety management systems; and<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+to provide guidance to individual organizations regarding the
+integration of OH&S elements into their overall policy and
+management arrangements.<<PARAGRAPH_END>>
+<<PARAGRAPH>>OHSAS 18001 specifies requirements for OH&S management systems,
+to enable organizations to control risks and to improve their OH&S
+performance. OHSAS 18002 gives guidance on the implementation of
+OHSAS 18001. The OHSAS documents are therefore comparable with
+Section 3 of the ILO-OSH Guidelines “ The occupational safety and
+health management system in the organization ”.<<PARAGRAPH_END>>
+<<HEADING level=2>>B.3
+Detailed analysis of Section 3 of the ILO-OSH
+Guidelines against the OHSAS documents<<HEADING_END>>
+<<HEADING level=3>>B.3.1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>The focus of the ILO-OSH Guidelines is on workers. The focus of the
+OHSAS Standards, towards persons under the control of the
+organization and other interested parties, is broader.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.2
+OH&S management system models<<HEADING_END>>
+<<PARAGRAPH>>The models picturing the main elements of an OH&S management
+system are directly equivalent between the ILO-OSH Guidelines and the
+OHSAS documents.<<PARAGRAPH_END>>
+<<PARAGRAPH>>18
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_29>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.3
+ILO-OSH Section 3.2, Worker participation<<HEADING_END>>
+<<PARAGRAPH>>In the ILO-OSH  Guidelines , subsection  3.2.4  recommends that:  “The
+employer should ensure as appropriate, the establishment and
+efficient functioning of a health and safety committee and the
+recognition of workers health and safety representatives in
+accordance with national laws and practice” .<<PARAGRAPH_END>>
+<<PARAGRAPH>>OHSAS 18001,  4.4.3 , requires the organization to establish a procedure
+for communication, participation and consultation, and to involve a
+wider spectrum of interested parties (due to the broader scope of
+application of the document).<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.4
+ILO-OSH Section 3.3, Responsibility and
+accountability<<HEADING_END>>
+<<HEADING level=3>>The ILO-OSH  Guidelines  recommend in  3.3.1(h)  the establishment of
+prevention and health promotion programmes. There is no requirement
+in the OHSAS Standards for this.<<HEADING_END>>
+<<HEADING level=3>>B.3.5
+ILO-OSH Section 3.4, Competence and training<<HEADING_END>>
+<<PARAGRAPH>>The recommendation of the ILO-OSH  Guidelines  subsection  3.4.4 :
+“Training should be provided to all participants at no cost and
+should take place during working hours if possible” , is not a
+requirement of the OHSAS documents.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.6
+ILO-OSH Section 3.10.4, Procurement<<HEADING_END>>
+<<PARAGRAPH>>The ILO-OSH Guidelines emphasize that safety and health requirements
+of the organization should be incorporated into purchasing and leasing
+specifications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The OHSAS Standards address procurement by their requirements for
+risk assessment, identification of legal requirements and the
+establishment of operational controls.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.7
+ILO-OSH Section 3.10.5, Contracting<<HEADING_END>>
+<<PARAGRAPH>>The ILO-OSH Guidelines define the steps to be taken to ensure that the
+organization’s safety and health requirements are applied to contractors
+(they also provide a summary of the actions needed to ensure that they
+are). This is implicit in OHSAS.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.8
+ILO-OSH Section 3.12, Investigation of work related
+injuries, ill health, diseases and incidents, and their
+impact on safety and health performance<<HEADING_END>>
+<<HEADING level=3>>The ILO-OSH Guidelines do not require corrective actions or preventive
+actions to be reviewed through the risk assessment process prior to
+implementation, as they are in OHSAS 18001,  4.5.3.2 .<<HEADING_END>>
+<<HEADING level=3>>B.3.9
+ILO-OSH Section 3.13, Audit<<HEADING_END>>
+<<PARAGRAPH>>The ILO-OSH Guidelines recommend consultation on the selection of
+auditors. In contrast, the OHSAS documents require audit personnel to
+be impartial and objective.<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+19<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_30>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.10
+ILO-OSH Section 3.16, Continual improvement<<HEADING_END>>
+<<PARAGRAPH>>This is a separate subclause in the ILO-OSH Guidelines. It details
+arrangements that should be taken into account for the achievement of
+continual improvement. Similar arrangements are detailed throughout
+the OHSAS documents, which consequently do not have a
+corresponding clause.<<PARAGRAPH_END>>
+<<HEADING level=2>>B.4
+Correspondence between the clauses of the
+OHSAS documents and the clauses of the
+ILO-OSH Guidelines<<HEADING_END>>
+<<HEADING level=3>>Table B.1
+Correspondence between the clauses of the OHSAS documents
+and the clauses of the ILO-OSH Guidelines<<HEADING_END>>
+<<HEADING level=3>>Clause
+OHSAS
+Clause
+ILO-OSH Guidelines<<HEADING_END>>
+<<HEADING level=3>>Introduction
+—
+3.0
+Introduction
+The occupational safety and health management
+system in the organization<<HEADING_END>>
+<<HEADING level=3>>Foreword
+—
+The International Labour Organization<<HEADING_END>>
+<<HEADING level=3>>1
+Scope
+1.0
+Objectives<<HEADING_END>>
+<<HEADING level=3>>2
+Reference publications
+—
+Bibliography<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions
+—
+Glossary<<HEADING_END>>
+<<HEADING level=3>>4
+OH&S management system elements
+(title only)
+—
+—<<HEADING_END>>
+<<HEADING level=3>>4.1
+General requirements
+3.0
+The occupational safety and health management
+system in the organization<<HEADING_END>>
+<<HEADING level=3>>4.2
+OH&S policy
+3.1
+3.16
+Occupational safety and health policy
+Continual improvement<<HEADING_END>>
+<<HEADING level=3>>4.3
+Planning (title only)
+—
+Planning and implementation (title only)<<HEADING_END>>
+<<HEADING level=3>>4.3.1
+Hazard identification, risk assessment and
+determining controls
+3.7
+3.8
+3.10
+3.10.1
+3.10.2
+3.10.5<<HEADING_END>>
+<<PARAGRAPH>>Initial review
+System planning, development and implementation
+Hazard prevention
+Prevention and control measures
+Management of change
+Contracting<<PARAGRAPH_END>>
+<<HEADING level=3>>4.3.2
+Legal and other requirements
+3.7.2
+3.10.1.2
+(Initial review)
+(Prevention and control measures)<<HEADING_END>>
+<<HEADING level=3>>4.3.3
+Objectives and programme(s)
+3.8
+3.9
+3.16<<HEADING_END>>
+<<PARAGRAPH>>System planning, development and implementation
+Occupational safety and health objectives
+Continual improvement<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4
+Implementation and operation (title only)
+—
+—<<HEADING_END>>
+<<HEADING level=3>>4.4.1
+Resources, roles, responsibility,
+accountability and authority
+3.3
+3.8
+3.16<<HEADING_END>>
+<<PARAGRAPH>>Responsibility and accountability
+System planning, development and implementation
+Continual improvement<<PARAGRAPH_END>>
+<<PARAGRAPH>>20
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Clause   | OHSAS                                      | Clause   | ILO-OSH Guidelines                              |
+|:---------|:-------------------------------------------|:---------|:------------------------------------------------|
+|          | Introduction                               | —        | Introduction                                    |
+|          |                                            | 3.0      | The occupational safety and health management   |
+|          |                                            |          | system in the organization                      |
+|          | Foreword                                   | —        | The International Labour Organization           |
+| 1        | Scope                                      | 1.0      | Objectives                                      |
+| 2        | Reference publications                     | —        | Bibliography                                    |
+| 3        | Terms and definitions                      | —        | Glossary                                        |
+| 4        | OH&S management system elements            | —        | —                                               |
+|          | (title only)                               |          |                                                 |
+| 4.1      | General requirements                       | 3.0      | The occupational safety and health management   |
+|          |                                            |          | system in the organization                      |
+| 4.2      | OH&S policy                                | 3.1      | Occupational safety and health policy           |
+|          |                                            | 3.16     | Continual improvement                           |
+| 4.3      | Planning (title only)                      | —        | Planning and implementation (title only)        |
+| 4.3.1    | Hazard identification, risk assessment and | 3.7      | Initial review                                  |
+|          | determining controls                       | 3.8      | System planning, development and implementation |
+|          |                                            | 3.10     | Hazard prevention                               |
+|          |                                            | 3.10.1   | Prevention and control measures                 |
+|          |                                            | 3.10.2   | Management of change                            |
+|          |                                            | 3.10.5   | Contracting                                     |
+| 4.3.2    | Legal and other requirements               | 3.7.2    | (Initial review)                                |
+|          |                                            | 3.10.1.2 | (Prevention and control measures)               |
+| 4.3.3    | Objectives and programme(s)                | 3.8      | System planning, development and implementation |
+|          |                                            | 3.9      | Occupational safety and health objectives       |
+|          |                                            | 3.16     | Continual improvement                           |
+| 4.4      | Implementation and operation (title only)  | —        | —                                               |
+| 4.4.1    | Resources, roles, responsibility,          | 3.3      | Responsibility and accountability               |
+|          | accountability and authority               | 3.8      | System planning, development and implementation |
+|          |                                            | 3.16     | Continual improvement                           |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_31>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.1
+Correspondence between the clauses of the OHSAS documents
+and the clauses of the ILO-OSH Guidelines  ( continued )<<HEADING_END>>
+<<HEADING level=3>>Clause
+OHSAS
+Clause
+ILO-OSH Guidelines<<HEADING_END>>
+<<HEADING level=3>>4.4.2
+Competence, training and awareness
+3.4
+Competence and training<<HEADING_END>>
+<<HEADING level=3>>4.4.3
+Communication, participation and
+consultation
+3.2
+3.6
+Worker participation
+Communication<<HEADING_END>>
+<<HEADING level=3>>4.4.4
+Documentation
+3.5
+Occupational safety and health management
+system documentation<<HEADING_END>>
+<<HEADING level=3>>4.4.5
+Control of documents
+3.5
+Occupational safety and health management
+system documentation<<HEADING_END>>
+<<HEADING level=3>>4.4.6
+Operational control
+3.10.2
+3.10.4
+3.10.5<<HEADING_END>>
+<<PARAGRAPH>>Management of change
+Procurement
+Contracting<<PARAGRAPH_END>>
+<<HEADING level=3>>4.4.7
+Emergency preparedness and response
+3.10.3
+Emergency prevention, preparedness and response<<HEADING_END>>
+<<HEADING level=3>>4.5
+Checking (title only)
+—
+Evaluation (title only)<<HEADING_END>>
+<<HEADING level=3>>4.5.1
+Performance measurement and monitoring
+3.11
+Performance monitoring and measurement<<HEADING_END>>
+<<HEADING level=3>>4.5.2
+Evaluation of compliance
+—
+—<<HEADING_END>>
+<<HEADING level=3>>4.5.3
+Incident investigation, nonconformity,
+corrective action and preventive action
+(title only)<<HEADING_END>>
+<<HEADING level=3>>—
+—<<HEADING_END>>
+<<HEADING level=3>>4.5.3.1
+Incident investigation
+3.12<<HEADING_END>>
+<<PARAGRAPH>>Investigation of work related injuries, ill health,
+diseases and incidents and their impact on safety
+and health performance
+Continual improvement<<PARAGRAPH_END>>
+<<HEADING level=3>>3.16<<HEADING_END>>
+<<HEADING level=3>>4.5.3.2
+Nonconformity, corrective and preventive
+action
+3.15
+Preventive and corrective action<<HEADING_END>>
+<<HEADING level=3>>4.5.4
+Control of records
+3.5
+Occupational safety and health management
+system documentation<<HEADING_END>>
+<<HEADING level=3>>4.5.5
+Internal audit
+3.13
+Audit<<HEADING_END>>
+<<HEADING level=3>>4.6
+Management review
+3.14
+3.16
+Management review
+Continual improvement<<HEADING_END>>
+<<PARAGRAPH>>© BSI 2007
+•
+21<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Clause   | OHSAS                                    | Clause   | ILO-OSH Guidelines                                  |
+|:---------|:-----------------------------------------|:---------|:----------------------------------------------------|
+| 4.4.2    | Competence, training and awareness       | 3.4      | Competence and training                             |
+| 4.4.3    | Communication, participation and         | 3.2      | Worker participation                                |
+|          | consultation                             | 3.6      | Communication                                       |
+| 4.4.4    | Documentation                            | 3.5      | Occupational safety and health management           |
+|          |                                          |          | system documentation                                |
+| 4.4.5    | Control of documents                     | 3.5      | Occupational safety and health management           |
+|          |                                          |          | system documentation                                |
+| 4.4.6    | Operational control                      | 3.10.2   | Management of change                                |
+|          |                                          | 3.10.4   | Procurement                                         |
+|          |                                          | 3.10.5   | Contracting                                         |
+| 4.4.7    | Emergency preparedness and response      | 3.10.3   | Emergency prevention, preparedness and response     |
+| 4.5      | Checking (title only)                    | —        | Evaluation (title only)                             |
+| 4.5.1    | Performance measurement and monitoring   | 3.11     | Performance monitoring and measurement              |
+| 4.5.2    | Evaluation of compliance                 | —        | —                                                   |
+| 4.5.3    | Incident investigation, nonconformity,   | —        | —                                                   |
+|          | corrective action and preventive action  |          |                                                     |
+|          | (title only)                             |          |                                                     |
+| 4.5.3.1  | Incident investigation                   | 3.12     | Investigation of work related injuries, ill health, |
+|          |                                          | 3.16     | diseases and incidents and their impact on safety   |
+|          |                                          |          | and health performance                              |
+|          |                                          |          | Continual improvement                               |
+| 4.5.3.2  | Nonconformity, corrective and preventive | 3.15     | Preventive and corrective action                    |
+|          | action                                   |          |                                                     |
+| 4.5.4    | Control of records                       | 3.5      | Occupational safety and health management           |
+|          |                                          |          | system documentation                                |
+| 4.5.5    | Internal audit                           | 3.13     | Audit                                               |
+| 4.6      | Management review                        | 3.14     | Management review                                   |
+|          |                                          | 3.16     | Continual improvement                               |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_32>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<HEADING level=1>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1] ISO 9000:2005,  Quality management systems – Fundamentals
+and vocabulary<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2] ISO 9001:2000,  Quality management systems – Requirements<<PARAGRAPH_END>>
+<<PARAGRAPH>>[3] ISO 14001:2004,  Environmental management systems –
+Requirements with guidance for use<<PARAGRAPH_END>>
+<<PARAGRAPH>>[4] ISO 19011:2002,  Guidelines for quality and/or environmental
+management systems auditing<<PARAGRAPH_END>>
+<<PARAGRAPH>>22
+•
+© BSI 2007<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_33>>
+<<PARAGRAPH>>BS OHSAS 18001:2007<<PARAGRAPH_END>>
+<<PARAGRAPH>>This page deliberately left blank<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_34>>
+<<HEADING level=2>>BS OHSAS 18001:2007<<HEADING_END>>
+<<HEADING level=1>>BSI British Standards<<HEADING_END>>
+<<PARAGRAPH>>Part of the BSI Group, BSI British Standards develops and produces
+standards and information products that promote and share best practice.
+In its role as the UK’s National Standards Body it represents the UK view
+on standards and standardization in Europe and at the international level.
+BSI British Standards is also a leading provider of standardization and
+consortia services to the public and private sectors, serving the interests of
+a wide range of industry sectors as well as governments, consumers,
+employees and society overall, to make sure that British, European and
+international standards are useful, relevant and authoritative.<<PARAGRAPH_END>>
+<<HEADING level=2>>Revisions<<HEADING_END>>
+<<HEADING level=2>>Information on standards<<HEADING_END>>
+<<PARAGRAPH>>British Standards as well as EN and ISO British Standard implementations are
+updated by amendment or revision. Users of British Standards should make sure
+that they possess the latest amendment or editions. You can check this by
+searching the BSI website  www.bsi-global.com .
+BSI British Standards offer members an individual updating service called PLUS
+which ensures that subscribers automatically receive the latest editions of
+standards. For further information about PLUS please go to
+www.bsi-global.com/PLUS .
+It is the constant aim of BSI British Standards to improve the quality of our
+products and services. We would be grateful if anyone finding an inaccuracy or
+ambiguity while using this British Standard would inform the Secretary of the
+Technical Committee responsible, the identity of which can be found on the inside
+front cover.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BSI British Standards provides a wide range of information on national, European
+and international standards. You may search the full catalogue that can be found
+on the website  www.bsi-global.com/shop  for all British Standards and EN, IEC
+and ISO implementations (i.e. BS EN , BS ISO, BS IEC, etc).
+You may now order your copies of British Standards in hard copy or download the
+PDF version (if available) by visiting  www.bsi-global.com/shop .
+For information on withdrawn standards and other national standards bodies’
+products in Europe and internationally, please contact the BSI Resource Centre.
+Tel: +44 (0)20 8996 7111  Fax: +44 (0)20 8996 7048
+Email: library@bsi-global.com<<PARAGRAPH_END>>
+<<HEADING level=2>>BSI Membership<<HEADING_END>>
+<<PARAGRAPH>>BSI Subscribing Members are kept up-to-date with standards developments
+and receive substantial discounts on the purchase price of British Standards
+through their Membership. For details of these and other benefits contact the
+BSI Membership Department.
+Tel: +44 (0)20 8996 7002  Fax: +44 (0)20 8996 7001
+Email: membership@bsi-global.com
+Information regarding online access to British Standards via British Standards
+Online can be found at  www.bsi-global.com/BSOL .
+Further information about BSI is available on the BSI website at
+www.bsi-global.com .<<PARAGRAPH_END>>
+<<HEADING level=2>>Buying standards<<HEADING_END>>
+<<PARAGRAPH>>Orders for all British Standards, international and foreign standards and
+publications should be addressed to BSI Customer Services.
+Tel: +44 (0)20 8996 9001  Fax: +44 (0)20 8996 7001
+Email: orders@bsi-global.com
+British Standards and other BSI publications are also available from the BSI
+website at  www.bsi-global.com/shop .
+In response to order for international standards, it is BSI policy to supply the BSI
+implementation of those that have been published as British Standards, unless
+otherwise requested.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright<<PARAGRAPH_END>>
+<<PARAGRAPH>>Copyright subsists in all BSI publications. BSI holds the copyright, in the UK, of the publications of the
+international standardization bodies.Except as permitted under the Copyright, Designs, and Patents Act 1988
+no extract may be reproduced, stored in a retrieval system or transmitted in any form or by any means –
+electronic, photocopying, recording or otherwise – without prior written permission from BSI. This does not
+preclude the free use, in the course of implementing the standards, of necessary details such as symbols, and
+size, type or grade designations. If these details are to be used for any other purpose than implementation
+then the prior written permission of BSI must be obtained. Details and advice can be obtained from the
+Copyright and Licensing Manager.<<PARAGRAPH_END>>
+<<HEADING level=3>>Tel: +44 (0)20 8996 7070  Email: copyright@bsi-global.com<<HEADING_END>>
+<<HEADING level=3>>ICS 03.100.01; 13.100<<HEADING_END>>
+<<IMAGE_2>>
+[Image 2 contains text: Th—~ an @
+2 Gi oe
+2 Pel |
+British Standards]
+<<HEADING level=3>>BSI Group Headquarters<<HEADING_END>>
+<<HEADING level=3>>389 Chiswick High Road, London W4 4AL, UK
+Tel +44 (0)20 8996 9000  Fax +44 (0)20 8996 7400  www.bsi-global.com<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 34
+Total Images: 2
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 1028x600
+[IMAGE_2] Page: 34, Size: 1028x600
+
+Total Tables: 5
+
+Table Reference List:
+[TABLE_1] Page: 25, Size: 13x6
+[TABLE_1] Page: 26, Size: 7x6
+[TABLE_1] Page: 27, Size: 11x6
+[TABLE_1] Page: 30, Size: 15x4
+[TABLE_1] Page: 31, Size: 16x4
+<<SECTION_END>>
+<<DOCUMENT_END>>

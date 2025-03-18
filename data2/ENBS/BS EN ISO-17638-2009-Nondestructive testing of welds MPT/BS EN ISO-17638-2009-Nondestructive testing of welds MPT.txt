@@ -1,0 +1,792 @@
+<<DOCUMENT_START>>
+<<PAGE_1>>
+<<HEADING level=2>>BRITISH STANDARD<<HEADING_END>>
+<<HEADING level=2>>BS EN ISO
+17638:2009<<HEADING_END>>
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing
+of welds — Magnetic
+particle testing (ISO
+17638:2003)<<HEADING_END>>
+<<PARAGRAPH>>ICS 25.160.40<<PARAGRAPH_END>>
+<<IMAGE_1>>
+<<PARAGRAPH>>NO COPYING WITHOUT BSI PERMISSION EXCEPT AS PERMITTED BY COPYRIGHT LAW<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_2>>
+<<HEADING level=3>>BS EN ISO 17638:2009<<HEADING_END>>
+<<IMAGE_2>>
+[Image 2 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=1>>National foreword<<HEADING_END>>
+<<PARAGRAPH>>This British Standard is the UK implementation of EN ISO 17638:2009.
+It is identical to ISO 17638:2003. It supersedes BS EN 1290:1998 which
+is withdrawn.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The UK participation in its preparation was entrusted to Technical
+Committee WEE/46, Non-destructive testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A list of organizations represented on this committee can be obtained on
+request to its secretary.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This publication does not purport to include all the necessary provisions
+of a contract. Users are responsible for its correct application.<<PARAGRAPH_END>>
+<<HEADING level=3>>Compliance with a British Standard cannot confer immunity
+from legal obligations.<<HEADING_END>>
+<<HEADING level=3>>Amendments/corrigenda issued since publication<<HEADING_END>>
+<<PARAGRAPH>>This British Standard
+was published under
+the authority of the
+Standards Policy and
+Strategy Committee on 31
+January 201 0<<PARAGRAPH_END>>
+<<PARAGRAPH>>Date
+Comments<<PARAGRAPH_END>>
+<<PARAGRAPH>>© BSI 2010<<PARAGRAPH_END>>
+<<HEADING level=3>>ISBN 978 0 580 66701 5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_3>>
+<<HEADING level=1>>EN ISO 17638<<HEADING_END>>
+<<HEADING level=1>>EUROPEAN STANDARD<<HEADING_END>>
+<<IMAGE_3>>
+[Image 3 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=1>>NORME EUROPÉENNE<<HEADING_END>>
+<<HEADING level=3>>EUROPÄISCHE NORM<<HEADING_END>>
+<<PARAGRAPH>>November 2009<<PARAGRAPH_END>>
+<<PARAGRAPH>>ICS 25.160.40
+Supersedes EN 1290:1998<<PARAGRAPH_END>>
+<<PARAGRAPH>>English Version<<PARAGRAPH_END>>
+<<HEADING level=2>>Non-destructive testing of welds - Magnetic particle testing (ISO
+17638:2003)<<HEADING_END>>
+<<PARAGRAPH>>Contrôle non destructif des assemblages soudés - Contrôle
+par magnétoscopie (ISO 17638:2003)
+Zerstörungsfreie Prüfung von Schweißverbindungen -
+Magnetpulverprüfung (ISO 17638:2003)<<PARAGRAPH_END>>
+<<PARAGRAPH>>This European Standard was approved by CEN on 24 October 2009.
+CEN members are bound to comply with the CEN/CENELEC Internal Regulations which stipulate the conditions for giving this European
+Standard the status of a national standard without any alteration. Up-to-date lists and bibliographical references concerning such national
+standards may be obtained on application to the CEN Management Centre or to any CEN member.
+This European Standard exists in three official versions (English, French, German). A version in any other language made by translation
+under the responsibility of a CEN member into its own language and notified to the CEN Management Centre has the same status as the
+official versions.
+CEN members are the national standards bodies of Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland,
+France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal,
+Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland and United Kingdom.<<PARAGRAPH_END>>
+<<PARAGRAPH>>EUROPEAN COMMITTEE FOR STANDARDIZATION
+COMITÉ EUROPÉEN DE NORMALISATION
+EUROPÄISCHES KOMITEE FÜR NORMUNG<<PARAGRAPH_END>>
+<<HEADING level=3>>Management Centre:  Avenue Marnix 17,  B-1000 Brussels<<HEADING_END>>
+<<PARAGRAPH>>© 2009 CEN
+All rights of exploitation in any form and by any means reserved
+worldwide for CEN national Members.
+Ref. No. EN ISO 17638:2009: E<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_4>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>EN ISO 17638:2009 (E)<<HEADING_END>>
+<<IMAGE_4>>
+[Image 4 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>The text of ISO 17638:2003 has been prepared by Technical Committee ISO/TC 44 “Welding and allied
+processes” of the International Organization for Standardization (ISO) and has been taken over as EN ISO
+17638:2009 by Technical Committee CEN/TC 121 “Welding” the secretariat of which is held by DIN.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This European Standard shall be given the status of a national standard, either by publication of an identical
+text or by endorsement, at the latest by May 2010, and conflicting national standards shall be withdrawn at the
+latest by May 2010.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. CEN [and/or CENELEC] shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This document supersedes EN 1290:1998.<<PARAGRAPH_END>>
+<<PARAGRAPH>>According to the CEN/CENELEC Internal Regulations, the national standards organizations of the following
+countries are bound to implement this European Standard: Austria, Belgium, Bulgaria, Cyprus, Czech
+Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia,
+Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain,
+Sweden, Switzerland and the United Kingdom.<<PARAGRAPH_END>>
+<<HEADING level=3>>Endorsement notice<<HEADING_END>>
+<<PARAGRAPH>>The text of ISO 17638:2003 has been approved by CEN as a EN ISO 17638:2009 without any modification.<<PARAGRAPH_END>>
+<<HEADING level=3>>3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_5>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_5>>
+[Image 5 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=2>>Contents
+Page<<HEADING_END>>
+<<HEADING level=3>>Foreword............................................................................................................................................................ iv<<HEADING_END>>
+<<HEADING level=3>>1
+Scope...................................................................................................................................................... 1<<HEADING_END>>
+<<HEADING level=3>>2
+Normative references ........................................................................................................................... 1<<HEADING_END>>
+<<HEADING level=3>>3
+Terms and definitions........................................................................................................................... 1<<HEADING_END>>
+<<HEADING level=3>>4
+Safety precautions................................................................................................................................ 1<<HEADING_END>>
+<<PARAGRAPH>>5
+General................................................................................................................................................... 2
+5.1
+Information required prior to testing .................................................................................................. 2
+5.2
+Additional pre-test information ........................................................................................................... 2
+5.3
+Personnel qualification......................................................................................................................... 2
+5.4
+Surface conditions and preparation ................................................................................................... 2
+5.5
+Magnetizing ........................................................................................................................................... 3
+5.6
+Application techniques......................................................................................................................... 4
+5.7
+Detection media .................................................................................................................................... 9
+5.8
+Viewing conditions ............................................................................................................................. 10
+5.9
+Application of detection media.......................................................................................................... 10
+5.10
+Overall performance test.................................................................................................................... 10
+5.11
+False indications ................................................................................................................................. 10
+5.12
+Recording of indications.................................................................................................................... 11
+5.13
+Demagnetization ................................................................................................................................. 11
+5.14
+Test report............................................................................................................................................ 11<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A  (informative)   Variables affecting the sensitivity of magnetic particle testing ............................ 13<<HEADING_END>>
+<<HEADING level=3>>Bibliography ..................................................................................................................................................... 15<<HEADING_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+iii<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_6>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_6>>
+[Image 6 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=2>>Foreword<<HEADING_END>>
+<<PARAGRAPH>>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies
+(ISO member bodies). The work of preparing International Standards is normally carried out through ISO
+technical committees. Each member body interested in a subject for which a technical committee has been
+established has the right to be represented on that committee. International organizations, governmental and
+non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the
+International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.<<PARAGRAPH_END>>
+<<PARAGRAPH>>International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The main task of technical committees is to prepare International Standards. Draft International Standards
+adopted by the technical committees are circulated to the member bodies for voting. Publication as an
+International Standard requires approval by at least 75 % of the member bodies casting a vote.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent
+rights. ISO shall not be held responsible for identifying any or all such patent rights.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17638 was prepared by Technical Committee ISO/TC 44,  Welding and allied processes , Subcommittee
+SC 5,  Testing and inspection of welds .<<PARAGRAPH_END>>
+<<PARAGRAPH>>iv
+© ISO 2003 — All rights reserved<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<IMAGE_7>>
+[Image 7 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=3>>INTERNATIONAL STANDARD
+ISO 17638:2003(E)<<HEADING_END>>
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=1>>Non-destructive testing of welds — Magnetic particle testing<<HEADING_END>>
+<<HEADING level=3>>1
+Scope<<HEADING_END>>
+<<PARAGRAPH>>This International Standard specifies techniques for detection of surface imperfections in welds in
+ferromagnetic materials, including the heat affected zones, by means of magnetic particle testing. The
+techniques are suitable for most welding processes and joint configurations. Variations in the basic techniques
+that will provide a higher or lower test sensitivity, are described in Annex A.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This International Standard does not specify acceptance levels of the indications. Further information on
+acceptance levels for indications may be found in EN 1291 or in product or application standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+Normative references<<HEADING_END>>
+<<PARAGRAPH>>The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any amendments) applies.<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 3059,  Non-destructive testing — Penetrant testing and magnetic particle testing — Viewing conditions<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9934-2,  Non-destructive testing — Magnetic particle testing — Part 2: Detection media<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 9934-3,  Non-destructive testing — Magnetic particle testing — Part 3: Equipment<<PARAGRAPH_END>>
+<<PARAGRAPH>>ISO 17635,  Non-destructive testing of welds — General rules for fusion welds in metallic materials<<PARAGRAPH_END>>
+<<HEADING level=3>>3
+Terms and definitions<<HEADING_END>>
+<<PARAGRAPH>>For the purposes of this document, the terms and definitions given in ISO 17635 apply.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+Safety precautions<<HEADING_END>>
+<<PARAGRAPH>>International, national and local safety and environmental protection regulations shall be observed at all times.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Special consideration shall be given to toxic, inflammable and/or volatile materials, electrical safety and
+unfiltered UV radiation.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+1<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_8>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_8>>
+[Image 8 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=3>>5
+General<<HEADING_END>>
+<<HEADING level=3>>5.1 Information required prior to testing<<HEADING_END>>
+<<PARAGRAPH>>Prior to testing, the following items shall be specified (where applicable):<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+specific test procedure;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+certification requirements for NDT personnel;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+extent of coverage;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+state of manufacture;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+testing techniques to be used;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+overall performance test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+any demagnetization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+acceptance level;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+action necessary for unacceptable indications.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.2 Additional pre-test information<<HEADING_END>>
+<<PARAGRAPH>>Prior to testing, the following additional information can also be required:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+type and designation of the parent and weld materials;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+welding process;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+location and extent of welds to be tested;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+joint preparation and dimensions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+location and extent of any repairs;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+post-weld treatment (if any);<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+surface conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Operators may ask for further information that could be helpful in determining the nature of any indications
+detected.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3 Personnel qualification<<HEADING_END>>
+<<PARAGRAPH>>Magnetic particle testing of welds and the evaluation of results for final acceptance shall be performed by
+qualified and capable personnel. It is recommended that personnel be qualified in accordance with ISO 9712
+or an equivalent standard at an appropriate level in the relevant industry sector.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Surface conditions and preparation<<HEADING_END>>
+<<PARAGRAPH>>Areas to be tested shall be free from scale, oil, grease, weld spatter, machining marks, dirt, heavy and loose
+paint and any other foreign matter that can affect the sensitivity of the test method.<<PARAGRAPH_END>>
+<<HEADING level=3>>2
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_9>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_9>>
+[Image 9 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>It may be necessary to improve the surface condition, e.g., by use of abrasive paper or local grinding to permit
+accurate interpretation of indications.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Any cleaning or surface preparation shall not be detrimental to the material, the surface finish or the magnetic
+testing media.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5 Magnetizing<<HEADING_END>>
+<<HEADING level=3>>5.5.1
+Magnetizing equipment<<HEADING_END>>
+<<PARAGRAPH>>Unless otherwise specified, e.g., in an application standard, the following types of alternating current-
+magnetizing equipment shall be used:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+electromagnetic yokes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+current flow equipment with prods;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+adjacent or threading conductors or coil techniques.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The use of direct current-magnetization or permanent magnets shall be specified prior to testing.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The magnetizing equipment shall conform to ISO 9934-3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Where prods are used, precautions shall be taken to minimize overheating, burning or arcing at the contact
+tips. Removal of arc burns shall be carried out where necessary. The affected area shall be tested by a
+suitable method to ensure the integrity of the surface.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.5.2
+Verification of magnetization<<HEADING_END>>
+<<PARAGRAPH>>A tangential magnetic field strength of 2 kA/m to 6 kA/m (r.m.s.) is recommended.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Verification of the magnetic field strength shall be carried out using one of the following methods:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+a component containing fine, natural or artificial imperfections in the least favourable locations;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+measurement of the tangential field strength as close as possible to the surface using a Hall effect probe.
+The appropriate tangential field strength can be difficult to measure close to abrupt changes in the shape
+of a component, or where flux leaves the surface of a component;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+calculation of the approximate current value in order to achieve the recommended tangential field
+strength; the calculation can be based on the current values specified in Figures 5 and 6;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+other methods based on established principles.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+Flux indicators, placed in contact with the surface being tested, can provide a guide to the magnitude and
+direction of the tangential field, but should not be used to verify that the field strength is acceptable.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+3<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_10>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=3>>5.6 Application techniques<<HEADING_END>>
+<<HEADING level=3>>5.6.1
+Field directions and testing area<<HEADING_END>>
+<<PARAGRAPH>>The detectability of an imperfection depends on the angle of its major axis with respect to the direction of the
+magnetic field. This is explained for one direction of magnetization in Figure 1.<<PARAGRAPH_END>>
+<<IMAGE_10>>
+[Image 10 contains text: EwA"
+XA]
+<<PARAGRAPH>>α
+is the angle between the magnetic field and the direction of the imperfection.
+α min
+is the minimum angle for imperfection detection.<<PARAGRAPH_END>>
+<<PARAGRAPH>>α i
+is an example of imperfection orientation.<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+magnetic field direction
+2
+optimum sensitivity<<PARAGRAPH_END>>
+<<PARAGRAPH>>3
+reducing sensitivity
+4
+insufficient sensitivity<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 1 — Directions of detectable imperfections<<HEADING_END>>
+<<PARAGRAPH>>To ensure detection of imperfections in all orientations, the welds shall be magnetized in two directions
+approximately perpendicular to each other with a maximum deviation of 30 ° . This can be achieved using one
+or more magnetization methods.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Testing in only one field direction is not recommended but may be carried out if specified, e.g., in an
+application standard.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When using yokes or prods, there will be an area of the component in the vicinity of each pole piece or tip that
+will be impossible to test due to excessive magnetic field strength. This is usually seen as furring of particles.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Care shall be taken to ensure adequate overlap of the testing areas as shown in Figures 2 and 3.<<PARAGRAPH_END>>
+<<HEADING level=3>>4
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_11>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_11>>
+[Image 11 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<PARAGRAPH>>d  is the yoke/prod separation<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 2 — Examples of effective testing area (shaded) for magnetizing with yokes and prods<<HEADING_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+5<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_12>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_12>>
+[Image 12 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+effective area
+2
+overlap<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 3 — Overlap of effective areas<<HEADING_END>>
+<<HEADING level=3>>5.6.2
+Typical magnetic testing techniques<<HEADING_END>>
+<<PARAGRAPH>>Magnetic particle testing techniques for common weld joint configurations are shown in Figures 4, 5 and 6.
+Values are given for guidance purposes only. Where possible the same directions of magnetization, and field
+overlaps should be used for other weld geometries to be tested. The width of the flux current path in the
+material,  d , shall be greater or equal to the width of the weld and the heat affected zone + 50 mm and in all
+cases the weld and the heat affected zone shall be included in the effective area. The direction of
+magnetization with respect to the orientation of the weld shall be specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>6
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_13>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_13>>
+[Image 13 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<PARAGRAPH>>d   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 1   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>b   u   d /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b 1   u   d 1 /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>β   ≈  90º<<PARAGRAPH_END>>
+<<PARAGRAPH>>b 2   u   d 2   −  50<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 2   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 1   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 1   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 2   >  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d 2   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>b 1   u   d 1 /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b 1   u   d 1 /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b 2   u   d 2   −  50<<PARAGRAPH_END>>
+<<PARAGRAPH>>b 2   u   d 2   −  50<<PARAGRAPH_END>>
+<<HEADING level=3>>Key<<HEADING_END>>
+<<PARAGRAPH>>1
+longitudinal cracks
+2
+transverse cracks<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 4 — Typical magnetizing techniques for yokes<<HEADING_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+7<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_14>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_14>>
+[Image 14 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<PARAGRAPH>>d   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>b   u   d /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b   u   d /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>β   ≈  90º<<PARAGRAPH_END>>
+<<PARAGRAPH>>d   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>d   W  75<<PARAGRAPH_END>>
+<<PARAGRAPH>>b   u   d /2<<PARAGRAPH_END>>
+<<PARAGRAPH>>b   u   d /2<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 5 — Typical magnetizing techniques for prods, using a magnetizing current
+W  5 A/mm (r.m.s.) prod spacing<<HEADING_END>>
+<<HEADING level=3>>8
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_15>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_15>>
+[Image 15 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>Dimensions in millimetres<<PARAGRAPH_END>>
+<<PARAGRAPH>>20  u   a  u  50<<PARAGRAPH_END>>
+<<PARAGRAPH>>20  u   a   u  50<<PARAGRAPH_END>>
+<<PARAGRAPH>>N ⋅⋅⋅⋅ I   W  8 D<<PARAGRAPH_END>>
+<<PARAGRAPH>>N ⋅⋅⋅⋅ I   W  8 D<<PARAGRAPH_END>>
+<<PARAGRAPH>>20  u   a   u  50<<PARAGRAPH_END>>
+<<PARAGRAPH>>N ⋅⋅⋅⋅ I   W  8 D<<PARAGRAPH_END>>
+<<PARAGRAPH>>N
+is the number of turns
+I
+is the current (r.m.s)<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+is the distance between weld and coil or cable<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure 6 — Typical magnetizing techniques for flexible cables or coils (for longitudinal cracks)<<HEADING_END>>
+<<HEADING level=3>>5.7 Detection media<<HEADING_END>>
+<<HEADING level=3>>5.7.1
+General<<HEADING_END>>
+<<PARAGRAPH>>Detection media may be either in dry powder or liquid form in accordance with ISO 9934-2.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.7.2
+Verification of detection media performance<<HEADING_END>>
+<<PARAGRAPH>>Verification of the detection media shall be carried out periodically to confirm continuing satisfactory
+performance.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+9<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_16>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_16>>
+[Image 16 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>The verification shall be carried out on components having known or artificial surface imperfections, or on pre-
+magnetized reference pieces.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Indications obtained with the medium to be verified shall be compared against those obtained from a medium
+having a known and acceptable performance. For this purpose the reference indications may be:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+real imperfections;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+photograph(s);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+replica(s).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.8 V i ewing conditions<<HEADING_END>>
+<<PARAGRAPH>>The viewing conditions shall be in accordance with ISO 3059.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.9 Application of detection media<<HEADING_END>>
+<<PARAGRAPH>>After the object has been prepared for testing, the detection medium shall be applied by spraying, flooding or
+dusting immediately prior to and during the magnetization. Following this, time shall be allowed for indications
+to form before removal of the magnetic field.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When magnetic suspensions are used, the magnetic field shall be maintained within the object until the
+majority of the suspension carrier liquid has drained away from the test surface. This will prevent any
+indications being washed away.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Depending on the material being tested, its surface condition and magnetic permeability, indications will
+normally remain on the surface even after removal of the magnetic field due to residual magnetism within the
+part. However, the presence of residual magnetism shall not be presumed and post evaluation techniques
+after removal of the prime magnetic field source are only permitted when a component has been proven by an
+overall performance test to retain magnetic indications.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.10 Overall performance test<<HEADING_END>>
+<<PARAGRAPH>>When specified, an overall performance test of the system sensitivity for each procedure shall be carried out
+on site. The performance test shall be designed to ensure a proper functioning of the entire chain of
+parameters including the equipment, the magnetic field strength and direction, surface characteristics,
+detection media and illumination.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The most reliable test is to use representative test pieces containing real imperfections of known type, location,
+size and size-distribution. Where these are not available, fabricated test pieces with artificial imperfections, or
+flux shunting indicators of the cross or shim-type may be used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The test pieces shall be demagnetized and free from indications resulting from previous tests.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE
+It may be necessary to perform an overall performance test of the system sensitivity for each specific
+procedure on site.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.11 False indications<<HEADING_END>>
+<<PARAGRAPH>>False indications which may mask relevant indications can arise for many reasons, such as undercut and
+changes in magnetic permeability in, e.g., the heat affected zone. Where masking is suspected the test
+surface shall be dressed or alternative test methods should be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>10
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_17>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_17>>
+[Image 17 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=3>>5.12 Recording of indications<<HEADING_END>>
+<<PARAGRAPH>>Indications can be recorded in one or more of the following ways by using:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+description in writing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+sketches;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+photography;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+transparent adhesive tape;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+transparent varnish for “freezing” the indication on the surface tested;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+peelable contrast-aids;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+video recording;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+epoxy or chemical magnetic particle mixtures;<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+magnetic tapes;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+electronic scanning.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.13 Demagnetization<<HEADING_END>>
+<<PARAGRAPH>>After testing welds with alternating current, residual magnetization will normally be low and there will generally
+be no need for demagnetization of the object under test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If demagnetization is required, it shall be carried out using a defined method and to a predefined level. 1)<<PARAGRAPH_END>>
+<<HEADING level=3>>5.14 Test report<<HEADING_END>>
+<<PARAGRAPH>>A test report shall be prepared.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The report should contain at least the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a)
+name of the company carrying out the test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b)
+the object tested;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c)
+date of testing;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d)
+parent and weld materials;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e)
+any post weld heat treatment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+type of joint;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g)
+material thickness;<<PARAGRAPH_END>>
+<<PARAGRAPH>>h)
+welding process(es);<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+temperature of the test object, if outside the ambient temperature range;<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) For metal cutting processes a typical residual field strength value of  H   u  0,4 kA/m is recommended.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+11<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_18>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_18>>
+[Image 18 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>j)
+identity of the test procedure and description of the parameters used, including:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  type of magnetization;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  type of current;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  detection media;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  viewing conditions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k)
+details and results of the overall performance test, where applicable;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+acceptance levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m) description and location of all recordable indications;<<PARAGRAPH_END>>
+<<PARAGRAPH>>n)
+test results with reference to acceptance levels;<<PARAGRAPH_END>>
+<<PARAGRAPH>>o)
+names, relevant qualification and signatures of personnel who carried out the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>12
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_19>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_19>>
+[Image 19 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=2>>Annex A
+(informative)
+Variables affecting the sensitivity of magnetic particle testing<<HEADING_END>>
+<<HEADING level=3>>A.1 Surface conditions and preparation<<HEADING_END>>
+<<PARAGRAPH>>The maximum test sensitivity that can be achieved by any magnetic testing method is dependent on many
+variables but can be seriously affected by the surface roughness of the object and any irregularities present.
+In some cases it can be necessary to:<<PARAGRAPH_END>>
+<<PARAGRAPH>>  dress undercut and surface irregularities by grinding;<<PARAGRAPH_END>>
+<<PARAGRAPH>>  remove or reduce the weld reinforcement.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Surfaces covered with a thin non-magnetic paint e.g. a primer may also be tested, provided the paint surface
+is unbroken and the thickness of the coating does not exceed 50 µm. Above this thickness the sensitivity of
+the method decreases and may be demonstrated to be sufficiently sensitive before proceeding with the test.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2 Magnetizing equipment characteristics<<HEADING_END>>
+<<PARAGRAPH>>The use of alternating current gives the best sensitivity for detecting surface imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Yokes produce an adequate magnetic field in simple butt-welds but where the flux is reduced by gaps or the
+path is excessive through the object, as in T-joints a reduction of sensitivity can occur.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For complex joint configurations, e.g. branch connections with an inclined angle of less than 90°, testing using
+yokes might be inadequate. Prods or cable wrapping with current flow will, in these cases, prove more suitable.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3 Magnetic field strength and permeability<<HEADING_END>>
+<<PARAGRAPH>>The field strength required to produce an indication strong enough to be detected during magnetic particle
+testing is dependent mainly, on the magnetic permeability of the object.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Generally, magnetic permeability is high in softer magnetic materials, e.g., low alloy steels and low in harder
+magnetic materials, e.g., martensitic steels. Because permeability is a function of the magnetizing current, low
+permeability materials usually require application of a higher magnetization value than do softer alloys to
+produce the same flux density. It is essential, therefore, to establish that flux density values are adequate
+before beginning the magnetic particle testing.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.4 Detection media<<HEADING_END>>
+<<PARAGRAPH>>Magnetic particle suspensions will usually give a higher sensitivity for detecting surface imperfections than dry
+powders.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fluorescent magnetic detection media usually give a higher test sensitivity than colour contrast media,
+because of the higher contrast between the darkened background and the fluorescent indication. The
+sensitivity of the fluorescent method will, nevertheless, decrease in proportion to any increase in the
+roughness of the surface to which magnetic particles adhere and can cause a disturbing background
+fluorescence.<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+13<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_20>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_20>>
+[Image 20 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>Where the background illumination cannot be adequately lowered or where background fluorescence is
+disturbing, coloured detection media in conjunction with the smoothing effect of a contrast aid will usually give
+better sensitivity.<<PARAGRAPH_END>>
+<<HEADING level=3>>14
+© ISO 2003 — All rights reserved<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_21>>
+<<PARAGRAPH>>BS EN ISO 17638:2009<<PARAGRAPH_END>>
+<<HEADING level=3>>ISO 17638:2003(E)<<HEADING_END>>
+<<IMAGE_21>>
+[Image 21 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<HEADING level=2>>Bibliography<<HEADING_END>>
+<<PARAGRAPH>>[1]
+ISO 9712, Non-destructive testing — Qualification and certification of personnel<<PARAGRAPH_END>>
+<<PARAGRAPH>>[2]
+EN 1291, Non-destructive examination of welds — Magnetic particle testing of welds — Acceptance
+levels<<PARAGRAPH_END>>
+<<HEADING level=3>>© ISO 2003 — All rights reserved
+15<<HEADING_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<HEADING level=2>>BS EN ISO
+17638:2009<<HEADING_END>>
+<<IMAGE_22>>
+[Image 22 contains text: | Fate Fa
+anystandards.com |]
+<<HEADING level=1>>BSI - British Standards Institution<<HEADING_END>>
+<<HEADING level=1>>Licensed Copy: athen reading, Reading University Library, 23/01/2010 05:50, Uncontrolled Copy, (c) BSI<<HEADING_END>>
+<<PARAGRAPH>>BSI is the independent national body responsible for preparing British
+Standards. It presents the UK view on standards in Europe and at the
+international level. It is incorporated by Royal Charter.<<PARAGRAPH_END>>
+<<HEADING level=3>>Revisions<<HEADING_END>>
+<<PARAGRAPH>>British Standards are updated by amendment or revision. Users of British
+Standards should make sure that they possess the latest amendments or
+editions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is the constant aim of BSI to improve the quality of our products and services.
+We would be grateful if anyone finding an inaccuracy or ambiguity while using
+this British Standard would inform the Secretary of the technical committee
+responsible, the identity of which can be found on the inside front cover. Tel:
++44 (0)20 8996 9000. Fax: +44 (0)20 8996 7400.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BSI offers members an individual updating service called PLUS which ensures
+that subscribers automatically receive the latest editions of standards.<<PARAGRAPH_END>>
+<<HEADING level=3>>Buying standards<<HEADING_END>>
+<<PARAGRAPH>>Orders for all BSI, international and foreign standards publications should be
+addressed to Customer Services. Tel: +44 (0)20 8996 9001. Fax: +44 (0)20 8996
+7001 Email: orders@bsigroup.com You may also buy directly using a debit/credit
+card from the BSI Shop on the Website http://www.bsigroup.com/shop<<PARAGRAPH_END>>
+<<PARAGRAPH>>In response to orders for international standards, it is BSI policy to supply the
+BSI implementation of those that have been published as British Standards,
+unless otherwise requested.<<PARAGRAPH_END>>
+<<HEADING level=3>>Information on standards<<HEADING_END>>
+<<PARAGRAPH>>BSI provides a wide range of information on national, European and
+international standards through its Library and its Technical Help to Exporters
+Service. Various BSI electronic information services are also available which
+give details on all its products and services. Contact Information Centre. Tel:
++44 (0)20 8996 7111 Fax: +44 (0)20 8996 7048 Email: info@bsigroup.com<<PARAGRAPH_END>>
+<<PARAGRAPH>>Subscribing members of BSI are kept up to date with standards developments
+and receive substantial discounts on the purchase price of standards. For details
+of these and other benefits contact Membership Administration. Tel: +44 (0)20
+8996 7002 Fax: +44 (0)20 8996 7001 Email: membership@bsigroup.com<<PARAGRAPH_END>>
+<<PARAGRAPH>>Information regarding online access to British Standards via British Standards
+Online can be found at http://www.bsigroup.com/BSOL<<PARAGRAPH_END>>
+<<PARAGRAPH>>Further information about BSI is available on the BSI website at http://
+www.bsigroup.com.<<PARAGRAPH_END>>
+<<HEADING level=3>>Copyright<<HEADING_END>>
+<<PARAGRAPH>>Copyright subsists in all BSI publications. BSI also holds the copyright, in the
+UK, of the publications of the international standardization bodies. Except as
+permitted under the Copyright, Designs and Patents Act 1988 no extract may
+be reproduced, stored in a retrieval system or transmitted in any form or by any
+means – electronic, photocopying, recording or otherwise – without prior written
+permission from BSI.<<PARAGRAPH_END>>
+<<PARAGRAPH>>BSI Group
+Headquarters 389
+Chiswick High Road,
+London, W4 4AL, UK
+Tel +44 (0)20 8996 9001
+Fax +44 (0)20 8996 7001
+www.bsigroup.com/
+standards<<PARAGRAPH_END>>
+<<PARAGRAPH>>This does not preclude the free use, in the course of implementing the standard,
+of necessary details such as symbols, and size, type or grade designations. If
+these details are to be used for any other purpose than implementation then the
+prior written permission of BSI must be obtained.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Details and advice can be obtained from the Copyright and Licensing Manager.
+Tel: +44 (0)20 8996 7070 Email: copyright@bsigroup.com<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 22
+Total Images: 22
+
+Image Reference Table:
+[IMAGE_1] Page: 1, Size: 213x123
+[IMAGE_2] Page: 2, Size: 177x55
+[IMAGE_3] Page: 3, Size: 177x55
+[IMAGE_4] Page: 4, Size: 177x55
+[IMAGE_5] Page: 5, Size: 177x55
+[IMAGE_6] Page: 6, Size: 177x55
+[IMAGE_7] Page: 7, Size: 177x55
+[IMAGE_8] Page: 8, Size: 177x55
+[IMAGE_9] Page: 9, Size: 177x55
+[IMAGE_10] Page: 10, Size: 663x540
+[IMAGE_11] Page: 11, Size: 177x55
+[IMAGE_12] Page: 12, Size: 177x55
+[IMAGE_13] Page: 13, Size: 177x55
+[IMAGE_14] Page: 14, Size: 177x55
+[IMAGE_15] Page: 15, Size: 177x55
+[IMAGE_16] Page: 16, Size: 177x55
+[IMAGE_17] Page: 17, Size: 177x55
+[IMAGE_18] Page: 18, Size: 177x55
+[IMAGE_19] Page: 19, Size: 177x55
+[IMAGE_20] Page: 20, Size: 177x55
+[IMAGE_21] Page: 21, Size: 177x55
+[IMAGE_22] Page: 22, Size: 177x55
+<<SECTION_END>>
+<<DOCUMENT_END>>

@@ -1,0 +1,5469 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 543.0,
+        "height": 822.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 2,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            23.88,
+            616.32,
+            48.12
+          ],
+          "block_id": "img2_0"
+        },
+        {
+          "type": "text",
+          "content": "IS :  9618 - 1980",
+          "bbox": [
+            46.08,
+            43.08,
+            136.32,
+            56.27
+          ],
+          "block_id": "b2_34",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            48.12,
+            616.32,
+            72.36
+          ],
+          "block_id": "img2_1"
+        },
+        {
+          "type": "text",
+          "content": "5.1  The maximum\npermissible\nfilling\nratios  are as given under:",
+          "bbox": [
+            46.08,
+            66.91,
+            338.4,
+            78.78
+          ],
+          "block_id": "b2_35",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            72.36,
+            616.32,
+            96.6
+          ],
+          "block_id": "img2_2"
+        },
+        {
+          "type": "text",
+          "content": "Product\nVessels Less than\nVessels More than\nO-9  m  Diameter\n0\u20199 m  Diameter",
+          "bbox": [
+            120.0,
+            87.24,
+            491.76,
+            107.88
+          ],
+          "block_id": "b2_36",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            96.6,
+            616.32,
+            120.84
+          ],
+          "block_id": "img2_3"
+        },
+        {
+          "type": "text",
+          "content": "Commercial\nbutane\n0.504\n0\u2019519",
+          "bbox": [
+            90.96,
+            113.95,
+            460.08,
+            126.78
+          ],
+          "block_id": "b2_37",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            120.84,
+            616.32,
+            145.08
+          ],
+          "block_id": "img2_4"
+        },
+        {
+          "type": "text",
+          "content": "Commercial\npropane\n0\u2019427\n0\u2019440",
+          "bbox": [
+            91.2,
+            128.83,
+            459.84,
+            141.9
+          ],
+          "block_id": "b2_38",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            145.08,
+            616.32,
+            169.32
+          ],
+          "block_id": "img2_5"
+        },
+        {
+          "type": "text",
+          "content": "5.2 Knowing\nthe liquid\ntemperature\nand the filling\nratio,\nthe maximum\nvolume\nof liquid\nwhich\nmay\nbe placed in the tank may be determined\nby the following\nformula:",
+          "bbox": [
+            45.12,
+            147.79,
+            513.84,
+            169.74
+          ],
+          "block_id": "b2_39",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            169.32,
+            616.32,
+            193.56
+          ],
+          "block_id": "img2_6"
+        },
+        {
+          "type": "text",
+          "content": "D\nVt =\nG x Ft",
+          "bbox": [
+            228.96,
+            176.76,
+            289.2,
+            198.6
+          ],
+          "block_id": "b2_40",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            193.56,
+            616.32,
+            217.8
+          ],
+          "block_id": "img2_7"
+        },
+        {
+          "type": "text",
+          "content": "where",
+          "bbox": [
+            61.2,
+            204.19,
+            86.64,
+            216.06
+          ],
+          "block_id": "b2_41",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            217.8,
+            616.32,
+            242.04
+          ],
+          "block_id": "img2_8"
+        },
+        {
+          "type": "text",
+          "content": "Vt =  maximum\nliquid\nvolume\n( in percent\nof total\ncontainer\ncapacity\n), which\nshall\nbe\nplaced in a container\nwhen the liquid temperature\nis 1\u00b0C;",
+          "bbox": [
+            92.4,
+            219.79,
+            516.0,
+            241.74
+          ],
+          "block_id": "b2_42",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            242.04,
+            616.32,
+            266.28
+          ],
+          "block_id": "img2_9"
+        },
+        {
+          "type": "text",
+          "content": "D =  filling\nratio in percent;",
+          "bbox": [
+            94.56,
+            244.99,
+            216.0,
+            256.86
+          ],
+          "block_id": "b2_43",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "G = specific\ngravity of liquid\ngas at 15\u20190\u00b0C; and",
+          "bbox": [
+            95.52,
+            259.87,
+            315.6,
+            271.74
+          ],
+          "block_id": "b2_44",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            266.28,
+            616.32,
+            290.52
+          ],
+          "block_id": "img2_10"
+        },
+        {
+          "type": "text",
+          "content": "Ft =  liquid\nvolume\ncorrection\nfactor from temperature\nt\u201dC  to 15\u20190\u00b0C ( see Appendix\nA ).",
+          "bbox": [
+            92.88,
+            274.99,
+            497.76,
+            286.86
+          ],
+          "block_id": "b2_45",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            290.52,
+            616.32,
+            314.76
+          ],
+          "block_id": "img2_11"
+        },
+        {
+          "type": "text",
+          "content": "5.3 After obtaining\nV/from the above formula,\nthe maximum\ncapacity\nin litres of LPG which\nmay be",
+          "bbox": [
+            45.84,
+            295.15,
+            515.76,
+            307.02
+          ],
+          "block_id": "b2_46",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "placed in the tank is obtained\nby multiplying\nthe water capacity\nof the container\nby &-.",
+          "bbox": [
+            46.8,
+            311.23,
+            449.28,
+            323.1
+          ],
+          "block_id": "b2_47",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            314.76,
+            616.32,
+            339.0
+          ],
+          "block_id": "img2_12"
+        },
+        {
+          "type": "text",
+          "content": "6.  Fittings\n-The\ntank shall be provided\nwith the following\nfittings\n(typical\nlayout\nshown\nin Fig. 1 )\nsuitable\nfor operation\nat the\ndesign\npressure\nand\ntemperature,\nand\nfor\nthe type\nof LPG (see\nIS : 4576-1968 ) stored:",
+          "bbox": [
+            46.08,
+            334.75,
+            516.0,
+            367.02
+          ],
+          "block_id": "b2_48",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            339.0,
+            616.32,
+            363.24
+          ],
+          "block_id": "img2_13"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            363.24,
+            616.32,
+            387.48
+          ],
+          "block_id": "img2_14"
+        },
+        {
+          "type": "text",
+          "content": "4  Pressure\nrelief valve,\nb)  Emergency\nshut-off\nvalve/excess\nflow valve,\n4  A gauge for determining\nthe liquid\nlevel of LPG, and\n4  Pressure\ngauge, and\n4  Fixed level\ngauge.",
+          "bbox": [
+            82.08,
+            371.5,
+            342.24,
+            447.32
+          ],
+          "block_id": "b2_49",
+          "font_size": 10.1,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            387.48,
+            616.32,
+            411.72
+          ],
+          "block_id": "img2_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            411.72,
+            616.32,
+            435.96
+          ],
+          "block_id": "img2_16"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            435.96,
+            616.32,
+            460.2
+          ],
+          "block_id": "img2_17"
+        },
+        {
+          "type": "text",
+          "content": "6.1  Each vessel shall be equipped\nwith at least 2 pressure\nrelief\nvalves\nof spring\nloaded type, each\nvalve having\ndirect\ncommunication\nwith\nthe vapour\nspace of the vessel\nand with\nthe\noperating\nmechanism\ninside\nthe vessel.\nThe pressure\nrelief\nvalves\nshall\nbe designed\nto discharge\nat rates\nnot less than those\ngiven\nin Appendix\n6 before\nvessel\npressure\nexceeds\n120 percent\nof design\npressure.",
+          "bbox": [
+            47.52,
+            453.07,
+            514.32,
+            505.02
+          ],
+          "block_id": "b2_50",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            460.2,
+            616.32,
+            484.44
+          ],
+          "block_id": "img2_18"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            484.44,
+            616.32,
+            508.68
+          ],
+          "block_id": "img2_19"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            508.68,
+            616.32,
+            532.92
+          ],
+          "block_id": "img2_20"
+        },
+        {
+          "type": "text",
+          "content": "6.1.1  The discharge\nfrom pressure\nrelief valves shall be vented away from the tank, and upwards,\nso as to avoid any impingement\non the tank.\nLoose fitting\nrain caps may also be provided\non relief\nvalves.",
+          "bbox": [
+            48.72,
+            513.31,
+            513.36,
+            545.58
+          ],
+          "block_id": "b2_51",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            532.92,
+            616.32,
+            557.16
+          ],
+          "block_id": "img2_21"
+        },
+        {
+          "type": "text",
+          "content": "6.2 All\nopenings\non the tank, other than those\nfor pressure\nrelief\nvalves, temperature\ngauge, roto\ngauge, fixed level gauge,\nslip tube,\nor those\npermanently\nfitted\nwith\nblank flanges,\nshall be fitted\nwith automatic\nor remote operated\nemergency\nshut-off\nvalves, designed\nto prevent excessive\nescape\nof LPG in the event of failure\nor malfunctioning\nof any hose, equipment\nand pipe work connected\nto\nthese\nopenings.\nWhen\nthe emergency\nshut-off\nvalves\nare of excess\nflow type they shall\nhave  a\nrated closing\nflow approximately\n50 percent\ngreater than the anticipated\nnormal flow.",
+          "bbox": [
+            48.96,
+            553.39,
+            518.88,
+            615.66
+          ],
+          "block_id": "b2_52",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            557.16,
+            616.32,
+            581.4
+          ],
+          "block_id": "img2_22"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            581.4,
+            616.32,
+            605.64
+          ],
+          "block_id": "img2_23"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            605.64,
+            616.32,
+            629.88
+          ],
+          "block_id": "img2_24"
+        },
+        {
+          "type": "text",
+          "content": "6.3 The tank shall be provided\nat least with one gauge each for determining\nthe liquid\nlevel of LPG\nand pressure.\nThese gauges shall be so\nlocated\nthat at least one gauging\ndevice\nmay be read\nfrom the ground\nlevel.",
+          "bbox": [
+            49.44,
+            623.71,
+            516.96,
+            655.74
+          ],
+          "block_id": "b2_53",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            629.88,
+            616.32,
+            654.12
+          ],
+          "block_id": "img2_25"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            654.12,
+            616.32,
+            678.36
+          ],
+          "block_id": "img2_26"
+        },
+        {
+          "type": "text",
+          "content": "6.4 The\nfilling\npipe if provided,\nshall preferably\nbe extended\ninside the tank to cover major portion\nof the length,\nand shall be perforated\nat the bottom\nthrough\n120\u201d.\nArea\nof perforation\nshall\nbe at\nleast three times the area of cross section\nof pipe.\nIt shall also be fitted with a valve.",
+          "bbox": [
+            49.44,
+            663.79,
+            518.64,
+            695.82
+          ],
+          "block_id": "b2_54",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            678.36,
+            616.32,
+            702.6
+          ],
+          "block_id": "img2_27"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            702.6,
+            616.32,
+            726.84
+          ],
+          "block_id": "img2_28"
+        },
+        {
+          "type": "text",
+          "content": "6.5 The discharge\npipe will be fitted with an excess flow valve.",
+          "bbox": [
+            49.92,
+            703.87,
+            342.72,
+            715.74
+          ],
+          "block_id": "b2_55",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.6 Tank\nconnections\nshall\nbe designed\nand attached\nin accordance\nwith\nlS:2825-1969.\nLiquid\nand vapour\nconnections\nshall\nbe flanged.",
+          "bbox": [
+            49.92,
+            724.03,
+            513.36,
+            745.98
+          ],
+          "block_id": "b2_56",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            726.84,
+            616.32,
+            751.08
+          ],
+          "block_id": "img2_29"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            751.08,
+            616.32,
+            775.32
+          ],
+          "block_id": "img2_30"
+        },
+        {
+          "type": "text",
+          "content": "6.7 A manhole\nof minimum\n375 mm diameter\nshall be provided\non the tank.",
+          "bbox": [
+            50.16,
+            754.03,
+            402.0,
+            765.9
+          ],
+          "block_id": "b2_57",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            284.4,
+            773.71,
+            291.6,
+            785.58
+          ],
+          "block_id": "b2_58",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            775.32,
+            616.32,
+            799.56
+          ],
+          "block_id": "img2_31"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            799.56,
+            616.32,
+            823.8
+          ],
+          "block_id": "img2_32"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            823.8,
+            616.32,
+            842.52
+          ],
+          "block_id": "img2_33"
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img2_0",
+          "bbox": [
+            0.0,
+            23.88,
+            616.32,
+            48.12
+          ]
+        },
+        {
+          "block_id": "img2_1",
+          "bbox": [
+            0.0,
+            48.12,
+            616.32,
+            72.36
+          ]
+        },
+        {
+          "block_id": "img2_2",
+          "bbox": [
+            0.0,
+            72.36,
+            616.32,
+            96.6
+          ]
+        },
+        {
+          "block_id": "img2_3",
+          "bbox": [
+            0.0,
+            96.6,
+            616.32,
+            120.84
+          ]
+        },
+        {
+          "block_id": "img2_4",
+          "bbox": [
+            0.0,
+            120.84,
+            616.32,
+            145.08
+          ]
+        },
+        {
+          "block_id": "img2_5",
+          "bbox": [
+            0.0,
+            145.08,
+            616.32,
+            169.32
+          ]
+        },
+        {
+          "block_id": "img2_6",
+          "bbox": [
+            0.0,
+            169.32,
+            616.32,
+            193.56
+          ]
+        },
+        {
+          "block_id": "img2_7",
+          "bbox": [
+            0.0,
+            193.56,
+            616.32,
+            217.8
+          ]
+        },
+        {
+          "block_id": "img2_8",
+          "bbox": [
+            0.0,
+            217.8,
+            616.32,
+            242.04
+          ]
+        },
+        {
+          "block_id": "img2_9",
+          "bbox": [
+            0.0,
+            242.04,
+            616.32,
+            266.28
+          ]
+        },
+        {
+          "block_id": "img2_10",
+          "bbox": [
+            0.0,
+            266.28,
+            616.32,
+            290.52
+          ]
+        },
+        {
+          "block_id": "img2_11",
+          "bbox": [
+            0.0,
+            290.52,
+            616.32,
+            314.76
+          ]
+        },
+        {
+          "block_id": "img2_12",
+          "bbox": [
+            0.0,
+            314.76,
+            616.32,
+            339.0
+          ]
+        },
+        {
+          "block_id": "img2_13",
+          "bbox": [
+            0.0,
+            339.0,
+            616.32,
+            363.24
+          ]
+        },
+        {
+          "block_id": "img2_14",
+          "bbox": [
+            0.0,
+            363.24,
+            616.32,
+            387.48
+          ]
+        },
+        {
+          "block_id": "img2_15",
+          "bbox": [
+            0.0,
+            387.48,
+            616.32,
+            411.72
+          ]
+        },
+        {
+          "block_id": "img2_16",
+          "bbox": [
+            0.0,
+            411.72,
+            616.32,
+            435.96
+          ]
+        },
+        {
+          "block_id": "img2_17",
+          "bbox": [
+            0.0,
+            435.96,
+            616.32,
+            460.2
+          ]
+        },
+        {
+          "block_id": "img2_18",
+          "bbox": [
+            0.0,
+            460.2,
+            616.32,
+            484.44
+          ]
+        },
+        {
+          "block_id": "img2_19",
+          "bbox": [
+            0.0,
+            484.44,
+            616.32,
+            508.68
+          ]
+        },
+        {
+          "block_id": "img2_20",
+          "bbox": [
+            0.0,
+            508.68,
+            616.32,
+            532.92
+          ]
+        },
+        {
+          "block_id": "img2_21",
+          "bbox": [
+            0.0,
+            532.92,
+            616.32,
+            557.16
+          ]
+        },
+        {
+          "block_id": "img2_22",
+          "bbox": [
+            0.0,
+            557.16,
+            616.32,
+            581.4
+          ]
+        },
+        {
+          "block_id": "img2_23",
+          "bbox": [
+            0.0,
+            581.4,
+            616.32,
+            605.64
+          ]
+        },
+        {
+          "block_id": "img2_24",
+          "bbox": [
+            0.0,
+            605.64,
+            616.32,
+            629.88
+          ]
+        },
+        {
+          "block_id": "img2_25",
+          "bbox": [
+            0.0,
+            629.88,
+            616.32,
+            654.12
+          ]
+        },
+        {
+          "block_id": "img2_26",
+          "bbox": [
+            0.0,
+            654.12,
+            616.32,
+            678.36
+          ]
+        },
+        {
+          "block_id": "img2_27",
+          "bbox": [
+            0.0,
+            678.36,
+            616.32,
+            702.6
+          ]
+        },
+        {
+          "block_id": "img2_28",
+          "bbox": [
+            0.0,
+            702.6,
+            616.32,
+            726.84
+          ]
+        },
+        {
+          "block_id": "img2_29",
+          "bbox": [
+            0.0,
+            726.84,
+            616.32,
+            751.08
+          ]
+        },
+        {
+          "block_id": "img2_30",
+          "bbox": [
+            0.0,
+            751.08,
+            616.32,
+            775.32
+          ]
+        },
+        {
+          "block_id": "img2_31",
+          "bbox": [
+            0.0,
+            775.32,
+            616.32,
+            799.56
+          ]
+        },
+        {
+          "block_id": "img2_32",
+          "bbox": [
+            0.0,
+            799.56,
+            616.32,
+            823.8
+          ]
+        },
+        {
+          "block_id": "img2_33",
+          "bbox": [
+            0.0,
+            823.8,
+            616.32,
+            842.52
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 617.0,
+        "height": 843.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 3,
+      "blocks": [],
+      "images": [],
+      "dimensions": {
+        "width": 825.0,
+        "height": 518.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 4,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS:9618-1980",
+          "bbox": [
+            44.64,
+            53.6,
+            119.52,
+            65.36
+          ],
+          "block_id": "b4_0",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6.8 All connections\nshall\nbe designed\nto withstand\nthe most severe combined\nstresses\non account\nof tank pressure,\npumping\npressure\nand shock loadings\nlikely to occur during\ntransport.",
+          "bbox": [
+            43.44,
+            76.23,
+            507.6,
+            98.18
+          ],
+          "block_id": "b4_1",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "6.9 Liquid\nand vapour\nconnections\non the tank shall be clearly\nmarked\nin accordance\nwith\nrelevant\nIndian\nStandard.\n(1",
+          "bbox": [
+            43.68,
+            106.47,
+            508.8,
+            128.42
+          ],
+          "block_id": "b4_2",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7. Protection\nof Valves\nand Accessories\n-All\nvalves\nand accessories\nshall\nbe safeguarded\nagainst\naccidental\ndamage\nduring\noperation\nand\ntransport.\nSuitable\ncovers\nshall\nbe provided\nwherever\nnecessary.",
+          "bbox": [
+            44.16,
+            136.47,
+            507.84,
+            168.5
+          ],
+          "block_id": "b4_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "7.1 Valves or accessories\nif situated\nat the rear of a road tanker\nshall\nbe protected\nby the rear\ncross\nmember\nof\nthe\nchassis\nagainst\ndamage.\nIf necessary,\nsome\nof the\nfittings\nmay be\nrecessed.",
+          "bbox": [
+            44.64,
+            176.55,
+            513.84,
+            208.82
+          ],
+          "block_id": "b4_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "8.  Tank\nPainting\n-The\ntank shall\nbe painted\nfrom the outside\nto prevent corrosion,\nand shall be\nfinished\nto have white\nreflecting\nsurfaces.",
+          "bbox": [
+            45.12,
+            216.63,
+            514.8,
+            238.58
+          ],
+          "block_id": "b4_5",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9. Mounting\nof Tank  -The\ntank shall be properly\nand rigidly\nsecured\nto the tanker chassis.",
+          "bbox": [
+            45.84,
+            246.63,
+            478.08,
+            258.5
+          ],
+          "block_id": "b4_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "9.1  The centre of gravity\nof the tank shall be kept as low as possible.\nThe ratio $\nshall be kept",
+          "bbox": [
+            45.36,
+            272.55,
+            513.12,
+            284.66
+          ],
+          "block_id": "b4_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "less than one, where  H  is the height\nof centre\nof gravity\nof the tank from\nground\nlevel, and  W  is\nthe distance\nbetween the middle of the outer tyres of the rear axle.",
+          "bbox": [
+            44.88,
+            288.63,
+            514.32,
+            310.58
+          ],
+          "block_id": "b4_8",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "9.2 A suitable\napproach\nladder shall be attached\nto the tank.\nA platform\nshall be provided\non the\ntop of the tank to facilitate\noperational\nand ~maintenance requirement.",
+          "bbox": [
+            45.6,
+            318.39,
+            513.6,
+            340.82
+          ],
+          "block_id": "b4_9",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10. Tank\nEquipment\n-\nAll the LPG piping,\nfittings,\nmeters, and other\nequipment\nmounted\non the\ntanker\nshall\nbe suitable\nfor\nuse with\nthe tyre\nof LPG\nbeing\nhandled,\nand\nshall\nbe capable\nof\nwithstanding\nthe most severe combined\nstresses\nset up by the following:",
+          "bbox": [
+            45.84,
+            348.63,
+            513.6,
+            380.9
+          ],
+          "block_id": "b4_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) The maximum\nvapour\npressure\nof product\nin service, and either;",
+          "bbox": [
+            81.36,
+            386.79,
+            391.68,
+            398.66
+          ],
+          "block_id": "b4_11",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) The superimposed\npumping\npressure;\nand",
+          "bbox": [
+            82.32,
+            401.91,
+            293.52,
+            413.78
+          ],
+          "block_id": "b4_12",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) The shock loadings\ncaused\nduring\ntransport\nmovements.",
+          "bbox": [
+            81.84,
+            416.79,
+            356.64,
+            428.66
+          ],
+          "block_id": "b4_13",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10.1  Use\nof\nseamless\ncarbon\nsteel\npiping\nto\nIS: 1978-1971\n\u2018 Requirements\nfor\nline\npipe\n( first  revision )  \u2019 is recommended\nand minimum\nthicknesses\nof the pipe shall\nbe as follows:",
+          "bbox": [
+            47.04,
+            436.71,
+            512.64,
+            458.66
+          ],
+          "block_id": "b4_14",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Nominal\nPipe Size\nMinimum\nThickness\nmm\nmm",
+          "bbox": [
+            162.48,
+            468.08,
+            406.08,
+            488.9
+          ],
+          "block_id": "b4_15",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "15\n3\u20197",
+          "bbox": [
+            198.48,
+            494.79,
+            365.76,
+            506.66
+          ],
+          "block_id": "b4_16",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "20\n3\u20199",
+          "bbox": [
+            198.24,
+            510.63,
+            365.52,
+            522.5
+          ],
+          "block_id": "b4_17",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "25\n4\u20195",
+          "bbox": [
+            198.72,
+            526.71,
+            366.24,
+            538.58
+          ],
+          "block_id": "b4_18",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "40\n5\u201908",
+          "bbox": [
+            199.2,
+            542.55,
+            371.52,
+            554.42
+          ],
+          "block_id": "b4_19",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "50\n5\u20195",
+          "bbox": [
+            200.16,
+            558.63,
+            367.44,
+            570.5
+          ],
+          "block_id": "b4_20",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "65\n7\u20199",
+          "bbox": [
+            199.2,
+            574.71,
+            366.24,
+            586.58
+          ],
+          "block_id": "b4_21",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10.2  Pipe joints\nover 40 mm nominal\nsize shall be welded\nor flanged\nexcept\nin case of excess\nflow\nvalves and Acme\nadaptors,\nJoints\nbelow this size may be welded,\nflanged\nor screwed.",
+          "bbox": [
+            48.72,
+            597.03,
+            513.36,
+            618.98
+          ],
+          "block_id": "b4_22",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10.3  All\npiping\nand equipment\nshall\nbe protected\nagainst\nrough\nusage and mechanical\ndamage\nduring\ntransport.",
+          "bbox": [
+            49.2,
+            627.27,
+            514.08,
+            649.22
+          ],
+          "block_id": "b4_23",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10.4 The material\nand construction\nof the hoses shall be suitable\nfor the type of LPG handled.",
+          "bbox": [
+            49.68,
+            657.27,
+            487.44,
+            669.14
+          ],
+          "block_id": "b4_24",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "10.4.1 Hoses carried on the vehicles\nshall be ~protected against\naccidental\ndamage.",
+          "bbox": [
+            59.76,
+            675.03,
+            443.28,
+            686.9
+          ],
+          "block_id": "b4_25",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "164.2\nHose connectors\nshall conform\nto IS : 9573 - 1980 \u2018 Specification\nfor LPG hose connectors\n\u2018.",
+          "bbox": [
+            60.24,
+            693.03,
+            519.12,
+            704.9
+          ],
+          "block_id": "b4_26",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11. Safety\nRequirements\nof Road Tankers\n-The\nengine\nand exhaust\nsystem\ntogether\nwith\nall\nelectrical\ngenerators,\nmotors,\nbatteries\nand switchgear\nshall\nbe effectively\nscreened\nfrom the tank\nby a fire screen.\nThere shall be a clear distance\nof at least 15 cm between the back of the cap and\nfront of the tank.",
+          "bbox": [
+            49.68,
+            712.71,
+            516.72,
+            755.3
+          ],
+          "block_id": "b4_27",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.1  The exhaust\nsystem should\nbe fitted with a spark arrestor.",
+          "bbox": [
+            50.88,
+            763.35,
+            341.05,
+            775.22
+          ],
+          "block_id": "b4_28",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            260.64,
+            783.51,
+            267.84,
+            795.38
+          ],
+          "block_id": "b4_29",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 614.0,
+        "height": 842.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 5,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "IS:9618-1980",
+          "bbox": [
+            437.76,
+            44.28,
+            509.84,
+            57.72
+          ],
+          "block_id": "b5_0",
+          "font_size": 9.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "I.\n11.2  In a case where\nthe fuel used for the tanker gives 0-9 flammable\nvapour at a temperature\nless\nthan 65\u201dC, the fuel tank shall\nnot be located\nbehind\nthe shield\nunless\nthe following\nrequirements\nare made.",
+          "bbox": [
+            0.24,
+            64.2,
+            519.12,
+            101.58
+          ],
+          "block_id": "b5_1",
+          "font_size": 9.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "by the frames of the",
+          "bbox": [
+            424.56,
+            108.43,
+            519.6,
+            120.3
+          ],
+          "block_id": "b5_4",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.2.1 The\nfuel\ntank\nis protected\nfrom\ndamage\nby stout steel guards or\nvehicle.",
+          "bbox": [
+            53.04,
+            109.63,
+            421.44,
+            131.58
+          ],
+          "block_id": "b5_2",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "cover having\nlocking",
+          "bbox": [
+            425.52,
+            138.43,
+            516.48,
+            150.3
+          ],
+          "block_id": "b5_5",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.2.2 The\nfill\npipe\nof the fuel\ntank\nof the\nvehicle\nis provided\nwith\na\narrangement.",
+          "bbox": [
+            53.28,
+            139.63,
+            420.48,
+            161.58
+          ],
+          "block_id": "b5_3",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.2.3 The fuel feed apparatus\nplaced in front of the fire resisting\nshield\nis used to liftthe\ncontents\nof the fuel tank.",
+          "bbox": [
+            53.04,
+            169.63,
+            516.0,
+            191.82
+          ],
+          "block_id": "b5_6",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.3 The rear end of the tank shall\nbe protected\nby  a  strong\nsteel\nbumper,\ncovering\nat least the\nmaximum\nwidth\nof the tank, and extending\nto a minimum\nof 8 cm to the rear of the rear most portion\nof the tank.",
+          "bbox": [
+            53.76,
+            197.81,
+            521.04,
+            231.66
+          ],
+          "block_id": "b5_7",
+          "font_size": 9.3,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.4 The tank shall be electrically\ncontinuous\nwith the chassis.",
+          "bbox": [
+            54.0,
+            240.19,
+            342.48,
+            252.06
+          ],
+          "block_id": "b5_8",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "11.5 On safety considerations,\nthe electrical\nsystems\nshall incorporate:",
+          "bbox": [
+            53.76,
+            260.11,
+            376.8,
+            271.98
+          ],
+          "block_id": "b5_9",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "a) an easily accessible\nbattery,",
+          "bbox": [
+            88.56,
+            278.11,
+            229.44,
+            289.98
+          ],
+          "block_id": "b5_10",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "b) a readily accessible\ncut-off\nswitch,\nand",
+          "bbox": [
+            89.76,
+            294.19,
+            287.76,
+            306.06
+          ],
+          "block_id": "b5_11",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "c) wiring\nprotected\nagainst\naccidental\ndamage or undue wear.",
+          "bbox": [
+            89.52,
+            310.03,
+            378.0,
+            321.9
+          ],
+          "block_id": "b5_12",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12. -Marking\n-\nThe tank shall have a metal plate permanently\nfixed to the tank showing\nthe following\nparticulars:",
+          "bbox": [
+            54.0,
+            329.95,
+            514.8,
+            351.9
+          ],
+          "block_id": "b5_13",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "4\nb)\ncl\n4\ne)\nf)\n9)\nt-4\n0\nk)",
+          "bbox": [
+            89.28,
+            356.62,
+            107.12,
+            516.44
+          ],
+          "block_id": "b5_14",
+          "font_size": 11.5,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Manufacturer\u2019s\nname and identification\nmarks,",
+          "bbox": [
+            104.4,
+            358.03,
+            318.48,
+            369.9
+          ],
+          "block_id": "b5_15",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "The standard\nor code to which\nthe tank is constructed,",
+          "bbox": [
+            104.16,
+            374.11,
+            351.36,
+            385.98
+          ],
+          "block_id": "b5_16",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "OffLzial stamp of the inspector,",
+          "bbox": [
+            103.68,
+            390.19,
+            239.04,
+            402.06
+          ],
+          "block_id": "b5_17",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Design\npressure,",
+          "bbox": [
+            104.16,
+            406.27,
+            178.56,
+            418.14
+          ],
+          "block_id": "b5_18",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Date of initial\nhydrostatic\ntest and subsequent\ntests,",
+          "bbox": [
+            104.64,
+            422.11,
+            345.36,
+            433.98
+          ],
+          "block_id": "b5_19",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Hydrostatic\ntest pressure\nin kgf/cm2,",
+          "bbox": [
+            104.88,
+            438.19,
+            272.88,
+            450.06
+          ],
+          "block_id": "b5_20",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Water capacity\nin litres,\n~",
+          "bbox": [
+            105.12,
+            454.27,
+            257.52,
+            466.14
+          ],
+          "block_id": "b5_21",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Extent of radiography,",
+          "bbox": [
+            105.36,
+            470.11,
+            198.96,
+            481.98
+          ],
+          "block_id": "b5_22",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Whether\nstress relieved,\nand",
+          "bbox": [
+            103.68,
+            486.43,
+            238.56,
+            498.3
+          ],
+          "block_id": "b5_23",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Product\ncarried.",
+          "bbox": [
+            103.68,
+            502.27,
+            174.72,
+            514.14
+          ],
+          "block_id": "b5_24",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "12.1 ISI Certificafion\nMarking -\nDetails\navailable\nwith the Indian\nStandards\nInstitution.\nI",
+          "bbox": [
+            54.48,
+            522.67,
+            447.6,
+            540.3
+          ],
+          "block_id": "b5_25",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            283.44,
+            777.07,
+            290.64,
+            788.94
+          ],
+          "block_id": "b5_26",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 616.0,
+        "height": 843.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 6,
+      "blocks": [
+        {
+          "type": "text",
+          "content": "APPENDIX\n/4",
+          "bbox": [
+            375.84,
+            47.68,
+            488.88,
+            58.0
+          ],
+          "block_id": "b6_0",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "( C~.LS~  5.2 )",
+          "bbox": [
+            404.16,
+            62.66,
+            465.36,
+            74.75
+          ],
+          "block_id": "b6_1",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "LIdlJID\nVOLUME\nCORRECTION\nFACTORS",
+          "bbox": [
+            325.2,
+            81.38,
+            548.88,
+            93.47
+          ],
+          "block_id": "b6_2",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Observed\nSpecific\nGravities\nat 15\u201dC/15\u201dC\n\u2018emp \u201cC",
+          "bbox": [
+            80.64,
+            113.44,
+            498.24,
+            133.6
+          ],
+          "block_id": "b6_3",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "iso-\nPropane\nButane\nBunt&e\n0'500 8\n0'508 7\n0.510 8\nO-5208\n0'530 8\n0'540 8\n0'550 6\n0'560 6\n0'563 7\n0'570 6\n0'580 6\n0'585 0\n0'590 6",
+          "bbox": [
+            135.84,
+            145.84,
+            771.26,
+            176.34
+          ],
+          "block_id": "b6_4",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Volume Correction Factors",
+          "bbox": [
+            365.76,
+            184.72,
+            502.94,
+            195.3
+          ],
+          "block_id": "b6_5",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "-45'6\n1'158\n1'153\n1'151\n1'144\n1'138\n1'131\n1'126\n1'121\n1'119\n1'115\n1'110\n1'107\n1'105\n-42'8\n1'151\n1'146\n1'144\n1'138\n1'132\n1'126\n1'121\n1'116\n1'114\n1'110\n1'105\n1'102\n1'100\n-40'0\n1'145\n1'140\n1'138\n1'132\n1'126\n1'120\n1'116\n1'110\n1'109\n1'105\n1'100\n1'098\n1'096\n-37'2\n1'138\n1'12\";\n1'132\n1'126\n1'120\n1'114\n1'111\n1'105\n1'104\n1'100\n1'095\n1'093\n1'091\n-34'4\n1'132\n\u2019\n1'126\n1'120\n1'114\n1'109\n1'105\n1'100\n1'099\n1'095\n1'091\n1'089\n1'087",
+          "bbox": [
+            87.12,
+            212.08,
+            768.86,
+            264.1
+          ],
+          "block_id": "b6_6",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-31'7\n1'125\n1'12b\n1'119\n1'113\n1'108\n1'103\n1'099\n1'094\n1'093\n1'090\n1'086\n1'084\n1'082\n-28'9\n1'118\n1'113\n1'112\nI.107\n1'102\n1'097\n1'094\nI.089\n1'088\n1'085\n1'081\n1'079\n1'078\n-26'1\n1'110\n1'107\n1'105\n1'100\n1'095\n1'091\n1'088\n1'083\n1'082\n1'079\n1'076\n1'074\n1'073\n-23.3\n1'103\n1'100\n1'098\n1'093\n1'089\n1'085\n1'082\n1'078\n1'077\n1'074\n1'071\n1'070\n1'068\n-20'6\n1'096\n1'092\n1'092\n1'087\n1'083\n1'079\n1'076\n1'073\n1'072\n1'069\n1'066\n1'065\n1'064",
+          "bbox": [
+            86.88,
+            272.32,
+            767.18,
+            323.94
+          ],
+          "block_id": "b6_7",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-17'8\n1'090\n1'086\n1'086\n1'082\n1'078\n1'074\nI.072\n1'068\n1'067\n1'065\n1'062\n1'061\n1'060\n-16'7\n1'087\n1'084\n1'083\n1'079\n1'075\n1'072\nI.069\n1'066\n1'065\n1'063\n1'060\n1'059\n1'058\n-15'6\n1'084\n1'081\n1'080\n1'077\n1'073\n1'069\n1'067\n1'064\n1'063\n1'061\nI.058\n1'057\n1'056\n-14'4\n1'082\n1'078\n1'078\n1'074\n1'070\n1'069\n1'064\nI.061\n1'060\n1'058\n1'056\n1'054\n1'053\n-13'3\n1'079\n1'076\n1'075\n1'072\n1'068\n1'064\n1'062\n1'059\n1'058\n1'056\n1'054\n1'052\n1'051",
+          "bbox": [
+            87.12,
+            332.32,
+            765.98,
+            383.94
+          ],
+          "block_id": "b6_8",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-12.2\n1'076\n1'073\n1'072\n1'069\n1'065\n1'062\n1'060\n1'057\n1'056\n1'054\n1'052\nI.051\n1'049\n-11'1\n1'073\nI.070\nI.069\n1'066\n1'062\n1'059\n1'058\n1'055\n1'054\n1'052\n1'050\n1'048\n1'047\n-10'0\n1'070\n1'068\n1'067\n1'064\n1'060\n1'057\n1'055\n1'052\n1'052\n1'050\nI.048\n1'046\n1'045\n- 8'9\n1'068\n1'065\n1'064\n1'061\n1'058\n1'054\n1'053\n1'050\n1'049\n1'047\n1'045\n1'044\n1'043\n- 7'8\n1'065\n1'063\n1'062\n1'059\n1'055\n1'052\n1'050\n1'048\n1'047\n1'045\n1'043\n1'042\n1'041",
+          "bbox": [
+            87.12,
+            392.8,
+            765.26,
+            444.18
+          ],
+          "block_id": "b6_9",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "- 6'7\n1'062\n1'060\n1'059\n1'056\n1'052\n1'049\n1'048\n1'045\n1'045\n1'043\n1'041\n1'040\n1'039\n- 5'6\n1'059\n:'oOE\n1'056\n1'053\n1'050\n1'047\n1'045\n1'043\n1'043\n1'041\n1'039\n1'038\n1'037\n- 4'4\n1'056\n*\n1'053\n1'050\n1'047\n1'044\n1'043\n1'041\n1'041\n1'047\n1'037\n1'036\nI.035\n- 3'3\n1'053\n1'051\n1'050\n1'047\n1'045\n1'042\n1'041\n1'038\n1'038\n1'036\n1'035\n1'035\n1'033\n- 2'2\n1'050\n1'048\n1'047\n1'045\n1'042\n1'039\n1'038\n1'036\n1'036\n1'034\n1'033\n1'033\n1'031",
+          "bbox": [
+            87.12,
+            453.04,
+            764.54,
+            504.66
+          ],
+          "block_id": "b6_10",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        }
+      ],
+      "images": [],
+      "dimensions": {
+        "width": 837.0,
+        "height": 616.0
+      },
+      "image_id_map": {}
+    },
+    {
+      "page_num": 7,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            0.32,
+            840.96,
+            18.08
+          ],
+          "block_id": "img7_0"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            18.08,
+            840.96,
+            35.84
+          ],
+          "block_id": "img7_1"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            35.84,
+            840.96,
+            53.6
+          ],
+          "block_id": "img7_2"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            53.6,
+            840.96,
+            71.36
+          ],
+          "block_id": "img7_3"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            71.36,
+            840.96,
+            89.12
+          ],
+          "block_id": "img7_4"
+        },
+        {
+          "type": "text",
+          "content": "-1'1\n1'047\nI.045\n1'044\n1'042\n1'039\n1'037\n1'036\n1'034\n1'034\n1'032\n1'031\nl-031\n1'029\n0'0\n1'044\n1'042\n1'041\n1'039\n1'036\n1'034\n1'034\n1'032\n1'032\n1'030\nl-029\n1'029\n1'027",
+          "bbox": [
+            86.16,
+            73.52,
+            757.15,
+            94.74
+          ],
+          "block_id": "b7_34",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            89.12,
+            840.96,
+            106.88
+          ],
+          "block_id": "img7_5"
+        },
+        {
+          "type": "text",
+          "content": ";:;\n1'041\n1'039\n1'038\n1'036\n1'034\n1'032\n1'031\n1'030\n1'029\n1'028\n1'027\n1'027\n1'025\n1'037\n1'036\n1'035\n1'033\n1'032\n1'030\n1'029\n1'027\n1'027\n1'026\n1'024\n1'024\n1'023\n3'3\n1'034\n1'033\n1'032\n1'030\n1'030\n1'028\n1'026\n1'025\n1'024\n1'024\n1'022\n1'022\n1'021",
+          "bbox": [
+            95.52,
+            94.16,
+            757.39,
+            124.98
+          ],
+          "block_id": "b7_35",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            106.88,
+            840.96,
+            124.64
+          ],
+          "block_id": "img7_6"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            124.64,
+            840.96,
+            142.4
+          ],
+          "block_id": "img7_7"
+        },
+        {
+          "type": "text",
+          "content": "4'4\n1'031\n1'030\n1'029\n1'027\n1'027\n1'025\n1'024\n1'023\n1'022\n1'022\n1'020\n1'020\n1'019\n5'6\n1'028\n1'027\n1'026\n1'026\n1'024\n1'023\n1'022\n1'021\n1'020\n1'020\n1'018\n1'018\n1'017",
+          "bbox": [
+            95.04,
+            134.48,
+            756.91,
+            155.22
+          ],
+          "block_id": "b7_36",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            142.4,
+            840.96,
+            160.16
+          ],
+          "block_id": "img7_8"
+        },
+        {
+          "type": "text",
+          "content": ";:;\n1'025\n1'024\n1'023\n1'022\n1'021\n1'020\n1'019\n1'018\n1'018\n1'017\n1'016\n1'016\n1'015\n1'021\n1'020\n1'020\n1'020\n1'019\n1'017\n1'017\n1'016\n1'015\n1'015\n1'014\n1'014\n1'013\n8'9\n1'018\n1'017\n1'017\n1'017\n1'016\n1'015\n1'014\n1'013\n1'013\n1'012\n1'012\n1'012\n1'011",
+          "bbox": [
+            94.56,
+            154.64,
+            756.91,
+            185.46
+          ],
+          "block_id": "b7_37",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            160.16,
+            840.96,
+            177.92
+          ],
+          "block_id": "img7_9"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            177.92,
+            840.96,
+            195.68
+          ],
+          "block_id": "img7_10"
+        },
+        {
+          "type": "text",
+          "content": "lOnO\n1'015\n1'014\n1'014\n1'014\n1'013\n1'012\n1'012\n1'011\n1'011\nI-010\n1'010\n1'010\n1'009\n11'1\n1'012\n1'011\nl*OlO\n1'011\n1'010\n1'009\n1'009\n1'008\nl-008\nI.008\n1'008\n1'007\n12'2\n1'008\n1'008\n1'007\n1'008\n1'007\n1'007\n1.006\n1'006\n1'006\n;-%i\n1'006\n-\n1'005\n1'005\n13'3\n1'006\n1'005\n1'004\n1'005\n1'004\n1'005\n1'004\n1'004\n1'004\n1'004\n1'003\n1'003\n1'003\n14'4\n1'001\n1'001\n1'001\n1'002\n1'002\n1'002\n1'002\n1'001\n1'001\nI*001\n1'001\n1'001\n1'001",
+          "bbox": [
+            89.52,
+            194.72,
+            756.43,
+            245.7
+          ],
+          "block_id": "b7_38",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            195.68,
+            840.96,
+            213.44
+          ],
+          "block_id": "img7_11"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            213.44,
+            840.96,
+            231.2
+          ],
+          "block_id": "img7_12"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            231.2,
+            840.96,
+            248.96
+          ],
+          "block_id": "img7_13"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            248.96,
+            840.96,
+            266.72
+          ],
+          "block_id": "img7_14"
+        },
+        {
+          "type": "text",
+          "content": "15'0\n1'000\ni*ooo\n1'000\n1'000\n1'000\n1'000\n1'000\n1'000\n1'000\n1'000\nl-000\n1'000\n1'000\n16'7\n0.996\no-995\n0'995\n0'996\n0'996\n0'996\nO-996\n0'997\n0'997\no-997\no-997\n0'997\n0'997\n17'8\n0'992\n0'991\n0-992\n0.993\n0'993\no-993\n0'994\n0.994\n0'994\n0'994\n0.995\n0.995\n0'995\n18'9\n0'989\n0'988\n0.988\n0.989\n0'990\n0'991\n0'991\n0'992\n0'992\n0.992\n0'992\no-992\n0'992\n20'0\n0'985\n0'984\n0,985\n0'986\nd-987\n0.988\n0'989\n0'989\n0'989\nO-989\n0'990\n0'990\n0'990",
+          "bbox": [
+            87.6,
+            254.72,
+            755.71,
+            305.94
+          ],
+          "block_id": "b7_39",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            266.72,
+            840.96,
+            284.48
+          ],
+          "block_id": "img7_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            284.48,
+            840.96,
+            302.24
+          ],
+          "block_id": "img7_16"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            302.24,
+            840.96,
+            320.0
+          ],
+          "block_id": "img7_17"
+        },
+        {
+          "type": "text",
+          "content": "21'1\n0'982\n0'981\n0'982\n0'983\nO-984\n0'985\n0'986\n0'987\n0'987\n0-987\n0'988\n0'988\n0'988\n22'2\nO-978\n0'978\n0'979\n0'980\n0'981\n0'982\n0'983\n0'984\n0'985\n0,985\n0'986\n0'986\n0'986\n23'3\n0'975\n0'974\n0'975\n0'977\n0'979\n0'979\n0'981\n0'982\n0'982\n0,983\n0'984\n0.984\n0'984\n24'4\n0'971\n0'971\n0'972\n0'974\n0'976\n0'977\n0'978\n0'979\n0'980\n0,980\n0'981\n0,981\n0'982\n25'6\n0'968\n0'968\n0'968\n0'971\n0'973\n0'974\n0'976\n0'977\n0'977\n0'978\n0'979\n0'979\n0'980",
+          "bbox": [
+            86.88,
+            315.2,
+            755.23,
+            366.18
+          ],
+          "block_id": "b7_40",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            320.0,
+            840.96,
+            337.76
+          ],
+          "block_id": "img7_18"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            337.76,
+            840.96,
+            355.52
+          ],
+          "block_id": "img7_19"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            355.52,
+            840.96,
+            373.28
+          ],
+          "block_id": "img7_20"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            373.28,
+            840.96,
+            391.04
+          ],
+          "block_id": "img7_21"
+        },
+        {
+          "type": "text",
+          "content": "26'7\nO-964\n0'966\n0'966\n0'968\n0'970\no-971\n0'973\n0'974\n0'975\n0'976\n0'977\n0,977\n0'978\n27'8\n0'960\n0'962\n0'962\n0'965\nO-967\n0'968\n0'970\no-971\n0'972\n0'973\n0'975\n0'975\n0'976\n28'9\n0'956\n0'958\n0'959\n0'961\n0'964\n0'965\n0'967\n0'969\n0'970\n0'971\n0'973\n0'973\n0'974\n30'0\n0'953\n0'955\n0'955\n0'958\n0'960\n0'963\n0'965\n0'966\n0'967\n0,968\n0'970\n0'970\n0'971\n31'1\n0'949\n0'951\n0'959\n0'954\no-957\n0'960\n0'962\n0'964\n0'965\n0'966\n0.968\n0'968\n0'969",
+          "bbox": [
+            85.68,
+            375.44,
+            754.99,
+            426.18
+          ],
+          "block_id": "b7_41",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            391.04,
+            840.96,
+            408.8
+          ],
+          "block_id": "img7_22"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            408.8,
+            840.96,
+            426.56
+          ],
+          "block_id": "img7_23"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            426.56,
+            840.96,
+            444.32
+          ],
+          "block_id": "img7_24"
+        },
+        {
+          "type": "text",
+          "content": "32'2\n0'945\n0'948\n0'948\n0'951\n6'954\n0'957\n0'959\nO-961\n0'962\n0'963\n@966\n0.966\n0'967\n33'3\n0'941\n0'944\n0'945\n0'948\n0'951\n0'954\n0'956\n0'958\nO-959\n0'961\n0'963\n0'964\n0'965\n34'4\n0'937\n0'940\no-941\n0'945\n0'948\n0'951\n0'953\n0'956\n0'957\n0'958\n0.961\n0'961\n0.963\n35'6\n0'934\n0'937\n0'938\n0'941\n0'94d\n0'948\n0.951\n0'953\n0'954\n0'956\n0'958\n0'959\n0'960\n36'7\n0'930\n0'933\n0'934\n0'938\n0'942\n0'945\n0'948\n0'951\n0'952\n0'953\n0'956\n0.956\n0'958",
+          "bbox": [
+            85.2,
+            435.68,
+            754.27,
+            486.66
+          ],
+          "block_id": "b7_42",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            444.32,
+            840.96,
+            462.08
+          ],
+          "block_id": "img7_25"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            462.08,
+            840.96,
+            479.84
+          ],
+          "block_id": "img7_26"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            479.84,
+            840.96,
+            497.6
+          ],
+          "block_id": "img7_27"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            497.6,
+            840.96,
+            515.36
+          ],
+          "block_id": "img7_28"
+        },
+        {
+          "type": "text",
+          "content": "L\n(  Continued)\n0",
+          "bbox": [
+            706.8,
+            502.85,
+            791.11,
+            529.03
+          ],
+          "block_id": "b7_43",
+          "font_size": 13.2,
+          "is_bold": false,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            515.36,
+            840.96,
+            533.12
+          ],
+          "block_id": "img7_29"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            533.12,
+            840.96,
+            550.88
+          ],
+          "block_id": "img7_30"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            550.88,
+            840.96,
+            568.64
+          ],
+          "block_id": "img7_31"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            568.64,
+            840.96,
+            586.4
+          ],
+          "block_id": "img7_32"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            586.4,
+            840.96,
+            604.16
+          ],
+          "block_id": "img7_33"
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img7_0",
+          "bbox": [
+            0.0,
+            0.32,
+            840.96,
+            18.08
+          ]
+        },
+        {
+          "block_id": "img7_1",
+          "bbox": [
+            0.0,
+            18.08,
+            840.96,
+            35.84
+          ]
+        },
+        {
+          "block_id": "img7_2",
+          "bbox": [
+            0.0,
+            35.84,
+            840.96,
+            53.6
+          ]
+        },
+        {
+          "block_id": "img7_3",
+          "bbox": [
+            0.0,
+            53.6,
+            840.96,
+            71.36
+          ]
+        },
+        {
+          "block_id": "img7_4",
+          "bbox": [
+            0.0,
+            71.36,
+            840.96,
+            89.12
+          ]
+        },
+        {
+          "block_id": "img7_5",
+          "bbox": [
+            0.0,
+            89.12,
+            840.96,
+            106.88
+          ]
+        },
+        {
+          "block_id": "img7_6",
+          "bbox": [
+            0.0,
+            106.88,
+            840.96,
+            124.64
+          ]
+        },
+        {
+          "block_id": "img7_7",
+          "bbox": [
+            0.0,
+            124.64,
+            840.96,
+            142.4
+          ]
+        },
+        {
+          "block_id": "img7_8",
+          "bbox": [
+            0.0,
+            142.4,
+            840.96,
+            160.16
+          ]
+        },
+        {
+          "block_id": "img7_9",
+          "bbox": [
+            0.0,
+            160.16,
+            840.96,
+            177.92
+          ]
+        },
+        {
+          "block_id": "img7_10",
+          "bbox": [
+            0.0,
+            177.92,
+            840.96,
+            195.68
+          ]
+        },
+        {
+          "block_id": "img7_11",
+          "bbox": [
+            0.0,
+            195.68,
+            840.96,
+            213.44
+          ]
+        },
+        {
+          "block_id": "img7_12",
+          "bbox": [
+            0.0,
+            213.44,
+            840.96,
+            231.2
+          ]
+        },
+        {
+          "block_id": "img7_13",
+          "bbox": [
+            0.0,
+            231.2,
+            840.96,
+            248.96
+          ]
+        },
+        {
+          "block_id": "img7_14",
+          "bbox": [
+            0.0,
+            248.96,
+            840.96,
+            266.72
+          ]
+        },
+        {
+          "block_id": "img7_15",
+          "bbox": [
+            0.0,
+            266.72,
+            840.96,
+            284.48
+          ]
+        },
+        {
+          "block_id": "img7_16",
+          "bbox": [
+            0.0,
+            284.48,
+            840.96,
+            302.24
+          ]
+        },
+        {
+          "block_id": "img7_17",
+          "bbox": [
+            0.0,
+            302.24,
+            840.96,
+            320.0
+          ]
+        },
+        {
+          "block_id": "img7_18",
+          "bbox": [
+            0.0,
+            320.0,
+            840.96,
+            337.76
+          ]
+        },
+        {
+          "block_id": "img7_19",
+          "bbox": [
+            0.0,
+            337.76,
+            840.96,
+            355.52
+          ]
+        },
+        {
+          "block_id": "img7_20",
+          "bbox": [
+            0.0,
+            355.52,
+            840.96,
+            373.28
+          ]
+        },
+        {
+          "block_id": "img7_21",
+          "bbox": [
+            0.0,
+            373.28,
+            840.96,
+            391.04
+          ]
+        },
+        {
+          "block_id": "img7_22",
+          "bbox": [
+            0.0,
+            391.04,
+            840.96,
+            408.8
+          ]
+        },
+        {
+          "block_id": "img7_23",
+          "bbox": [
+            0.0,
+            408.8,
+            840.96,
+            426.56
+          ]
+        },
+        {
+          "block_id": "img7_24",
+          "bbox": [
+            0.0,
+            426.56,
+            840.96,
+            444.32
+          ]
+        },
+        {
+          "block_id": "img7_25",
+          "bbox": [
+            0.0,
+            444.32,
+            840.96,
+            462.08
+          ]
+        },
+        {
+          "block_id": "img7_26",
+          "bbox": [
+            0.0,
+            462.08,
+            840.96,
+            479.84
+          ]
+        },
+        {
+          "block_id": "img7_27",
+          "bbox": [
+            0.0,
+            479.84,
+            840.96,
+            497.6
+          ]
+        },
+        {
+          "block_id": "img7_28",
+          "bbox": [
+            0.0,
+            497.6,
+            840.96,
+            515.36
+          ]
+        },
+        {
+          "block_id": "img7_29",
+          "bbox": [
+            0.0,
+            515.36,
+            840.96,
+            533.12
+          ]
+        },
+        {
+          "block_id": "img7_30",
+          "bbox": [
+            0.0,
+            533.12,
+            840.96,
+            550.88
+          ]
+        },
+        {
+          "block_id": "img7_31",
+          "bbox": [
+            0.0,
+            550.88,
+            840.96,
+            568.64
+          ]
+        },
+        {
+          "block_id": "img7_32",
+          "bbox": [
+            0.0,
+            568.64,
+            840.96,
+            586.4
+          ]
+        },
+        {
+          "block_id": "img7_33",
+          "bbox": [
+            0.0,
+            586.4,
+            840.96,
+            604.16
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 841.0,
+        "height": 614.0
+      },
+      "image_id_map": {
+        "img7_0": 1
+      }
+    },
+    {
+      "page_num": 8,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            0.08,
+            844.08,
+            17.84
+          ],
+          "block_id": "img8_0"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            17.84,
+            844.08,
+            35.6
+          ],
+          "block_id": "img8_1"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            35.6,
+            844.08,
+            53.36
+          ],
+          "block_id": "img8_2"
+        },
+        {
+          "type": "text",
+          "content": "Observed\nTemp\n\u201cC",
+          "bbox": [
+            71.52,
+            50.72,
+            117.6,
+            71.36
+          ],
+          "block_id": "b8_35",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Specific\nGravities\nat 15%/15?C",
+          "bbox": [
+            339.84,
+            50.96,
+            494.64,
+            61.28
+          ],
+          "block_id": "b8_39",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            53.36,
+            844.08,
+            71.12
+          ],
+          "block_id": "img8_3"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            71.12,
+            844.08,
+            88.88
+          ],
+          "block_id": "img8_4"
+        },
+        {
+          "type": "text",
+          "content": "iso-\nButane\nBuhe\n0'5b08\nPropane\n0'508 7\n0'5108\n0'5208\n0'5308\n0'5408\n0'550 6\n0'560 6\n0'5637\n0'570 6\n0'580 6\nO-585 0\n0'590 6\n_",
+          "bbox": [
+            130.32,
+            75.44,
+            763.82,
+            112.66
+          ],
+          "block_id": "b8_40",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            88.88,
+            844.08,
+            106.64
+          ],
+          "block_id": "img8_5"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            106.64,
+            844.08,
+            124.4
+          ],
+          "block_id": "img8_6"
+        },
+        {
+          "type": "text",
+          "content": "Volume Correction Factors\nT",
+          "bbox": [
+            340.32,
+            114.8,
+            478.22,
+            147.64
+          ],
+          "block_id": "b8_46",
+          "font_size": 15.1,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "-",
+          "bbox": [
+            512.64,
+            121.83,
+            517.92,
+            133.7
+          ],
+          "block_id": "b8_50",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-",
+          "bbox": [
+            264.96,
+            122.79,
+            270.24,
+            134.66
+          ],
+          "block_id": "b8_44",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            124.4,
+            844.08,
+            142.16
+          ],
+          "block_id": "img8_7"
+        },
+        {
+          "type": "text",
+          "content": "I\n37'8\n40'6\n43'3\n46'1\n48'9",
+          "bbox": [
+            68.4,
+            137.13,
+            111.74,
+            193.06
+          ],
+          "block_id": "b8_36",
+          "font_size": 25.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "o-942\n0\u2019945\n0'948\n0\u2019949\n0'951\n0\u2019953\n0.954\nOn956\n0\u2019934\nO-938\n0\u2019942\n0\u2019942\n0'945\n0'948\n0,948\n0\u2019950\n0'926\n0'931\n0\u2019935\n0'936\n0,938\n0\u2019942\no-943\n0'1345\n0\u2019919\n0\u2019924\n0\u2019929\n0\u2019929\n0'932\n0'936\n0\u2019937\n0'939\n0'911\n0\u2019917\n0\u2019922\n0\u2019923\n0'926\no-930\no-931\n0'933",
+          "bbox": [
+            378.24,
+            140.31,
+            763.58,
+            193.06
+          ],
+          "block_id": "b8_48",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "0\u2019935\n0\u2019939\n0'926\n0\u2019930\no-917\n0\u2019922\n0'908\n0'914\n0'899\n0'906",
+          "bbox": [
+            278.64,
+            140.55,
+            360.38,
+            192.34
+          ],
+          "block_id": "b8_42",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0'926\n0.929\u2018\n0'931\n0'916\n0'919\n0'922\n0'906\no-910\n0'912\n0\u2019896\nO-901\n0'903\n0'886\nO-891\n0'893",
+          "bbox": [
+            129.6,
+            141.03,
+            261.02,
+            192.82
+          ],
+          "block_id": "b8_37",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            142.16,
+            844.08,
+            159.92
+          ],
+          "block_id": "img8_8"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            159.92,
+            844.08,
+            177.68
+          ],
+          "block_id": "img8_9"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            177.68,
+            844.08,
+            195.44
+          ],
+          "block_id": "img8_10"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            195.44,
+            844.08,
+            213.2
+          ],
+          "block_id": "img8_11"
+        },
+        {
+          "type": "text",
+          "content": "0\u2019902\n0'908\n0'915\n0'915\n0'919\n0\u2019924\n0.926\n0'927\n0'894\n0\u2019900\n0\u2019907\n0'908\n0'912\n0'917\n0,920\n0'922\n0'886\nO-893\n0\u2019900\n0'901\n0'906\n0'911\n0.913\n0'915\n0'878\n0'885\n0.892\n0'894\nO-899\n0'904\n0'906\n0'909\n-",
+          "bbox": [
+            378.24,
+            200.79,
+            758.54,
+            255.86
+          ],
+          "block_id": "b8_49",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "0'883\nO-889\n0\u2019897\n0'872\n0\u2019879\n0'887\n0'862\n0'870\n0'878\nO-851\n0'860\n0'869",
+          "bbox": [
+            228.96,
+            201.68,
+            360.14,
+            242.5
+          ],
+          "block_id": "b8_43",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "51'7\n0'875\nO-880\n54'4\n0'864\n0.870\n57.2\n0'853\n0'860\n60'0\n0.841\nO-849",
+          "bbox": [
+            84.72,
+            201.92,
+            211.1,
+            243.22
+          ],
+          "block_id": "b8_38",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            213.2,
+            844.08,
+            230.96
+          ],
+          "block_id": "img8_12"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            230.96,
+            844.08,
+            248.72
+          ],
+          "block_id": "img8_13"
+        },
+        {
+          "type": "text",
+          "content": "-",
+          "bbox": [
+            364.8,
+            243.99,
+            370.08,
+            255.86
+          ],
+          "block_id": "b8_47",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-\nI\n-",
+          "bbox": [
+            512.64,
+            243.99,
+            717.6,
+            257.3
+          ],
+          "block_id": "b8_51",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-",
+          "bbox": [
+            264.96,
+            244.23,
+            270.24,
+            256.1
+          ],
+          "block_id": "b8_45",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "-",
+          "bbox": [
+            163.2,
+            244.71,
+            168.48,
+            256.58
+          ],
+          "block_id": "b8_41",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            248.72,
+            844.08,
+            266.48
+          ],
+          "block_id": "img8_14"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            266.48,
+            844.08,
+            284.24
+          ],
+          "block_id": "img8_15"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            284.24,
+            844.08,
+            302.0
+          ],
+          "block_id": "img8_16"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            302.0,
+            844.08,
+            319.76
+          ],
+          "block_id": "img8_17"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            319.76,
+            844.08,
+            337.52
+          ],
+          "block_id": "img8_18"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            337.52,
+            844.08,
+            355.28
+          ],
+          "block_id": "img8_19"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            355.28,
+            844.08,
+            373.04
+          ],
+          "block_id": "img8_20"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            373.04,
+            844.08,
+            390.8
+          ],
+          "block_id": "img8_21"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            390.8,
+            844.08,
+            408.56
+          ],
+          "block_id": "img8_22"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            408.56,
+            844.08,
+            426.32
+          ],
+          "block_id": "img8_23"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            426.32,
+            844.08,
+            444.08
+          ],
+          "block_id": "img8_24"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            444.08,
+            844.08,
+            461.84
+          ],
+          "block_id": "img8_25"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            461.84,
+            844.08,
+            479.6
+          ],
+          "block_id": "img8_26"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            479.6,
+            844.08,
+            497.36
+          ],
+          "block_id": "img8_27"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            497.36,
+            844.08,
+            515.12
+          ],
+          "block_id": "img8_28"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            515.12,
+            844.08,
+            532.88
+          ],
+          "block_id": "img8_29"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            532.88,
+            844.08,
+            550.64
+          ],
+          "block_id": "img8_30"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            550.64,
+            844.08,
+            568.4
+          ],
+          "block_id": "img8_31"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            568.4,
+            844.08,
+            586.16
+          ],
+          "block_id": "img8_32"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            586.16,
+            844.08,
+            603.92
+          ],
+          "block_id": "img8_33"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            603.92,
+            844.08,
+            618.56
+          ],
+          "block_id": "img8_34"
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img8_0",
+          "bbox": [
+            0.0,
+            0.08,
+            844.08,
+            17.84
+          ]
+        },
+        {
+          "block_id": "img8_1",
+          "bbox": [
+            0.0,
+            17.84,
+            844.08,
+            35.6
+          ]
+        },
+        {
+          "block_id": "img8_2",
+          "bbox": [
+            0.0,
+            35.6,
+            844.08,
+            53.36
+          ]
+        },
+        {
+          "block_id": "img8_3",
+          "bbox": [
+            0.0,
+            53.36,
+            844.08,
+            71.12
+          ]
+        },
+        {
+          "block_id": "img8_4",
+          "bbox": [
+            0.0,
+            71.12,
+            844.08,
+            88.88
+          ]
+        },
+        {
+          "block_id": "img8_5",
+          "bbox": [
+            0.0,
+            88.88,
+            844.08,
+            106.64
+          ]
+        },
+        {
+          "block_id": "img8_6",
+          "bbox": [
+            0.0,
+            106.64,
+            844.08,
+            124.4
+          ]
+        },
+        {
+          "block_id": "img8_7",
+          "bbox": [
+            0.0,
+            124.4,
+            844.08,
+            142.16
+          ]
+        },
+        {
+          "block_id": "img8_8",
+          "bbox": [
+            0.0,
+            142.16,
+            844.08,
+            159.92
+          ]
+        },
+        {
+          "block_id": "img8_9",
+          "bbox": [
+            0.0,
+            159.92,
+            844.08,
+            177.68
+          ]
+        },
+        {
+          "block_id": "img8_10",
+          "bbox": [
+            0.0,
+            177.68,
+            844.08,
+            195.44
+          ]
+        },
+        {
+          "block_id": "img8_11",
+          "bbox": [
+            0.0,
+            195.44,
+            844.08,
+            213.2
+          ]
+        },
+        {
+          "block_id": "img8_12",
+          "bbox": [
+            0.0,
+            213.2,
+            844.08,
+            230.96
+          ]
+        },
+        {
+          "block_id": "img8_13",
+          "bbox": [
+            0.0,
+            230.96,
+            844.08,
+            248.72
+          ]
+        },
+        {
+          "block_id": "img8_14",
+          "bbox": [
+            0.0,
+            248.72,
+            844.08,
+            266.48
+          ]
+        },
+        {
+          "block_id": "img8_15",
+          "bbox": [
+            0.0,
+            266.48,
+            844.08,
+            284.24
+          ]
+        },
+        {
+          "block_id": "img8_16",
+          "bbox": [
+            0.0,
+            284.24,
+            844.08,
+            302.0
+          ]
+        },
+        {
+          "block_id": "img8_17",
+          "bbox": [
+            0.0,
+            302.0,
+            844.08,
+            319.76
+          ]
+        },
+        {
+          "block_id": "img8_18",
+          "bbox": [
+            0.0,
+            319.76,
+            844.08,
+            337.52
+          ]
+        },
+        {
+          "block_id": "img8_19",
+          "bbox": [
+            0.0,
+            337.52,
+            844.08,
+            355.28
+          ]
+        },
+        {
+          "block_id": "img8_20",
+          "bbox": [
+            0.0,
+            355.28,
+            844.08,
+            373.04
+          ]
+        },
+        {
+          "block_id": "img8_21",
+          "bbox": [
+            0.0,
+            373.04,
+            844.08,
+            390.8
+          ]
+        },
+        {
+          "block_id": "img8_22",
+          "bbox": [
+            0.0,
+            390.8,
+            844.08,
+            408.56
+          ]
+        },
+        {
+          "block_id": "img8_23",
+          "bbox": [
+            0.0,
+            408.56,
+            844.08,
+            426.32
+          ]
+        },
+        {
+          "block_id": "img8_24",
+          "bbox": [
+            0.0,
+            426.32,
+            844.08,
+            444.08
+          ]
+        },
+        {
+          "block_id": "img8_25",
+          "bbox": [
+            0.0,
+            444.08,
+            844.08,
+            461.84
+          ]
+        },
+        {
+          "block_id": "img8_26",
+          "bbox": [
+            0.0,
+            461.84,
+            844.08,
+            479.6
+          ]
+        },
+        {
+          "block_id": "img8_27",
+          "bbox": [
+            0.0,
+            479.6,
+            844.08,
+            497.36
+          ]
+        },
+        {
+          "block_id": "img8_28",
+          "bbox": [
+            0.0,
+            497.36,
+            844.08,
+            515.12
+          ]
+        },
+        {
+          "block_id": "img8_29",
+          "bbox": [
+            0.0,
+            515.12,
+            844.08,
+            532.88
+          ]
+        },
+        {
+          "block_id": "img8_30",
+          "bbox": [
+            0.0,
+            532.88,
+            844.08,
+            550.64
+          ]
+        },
+        {
+          "block_id": "img8_31",
+          "bbox": [
+            0.0,
+            550.64,
+            844.08,
+            568.4
+          ]
+        },
+        {
+          "block_id": "img8_32",
+          "bbox": [
+            0.0,
+            568.4,
+            844.08,
+            586.16
+          ]
+        },
+        {
+          "block_id": "img8_33",
+          "bbox": [
+            0.0,
+            586.16,
+            844.08,
+            603.92
+          ]
+        },
+        {
+          "block_id": "img8_34",
+          "bbox": [
+            0.0,
+            603.92,
+            844.08,
+            618.56
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 845.0,
+        "height": 620.0
+      },
+      "image_id_map": {
+        "img8_0": 2
+      }
+    },
+    {
+      "page_num": 9,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            24.12,
+            616.32,
+            48.36
+          ],
+          "block_id": "img9_0"
+        },
+        {
+          "type": "text",
+          "content": "IS :  9618 -  1980",
+          "bbox": [
+            442.32,
+            42.36,
+            531.84,
+            55.55
+          ],
+          "block_id": "b9_34",
+          "font_size": 9.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            48.36,
+            616.32,
+            72.6
+          ],
+          "block_id": "img9_1"
+        },
+        {
+          "type": "text",
+          "content": "APPENDIX\nB",
+          "bbox": [
+            238.08,
+            67.87,
+            350.4,
+            79.74
+          ],
+          "block_id": "b9_35",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            72.6,
+            616.32,
+            96.84
+          ],
+          "block_id": "img9_2"
+        },
+        {
+          "type": "text",
+          "content": "(Clause\n6.1 )",
+          "bbox": [
+            264.96,
+            84.91,
+            325.92,
+            96.78
+          ],
+          "block_id": "b9_36",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            96.84,
+            616.32,
+            121.08
+          ],
+          "block_id": "img9_3"
+        },
+        {
+          "type": "text",
+          "content": "MINIMUM\nRATE OF DISCHARGE\nFOR SAFETY\nRELIEF VALVES",
+          "bbox": [
+            118.56,
+            104.86,
+            464.16,
+            116.95
+          ],
+          "block_id": "b9_37",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            121.08,
+            616.32,
+            145.32
+          ],
+          "block_id": "img9_4"
+        },
+        {
+          "type": "text",
+          "content": "A-l.\nRATE OF DISCHARGE",
+          "bbox": [
+            60.0,
+            128.14,
+            200.88,
+            140.23
+          ],
+          "block_id": "b9_38",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            145.32,
+            616.32,
+            169.56
+          ],
+          "block_id": "img9_5"
+        },
+        {
+          "type": "text",
+          "content": "A-l.1  Flow rate is the required\nflow capacity\nin cubic\nmeter per hour\nof air at standard\nconditions\nof temperature\n( 15\u20196\u00b0C ) and atmospheric\npressure\n( 103 kPa ).",
+          "bbox": [
+            60.48,
+            148.06,
+            520.56,
+            170.22
+          ],
+          "block_id": "b9_39",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            169.56,
+            616.32,
+            193.8
+          ],
+          "block_id": "img9_6"
+        },
+        {
+          "type": "text",
+          "content": "A-l.2\nThe minimum\nrates of discharge\nfor safety relief valves are given in Table\n1.",
+          "bbox": [
+            60.96,
+            178.51,
+            450.96,
+            190.38
+          ],
+          "block_id": "b9_40",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            193.8,
+            616.32,
+            218.04
+          ],
+          "block_id": "img9_7"
+        },
+        {
+          "type": "text",
+          "content": "A-1.2.1\nThe rate of discharge\nmay be interpolated\nfor intermediate\nvalve of surface\narea.",
+          "bbox": [
+            71.52,
+            198.43,
+            484.56,
+            210.3
+          ],
+          "block_id": "b9_41",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "A-1.2.2\nFor containers\nwith total outside\nsuface\narea greater\nthan\n186 m?, the required\nflow rate\nmay be calculated\nusing formula:",
+          "bbox": [
+            61.68,
+            216.43,
+            528.96,
+            238.62
+          ],
+          "block_id": "b9_42",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            218.04,
+            616.32,
+            242.28
+          ],
+          "block_id": "img9_8"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            242.28,
+            616.32,
+            266.52
+          ],
+          "block_id": "img9_9"
+        },
+        {
+          "type": "text",
+          "content": "Flow rate, m3jh = 639\u2019981 x A o*Bp m3/h",
+          "bbox": [
+            202.32,
+            244.27,
+            385.44,
+            256.14
+          ],
+          "block_id": "b9_43",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "where A = total outside\nsurface\narea in ma.",
+          "bbox": [
+            106.32,
+            260.35,
+            313.2,
+            272.46
+          ],
+          "block_id": "b9_44",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            266.52,
+            616.32,
+            290.76
+          ],
+          "block_id": "img9_10"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            290.76,
+            616.32,
+            315.0
+          ],
+          "block_id": "img9_11"
+        },
+        {
+          "type": "text",
+          "content": "TABLE\n1 MINIMUM\nRATE\nOF DISCHARGE",
+          "bbox": [
+            197.76,
+            298.94,
+            385.12,
+            308.69
+          ],
+          "block_id": "b9_63",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            315.0,
+            616.32,
+            339.24
+          ],
+          "block_id": "img9_12"
+        },
+        {
+          "type": "text",
+          "content": "Outside\nSurface Area",
+          "bbox": [
+            329.52,
+            321.02,
+            384.64,
+            338.93
+          ],
+          "block_id": "b9_71",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Flow Rate",
+          "bbox": [
+            436.32,
+            321.02,
+            480.16,
+            330.77
+          ],
+          "block_id": "b9_89",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "Outside\nSurface  Area",
+          "bbox": [
+            100.08,
+            321.26,
+            154.86,
+            339.41
+          ],
+          "block_id": "b9_45",
+          "font_size": 7.4,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "Flow Rate",
+          "bbox": [
+            207.36,
+            321.26,
+            251.2,
+            331.01
+          ],
+          "block_id": "b9_64",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            339.24,
+            616.32,
+            363.48
+          ],
+          "block_id": "img9_13"
+        },
+        {
+          "type": "text",
+          "content": "(2)\nma/h",
+          "bbox": [
+            451.44,
+            344.35,
+            471.94,
+            362.65
+          ],
+          "block_id": "b9_90",
+          "font_size": 8.6,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "w\nma/h",
+          "bbox": [
+            224.88,
+            346.22,
+            245.38,
+            362.65
+          ],
+          "block_id": "b9_65",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(1)\nma",
+          "bbox": [
+            350.4,
+            346.46,
+            363.94,
+            362.41
+          ],
+          "block_id": "b9_72",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "(1)\nma",
+          "bbox": [
+            121.68,
+            346.68,
+            135.94,
+            362.89
+          ],
+          "block_id": "b9_46",
+          "font_size": 7.9,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            363.48,
+            616.32,
+            387.72
+          ],
+          "block_id": "img9_14"
+        },
+        {
+          "type": "text",
+          "content": "639'981",
+          "bbox": [
+            220.56,
+            369.72,
+            253.3,
+            378.25
+          ],
+          "block_id": "b9_66",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "10412'494",
+          "bbox": [
+            440.16,
+            369.72,
+            481.06,
+            378.25
+          ],
+          "block_id": "b9_91",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "30",
+          "bbox": [
+            351.36,
+            369.96,
+            363.7,
+            378.49
+          ],
+          "block_id": "b9_73",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "bbox": [
+            129.84,
+            370.2,
+            138.1,
+            378.73
+          ],
+          "block_id": "b9_47",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            387.72,
+            616.32,
+            411.96
+          ],
+          "block_id": "img9_15"
+        },
+        {
+          "type": "text",
+          "content": "1129~567",
+          "bbox": [
+            214.56,
+            387.72,
+            251.38,
+            396.25
+          ],
+          "block_id": "b9_67",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "35",
+          "bbox": [
+            352.32,
+            387.96,
+            364.66,
+            396.49
+          ],
+          "block_id": "b9_74",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "11814'053",
+          "bbox": [
+            441.12,
+            387.96,
+            482.02,
+            396.49
+          ],
+          "block_id": "b9_92",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "bbox": [
+            129.36,
+            388.2,
+            137.62,
+            396.73
+          ],
+          "block_id": "b9_48",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "1 574'994",
+          "bbox": [
+            214.32,
+            405.72,
+            253.54,
+            414.25
+          ],
+          "block_id": "b9_68",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "40",
+          "bbox": [
+            352.56,
+            405.96,
+            364.9,
+            414.49
+          ],
+          "block_id": "b9_75",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "13177'213",
+          "bbox": [
+            441.6,
+            406.2,
+            482.5,
+            414.73
+          ],
+          "block_id": "b9_93",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "bbox": [
+            129.84,
+            406.44,
+            138.1,
+            414.97
+          ],
+          "block_id": "b9_49",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            411.96,
+            616.32,
+            436.2
+          ],
+          "block_id": "img9_16"
+        },
+        {
+          "type": "text",
+          "content": "1994'821",
+          "bbox": [
+            214.8,
+            423.96,
+            251.62,
+            432.49
+          ],
+          "block_id": "b9_69",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4",
+          "bbox": [
+            130.08,
+            424.2,
+            138.34,
+            432.73
+          ],
+          "block_id": "b9_50",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "45",
+          "bbox": [
+            352.32,
+            424.2,
+            364.66,
+            432.73
+          ],
+          "block_id": "b9_76",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "14514'774",
+          "bbox": [
+            441.12,
+            424.2,
+            482.02,
+            432.73
+          ],
+          "block_id": "b9_94",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            436.2,
+            616.32,
+            460.44
+          ],
+          "block_id": "img9_17"
+        },
+        {
+          "type": "text",
+          "content": "2895'450",
+          "bbox": [
+            215.04,
+            441.96,
+            251.86,
+            450.49
+          ],
+          "block_id": "b9_70",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "50",
+          "bbox": [
+            352.32,
+            442.2,
+            364.66,
+            450.73
+          ],
+          "block_id": "b9_77",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "15826'735",
+          "bbox": [
+            441.6,
+            442.2,
+            482.5,
+            450.73
+          ],
+          "block_id": "b9_95",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "5",
+          "bbox": [
+            130.56,
+            442.44,
+            138.82,
+            450.97
+          ],
+          "block_id": "b9_51",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "2781'358\n60",
+          "bbox": [
+            215.04,
+            460.2,
+            364.9,
+            468.97
+          ],
+          "block_id": "b9_78",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            460.44,
+            616.32,
+            484.68
+          ],
+          "block_id": "img9_18"
+        },
+        {
+          "type": "text",
+          "content": "18330'260",
+          "bbox": [
+            441.6,
+            460.44,
+            482.5,
+            468.97
+          ],
+          "block_id": "b9_96",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6",
+          "bbox": [
+            130.32,
+            460.68,
+            138.58,
+            469.21
+          ],
+          "block_id": "b9_52",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "7",
+          "bbox": [
+            130.56,
+            478.4,
+            136.33,
+            487.96
+          ],
+          "block_id": "b9_53",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3156'387\n70",
+          "bbox": [
+            215.28,
+            478.44,
+            365.38,
+            487.21
+          ],
+          "block_id": "b9_79",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "21208'977",
+          "bbox": [
+            441.6,
+            478.44,
+            482.5,
+            486.97
+          ],
+          "block_id": "b9_97",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            484.68,
+            616.32,
+            508.92
+          ],
+          "block_id": "img9_19"
+        },
+        {
+          "type": "text",
+          "content": "8",
+          "bbox": [
+            130.8,
+            494.59,
+            138.0,
+            506.46
+          ],
+          "block_id": "b9_54",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3520'537\n80",
+          "bbox": [
+            215.04,
+            496.44,
+            365.14,
+            504.97
+          ],
+          "block_id": "b9_80",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "23263'317",
+          "bbox": [
+            441.6,
+            496.44,
+            482.5,
+            504.97
+          ],
+          "block_id": "b9_98",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            508.92,
+            616.32,
+            533.16
+          ],
+          "block_id": "img9_20"
+        },
+        {
+          "type": "text",
+          "content": "9",
+          "bbox": [
+            130.56,
+            514.4,
+            136.33,
+            523.96
+          ],
+          "block_id": "b9_55",
+          "font_size": 7.0,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "text",
+          "content": "3877'646\n90",
+          "bbox": [
+            215.28,
+            514.44,
+            365.62,
+            522.97
+          ],
+          "block_id": "b9_81",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "25 618'447",
+          "bbox": [
+            442.32,
+            514.68,
+            485.38,
+            523.21
+          ],
+          "block_id": "b9_99",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4 228'356\n100",
+          "bbox": [
+            215.76,
+            532.44,
+            366.58,
+            540.97
+          ],
+          "block_id": "b9_82",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "27935'179",
+          "bbox": [
+            442.56,
+            532.68,
+            483.46,
+            541.21
+          ],
+          "block_id": "b9_100",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            533.16,
+            616.32,
+            557.4
+          ],
+          "block_id": "img9_21"
+        },
+        {
+          "type": "text",
+          "content": "10",
+          "bbox": [
+            127.44,
+            533.16,
+            139.78,
+            541.69
+          ],
+          "block_id": "b9_56",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "4909'936\n120",
+          "bbox": [
+            216.0,
+            550.44,
+            366.34,
+            559.21
+          ],
+          "block_id": "b9_83",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "32440'647",
+          "bbox": [
+            442.08,
+            550.68,
+            482.98,
+            559.21
+          ],
+          "block_id": "b9_101",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "12",
+          "bbox": [
+            127.92,
+            551.16,
+            140.26,
+            559.69
+          ],
+          "block_id": "b9_57",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            557.4,
+            616.32,
+            581.64
+          ],
+          "block_id": "img9_22"
+        },
+        {
+          "type": "text",
+          "content": "5571'676\n140",
+          "bbox": [
+            216.72,
+            568.44,
+            366.58,
+            577.21
+          ],
+          "block_id": "b9_84",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "36805'319",
+          "bbox": [
+            442.32,
+            568.68,
+            483.22,
+            577.21
+          ],
+          "block_id": "b9_102",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "14",
+          "bbox": [
+            128.16,
+            569.16,
+            140.5,
+            577.69
+          ],
+          "block_id": "b9_58",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            581.64,
+            616.32,
+            605.88
+          ],
+          "block_id": "img9_23"
+        },
+        {
+          "type": "text",
+          "content": "6216'777\n160",
+          "bbox": [
+            216.48,
+            586.44,
+            366.82,
+            595.21
+          ],
+          "block_id": "b9_85",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "41073'993",
+          "bbox": [
+            442.56,
+            586.92,
+            483.46,
+            595.45
+          ],
+          "block_id": "b9_103",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "16",
+          "bbox": [
+            127.68,
+            587.4,
+            140.02,
+            595.93
+          ],
+          "block_id": "b9_59",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "6847'799\n180",
+          "bbox": [
+            216.24,
+            604.68,
+            366.58,
+            613.45
+          ],
+          "block_id": "b9_86",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "45233'871",
+          "bbox": [
+            442.08,
+            605.16,
+            482.98,
+            613.69
+          ],
+          "block_id": "b9_104",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "18",
+          "bbox": [
+            127.68,
+            605.4,
+            140.02,
+            613.93
+          ],
+          "block_id": "b9_60",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            605.88,
+            616.32,
+            630.12
+          ],
+          "block_id": "img9_24"
+        },
+        {
+          "type": "text",
+          "content": "7462'181\n186",
+          "bbox": [
+            216.48,
+            622.92,
+            366.34,
+            631.69
+          ],
+          "block_id": "b9_87",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "46469'035",
+          "bbox": [
+            442.08,
+            623.16,
+            482.98,
+            631.69
+          ],
+          "block_id": "b9_105",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "20",
+          "bbox": [
+            127.68,
+            623.4,
+            140.02,
+            631.93
+          ],
+          "block_id": "b9_61",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            630.12,
+            616.32,
+            654.36
+          ],
+          "block_id": "img9_25"
+        },
+        {
+          "type": "text",
+          "content": "8 966.137",
+          "bbox": [
+            216.48,
+            641.16,
+            255.7,
+            649.69
+          ],
+          "block_id": "b9_88",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "text",
+          "content": "25",
+          "bbox": [
+            127.92,
+            641.64,
+            140.26,
+            650.17
+          ],
+          "block_id": "b9_62",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            654.36,
+            616.32,
+            678.6
+          ],
+          "block_id": "img9_26"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            678.6,
+            616.32,
+            702.84
+          ],
+          "block_id": "img9_27"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            702.84,
+            616.32,
+            727.08
+          ],
+          "block_id": "img9_28"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            727.08,
+            616.32,
+            751.32
+          ],
+          "block_id": "img9_29"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            751.32,
+            616.32,
+            775.56
+          ],
+          "block_id": "img9_30"
+        },
+        {
+          "type": "text",
+          "content": "9",
+          "bbox": [
+            298.32,
+            775.39,
+            305.52,
+            787.26
+          ],
+          "block_id": "b9_106",
+          "font_size": 8.6,
+          "is_bold": false,
+          "is_heading": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            775.56,
+            616.32,
+            799.8
+          ],
+          "block_id": "img9_31"
+        },
+        {
+          "type": "text",
+          "content": "PrintedatArcee Press,New Delhi,lndia",
+          "bbox": [
+            396.48,
+            797.16,
+            543.46,
+            805.69
+          ],
+          "block_id": "b9_107",
+          "font_size": 7.0,
+          "is_bold": true,
+          "is_heading": true
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            799.8,
+            616.32,
+            824.04
+          ],
+          "block_id": "img9_32"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            824.04,
+            616.32,
+            842.52
+          ],
+          "block_id": "img9_33"
+        }
+      ],
+      "images": [
+        {
+          "block_id": "img9_0",
+          "bbox": [
+            0.0,
+            24.12,
+            616.32,
+            48.36
+          ]
+        },
+        {
+          "block_id": "img9_1",
+          "bbox": [
+            0.0,
+            48.36,
+            616.32,
+            72.6
+          ]
+        },
+        {
+          "block_id": "img9_2",
+          "bbox": [
+            0.0,
+            72.6,
+            616.32,
+            96.84
+          ]
+        },
+        {
+          "block_id": "img9_3",
+          "bbox": [
+            0.0,
+            96.84,
+            616.32,
+            121.08
+          ]
+        },
+        {
+          "block_id": "img9_4",
+          "bbox": [
+            0.0,
+            121.08,
+            616.32,
+            145.32
+          ]
+        },
+        {
+          "block_id": "img9_5",
+          "bbox": [
+            0.0,
+            145.32,
+            616.32,
+            169.56
+          ]
+        },
+        {
+          "block_id": "img9_6",
+          "bbox": [
+            0.0,
+            169.56,
+            616.32,
+            193.8
+          ]
+        },
+        {
+          "block_id": "img9_7",
+          "bbox": [
+            0.0,
+            193.8,
+            616.32,
+            218.04
+          ]
+        },
+        {
+          "block_id": "img9_8",
+          "bbox": [
+            0.0,
+            218.04,
+            616.32,
+            242.28
+          ]
+        },
+        {
+          "block_id": "img9_9",
+          "bbox": [
+            0.0,
+            242.28,
+            616.32,
+            266.52
+          ]
+        },
+        {
+          "block_id": "img9_10",
+          "bbox": [
+            0.0,
+            266.52,
+            616.32,
+            290.76
+          ]
+        },
+        {
+          "block_id": "img9_11",
+          "bbox": [
+            0.0,
+            290.76,
+            616.32,
+            315.0
+          ]
+        },
+        {
+          "block_id": "img9_12",
+          "bbox": [
+            0.0,
+            315.0,
+            616.32,
+            339.24
+          ]
+        },
+        {
+          "block_id": "img9_13",
+          "bbox": [
+            0.0,
+            339.24,
+            616.32,
+            363.48
+          ]
+        },
+        {
+          "block_id": "img9_14",
+          "bbox": [
+            0.0,
+            363.48,
+            616.32,
+            387.72
+          ]
+        },
+        {
+          "block_id": "img9_15",
+          "bbox": [
+            0.0,
+            387.72,
+            616.32,
+            411.96
+          ]
+        },
+        {
+          "block_id": "img9_16",
+          "bbox": [
+            0.0,
+            411.96,
+            616.32,
+            436.2
+          ]
+        },
+        {
+          "block_id": "img9_17",
+          "bbox": [
+            0.0,
+            436.2,
+            616.32,
+            460.44
+          ]
+        },
+        {
+          "block_id": "img9_18",
+          "bbox": [
+            0.0,
+            460.44,
+            616.32,
+            484.68
+          ]
+        },
+        {
+          "block_id": "img9_19",
+          "bbox": [
+            0.0,
+            484.68,
+            616.32,
+            508.92
+          ]
+        },
+        {
+          "block_id": "img9_20",
+          "bbox": [
+            0.0,
+            508.92,
+            616.32,
+            533.16
+          ]
+        },
+        {
+          "block_id": "img9_21",
+          "bbox": [
+            0.0,
+            533.16,
+            616.32,
+            557.4
+          ]
+        },
+        {
+          "block_id": "img9_22",
+          "bbox": [
+            0.0,
+            557.4,
+            616.32,
+            581.64
+          ]
+        },
+        {
+          "block_id": "img9_23",
+          "bbox": [
+            0.0,
+            581.64,
+            616.32,
+            605.88
+          ]
+        },
+        {
+          "block_id": "img9_24",
+          "bbox": [
+            0.0,
+            605.88,
+            616.32,
+            630.12
+          ]
+        },
+        {
+          "block_id": "img9_25",
+          "bbox": [
+            0.0,
+            630.12,
+            616.32,
+            654.36
+          ]
+        },
+        {
+          "block_id": "img9_26",
+          "bbox": [
+            0.0,
+            654.36,
+            616.32,
+            678.6
+          ]
+        },
+        {
+          "block_id": "img9_27",
+          "bbox": [
+            0.0,
+            678.6,
+            616.32,
+            702.84
+          ]
+        },
+        {
+          "block_id": "img9_28",
+          "bbox": [
+            0.0,
+            702.84,
+            616.32,
+            727.08
+          ]
+        },
+        {
+          "block_id": "img9_29",
+          "bbox": [
+            0.0,
+            727.08,
+            616.32,
+            751.32
+          ]
+        },
+        {
+          "block_id": "img9_30",
+          "bbox": [
+            0.0,
+            751.32,
+            616.32,
+            775.56
+          ]
+        },
+        {
+          "block_id": "img9_31",
+          "bbox": [
+            0.0,
+            775.56,
+            616.32,
+            799.8
+          ]
+        },
+        {
+          "block_id": "img9_32",
+          "bbox": [
+            0.0,
+            799.8,
+            616.32,
+            824.04
+          ]
+        },
+        {
+          "block_id": "img9_33",
+          "bbox": [
+            0.0,
+            824.04,
+            616.32,
+            842.52
+          ]
+        }
+      ],
+      "dimensions": {
+        "width": 617.0,
+        "height": 843.0
+      },
+      "image_id_map": {}
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "image_id": 1,
+      "page": 7,
+      "path": "pdf_images/p7_i1.png",
+      "text": "",
+      "position": {
+        "x0": 0.0,
+        "y0": 0.32,
+        "x1": 840.96,
+        "y1": 18.08,
+        "width": 840.96,
+        "height": 17.76
+      },
+      "size": {
+        "width": 3504,
+        "height": 74
+      },
+      "format": "png"
+    },
+    {
+      "image_id": 2,
+      "page": 8,
+      "path": "pdf_images/p8_i1.png",
+      "text": "",
+      "position": {
+        "x0": 0.0,
+        "y0": 0.08,
+        "x1": 844.08,
+        "y1": 17.84,
+        "width": 844.08,
+        "height": 17.76
+      },
+      "size": {
+        "width": 3517,
+        "height": 74
+      },
+      "format": "png"
+    }
+  ]
+}
