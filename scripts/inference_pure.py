@@ -3,6 +3,8 @@ import argparse
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel, PeftConfig
+import re
+
 
 def load_model(model_path, device="auto", use_lora=True, base_model=None):
     """Load the fine-tuned model."""
@@ -42,6 +44,11 @@ def generate_response(model, tokenizer, prompt, max_length=2048, temperature=0.7
     # Format the prompt according to the Mistral chat template
     formatted_prompt = f"<s>[INST] {prompt} [/INST]"
     
+
+    print(f"DEBUG: Prompt: {formatted_prompt[:100]}...")
+
+    print("starting tokenizer....\n")
+
     # Tokenize the prompt
     inputs = tokenizer(formatted_prompt, return_tensors="pt").to(model.device)
     
@@ -60,13 +67,24 @@ def generate_response(model, tokenizer, prompt, max_length=2048, temperature=0.7
     # Decode the response
     response = tokenizer.decode(outputs[0], skip_special_tokens=False)
     
+
+    print(f"DEBUG: Raw output: {response}")
+
+
     # Extract only the model's response (after [/INST])
-    response = response.split("[/INST]")[-1].strip()
+
+    if "[/INST]" in response:
+        response = response.split("[/INST]")[-1].strip()
+
     
     # Remove the final </s> if present
     if response.endswith("</s>"):
         response = response[:-4].strip()
     
+
+    response = re.sub(r'\[ANS\]|\[/AN.*?$', '', response).strip()
+
+
     return response
 
 def run_interactive_console(model, tokenizer):

@@ -5,6 +5,8 @@ from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel, PeftConfig
+import re
+
 
 def load_model(model_path, device="auto", use_lora=True, base_model=None):
     """Load the fine-tuned model."""
@@ -55,9 +57,23 @@ def retrieve_context(vector_store, query, k=3):
     retrieved_docs = vector_store.similarity_search(query, k=k)
     
     print("Retrieved Docs:", retrieved_docs)
+
+    # Clean up the context to remove special tags
+    clean_context = []
+    for doc in retrieved_docs:
+        content = doc.page_content
+        # Remove special tags that might confuse the model
+        content = re.sub(r'<<[^>]+>>', '', content)
+        content = re.sub(r'<<[^>]+_END>>', '', content)
+        clean_context.append(content)
+    
+
     context = "\n\n".join([doc.page_content for doc in retrieved_docs])
     sources = [doc.metadata for doc in retrieved_docs]
     
+    print(f"Retrieved Context: {context}")
+
+
     return context, sources
 
 def generate_rag_response(model, tokenizer, query, context, max_length=2048, temperature=0.7, top_p=0.9):
@@ -65,6 +81,10 @@ def generate_rag_response(model, tokenizer, query, context, max_length=2048, tem
     # Format the prompt with the context and query
     formatted_prompt = f"<s>[INST] I need information about the following topic. Use the provided context to answer my question accurately.\n\nContext:\n{context}\n\nQuestion: {query} [/INST]"
     
+
+    print(f"DEBUG: Prompt length: {len(formatted_prompt)}")
+
+
     # Tokenize the prompt
     inputs = tokenizer(formatted_prompt, return_tensors="pt").to(model.device)
     
@@ -84,12 +104,28 @@ def generate_rag_response(model, tokenizer, query, context, max_length=2048, tem
     response = tokenizer.decode(outputs[0], skip_special_tokens=False)
     
     # Extract only the model's response (after [/INST])
-    response = response.split("[/INST]")[-1].strip()
+#    response = response.split("[/INST]")[-1].strip()
     
+    if "[/INST]" in response:
+        response = response.split("[/INST]")[-1].strip()
+    else:
+        print("WARNING: [/INST] tag not found in response")
+
     # Remove the final </s> if present
     if response.endswith("</s>"):
         response = response[:-4].strip()
     
+
+    # Clean up any custom tags
+    response = re.sub(r'\[ANS\]|\[/AN.*?$', '', response).strip()
+
+
+    # Fallback for empty responses
+    if len(response) < 20:
+        print("WARNING: Empty or very short response, using fallback")
+        response = "no response is there or response is less than 20 units"
+
+
     return response
 
 def run_interactive_rag_console(model, tokenizer, vector_store):

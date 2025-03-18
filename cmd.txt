@@ -17,3 +17,11 @@ python scripts/evaluate_model.py     --model_path models/checkpoints/final     -
 python scripts/inference_pure.py --model_path models/checkpoints/final --use_lora --base_model "mistralai/Mistral-7B-v0.1"
 
 
+
+
+the latest rag is working good 
+
+
+python scripts/test_base_model.py --vector_store_path vector_db
+
+
