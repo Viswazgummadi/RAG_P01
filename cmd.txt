@@ -19,9 +19,31 @@ python scripts/inference_pure.py --model_path models/checkpoints/final --use_lor
 
 
 
+# Process all documents
+python preprocess.py --input_dir data2 --output_file processed_data/all_processed.jsonl
+
+# Create clean training data
+python scripts/create_clean_data.py --input_file processed_data/all_processed.jsonl --output_file training_data/full_training.jsonl --num_examples 5
+
+# Train with a pre-tuned instruction model
+python scripts/train_model.py \
+    --dataset_file training_data/full_training.jsonl \
+    --model_name "mistralai/Mistral-7B-Instruct-v0.2" \
+    --output_dir models/instruct_model \
+    --batch_size 1 \
+    --grad_accumulation 16 \
+    --epochs 3 \
+    --use_lora
+
+
+
+
+
+
+
 the latest rag is working good 
 
-
+but working only based on vector db it now have only file should update it with all files data :)
 python scripts/test_base_model.py --vector_store_path vector_db
 
 

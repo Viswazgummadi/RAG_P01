@@ -128,6 +128,32 @@ def generate_rag_response(model, tokenizer, query, context, max_length=2048, tem
 
     return response
 
+
+def extract_key_points(context, query):
+    """Extract key points from context when model fails to generate response."""
+    # Split context into sentences
+    sentences = re.split(r'(?<=[.!?])\s+', context)
+    
+    # Look for sentences containing keywords from the query
+    keywords = query.lower().split()
+    relevant_sentences = []
+    
+    for sentence in sentences:
+        sentence_lower = sentence.lower()
+        if any(keyword in sentence_lower for keyword in keywords) and len(sentence) > 20:
+            relevant_sentences.append(sentence)
+    
+    # If we found relevant sentences, use them
+    if relevant_sentences:
+        response = "Based on the provided information: " + " ".join(relevant_sentences[:3])
+    # Otherwise use the first few sentences
+    else:
+        response = "According to the document: " + " ".join(sentences[:3])
+    
+    return response
+
+
+
 def run_interactive_rag_console(model, tokenizer, vector_store):
     """Run an interactive console for RAG-based chatting with the model."""
     print("Interactive RAG console starting. Type 'exit' to quit.")
