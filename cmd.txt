@@ -3,3 +3,17 @@ srun --partition=gpu --gres=gpu:1 --nodelist=node1 --pty bash -i
 
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate rag_env
+python preprocess.py --input_dir data --output_file processed_data/processed_data.jsonl
+ python vector_db.py --jsonl_file processed_data/processed_data.jsonl --output_dir vector_db
+python scripts/prepare_training_data.py --jsonl_file processed_data/processed_data.jsonl --output_file training_data/training_data.jsonl --num_examples 5
+ python scripts/train_model.py     --dataset_file training_data/training_data.jsonl     --model_name mistralai/Mistral-7B-v0.1     --output_dir models/checkpoints     --batch_size 1     --grad_accumulation 16     --epochs 1
+
+
+python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+python scripts/evaluate_model.py     --model_path models/checkpoints/final     --test_file training_data/training_data.jsonl     --output_file models/evaluation_results.json     --use_lora     --base_model mistralai/Mistral-7B-v0.1     --test_size 5
+
+
+
+python scripts/inference_pure.py --model_path models/checkpoints/final --use_lora --base_model "mistralai/Mistral-7B-v0.1"
+
+
