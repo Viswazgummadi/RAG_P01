@@ -33,6 +33,17 @@ head -n 1 processed_data/all_documents.jsonl | python -m json.tool
 # Check that the vector database was created
 ls -la vector_db/
 
+# First, create the vector_db directory
+mkdir -p vector_db
+
+# Then run vector_db.py with your processed data
+python vector_db.py \
+    --jsonl_file processed_data/all_processed.jsonl \
+    --output_dir vector_db \
+    --chunk_size 1000 \
+    --chunk_overlap 200
+
+
 
 
 
@@ -92,3 +103,7 @@ python scripts/model_comparison_ui.py \
     --vector_store vector_db
 
 
+
+
+#to test the base model and RAG combined use this cmd 
+python scripts/inference_rag.py     --model_path "mistralai/Mistral-7B-Instruct-v0.2"     --vector_store_path vector_db     --k_docs 3

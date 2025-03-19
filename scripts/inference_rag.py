@@ -6,6 +6,25 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel, PeftConfig
 import re
+import datetime
+import json
+
+
+
+def log_query_results(query, context, sources, response, log_file="query_log.jsonl"):
+    """Log query results for later analysis"""
+    log_entry = {
+        "timestamp": datetime.datetime.now().isoformat(),
+        "query": query,
+        "source_files": [src.get("filename", "unknown") for src in sources],
+        "response": response
+    }
+    
+    with open(log_file, "a") as f:
+        f.write(json.dumps(log_entry) + "\n")
+    
+    print(f"Query logged to {log_file}")
+
 
 
 def load_model(model_path, device="auto", use_lora=True, base_model=None):
@@ -153,7 +172,7 @@ def extract_key_points(context, query):
 
 
 
-def run_interactive_rag_console(model, tokenizer, vector_store, k_docs=3):
+def run_interactive_rag_console(model, tokenizer, vector_store, k_docs=3, verbose=False):
     """Run an interactive console for RAG-based chatting with the model."""
     print("Interactive RAG console starting. Type 'exit' to quit.")
     print("-----------------------------------------------------")
@@ -168,7 +187,8 @@ def run_interactive_rag_console(model, tokenizer, vector_store, k_docs=3):
         
         # Retrieve context
         context, sources = retrieve_context(vector_store, user_input, k=k_docs)
-        print("\nRetrieved Context:", context)
+        if verbose:
+            print("\nRetrieved Context:", context)
 
 
         # Generate a response
@@ -177,8 +197,9 @@ def run_interactive_rag_console(model, tokenizer, vector_store, k_docs=3):
         
 
         # Debugging: Check what response is generated
-        print("\nDEBUG: Model Output:", response)
 
+        if verbose:
+            print("\nDEBUG: Model Output:", response)
 
 
         # Print the response and sources
@@ -186,6 +207,9 @@ def run_interactive_rag_console(model, tokenizer, vector_store, k_docs=3):
         print("\nSources:")
         for i, source in enumerate(sources):
             print(f"  {i+1}. {source.get('title', 'Untitled')} (from {source.get('filename', 'unknown')})")
+        # Log the query and response
+        log_query_results(user_input, context, sources, response)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG inference with the fine-tuned model")
@@ -195,6 +219,10 @@ if __name__ == "__main__":
     parser.add_argument("--use_lora", action="store_true", help="Whether the model is a LoRA model")
     parser.add_argument("--base_model", type=str, default=None, help="Base model name if using LoRA")
     parser.add_argument("--k_docs", type=int, default=3, help="Number of documents to retrieve")
+    parser.add_argument("--temperature", type=float, default=0.7, help="Temperature for text generation")
+    parser.add_argument("--verbose", action="store_true", help="Enable verbose debug output")
+    parser.add_argument("--log_file", type=str, default="query_log.jsonl", help="File to log queries and responses")
+
 
 
     args = parser.parse_args()
@@ -206,4 +234,4 @@ if __name__ == "__main__":
     vector_store = load_vector_store(args.vector_store_path)
     
     # Run the interactive console
-    run_interactive_rag_console(model, tokenizer, vector_store, k_docs=args.k_docs)
+    run_interactive_rag_console(model, tokenizer, vector_store, k_docs=args.k_docs, verbose=args.verbose)
