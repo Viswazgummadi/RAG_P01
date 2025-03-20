@@ -1,0 +1,13 @@
+nohup: ignoring input
+Loading model from models/instruct_model/final...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.07s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:02<00:01,  1.09s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:03<00:00,  1.06s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:03<00:00,  1.07s/it]
+Loading test data from training_data/full_training.jsonl...
+Evaluating model on 20 test examples...
+Evaluating model:   0%|          | 0/20 [00:00<?, ?it/s]Evaluating model:   5%|▌         | 1/20 [02:01<38:21, 121.13s/it]Evaluating model:  10%|█         | 2/20 [04:01<36:12, 120.67s/it]Evaluating model:  15%|█▌        | 3/20 [06:02<34:10, 120.64s/it]Evaluating model:  20%|██        | 4/20 [08:02<32:10, 120.63s/it]Evaluating model:  25%|██▌       | 5/20 [10:03<30:08, 120.59s/it]Evaluating model:  30%|███       | 6/20 [12:03<28:07, 120.52s/it]Evaluating model:  35%|███▌      | 7/20 [14:04<26:08, 120.64s/it]Evaluating model:  40%|████      | 8/20 [16:04<24:05, 120.48s/it]Evaluating model:  45%|████▌     | 9/20 [18:04<22:04, 120.39s/it]Evaluating model:  50%|█████     | 10/20 [20:04<20:02, 120.24s/it]Evaluating model:  55%|█████▌    | 11/20 [22:04<18:02, 120.24s/it]Evaluating model:  60%|██████    | 12/20 [24:06<16:03, 120.49s/it]Evaluating model:  65%|██████▌   | 13/20 [26:06<14:02, 120.42s/it]Evaluating model:  70%|███████   | 14/20 [28:06<12:02, 120.36s/it]Evaluating model:  75%|███████▌  | 15/20 [30:06<10:01, 120.26s/it]Evaluating model:  80%|████████  | 16/20 [32:06<08:01, 120.26s/it]Evaluating model:  85%|████████▌ | 17/20 [34:07<06:00, 120.27s/it]Evaluating model:  90%|█████████ | 18/20 [36:07<04:00, 120.25s/it]Evaluating model:  95%|█████████▌| 19/20 [38:07<02:00, 120.21s/it]Evaluating model: 100%|██████████| 20/20 [40:07<00:00, 120.30s/it]Evaluating model: 100%|██████████| 20/20 [40:07<00:00, 120.40s/it]
+
+Evaluation results:
+Average BLEU: 0.0083
+Average ROUGE-1: 0.0335
+Average ROUGE-2: 0.0142
+Average ROUGE-L: 0.0286
+Evaluation results saved to models/evaluation_results.json

@@ -1,0 +1,122 @@
+{
+  "summary": {
+    "total_questions": 4,
+    "successful_retrievals": 1,
+    "retrieval_accuracy": 0.25
+  },
+  "results": [
+    {
+      "question": "What are the requirements for cocoa bean storage structures?",
+      "expected_files": [
+        "storage",
+        "cocoa"
+      ],
+      "retrieved_files": [
+        "10017.txt",
+        "10017.txt",
+        "10017.txt"
+      ],
+      "file_match_success": false,
+      "file_match_accuracy": 0.0,
+      "response": "According to the provided context, the requirements for cocoa bean storage structures include:\n\n1. Effective control of insects and other pests, and exclusion of rain and ground moisture.\n2. Compliance with the standards and codes of practice for handling, transporting, and storing cocoa beans.\n3. Accessibility to lorries and preferably situated near a rail head with goods siding.\n4. Sufficient berthing, loading, and unloading facilities if located near waterways.\n5. The structure may be of any dimensions economically suited to the land available, and the storage capacity should be calculated using a coefficient factor of 0.8m2 per metric tonne of cured cocoa seeds.\n\nThe coefficient factor is derived from 14 bags stacked one over the other, each bag containing 62.5 kg of cocoa beans, 30% floor area for passage in between the stacks, and stacks of 30 bags.",
+      "sources": [
+        {
+          "title": "Untitled Document",
+          "filename": "10017.txt"
+        },
+        {
+          "title": "Untitled Document",
+          "filename": "10017.txt"
+        },
+        {
+          "title": "Untitled Document",
+          "filename": "10017.txt"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about document 1.txt",
+      "expected_files": [
+        "1.txt"
+      ],
+      "retrieved_files": [
+        "18001.txt",
+        "15024_4.txt",
+        "ISO10013.txt"
+      ],
+      "file_match_success": true,
+      "file_match_accuracy": 1.0,
+      "response": "Based on the provided context from IS 18001:2000 standard, the information about document 1.txt cannot be determined directly as there is no specific identification provided for this document. The context outlines the requirements for document control, including identification, review and approval, and distribution.\n\nTo apply this to document 1.txt, we would need to know the following information:\n\n* Organization, division, function, activity, or contact person to which it belongs\n* Appropriate identification number (drawing number, document number, edition, etc.)\n* Type and size of document\n* Document medium (paper, electronic, etc.)\n* Storage place\n* Language version\n* Date of last review and revision\n* Issue number and date\n* Evidence of approval and authorization\n\nWithout this information, it is impossible to accurately determine the details of document 1.txt based on the context provided.",
+      "sources": [
+        {
+          "title": "Indian Standard",
+          "filename": "18001.txt"
+        },
+        {
+          "title": "Indian Standard",
+          "filename": "15024_4.txt"
+        },
+        {
+          "title": "Wfk?fl RIG-m",
+          "filename": "ISO10013.txt"
+        }
+      ]
+    },
+    {
+      "question": "What does the standard say about preventing moisture damage?",
+      "expected_files": [
+        "standard"
+      ],
+      "retrieved_files": [
+        "13182.txt",
+        "ASTM E 337-96 Humidity Measurement.txt",
+        "1609.txt"
+      ],
+      "file_match_success": false,
+      "file_match_accuracy": 0.0,
+      "response": "The standard IS 1609:1991, titled \"Damp-Proofing Treatment Using Bitumen Felts- Code of Practice,\" provides guidance on preventing moisture damage in buildings, specifically in foundations, basements, and walls. The standard covers the methods of application of bitumen felts for damp-proofing treatment to prevent the penetration of moisture and water from an external source at or below ground level. The standard aims to ensure that wet areas of a building, such as bathrooms, kitchens, water closets, balconies, and sunshades, are protected from dampness and leakage, which can lead to unhygienic conditions, health issues, and structural deterioration. The standard applies within a specific temperature and pressure range and emphasizes the importance of safety practices and international coordination. However, it does not cover all safety concerns associated with its use and it is the responsibility of the user to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use.",
+      "sources": [
+        {
+          "title": "Indian Standard",
+          "filename": "13182.txt"
+        },
+        {
+          "title": "Untitled Document",
+          "filename": "ASTM E 337-96 Humidity Measurement.txt"
+        },
+        {
+          "title": "( Third Revision )",
+          "filename": "1609.txt"
+        }
+      ]
+    },
+    {
+      "question": "In the document about storage practices, how should temperature be controlled?",
+      "expected_files": [
+        "storage"
+      ],
+      "retrieved_files": [
+        "API 936 2014 Refractory.txt",
+        "API 936 2014 Refractory(1).txt",
+        "516.txt"
+      ],
+      "file_match_success": false,
+      "file_match_accuracy": 0.0,
+      "response": "According to the provided API Standard 936, refractory materials should be stored at a temperature between 40 \u00b0F to 100 \u00b0F (5 \u00b0C to 38 \u00b0C). The temperature control is important to maintain the quality and shelf life of the refractory materials. If the manufacturer's shelf life recommendations are more stringent, then the manufacturer's restrictions shall apply.\n\nIn the context you provided, there is also a mention of storing ceramic specimens for testing in water at a temperature of 27\u00b0 \u00b1 2\u00b0C until the time of test. However, this is not related to the storage of refractory materials as per the API Standard 936.",
+      "sources": [
+        {
+          "title": "Refractory Installation Quality Control\u2014Inspection and Testing Monolithic",
+          "filename": "API 936 2014 Refractory.txt"
+        },
+        {
+          "title": "Refractory Installation Quality Control\u2014Inspection and Testing Monolithic",
+          "filename": "API 936 2014 Refractory(1).txt"
+        },
+        {
+          "title": "Untitled Document",
+          "filename": "516.txt"
+        }
+      ]
+    }
+  ]
+}

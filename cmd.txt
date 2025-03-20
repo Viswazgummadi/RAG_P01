@@ -83,7 +83,24 @@ python scripts/test_base_model.py --vector_store_path vector_db
 
 
 # Evaluate fine-tuned model with RAG
-python scripts/compare_models.py \
+For Tagged Text Files (like in paste2.txt)
+bash
+python single_document_rag.py \
+    --input_path output_data/IS/10017/10017.txt \
+    --model_path "mistralai/Mistral-7B-Instruct-v0.2"
+For PDF Files
+bash
+python single_document_rag.py \
+    --input_path data1/ENBS/BS-EN-10163-2-2004-pdf.pdf \
+    --model_path "mistralai/Mistral-7B-Instruct-v0.2" \
+    --verbose
+For Fine-tuned Models with LoRA
+bash
+python single_document_rag.py \
+    --input_path data1/ENBS/BS-EN-10163-2-2004-pdf.pdf \
+    --model_path models/instruct_model/final \
+    --use_lora \
+    --base_model "mistralai/Mistral-7B-Instruct-v0.2"python scripts/compare_models.py \
     --finetuned_model models/instruct_model/final \
     --base_model "mistralai/Mistral-7B-Instruct-v0.2" \
     --use_lora \
@@ -107,3 +124,25 @@ python scripts/model_comparison_ui.py \
 
 #to test the base model and RAG combined use this cmd 
 python scripts/inference_rag.py     --model_path "mistralai/Mistral-7B-Instruct-v0.2"     --vector_store_path vector_db     --k_docs 3
+
+
+
+
+For Tagged Text Files (like in paste2.txt)
+bash
+python single_document_rag.py \
+    --input_path output_data/IS/10017/10017.txt \
+    --model_path "mistralai/Mistral-7B-Instruct-v0.2"
+For PDF Files
+bash
+python single_document_rag.py \
+    --input_path data1/ENBS/BS-EN-10163-2-2004-pdf.pdf \
+    --model_path "mistralai/Mistral-7B-Instruct-v0.2" \
+    --verbose
+For Fine-tuned Models with LoRA
+bash
+python single_document_rag.py \
+    --input_path data1/ENBS/BS-EN-10163-2-2004-pdf.pdf \
+    --model_path models/instruct_model/final \
+    --use_lora \
+    --base_model "mistralai/Mistral-7B-Instruct-v0.2"

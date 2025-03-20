@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What are the requirements for cocoa bean storage structures?",
+    "expected_files": ["storage", "cocoa"]
+  },
+  {
+    "question": "Tell me about document 1.txt",
+    "expected_files": ["1.txt"]
+  },
+  {
+    "question": "What does the standard say about preventing moisture damage?",
+    "expected_files": ["standard"]
+  },
+  {
+    "question": "In the document about storage practices, how should temperature be controlled?",
+    "expected_files": ["storage"]
+  }
+]
