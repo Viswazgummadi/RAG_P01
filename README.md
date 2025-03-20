@@ -99,6 +99,3 @@ python scripts/inference_rag.py --model_path models/instruct_model/final \
 - Transformers
 - LangChain
 - FAISS
-
-## License
-This project is licensed under the MIT License.
